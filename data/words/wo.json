@@ -1,5 +1,34 @@
 [
   {
+    "word": "wolf",
+    "say": "wuulf",
+    "emoji": "🐺",
+    "forms": [
+      "wolves"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wild animal like a big dog.",
+          "examples": [
+            "A wolf howled at the moon.",
+            "The wolf lives in the forest.",
+            "Wolves run in packs."
+          ]
+        },
+        "more": {
+          "def": "A large wild animal that looks like a dog and lives and hunts in a group.",
+          "examples": [
+            "A wolf lifted its head and howled at the moon.",
+            "Wolves live in groups called packs.",
+            "The gray wolf walked quietly through the snowy woods."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "woman",
     "say": "WUUM-un",
     "forms": [
@@ -84,6 +113,54 @@
             "We had a wonderful time at the beach.",
             "The wonderful smell of fresh bread filled the kitchen.",
             "She sang a wonderful song at the concert."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wood",
+    "say": "wuud",
+    "emoji": "🪵",
+    "forms": [
+      "woods"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The hard part of a tree.",
+          "examples": [
+            "The table is made of wood.",
+            "We put wood on the fire.",
+            "I carved the wood."
+          ]
+        },
+        "more": {
+          "def": "The hard material that trees are made of, used to build things or burn in a fire.",
+          "examples": [
+            "The cabin was built of wood from the nearby forest.",
+            "Dad chopped wood for the fire.",
+            "A piece of wood floated down the river."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place with many trees.",
+          "examples": [
+            "We walked through the woods.",
+            "A fox lives in the woods.",
+            "The woods are quiet."
+          ]
+        },
+        "more": {
+          "def": "A large area of land covered with trees, smaller than a forest.",
+          "examples": [
+            "We hiked through the woods and found a stream.",
+            "Deer hide in the woods at the edge of town.",
+            "The path through the woods was covered in leaves."
           ]
         }
       }
@@ -219,6 +296,34 @@
       {
         "word": "workable",
         "def": "Able to work or be done."
+      }
+    ]
+  },
+  {
+    "word": "worker",
+    "say": "WER-ker",
+    "forms": [
+      "workers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who does a job.",
+          "examples": [
+            "The worker fixed the road.",
+            "Many workers build houses.",
+            "The workers took a break."
+          ]
+        },
+        "more": {
+          "def": "A person who does a job, especially one who works with their hands.",
+          "examples": [
+            "The workers repaired the road.",
+            "A factory worker helped make toys.",
+            "The bees are hard workers that gather nectar all day."
+          ]
+        }
       }
     ]
   },

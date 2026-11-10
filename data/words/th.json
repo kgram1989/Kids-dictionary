@@ -438,6 +438,36 @@
     ]
   },
   {
+    "word": "thin",
+    "say": "thin",
+    "forms": [
+      "thinner",
+      "thinnest",
+      "thinly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not thick.",
+          "examples": [
+            "A thin line is on the paper.",
+            "The ice is thin.",
+            "I read a thin book."
+          ]
+        },
+        "more": {
+          "def": "Not thick or fat, with only a small distance from one side to the other.",
+          "examples": [
+            "A thin layer of ice covered the pond.",
+            "The thin book took only a day to read.",
+            "She spread a thin coat of butter on the toast."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thing",
     "say": "thing",
     "forms": [
@@ -674,6 +704,34 @@
             "A thousand meters make one kilometer.",
             "Thousands of fans cheered for the team.",
             "The ancient tree is over a thousand years old."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "threat",
+    "say": "thret",
+    "forms": [
+      "threats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A warning that something bad may happen.",
+          "examples": [
+            "The dark clouds were a threat of rain.",
+            "A big storm is a threat.",
+            "The loud dog is not a real threat."
+          ]
+        },
+        "more": {
+          "def": "Something that could cause harm, or a warning that harm may come.",
+          "examples": [
+            "Dark clouds in the sky were a threat of a storm.",
+            "Pollution is a threat to fish in the river.",
+            "The wasps were a threat to the picnic."
           ]
         }
       }

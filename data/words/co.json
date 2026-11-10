@@ -49,6 +49,37 @@
     ]
   },
   {
+    "word": "coast",
+    "say": "kohst",
+    "emoji": "🏖️",
+    "forms": [
+      "coasts",
+      "coasted",
+      "coasting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The land next to the sea.",
+          "examples": [
+            "We drove along the coast.",
+            "The town is on the coast.",
+            "Boats wait near the coast."
+          ]
+        },
+        "more": {
+          "def": "The land along the edge of the sea.",
+          "examples": [
+            "Crabs and shells wash up on the coast after a storm.",
+            "The ship stayed close to the coast.",
+            "Lighthouses warn sailors of rocks near the coast."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "coat",
     "say": "koht",
     "emoji": "🧥",
@@ -568,6 +599,34 @@
     ]
   },
   {
+    "word": "committee",
+    "say": "kuh-MIT-ee",
+    "forms": [
+      "committees"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small group that makes plans together.",
+          "examples": [
+            "The committee planned the party.",
+            "She is on the school committee.",
+            "The committee met after lunch."
+          ]
+        },
+        "more": {
+          "def": "A group of people chosen to make plans or decisions for a larger group.",
+          "examples": [
+            "The picnic committee chose the food and the games.",
+            "A committee of students planned the school fair.",
+            "The committee voted on a new name for the club."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "common",
     "say": "KOM-un",
     "forms": [
@@ -703,6 +762,34 @@
     ]
   },
   {
+    "word": "competition",
+    "say": "kom-puh-TISH-un",
+    "forms": [
+      "competitions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A contest where people try to win.",
+          "examples": [
+            "I won the spelling competition.",
+            "The race was a competition.",
+            "There is a swim competition."
+          ]
+        },
+        "more": {
+          "def": "A contest in which people or teams try to do better than the others.",
+          "examples": [
+            "She won first prize in the art competition.",
+            "The two teams were in fierce competition for the cup.",
+            "Our school has a spelling competition every spring."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "complain",
     "say": "kum-PLAYN",
     "forms": [
@@ -784,6 +871,37 @@
       {
         "word": "completeness",
         "def": "Being whole, with nothing missing."
+      }
+    ]
+  },
+  {
+    "word": "complicated",
+    "say": "KOM-pluh-kay-tid",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not easy to understand.",
+          "examples": [
+            "The game is complicated.",
+            "The directions are complicated.",
+            "This puzzle is very complicated."
+          ]
+        },
+        "more": {
+          "def": "Having many parts that are hard to understand or do.",
+          "examples": [
+            "The rules of the game were so complicated that we read them twice.",
+            "A watch is a complicated machine with many tiny gears.",
+            "The map was complicated, with roads going every way."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "uncomplicated",
+        "def": "Easy and not complicated."
       }
     ]
   },
@@ -938,6 +1056,64 @@
             "Snowy conditions closed the school.",
             "Plants grow best in sunny conditions.",
             "The conditions on the mountain were windy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "conference",
+    "say": "KON-fer-unss",
+    "forms": [
+      "conferences"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big meeting to talk about something.",
+          "examples": [
+            "Mom went to a conference.",
+            "The teachers had a conference.",
+            "The conference was in a big hall."
+          ]
+        },
+        "more": {
+          "def": "A large meeting where people come together to talk about a subject.",
+          "examples": [
+            "Teachers from many schools attended the science conference.",
+            "Parents meet with teachers at a conference in the fall.",
+            "The mayors held a conference to talk about clean water."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "confess",
+    "say": "kun-FESS",
+    "forms": [
+      "confesses",
+      "confessed",
+      "confessing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say that you did something wrong.",
+          "examples": [
+            "I confess I ate the cookie.",
+            "He confessed to the broken cup.",
+            "She confessed that she was scared."
+          ]
+        },
+        "more": {
+          "def": "To admit that you did something wrong or a fact that you did not want to say.",
+          "examples": [
+            "He confessed that he had broken the window.",
+            "She confessed that she was afraid of the dark.",
+            "The boy confessed to taking the last cookie."
           ]
         }
       }
@@ -1393,6 +1569,32 @@
     ]
   },
   {
+    "word": "cooking",
+    "say": "KUUK-ing",
+    "emoji": "🍳",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Making food ready to eat.",
+          "examples": [
+            "I like cooking.",
+            "Cooking is fun.",
+            "Dad does the cooking."
+          ]
+        },
+        "more": {
+          "def": "The act of making food by heating it or mixing it.",
+          "examples": [
+            "Grandpa's cooking is the best in the family.",
+            "Cooking dinner takes about an hour.",
+            "We learned about cooking in class."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cool",
     "say": "kool",
     "emoji": "🧊",
@@ -1673,6 +1875,35 @@
             "The book costs ten dollars.",
             "How much does a pizza cost?",
             "That bike costs more than my allowance."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "couch",
+    "say": "kowch",
+    "emoji": "🛋️",
+    "forms": [
+      "couches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, soft seat for two or more people.",
+          "examples": [
+            "We sit on the couch.",
+            "The cat sleeps on the couch.",
+            "The couch is soft."
+          ]
+        },
+        "more": {
+          "def": "A long, soft seat with a back and arms, where several people can sit.",
+          "examples": [
+            "We watched a movie on the couch.",
+            "The cat curled up on the couch for a nap.",
+            "Dad put a blanket on the couch."
           ]
         }
       }
@@ -2059,6 +2290,35 @@
             "The cow grazed in the green pasture.",
             "Farmers milk the cows every morning.",
             "A cow can eat grass all day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cowboy",
+    "say": "KOW-boy",
+    "emoji": "🤠",
+    "forms": [
+      "cowboys"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man who takes care of cattle on a ranch.",
+          "examples": [
+            "The cowboy rode a horse.",
+            "He wore a cowboy hat.",
+            "The cowboy rounded up the cows."
+          ]
+        },
+        "more": {
+          "def": "A worker on a ranch who rides horses and takes care of cattle.",
+          "examples": [
+            "The cowboy rode out at dawn to check the herd.",
+            "He wore a big hat and boots like a cowboy.",
+            "The cowboys moved the cattle across the plains."
           ]
         }
       }

@@ -368,6 +368,37 @@
     ]
   },
   {
+    "word": "spin",
+    "say": "spin",
+    "emoji": "🌀",
+    "forms": [
+      "spins",
+      "spun",
+      "spinning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To turn around and around fast.",
+          "examples": [
+            "The top will spin.",
+            "I spin in a circle.",
+            "The wheel spun."
+          ]
+        },
+        "more": {
+          "def": "To turn around and around quickly, or to make something do this.",
+          "examples": [
+            "The ice skater spun on one foot.",
+            "The washing machine spins the clothes dry.",
+            "The dancers spun in a circle."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "spirit",
     "say": "SPIR-it",
     "forms": [
@@ -409,6 +440,36 @@
             "The spirit of the old house moved the curtains.",
             "In the legend, a spirit lived in the lake.",
             "The story has a kind spirit that helps a lost child."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spit",
+    "say": "spit",
+    "forms": [
+      "spits",
+      "spat",
+      "spitting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To push water or food out from your mouth.",
+          "examples": [
+            "Do not spit.",
+            "The baby spit out the peas.",
+            "The camel spat."
+          ]
+        },
+        "more": {
+          "def": "To force something out of your mouth.",
+          "examples": [
+            "He spit out a seed from the watermelon.",
+            "The llama spat grass at the zookeeper.",
+            "The cat spit when it got scared."
           ]
         }
       }
@@ -459,6 +520,43 @@
             "The ice had a long split down the middle."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "spoil",
+    "say": "spoyl",
+    "forms": [
+      "spoils",
+      "spoiled",
+      "spoilt",
+      "spoiling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something bad or not good.",
+          "examples": [
+            "Rain will spoil our picnic.",
+            "The milk will spoil.",
+            "Do not spoil the surprise."
+          ]
+        },
+        "more": {
+          "def": "To ruin something, or to go bad and become unfit to eat.",
+          "examples": [
+            "The rain spoiled our picnic.",
+            "Milk can spoil if it is not kept cold.",
+            "He spoiled the surprise by telling us."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "spoiler",
+        "def": "Something that tells how a story ends before you read it."
       }
     ]
   },

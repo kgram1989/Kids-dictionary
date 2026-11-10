@@ -216,6 +216,110 @@
     ]
   },
   {
+    "word": "boom",
+    "say": "boom",
+    "emoji": "💥",
+    "forms": [
+      "booms",
+      "boomed",
+      "booming"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A deep, loud sound.",
+          "examples": [
+            "I heard a boom.",
+            "The thunder gave a boom.",
+            "A boom shook the house."
+          ]
+        },
+        "more": {
+          "def": "A very loud, deep sound like thunder or a big drum.",
+          "examples": [
+            "A boom of thunder made the dog hide.",
+            "The drum made a deep boom.",
+            "We heard the boom of fireworks."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a deep, loud sound.",
+          "examples": [
+            "The thunder boomed.",
+            "The drum booms.",
+            "His voice boomed."
+          ]
+        },
+        "more": {
+          "def": "To make a deep, loud sound that echoes.",
+          "examples": [
+            "Thunder boomed over the hills.",
+            "The big drum boomed in the parade.",
+            "The teacher's voice boomed across the gym."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "booth",
+    "say": "booth",
+    "forms": [
+      "booths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small closed place for one job or a small stand.",
+          "examples": [
+            "Buy a ticket at the booth.",
+            "The booth sells popcorn.",
+            "The photo booth is fun."
+          ]
+        },
+        "more": {
+          "def": "A small area or stand that is partly closed in, used for selling things or for privacy.",
+          "examples": [
+            "We bought tickets at the ticket booth.",
+            "Our class ran a booth at the school fair.",
+            "A phone booth has glass walls and a door."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "boring",
+    "say": "BOR-ing",
+    "emoji": "😴",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not interesting.",
+          "examples": [
+            "The movie was boring.",
+            "This is a boring game.",
+            "Waiting is boring."
+          ]
+        },
+        "more": {
+          "def": "Dull and not interesting, so that you feel tired of it.",
+          "examples": [
+            "The long, boring speech made me sleepy.",
+            "Doing the same chore every day can be boring.",
+            "The trip was boring until we saw a deer."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "born",
     "say": "born",
     "senses": [
@@ -452,6 +556,86 @@
             "The river forms the boundary between the two countries.",
             "The ball rolled past the boundary, so play stopped.",
             "Mountains form a natural boundary between the two valleys."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bow",
+    "say": "bow",
+    "emoji": "🙇",
+    "forms": [
+      "bows",
+      "bowed",
+      "bowing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To bend forward to show thanks or respect.",
+          "examples": [
+            "The actors bow.",
+            "I bowed to the teacher.",
+            "The dancers bowed."
+          ]
+        },
+        "more": {
+          "def": "To bend your body forward at the waist to show respect or to thank an audience.",
+          "examples": [
+            "The actors bowed at the end of the play.",
+            "The knights bowed to the queen.",
+            "She bowed her head in thanks."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A ribbon tied in a pretty way.",
+          "examples": [
+            "She tied a bow in her hair.",
+            "The gift has a red bow.",
+            "The ribbon makes a bow."
+          ]
+        },
+        "more": {
+          "def": "A knot made with loops, used to tie ribbons and shoelaces.",
+          "examples": [
+            "He tied his shoes with a neat bow.",
+            "A big red bow decorated the gift.",
+            "She wore a bow in her hair."
+          ]
+        },
+        "say": "boh"
+      }
+    ]
+  },
+  {
+    "word": "bowl",
+    "say": "bohl",
+    "emoji": "🥣",
+    "forms": [
+      "bowls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A deep, round dish for food.",
+          "examples": [
+            "I eat soup from a bowl.",
+            "The bowl is full of fruit.",
+            "The dog has a water bowl."
+          ]
+        },
+        "more": {
+          "def": "A deep, round dish used for holding food or liquid.",
+          "examples": [
+            "She poured cereal into a bowl.",
+            "A bowl of apples sat on the table.",
+            "The puppy drank from its bowl."
           ]
         }
       }

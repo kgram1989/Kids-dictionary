@@ -30,6 +30,35 @@
     ]
   },
   {
+    "word": "dragon",
+    "say": "DRAG-un",
+    "emoji": "🐉",
+    "forms": [
+      "dragons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big make-believe animal with wings that breathes fire.",
+          "examples": [
+            "The dragon flew over the castle.",
+            "We read a book about a dragon.",
+            "The dragon had green scales."
+          ]
+        },
+        "more": {
+          "def": "A make-believe animal in stories that looks like a giant lizard with wings and can breathe fire.",
+          "examples": [
+            "The knight in the story fought a fierce dragon.",
+            "In many tales, a dragon guards a pile of gold.",
+            "He drew a dragon with red wings and sharp claws."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "draw",
     "say": "draw",
     "forms": [
@@ -417,6 +446,36 @@
             "During the drought, the farmers' fields turned brown.",
             "After the long drought, the river was only a trickle.",
             "The town asked people to save water during the drought."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drown",
+    "say": "drown",
+    "forms": [
+      "drowns",
+      "drowned",
+      "drowning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To die because you are in water and cannot breathe.",
+          "examples": [
+            "The lifeguard watches so no one will drown.",
+            "A tiny ant almost drowned in a puddle.",
+            "The sailors were saved before they could drown."
+          ]
+        },
+        "more": {
+          "def": "To die by breathing in water because you cannot get air.",
+          "examples": [
+            "Lifeguards are trained to rescue swimmers who might drown.",
+            "The little mouse nearly drowned when it fell in the rain barrel.",
+            "The sailors wore life jackets, so they did not drown when the boat tipped."
           ]
         }
       }

@@ -1,5 +1,33 @@
 [
   {
+    "word": "quality",
+    "say": "KWOL-uh-tee",
+    "forms": [
+      "qualities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How good or bad something is.",
+          "examples": [
+            "This is a good quality toy.",
+            "The quality of the picture is good.",
+            "The shoes are high quality."
+          ]
+        },
+        "more": {
+          "def": "How good something is, or a feature that makes a person or thing what they are.",
+          "examples": [
+            "The quality of the photo was very sharp.",
+            "Honesty is a quality that many people admire.",
+            "This chair is of good quality and will last for years."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "quarrel",
     "say": "KWOR-ul",
     "forms": [
@@ -22,6 +50,54 @@
             "After their quarrel, the two friends said sorry to each other.",
             "The brothers ended their quarrel with a handshake.",
             "A quarrel broke out over whose turn it was."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "quarter",
+    "say": "KWOR-ter",
+    "emoji": "🪙",
+    "forms": [
+      "quarters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One of four equal parts.",
+          "examples": [
+            "I ate a quarter of the pie.",
+            "Cut the apple in quarters.",
+            "A quarter is a fourth."
+          ]
+        },
+        "more": {
+          "def": "One of four equal parts that make a whole.",
+          "examples": [
+            "A quarter of the class has red hair.",
+            "The game is divided into four quarters.",
+            "Add a quarter of a cup of milk."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A coin worth twenty-five cents.",
+          "examples": [
+            "I have a quarter.",
+            "A quarter is a coin.",
+            "I put a quarter in the machine."
+          ]
+        },
+        "more": {
+          "def": "A coin worth twenty-five cents, or one fourth of a dollar.",
+          "examples": [
+            "Four quarters make one dollar.",
+            "He found a shiny quarter under the couch.",
+            "I paid for the sticker with a quarter."
           ]
         }
       }

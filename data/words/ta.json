@@ -266,6 +266,55 @@
     ]
   },
   {
+    "word": "tap",
+    "say": "tap",
+    "forms": [
+      "taps",
+      "tapped",
+      "tapping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit lightly.",
+          "examples": [
+            "Tap me on the shoulder.",
+            "She tapped on the door.",
+            "I tap my foot."
+          ]
+        },
+        "more": {
+          "def": "To touch or hit something lightly, again and again.",
+          "examples": [
+            "He tapped on the window to get our attention.",
+            "She tapped her foot to the music.",
+            "The woodpecker tapped on the tree."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing that you turn to let water out.",
+          "examples": [
+            "Turn the tap off.",
+            "The tap is dripping.",
+            "Water came out of the tap."
+          ]
+        },
+        "more": {
+          "def": "A device that you turn or press to make water or other liquid flow out of a pipe.",
+          "examples": [
+            "She turned off the tap after washing her hands.",
+            "The tap in the kitchen dripped all night.",
+            "He filled the glass from the tap."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tape",
     "say": "tayp",
     "forms": [
@@ -445,6 +494,65 @@
             "Grandpa makes a tasty vegetable stew.",
             "The market sells tasty fresh bread.",
             "Add some herbs to make the sauce more tasty."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tax",
+    "say": "taks",
+    "forms": [
+      "taxes",
+      "taxed",
+      "taxing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money that people pay to the government.",
+          "examples": [
+            "We pay a tax when we buy things.",
+            "Taxes pay for roads.",
+            "Taxes help build schools."
+          ]
+        },
+        "more": {
+          "def": "Money that people and businesses pay to the government to pay for things like roads and schools.",
+          "examples": [
+            "Taxes pay for roads, parks and schools.",
+            "The tax on a toy makes it cost a little more.",
+            "Families pay taxes every year."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "taxi",
+    "say": "TAK-see",
+    "emoji": "🚕",
+    "forms": [
+      "taxis"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A car with a driver that you pay to take you places.",
+          "examples": [
+            "We took a taxi to the airport.",
+            "The taxi is yellow.",
+            "The taxi stopped for us."
+          ]
+        },
+        "more": {
+          "def": "A car with a driver that takes people where they want to go for money.",
+          "examples": [
+            "We hailed a taxi in the rain.",
+            "The taxi driver knew the quickest way to the station.",
+            "A taxi took us from the hotel to the train station."
           ]
         }
       }

@@ -55,6 +55,55 @@
     ]
   },
   {
+    "word": "plain",
+    "say": "playn",
+    "forms": [
+      "plainer",
+      "plainest",
+      "plainly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Simple, with nothing added.",
+          "examples": [
+            "I like plain pasta.",
+            "The room is plain.",
+            "She wore a plain dress."
+          ]
+        },
+        "more": {
+          "def": "Simple and ordinary, without decoration or anything extra.",
+          "examples": [
+            "He wore a plain white shirt.",
+            "The cake was plain, with no frosting.",
+            "The plain wooden table had no paint at all."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large, flat piece of land.",
+          "examples": [
+            "Buffalo walked on the plain.",
+            "The farm is on a plain.",
+            "We crossed the wide plain."
+          ]
+        },
+        "more": {
+          "def": "A large area of flat land with few trees.",
+          "examples": [
+            "Herds of bison once roamed the great plains.",
+            "The train rolled across the flat plain.",
+            "Wheat grows well on the wide plain."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "plan",
     "say": "plan",
     "forms": [
@@ -362,6 +411,34 @@
     ]
   },
   {
+    "word": "pleasant",
+    "say": "PLEZ-unt",
+    "forms": [
+      "pleasantly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Nice to see, hear or be with.",
+          "examples": [
+            "We had a pleasant day.",
+            "The weather is pleasant.",
+            "She has a pleasant voice."
+          ]
+        },
+        "more": {
+          "def": "Giving you a feeling of enjoyment, or friendly and kind.",
+          "examples": [
+            "We spent a pleasant afternoon by the lake.",
+            "The weather was warm and pleasant.",
+            "Our new neighbor is very pleasant and always says hello."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "please",
     "say": "pleez",
     "senses": [
@@ -381,6 +458,32 @@
             "Please close the door quietly when you leave.",
             "Could I have some more water, please?",
             "Please be careful with the glass."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pleased",
+    "say": "pleezd",
+    "emoji": "😊",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happy about something.",
+          "examples": [
+            "I was pleased with my picture.",
+            "Mom looked pleased.",
+            "The dog seems pleased to see us."
+          ]
+        },
+        "more": {
+          "def": "Feeling glad and satisfied because something went well.",
+          "examples": [
+            "The coach was pleased with how hard the team worked.",
+            "She was pleased to get an A on her report.",
+            "The farmer was pleased when the rain finally came."
           ]
         }
       }

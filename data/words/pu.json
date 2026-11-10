@@ -74,6 +74,84 @@
     ]
   },
   {
+    "word": "pulse",
+    "say": "pulss",
+    "emoji": "❤️",
+    "forms": [
+      "pulses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The beat of your heart that you can feel in your wrist.",
+          "examples": [
+            "The nurse felt my pulse.",
+            "My pulse is fast after running.",
+            "I felt my pulse in my neck."
+          ]
+        },
+        "more": {
+          "def": "The steady beat of blood pushed through your body by your heart, which you can feel in your wrist or neck.",
+          "examples": [
+            "The nurse counted my pulse for one minute.",
+            "Your pulse speeds up when you run.",
+            "I put my fingers on my wrist to find my pulse."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pump",
+    "say": "pump",
+    "forms": [
+      "pumps",
+      "pumped",
+      "pumping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that moves water or air.",
+          "examples": [
+            "We use a pump to put air in the tire.",
+            "The pump brings water to the house.",
+            "Dad used a pump for the ball."
+          ]
+        },
+        "more": {
+          "def": "A machine or tool that moves water, air or other liquids from one place to another.",
+          "examples": [
+            "I used a bike pump to fill the tire with air.",
+            "The pump moves water up from the well.",
+            "A fire truck has a strong pump."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move water or air with a machine.",
+          "examples": [
+            "Pump the water.",
+            "I pumped air into the ball.",
+            "He pumps the tire."
+          ]
+        },
+        "more": {
+          "def": "To push air or liquid along in a steady flow, as a machine or a heart does.",
+          "examples": [
+            "She pumped up the bike tire.",
+            "The heart pumps blood all around the body.",
+            "The farmer pumped water into the trough."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "punch",
     "say": "punch",
     "forms": [
@@ -136,6 +214,66 @@
             "We drank cold fruit punch at the party.",
             "The punch bowl was full of red juice.",
             "Mom served punch at the picnic."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "punish",
+    "say": "PUN-ish",
+    "forms": [
+      "punishes",
+      "punished",
+      "punishing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone have a bad result for doing wrong.",
+          "examples": [
+            "Mom did not punish me.",
+            "The teacher punishes cheating.",
+            "They punished the player."
+          ]
+        },
+        "more": {
+          "def": "To give someone a penalty for something they did wrong.",
+          "examples": [
+            "The coach punished the team by making them run extra laps.",
+            "It is not fair to punish a child for something they did not do.",
+            "The judge punished the thief."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pure",
+    "say": "pyoor",
+    "forms": [
+      "purer",
+      "purest",
+      "purely"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Clean, with nothing else mixed in.",
+          "examples": [
+            "The water is pure.",
+            "This is pure gold.",
+            "The air in the mountains is pure."
+          ]
+        },
+        "more": {
+          "def": "Clean and clear, with nothing added or mixed in.",
+          "examples": [
+            "The pure white snow sparkled in the sun.",
+            "The ring was made of pure gold.",
+            "The spring gives pure water."
           ]
         }
       }

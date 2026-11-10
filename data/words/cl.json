@@ -181,6 +181,36 @@
     ]
   },
   {
+    "word": "clever",
+    "say": "KLEV-er",
+    "emoji": "🧠",
+    "forms": [
+      "cleverer",
+      "cleverest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Quick to learn and think.",
+          "examples": [
+            "The clever fox got away.",
+            "She is a clever girl.",
+            "That is a clever idea."
+          ]
+        },
+        "more": {
+          "def": "Smart and quick at solving problems or coming up with ideas.",
+          "examples": [
+            "The clever crow dropped nuts on the road to crack them.",
+            "He made a clever trap to catch the runaway ball.",
+            "It was clever of you to bring an umbrella."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "climate",
     "say": "KLY-mut",
     "emoji": "🌍",
@@ -373,6 +403,72 @@
     ]
   },
   {
+    "word": "cloud",
+    "say": "klowd",
+    "emoji": "☁️",
+    "forms": [
+      "clouds",
+      "clouded",
+      "clouding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A white or gray shape in the sky.",
+          "examples": [
+            "A cloud is in the sky.",
+            "The cloud looks like a rabbit.",
+            "Dark clouds mean rain."
+          ]
+        },
+        "more": {
+          "def": "A mass of tiny drops of water floating high in the sky.",
+          "examples": [
+            "Dark clouds rolled in before the storm.",
+            "We lay on the grass and watched the clouds drift by.",
+            "Rain falls from the clouds."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "cloudless",
+        "def": "Without clouds."
+      }
+    ]
+  },
+  {
+    "word": "clown",
+    "say": "klown",
+    "emoji": "🤡",
+    "forms": [
+      "clowns"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A funny circus performer with a painted face.",
+          "examples": [
+            "The clown made us laugh.",
+            "The clown has a big red nose.",
+            "A clown juggled at the party."
+          ]
+        },
+        "more": {
+          "def": "A performer who wears a funny costume and makes people laugh.",
+          "examples": [
+            "The clown juggled balls at the circus.",
+            "A clown with a red nose gave balloons to the children.",
+            "The class laughed at the clown's silly tricks."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "club",
     "say": "klub",
     "forms": [
@@ -414,6 +510,35 @@
             "He chose a different club for the long shot.",
             "She swung the club and the ball sailed away.",
             "Golf clubs are kept in a bag."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clue",
+    "say": "kloo",
+    "emoji": "🔎",
+    "forms": [
+      "clues"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hint that helps you find an answer.",
+          "examples": [
+            "The footprint was a clue.",
+            "I found a clue.",
+            "This clue helps solve it."
+          ]
+        },
+        "more": {
+          "def": "A fact or object that helps you solve a puzzle or mystery.",
+          "examples": [
+            "The muddy footprints were a clue to who had been in the kitchen.",
+            "The word puzzle has a clue for every box.",
+            "The detective found a clue in the garden."
           ]
         }
       }

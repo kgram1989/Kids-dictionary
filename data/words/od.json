@@ -1,0 +1,51 @@
+[
+  {
+    "word": "odd",
+    "say": "od",
+    "forms": [
+      "odder",
+      "oddest",
+      "oddly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Strange.",
+          "examples": [
+            "That is an odd noise.",
+            "It was an odd hat.",
+            "The dog did something odd."
+          ]
+        },
+        "more": {
+          "def": "Strange or different from what is usual.",
+          "examples": [
+            "It was odd to see snow in the spring.",
+            "The odd noise from the attic made us curious.",
+            "He had an odd way of walking, with a bounce."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not able to be shared into two equal groups.",
+          "examples": [
+            "Three is an odd number.",
+            "Seven is odd.",
+            "One, three and five are odd numbers."
+          ]
+        },
+        "more": {
+          "def": "Describing a whole number that cannot be divided evenly by two, such as 1, 3 or 5.",
+          "examples": [
+            "Seven is an odd number because it leaves one left over.",
+            "The odd numbers go 1, 3, 5, 7.",
+            "When you divide an odd number by two, you get a half left over."
+          ]
+        }
+      }
+    ]
+  }
+]

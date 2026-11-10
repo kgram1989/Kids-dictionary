@@ -105,6 +105,34 @@
     ]
   },
   {
+    "word": "failure",
+    "say": "FAYL-yer",
+    "forms": [
+      "failures"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Not succeeding.",
+          "examples": [
+            "The test was a failure.",
+            "My plan was a failure.",
+            "The failure taught me something."
+          ]
+        },
+        "more": {
+          "def": "A time when someone or something does not succeed.",
+          "examples": [
+            "The experiment ended in failure.",
+            "A power failure left the town in the dark.",
+            "Every failure taught him something new."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fair",
     "say": "fair",
     "forms": [
@@ -316,6 +344,40 @@
     ]
   },
   {
+    "word": "false",
+    "say": "fawls",
+    "forms": [
+      "falsely"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not true.",
+          "examples": [
+            "The answer is false.",
+            "The sentence is false.",
+            "That is a false story."
+          ]
+        },
+        "more": {
+          "def": "Not true or not correct.",
+          "examples": [
+            "The answer \"four\" is false because two plus two is not four.",
+            "She told a false story about her dog.",
+            "The sign gave a false warning."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "falsehood",
+        "def": "Something false that is said as true."
+      }
+    ]
+  },
+  {
     "word": "familiar",
     "say": "fuh-MIL-yer",
     "senses": [
@@ -497,6 +559,35 @@
             "We had a fantastic time at the beach.",
             "The magic show was fantastic.",
             "She came up with a fantastic idea."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fantasy",
+    "say": "FAN-tuh-see",
+    "emoji": "🧙",
+    "forms": [
+      "fantasies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A make-believe story or dream.",
+          "examples": [
+            "I like fantasy books.",
+            "A dragon is in this fantasy.",
+            "He lives in a fantasy world."
+          ]
+        },
+        "more": {
+          "def": "A story or idea that is imagined and could not happen in real life.",
+          "examples": [
+            "She loves fantasy stories about dragons and wizards.",
+            "The movie is a fantasy set in a magical land.",
+            "He lives in a fantasy world in his games."
           ]
         }
       }
@@ -688,6 +779,34 @@
             "Whales have a thick layer of fat that keeps them warm.",
             "Butter and oil are mostly fat.",
             "Bears store fat before the long winter sleep."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fate",
+    "say": "fayt",
+    "forms": [
+      "fates"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What happens to someone in the end.",
+          "examples": [
+            "The sailor's fate was a mystery.",
+            "It was their fate to meet again.",
+            "No one knew the fate of the lost kitten."
+          ]
+        },
+        "more": {
+          "def": "The things that will happen to someone, which some people believe are decided ahead of time.",
+          "examples": [
+            "The old story tells the fate of a brave knight.",
+            "Some people believe fate brought two friends together.",
+            "The fate of the old ship was never found."
           ]
         }
       }

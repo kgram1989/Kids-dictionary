@@ -74,6 +74,35 @@
     ]
   },
   {
+    "word": "package",
+    "say": "PAK-ij",
+    "emoji": "📦",
+    "forms": [
+      "packages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A box or bag with things wrapped up inside.",
+          "examples": [
+            "The mailman brought a package.",
+            "I opened the package.",
+            "The package is for you."
+          ]
+        },
+        "more": {
+          "def": "Something that is wrapped or put in a box so that it can be carried or mailed.",
+          "examples": [
+            "A package arrived from my aunt on my birthday.",
+            "She tied string around the package before mailing it.",
+            "The package of crackers is on the shelf."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "page",
     "say": "payj",
     "emoji": "📄",
@@ -562,6 +591,32 @@
     ]
   },
   {
+    "word": "parking",
+    "say": "PAR-king",
+    "emoji": "🅿️",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place or time when you leave a car.",
+          "examples": [
+            "We found parking near the park.",
+            "Parking is free.",
+            "The parking lot is full."
+          ]
+        },
+        "more": {
+          "def": "The act of leaving a car in a place, or space for doing so.",
+          "examples": [
+            "There is no parking in front of the school.",
+            "We looked for parking for ten minutes.",
+            "Parking is free on Sundays."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "part",
     "say": "part",
     "forms": [
@@ -584,6 +639,34 @@
             "The wheel is one part of the bicycle.",
             "Which part of the story did you like best?",
             "He ate a small part of the cake and saved the rest."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "particular",
+    "say": "per-TIK-yuh-ler",
+    "forms": [
+      "particularly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "One special thing and not any other.",
+          "examples": [
+            "I want this particular book.",
+            "Is there a particular color you like?",
+            "She sat in one particular chair."
+          ]
+        },
+        "more": {
+          "def": "Being one single thing or person, and not any other.",
+          "examples": [
+            "He wanted that particular toy and no other.",
+            "Is there a particular reason you are laughing?",
+            "Each bird has a particular call that tells others who it is."
           ]
         }
       }
@@ -720,6 +803,63 @@
     ]
   },
   {
+    "word": "passenger",
+    "say": "PASS-in-jer",
+    "emoji": "🚌",
+    "forms": [
+      "passengers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who rides but does not drive.",
+          "examples": [
+            "The passenger looked out the window.",
+            "A bus passenger sat by me.",
+            "Each passenger has a seat."
+          ]
+        },
+        "more": {
+          "def": "A person who travels in a vehicle without driving or working on it.",
+          "examples": [
+            "Every passenger on the plane buckled a seat belt.",
+            "The bus passengers got off at the next stop.",
+            "The train carried hundreds of passengers to the city."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "passion",
+    "say": "PASH-un",
+    "forms": [
+      "passions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very strong liking for something.",
+          "examples": [
+            "He has a passion for music.",
+            "She has a passion for soccer.",
+            "My passion is drawing."
+          ]
+        },
+        "more": {
+          "def": "A very strong feeling of liking or caring about something.",
+          "examples": [
+            "She has a passion for painting and draws every day.",
+            "His passion for animals made him want to be a vet.",
+            "Cooking is her passion."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "past",
     "say": "past",
     "forms": [
@@ -761,6 +901,119 @@
             "Go past the bakery and turn left.",
             "The bus drove past our house without stopping.",
             "She ran past the finish line."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "patch",
+    "say": "pach",
+    "emoji": "🧵",
+    "forms": [
+      "patches",
+      "patched",
+      "patching"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece put over a hole to fix it.",
+          "examples": [
+            "Mom put a patch on my jeans.",
+            "The patch is blue.",
+            "A patch covers the hole."
+          ]
+        },
+        "more": {
+          "def": "A small piece of material used to cover a hole or a worn place.",
+          "examples": [
+            "Grandma sewed a patch on the knee of my jeans.",
+            "A rubber patch fixed the hole in the tire.",
+            "The old quilt was made from many colorful patches."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small area that is different from the rest.",
+          "examples": [
+            "A patch of grass was brown.",
+            "There is a patch of ice.",
+            "A patch of flowers grew by the fence."
+          ]
+        },
+        "more": {
+          "def": "A small area that is different from what is around it.",
+          "examples": [
+            "A patch of ice made the road slippery.",
+            "We picked pumpkins from the pumpkin patch.",
+            "A patch of blue sky showed between the clouds."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "patchy",
+        "def": "Having patches."
+      }
+    ]
+  },
+  {
+    "word": "path",
+    "say": "path",
+    "emoji": "🛤️",
+    "forms": [
+      "paths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A narrow way to walk along.",
+          "examples": [
+            "We walked on a path in the woods.",
+            "The path leads to the lake.",
+            "A path of stones led to the door."
+          ]
+        },
+        "more": {
+          "def": "A narrow track for people or animals to walk along.",
+          "examples": [
+            "The hikers followed a muddy path up the hill.",
+            "Deer made a path through the tall grass.",
+            "A garden path winds between the flower beds."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pathetic",
+    "say": "puh-THET-ik",
+    "forms": [
+      "pathetically"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "So weak or sad that it makes you feel sorry.",
+          "examples": [
+            "The kitten was wet and pathetic.",
+            "A pathetic little cry came from the box.",
+            "The old toy looked pathetic."
+          ]
+        },
+        "more": {
+          "def": "Sad and weak in a way that makes people feel sorry.",
+          "examples": [
+            "The soaked puppy looked pathetic in the rain.",
+            "The fire gave only a pathetic little flame.",
+            "He made a pathetic try to lift the heavy box."
           ]
         }
       }

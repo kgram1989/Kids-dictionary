@@ -28,6 +28,62 @@
     ]
   },
   {
+    "word": "cable",
+    "say": "KAY-bul",
+    "forms": [
+      "cables"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thick, strong wire or rope.",
+          "examples": [
+            "The cable holds the bridge.",
+            "A cable runs to the TV.",
+            "The cable is long."
+          ]
+        },
+        "more": {
+          "def": "A strong, thick wire or rope, or a bundle of wires that carries electricity or signals.",
+          "examples": [
+            "Strong cables hold up the big bridge.",
+            "A cable runs from the computer to the printer.",
+            "The cable car moves along a steel cable up the mountain."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cage",
+    "say": "kayj",
+    "forms": [
+      "cages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A box with bars for keeping animals in.",
+          "examples": [
+            "The bird is in a cage.",
+            "The cage has a door.",
+            "The hamster lives in a cage."
+          ]
+        },
+        "more": {
+          "def": "A space closed in with bars or wire, used for keeping birds or other animals.",
+          "examples": [
+            "The parrot sat in a big cage by the window.",
+            "Please clean the hamster's cage today.",
+            "The zoo kept the monkeys in a large cage."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cake",
     "say": "cayk",
     "emoji": "🎂",
@@ -336,6 +392,34 @@
     ]
   },
   {
+    "word": "cancer",
+    "say": "KAN-ser",
+    "forms": [
+      "cancers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very serious illness.",
+          "examples": [
+            "Doctors work to cure cancer.",
+            "Grandpa was sick with cancer.",
+            "Scientists study cancer."
+          ]
+        },
+        "more": {
+          "def": "A serious disease in which cells grow in a way that harms the body.",
+          "examples": [
+            "Many doctors and scientists work to find better treatments for cancer.",
+            "Eating healthy food and staying active can lower the chance of some cancers.",
+            "Her aunt got better after treatment for cancer."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "candy",
     "say": "KAN-dee",
     "emoji": "🍬",
@@ -359,6 +443,56 @@
             "She bought a bag of candy at the store.",
             "The candy melted in the sun.",
             "We got candy at the parade."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cap",
+    "say": "kap",
+    "emoji": "🧢",
+    "forms": [
+      "caps",
+      "capped",
+      "capping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft hat with a part that sticks out in front.",
+          "examples": [
+            "I wear a cap in the sun.",
+            "His cap is red.",
+            "The cap blocked the sun."
+          ]
+        },
+        "more": {
+          "def": "A soft, close-fitting hat that often has a part at the front to shade your eyes.",
+          "examples": [
+            "The baseball player wore a blue cap.",
+            "She pulled her cap down to keep the sun out of her eyes.",
+            "The graduates threw their caps into the air."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A lid or cover for the top of something.",
+          "examples": [
+            "Put the cap on the bottle.",
+            "The cap is lost.",
+            "I screwed on the cap."
+          ]
+        },
+        "more": {
+          "def": "A small cover that fits tightly on the top of something.",
+          "examples": [
+            "Screw the cap back on the bottle.",
+            "He lost the cap of his pen.",
+            "The cap of the toothpaste tube was missing."
           ]
         }
       }
@@ -697,6 +831,83 @@
             "He paid for the toy in cash.",
             "She keeps some cash in her wallet.",
             "The shop takes cash or cards."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cast",
+    "say": "kast",
+    "forms": [
+      "casts",
+      "casting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "All the actors in a play or movie.",
+          "examples": [
+            "The cast bowed.",
+            "The cast of the play met after school.",
+            "The whole cast was in costume."
+          ]
+        },
+        "more": {
+          "def": "All the people who act in a play, movie or show.",
+          "examples": [
+            "The cast practiced for weeks before the opening night.",
+            "Our school play has a cast of twenty students.",
+            "The whole cast came out to take a bow."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To throw something out far.",
+          "examples": [
+            "He cast the fishing line.",
+            "I will cast the net.",
+            "She cast a stone into the pond."
+          ]
+        },
+        "more": {
+          "def": "To throw something, such as a fishing line, out with force.",
+          "examples": [
+            "He cast his fishing line into the lake.",
+            "The fisherman cast the net over the side of the boat.",
+            "She cast a pebble into the quiet pond."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "castle",
+    "say": "KAS-ul",
+    "emoji": "🏰",
+    "forms": [
+      "castles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big, strong building where a king or queen lived long ago.",
+          "examples": [
+            "The king lives in a castle.",
+            "We built a sand castle.",
+            "The castle has tall towers."
+          ]
+        },
+        "more": {
+          "def": "A large building with thick walls and towers, built long ago to keep people safe.",
+          "examples": [
+            "The knights guarded the castle.",
+            "The old castle stands on a hill above the town.",
+            "A moat of water surrounded the castle."
           ]
         }
       }

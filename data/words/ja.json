@@ -54,5 +54,74 @@
         }
       }
     ]
+  },
+  {
+    "word": "jam",
+    "say": "jam",
+    "emoji": "🍓",
+    "forms": [
+      "jams",
+      "jammed",
+      "jamming"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet, sticky food made from fruit.",
+          "examples": [
+            "I put jam on my toast.",
+            "Strawberry jam is sweet.",
+            "Grandma made grape jam."
+          ]
+        },
+        "more": {
+          "def": "A sweet, thick spread made by cooking fruit with sugar.",
+          "examples": [
+            "I spread strawberry jam on my toast.",
+            "Grandma makes jam from the berries in her garden.",
+            "The jar of jam was almost empty."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To push into a space or get stuck.",
+          "examples": [
+            "I jam clothes in the bag.",
+            "The door jammed.",
+            "The copier jammed."
+          ]
+        },
+        "more": {
+          "def": "To push something tightly into a space, or to get stuck and not move.",
+          "examples": [
+            "He jammed the clothes into the small bag.",
+            "The drawer jammed and would not open.",
+            "The zipper on my coat is jammed."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Many cars in a place that cannot move.",
+          "examples": [
+            "There was a traffic jam.",
+            "A jam stopped the cars.",
+            "We were stuck in a jam."
+          ]
+        },
+        "more": {
+          "def": "A crowd of vehicles or people so close together that they cannot move.",
+          "examples": [
+            "A traffic jam made us late for school.",
+            "Cars lined up in a jam on the bridge.",
+            "A jam of people blocked the doorway."
+          ]
+        }
+      }
+    ]
   }
 ]

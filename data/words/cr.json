@@ -98,6 +98,43 @@
     ]
   },
   {
+    "word": "crawl",
+    "say": "krawl",
+    "emoji": "🐛",
+    "forms": [
+      "crawls",
+      "crawled",
+      "crawling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move on your hands and knees or very slowly.",
+          "examples": [
+            "The baby can crawl.",
+            "A bug crawls on the leaf.",
+            "We crawled under the table."
+          ]
+        },
+        "more": {
+          "def": "To move along low to the ground, on hands and knees or like an insect.",
+          "examples": [
+            "The baby crawled across the rug to reach the toy.",
+            "A caterpillar crawled up the stem.",
+            "Traffic crawled along the road in the snow."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "crawler",
+        "def": "Something that crawls."
+      }
+    ]
+  },
+  {
     "word": "crazy",
     "say": "KRAY-zee",
     "senses": [
@@ -273,6 +310,42 @@
             "The store lets you buy on credit."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "creep",
+    "say": "kreep",
+    "forms": [
+      "creeps",
+      "crept",
+      "creeping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move slowly and quietly.",
+          "examples": [
+            "The cat will creep up on the mouse.",
+            "I crept down the stairs.",
+            "The fog crept in."
+          ]
+        },
+        "more": {
+          "def": "To move slowly and quietly, often close to the ground.",
+          "examples": [
+            "The cat crept toward the bird.",
+            "I crept down the stairs so I would not wake the baby.",
+            "Vines creep up the wall."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "creeper",
+        "def": "A plant that creeps along a wall or the ground."
       }
     ]
   },

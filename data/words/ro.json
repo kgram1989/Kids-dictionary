@@ -58,6 +58,34 @@
     ]
   },
   {
+    "word": "robbery",
+    "say": "ROB-er-ee",
+    "forms": [
+      "robberies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Taking something that is not yours, which is a crime.",
+          "examples": [
+            "The robbery happened at a bank.",
+            "The police looked into the robbery.",
+            "The store had a robbery."
+          ]
+        },
+        "more": {
+          "def": "The crime of stealing something from a person or a place.",
+          "examples": [
+            "The news told about a robbery at the jewelry shop.",
+            "Police solved the robbery and returned the money.",
+            "A robbery is a crime, and the robbers can be punished."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "rock",
     "say": "rok",
     "emoji": "🪨",
@@ -307,6 +335,35 @@
     ]
   },
   {
+    "word": "rope",
+    "say": "rohp",
+    "emoji": "🪢",
+    "forms": [
+      "ropes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thick, strong cord.",
+          "examples": [
+            "We pulled on the rope.",
+            "The boat is tied with a rope.",
+            "I climbed the rope."
+          ]
+        },
+        "more": {
+          "def": "A thick, strong cord made by twisting many threads together.",
+          "examples": [
+            "The sailor tied the boat to the dock with a rope.",
+            "The team pulled on the rope in a tug of war.",
+            "She climbed the rope in the gym."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "rose",
     "say": "rohz",
     "emoji": "🌹",
@@ -408,6 +465,117 @@
             "She won the first round of the spelling bee.",
             "Let us play one more round of cards.",
             "The quiz show has three rounds."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "route",
+    "say": "root",
+    "emoji": "🗺️",
+    "forms": [
+      "routes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way you take to get somewhere.",
+          "examples": [
+            "What route do you take to school?",
+            "The bus route goes by the park.",
+            "We took a different route."
+          ]
+        },
+        "more": {
+          "def": "A road or path that you take to go from one place to another.",
+          "examples": [
+            "My bus route passes the library.",
+            "We took a shorter route home.",
+            "The map shows the route to the beach."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "reroute",
+        "def": "To send a new way."
+      }
+    ]
+  },
+  {
+    "word": "row",
+    "say": "roh",
+    "forms": [
+      "rows"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A line of things side by side.",
+          "examples": [
+            "We planted a row of beans.",
+            "Sit in the front row.",
+            "A row of ducks swam by."
+          ]
+        },
+        "more": {
+          "def": "A straight line of people or things placed next to each other.",
+          "examples": [
+            "Corn grew in neat rows across the field.",
+            "The tallest students stood in the back row.",
+            "A row of bright houses stood along the street."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move a boat with long paddles.",
+          "examples": [
+            "We row the boat to the shore.",
+            "Can you row across the lake?",
+            "Dad likes to row at the lake."
+          ]
+        },
+        "more": {
+          "def": "To move a boat through water by pulling long poles called oars.",
+          "examples": [
+            "The team rowed hard to win the race.",
+            "We rowed across the pond to the little island.",
+            "She rows every morning before school."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "royal",
+    "say": "ROY-ul",
+    "emoji": "👑",
+    "forms": [
+      "royally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with a king or queen.",
+          "examples": [
+            "The royal family lives in the castle.",
+            "The queen wore a royal crown.",
+            "The royal guards stood at the gate."
+          ]
+        },
+        "more": {
+          "def": "Belonging to or connected with a king, queen or their family.",
+          "examples": [
+            "The royal family waved from the palace balcony.",
+            "The prince wore a royal robe at the ceremony.",
+            "The royal crown was covered with jewels."
           ]
         }
       }

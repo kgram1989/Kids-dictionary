@@ -382,6 +382,31 @@
     ]
   },
   {
+    "word": "dirt",
+    "say": "dert",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The earth on the ground that plants grow in.",
+          "examples": [
+            "The dirt is muddy.",
+            "I dug in the dirt.",
+            "There was dirt on my shoes."
+          ]
+        },
+        "more": {
+          "def": "Loose soil, or any stuff that makes something unclean.",
+          "examples": [
+            "The worms live in the dirt.",
+            "He washed the dirt off his hands.",
+            "A truck brought a load of dirt for the garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dirty",
     "say": "DER-tee",
     "forms": [
@@ -466,6 +491,32 @@
             "The canceled trip disappointed the whole class.",
             "The movie's ending disappointed many fans.",
             "She did not want to disappoint her coach by quitting."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "disappointed",
+    "say": "dis-uh-POYN-tid",
+    "emoji": "😞",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sad because something was not as good as you hoped.",
+          "examples": [
+            "I was disappointed when it rained.",
+            "She was disappointed with her score.",
+            "He looked disappointed."
+          ]
+        },
+        "more": {
+          "def": "Sad or let down because something did not turn out the way you wanted.",
+          "examples": [
+            "We were disappointed when the game was canceled.",
+            "She felt disappointed that her friend could not come.",
+            "The disappointed fans left the stadium quietly."
           ]
         }
       }
@@ -571,6 +622,61 @@
     ]
   },
   {
+    "word": "disgusting",
+    "say": "dis-GUS-ting",
+    "emoji": "🤢",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making you feel sick.",
+          "examples": [
+            "The smell is disgusting.",
+            "That bug is disgusting.",
+            "The old milk was disgusting."
+          ]
+        },
+        "more": {
+          "def": "So unpleasant that it makes you feel sick.",
+          "examples": [
+            "The rotten food in the fridge smelled disgusting.",
+            "I thought the dirty sock was disgusting.",
+            "The garbage truck left a disgusting smell on the street."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dish",
+    "say": "dish",
+    "emoji": "🍽️",
+    "forms": [
+      "dishes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A plate or bowl for food.",
+          "examples": [
+            "Put the dish on the table.",
+            "I wash the dishes.",
+            "The dish is hot."
+          ]
+        },
+        "more": {
+          "def": "A flat or deep container that holds food, or the food made in it.",
+          "examples": [
+            "She put a dish of salad on the table.",
+            "We washed the dishes after dinner.",
+            "Pasta is my favorite dish."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "distance",
     "say": "DIS-tunss",
     "emoji": "📏",
@@ -594,6 +700,64 @@
             "The distance between our town and the ocean is two hundred miles.",
             "The runners trained to race a distance of five miles.",
             "From a distance, the two houses look exactly the same."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "district",
+    "say": "DIS-trikt",
+    "forms": [
+      "districts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of a town or country.",
+          "examples": [
+            "Our school district has ten schools.",
+            "The district is near the river.",
+            "The shopping district is busy."
+          ]
+        },
+        "more": {
+          "def": "A part of a town, city or country, set apart for a purpose.",
+          "examples": [
+            "Several schools in the district share a bus system.",
+            "The shopping district is full of stores.",
+            "The district around the old market is very busy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "disturb",
+    "say": "dis-TERB",
+    "forms": [
+      "disturbs",
+      "disturbed",
+      "disturbing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To bother someone or break their quiet.",
+          "examples": [
+            "Do not disturb the baby.",
+            "The noise disturbed me.",
+            "Please do not disturb the sleeping cat."
+          ]
+        },
+        "more": {
+          "def": "To interrupt someone or to spoil the quiet or calm of something.",
+          "examples": [
+            "Please do not disturb the baby while she sleeps.",
+            "The loud music disturbed our reading.",
+            "Do not disturb the nest in the tree."
           ]
         }
       }

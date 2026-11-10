@@ -49,6 +49,55 @@
     ]
   },
   {
+    "word": "loan",
+    "say": "lohn",
+    "forms": [
+      "loans",
+      "loaned",
+      "loaning"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money or things you borrow.",
+          "examples": [
+            "I asked for a loan.",
+            "The bank gave Dad a loan.",
+            "The loan of a book was free."
+          ]
+        },
+        "more": {
+          "def": "Something that is lent to a person, especially money that must be paid back.",
+          "examples": [
+            "Mom got a loan from the bank to buy a car.",
+            "The museum arranged a loan of the painting for the show.",
+            "A library gives you a loan of a book for two weeks."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To lend something to someone.",
+          "examples": [
+            "I will loan you my pen.",
+            "She loaned me a book.",
+            "Can you loan me a dollar?"
+          ]
+        },
+        "more": {
+          "def": "To lend something to someone for a short time.",
+          "examples": [
+            "He loaned his bike to his neighbor for the weekend.",
+            "The library will loan you a book for two weeks.",
+            "She loaned her cousin a coat."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "local",
     "say": "LOH-kul",
     "senses": [
@@ -68,6 +117,35 @@
             "We shop at the local market.",
             "The local team won the game.",
             "The local library has story time every week."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "location",
+    "say": "loh-KAY-shun",
+    "emoji": "📍",
+    "forms": [
+      "locations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The place where something is.",
+          "examples": [
+            "The map shows the location of the park.",
+            "What is the location of the school?",
+            "This is a good location for a tent."
+          ]
+        },
+        "more": {
+          "def": "The particular place where someone or something can be found.",
+          "examples": [
+            "The treasure map marked the exact location of the chest.",
+            "The new library is in a handy location near the bus stop.",
+            "Campers chose a flat location near the stream."
           ]
         }
       }
@@ -469,6 +547,35 @@
             "The thunder was so loud that it shook the windows.",
             "The loud music filled the gym.",
             "The baby gave a loud cry."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lousy",
+    "say": "LOW-zee",
+    "forms": [
+      "lousier",
+      "lousiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very bad.",
+          "examples": [
+            "I had a lousy day.",
+            "The soup tasted lousy.",
+            "This is a lousy song."
+          ]
+        },
+        "more": {
+          "def": "Of very low quality, bad or poor.",
+          "examples": [
+            "We had a lousy day, since it rained and the car broke down.",
+            "The pizza was lousy and cold.",
+            "He felt lousy because he had a cold."
           ]
         }
       }

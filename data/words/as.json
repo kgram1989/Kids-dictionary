@@ -44,6 +44,63 @@
     ]
   },
   {
+    "word": "ashamed",
+    "say": "uh-SHAYMD",
+    "emoji": "😔",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling bad because you did something wrong.",
+          "examples": [
+            "I felt ashamed of my lie.",
+            "He was ashamed of what he said.",
+            "She looked ashamed."
+          ]
+        },
+        "more": {
+          "def": "Feeling sorry and a little embarrassed about something you did.",
+          "examples": [
+            "He was ashamed that he had broken the window.",
+            "She felt ashamed of how she shouted at her friend.",
+            "Do not be ashamed to ask for help when you need it."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unashamed",
+        "def": "Not ashamed."
+      }
+    ]
+  },
+  {
+    "word": "aside",
+    "say": "uh-SYD",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "To one side.",
+          "examples": [
+            "Please move aside.",
+            "I put the book aside.",
+            "She stepped aside."
+          ]
+        },
+        "more": {
+          "def": "To one side, or out of the way.",
+          "examples": [
+            "He stepped aside to let the others pass.",
+            "Set your work aside and come to dinner.",
+            "She put some money aside for a new bike."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ask",
     "say": "ask",
     "forms": [
@@ -93,6 +150,34 @@
             "The baby fell asleep in the car.",
             "The whole house was asleep by midnight.",
             "My legs fell asleep after I sat for a long time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "assignment",
+    "say": "uh-SYN-munt",
+    "forms": [
+      "assignments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Work that a teacher tells you to do.",
+          "examples": [
+            "Our assignment is to read a book.",
+            "The assignment is due tomorrow.",
+            "I finished my assignment."
+          ]
+        },
+        "more": {
+          "def": "A piece of work that someone gives you to do.",
+          "examples": [
+            "Our assignment is to write a story about a pet.",
+            "The science assignment is due on Friday.",
+            "I finished the assignment before dinner."
           ]
         }
       }

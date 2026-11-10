@@ -28,6 +28,83 @@
     ]
   },
   {
+    "word": "lack",
+    "say": "lak",
+    "forms": [
+      "lacks",
+      "lacked",
+      "lacking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Not having enough of something.",
+          "examples": [
+            "A lack of rain hurt the plants.",
+            "The lack of light made it hard to read.",
+            "A lack of sleep made him tired."
+          ]
+        },
+        "more": {
+          "def": "A condition of not having enough of something.",
+          "examples": [
+            "A lack of rain made the garden dry.",
+            "The lack of snow meant we could not go sledding.",
+            "A lack of sleep makes it hard to learn."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not have enough of something.",
+          "examples": [
+            "The plants lack water.",
+            "The soup lacks salt.",
+            "We lack a goalie."
+          ]
+        },
+        "more": {
+          "def": "To be without something, or not to have enough of it.",
+          "examples": [
+            "The broth lacks flavor.",
+            "Our team lacks a good goalie this year.",
+            "Some desert plants lack leaves and have spines instead."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lad",
+    "say": "lad",
+    "forms": [
+      "lads"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A boy.",
+          "examples": [
+            "The lad ran home.",
+            "A young lad helped us.",
+            "The lads played ball."
+          ]
+        },
+        "more": {
+          "def": "A boy or young man.",
+          "examples": [
+            "The lad carried the basket to the market.",
+            "A young lad sold newspapers on the corner.",
+            "The lads in the story went fishing."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lady",
     "say": "LAY-dee",
     "forms": [
@@ -428,6 +505,56 @@
             "The room filled with laughter when the clown came in.",
             "Their laughter could be heard down the hall.",
             "The funny movie brought tears of laughter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "launch",
+    "say": "lawnch",
+    "emoji": "🚀",
+    "forms": [
+      "launches",
+      "launched",
+      "launching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To send something up or out into the air or water.",
+          "examples": [
+            "They will launch the rocket.",
+            "We launched a boat.",
+            "He launched the kite."
+          ]
+        },
+        "more": {
+          "def": "To send something such as a rocket or boat out with force, or to start something new.",
+          "examples": [
+            "The scientists launched a rocket into space.",
+            "The crew launched the boat from the shore.",
+            "The school will launch a new reading club this fall."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sending of a rocket or boat.",
+          "examples": [
+            "We watched the launch on TV.",
+            "The launch was loud.",
+            "The boat launch was fun."
+          ]
+        },
+        "more": {
+          "def": "The act of sending a rocket, ship or something new out into the world.",
+          "examples": [
+            "The whole class watched the launch of the space shuttle.",
+            "A boat launch let us slide our canoe into the water.",
+            "The launch of the new book was a big event."
           ]
         }
       }

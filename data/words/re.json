@@ -277,6 +277,36 @@
     ]
   },
   {
+    "word": "recall",
+    "say": "rih-KAWL",
+    "forms": [
+      "recalls",
+      "recalled",
+      "recalling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To remember something.",
+          "examples": [
+            "I recall the day.",
+            "Can you recall her name?",
+            "He recalled the song."
+          ]
+        },
+        "more": {
+          "def": "To bring something back into your mind, to remember it.",
+          "examples": [
+            "I can recall the day we first met.",
+            "She could not recall where she had put her keys.",
+            "He recalled the words to the song."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "receive",
     "say": "rih-SEEV",
     "forms": [
@@ -332,6 +362,36 @@
             "I did not recognize my cousin with his new haircut.",
             "She recognized the song after two notes.",
             "Babies learn to recognize their parents' faces."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "recommend",
+    "say": "rek-uh-MEND",
+    "forms": [
+      "recommends",
+      "recommended",
+      "recommending"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say that something is good.",
+          "examples": [
+            "I recommend this book.",
+            "She recommended a good movie.",
+            "The teacher recommended a book."
+          ]
+        },
+        "more": {
+          "def": "To suggest that someone should choose something because it is good.",
+          "examples": [
+            "I recommend the soup, which is very tasty.",
+            "My librarian recommended a book about whales.",
+            "He recommended a good place to eat."
           ]
         }
       }
@@ -558,6 +618,55 @@
             "I refuse to eat the spinach.",
             "She refused the offer of a ride.",
             "The cat refused to come out from under the bed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "register",
+    "say": "REJ-ih-ster",
+    "forms": [
+      "registers",
+      "registered",
+      "registering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put a name on a list.",
+          "examples": [
+            "I registered for the class.",
+            "We registered for camp.",
+            "He registered his name."
+          ]
+        },
+        "more": {
+          "def": "To sign up or put your name on an official list.",
+          "examples": [
+            "Children registered for soccer at the park.",
+            "She registered her new bike with the police.",
+            "We registered at the front desk of the hotel."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An official list of names.",
+          "examples": [
+            "The teacher marked the register.",
+            "Sign the register.",
+            "The register shows who is here."
+          ]
+        },
+        "more": {
+          "def": "An official list or record of names or events.",
+          "examples": [
+            "The teacher took the register each morning.",
+            "Visitors sign the hotel register.",
+            "The old register listed every child in the town."
           ]
         }
       }
@@ -951,6 +1060,42 @@
     ]
   },
   {
+    "word": "replace",
+    "say": "ri-PLAYSS",
+    "forms": [
+      "replaces",
+      "replaced",
+      "replacing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put a new thing where an old one was.",
+          "examples": [
+            "I need to replace my shoes.",
+            "We replaced the bulb.",
+            "Please replace the broken cup."
+          ]
+        },
+        "more": {
+          "def": "To take the place of something, or to put a new thing in place of one that is gone or broken.",
+          "examples": [
+            "Dad replaced the old light bulb with a new one.",
+            "The teacher replaced the cracked ruler.",
+            "Please replace the books on the shelf when you finish."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "replaceable",
+        "def": "Able to be replaced."
+      }
+    ]
+  },
+  {
     "word": "report",
     "say": "rih-PORT",
     "emoji": "📝",
@@ -1291,6 +1436,36 @@
     ]
   },
   {
+    "word": "respond",
+    "say": "rih-SPOND",
+    "forms": [
+      "responds",
+      "responded",
+      "responding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To answer.",
+          "examples": [
+            "I respond to the email.",
+            "She responded to the question.",
+            "The dog responds to its name."
+          ]
+        },
+        "more": {
+          "def": "To say or do something in answer to something else.",
+          "examples": [
+            "He responded to the teacher's question with a smile.",
+            "The dog responds quickly when you call its name.",
+            "Firefighters responded to the call within minutes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "responsibility",
     "say": "rih-spon-suh-BIL-uh-tee",
     "forms": [
@@ -1471,6 +1646,36 @@
     ]
   },
   {
+    "word": "retire",
+    "say": "ri-TYR",
+    "forms": [
+      "retires",
+      "retired",
+      "retiring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop working because you are older.",
+          "examples": [
+            "Grandpa will retire next year.",
+            "My teacher retired.",
+            "She retired from her job."
+          ]
+        },
+        "more": {
+          "def": "To stop working at a job, usually because of age.",
+          "examples": [
+            "My grandfather retired after forty years as a mail carrier.",
+            "The famous baseball player will retire at the end of the season.",
+            "She retired and now spends her days gardening."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "return",
     "say": "rih-TERN",
     "forms": [
@@ -1533,6 +1738,55 @@
             "The return of the swallows is a sign of spring.",
             "On our return, Grandma had dinner ready.",
             "The explorers' return was celebrated with a parade."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "review",
+    "say": "rih-VYOO",
+    "forms": [
+      "reviews",
+      "reviewed",
+      "reviewing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look at something again.",
+          "examples": [
+            "Let us review our spelling words.",
+            "I will review my notes.",
+            "We reviewed the story."
+          ]
+        },
+        "more": {
+          "def": "To look over or study something again so that you remember it.",
+          "examples": [
+            "We reviewed our spelling words before the test.",
+            "She reviewed her notes on the plane.",
+            "The class reviewed the story before writing about it."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Writing about a book or movie you saw.",
+          "examples": [
+            "I wrote a review of the book.",
+            "The movie got a good review.",
+            "The review was short."
+          ]
+        },
+        "more": {
+          "def": "A report that tells what someone thinks of a book, movie or show.",
+          "examples": [
+            "The newspaper gave the movie a good review.",
+            "I read a review of the book before I bought it.",
+            "Her review of the restaurant said the soup was the best."
           ]
         }
       }

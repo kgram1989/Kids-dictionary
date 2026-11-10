@@ -79,6 +79,61 @@
     ]
   },
   {
+    "word": "prayer",
+    "say": "prair",
+    "emoji": "🙏",
+    "forms": [
+      "prayers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words that people say to talk to God.",
+          "examples": [
+            "They said a prayer before dinner.",
+            "Grandma says a prayer every night.",
+            "We bowed our heads in prayer."
+          ]
+        },
+        "more": {
+          "def": "Words spoken to God, or the act of speaking them, often to give thanks or ask for help.",
+          "examples": [
+            "Families often say a prayer before a meal.",
+            "The people gathered for prayer on Sunday morning.",
+            "He said a quiet prayer for his sick friend."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "precious",
+    "say": "PRESH-us",
+    "emoji": "💎",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Worth a lot, or loved very much.",
+          "examples": [
+            "My baby sister is precious.",
+            "The ring is precious.",
+            "Gold is a precious metal."
+          ]
+        },
+        "more": {
+          "def": "Very valuable, or dearly loved.",
+          "examples": [
+            "The ring was a precious gift from her grandmother.",
+            "Gold and silver are precious metals.",
+            "Fresh water is precious in the desert."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "predator",
     "say": "PRED-uh-ter",
     "emoji": "🦈",
@@ -555,6 +610,53 @@
     ]
   },
   {
+    "word": "pride",
+    "say": "pryd",
+    "forms": [
+      "prides"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A good feeling about something you did well.",
+          "examples": [
+            "She felt pride when she finished the race.",
+            "I take pride in my work.",
+            "Dad looked at me with pride."
+          ]
+        },
+        "more": {
+          "def": "A happy feeling of being pleased with yourself or with people close to you.",
+          "examples": [
+            "He felt great pride as his sister received her prize.",
+            "The whole town took pride in its new library.",
+            "She showed her painting with pride."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of lions that live together.",
+          "examples": [
+            "A pride of lions slept in the shade.",
+            "The cubs play in the pride.",
+            "The pride rests on the rocks."
+          ]
+        },
+        "more": {
+          "def": "A family group of lions that live and hunt together.",
+          "examples": [
+            "A pride of lions can have more than ten members.",
+            "The mother lions in the pride hunt together at dusk.",
+            "We watched a pride of lions walk across the plain."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "priest",
     "say": "preest",
     "forms": [
@@ -779,6 +881,35 @@
     ]
   },
   {
+    "word": "prize",
+    "say": "pryz",
+    "emoji": "🎁",
+    "forms": [
+      "prizes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you get for winning.",
+          "examples": [
+            "I won first prize.",
+            "The prize was a gold star.",
+            "He got a prize for his picture."
+          ]
+        },
+        "more": {
+          "def": "A reward that is given to the winner of a contest or for doing something well.",
+          "examples": [
+            "The winner of the race got a shiny prize.",
+            "First prize at the fair was a blue ribbon.",
+            "She won a prize for the best costume."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "problem",
     "say": "PROB-lum",
     "forms": [
@@ -820,6 +951,64 @@
             "The teacher wrote a math problem on the board.",
             "I solved the problem by drawing a picture.",
             "Try the next problem on the page."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "procedure",
+    "say": "pruh-SEE-jer",
+    "forms": [
+      "procedures"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The steps to do something.",
+          "examples": [
+            "The fire drill procedure is simple.",
+            "Follow the procedure.",
+            "The procedure has five steps."
+          ]
+        },
+        "more": {
+          "def": "A set of steps that you follow in a certain order to do something.",
+          "examples": [
+            "The teacher explained the procedure for the experiment.",
+            "Follow the fire drill procedure and walk quietly outside.",
+            "The procedure for baking bread has several steps."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "proceed",
+    "say": "pruh-SEED",
+    "forms": [
+      "proceeds",
+      "proceeded",
+      "proceeding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go on with something.",
+          "examples": [
+            "Please proceed to the gym.",
+            "Let us proceed with the lesson.",
+            "The class proceeded to the library."
+          ]
+        },
+        "more": {
+          "def": "To continue or go forward after stopping, or to begin the next step.",
+          "examples": [
+            "The bus driver proceeded down the road after the light turned green.",
+            "After the speech, the guests proceeded to the dining room.",
+            "Please proceed to the front of the line."
           ]
         }
       }
@@ -871,6 +1060,56 @@
             "Workers process the fruit before packing it."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "produce",
+    "say": "pruh-DOOS",
+    "forms": [
+      "produces",
+      "produced",
+      "producing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something.",
+          "examples": [
+            "Cows produce milk.",
+            "The factory produces toys.",
+            "Bees produce honey."
+          ]
+        },
+        "more": {
+          "def": "To make or bring something into being.",
+          "examples": [
+            "Cows produce milk for us to drink.",
+            "The factory produced thousands of toys each week.",
+            "Apple trees produce fruit in the fall."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Fresh fruit and vegetables.",
+          "examples": [
+            "We buy produce at the market.",
+            "The produce is fresh.",
+            "The farm sells produce."
+          ]
+        },
+        "more": {
+          "def": "Fresh fruits and vegetables that are grown on a farm and sold as food.",
+          "examples": [
+            "We buy fresh produce at the farmers' market.",
+            "The produce section is full of apples and carrots.",
+            "The farm stand sells fresh produce all summer."
+          ]
+        },
+        "say": "PROD-oos"
       }
     ]
   },
@@ -1003,6 +1242,55 @@
     ]
   },
   {
+    "word": "progress",
+    "say": "PROG-ress",
+    "forms": [
+      "progresses",
+      "progressed",
+      "progressing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Getting better or getting closer to a goal.",
+          "examples": [
+            "I made progress in reading.",
+            "We made progress.",
+            "Her progress was good."
+          ]
+        },
+        "more": {
+          "def": "Movement forward, or improvement as time goes on.",
+          "examples": [
+            "He made good progress with his piano lessons.",
+            "The builders are making progress on the new bridge.",
+            "I can see your progress in the way you read now."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move forward or get better.",
+          "examples": [
+            "The story progresses.",
+            "I am progressing in math.",
+            "The work progressed."
+          ]
+        },
+        "more": {
+          "def": "To go forward, or to get better as time goes on.",
+          "examples": [
+            "The building progressed quickly in the spring.",
+            "Her reading progressed all year.",
+            "The story progresses from a quiet start to a thrilling end."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "project",
     "say": "PROJ-ekt",
     "forms": [
@@ -1087,6 +1375,34 @@
     ]
   },
   {
+    "word": "proper",
+    "say": "PROP-er",
+    "forms": [
+      "properly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Right and correct.",
+          "examples": [
+            "Use the proper tool.",
+            "Wear proper shoes for hiking.",
+            "This is the proper way to hold a pencil."
+          ]
+        },
+        "more": {
+          "def": "Right for a certain purpose, or the way that is expected.",
+          "examples": [
+            "Wear proper shoes for a long hike.",
+            "Wash your hands in the proper way, with soap and water.",
+            "The proper way to hold a bat is with both hands."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "property",
     "say": "PROP-er-tee",
     "forms": [
@@ -1134,6 +1450,36 @@
     ]
   },
   {
+    "word": "propose",
+    "say": "pruh-POHZ",
+    "forms": [
+      "proposes",
+      "proposed",
+      "proposing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To suggest an idea or plan.",
+          "examples": [
+            "I propose a picnic.",
+            "She proposed a new game.",
+            "He proposed that we go home."
+          ]
+        },
+        "more": {
+          "def": "To put forward an idea or plan for others to think about.",
+          "examples": [
+            "The class proposed a trip to the zoo.",
+            "I propose that we take a vote.",
+            "She proposed a new rule for the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "protect",
     "say": "pruh-TEKT",
     "emoji": "🛡️",
@@ -1159,6 +1505,31 @@
             "The mother bird protected her eggs from the cold.",
             "Laws protect rare animals from hunters.",
             "A shell protects the turtle's soft body."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "protection",
+    "say": "pruh-TEK-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that keeps you safe.",
+          "examples": [
+            "The hat gave protection from the sun.",
+            "The fence gives the sheep protection.",
+            "A helmet gives protection."
+          ]
+        },
+        "more": {
+          "def": "The act of keeping someone or something safe from harm.",
+          "examples": [
+            "A helmet gives protection to your head.",
+            "The thick coat offers protection from the cold.",
+            "Rangers work for the protection of wild animals."
           ]
         }
       }

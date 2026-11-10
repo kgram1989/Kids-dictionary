@@ -25,6 +25,35 @@
     ]
   },
   {
+    "word": "inch",
+    "say": "inch",
+    "emoji": "📏",
+    "forms": [
+      "inches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small unit for measuring how long something is.",
+          "examples": [
+            "The bug is one inch long.",
+            "My pencil is six inches.",
+            "The snow was an inch deep."
+          ]
+        },
+        "more": {
+          "def": "A small unit of length. Twelve of them make a foot.",
+          "examples": [
+            "The beetle was about an inch long.",
+            "A ruler is twelve inches long.",
+            "Three inches of snow fell overnight."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "include",
     "say": "in-KLOOD",
     "forms": [
@@ -99,6 +128,36 @@
             "It was indeed the best day of my life.",
             "The test was hard indeed.",
             "Yes, indeed, we are ready to go."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "inform",
+    "say": "in-FORM",
+    "forms": [
+      "informs",
+      "informed",
+      "informing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell someone something.",
+          "examples": [
+            "Please inform me when it is done.",
+            "The sign informs us of the rules.",
+            "She informed the teacher."
+          ]
+        },
+        "more": {
+          "def": "To tell someone a fact or a piece of news that they need or want to know.",
+          "examples": [
+            "The coach informed the team that practice was canceled.",
+            "A bell informs the class that it is time for lunch.",
+            "Please inform us if you cannot come to the party."
           ]
         }
       }
@@ -289,6 +348,34 @@
     ]
   },
   {
+    "word": "inspector",
+    "say": "in-SPEK-ter",
+    "forms": [
+      "inspectors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who checks that things are safe.",
+          "examples": [
+            "The inspector checked the building.",
+            "The inspector looked at the bridge.",
+            "An inspector came to the school."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to look closely at something to see that it is safe or right.",
+          "examples": [
+            "The inspector checked that the new bridge was safe.",
+            "A health inspector visited the restaurant kitchen.",
+            "The building inspector looked at the wiring."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "instead",
     "say": "in-STED",
     "senses": [
@@ -339,6 +426,56 @@
             "The dentist used a small instrument to check my teeth."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "insult",
+    "say": "in-SULT",
+    "forms": [
+      "insults",
+      "insulted",
+      "insulting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say something mean to someone.",
+          "examples": [
+            "Do not insult your friends.",
+            "He insulted me.",
+            "That insults her."
+          ]
+        },
+        "more": {
+          "def": "To say or do something rude that hurts someone's feelings.",
+          "examples": [
+            "It is wrong to insult people.",
+            "He insulted her by laughing at her drawing.",
+            "She felt insulted when they ignored her."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rude thing said to hurt someone.",
+          "examples": [
+            "That was an insult.",
+            "He gave an insult.",
+            "I did not like the insult."
+          ]
+        },
+        "more": {
+          "def": "Something rude said or done that hurts someone's feelings.",
+          "examples": [
+            "Calling someone a name is an insult.",
+            "She took his words as an insult.",
+            "He apologized for his insult."
+          ]
+        },
+        "say": "IN-sult"
       }
     ]
   },
@@ -674,6 +811,36 @@
       {
         "word": "reinvent",
         "def": "To make something again in a new way."
+      }
+    ]
+  },
+  {
+    "word": "investigate",
+    "say": "in-VES-tih-gayt",
+    "forms": [
+      "investigates",
+      "investigated",
+      "investigating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look for facts to learn what happened.",
+          "examples": [
+            "The detective will investigate.",
+            "We investigate the strange noise.",
+            "Police investigated."
+          ]
+        },
+        "more": {
+          "def": "To look carefully for facts in order to find out the truth.",
+          "examples": [
+            "The class investigated why the plant died.",
+            "The police investigated the lost bike.",
+            "Scientists investigate how animals find their way home."
+          ]
+        }
       }
     ]
   },

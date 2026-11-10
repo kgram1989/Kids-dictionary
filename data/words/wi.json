@@ -1,5 +1,36 @@
 [
   {
+    "word": "wide",
+    "say": "wyd",
+    "emoji": "↔️",
+    "forms": [
+      "wider",
+      "widest",
+      "widely"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Big from one side to the other.",
+          "examples": [
+            "The river is wide.",
+            "He has a wide smile.",
+            "The road is wide."
+          ]
+        },
+        "more": {
+          "def": "Measuring a long way from one side to the other.",
+          "examples": [
+            "The wide road had room for four cars.",
+            "The river was too wide to swim across.",
+            "She opened her eyes wide in surprise."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wife",
     "say": "wyf",
     "forms": [
@@ -300,6 +331,65 @@
             "The winner of the race got a gold medal.",
             "Our class was the winner of the spelling bee.",
             "The crowd cheered for the winner."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "winter",
+    "say": "WIN-ter",
+    "emoji": "❄️",
+    "forms": [
+      "winters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The coldest time of the year.",
+          "examples": [
+            "It snows in winter.",
+            "We wear coats in winter.",
+            "Winter comes after fall."
+          ]
+        },
+        "more": {
+          "def": "The coldest season of the year, between fall and spring.",
+          "examples": [
+            "Many bears sleep through the winter.",
+            "Days are short and nights are long in winter.",
+            "We went sledding on the first snowy day of winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wipe",
+    "say": "wype",
+    "forms": [
+      "wipes",
+      "wiped",
+      "wiping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rub something to make it clean or dry.",
+          "examples": [
+            "Please wipe the table.",
+            "I wipe my feet on the mat.",
+            "She wiped her hands on a towel."
+          ]
+        },
+        "more": {
+          "def": "To clean or dry something by rubbing it with a cloth or your hand.",
+          "examples": [
+            "He wiped the steam off the bathroom mirror.",
+            "The waiter wiped the counter after we finished our lunch.",
+            "Wipe the dust from the shelf with a soft cloth."
           ]
         }
       }

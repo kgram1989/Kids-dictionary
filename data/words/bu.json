@@ -256,6 +256,55 @@
     ]
   },
   {
+    "word": "bump",
+    "say": "bump",
+    "forms": [
+      "bumps",
+      "bumped",
+      "bumping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit something lightly.",
+          "examples": [
+            "I bumped my head.",
+            "The cars bump.",
+            "He bumped the table."
+          ]
+        },
+        "more": {
+          "def": "To knock into something, or to hit it lightly by accident.",
+          "examples": [
+            "I bumped my knee on the table.",
+            "The two shopping carts bumped.",
+            "She bumped into her friend in the hall."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small round place that sticks up.",
+          "examples": [
+            "I have a bump on my head.",
+            "The road has a bump.",
+            "We felt a bump."
+          ]
+        },
+        "more": {
+          "def": "A small, round lump that sticks up, or the feeling of hitting something.",
+          "examples": [
+            "The bike went over a bump in the road.",
+            "I got a bump on my knee.",
+            "We felt a bump when the plane landed."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bunch",
     "say": "bunch",
     "forms": [
@@ -600,6 +649,43 @@
     ]
   },
   {
+    "word": "butter",
+    "say": "BUT-er",
+    "emoji": "🧈",
+    "forms": [
+      "butters",
+      "buttered",
+      "buttering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft yellow food you spread on bread.",
+          "examples": [
+            "I put butter on my bread.",
+            "The butter is soft.",
+            "Mom spread butter on the toast."
+          ]
+        },
+        "more": {
+          "def": "A soft, yellow food made from cream that people spread on bread or use in cooking.",
+          "examples": [
+            "She spread butter on the warm toast.",
+            "Mom melted butter in the pan to cook the eggs.",
+            "Butter turns to liquid when it gets hot."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "buttery",
+        "def": "Like butter or full of butter."
+      }
+    ]
+  },
+  {
     "word": "button",
     "say": "BUT-un",
     "forms": [
@@ -671,6 +757,56 @@
             "We went to the store to buy a birthday card.",
             "My sister bought a new backpack for school.",
             "He saved up to buy a telescope."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "buzz",
+    "say": "buz",
+    "emoji": "🐝",
+    "forms": [
+      "buzzes",
+      "buzzed",
+      "buzzing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a humming sound like a bee.",
+          "examples": [
+            "The bee buzzes.",
+            "The fly buzzed around.",
+            "My phone buzzed."
+          ]
+        },
+        "more": {
+          "def": "To make a low, steady humming sound.",
+          "examples": [
+            "Bees buzzed around the flowers.",
+            "The alarm clock buzzed loudly.",
+            "The room buzzed with excited voices."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A low humming sound.",
+          "examples": [
+            "I hear a buzz.",
+            "The buzz of bees was loud.",
+            "The fridge made a buzz."
+          ]
+        },
+        "more": {
+          "def": "A low, steady humming sound like the one a bee makes.",
+          "examples": [
+            "The buzz of the bees grew louder as we got close.",
+            "The buzz of the alarm woke me up.",
+            "A buzz of voices filled the cafeteria."
           ]
         }
       }

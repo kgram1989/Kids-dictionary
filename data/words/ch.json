@@ -111,6 +111,35 @@
     ]
   },
   {
+    "word": "champion",
+    "say": "CHAM-pee-un",
+    "emoji": "🏆",
+    "forms": [
+      "champions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The person or team that wins.",
+          "examples": [
+            "She is the swimming champion.",
+            "Our team is the champion.",
+            "The champion held up the cup."
+          ]
+        },
+        "more": {
+          "def": "A person or team that has won a contest or a whole season of games.",
+          "examples": [
+            "The champion got a gold medal and a trophy.",
+            "Our school is the state champion in spelling.",
+            "The chess champion has not lost a game this year."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chance",
     "say": "chanss",
     "forms": [
@@ -407,6 +436,34 @@
             "Our coach put Dani in charge of the water bottles.",
             "The captain is in charge of the whole ship.",
             "Who is in charge of the library today?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "charming",
+    "say": "CHAR-ming",
+    "forms": [
+      "charmingly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very nice and pleasing.",
+          "examples": [
+            "The puppy is charming.",
+            "We stayed in a charming little house.",
+            "She has a charming smile."
+          ]
+        },
+        "more": {
+          "def": "Pleasant and attractive in a way that makes people like it.",
+          "examples": [
+            "The charming village had flowers in every window.",
+            "He was a charming host who made every guest feel welcome.",
+            "The little cottage looked charming with its blue door."
           ]
         }
       }
@@ -1080,6 +1137,43 @@
     ]
   },
   {
+    "word": "chop",
+    "say": "chop",
+    "emoji": "🪓",
+    "forms": [
+      "chops",
+      "chopped",
+      "chopping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cut something into pieces.",
+          "examples": [
+            "Dad will chop the onions.",
+            "We chop wood.",
+            "She chopped the carrots."
+          ]
+        },
+        "more": {
+          "def": "To cut something into pieces with a quick, hard stroke.",
+          "examples": [
+            "Mom chopped the onions for the soup.",
+            "He chopped wood for the campfire.",
+            "The chef chopped the herbs into tiny bits."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "choppy",
+        "def": "Rough, with small waves."
+      }
+    ]
+  },
+  {
     "word": "Christmas",
     "say": "KRISS-mus",
     "emoji": "🎄",
@@ -1103,6 +1197,36 @@
             "Our family bakes cookies and gives gifts at Christmas.",
             "Lights and wreaths decorate the town before Christmas.",
             "We sang carols at the school concert near Christmas."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chuck",
+    "say": "chuk",
+    "forms": [
+      "chucks",
+      "chucked",
+      "chucking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To throw something without much care.",
+          "examples": [
+            "I chucked the ball.",
+            "He chucked the paper away.",
+            "She chucked a pebble."
+          ]
+        },
+        "more": {
+          "def": "To throw something in a quick, casual way.",
+          "examples": [
+            "He chucked the ball over the fence.",
+            "Chuck the old papers in the bin.",
+            "She chucked her backpack on the couch."
           ]
         }
       }

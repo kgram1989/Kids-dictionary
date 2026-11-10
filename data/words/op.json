@@ -306,5 +306,33 @@
         "def": "Being against something."
       }
     ]
+  },
+  {
+    "word": "option",
+    "say": "OP-shun",
+    "forms": [
+      "options"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A choice you can make.",
+          "examples": [
+            "Pizza is one option for lunch.",
+            "You have two options.",
+            "Walking is an option."
+          ]
+        },
+        "more": {
+          "def": "One of the things you can choose from.",
+          "examples": [
+            "The menu gives you three options for dessert.",
+            "Taking the bus is a good option when it rains.",
+            "We talked over every option before we chose a name for the club."
+          ]
+        }
+      }
+    ]
   }
 ]

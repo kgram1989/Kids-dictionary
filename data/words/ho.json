@@ -65,6 +65,54 @@
     ]
   },
   {
+    "word": "holiday",
+    "say": "HOL-ih-day",
+    "emoji": "🎉",
+    "forms": [
+      "holidays"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A special day when people do not work.",
+          "examples": [
+            "Thanksgiving is a holiday.",
+            "Today is a holiday.",
+            "We have no school on a holiday."
+          ]
+        },
+        "more": {
+          "def": "A special day when people celebrate and many do not go to work or school.",
+          "examples": [
+            "Most stores close on the holiday.",
+            "Thanksgiving is a holiday in November.",
+            "The whole family gets together for the holiday."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A time away from home or school for fun and rest.",
+          "examples": [
+            "We went on a holiday.",
+            "We took a holiday by the sea.",
+            "Our holiday was fun."
+          ]
+        },
+        "more": {
+          "def": "A time away from work or school when you relax or travel.",
+          "examples": [
+            "They took a holiday at the beach.",
+            "Our school has a long holiday in summer.",
+            "Dad took a holiday from work to go camping."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "holy",
     "say": "HOH-lee",
     "forms": [
@@ -255,6 +303,37 @@
     ]
   },
   {
+    "word": "hop",
+    "say": "hop",
+    "emoji": "🐸",
+    "forms": [
+      "hops",
+      "hopped",
+      "hopping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To jump on one foot, or like a rabbit.",
+          "examples": [
+            "The bunny can hop.",
+            "I hop on one foot.",
+            "Frogs hop."
+          ]
+        },
+        "more": {
+          "def": "To jump on one foot, or to jump forward with both feet together like a rabbit.",
+          "examples": [
+            "The rabbit hopped across the lawn.",
+            "She hopped on one foot to the door.",
+            "Frogs hop from one lily pad to another."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hope",
     "say": "hohp",
     "forms": [
@@ -327,6 +406,54 @@
             "A ship appeared as a tiny dot on the horizon.",
             "Dark clouds gathered on the horizon.",
             "The road stretched all the way to the horizon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "horn",
+    "say": "horn",
+    "emoji": "🎺",
+    "forms": [
+      "horns"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hard, pointed part on the head of some animals.",
+          "examples": [
+            "The goat has two horns.",
+            "A rhino has a horn on its nose.",
+            "The ram butted with its horns."
+          ]
+        },
+        "more": {
+          "def": "A hard, pointed growth on the head of an animal such as a goat, bull or rhino.",
+          "examples": [
+            "The bull tossed its head and its long horns glinted.",
+            "A rhinoceros uses its horn to dig for roots.",
+            "Mountain goats have curved horns."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing on a car that goes beep.",
+          "examples": [
+            "The car horn went beep.",
+            "The bus driver blew the horn.",
+            "I heard a horn."
+          ]
+        },
+        "more": {
+          "def": "A thing on a car or ship that makes a loud noise to warn others.",
+          "examples": [
+            "The driver blew the horn to warn the cyclist.",
+            "A ship's horn echoed across the foggy bay.",
+            "The loud horn made the pigeons fly away."
           ]
         }
       }

@@ -210,6 +210,75 @@
     ]
   },
   {
+    "word": "monitor",
+    "say": "MON-ih-ter",
+    "emoji": "🖥️",
+    "forms": [
+      "monitors",
+      "monitored",
+      "monitoring"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A screen that shows pictures from a computer.",
+          "examples": [
+            "The monitor is on the desk.",
+            "She looked at the monitor.",
+            "The monitor is bright."
+          ]
+        },
+        "more": {
+          "def": "The screen of a computer, which shows words and pictures.",
+          "examples": [
+            "The computer monitor showed my game.",
+            "Dad bought a bigger monitor for his office.",
+            "The monitor went dark when the power went out."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A student who helps the teacher.",
+          "examples": [
+            "I am a hall monitor.",
+            "The monitor passed out papers.",
+            "The lunch monitor helped us."
+          ]
+        },
+        "more": {
+          "def": "A student or other person who has the job of watching over something.",
+          "examples": [
+            "The hall monitor reminded us to walk.",
+            "The class monitor took the plates to the cafeteria.",
+            "A lunch monitor helped the little kids."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To watch something over time.",
+          "examples": [
+            "The nurse monitors my temperature.",
+            "The class monitored the plant's growth.",
+            "We monitor the weather."
+          ]
+        },
+        "more": {
+          "def": "To watch and check something over time.",
+          "examples": [
+            "Scientists monitor the weather every day.",
+            "The nurse monitored the patient's heartbeat.",
+            "Our class monitored the growth of the bean plant."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "monkey",
     "say": "MUNG-kee",
     "emoji": "🐒",
@@ -484,6 +553,54 @@
       {
         "word": "mountainous",
         "def": "Having many mountains."
+      }
+    ]
+  },
+  {
+    "word": "mouse",
+    "say": "mowss",
+    "emoji": "🐭",
+    "forms": [
+      "mice"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small animal with a long tail.",
+          "examples": [
+            "A mouse ran under the bed.",
+            "The cat chased the mouse.",
+            "The mouse ate the cheese."
+          ]
+        },
+        "more": {
+          "def": "A small furry animal with a pointed nose, small ears and a long thin tail.",
+          "examples": [
+            "A tiny mouse nibbled on seeds in the barn.",
+            "Mice can squeeze through very small holes.",
+            "The owl swooped down to catch a mouse."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small tool you move with your hand to use a computer.",
+          "examples": [
+            "Click the mouse.",
+            "I move the mouse.",
+            "The mouse is by the computer."
+          ]
+        },
+        "more": {
+          "def": "A small device that you move by hand to point and click on a computer screen.",
+          "examples": [
+            "I clicked the mouse to open the game.",
+            "He moved the mouse to the button on the screen.",
+            "A wireless mouse has no cord."
+          ]
+        }
       }
     ]
   },

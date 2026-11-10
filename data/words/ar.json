@@ -77,6 +77,53 @@
     ]
   },
   {
+    "word": "argument",
+    "say": "AR-gyuh-munt",
+    "forms": [
+      "arguments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An angry talk between people who do not agree.",
+          "examples": [
+            "They had an argument.",
+            "The argument was about a toy.",
+            "I had an argument with my brother."
+          ]
+        },
+        "more": {
+          "def": "A disagreement in which people say angry things about what they think.",
+          "examples": [
+            "The two brothers had an argument about the game.",
+            "We settled the argument by taking turns.",
+            "They had an argument over who got the last cookie."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A reason you give to show something is true.",
+          "examples": [
+            "Her argument was clear.",
+            "He gave a good argument.",
+            "I made an argument for more recess."
+          ]
+        },
+        "more": {
+          "def": "A set of reasons that you give to try to show that something is right.",
+          "examples": [
+            "She made a good argument for a longer recess.",
+            "The writer gave three arguments for planting trees.",
+            "His argument convinced the class."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "arm",
     "say": "arm",
     "emoji": "💪",
@@ -108,6 +155,31 @@
       {
         "word": "armful",
         "def": "As much as your arms can hold."
+      }
+    ]
+  },
+  {
+    "word": "armed",
+    "say": "armd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having a weapon.",
+          "examples": [
+            "The knight was armed with a sword.",
+            "The guards were armed.",
+            "He was armed with a spear."
+          ]
+        },
+        "more": {
+          "def": "Carrying a weapon, or equipped with something to protect or fight.",
+          "examples": [
+            "The knight was armed with a sword and a shield.",
+            "The armed guards stood at the castle gate.",
+            "The explorers were armed with maps and lanterns."
+          ]
+        }
       }
     ]
   },
@@ -323,6 +395,54 @@
       {
         "word": "artful",
         "def": "Done with skill."
+      }
+    ]
+  },
+  {
+    "word": "article",
+    "say": "AR-tih-kul",
+    "emoji": "📰",
+    "forms": [
+      "articles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece of writing in a newspaper or magazine.",
+          "examples": [
+            "I read an article about space.",
+            "The article had a picture.",
+            "She wrote an article."
+          ]
+        },
+        "more": {
+          "def": "A piece of writing in a newspaper, magazine or website about a certain subject.",
+          "examples": [
+            "The newspaper ran an article about the new park.",
+            "Our class read an article about whales.",
+            "He wrote an article for the school paper."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing.",
+          "examples": [
+            "A hat is an article of clothing.",
+            "He lost an article.",
+            "This is a useful article."
+          ]
+        },
+        "more": {
+          "def": "One single thing, especially one of a group of things.",
+          "examples": [
+            "A coat is an article of clothing.",
+            "The lost article was returned to its owner.",
+            "Each article in the box was wrapped in paper."
+          ]
+        }
       }
     ]
   },

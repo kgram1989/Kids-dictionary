@@ -97,6 +97,31 @@
     ]
   },
   {
+    "word": "badly",
+    "say": "BAD-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a bad way.",
+          "examples": [
+            "I sang badly.",
+            "He played badly.",
+            "The old bike was badly rusted."
+          ]
+        },
+        "more": {
+          "def": "In a poor or unpleasant way, or very much.",
+          "examples": [
+            "The team played badly and lost the game.",
+            "The old house needs a new roof badly.",
+            "The tomatoes were badly damaged by the frost."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bag",
     "say": "bag",
     "emoji": "👜",
@@ -120,6 +145,36 @@
             "She packed her swimsuit in a bag.",
             "We filled three bags with leaves.",
             "A bag of flour sat on the shelf."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bail",
+    "say": "bayl",
+    "forms": [
+      "bails",
+      "bailed",
+      "bailing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To throw water out of a boat.",
+          "examples": [
+            "We bailed the boat.",
+            "She bailed water with a bucket.",
+            "Bail out the water."
+          ]
+        },
+        "more": {
+          "def": "To throw water out of a boat with a bucket or cup.",
+          "examples": [
+            "We bailed water out of the little boat with a pail.",
+            "The sailors bailed all night to keep afloat.",
+            "She bailed the rain from the canoe."
           ]
         }
       }
@@ -431,6 +486,92 @@
     ]
   },
   {
+    "word": "baseball",
+    "say": "BAYS-bawl",
+    "emoji": "⚾",
+    "forms": [
+      "baseballs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A game where you hit a ball with a bat and run around bases.",
+          "examples": [
+            "I play baseball after school.",
+            "Baseball is a fun game.",
+            "We watched a baseball game."
+          ]
+        },
+        "more": {
+          "def": "A game played by two teams with a bat and a ball, where players run around four bases.",
+          "examples": [
+            "Our baseball team practices twice a week.",
+            "The pitcher threw a fast baseball across the plate.",
+            "He hit a baseball over the fence for a home run."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "basement",
+    "say": "BAYS-munt",
+    "forms": [
+      "basements"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A room or floor below the ground in a house.",
+          "examples": [
+            "The washing machine is in the basement.",
+            "We play in the basement.",
+            "The basement is cool."
+          ]
+        },
+        "more": {
+          "def": "A room or rooms in a building that are partly or fully below the ground.",
+          "examples": [
+            "Dad stores the tools in the basement.",
+            "We play table tennis in the basement.",
+            "The basement stays cool even on hot days."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "basketball",
+    "say": "BAS-kit-bawl",
+    "emoji": "🏀",
+    "forms": [
+      "basketballs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A game where you throw a ball into a high basket.",
+          "examples": [
+            "I play basketball.",
+            "We watched basketball.",
+            "Basketball is fun."
+          ]
+        },
+        "more": {
+          "def": "A game in which two teams try to throw a large ball through a hoop.",
+          "examples": [
+            "We play basketball in the gym after school.",
+            "The basketball bounced off the rim.",
+            "He scored two points in the basketball game."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bat",
     "say": "bat",
     "emoji": "🦇",
@@ -578,6 +719,35 @@
             "The battle lasted for three days.",
             "Soldiers rested after the battle.",
             "We read about a famous battle in history class."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bay",
+    "say": "bay",
+    "emoji": "🌊",
+    "forms": [
+      "bays"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of the sea that goes into the land.",
+          "examples": [
+            "Boats floated in the bay.",
+            "We swam in the bay.",
+            "The bay is calm."
+          ]
+        },
+        "more": {
+          "def": "A wide part of the sea that curves into the land, like a large bend.",
+          "examples": [
+            "Sailboats drifted across the quiet bay.",
+            "Many fishing boats stay in the bay when it storms.",
+            "We walked along the beach around the bay."
           ]
         }
       }

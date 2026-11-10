@@ -1,5 +1,33 @@
 [
   {
+    "word": "slave",
+    "say": "slayv",
+    "forms": [
+      "slaves"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is owned by another and must work for free.",
+          "examples": [
+            "Long ago, many slaves worked on farms.",
+            "Slavery was cruel and unfair.",
+            "The book tells about a slave who ran to freedom."
+          ]
+        },
+        "more": {
+          "def": "A person who was treated as property and forced to work without freedom or pay.",
+          "examples": [
+            "Harriet Tubman helped many slaves escape to freedom.",
+            "In the past, slaves were bought and sold, which was wrong and cruel.",
+            "Our class read a story about a slave who learned to read in secret."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sleep",
     "say": "sleep",
     "forms": [
@@ -43,6 +71,56 @@
             "Children need a lot of sleep to grow and learn.",
             "I fell into a deep sleep as soon as my head touched the pillow.",
             "A good night of sleep helps you feel ready for school."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "slide",
+    "say": "slyd",
+    "emoji": "🛝",
+    "forms": [
+      "slides",
+      "slid",
+      "sliding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move smoothly over a surface.",
+          "examples": [
+            "I slide on the ice.",
+            "The sled slides down the hill.",
+            "He slid on the floor."
+          ]
+        },
+        "more": {
+          "def": "To move smoothly and quietly along a surface.",
+          "examples": [
+            "The kids slid down the snowy hill on sleds.",
+            "The drawer slides open easily.",
+            "He slid across the floor in his socks."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A smooth, slanted toy that you go down.",
+          "examples": [
+            "I go down the slide.",
+            "The slide is fun.",
+            "We played on the slide."
+          ]
+        },
+        "more": {
+          "def": "A smooth, slanted play structure that children climb up and come down on.",
+          "examples": [
+            "The children took turns on the slide at the park.",
+            "The slide is so tall that you can see the whole playground.",
+            "The little girl climbed the ladder and zoomed down the slide."
           ]
         }
       }
@@ -169,6 +247,32 @@
             "The driver slowed the car at the crosswalk.",
             "Please slow down before the corner.",
             "Rain slowed the runners."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "slowly",
+    "say": "SLOH-lee",
+    "emoji": "🐢",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Not fast.",
+          "examples": [
+            "The turtle walks slowly.",
+            "Eat slowly.",
+            "Please speak slowly."
+          ]
+        },
+        "more": {
+          "def": "At a slow speed, taking a long time.",
+          "examples": [
+            "The snail crept slowly across the path.",
+            "He slowly opened the door so it would not squeak.",
+            "Read the directions slowly and carefully."
           ]
         }
       }

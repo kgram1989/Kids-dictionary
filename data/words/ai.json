@@ -1,5 +1,61 @@
 [
   {
+    "word": "aim",
+    "say": "aym",
+    "emoji": "🎯",
+    "forms": [
+      "aims",
+      "aimed",
+      "aiming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To point something at a target.",
+          "examples": [
+            "I aim at the target.",
+            "She aimed the ball at the hoop.",
+            "He aimed the arrow."
+          ]
+        },
+        "more": {
+          "def": "To point something at the place you want it to go.",
+          "examples": [
+            "She aimed the ball at the basket and shot.",
+            "He aimed the hose at the flowers.",
+            "The archer aimed at the target."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A goal that you are trying to reach.",
+          "examples": [
+            "My aim is to finish.",
+            "His aim is to win.",
+            "Her aim is to read ten books."
+          ]
+        },
+        "more": {
+          "def": "The thing you are trying to do or reach.",
+          "examples": [
+            "My aim is to learn to swim this summer.",
+            "The aim of the club is to clean up the park.",
+            "Her aim was to get an A in math."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "aimless",
+        "def": "Without a goal."
+      }
+    ]
+  },
+  {
     "word": "air",
     "say": "air",
     "emoji": "💨",

@@ -1,5 +1,33 @@
 [
   {
+    "word": "exact",
+    "say": "ig-ZAKT",
+    "forms": [
+      "exactly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Just right, with nothing wrong.",
+          "examples": [
+            "What is the exact time?",
+            "This is the exact spot.",
+            "Give me the exact number."
+          ]
+        },
+        "more": {
+          "def": "Completely correct, with no mistakes.",
+          "examples": [
+            "The exact time is four fifteen.",
+            "She counted out the exact change for the bus.",
+            "Scientists need exact measurements for the experiment."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "exactly",
     "say": "ig-ZAKT-lee",
     "senses": [
@@ -144,6 +172,55 @@
     ]
   },
   {
+    "word": "exchange",
+    "say": "iks-CHAYNJ",
+    "forms": [
+      "exchanges",
+      "exchanged",
+      "exchanging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give one thing and get another.",
+          "examples": [
+            "We exchange cards.",
+            "I will exchange this shirt for a bigger one.",
+            "They exchanged gifts."
+          ]
+        },
+        "more": {
+          "def": "To give something and get something else in return.",
+          "examples": [
+            "The kids exchanged stickers at lunch.",
+            "Dad exchanged the shirt for a larger size.",
+            "The two teams exchanged gifts after the game."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Trading one thing for another.",
+          "examples": [
+            "A swap is an exchange.",
+            "The exchange of cards was fun.",
+            "We made an exchange."
+          ]
+        },
+        "more": {
+          "def": "The act of giving one thing and getting another in its place.",
+          "examples": [
+            "The class held a book exchange in the library.",
+            "We made an exchange: my apple for his cookie.",
+            "An exchange of letters kept the two friends close."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "excited",
     "say": "ik-SY-tid",
     "senses": [
@@ -244,6 +321,75 @@
     ]
   },
   {
+    "word": "exercise",
+    "say": "EK-ser-syz",
+    "emoji": "🏃",
+    "forms": [
+      "exercises",
+      "exercised",
+      "exercising"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Moving your body to stay strong and healthy.",
+          "examples": [
+            "I get exercise at recess.",
+            "Walking is good exercise.",
+            "Dogs need exercise."
+          ]
+        },
+        "more": {
+          "def": "Activity that makes your body stronger, such as running or swimming.",
+          "examples": [
+            "Running around the playground is good exercise.",
+            "The doctor said exercise helps our hearts stay healthy.",
+            "The dog gets exercise on long walks."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A task you do to practice something.",
+          "examples": [
+            "The math exercise was easy.",
+            "We did a spelling exercise.",
+            "Do the first exercise."
+          ]
+        },
+        "more": {
+          "def": "A set of questions or tasks that you do to practice a skill.",
+          "examples": [
+            "The teacher gave us a reading exercise.",
+            "Each exercise on the page has five questions.",
+            "We did a math exercise on fractions."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move your body to stay strong.",
+          "examples": [
+            "I exercise every day.",
+            "We exercised in the gym.",
+            "They exercise their dogs."
+          ]
+        },
+        "more": {
+          "def": "To do activities that make your body strong and healthy.",
+          "examples": [
+            "She exercises by riding her bike.",
+            "We exercised in gym class by running laps.",
+            "Cats and dogs both need to exercise."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "exhausted",
     "say": "eg-ZAW-stid",
     "emoji": "😴",
@@ -324,6 +470,32 @@
             "We expect the first snow to fall sometime next week.",
             "The teacher expects everyone to bring a pencil.",
             "I was expecting a letter, but nothing came today."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "expensive",
+    "say": "ik-SPEN-siv",
+    "emoji": "💰",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Costing a lot of money.",
+          "examples": [
+            "The big toy is expensive.",
+            "That coat is too expensive.",
+            "Gold is expensive."
+          ]
+        },
+        "more": {
+          "def": "Costing more money than most people want to spend.",
+          "examples": [
+            "The new computer was too expensive for us to buy.",
+            "Diamonds are expensive because they are rare.",
+            "An expensive meal at a fancy place can cost a lot."
           ]
         }
       }
@@ -472,6 +644,34 @@
     ]
   },
   {
+    "word": "explanation",
+    "say": "ek-spluh-NAY-shun",
+    "forms": [
+      "explanations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words that tell why or how something happens.",
+          "examples": [
+            "The teacher gave an explanation.",
+            "I asked for an explanation.",
+            "Her explanation was clear."
+          ]
+        },
+        "more": {
+          "def": "A statement that tells how something works or why something happened.",
+          "examples": [
+            "The teacher gave a clear explanation of how plants grow.",
+            "He had a good explanation for being late.",
+            "The book's explanation of the water cycle had a diagram."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "explore",
     "say": "ek-SPLOR",
     "emoji": "🗺️",
@@ -497,6 +697,36 @@
             "The divers explored a cave deep under the sea.",
             "Robots explore the surface of Mars.",
             "On vacation, we explored the old part of the city."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "express",
+    "say": "ik-SPRESS",
+    "forms": [
+      "expresses",
+      "expressed",
+      "expressing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To show how you feel or what you think.",
+          "examples": [
+            "I express my feelings.",
+            "She expressed her thanks.",
+            "He expressed his idea in words."
+          ]
+        },
+        "more": {
+          "def": "To let others know what you think or feel, in words, art or actions.",
+          "examples": [
+            "She expressed her thanks with a card.",
+            "Painting helps him express his feelings.",
+            "The children expressed their ideas in drawings."
           ]
         }
       }

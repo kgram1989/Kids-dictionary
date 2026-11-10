@@ -1,5 +1,54 @@
 [
   {
+    "word": "swallow",
+    "say": "SWOL-oh",
+    "forms": [
+      "swallows",
+      "swallowed",
+      "swallowing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make food go down your throat.",
+          "examples": [
+            "I swallow my food.",
+            "She swallowed the pill.",
+            "The baby swallowed the milk."
+          ]
+        },
+        "more": {
+          "def": "To make food or drink go down your throat from your mouth.",
+          "examples": [
+            "Chew your food well before you swallow.",
+            "The little boy swallowed his juice in one gulp.",
+            "The snake swallowed the egg whole."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small bird with a forked tail that flies fast.",
+          "examples": [
+            "A swallow flew by.",
+            "The swallow built a nest.",
+            "Swallows fly fast."
+          ]
+        },
+        "more": {
+          "def": "A small, fast bird with long pointed wings and a forked tail.",
+          "examples": [
+            "A swallow darted over the pond to catch insects.",
+            "Swallows build mud nests under bridges.",
+            "The swallows flew south for the winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "swear",
     "say": "swair",
     "forms": [
@@ -198,6 +247,37 @@
             "\"Time for bed, sweetie,\" said Dad.",
             "Grandma called me sweetie and gave me a hug.",
             "\"Thank you, sweetie,\" said the neighbor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "swell",
+    "say": "swel",
+    "forms": [
+      "swells",
+      "swelled",
+      "swollen",
+      "swelling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get bigger or fatter.",
+          "examples": [
+            "My ankle will swell.",
+            "The river swelled.",
+            "The balloon swelled."
+          ]
+        },
+        "more": {
+          "def": "To grow bigger, rounder or fuller than normal.",
+          "examples": [
+            "His ankle swelled after he twisted it.",
+            "The river swelled after days of heavy rain.",
+            "The sponge swells when it soaks up water."
           ]
         }
       }

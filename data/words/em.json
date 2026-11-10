@@ -31,6 +31,58 @@
     ]
   },
   {
+    "word": "embarrassed",
+    "say": "im-BAIR-ust",
+    "emoji": "😳",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling shy or silly because of something that happened.",
+          "examples": [
+            "I was embarrassed when I tripped.",
+            "She felt embarrassed.",
+            "He turned red and was embarrassed."
+          ]
+        },
+        "more": {
+          "def": "Feeling awkward or ashamed in front of other people.",
+          "examples": [
+            "He was embarrassed when he forgot his lines.",
+            "She felt embarrassed when she called the teacher \"Mom.\"",
+            "The embarrassed boy hid his face."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "embarrassing",
+    "say": "im-BAIR-uh-sing",
+    "emoji": "😳",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making you feel shy or silly in front of others.",
+          "examples": [
+            "It was embarrassing to trip.",
+            "That is an embarrassing mistake.",
+            "The song was embarrassing."
+          ]
+        },
+        "more": {
+          "def": "Causing you to feel awkward, shy or ashamed in front of other people.",
+          "examples": [
+            "It was embarrassing when I called my teacher \"Mom.\"",
+            "He found it embarrassing to sing alone.",
+            "Tripping in front of the whole class was embarrassing."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "emergency",
     "say": "ih-MER-jun-see",
     "forms": [
@@ -53,6 +105,68 @@
             "Call for help in an emergency.",
             "The hospital treats emergencies all night.",
             "In an emergency, stay calm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "emotional",
+    "say": "ih-MOH-shun-ul",
+    "forms": [
+      "emotionally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having strong feelings.",
+          "examples": [
+            "He was emotional at the end.",
+            "The movie was emotional.",
+            "She felt emotional."
+          ]
+        },
+        "more": {
+          "def": "Having to do with feelings, or showing strong feelings.",
+          "examples": [
+            "The goodbye was emotional for everyone.",
+            "She felt emotional and cried happy tears.",
+            "The movie had an emotional ending."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unemotional",
+        "def": "Not showing feelings."
+      }
+    ]
+  },
+  {
+    "word": "employee",
+    "say": "em-PLOY-ee",
+    "forms": [
+      "employees"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who works for someone for pay.",
+          "examples": [
+            "The employee helped us find the book.",
+            "An employee at the store wore a badge.",
+            "He is an employee at the bank."
+          ]
+        },
+        "more": {
+          "def": "A person who is paid to work for a business or a person.",
+          "examples": [
+            "An employee at the shop helped us find the right size.",
+            "The company has fifty employees.",
+            "The new employee started work on Monday."
           ]
         }
       }

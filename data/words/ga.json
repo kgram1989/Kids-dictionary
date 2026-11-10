@@ -1,5 +1,35 @@
 [
   {
+    "word": "gain",
+    "say": "gayn",
+    "forms": [
+      "gains",
+      "gained",
+      "gaining"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get more of something.",
+          "examples": [
+            "I gained a pound.",
+            "She gained a new friend.",
+            "The plant gains height each week."
+          ]
+        },
+        "more": {
+          "def": "To get something you did not have, or to get more of something.",
+          "examples": [
+            "The team gained speed as it ran downhill.",
+            "He gained a new friend at camp.",
+            "The puppy gained weight and grew bigger."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "game",
     "say": "gaym",
     "forms": [
@@ -56,6 +86,61 @@
             "A gang of kids played ball at the park.",
             "The whole gang came to my party.",
             "A gang of crows sat on the fence."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "garage",
+    "say": "guh-RAHZH",
+    "emoji": "🚗",
+    "forms": [
+      "garages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where you park a car.",
+          "examples": [
+            "Dad parked the car in the garage.",
+            "Our bikes are in the garage.",
+            "The garage door is open."
+          ]
+        },
+        "more": {
+          "def": "A building or part of a house for keeping a car, or a place where cars are fixed.",
+          "examples": [
+            "We keep the ladder and the tools in the garage.",
+            "The mechanic at the garage fixed our brakes.",
+            "The rain stopped, so we rolled the bikes out of the garage."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "garbage",
+    "say": "GAR-bij",
+    "emoji": "🗑️",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things you throw away.",
+          "examples": [
+            "Put the garbage in the can.",
+            "The garbage truck came.",
+            "I took out the garbage."
+          ]
+        },
+        "more": {
+          "def": "Waste that has been thrown away, such as old food and empty boxes.",
+          "examples": [
+            "The garbage is collected every Tuesday.",
+            "He tossed the banana peel into the garbage.",
+            "The raccoon tipped over the garbage can."
           ]
         }
       }

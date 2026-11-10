@@ -1,5 +1,158 @@
 [
   {
+    "word": "flag",
+    "say": "flag",
+    "emoji": "🚩",
+    "forms": [
+      "flags"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece of cloth with colors or a picture on it.",
+          "examples": [
+            "The flag is red, white and blue.",
+            "We raise the flag at school.",
+            "The flag waves in the wind."
+          ]
+        },
+        "more": {
+          "def": "A piece of cloth with colors and shapes, used as a sign of a country, group or idea.",
+          "examples": [
+            "The flag of our country flies over the school.",
+            "The race started when the judge dropped a flag.",
+            "Sailors fly a flag from the top of the ship."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flash",
+    "say": "flash",
+    "emoji": "⚡",
+    "forms": [
+      "flashes",
+      "flashed",
+      "flashing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A quick bright light.",
+          "examples": [
+            "I saw a flash of lightning.",
+            "The camera made a flash.",
+            "A flash lit the sky."
+          ]
+        },
+        "more": {
+          "def": "A sudden, short burst of bright light.",
+          "examples": [
+            "A flash of lightning lit up the sky.",
+            "The camera flash made me blink.",
+            "A firefly gave a flash and was gone."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shine suddenly and quickly.",
+          "examples": [
+            "The light flashed.",
+            "The sign flashed on and off.",
+            "Lightning flashes."
+          ]
+        },
+        "more": {
+          "def": "To give off a quick, bright light, or to move very fast.",
+          "examples": [
+            "The lighthouse flashed a warning at sea.",
+            "A fish flashed through the water.",
+            "The police car flashed its lights."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flat",
+    "say": "flat",
+    "forms": [
+      "flatter",
+      "flattest",
+      "flats"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Smooth and even, with no bumps.",
+          "examples": [
+            "The table is flat.",
+            "Kansas is very flat.",
+            "I lay on the flat rock."
+          ]
+        },
+        "more": {
+          "def": "Smooth and level, with no hills or bumps.",
+          "examples": [
+            "The farmers planted wheat on the flat land.",
+            "A flat stone makes a good seat.",
+            "The road across the desert is long and flat."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having no air in it.",
+          "examples": [
+            "My bike tire is flat.",
+            "The ball went flat.",
+            "We had a flat tire."
+          ]
+        },
+        "more": {
+          "def": "Without enough air inside, so that it is not round or firm.",
+          "examples": [
+            "The bike was slow because the back tire was flat.",
+            "The flat basketball would not bounce.",
+            "Dad fixed the flat tire at the side of the road."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flesh",
+    "say": "flesh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The soft part of your body or an animal's body, under the skin.",
+          "examples": [
+            "The doctor looked at the flesh.",
+            "Flesh is soft.",
+            "Bones are covered in flesh."
+          ]
+        },
+        "more": {
+          "def": "The soft part of a body between the skin and the bones, or the soft part of a fruit.",
+          "examples": [
+            "A cut went through the skin into the flesh.",
+            "The flesh of the peach was soft and sweet.",
+            "Bones are covered by muscle and flesh."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "flexible",
     "say": "FLEK-suh-bul",
     "senses": [
@@ -150,6 +303,55 @@
             "My aunt lives on the tenth floor of her building.",
             "The art room is on the second floor.",
             "Push the button for the fourth floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flow",
+    "say": "floh",
+    "forms": [
+      "flows",
+      "flowed",
+      "flowing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move along smoothly, like water.",
+          "examples": [
+            "Water flows in the stream.",
+            "The river flows to the sea.",
+            "Honey flows slowly."
+          ]
+        },
+        "more": {
+          "def": "To move along smoothly in one direction, as water does.",
+          "examples": [
+            "The stream flows past the old mill.",
+            "Water flowed out of the tap.",
+            "Cars flowed along the highway."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A steady stream of something.",
+          "examples": [
+            "The flow of the river is slow.",
+            "There was a flow of water.",
+            "A flow of cars passed."
+          ]
+        },
+        "more": {
+          "def": "A steady movement of something, such as water or people.",
+          "examples": [
+            "The flow of the river slowed in summer.",
+            "A flow of people left the stadium.",
+            "The nurse watched the flow of water into the cup."
           ]
         }
       }

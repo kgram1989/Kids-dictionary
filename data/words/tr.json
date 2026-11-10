@@ -213,6 +213,63 @@
     ]
   },
   {
+    "word": "traffic",
+    "say": "TRAF-ik",
+    "emoji": "🚦",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Cars and trucks moving on a road.",
+          "examples": [
+            "There is a lot of traffic today.",
+            "We waited for the traffic to stop.",
+            "The traffic is slow near the school."
+          ]
+        },
+        "more": {
+          "def": "The cars, buses and trucks moving along a road or street at one time.",
+          "examples": [
+            "Heavy traffic made us late for the game.",
+            "A police officer directed traffic after the storm.",
+            "Traffic moves slowly on rainy days."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "trail",
+    "say": "trayl",
+    "emoji": "🥾",
+    "forms": [
+      "trails",
+      "trailed",
+      "trailing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A path through the woods or hills.",
+          "examples": [
+            "We hiked a trail.",
+            "The trail was muddy.",
+            "The trail goes up the mountain."
+          ]
+        },
+        "more": {
+          "def": "A rough path through the countryside, made by people or animals.",
+          "examples": [
+            "We followed the trail through the woods.",
+            "Hikers walked along a rocky trail up the mountain.",
+            "A trail of footprints led to the door."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "train",
     "say": "trayn",
     "emoji": "🚆",
@@ -393,6 +450,32 @@
     ]
   },
   {
+    "word": "trash",
+    "say": "trash",
+    "emoji": "🗑️",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things you throw away.",
+          "examples": [
+            "Put the paper in the trash.",
+            "The trash can is full.",
+            "I took out the trash."
+          ]
+        },
+        "more": {
+          "def": "Things that are thrown away because no one wants them, like old paper or empty cans.",
+          "examples": [
+            "The park was clean, with no trash on the ground.",
+            "Please put your wrappers in the trash.",
+            "We sorted the trash into paper, plastic and cans."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "travel",
     "say": "TRAV-ul",
     "emoji": "✈️",
@@ -519,6 +602,40 @@
             "The vet treated the horse's sore leg."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "treatment",
+    "say": "TREET-munt",
+    "forms": [
+      "treatments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Care that helps a sick person get better.",
+          "examples": [
+            "The doctor gave her a treatment.",
+            "Rest is the best treatment.",
+            "The treatment worked."
+          ]
+        },
+        "more": {
+          "def": "The care or medicine a doctor gives to help someone get well.",
+          "examples": [
+            "The doctor gave her a treatment for her cough.",
+            "Rest and warm soup were the best treatment for his cold.",
+            "The vet gave the dog treatment for its sore paw."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "mistreatment",
+        "def": "Treating someone badly."
       }
     ]
   },
@@ -697,6 +814,55 @@
     ]
   },
   {
+    "word": "trigger",
+    "say": "TRIG-er",
+    "forms": [
+      "triggers",
+      "triggered",
+      "triggering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something start.",
+          "examples": [
+            "A loud noise can trigger the alarm.",
+            "The smoke triggered the alarm.",
+            "The storm triggered a power failure."
+          ]
+        },
+        "more": {
+          "def": "To cause something to start or happen.",
+          "examples": [
+            "A tiny bug on the sensor triggered the alarm.",
+            "Heavy rain triggered a flood in the valley.",
+            "The funny joke triggered a burst of laughter."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part you press to make something work.",
+          "examples": [
+            "He pressed the trigger on the camera.",
+            "The trigger is on the nozzle.",
+            "I pulled the trigger of the spray bottle."
+          ]
+        },
+        "more": {
+          "def": "A small lever or button that you press to start a machine working.",
+          "examples": [
+            "She pulled the trigger on the spray bottle.",
+            "The camera's trigger takes the picture.",
+            "The trigger on the water gun is easy to press."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "trip",
     "say": "trip",
     "emoji": "🧳",
@@ -823,6 +989,73 @@
             "It is true that the Earth goes around the sun.",
             "The book tells a true story about a brave dog.",
             "Is it true that bats can see in the dark?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "trunk",
+    "say": "trungk",
+    "emoji": "🐘",
+    "forms": [
+      "trunks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The thick main part of a tree.",
+          "examples": [
+            "The tree trunk is wide.",
+            "A squirrel ran up the trunk.",
+            "We hugged the tree trunk."
+          ]
+        },
+        "more": {
+          "def": "The thick main stem of a tree, from which the branches grow.",
+          "examples": [
+            "A squirrel scurried up the tree trunk.",
+            "The trunk of the old oak was too wide to hug.",
+            "Moss grew on one side of the trunk."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An elephant's long nose.",
+          "examples": [
+            "The elephant used its trunk to drink.",
+            "An elephant sprayed water with its trunk.",
+            "The baby held its mother's tail with its trunk."
+          ]
+        },
+        "more": {
+          "def": "The long, flexible nose of an elephant, used for smelling, drinking and picking things up.",
+          "examples": [
+            "The elephant sprayed water with its trunk.",
+            "She fed a peanut to the elephant, which took it with its trunk.",
+            "An elephant uses its trunk like a hand."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big box with a lid used for storing things.",
+          "examples": [
+            "The old toys are in the trunk.",
+            "Grandma keeps blankets in a trunk.",
+            "A trunk was at the foot of the bed."
+          ]
+        },
+        "more": {
+          "def": "A large box with a lid used for storing or carrying things, or the storage space at the back of a car.",
+          "examples": [
+            "He put the bags in the trunk of the car.",
+            "Grandpa's old trunk is full of photographs.",
+            "The pirates hid the treasure in a wooden trunk."
           ]
         }
       }
