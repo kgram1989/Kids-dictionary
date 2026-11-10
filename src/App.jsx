@@ -195,12 +195,16 @@ function WordPage({ word, level, starred, onStar }) {
                 <button className="speak small" onClick={() => speak(s[level].def)} aria-label="Hear the meaning">🔊</button>
               )}
             </p>
-            <p className="example">
-              “{s[level].example}”
-              {canSpeak && (
-                <button className="speak small" onClick={() => speak(s[level].example)} aria-label="Hear the sentence">🔊</button>
-              )}
-            </p>
+            <ul className="examples" aria-label="Example sentences">
+              {s[level].examples.map((ex) => (
+                <li key={ex}>
+                  <span>“{ex}”</span>
+                  {canSpeak && (
+                    <button className="speak small" onClick={() => speak(ex)} aria-label="Hear the sentence">🔊</button>
+                  )}
+                </li>
+              ))}
+            </ul>
           </li>
         ))}
       </ol>
