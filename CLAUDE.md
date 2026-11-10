@@ -9,6 +9,7 @@ no server or database.
 - `data/words/*.json` — the dictionary entries, in files named after each word's first two letters (`camouflage` → `ca.json`).
 - `data/wordlist.txt` — the master list of about 10,500 words to add, most-used first. Do not reorder it.
 - `data/skipped.txt` — words from the list that were deliberately left out, with reasons.
+- `data/unsure.txt` — entries that were added but need a second look, as `word | what to check`. Add to it every session; only delete a line after review.
 - `docs/WRITING_GUIDE.md` — the rules for writing entries, and the step-by-step workflow.
 - `scripts/` — `check-words.mjs` (validation and search index), `next-words.mjs`, `add-words.mjs`.
 - `src/` — the app.
