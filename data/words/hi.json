@@ -31,6 +31,50 @@
     ]
   },
   {
+    "word": "high",
+    "say": "hy",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Far up from the ground.",
+          "examples": [
+            "The tree is high.",
+            "A high shelf.",
+            "The mountain is high."
+          ]
+        },
+        "more": {
+          "def": "Reaching a long way up, or at a great distance above the ground.",
+          "examples": [
+            "The giraffe ate leaves from the high branches.",
+            "We climbed to a high hill and looked at the town.",
+            "The kite flew high above the field."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Up in the air.",
+          "examples": [
+            "The bird flew high.",
+            "Jump high!",
+            "She threw it high."
+          ]
+        },
+        "more": {
+          "def": "To or at a place far above the ground.",
+          "examples": [
+            "Eagles soar high above the canyon.",
+            "He jumped as high as he could.",
+            "The balloon floated high into the sky."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "him",
     "say": "him",
     "senses": [
@@ -75,6 +119,35 @@
             "My dad forgot his keys on the kitchen table.",
             "The horse shook his mane in the wind.",
             "Ravi finished his homework before dinner."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hit",
+    "say": "hit",
+    "forms": [
+      "hits",
+      "hitting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To touch something hard with a quick move.",
+          "examples": [
+            "I hit the ball.",
+            "The ball hit the wall.",
+            "She hit the drum."
+          ]
+        },
+        "more": {
+          "def": "To strike something with force, usually with your hand or an object.",
+          "examples": [
+            "She hit the ball over the fence with a bat.",
+            "The rain hit the window with a loud tap.",
+            "He hit the drum in time with the music."
           ]
         }
       }

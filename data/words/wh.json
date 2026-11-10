@@ -25,6 +25,31 @@
     ]
   },
   {
+    "word": "whatever",
+    "say": "wut-EV-er",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "Any thing at all.",
+          "examples": [
+            "Eat whatever you like.",
+            "Do whatever you want.",
+            "Take whatever you need."
+          ]
+        },
+        "more": {
+          "def": "Anything or everything that, no matter what it is.",
+          "examples": [
+            "You can paint whatever you like on the paper.",
+            "Whatever happens, we will stay together.",
+            "Pick whatever flavor you want."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "when",
     "say": "wen",
     "senses": [
@@ -94,6 +119,75 @@
     ]
   },
   {
+    "word": "which",
+    "say": "wich",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A word used to ask about one out of a few.",
+          "examples": [
+            "Which one do you want?",
+            "Which is your coat?",
+            "Which way is home?"
+          ]
+        },
+        "more": {
+          "def": "A word used to ask or tell what one of a group is meant.",
+          "examples": [
+            "Which of these books have you already read?",
+            "I could not tell which twin was Ava.",
+            "Tell me which road leads to the lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "while",
+    "say": "wyl",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "At the same time as.",
+          "examples": [
+            "I sing while I walk.",
+            "Read while I cook.",
+            "She naps while it rains."
+          ]
+        },
+        "more": {
+          "def": "During the time that something else is happening.",
+          "examples": [
+            "The audience stayed quiet while the band played.",
+            "I did my homework while my sister set the table.",
+            "Birds sing while the sun comes up."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short time.",
+          "examples": [
+            "Stay for a while.",
+            "It was a long while ago.",
+            "Rest a while."
+          ]
+        },
+        "more": {
+          "def": "A period of time.",
+          "examples": [
+            "It took a while for the paint to dry.",
+            "We waited for a while at the bus stop.",
+            "She has not played the piano in a long while."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "whisper",
     "say": "WISS-per",
     "emoji": "🤫",
@@ -148,6 +242,31 @@
             "Who wrote the book about the sea turtle?",
             "The girl who sits next to me is new.",
             "I know who left the muddy footprints on the floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "whole",
+    "say": "hohl",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "All of something, with no part missing.",
+          "examples": [
+            "I ate the whole apple.",
+            "She read the whole book.",
+            "The whole class cheered."
+          ]
+        },
+        "more": {
+          "def": "Complete, with nothing left out or broken.",
+          "examples": [
+            "He ate the whole sandwich and was still hungry.",
+            "The whole class went on the trip to the zoo.",
+            "We looked for the whole afternoon but could not find the key."
           ]
         }
       }

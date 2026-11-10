@@ -58,6 +58,34 @@
     ]
   },
   {
+    "word": "word",
+    "say": "werd",
+    "forms": [
+      "words"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sound or letters that mean something.",
+          "examples": [
+            "I know that word.",
+            "Write a word.",
+            "Say the word."
+          ]
+        },
+        "more": {
+          "def": "A sound or a group of letters that has meaning, used when we speak or write.",
+          "examples": [
+            "The word cat has three letters.",
+            "She learned a new word in class today.",
+            "He could not find the right word to describe it."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "work",
     "say": "werk",
     "forms": [
@@ -126,6 +154,34 @@
     ]
   },
   {
+    "word": "world",
+    "say": "werld",
+    "forms": [
+      "worlds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The whole Earth and everything on it.",
+          "examples": [
+            "I want to see the world.",
+            "The world is big.",
+            "Kids all over the world play."
+          ]
+        },
+        "more": {
+          "def": "The planet Earth and all the people, animals, and places on it.",
+          "examples": [
+            "The Amazon is one of the largest rain forests in the world.",
+            "People all over the world celebrate the new year.",
+            "Our teacher showed us a map of the world."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "worried",
     "say": "WER-eed",
     "emoji": "😟",
@@ -146,6 +202,55 @@
             "He was worried that he would miss the bus.",
             "The farmer is worried about the lack of rain.",
             "She gave me a worried look."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "worry",
+    "say": "WER-ee",
+    "forms": [
+      "worries",
+      "worried",
+      "worrying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To feel that something bad may happen.",
+          "examples": [
+            "I worry about the test.",
+            "Do not worry.",
+            "She worried about her cat."
+          ]
+        },
+        "more": {
+          "def": "To keep thinking in an uneasy way that something bad may happen.",
+          "examples": [
+            "Do not worry, because we have plenty of time.",
+            "He worried that he would forget his lines in the play.",
+            "My grandmother worries when it snows."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A feeling that something bad may happen.",
+          "examples": [
+            "I have a worry.",
+            "Her worry went away.",
+            "That is no worry."
+          ]
+        },
+        "more": {
+          "def": "An uneasy feeling about something that might go wrong, or the cause of that feeling.",
+          "examples": [
+            "His biggest worry was that he would be late for the bus.",
+            "She shared her worry with her teacher, who helped.",
+            "Rain is no worry because we have umbrellas."
           ]
         }
       }

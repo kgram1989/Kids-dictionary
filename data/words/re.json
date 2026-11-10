@@ -1,5 +1,104 @@
 [
   {
+    "word": "read",
+    "say": "reed",
+    "forms": [
+      "reads",
+      "reading"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look at words and know what they say.",
+          "examples": [
+            "I read a book.",
+            "She reads to me.",
+            "Can you read this?"
+          ]
+        },
+        "more": {
+          "def": "To look at written words and understand them, or to say them aloud.",
+          "examples": [
+            "Our teacher reads a chapter to us every afternoon.",
+            "I read the whole book in one weekend.",
+            "Can you read the sign on the other side of the street?"
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "say": "red",
+        "easy": {
+          "def": "Looked at words and knew what they said.",
+          "examples": [
+            "I read the book.",
+            "She read it last night.",
+            "We read that story."
+          ]
+        },
+        "more": {
+          "def": "Looked at written words and understood them, in the time before now.",
+          "examples": [
+            "I read that book last summer, and I loved it.",
+            "She read the letter twice before she answered.",
+            "We read about volcanoes in science class yesterday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ready",
+    "say": "RED-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "All set to do something.",
+          "examples": [
+            "I am ready for school.",
+            "Dinner is ready.",
+            "Are you ready?"
+          ]
+        },
+        "more": {
+          "def": "Prepared and able to do something right away.",
+          "examples": [
+            "The runners are ready at the starting line.",
+            "Are you ready for tomorrow's spelling test?",
+            "The cookies will be ready in ten minutes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "real",
+    "say": "reel",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not pretend, but true.",
+          "examples": [
+            "Is the dragon real?",
+            "That is a real bird.",
+            "It was a real surprise."
+          ]
+        },
+        "more": {
+          "def": "Existing in fact, and not imagined or fake.",
+          "examples": [
+            "The story is made up, but the dinosaur bones are real.",
+            "This is a real diamond, not a piece of glass.",
+            "Is the snake in the cage real or made of rubber?"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "really",
     "say": "REE-lee",
     "senses": [
@@ -19,6 +118,34 @@
             "The mountain is really high, so we took a long break.",
             "Did you really see a shooting star?",
             "I am really sorry that I broke your cup."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "reason",
+    "say": "REE-zun",
+    "forms": [
+      "reasons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Why something happens.",
+          "examples": [
+            "What is the reason?",
+            "She had a good reason.",
+            "I know the reason."
+          ]
+        },
+        "more": {
+          "def": "The cause of something, or an explanation for why it happens.",
+          "examples": [
+            "The reason the grass is wet is that it rained last night.",
+            "He had a good reason for being late to class.",
+            "Tell me the reason you chose that book."
           ]
         }
       }
@@ -283,6 +410,55 @@
             "A responsible pet owner makes sure the dog gets a walk every day.",
             "Who is responsible for locking the door?",
             "She is a responsible babysitter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "rest",
+    "say": "rest",
+    "forms": [
+      "rests",
+      "rested",
+      "resting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop and be still after you were busy.",
+          "examples": [
+            "I rest on the couch.",
+            "The dog rested.",
+            "Let us rest here."
+          ]
+        },
+        "more": {
+          "def": "To stop working or moving so that your body can get strong again.",
+          "examples": [
+            "We sat down to rest after the long hike.",
+            "The doctor told him to rest his sore ankle.",
+            "The cat rested in a patch of sunshine."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part that is left.",
+          "examples": [
+            "I ate the rest.",
+            "Give me the rest.",
+            "She kept the rest."
+          ]
+        },
+        "more": {
+          "def": "The part that is left over, or the other people or things.",
+          "examples": [
+            "I ate one cookie and saved the rest for later.",
+            "The rest of the class is outside.",
+            "He finished half the book and will read the rest tomorrow."
           ]
         }
       }

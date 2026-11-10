@@ -26,5 +26,80 @@
         }
       }
     ]
+  },
+  {
+    "word": "write",
+    "say": "ryt",
+    "forms": [
+      "writes",
+      "wrote",
+      "written",
+      "writing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make letters and words with a pencil or pen.",
+          "examples": [
+            "I write my name.",
+            "She wrote a note.",
+            "Write the word here."
+          ]
+        },
+        "more": {
+          "def": "To put words or numbers on paper, or on a screen, using a pen or keyboard.",
+          "examples": [
+            "Please write your name at the top of the page.",
+            "She wrote a letter to her grandfather.",
+            "He is writing a story about a pirate."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wrong",
+    "say": "rong",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not right or not true.",
+          "examples": [
+            "That answer is wrong.",
+            "I took the wrong bus.",
+            "You have the wrong shoe."
+          ]
+        },
+        "more": {
+          "def": "Not correct, or not the way something should be.",
+          "examples": [
+            "I got the wrong answer because I added the numbers badly.",
+            "She turned the wrong way and got lost in the museum.",
+            "Something is wrong with the clock, because it stopped."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Bad, and not fair or kind.",
+          "examples": [
+            "It is wrong to take it.",
+            "Hurting a pet is wrong.",
+            "He knew it was wrong."
+          ]
+        },
+        "more": {
+          "def": "Not good, fair, or honest.",
+          "examples": [
+            "It is wrong to copy someone else's work.",
+            "He felt sorry because he knew he had done something wrong.",
+            "Telling a lie to a friend is wrong."
+          ]
+        }
+      }
+    ]
   }
 ]

@@ -1,5 +1,54 @@
 [
   {
+    "word": "open",
+    "say": "OH-pun",
+    "forms": [
+      "opens",
+      "opened",
+      "opening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move something so it is not shut.",
+          "examples": [
+            "Open the door.",
+            "I opened the box.",
+            "She opens her eyes."
+          ]
+        },
+        "more": {
+          "def": "To move or take away something that is closed, so that things can go in or out.",
+          "examples": [
+            "Please open the window to let in some fresh air.",
+            "He opened the gift and smiled.",
+            "The flowers open when the sun comes up."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not shut.",
+          "examples": [
+            "The door is open.",
+            "An open box sat there.",
+            "The store is open."
+          ]
+        },
+        "more": {
+          "def": "Not closed, or ready for people to come in.",
+          "examples": [
+            "The library is open every day except Sunday.",
+            "The open gate let the sheep wander out.",
+            "They slept with the window open on warm nights."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "opposite",
     "say": "OP-uh-zit",
     "emoji": "↔️",

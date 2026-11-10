@@ -1,5 +1,61 @@
 [
   {
+    "word": "part",
+    "say": "part",
+    "forms": [
+      "parts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece of something bigger.",
+          "examples": [
+            "This is part of the toy.",
+            "Eat a part of the pie.",
+            "Tell me the best part."
+          ]
+        },
+        "more": {
+          "def": "A piece or section of something larger.",
+          "examples": [
+            "The wheel is one part of the bicycle.",
+            "Which part of the story did you like best?",
+            "He ate a small part of the cake and saved the rest."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "party",
+    "say": "PAR-tee",
+    "forms": [
+      "parties"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A time when people get together to have fun.",
+          "examples": [
+            "I went to a party.",
+            "It is her birthday party.",
+            "We had a party."
+          ]
+        },
+        "more": {
+          "def": "A gathering where people enjoy themselves with food, games, or music.",
+          "examples": [
+            "We had a birthday party with games and a big cake.",
+            "The class held a party at the end of the year.",
+            "My neighbors invited everyone to a block party."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "patient",
     "say": "PAY-shunt",
     "senses": [
@@ -48,6 +104,36 @@
             "Can you find the pattern in these numbers: 2, 4, 6, 8?",
             "The tiles made a pattern of blue and white squares.",
             "Scientists look for patterns in the weather."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pay",
+    "say": "pay",
+    "forms": [
+      "pays",
+      "paid",
+      "paying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give money for something.",
+          "examples": [
+            "I pay for the toy.",
+            "Dad paid the bill.",
+            "She pays with coins."
+          ]
+        },
+        "more": {
+          "def": "To give money in return for something you buy or for work that was done.",
+          "examples": [
+            "We paid for our tickets at the door.",
+            "The bakery pays its workers every Friday.",
+            "I used my savings to pay for the new bike."
           ]
         }
       }

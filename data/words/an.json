@@ -51,6 +51,80 @@
     ]
   },
   {
+    "word": "another",
+    "say": "uh-NUTH-er",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "One more, or a different one.",
+          "examples": [
+            "I want another cookie.",
+            "Pick another card.",
+            "She has another dog."
+          ]
+        },
+        "more": {
+          "def": "One more of the same kind, or a different one.",
+          "examples": [
+            "Can I have another glass of water, please?",
+            "This path is blocked, so let us try another way.",
+            "We will play another game after lunch."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "answer",
+    "say": "AN-ser",
+    "forms": [
+      "answers",
+      "answered",
+      "answering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What you say or write when someone asks you.",
+          "examples": [
+            "I know the answer.",
+            "Her answer was yes.",
+            "What is the answer?"
+          ]
+        },
+        "more": {
+          "def": "What you say or write back to a question, or the solution to a problem.",
+          "examples": [
+            "The answer to the riddle is a clock.",
+            "I checked my answers before I handed in the test.",
+            "She gave a quick answer to the teacher's question."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say something back when asked.",
+          "examples": [
+            "I answer the phone.",
+            "He answered Mom.",
+            "Please answer me."
+          ]
+        },
+        "more": {
+          "def": "To speak or write in reply to a question, call, or letter.",
+          "examples": [
+            "Please answer the phone if it rings.",
+            "She answered every question on the quiz.",
+            "He knocked on the door, but nobody answered."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "any",
     "say": "EN-ee",
     "senses": [
@@ -76,6 +150,56 @@
     ]
   },
   {
+    "word": "anybody",
+    "say": "EN-ee-bod-ee",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "Any person at all.",
+          "examples": [
+            "Is anybody home?",
+            "I do not see anybody.",
+            "Anybody can come."
+          ]
+        },
+        "more": {
+          "def": "Any person at all, no matter who.",
+          "examples": [
+            "Anybody can learn to draw with enough practice.",
+            "Did anybody see where my hat went?",
+            "The pool is open to anybody who lives in town."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "anyone",
+    "say": "EN-ee-wun",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "Any person at all.",
+          "examples": [
+            "Can anyone help?",
+            "I do not see anyone.",
+            "Anyone can come."
+          ]
+        },
+        "more": {
+          "def": "Any person at all, no matter who.",
+          "examples": [
+            "Anyone can learn to swim with enough practice.",
+            "Did anyone see my blue jacket?",
+            "The library is open to anyone who wants to read."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "anything",
     "say": "EN-ee-thing",
     "senses": [
@@ -95,6 +219,31 @@
             "You can ask me anything about dinosaurs.",
             "I could not find anything to eat in the cupboard.",
             "He is brave and will try anything once."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "anyway",
+    "say": "EN-ee-way",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Even so.",
+          "examples": [
+            "It rained, but we went anyway.",
+            "I was scared, but I did it anyway.",
+            "She is small, but she won anyway."
+          ]
+        },
+        "more": {
+          "def": "In spite of something, or whatever else is true.",
+          "examples": [
+            "It was raining, but we played outside anyway.",
+            "He was nervous but sang the song anyway.",
+            "The shirt was too big, but she wore it anyway."
           ]
         }
       }

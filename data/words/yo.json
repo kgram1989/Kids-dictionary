@@ -81,5 +81,58 @@
         }
       }
     ]
+  },
+  {
+    "word": "yours",
+    "say": "yorz",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A word for something that belongs to you.",
+          "examples": [
+            "Is this yours?",
+            "The red hat is yours.",
+            "Mine is big, yours is small."
+          ]
+        },
+        "more": {
+          "def": "A word used for something that belongs to the person or people you are speaking to.",
+          "examples": [
+            "I found a blue pencil, and I think it is yours.",
+            "My backpack is green, and yours is red.",
+            "The seat by the window is yours if you want it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "yourself",
+    "say": "yor-SELF",
+    "forms": [
+      "yourselves"
+    ],
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "You and no one else.",
+          "examples": [
+            "Did you make it yourself?",
+            "Pour yourself some milk.",
+            "Be yourself."
+          ]
+        },
+        "more": {
+          "def": "A word used for the person you are talking to, when they do something to themselves or without help.",
+          "examples": [
+            "Did you build this fort all by yourself?",
+            "Be careful not to hurt yourself on the ice.",
+            "You can see for yourself how big the tree is."
+          ]
+        }
+      }
+    ]
   }
 ]

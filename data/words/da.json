@@ -1,5 +1,33 @@
 [
   {
+    "word": "dad",
+    "say": "dad",
+    "forms": [
+      "dads"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word for your father.",
+          "examples": [
+            "My dad cooks dinner.",
+            "Dad drove me to school.",
+            "I hugged my dad."
+          ]
+        },
+        "more": {
+          "def": "A word used for a father, in everyday talk.",
+          "examples": [
+            "My dad taught me how to ride a bike.",
+            "Her dad is a bus driver in our town.",
+            "Dad, can you help me with my model plane?"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "damage",
     "say": "DAM-ij",
     "forms": [
@@ -50,6 +78,53 @@
             "Swimming in the river is dangerous when the water is high.",
             "It is dangerous to ride a bike without a helmet.",
             "Some wild mushrooms are dangerous to eat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "date",
+    "say": "dayt",
+    "forms": [
+      "dates"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The day of the month and year.",
+          "examples": [
+            "What is the date?",
+            "Write the date.",
+            "Today's date is May 5."
+          ]
+        },
+        "more": {
+          "def": "The day, month, and year when something happens.",
+          "examples": [
+            "Please write the date at the top of your paper.",
+            "What is the date of the school play?",
+            "His birthday is a date I never forget."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet, sticky brown fruit.",
+          "examples": [
+            "I ate a date.",
+            "Dates grow on palm trees.",
+            "She likes dates."
+          ]
+        },
+        "more": {
+          "def": "A sweet, sticky brown fruit with a long seed that grows on palm trees.",
+          "examples": [
+            "Dates grow on tall palm trees in hot places.",
+            "She put a chopped date in the muffin batter.",
+            "A date is a sweet snack that is full of energy."
           ]
         }
       }

@@ -29,6 +29,57 @@
     ]
   },
   {
+    "word": "lie",
+    "say": "ly",
+    "forms": [
+      "lies",
+      "lied",
+      "lying",
+      "lay",
+      "lain"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you say that is not true.",
+          "examples": [
+            "That is a lie.",
+            "He told a lie.",
+            "A lie is not okay."
+          ]
+        },
+        "more": {
+          "def": "A statement that a person knows is not true.",
+          "examples": [
+            "It was a lie when he said he did not break the vase.",
+            "She felt bad after telling a lie to her friend.",
+            "The wolf in the story told a lie about the sheep."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rest flat on the ground or a bed.",
+          "examples": [
+            "I lie on the grass.",
+            "The cat lay in the sun.",
+            "Lie down and rest."
+          ]
+        },
+        "more": {
+          "def": "To rest in a flat position on a surface.",
+          "examples": [
+            "We lay on the grass and watched the clouds float by.",
+            "The baby lies on a blanket during the day.",
+            "Please lie down if you feel dizzy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "life",
     "say": "lyf",
     "forms": [
@@ -51,6 +102,53 @@
             "Plants and animals are living things, and they all have life.",
             "A tortoise can have a very long life.",
             "Scientists study life in the ocean."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "light",
+    "say": "lyt",
+    "forms": [
+      "lights"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What lets you see.",
+          "examples": [
+            "Turn on the light.",
+            "The sun gives light.",
+            "A light is on."
+          ]
+        },
+        "more": {
+          "def": "The brightness from the sun, a lamp, or fire that makes it possible to see.",
+          "examples": [
+            "Light from the sun takes about eight minutes to reach Earth.",
+            "She turned on the light so she could read.",
+            "The light from the candle flickered in the dark room."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not heavy.",
+          "examples": [
+            "The bag is light.",
+            "A feather is light.",
+            "This box is light."
+          ]
+        },
+        "more": {
+          "def": "Not heavy, or easy to lift or carry.",
+          "examples": [
+            "The kite is light enough to float on the breeze.",
+            "I packed a light jacket for the cool evening.",
+            "A feather is so light that the wind carries it away."
           ]
         }
       }
@@ -126,6 +224,53 @@
             "The clouds looked like cotton balls floating in the sky.",
             "She sings like a bird, with a clear and sweet voice.",
             "A zebra looks like a horse with stripes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "line",
+    "say": "lyn",
+    "forms": [
+      "lines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, thin mark.",
+          "examples": [
+            "Draw a line.",
+            "She drew a straight line.",
+            "The line is long."
+          ]
+        },
+        "more": {
+          "def": "A long, thin mark, or something that looks like one.",
+          "examples": [
+            "Use a ruler to draw a straight line across the page.",
+            "A line of ants marched across the sidewalk.",
+            "The line on the road shows where to drive."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "People standing one behind the other.",
+          "examples": [
+            "Stand in line.",
+            "The line is long.",
+            "We wait in line."
+          ]
+        },
+        "more": {
+          "def": "A row of people or things waiting, one behind the other.",
+          "examples": [
+            "We stood in line to buy ice cream.",
+            "The children made a line at the classroom door.",
+            "A long line of cars waited at the bridge."
           ]
         }
       }

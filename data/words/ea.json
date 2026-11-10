@@ -1,5 +1,30 @@
 [
   {
+    "word": "each",
+    "say": "eech",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Every one of a group, one at a time.",
+          "examples": [
+            "Each child has a book.",
+            "I gave each dog a bone.",
+            "Each day is new."
+          ]
+        },
+        "more": {
+          "def": "Every one of two or more things or people, thought about separately.",
+          "examples": [
+            "Each student gets a turn to speak.",
+            "The teacher gave each child a sticker.",
+            "Each flower in the garden is a different color."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "eager",
     "say": "EE-ger",
     "senses": [
@@ -47,6 +72,62 @@
             "The earthquake knocked books off the shelves.",
             "The bridge was built to stay standing in an earthquake.",
             "Scientists measure how strong each earthquake is."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "easy",
+    "say": "EE-zee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not hard to do.",
+          "examples": [
+            "The test was easy.",
+            "This game is easy.",
+            "It is easy to read."
+          ]
+        },
+        "more": {
+          "def": "Not difficult, and needing little effort.",
+          "examples": [
+            "The puzzle was easy, so we finished it in five minutes.",
+            "Riding a bike is easy once you learn how.",
+            "It is easy to find the school because it is so big."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "eat",
+    "say": "eet",
+    "forms": [
+      "eats",
+      "ate",
+      "eaten",
+      "eating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put food in your mouth and swallow it.",
+          "examples": [
+            "I eat lunch.",
+            "The cow eats grass.",
+            "We ate pizza."
+          ]
+        },
+        "more": {
+          "def": "To take food into your mouth, chew it, and swallow it.",
+          "examples": [
+            "Rabbits eat grass, carrots, and lettuce.",
+            "We ate sandwiches by the river.",
+            "Have you eaten breakfast yet?"
           ]
         }
       }

@@ -1,5 +1,54 @@
 [
   {
+    "word": "sleep",
+    "say": "sleep",
+    "forms": [
+      "sleeps",
+      "slept",
+      "sleeping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rest with your eyes closed.",
+          "examples": [
+            "I sleep at night.",
+            "The baby is sleeping.",
+            "The cat slept all day."
+          ]
+        },
+        "more": {
+          "def": "To rest your body and mind with your eyes closed, as you do at night.",
+          "examples": [
+            "Bears sleep through most of the winter.",
+            "I slept well after the long hike.",
+            "Please be quiet because the baby is sleeping."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The rest you get at night.",
+          "examples": [
+            "I need sleep.",
+            "She got a good sleep.",
+            "He fell into a deep sleep."
+          ]
+        },
+        "more": {
+          "def": "The natural rest that your body needs every night.",
+          "examples": [
+            "Children need a lot of sleep to grow and learn.",
+            "I fell into a deep sleep as soon as my head touched the pillow.",
+            "A good night of sleep helps you feel ready for school."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "slippery",
     "say": "SLIP-uh-ree",
     "emoji": "🧊",

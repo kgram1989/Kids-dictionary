@@ -99,5 +99,33 @@
         }
       }
     ]
+  },
+  {
+    "word": "person",
+    "say": "PER-sun",
+    "forms": [
+      "persons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man, woman, or child.",
+          "examples": [
+            "Each person has a seat.",
+            "She is a kind person.",
+            "One person came."
+          ]
+        },
+        "more": {
+          "def": "A human being, such as a man, woman, or child.",
+          "examples": [
+            "Each person in the class made a card.",
+            "He is a kind person who always shares.",
+            "The elevator holds up to ten people, but only one person got in."
+          ]
+        }
+      }
+    ]
   }
 ]

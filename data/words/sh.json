@@ -143,6 +143,121 @@
     ]
   },
   {
+    "word": "shoot",
+    "say": "shoot",
+    "forms": [
+      "shoots",
+      "shot",
+      "shooting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To kick or throw a ball at a goal.",
+          "examples": [
+            "She shoots the ball.",
+            "He shot and scored.",
+            "I shoot at the net."
+          ]
+        },
+        "more": {
+          "def": "To throw or kick a ball toward a goal or basket in a game.",
+          "examples": [
+            "She shot the ball into the basket from far away.",
+            "The player shot and the goalie dived to stop it.",
+            "He practiced shooting hoops every afternoon."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take a picture or a movie.",
+          "examples": [
+            "I shoot a picture.",
+            "They shot a film.",
+            "She shoots photos of birds."
+          ]
+        },
+        "more": {
+          "def": "To take a photograph or film a movie.",
+          "examples": [
+            "The crew shot the movie in a forest.",
+            "She shoots photos of the sunset every evening.",
+            "He shot a video of the parade."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To send an arrow out fast with a bow.",
+          "examples": [
+            "She shoots an arrow.",
+            "He shot at the target.",
+            "I shoot with a bow."
+          ]
+        },
+        "more": {
+          "def": "To send an arrow or another object out fast from a bow or a launcher.",
+          "examples": [
+            "At camp, we learned how to shoot arrows at a target.",
+            "The archer shot an arrow into the center of the circle.",
+            "The toy launcher shoots a foam rocket high into the air."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shot",
+    "say": "shot",
+    "forms": [
+      "shots"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A needle that puts medicine in your arm.",
+          "examples": [
+            "I got a shot.",
+            "The shot was quick.",
+            "She did not cry at the shot."
+          ]
+        },
+        "more": {
+          "def": "A small amount of medicine put into the body with a needle, to keep you from getting sick.",
+          "examples": [
+            "I got a flu shot at the doctor's office.",
+            "The nurse said the shot would only take a second.",
+            "He was brave when he got his shot."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A try to hit or score in a game.",
+          "examples": [
+            "Take a shot.",
+            "She made the shot.",
+            "What a good shot!"
+          ]
+        },
+        "more": {
+          "def": "An attempt to hit, kick, or throw a ball toward a goal.",
+          "examples": [
+            "She took a shot and the ball went into the net.",
+            "His last shot hit the rim of the basket.",
+            "That was a great shot from far away."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "show",
     "say": "shoh",
     "forms": [
@@ -187,6 +302,35 @@
             "Our class put on a show for the whole school.",
             "The magic show at the fair amazed everyone.",
             "My favorite TV show is about animals."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shut",
+    "say": "shut",
+    "forms": [
+      "shuts",
+      "shutting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To close something.",
+          "examples": [
+            "Shut the door.",
+            "She shut her book.",
+            "I shut my eyes."
+          ]
+        },
+        "more": {
+          "def": "To close something so that it is no longer open.",
+          "examples": [
+            "Please shut the gate so the sheep stay in the field.",
+            "He shut the lid on the box.",
+            "The shop shuts at six o'clock."
           ]
         }
       }

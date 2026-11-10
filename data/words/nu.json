@@ -1,5 +1,52 @@
 [
   {
+    "word": "number",
+    "say": "NUM-ber",
+    "forms": [
+      "numbers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word or sign used to count.",
+          "examples": [
+            "My number is seven.",
+            "Write the number.",
+            "Pick a number."
+          ]
+        },
+        "more": {
+          "def": "A word or sign that tells how many, such as 4 or twelve.",
+          "examples": [
+            "The number on my door is twelve.",
+            "Pick a number between one and ten.",
+            "She wrote down the phone number on a card."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How many there are.",
+          "examples": [
+            "A big number came.",
+            "The number of kids is ten.",
+            "What is the number?"
+          ]
+        },
+        "more": {
+          "def": "A total amount of people or things.",
+          "examples": [
+            "A large number of birds gathered at the lake.",
+            "The number of students in our class is twenty-four.",
+            "A small number of cookies were left."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nutrient",
     "say": "NOO-tree-unt",
     "forms": [

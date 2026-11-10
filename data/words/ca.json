@@ -168,6 +168,34 @@
     ]
   },
   {
+    "word": "captain",
+    "say": "KAP-tin",
+    "forms": [
+      "captains"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The leader of a ship or a team.",
+          "examples": [
+            "The captain steered.",
+            "She is the team captain.",
+            "The captain waved."
+          ]
+        },
+        "more": {
+          "def": "The person in charge of a ship, plane, or sports team.",
+          "examples": [
+            "The captain steered the ship safely into the harbor.",
+            "Our soccer team chose Maya as captain.",
+            "The pilot is the captain of the plane."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "capture",
     "say": "KAP-cher",
     "forms": [
@@ -192,6 +220,34 @@
             "The photographer captured a picture of the eagle in flight.",
             "The scientists captured the bird, tagged it, and let it go.",
             "In the game, you capture the other team's flag to win."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "car",
+    "say": "kar",
+    "forms": [
+      "cars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A vehicle with four wheels that people ride in.",
+          "examples": [
+            "We ride in a car.",
+            "The red car stopped.",
+            "Dad washed the car."
+          ]
+        },
+        "more": {
+          "def": "A road vehicle with an engine and four wheels that carries a few people.",
+          "examples": [
+            "Our family drove the car to the lake for the weekend.",
+            "The car stopped at the red light.",
+            "She buckled her seat belt as soon as she got into the car."
           ]
         }
       }
@@ -266,6 +322,170 @@
             "She was careful not to step on the wet paint.",
             "He made a careful drawing of the bird's feathers.",
             "Be careful to check your answers before you turn in the test."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "case",
+    "say": "kayss",
+    "forms": [
+      "cases"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A box or cover to hold something.",
+          "examples": [
+            "I put it in a case.",
+            "The glasses are in a case.",
+            "She has a pencil case."
+          ]
+        },
+        "more": {
+          "def": "A box or cover that holds or protects something.",
+          "examples": [
+            "He put his glasses in their case.",
+            "The museum keeps the old coins in a glass case.",
+            "I keep my markers in a zip-up pencil case."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An example of something that happens.",
+          "examples": [
+            "In this case, we wait.",
+            "It is a rare case.",
+            "That is not the case."
+          ]
+        },
+        "more": {
+          "def": "A particular situation or example of something.",
+          "examples": [
+            "In this case, the answer is yes, because the rule says so.",
+            "It was a case of mixed-up names.",
+            "The detective worked on a very strange case."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "catch",
+    "say": "kach",
+    "forms": [
+      "catches",
+      "caught",
+      "catching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To grab something that is moving.",
+          "examples": [
+            "Catch the ball.",
+            "The dog caught the stick.",
+            "I can catch it."
+          ]
+        },
+        "more": {
+          "def": "To grab and hold something that is moving through the air.",
+          "examples": [
+            "Can you catch the ball when I throw it?",
+            "The goalie caught the ball with both hands.",
+            "She caught the leaf as it fell from the tree."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get on a bus or train in time.",
+          "examples": [
+            "We catch the bus.",
+            "She caught the train.",
+            "Hurry and catch it."
+          ]
+        },
+        "more": {
+          "def": "To get on a bus, train, or plane before it leaves.",
+          "examples": [
+            "We ran to catch the school bus.",
+            "He caught the early train to the city.",
+            "If we hurry, we can catch the last boat."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get sick from a germ.",
+          "examples": [
+            "I caught a cold.",
+            "He caught the flu.",
+            "Do not catch cold."
+          ]
+        },
+        "more": {
+          "def": "To become sick with something, such as a cold.",
+          "examples": [
+            "My brother caught a cold after playing in the rain.",
+            "She caught the flu and stayed home for a week.",
+            "Wash your hands to avoid catching germs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cause",
+    "say": "kawz",
+    "forms": [
+      "causes",
+      "caused",
+      "causing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something happen.",
+          "examples": [
+            "Rain can cause floods.",
+            "The wind caused the door to shut.",
+            "Ice causes slips."
+          ]
+        },
+        "more": {
+          "def": "To make something happen.",
+          "examples": [
+            "Heavy rain can cause a river to overflow.",
+            "The loud noise caused the baby to wake up.",
+            "Too much sun can cause a sunburn."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The reason something happens.",
+          "examples": [
+            "What is the cause?",
+            "Rain is the cause.",
+            "The cause was a storm."
+          ]
+        },
+        "more": {
+          "def": "The thing that makes something happen.",
+          "examples": [
+            "The cause of the traffic jam was a broken-down truck.",
+            "Scientists look for the cause of the strange noise.",
+            "A spark was the cause of the small fire."
           ]
         }
       }

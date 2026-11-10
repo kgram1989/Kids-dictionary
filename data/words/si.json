@@ -1,5 +1,52 @@
 [
   {
+    "word": "side",
+    "say": "syd",
+    "forms": [
+      "sides"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One of the flat parts of something, not the top or bottom.",
+          "examples": [
+            "A box has four sides.",
+            "The side of the barn is red.",
+            "Write on this side."
+          ]
+        },
+        "more": {
+          "def": "A flat or outer part of something, apart from the top and the bottom.",
+          "examples": [
+            "A square has four sides that are all the same length.",
+            "We painted the side of the barn red.",
+            "Write your name on the back side of the page."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The left or right part of something.",
+          "examples": [
+            "Sit on this side.",
+            "The park is on the other side.",
+            "Stand by my side."
+          ]
+        },
+        "more": {
+          "def": "One of the two halves or areas of a place, as divided by a line.",
+          "examples": [
+            "The bridge crosses to the other side of the river.",
+            "Cars drive on the right side of the road.",
+            "She sat by his side during the movie."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "silent",
     "say": "SY-lunt",
     "emoji": "🤫",
@@ -80,6 +127,50 @@
     ]
   },
   {
+    "word": "since",
+    "say": "sinss",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "From a time in the past until now.",
+          "examples": [
+            "I have been here since noon.",
+            "She has been sick since Monday.",
+            "We played since lunch."
+          ]
+        },
+        "more": {
+          "def": "From a certain time in the past up to now.",
+          "examples": [
+            "I have lived in this town since I was a baby.",
+            "It has rained since early this morning.",
+            "He has been reading since breakfast."
+          ]
+        }
+      },
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "A word used to give a reason.",
+          "examples": [
+            "Since it is cold, wear a coat.",
+            "I stayed in since I was sick.",
+            "Since you are here, help me."
+          ]
+        },
+        "more": {
+          "def": "A word used to give the reason for something.",
+          "examples": [
+            "Since it was raining, we ate lunch indoors.",
+            "I took an umbrella since the sky looked dark.",
+            "Since you know the way, you can lead us."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sir",
     "say": "ser",
     "senses": [
@@ -99,6 +190,64 @@
             "Excuse me, sir, you dropped your hat.",
             "Yes, sir, I will be there at noon.",
             "Can I help you carry that, sir?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sister",
+    "say": "SIS-ter",
+    "forms": [
+      "sisters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A girl who has the same parents as you.",
+          "examples": [
+            "My sister is tall.",
+            "I play with my sister.",
+            "Her sister is six."
+          ]
+        },
+        "more": {
+          "def": "A girl or woman who has the same parents as another person.",
+          "examples": [
+            "My older sister helps me with my reading.",
+            "He has two sisters, and they love to bake.",
+            "Her little sister follows her around the yard."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sit",
+    "say": "sit",
+    "forms": [
+      "sits",
+      "sat",
+      "sitting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rest with your bottom on a seat or the ground.",
+          "examples": [
+            "Sit on the chair.",
+            "The cat sat on my lap.",
+            "We sit in a circle."
+          ]
+        },
+        "more": {
+          "def": "To rest with your weight on your bottom, rather than on your feet.",
+          "examples": [
+            "Please sit quietly on the rug while I read.",
+            "The birds sat on the wire, side by side.",
+            "We sat around the campfire and sang songs."
           ]
         }
       }

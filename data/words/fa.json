@@ -1,5 +1,33 @@
 [
   {
+    "word": "face",
+    "say": "fayss",
+    "forms": [
+      "faces"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The front of your head, with eyes and a mouth.",
+          "examples": [
+            "Wash your face.",
+            "She has a happy face.",
+            "A smile is on his face."
+          ]
+        },
+        "more": {
+          "def": "The front part of the head, where the eyes, nose, and mouth are.",
+          "examples": [
+            "She washed her face before bed.",
+            "A big smile spread across his face.",
+            "The clown painted a funny face on the balloon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "familiar",
     "say": "fuh-MIL-yer",
     "senses": [
@@ -19,6 +47,34 @@
             "His voice sounded familiar, but I could not remember his name.",
             "The smell of baking bread was familiar and comforting.",
             "Are you familiar with the rules of this game?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "family",
+    "say": "FAM-uh-lee",
+    "forms": [
+      "families"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of people who are related.",
+          "examples": [
+            "I love my family.",
+            "Our family has a dog.",
+            "Her family lives near."
+          ]
+        },
+        "more": {
+          "def": "A group of people who are related, such as parents, children, and grandparents.",
+          "examples": [
+            "My whole family gathers for dinner on Sundays.",
+            "The family next door has three children and a puppy.",
+            "A family of ducks swam across the pond."
           ]
         }
       }
@@ -45,6 +101,50 @@
             "The famous painting hangs in a museum in Paris.",
             "The town is famous for its delicious cheese.",
             "He became famous after he climbed the tall mountain."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "far",
+    "say": "far",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "A long way off.",
+          "examples": [
+            "He ran far.",
+            "The moon is far.",
+            "Do not go too far."
+          ]
+        },
+        "more": {
+          "def": "At or to a great distance.",
+          "examples": [
+            "The birds flew far across the ocean.",
+            "We hiked so far that our legs were tired.",
+            "Her house is not far from the school."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not near.",
+          "examples": [
+            "A far place.",
+            "The far side of the lake.",
+            "That is far from here."
+          ]
+        },
+        "more": {
+          "def": "Being a long distance away.",
+          "examples": [
+            "We could see a boat on the far side of the lake.",
+            "The explorers traveled to a far country.",
+            "The shop is at the far end of the street."
           ]
         }
       }

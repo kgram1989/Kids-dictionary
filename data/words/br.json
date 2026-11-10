@@ -30,6 +30,56 @@
     ]
   },
   {
+    "word": "break",
+    "say": "brayk",
+    "forms": [
+      "breaks",
+      "broke",
+      "broken",
+      "breaking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To come apart in pieces.",
+          "examples": [
+            "The glass can break.",
+            "I broke a plate.",
+            "The stick is broken."
+          ]
+        },
+        "more": {
+          "def": "To come apart or make something come apart, often by hitting or dropping it.",
+          "examples": [
+            "Be careful, or the glass will break on the hard floor.",
+            "The toy broke when it fell down the stairs.",
+            "He broke the chocolate bar into four pieces."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short time to rest.",
+          "examples": [
+            "We take a break.",
+            "It is time for a break.",
+            "Let us have a break."
+          ]
+        },
+        "more": {
+          "def": "A short rest from work or study.",
+          "examples": [
+            "The class took a break to stretch and drink water.",
+            "We stopped for a break halfway up the mountain.",
+            "There is no school during the winter break."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "breeze",
     "say": "breez",
     "emoji": "🍃",
@@ -113,6 +163,34 @@
             "Please bring your homework to school on Monday.",
             "My aunt brought flowers when she came to visit.",
             "Can you bring the baby her blanket?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "brother",
+    "say": "BRUTH-er",
+    "forms": [
+      "brothers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A boy who has the same parents as you.",
+          "examples": [
+            "My brother is tall.",
+            "I play with my brother.",
+            "Her brother is five."
+          ]
+        },
+        "more": {
+          "def": "A boy or man who has the same parents as another person.",
+          "examples": [
+            "My older brother taught me how to throw a ball.",
+            "She has two brothers, and they love to build forts.",
+            "His little brother follows him everywhere."
           ]
         }
       }

@@ -98,6 +98,56 @@
     ]
   },
   {
+    "word": "somebody",
+    "say": "SUM-bod-ee",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A person, but you do not say who.",
+          "examples": [
+            "Somebody is at the door.",
+            "I need somebody to help.",
+            "Somebody ate my snack."
+          ]
+        },
+        "more": {
+          "def": "A person who is not named or is not known.",
+          "examples": [
+            "Somebody left a pair of gloves on the bus.",
+            "I think somebody is knocking on the window.",
+            "We need somebody who can play the drums."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "someone",
+    "say": "SUM-wun",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A person, but you do not say who.",
+          "examples": [
+            "Someone is at the door.",
+            "I need someone to help.",
+            "Someone took my pencil."
+          ]
+        },
+        "more": {
+          "def": "A person who is not named or is not known.",
+          "examples": [
+            "Someone left a bag of apples on our porch.",
+            "I need someone to hold the other end of the rope.",
+            "Is there someone here who can read this sign?"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "something",
     "say": "SUM-thing",
     "senses": [
@@ -123,6 +173,59 @@
     ]
   },
   {
+    "word": "son",
+    "say": "sun",
+    "forms": [
+      "sons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A boy or man who is someone's child.",
+          "examples": [
+            "He is their son.",
+            "The baker has a son.",
+            "Her son is five."
+          ]
+        },
+        "more": {
+          "def": "A boy or man in relation to his parents.",
+          "examples": [
+            "The farmer and his son fed the cows together.",
+            "She is proud of her son, who won the spelling bee.",
+            "Their son plays the trumpet in the band."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "soon",
+    "say": "soon",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a short time.",
+          "examples": [
+            "Dinner is soon.",
+            "We will go soon.",
+            "She will be here soon."
+          ]
+        },
+        "more": {
+          "def": "In a short time from now, or not long after something.",
+          "examples": [
+            "The bus will be here soon, so get your backpack.",
+            "Soon after the rain stopped, the sun came out.",
+            "I hope to see you again soon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sorry",
     "say": "SOR-ee",
     "senses": [
@@ -142,6 +245,55 @@
             "I am sorry that I broke your pencil.",
             "We felt sorry for the lost puppy.",
             "He said he was sorry for being rude."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sound",
+    "say": "sownd",
+    "forms": [
+      "sounds",
+      "sounded",
+      "sounding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you hear.",
+          "examples": [
+            "I hear a sound.",
+            "The sound was loud.",
+            "A bird makes a sound."
+          ]
+        },
+        "more": {
+          "def": "Something that you hear with your ears.",
+          "examples": [
+            "The sound of rain on the roof put me to sleep.",
+            "A strange sound came from the attic.",
+            "Thunder is a loud sound that travels far."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To seem a certain way when you hear it.",
+          "examples": [
+            "That sounds fun.",
+            "It sounds loud.",
+            "She sounds happy."
+          ]
+        },
+        "more": {
+          "def": "To give a certain feeling when heard or told about.",
+          "examples": [
+            "That plan sounds like a lot of fun.",
+            "Your voice sounds hoarse, so you should rest.",
+            "The idea sounded silly at first."
           ]
         }
       }

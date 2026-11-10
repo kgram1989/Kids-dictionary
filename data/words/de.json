@@ -1,5 +1,148 @@
 [
   {
+    "word": "dead",
+    "say": "ded",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not living.",
+          "examples": [
+            "The plant is dead.",
+            "A dead leaf fell.",
+            "The fish was dead."
+          ]
+        },
+        "more": {
+          "def": "No longer alive, or no longer working.",
+          "examples": [
+            "The dead tree fell in the storm and made a home for beetles.",
+            "The flashlight is dead because the batteries ran out.",
+            "We raked up the dead leaves and put them in the compost."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deal",
+    "say": "deel",
+    "forms": [
+      "deals",
+      "dealt",
+      "dealing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An agreement between two people.",
+          "examples": [
+            "We made a deal.",
+            "It is a deal!",
+            "She made a deal with me."
+          ]
+        },
+        "more": {
+          "def": "An agreement in which each side gives or gets something.",
+          "examples": [
+            "We made a deal that I would wash the dishes if he dried them.",
+            "The two shops made a deal to share the delivery truck.",
+            "It's a deal, and we shook hands."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take action about something.",
+          "examples": [
+            "I deal with it.",
+            "She can deal with the bug.",
+            "We will deal with it later."
+          ]
+        },
+        "more": {
+          "def": "To take action to handle a problem or a task.",
+          "examples": [
+            "Our teacher knows how to deal with a noisy classroom.",
+            "I will deal with the dishes after dinner.",
+            "The librarian dealt with the lost books quickly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dear",
+    "say": "deer",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Loved very much.",
+          "examples": [
+            "She is a dear friend.",
+            "My dear dog.",
+            "He is dear to me."
+          ]
+        },
+        "more": {
+          "def": "Loved, and important to you.",
+          "examples": [
+            "She wrote a letter to her dear friend who had moved away.",
+            "My grandmother's quilt is very dear to me.",
+            "He sent a note to his dear aunt."
+          ]
+        }
+      },
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A word used to start a letter to someone.",
+          "examples": [
+            "Dear Grandma, thank you.",
+            "Dear Sam, how are you?",
+            "Dear friend, hello."
+          ]
+        },
+        "more": {
+          "def": "A word used at the start of a letter before the name of the person you are writing to.",
+          "examples": [
+            "Dear Grandpa, thank you for the birthday card.",
+            "She began the note with the words Dear Mr. Lee.",
+            "Dear Sara, I miss you at school."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "death",
+    "say": "deth",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The end of a life.",
+          "examples": [
+            "The death of a pet is sad.",
+            "A plant's death.",
+            "Her grandpa's death was sad."
+          ]
+        },
+        "more": {
+          "def": "The end of the life of a person, animal, or plant.",
+          "examples": [
+            "The death of the old tree made the whole street feel sad.",
+            "Cold frost can cause the death of tender plants.",
+            "Her family was sad about the death of their grandfather."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "decide",
     "say": "dih-SYD",
     "forms": [

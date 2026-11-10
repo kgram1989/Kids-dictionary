@@ -1,5 +1,35 @@
 [
   {
+    "word": "stand",
+    "say": "stand",
+    "forms": [
+      "stands",
+      "stood",
+      "standing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be up on your legs.",
+          "examples": [
+            "Stand up, please.",
+            "I stand in line.",
+            "The tree stood tall."
+          ]
+        },
+        "more": {
+          "def": "To be upright on your feet, or to be placed upright.",
+          "examples": [
+            "Please stand when the flag goes by.",
+            "The old barn stood at the top of the hill.",
+            "Flamingos can stand on one leg for a long time."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "start",
     "say": "start",
     "forms": [
@@ -220,6 +250,34 @@
     ]
   },
   {
+    "word": "story",
+    "say": "STOR-ee",
+    "forms": [
+      "stories"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words about things that happen.",
+          "examples": [
+            "Read me a story.",
+            "I like that story.",
+            "She told a story."
+          ]
+        },
+        "more": {
+          "def": "An account of real or made-up events, told or written to entertain people.",
+          "examples": [
+            "Grandpa told us a story about a talking fox.",
+            "The story ended with a happy surprise.",
+            "I wrote a story about a robot who loved to cook."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "strange",
     "say": "straynj",
     "emoji": "👽",
@@ -270,6 +328,31 @@
             "He was too stubborn to admit that he was lost.",
             "The stubborn stain would not come out.",
             "The stubborn mule refused to cross the bridge."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stuff",
+    "say": "stuf",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things that you do not name.",
+          "examples": [
+            "I packed my stuff.",
+            "Put your stuff away.",
+            "There is stuff in the box."
+          ]
+        },
+        "more": {
+          "def": "Things or materials that are not named exactly.",
+          "examples": [
+            "Put all your stuff in your backpack before you leave.",
+            "What is that sticky stuff on the table?",
+            "There is a lot of old stuff in the attic."
           ]
         }
       }

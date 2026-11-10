@@ -76,6 +76,37 @@
     ]
   },
   {
+    "word": "hang",
+    "say": "hang",
+    "forms": [
+      "hangs",
+      "hung",
+      "hanged",
+      "hanging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hold something up from the top so it swings.",
+          "examples": [
+            "Hang your coat.",
+            "The picture hangs on the wall.",
+            "Bats hang upside down."
+          ]
+        },
+        "more": {
+          "def": "To attach something at the top so that the bottom swings freely.",
+          "examples": [
+            "Please hang your coat on the hook by the door.",
+            "A bird feeder hangs from the branch of the tree.",
+            "Bats hang upside down while they sleep."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "happen",
     "say": "HAP-un",
     "forms": [
@@ -100,6 +131,31 @@
             "A strange thing happened on the way to school today.",
             "Do you know what happens to ice when it gets warm?",
             "The accident happened so quickly that nobody saw it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "happy",
+    "say": "HAP-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling glad and full of joy.",
+          "examples": [
+            "I am happy today.",
+            "The happy dog wags.",
+            "She is a happy girl."
+          ]
+        },
+        "more": {
+          "def": "Feeling pleased, glad, or full of joy.",
+          "examples": [
+            "The children were happy when the sun came out.",
+            "I am happy that you could come to my party.",
+            "The happy puppy ran in circles around the yard."
           ]
         }
       }
@@ -136,6 +192,50 @@
     ]
   },
   {
+    "word": "hard",
+    "say": "hard",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not soft.",
+          "examples": [
+            "A rock is hard.",
+            "The bed is hard.",
+            "The ice was hard."
+          ]
+        },
+        "more": {
+          "def": "Stiff and firm, not easily pressed or bent.",
+          "examples": [
+            "A diamond is the hardest natural material on Earth.",
+            "The path was hard and dry after the long summer.",
+            "He sat on the hard wooden bench."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not easy to do.",
+          "examples": [
+            "The test was hard.",
+            "It is hard to climb.",
+            "Math is hard for me."
+          ]
+        },
+        "more": {
+          "def": "Difficult to do or to understand, and needing a lot of effort.",
+          "examples": [
+            "The puzzle was so hard that it took us all day.",
+            "It is hard to be quiet when you are excited.",
+            "Learning to ride a bike was hard at first."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "harvest",
     "say": "HAR-vist",
     "emoji": "🌾",
@@ -161,6 +261,36 @@
             "Farmers harvest apples in the fall.",
             "We harvested tomatoes from our garden all summer.",
             "Workers harvest the grapes by hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hate",
+    "say": "hayt",
+    "forms": [
+      "hates",
+      "hated",
+      "hating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not like something at all.",
+          "examples": [
+            "I hate peas.",
+            "She hates the cold.",
+            "He hated losing."
+          ]
+        },
+        "more": {
+          "def": "To dislike someone or something very strongly.",
+          "examples": [
+            "I hate it when my socks get wet in the rain.",
+            "My brother hates loud noises.",
+            "She hated saying goodbye to her friends."
           ]
         }
       }

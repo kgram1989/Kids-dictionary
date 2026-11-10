@@ -83,6 +83,80 @@
     ]
   },
   {
+    "word": "honey",
+    "say": "HUN-ee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet, sticky food that bees make.",
+          "examples": [
+            "I like honey on toast.",
+            "Bees make honey.",
+            "The honey is sweet."
+          ]
+        },
+        "more": {
+          "def": "A thick, sweet food that bees make from the nectar of flowers.",
+          "examples": [
+            "Bees make honey from the nectar of flowers.",
+            "I stirred a spoonful of honey into my tea.",
+            "The honey dripped from the comb onto the biscuit."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hope",
+    "say": "hohp",
+    "forms": [
+      "hopes",
+      "hoped",
+      "hoping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To wish for something good.",
+          "examples": [
+            "I hope it snows.",
+            "She hopes to win.",
+            "We hoped for sun."
+          ]
+        },
+        "more": {
+          "def": "To want something to happen and think that it might.",
+          "examples": [
+            "I hope the rain stops before the picnic.",
+            "He is hoping to see a deer in the woods.",
+            "We hoped that our team would win the game."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wish for something good.",
+          "examples": [
+            "I have hope.",
+            "Her hope is to swim.",
+            "Hope kept us going."
+          ]
+        },
+        "more": {
+          "def": "A feeling that something good may happen.",
+          "examples": [
+            "The rain gave the farmers hope for a good harvest.",
+            "She held on to hope that her lost cat would come home.",
+            "Our hope is to build a new playground."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "horizon",
     "say": "huh-RY-zun",
     "emoji": "🌅",
@@ -106,6 +180,34 @@
             "A ship appeared as a tiny dot on the horizon.",
             "Dark clouds gathered on the horizon.",
             "The road stretched all the way to the horizon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hour",
+    "say": "owr",
+    "forms": [
+      "hours"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Sixty minutes of time.",
+          "examples": [
+            "It takes an hour.",
+            "We waited one hour.",
+            "School is six hours long."
+          ]
+        },
+        "more": {
+          "def": "A length of time equal to sixty minutes.",
+          "examples": [
+            "There are twenty-four hours in one day.",
+            "The drive to the beach takes about an hour.",
+            "We studied for two hours before dinner."
           ]
         }
       }
