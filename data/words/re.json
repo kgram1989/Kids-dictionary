@@ -335,6 +335,34 @@
     ]
   },
   {
+    "word": "realm",
+    "say": "relm",
+    "forms": [
+      "realms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kingdom or a world.",
+          "examples": [
+            "The king ruled the realm.",
+            "A magic realm.",
+            "The realm was far away."
+          ]
+        },
+        "more": {
+          "def": "A kingdom, or a particular area of life or thought.",
+          "examples": [
+            "The king ruled a large realm.",
+            "The story took place in a magic realm.",
+            "Music is the realm of sound."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "rear",
     "say": "reer",
     "forms": [
@@ -685,6 +713,40 @@
             "I read the recipe before I started baking."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "reckless",
+    "say": "REK-liss",
+    "forms": [
+      "recklessly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not caring about danger.",
+          "examples": [
+            "A reckless driver.",
+            "He is reckless.",
+            "A reckless jump."
+          ]
+        },
+        "more": {
+          "def": "Not thinking about the danger of what you do.",
+          "examples": [
+            "The reckless driver sped through the town.",
+            "It was reckless to jump from the roof.",
+            "He made a reckless choice."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "recklessness",
+        "def": "Being reckless."
       }
     ]
   },
@@ -1210,6 +1272,34 @@
     ]
   },
   {
+    "word": "reel",
+    "say": "reel",
+    "forms": [
+      "reels"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A spool that holds line or film.",
+          "examples": [
+            "The fishing reel spins.",
+            "The reel is full.",
+            "A reel of thread."
+          ]
+        },
+        "more": {
+          "def": "A round spool that holds fishing line, film or thread, and turns.",
+          "examples": [
+            "He wound the line onto the reel.",
+            "The film was on a reel.",
+            "I used a reel of thread."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "refer",
     "say": "rih-FER",
     "forms": [
@@ -1365,6 +1455,36 @@
             "After some reflection, I decided to say sorry.",
             "She spent a quiet hour in reflection.",
             "The poem is about reflection."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "reform",
+    "say": "rih-FORM",
+    "forms": [
+      "reforms",
+      "reformed",
+      "reforming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To improve by changing.",
+          "examples": [
+            "We reform the rules.",
+            "He reformed his habits.",
+            "The town reformed its laws."
+          ]
+        },
+        "more": {
+          "def": "To make something better by changing it.",
+          "examples": [
+            "The town reformed its school rules.",
+            "He reformed his bad habits.",
+            "The company reformed its way of working."
           ]
         }
       }
@@ -3352,6 +3472,36 @@
     ]
   },
   {
+    "word": "resign",
+    "say": "rih-ZYN",
+    "forms": [
+      "resigns",
+      "resigned",
+      "resigning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To quit a job.",
+          "examples": [
+            "The captain resigned.",
+            "He resigned from the team.",
+            "She resigned."
+          ]
+        },
+        "more": {
+          "def": "To give up a job or position, often by telling your boss.",
+          "examples": [
+            "The mayor resigned from her job.",
+            "The manager resigned after ten years.",
+            "She resigned because she was moving away."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "resist",
     "say": "rih-ZIST",
     "forms": [
@@ -4237,6 +4387,31 @@
     ]
   },
   {
+    "word": "revolutionary",
+    "say": "rev-uh-LOO-shuh-nair-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very new and different.",
+          "examples": [
+            "A revolutionary idea.",
+            "The phone was revolutionary.",
+            "A revolutionary machine."
+          ]
+        },
+        "more": {
+          "def": "Completely new and changing the way things are done.",
+          "examples": [
+            "The telephone was a revolutionary invention.",
+            "She had a revolutionary idea for a car.",
+            "The new machine was revolutionary."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "reward",
     "say": "rih-WORD",
     "emoji": "🏅",
@@ -4260,6 +4435,37 @@
             "The family offered a reward for finding their lost cat.",
             "As a reward for their hard work, the class got extra recess.",
             "The reward for finishing the hike was a wonderful view."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "rewrite",
+    "say": "ree-RYT",
+    "forms": [
+      "rewrites",
+      "rewrote",
+      "rewritten",
+      "rewriting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To write again.",
+          "examples": [
+            "I rewrite my story.",
+            "She rewrote the note.",
+            "He rewrote the poem."
+          ]
+        },
+        "more": {
+          "def": "To write something again to make it better.",
+          "examples": [
+            "I rewrote my story to fix the ending.",
+            "She rewrote the note more neatly.",
+            "He rewrote the poem three times."
           ]
         }
       }

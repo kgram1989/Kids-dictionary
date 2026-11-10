@@ -127,6 +127,34 @@
     ]
   },
   {
+    "word": "prank",
+    "say": "prangk",
+    "forms": [
+      "pranks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A playful trick.",
+          "examples": [
+            "The kids played a prank.",
+            "It was a funny prank.",
+            "His prank made us laugh."
+          ]
+        },
+        "more": {
+          "def": "A silly trick that someone plays on another person as a joke.",
+          "examples": [
+            "The kids played a prank on their teacher.",
+            "It was a harmless prank.",
+            "His April Fools' prank made us laugh."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pray",
     "say": "pray",
     "forms": [
@@ -266,6 +294,40 @@
             "Fresh water is precious in the desert."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "precise",
+    "say": "prih-SYSS",
+    "forms": [
+      "precisely"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Exact.",
+          "examples": [
+            "The time is precise.",
+            "A precise answer.",
+            "The measurement is precise."
+          ]
+        },
+        "more": {
+          "def": "Exact and correct in every detail.",
+          "examples": [
+            "The clock gives the precise time.",
+            "Be precise when you measure.",
+            "The scientist took precise notes."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "precision",
+        "def": "Being exact."
       }
     ]
   },
@@ -1212,6 +1274,31 @@
             "Thirteen is prime because only one and thirteen divide it evenly.",
             "The prime numbers start with two, three and five.",
             "Nine is not prime because three goes into it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "primitive",
+    "say": "PRIM-ih-tiv",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very simple and old.",
+          "examples": [
+            "The tool is primitive.",
+            "A primitive boat.",
+            "Primitive people lived in caves."
+          ]
+        },
+        "more": {
+          "def": "Very simple, as from the earliest times.",
+          "examples": [
+            "People made primitive tools from stone.",
+            "A primitive hut stood by the river.",
+            "The tools of early humans were primitive."
           ]
         }
       }

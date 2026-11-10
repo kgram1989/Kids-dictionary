@@ -211,6 +211,53 @@
     ]
   },
   {
+    "word": "token",
+    "say": "TOH-kun",
+    "forms": [
+      "tokens"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small coin for a game or machine.",
+          "examples": [
+            "I put a token in the machine.",
+            "The token is gold.",
+            "The game takes tokens."
+          ]
+        },
+        "more": {
+          "def": "A small piece of metal or plastic that is used instead of money in a machine.",
+          "examples": [
+            "I put a token in the arcade game.",
+            "The bus takes tokens.",
+            "We got a token for each ride."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sign of something.",
+          "examples": [
+            "A gift is a token of thanks.",
+            "The ring is a token of love.",
+            "A token of friendship."
+          ]
+        },
+        "more": {
+          "def": "A small thing that shows a feeling or a promise.",
+          "examples": [
+            "The card is a token of thanks.",
+            "He gave her a ring as a token of friendship.",
+            "The flowers were a token of respect."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tolerate",
     "say": "TOL-er-ayt",
     "forms": [
@@ -547,6 +594,35 @@
             "He lost a front tooth and got a coin from the tooth fairy.",
             "A shark has rows of sharp teeth.",
             "Brush your teeth twice a day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "toothbrush",
+    "say": "TOOTH-brush",
+    "emoji": "🪥",
+    "forms": [
+      "toothbrushes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small brush for cleaning your teeth.",
+          "examples": [
+            "I use a toothbrush.",
+            "The toothbrush is blue.",
+            "I brush with my toothbrush."
+          ]
+        },
+        "more": {
+          "def": "A small brush with a handle that you use to clean your teeth.",
+          "examples": [
+            "I put toothpaste on my toothbrush.",
+            "Dad packed a toothbrush for the trip.",
+            "The dentist gave me a new toothbrush."
           ]
         }
       }
@@ -1243,6 +1319,31 @@
             "Our town has a library, a bakery, and a park.",
             "The whole town came to watch the parade.",
             "We drove into town to buy groceries."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "toxic",
+    "say": "TOK-sik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Poisonous.",
+          "examples": [
+            "The fumes are toxic.",
+            "A toxic plant.",
+            "The chemical is toxic."
+          ]
+        },
+        "more": {
+          "def": "Containing a poison that can harm or kill.",
+          "examples": [
+            "The chemical is toxic, so do not touch it.",
+            "Some plants are toxic to pets.",
+            "The factory made toxic fumes."
           ]
         }
       }

@@ -354,5 +354,33 @@
         }
       }
     ]
+  },
+  {
+    "word": "tutor",
+    "say": "TOO-ter",
+    "forms": [
+      "tutors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A teacher who helps one student.",
+          "examples": [
+            "My tutor helps me with math.",
+            "The tutor is kind.",
+            "I have a tutor."
+          ]
+        },
+        "more": {
+          "def": "A person who teaches one student or a small group, to give extra help.",
+          "examples": [
+            "My tutor helps me with reading after school.",
+            "A math tutor visited every Tuesday.",
+            "The tutor explained the hard problem again."
+          ]
+        }
+      }
+    ]
   }
 ]

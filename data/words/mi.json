@@ -163,6 +163,36 @@
     ]
   },
   {
+    "word": "mild",
+    "say": "myld",
+    "forms": [
+      "milder",
+      "mildest",
+      "mildly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Gentle.",
+          "examples": [
+            "The weather is mild.",
+            "The soup is mild.",
+            "A mild cold."
+          ]
+        },
+        "more": {
+          "def": "Not harsh or strong, gentle.",
+          "examples": [
+            "The weather is mild in spring.",
+            "The salsa was mild, not spicy.",
+            "I had a mild cold."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mile",
     "say": "myl",
     "forms": [
@@ -418,6 +448,34 @@
             "I found a blue backpack, but it is not mine.",
             "Your drawing is great, and mine is not as good.",
             "The seat next to the window is mine."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "miner",
+    "say": "MY-ner",
+    "forms": [
+      "miners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who digs coal or metal underground.",
+          "examples": [
+            "The miner wore a helmet.",
+            "A miner digs for coal.",
+            "Miners work underground."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to dig for coal, metal or stone underground.",
+          "examples": [
+            "The miner wore a helmet with a lamp.",
+            "Miners dig for coal underground.",
+            "The miner found gold."
           ]
         }
       }

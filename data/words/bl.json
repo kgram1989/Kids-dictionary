@@ -985,5 +985,35 @@
         }
       }
     ]
+  },
+  {
+    "word": "blush",
+    "say": "blush",
+    "forms": [
+      "blushes",
+      "blushed",
+      "blushing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To turn red in the face.",
+          "examples": [
+            "I blush when I am shy.",
+            "She blushed.",
+            "He blushed with shame."
+          ]
+        },
+        "more": {
+          "def": "To get red cheeks because you feel shy or embarrassed.",
+          "examples": [
+            "I blushed when everyone sang to me.",
+            "She blushed at the compliment.",
+            "He blushed when he forgot her name."
+          ]
+        }
+      }
+    ]
   }
 ]

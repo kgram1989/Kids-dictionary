@@ -1,5 +1,33 @@
 [
   {
+    "word": "fiber",
+    "say": "FY-ber",
+    "forms": [
+      "fibers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin thread.",
+          "examples": [
+            "The cloth has fibers.",
+            "Cotton is a fiber.",
+            "A fiber is thin."
+          ]
+        },
+        "more": {
+          "def": "A thin thread that makes up a material, or the part of food that helps you digest.",
+          "examples": [
+            "The cloth is made of tiny fibers.",
+            "Fruit and vegetables have a lot of fiber.",
+            "Wool is a natural fiber."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fiction",
     "say": "FIK-shun",
     "senses": [
@@ -494,6 +522,55 @@
     ]
   },
   {
+    "word": "filter",
+    "say": "FIL-ter",
+    "forms": [
+      "filters",
+      "filtered",
+      "filtering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A screen that cleans water or air.",
+          "examples": [
+            "The filter cleans the water.",
+            "A coffee filter.",
+            "Change the filter."
+          ]
+        },
+        "more": {
+          "def": "A device with tiny holes that lets liquid or air through but stops dirt.",
+          "examples": [
+            "The filter cleans the water in the tank.",
+            "Mom put a paper filter in the coffee maker.",
+            "Change the air filter every month."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To clean water by passing it through small holes.",
+          "examples": [
+            "We filter the water.",
+            "The sand filters the rain.",
+            "He filtered the juice."
+          ]
+        },
+        "more": {
+          "def": "To pass a liquid or air through something to remove dirt.",
+          "examples": [
+            "We filter the water before drinking it.",
+            "He filtered the juice to remove the seeds.",
+            "The machine filters the air."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "filthy",
     "say": "FIL-thee",
     "forms": [
@@ -832,6 +909,34 @@
             "We roasted marshmallows over the campfire.",
             "The firefighters put out the fire at the old barn.",
             "Fire needs air to keep burning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fireman",
+    "say": "FYR-mun",
+    "forms": [
+      "firemen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man who puts out fires.",
+          "examples": [
+            "The fireman put out the fire.",
+            "A fireman rode in the truck.",
+            "The fireman was brave."
+          ]
+        },
+        "more": {
+          "def": "A man whose job is to put out fires.",
+          "examples": [
+            "The fireman climbed the ladder.",
+            "The fireman wore a heavy yellow coat.",
+            "The fireman visited our school."
           ]
         }
       }

@@ -428,6 +428,34 @@
     ]
   },
   {
+    "word": "hippie",
+    "say": "HIP-ee",
+    "forms": [
+      "hippies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person with a free, peaceful way of life from the 1960s.",
+          "examples": [
+            "The hippie wore flowers.",
+            "Hippies liked peace.",
+            "He dressed like a hippie."
+          ]
+        },
+        "more": {
+          "def": "A person from the 1960s and 1970s who wore flowery clothes and believed in peace and love.",
+          "examples": [
+            "The hippie wore flowers in her hair.",
+            "Hippies often wore bright, loose clothes.",
+            "He dressed like a hippie for the party."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hire",
     "say": "hyr",
     "forms": [
@@ -511,6 +539,34 @@
     ]
   },
   {
+    "word": "historical",
+    "say": "hih-STOR-ih-kul",
+    "forms": [
+      "historically"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with the past.",
+          "examples": [
+            "It is a historical place.",
+            "A historical story.",
+            "We visited a historical site."
+          ]
+        },
+        "more": {
+          "def": "Having to do with history, or something that really happened in the past.",
+          "examples": [
+            "The historical museum showed old maps.",
+            "The story is based on a historical event.",
+            "The museum has historical maps."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "history",
     "say": "HIS-tuh-ree",
     "forms": [
@@ -564,6 +620,42 @@
             "He hit the drum in time with the music."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "hitch",
+    "say": "hich",
+    "forms": [
+      "hitches",
+      "hitched",
+      "hitching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To fasten with a hook.",
+          "examples": [
+            "I hitch the horse.",
+            "Dad hitched the trailer.",
+            "She hitched the sled."
+          ]
+        },
+        "more": {
+          "def": "To fasten something to something else with a hook or rope.",
+          "examples": [
+            "The farmer hitched the horse to the cart.",
+            "Dad hitched the trailer to the car.",
+            "She hitched her sled to the dog."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unhitch",
+        "def": "To unfasten something hitched."
       }
     ]
   }
