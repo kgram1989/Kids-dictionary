@@ -1,5 +1,93 @@
 [
   {
+    "word": "wander",
+    "say": "WON-der",
+    "forms": [
+      "wanders",
+      "wandered",
+      "wandering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To walk around with no place to go.",
+          "example": "We wander in the park."
+        },
+        "more": {
+          "def": "To move around slowly without a clear direction or purpose.",
+          "example": "The lost puppy wandered through the streets."
+        }
+      }
+    ]
+  },
+  {
+    "word": "warn",
+    "say": "worn",
+    "emoji": "⚠️",
+    "forms": [
+      "warns",
+      "warned",
+      "warning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell someone about danger.",
+          "example": "The sign warns us that the floor is wet."
+        },
+        "more": {
+          "def": "To tell someone about a possible danger or problem before it happens.",
+          "example": "The lifeguard warned the swimmers about the strong waves."
+        }
+      }
+    ]
+  },
+  {
+    "word": "wealthy",
+    "say": "WEL-thee",
+    "emoji": "💰",
+    "forms": [
+      "wealthier",
+      "wealthiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having a lot of money.",
+          "example": "The wealthy queen had lots of gold."
+        },
+        "more": {
+          "def": "Having a lot of money or valuable things; rich.",
+          "example": "A wealthy family gave money to build the new library."
+        }
+      }
+    ]
+  },
+  {
+    "word": "weary",
+    "say": "WEER-ee",
+    "forms": [
+      "wearier",
+      "weariest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very tired.",
+          "example": "The weary boy fell asleep."
+        },
+        "more": {
+          "def": "Very tired, especially after working hard or for a long time.",
+          "example": "The weary travelers were glad to finally reach the inn."
+        }
+      }
+    ]
+  },
+  {
     "word": "weather",
     "say": "WETH-er",
     "emoji": "🌦️",
@@ -41,6 +129,28 @@
     ]
   },
   {
+    "word": "wild",
+    "say": "wyld",
+    "emoji": "🐺",
+    "forms": [
+      "wilder",
+      "wildest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Living in nature, not with people.",
+          "example": "A wolf is a wild animal."
+        },
+        "more": {
+          "def": "Living or growing in nature without being cared for by people.",
+          "example": "We picked wild berries along the trail."
+        }
+      }
+    ]
+  },
+  {
     "word": "wisdom",
     "say": "WIZ-dum",
     "emoji": "🦉",
@@ -54,6 +164,28 @@
         "more": {
           "def": "Good sense and judgment that comes from knowledge and experience.",
           "example": "The old story is full of wisdom about being kind."
+        }
+      }
+    ]
+  },
+  {
+    "word": "wise",
+    "say": "wyz",
+    "emoji": "🦉",
+    "forms": [
+      "wiser",
+      "wisest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Knowing a lot and making good choices.",
+          "example": "My grandpa is wise."
+        },
+        "more": {
+          "def": "Having good judgment and knowing what is right, often from experience.",
+          "example": "It was wise to bring a raincoat on such a cloudy day."
         }
       }
     ]
@@ -76,6 +208,44 @@
         "more": {
           "def": "To think about something with curiosity, wanting to know the answer.",
           "example": "She wondered how deep the ocean really was."
+        }
+      }
+    ]
+  },
+  {
+    "word": "worried",
+    "say": "WER-eed",
+    "emoji": "😟",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Thinking that something bad might happen.",
+          "example": "I am worried about my sick cat."
+        },
+        "more": {
+          "def": "Feeling uneasy because you think something bad might happen.",
+          "example": "He was worried that he would miss the bus."
+        }
+      }
+    ]
+  },
+  {
+    "word": "wrinkle",
+    "say": "RING-kul",
+    "forms": [
+      "wrinkles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small line or fold in skin or cloth.",
+          "example": "My shirt has a wrinkle."
+        },
+        "more": {
+          "def": "A small line or fold in skin, cloth, or paper.",
+          "example": "She ironed the shirt to take out the wrinkles."
         }
       }
     ]

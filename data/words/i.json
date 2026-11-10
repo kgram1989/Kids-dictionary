@@ -1,5 +1,71 @@
 [
   {
+    "word": "idea",
+    "say": "eye-DEE-uh",
+    "emoji": "💡",
+    "forms": [
+      "ideas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thought about what to do.",
+          "example": "I have an idea! Let's build a fort."
+        },
+        "more": {
+          "def": "A thought, plan, or picture that forms in your mind.",
+          "example": "Her idea for the science fair was to build a tiny windmill."
+        }
+      }
+    ]
+  },
+  {
+    "word": "ignore",
+    "say": "ig-NOR",
+    "forms": [
+      "ignores",
+      "ignored",
+      "ignoring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not pay attention to something.",
+          "example": "Ignore the noise and keep reading."
+        },
+        "more": {
+          "def": "To pay no attention to someone or something on purpose.",
+          "example": "He ignored the ringing phone and finished his homework."
+        }
+      }
+    ]
+  },
+  {
+    "word": "illustrate",
+    "say": "IL-uh-strayt",
+    "emoji": "🖍️",
+    "forms": [
+      "illustrates",
+      "illustrated",
+      "illustrating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To draw pictures for a story.",
+          "example": "I will illustrate my book with crayons."
+        },
+        "more": {
+          "def": "To add pictures to a book or story, or to explain with examples.",
+          "example": "The artist illustrated the story with bright watercolor paintings."
+        }
+      }
+    ]
+  },
+  {
     "word": "imagine",
     "say": "ih-MAJ-in",
     "emoji": "💭",
@@ -40,6 +106,132 @@
     ]
   },
   {
+    "word": "impossible",
+    "say": "im-POSS-uh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not able to happen or be done.",
+          "example": "It is impossible to touch the moon."
+        },
+        "more": {
+          "def": "Not able to be done or to happen.",
+          "example": "It seemed impossible to finish the puzzle, but we did it."
+        }
+      }
+    ]
+  },
+  {
+    "word": "improve",
+    "say": "im-PROOV",
+    "emoji": "📈",
+    "forms": [
+      "improves",
+      "improved",
+      "improving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get better.",
+          "example": "I practice to improve my drawing."
+        },
+        "more": {
+          "def": "To make something better or to become better.",
+          "example": "Her reading improved after she practiced every night."
+        }
+      }
+    ]
+  },
+  {
+    "word": "include",
+    "say": "in-KLOOD",
+    "forms": [
+      "includes",
+      "included",
+      "including"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone or something a part of a group.",
+          "example": "Please include me in your game."
+        },
+        "more": {
+          "def": "To have as a part, or to make something part of a group.",
+          "example": "The price of the ticket includes a drink and a snack."
+        }
+      }
+    ]
+  },
+  {
+    "word": "insect",
+    "say": "IN-sekt",
+    "emoji": "🐞",
+    "forms": [
+      "insects"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small bug with six legs.",
+          "example": "An ant is an insect."
+        },
+        "more": {
+          "def": "A small animal with six legs and a body in three parts, often with wings.",
+          "example": "Bees, ants, and butterflies are all insects."
+        }
+      }
+    ]
+  },
+  {
+    "word": "instrument",
+    "say": "IN-struh-munt",
+    "emoji": "🎺",
+    "forms": [
+      "instruments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing you play to make music.",
+          "example": "A drum is an instrument."
+        },
+        "more": {
+          "def": "An object used to make music; also, a tool for careful work.",
+          "example": "The violin is her favorite instrument to play."
+        }
+      }
+    ]
+  },
+  {
+    "word": "interrupt",
+    "say": "in-tuh-RUPT",
+    "forms": [
+      "interrupts",
+      "interrupted",
+      "interrupting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop someone when they are talking or busy.",
+          "example": "Please do not interrupt me."
+        },
+        "more": {
+          "def": "To stop someone while they are speaking or doing something.",
+          "example": "A loud knock interrupted the teacher in the middle of the story."
+        }
+      }
+    ]
+  },
+  {
     "word": "invent",
     "say": "in-VENT",
     "emoji": "💡",
@@ -58,6 +250,29 @@
         "more": {
           "def": "To think of and create something new for the first time.",
           "example": "People invented the wheel thousands of years ago."
+        }
+      }
+    ]
+  },
+  {
+    "word": "invite",
+    "say": "in-VYT",
+    "emoji": "💌",
+    "forms": [
+      "invites",
+      "invited",
+      "inviting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To ask someone to come.",
+          "example": "I will invite my friends to my party."
+        },
+        "more": {
+          "def": "To ask someone to come somewhere or to do something with you.",
+          "example": "We invited our new neighbors over for dinner."
         }
       }
     ]

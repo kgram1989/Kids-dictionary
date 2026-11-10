@@ -79,5 +79,48 @@
         }
       }
     ]
+  },
+  {
+    "word": "quit",
+    "say": "kwit",
+    "forms": [
+      "quits",
+      "quitting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop doing something.",
+          "example": "Do not quit. Keep trying!"
+        },
+        "more": {
+          "def": "To stop doing something or to give up.",
+          "example": "He wanted to quit the puzzle, but his sister helped him finish."
+        }
+      }
+    ]
+  },
+  {
+    "word": "quiver",
+    "say": "KWIV-er",
+    "forms": [
+      "quivers",
+      "quivered",
+      "quivering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shake a little bit.",
+          "example": "The leaf quivers in the wind."
+        },
+        "more": {
+          "def": "To shake with small, fast movements.",
+          "example": "The rabbit's nose quivered as it sniffed the air."
+        }
+      }
+    ]
   }
 ]

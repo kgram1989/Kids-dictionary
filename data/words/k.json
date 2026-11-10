@@ -1,5 +1,26 @@
 [
   {
+    "word": "keen",
+    "say": "keen",
+    "forms": [
+      "keener",
+      "keenest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wanting to do something very much.",
+          "example": "I am keen to learn to swim."
+        },
+        "more": {
+          "def": "Very interested and eager; also, sharp or strong.",
+          "example": "Owls have keen eyesight for hunting at night."
+        }
+      }
+    ]
+  },
+  {
     "word": "kind",
     "say": "kynd",
     "emoji": "💛",
@@ -38,6 +59,50 @@
         "more": {
           "def": "A country that is ruled by a king or queen.",
           "example": "Everyone in the kingdom came to the castle for the feast."
+        }
+      }
+    ]
+  },
+  {
+    "word": "kneel",
+    "say": "neel",
+    "forms": [
+      "kneels",
+      "knelt",
+      "kneeled",
+      "kneeling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go down on your knees.",
+          "example": "I kneel to pet the cat."
+        },
+        "more": {
+          "def": "To bend your legs and rest on one or both knees.",
+          "example": "She knelt in the garden to pull the weeds."
+        }
+      }
+    ]
+  },
+  {
+    "word": "knight",
+    "say": "nyt",
+    "emoji": "🛡️",
+    "forms": [
+      "knights"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soldier from long ago who rode a horse.",
+          "example": "The knight had a shiny sword."
+        },
+        "more": {
+          "def": "A soldier of long ago who wore armor, rode a horse, and served a king or queen.",
+          "example": "The knight promised to protect the castle."
         }
       }
     ]

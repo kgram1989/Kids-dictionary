@@ -1,5 +1,26 @@
 [
   {
+    "word": "narrow",
+    "say": "NAIR-oh",
+    "forms": [
+      "narrower",
+      "narrowest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not wide.",
+          "example": "The path is narrow."
+        },
+        "more": {
+          "def": "Small in width; not wide.",
+          "example": "The street was so narrow that only one car could pass."
+        }
+      }
+    ]
+  },
+  {
     "word": "nature",
     "say": "NAY-cher",
     "emoji": "🌿",
@@ -13,6 +34,29 @@
         "more": {
           "def": "Everything in the world not made by people, such as plants, animals, weather, and land.",
           "example": "Hiking is a great way to enjoy nature."
+        }
+      }
+    ]
+  },
+  {
+    "word": "neighbor",
+    "say": "NAY-ber",
+    "emoji": "🏠",
+    "forms": [
+      "neighbors",
+      "neighbour",
+      "neighbours"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who lives near you.",
+          "example": "My neighbor has a big dog."
+        },
+        "more": {
+          "def": "A person who lives next to or near you.",
+          "example": "Our neighbor waters our plants when we are away."
         }
       }
     ]
@@ -36,6 +80,29 @@
     ]
   },
   {
+    "word": "nibble",
+    "say": "NIB-ul",
+    "emoji": "🐭",
+    "forms": [
+      "nibbles",
+      "nibbled",
+      "nibbling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To eat with tiny bites.",
+          "example": "The mouse will nibble the cheese."
+        },
+        "more": {
+          "def": "To eat something by taking small bites.",
+          "example": "The rabbit nibbled on a carrot."
+        }
+      }
+    ]
+  },
+  {
     "word": "nocturnal",
     "say": "nok-TER-nul",
     "emoji": "🦉",
@@ -49,6 +116,46 @@
         "more": {
           "def": "Active at night and resting during the day.",
           "example": "Bats are nocturnal animals that hunt insects after dark."
+        }
+      }
+    ]
+  },
+  {
+    "word": "noisy",
+    "say": "NOY-zee",
+    "emoji": "📢",
+    "forms": [
+      "noisier",
+      "noisiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making a lot of sound.",
+          "example": "The noisy truck woke me up."
+        },
+        "more": {
+          "def": "Making a lot of loud sound, or full of loud sounds.",
+          "example": "The lunchroom is always noisy at noon."
+        }
+      }
+    ]
+  },
+  {
+    "word": "nonsense",
+    "say": "NON-senss",
+    "emoji": "🤪",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Silly words or ideas that mean nothing.",
+          "example": "That funny poem is full of nonsense."
+        },
+        "more": {
+          "def": "Words or ideas that are silly or have no meaning.",
+          "example": "He made us laugh by singing a song of pure nonsense."
         }
       }
     ]
@@ -72,6 +179,26 @@
         "more": {
           "def": "To become aware of something by seeing, hearing, or feeling it.",
           "example": "He noticed a small crack in the window."
+        }
+      }
+    ]
+  },
+  {
+    "word": "nutrient",
+    "say": "NOO-tree-unt",
+    "forms": [
+      "nutrients"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something in food that helps you grow.",
+          "example": "Milk has nutrients for strong bones."
+        },
+        "more": {
+          "def": "A substance that living things need in order to grow and stay healthy.",
+          "example": "Plants take in nutrients from the soil through their roots."
         }
       }
     ]

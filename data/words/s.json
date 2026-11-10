@@ -1,5 +1,107 @@
 [
   {
+    "word": "scatter",
+    "say": "SKAT-er",
+    "forms": [
+      "scatters",
+      "scattered",
+      "scattering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To throw or move things all over.",
+          "example": "We scatter seeds for the birds."
+        },
+        "more": {
+          "def": "To throw or spread things over a wide area, or to move apart quickly.",
+          "example": "The marbles scattered across the floor when the bag broke."
+        }
+      }
+    ]
+  },
+  {
+    "word": "season",
+    "say": "SEE-zun",
+    "emoji": "🍂",
+    "forms": [
+      "seasons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One of the four parts of the year.",
+          "example": "Winter is the cold season."
+        },
+        "more": {
+          "def": "One of the four parts of the year: spring, summer, fall, and winter.",
+          "example": "Fall is my favorite season because the leaves change color."
+        }
+      }
+    ]
+  },
+  {
+    "word": "secret",
+    "say": "SEE-krit",
+    "emoji": "🤐",
+    "forms": [
+      "secrets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you do not tell other people.",
+          "example": "The gift is a secret."
+        },
+        "more": {
+          "def": "Something that is kept hidden or known by only a few people.",
+          "example": "She kept the surprise party a secret for two weeks."
+        }
+      }
+    ]
+  },
+  {
+    "word": "selfish",
+    "say": "SEL-fish",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Thinking only of yourself.",
+          "example": "It is selfish not to share."
+        },
+        "more": {
+          "def": "Caring only about yourself and not about other people.",
+          "example": "It was selfish of him to eat the whole cake without sharing."
+        }
+      }
+    ]
+  },
+  {
+    "word": "shadow",
+    "say": "SHAD-oh",
+    "emoji": "👤",
+    "forms": [
+      "shadows"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dark shape made when something blocks the light.",
+          "example": "I can see my shadow on the wall."
+        },
+        "more": {
+          "def": "A dark shape that forms when something blocks light.",
+          "example": "In the evening, the trees cast long shadows across the lawn."
+        }
+      }
+    ]
+  },
+  {
     "word": "shelter",
     "say": "SHEL-ter",
     "emoji": "⛺",
@@ -21,6 +123,47 @@
     ]
   },
   {
+    "word": "shiver",
+    "say": "SHIV-er",
+    "emoji": "🥶",
+    "forms": [
+      "shivers",
+      "shivered",
+      "shivering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shake because you are cold or scared.",
+          "example": "I shiver in the snow."
+        },
+        "more": {
+          "def": "To shake slightly because you are cold or frightened.",
+          "example": "We shivered at the bus stop in the icy wind."
+        }
+      }
+    ]
+  },
+  {
+    "word": "silent",
+    "say": "SY-lunt",
+    "emoji": "🤫",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making no sound at all.",
+          "example": "The house was silent at night."
+        },
+        "more": {
+          "def": "Completely quiet; making no sound.",
+          "example": "The forest was silent after the snowfall."
+        }
+      }
+    ]
+  },
+  {
     "word": "similar",
     "say": "SIM-uh-ler",
     "senses": [
@@ -33,6 +176,66 @@
         "more": {
           "def": "Alike in many ways, but not exactly the same.",
           "example": "A wolf looks similar to a large dog."
+        }
+      }
+    ]
+  },
+  {
+    "word": "simple",
+    "say": "SIM-pul",
+    "forms": [
+      "simpler",
+      "simplest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Easy.",
+          "example": "This puzzle is simple."
+        },
+        "more": {
+          "def": "Easy to understand or do; not hard or complicated.",
+          "example": "The directions were simple, so we finished quickly."
+        }
+      }
+    ]
+  },
+  {
+    "word": "skeleton",
+    "say": "SKEL-uh-tun",
+    "emoji": "💀",
+    "forms": [
+      "skeletons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "All the bones in a body.",
+          "example": "Your skeleton holds you up."
+        },
+        "more": {
+          "def": "The frame of bones that supports the body of a person or animal.",
+          "example": "The museum has the skeleton of a huge dinosaur."
+        }
+      }
+    ]
+  },
+  {
+    "word": "slippery",
+    "say": "SLIP-uh-ree",
+    "emoji": "🧊",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "So wet or smooth that you might slide.",
+          "example": "The ice is slippery."
+        },
+        "more": {
+          "def": "So smooth, wet, or icy that it is hard to hold or walk on.",
+          "example": "Be careful, because the floor is slippery when it is wet."
         }
       }
     ]
@@ -59,6 +262,49 @@
     ]
   },
   {
+    "word": "steady",
+    "say": "STED-ee",
+    "forms": [
+      "steadier",
+      "steadiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not shaking or moving.",
+          "example": "Hold the ladder steady."
+        },
+        "more": {
+          "def": "Firm and not shaking; also, not changing much.",
+          "example": "She kept a steady hand while she painted the tiny flowers."
+        }
+      }
+    ]
+  },
+  {
+    "word": "strange",
+    "say": "straynj",
+    "emoji": "👽",
+    "forms": [
+      "stranger",
+      "strangest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Odd; not what you know.",
+          "example": "I heard a strange noise."
+        },
+        "more": {
+          "def": "Unusual, odd, or not known to you.",
+          "example": "A strange light was blinking in the sky."
+        }
+      }
+    ]
+  },
+  {
     "word": "stubborn",
     "say": "STUB-ern",
     "emoji": "🫏",
@@ -72,6 +318,49 @@
         "more": {
           "def": "Refusing to change your mind or do what others want.",
           "example": "He was too stubborn to admit that he was lost."
+        }
+      }
+    ]
+  },
+  {
+    "word": "surprise",
+    "say": "ser-PRYZ",
+    "emoji": "🎁",
+    "forms": [
+      "surprises"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you did not know would happen.",
+          "example": "The party was a surprise!"
+        },
+        "more": {
+          "def": "Something that happens that you did not expect.",
+          "example": "It was a nice surprise to find a letter in the mailbox."
+        }
+      }
+    ]
+  },
+  {
+    "word": "survive",
+    "say": "ser-VYV",
+    "forms": [
+      "survives",
+      "survived",
+      "surviving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stay alive.",
+          "example": "Plants need water to survive."
+        },
+        "more": {
+          "def": "To stay alive, especially through something hard or dangerous.",
+          "example": "Camels can survive for days without drinking water."
         }
       }
     ]

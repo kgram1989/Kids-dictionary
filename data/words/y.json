@@ -23,6 +23,29 @@
     ]
   },
   {
+    "word": "yell",
+    "say": "yel",
+    "emoji": "📣",
+    "forms": [
+      "yells",
+      "yelled",
+      "yelling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shout very loud.",
+          "example": "Do not yell inside."
+        },
+        "more": {
+          "def": "To shout loudly.",
+          "example": "The fans yelled when their team scored."
+        }
+      }
+    ]
+  },
+  {
     "word": "yesterday",
     "say": "YES-ter-day",
     "senses": [
@@ -57,6 +80,28 @@
         "more": {
           "def": "Having lived or existed for only a short time.",
           "example": "The young tree was only as tall as my knee."
+        }
+      }
+    ]
+  },
+  {
+    "word": "yummy",
+    "say": "YUM-ee",
+    "emoji": "😋",
+    "forms": [
+      "yummier",
+      "yummiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very good to eat.",
+          "example": "These grapes are yummy."
+        },
+        "more": {
+          "def": "Tasting very good; delicious.",
+          "example": "The bakery sells yummy cinnamon rolls."
         }
       }
     ]

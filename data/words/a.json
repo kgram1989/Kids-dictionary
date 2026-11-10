@@ -1,5 +1,93 @@
 [
   {
+    "word": "absorb",
+    "say": "ub-ZORB",
+    "emoji": "🧽",
+    "forms": [
+      "absorbs",
+      "absorbed",
+      "absorbing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To soak up.",
+          "example": "A sponge can absorb water."
+        },
+        "more": {
+          "def": "To take in or soak up something, such as a liquid, heat, or light.",
+          "example": "Dark clothes absorb more heat from the sun than light clothes."
+        }
+      }
+    ]
+  },
+  {
+    "word": "accident",
+    "say": "AK-sih-dunt",
+    "forms": [
+      "accidents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something bad that happens that no one wanted to happen.",
+          "example": "I spilled my milk by accident."
+        },
+        "more": {
+          "def": "Something that happens by chance and is not planned, often causing harm or damage.",
+          "example": "He broke the vase by accident when he bumped the table."
+        }
+      }
+    ]
+  },
+  {
+    "word": "achieve",
+    "say": "uh-CHEEV",
+    "emoji": "🏆",
+    "forms": [
+      "achieves",
+      "achieved",
+      "achieving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To do something you worked hard for.",
+          "example": "You can achieve your goal if you keep trying."
+        },
+        "more": {
+          "def": "To succeed in doing something through effort or skill.",
+          "example": "She achieved her dream of swimming across the lake."
+        }
+      }
+    ]
+  },
+  {
+    "word": "admire",
+    "say": "ad-MYR",
+    "forms": [
+      "admires",
+      "admired",
+      "admiring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To think someone or something is very good.",
+          "example": "I admire my big sister."
+        },
+        "more": {
+          "def": "To respect and look up to someone, or to enjoy looking at something.",
+          "example": "We stopped to admire the colorful sunset."
+        }
+      }
+    ]
+  },
+  {
     "word": "adventure",
     "say": "ad-VEN-cher",
     "emoji": "🧭",
@@ -16,6 +104,92 @@
         "more": {
           "def": "An exciting experience, often one that is new or a little bit risky.",
           "example": "Sailing across the lake was the biggest adventure of her summer."
+        }
+      }
+    ]
+  },
+  {
+    "word": "afraid",
+    "say": "uh-FRAYD",
+    "emoji": "😨",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling scared.",
+          "example": "I am afraid of the dark."
+        },
+        "more": {
+          "def": "Feeling fear or worry that something bad might happen.",
+          "example": "The puppy was afraid of the loud thunder."
+        }
+      }
+    ]
+  },
+  {
+    "word": "agree",
+    "say": "uh-GREE",
+    "emoji": "🤝",
+    "forms": [
+      "agrees",
+      "agreed",
+      "agreeing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To think the same thing as someone else.",
+          "example": "We both agree that pizza is yummy."
+        },
+        "more": {
+          "def": "To have the same opinion as someone, or to say yes to something.",
+          "example": "Everyone agreed that the park was the best place for the picnic."
+        }
+      }
+    ]
+  },
+  {
+    "word": "allow",
+    "say": "uh-LOW",
+    "forms": [
+      "allows",
+      "allowed",
+      "allowing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let someone do something.",
+          "example": "Mom will allow me to stay up late."
+        },
+        "more": {
+          "def": "To give permission for someone to do or have something.",
+          "example": "The museum does not allow visitors to touch the paintings."
+        }
+      }
+    ]
+  },
+  {
+    "word": "amaze",
+    "say": "uh-MAYZ",
+    "emoji": "😲",
+    "forms": [
+      "amazes",
+      "amazed",
+      "amazing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To surprise someone a lot.",
+          "example": "The magic trick will amaze you."
+        },
+        "more": {
+          "def": "To fill someone with great surprise or wonder.",
+          "example": "The size of the whale amazed everyone on the boat."
         }
       }
     ]
@@ -77,6 +251,40 @@
         "more": {
           "def": "A person trained to travel and work in space.",
           "example": "The astronaut lived on the space station for six months."
+        }
+      }
+    ]
+  },
+  {
+    "word": "attention",
+    "say": "uh-TEN-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Looking and listening with care.",
+          "example": "Please pay attention to the teacher."
+        },
+        "more": {
+          "def": "Careful watching, listening, or thinking about something.",
+          "example": "The loud noise caught the attention of the whole class."
+        }
+      }
+    ]
+  },
+  {
+    "word": "average",
+    "say": "AV-rij",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Normal, not big and not small.",
+          "example": "He is of average height for his age."
+        },
+        "more": {
+          "def": "Usual or ordinary; in the middle, not very high or very low.",
+          "example": "An average school day lasts about six hours."
         }
       }
     ]

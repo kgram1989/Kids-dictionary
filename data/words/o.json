@@ -1,5 +1,47 @@
 [
   {
+    "word": "obey",
+    "say": "oh-BAY",
+    "forms": [
+      "obeys",
+      "obeyed",
+      "obeying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To do what you are told.",
+          "example": "My dog will obey when I say \"sit.\""
+        },
+        "more": {
+          "def": "To do what a person, rule, or law tells you to do.",
+          "example": "Drivers must obey the traffic signs."
+        }
+      }
+    ]
+  },
+  {
+    "word": "object",
+    "say": "OB-jekt",
+    "forms": [
+      "objects"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing you can see and touch.",
+          "example": "A ball is a round object."
+        },
+        "more": {
+          "def": "A thing that you can see and touch, but that is not alive.",
+          "example": "There was a shiny object at the bottom of the pond."
+        }
+      }
+    ]
+  },
+  {
     "word": "observe",
     "say": "ub-ZERV",
     "emoji": "🔭",
@@ -65,6 +107,50 @@
     ]
   },
   {
+    "word": "orbit",
+    "say": "OR-bit",
+    "emoji": "🪐",
+    "forms": [
+      "orbits",
+      "orbited",
+      "orbiting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go around and around something in space.",
+          "example": "The Earth orbits the sun."
+        },
+        "more": {
+          "def": "To travel in a curved path around a planet, moon, or star.",
+          "example": "The moon orbits the Earth about once every month."
+        }
+      }
+    ]
+  },
+  {
+    "word": "orchard",
+    "say": "OR-cherd",
+    "emoji": "🍎",
+    "forms": [
+      "orchards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where fruit trees grow.",
+          "example": "We picked apples in the orchard."
+        },
+        "more": {
+          "def": "A piece of land where fruit or nut trees are grown.",
+          "example": "The orchard was full of ripe peaches."
+        }
+      }
+    ]
+  },
+  {
     "word": "ordinary",
     "say": "OR-duh-nair-ee",
     "senses": [
@@ -77,6 +163,65 @@
         "more": {
           "def": "Usual or normal; not different or special in any way.",
           "example": "It looked like an ordinary rock, but there was a crystal inside."
+        }
+      }
+    ]
+  },
+  {
+    "word": "organize",
+    "say": "OR-guh-nyz",
+    "emoji": "🗂️",
+    "forms": [
+      "organizes",
+      "organized",
+      "organizing",
+      "organise"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put things in order.",
+          "example": "Let's organize the toys by color."
+        },
+        "more": {
+          "def": "To arrange things in a neat order, or to plan an event.",
+          "example": "We organized the books by author on the shelf."
+        }
+      }
+    ]
+  },
+  {
+    "word": "outdoors",
+    "say": "owt-DORZ",
+    "emoji": "🌳",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Outside, not in a building.",
+          "example": "We like to play outdoors."
+        },
+        "more": {
+          "def": "Outside, in the open air.",
+          "example": "On sunny days, our class eats lunch outdoors."
+        }
+      }
+    ]
+  },
+  {
+    "word": "oxygen",
+    "say": "OK-sih-jun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of air that we need to breathe.",
+          "example": "We need oxygen to live."
+        },
+        "more": {
+          "def": "A gas in the air that people, animals, and plants need to live.",
+          "example": "Fish use their gills to take oxygen from the water."
         }
       }
     ]

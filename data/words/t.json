@@ -1,5 +1,69 @@
 [
   {
+    "word": "talent",
+    "say": "TAL-unt",
+    "emoji": "🎤",
+    "forms": [
+      "talents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you are very good at.",
+          "example": "She has a talent for singing."
+        },
+        "more": {
+          "def": "A natural ability to do something well.",
+          "example": "His talent for drawing was clear even when he was little."
+        }
+      }
+    ]
+  },
+  {
+    "word": "tasty",
+    "say": "TAY-stee",
+    "emoji": "😋",
+    "forms": [
+      "tastier",
+      "tastiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Good to eat.",
+          "example": "The soup is tasty."
+        },
+        "more": {
+          "def": "Having a pleasant flavor.",
+          "example": "Grandpa makes a tasty vegetable stew."
+        }
+      }
+    ]
+  },
+  {
+    "word": "telescope",
+    "say": "TEL-uh-skohp",
+    "emoji": "🔭",
+    "forms": [
+      "telescopes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool that makes far away things look big.",
+          "example": "I saw the moon with a telescope."
+        },
+        "more": {
+          "def": "A tool you look through that makes distant things, like stars, appear larger and closer.",
+          "example": "Through the telescope, we could see the rings of Saturn."
+        }
+      }
+    ]
+  },
+  {
     "word": "temperature",
     "say": "TEM-per-uh-cher",
     "emoji": "🌡️",
@@ -16,6 +80,107 @@
         "more": {
           "def": "A measure of how hot or cold something is.",
           "example": "The temperature dropped below freezing, and the pond turned to ice."
+        }
+      }
+    ]
+  },
+  {
+    "word": "terrible",
+    "say": "TAIR-uh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very bad.",
+          "example": "I had a terrible dream."
+        },
+        "more": {
+          "def": "Very bad or unpleasant.",
+          "example": "A terrible storm knocked out the power for two days."
+        }
+      }
+    ]
+  },
+  {
+    "word": "thunder",
+    "say": "THUN-der",
+    "emoji": "⛈️",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The loud boom you hear in a storm.",
+          "example": "The thunder was so loud!"
+        },
+        "more": {
+          "def": "The loud rumbling sound that follows a flash of lightning.",
+          "example": "The thunder rattled the windows of the house."
+        }
+      }
+    ]
+  },
+  {
+    "word": "tidy",
+    "say": "TY-dee",
+    "emoji": "🧹",
+    "forms": [
+      "tidier",
+      "tidiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Neat and clean.",
+          "example": "My room is tidy now."
+        },
+        "more": {
+          "def": "Neat, with everything in its proper place.",
+          "example": "He keeps his desk tidy so he can find things easily."
+        }
+      }
+    ]
+  },
+  {
+    "word": "tiny",
+    "say": "TY-nee",
+    "emoji": "🐜",
+    "forms": [
+      "tinier",
+      "tiniest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very small.",
+          "example": "An ant is tiny."
+        },
+        "more": {
+          "def": "Extremely small.",
+          "example": "A tiny seed can grow into a giant tree."
+        }
+      }
+    ]
+  },
+  {
+    "word": "tornado",
+    "say": "tor-NAY-doh",
+    "emoji": "🌪️",
+    "forms": [
+      "tornadoes",
+      "tornados"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A storm with wind that spins very fast.",
+          "example": "The tornado spun across the field."
+        },
+        "more": {
+          "def": "A powerful storm with a spinning, funnel-shaped column of wind.",
+          "example": "The family hid in the basement until the tornado passed."
         }
       }
     ]
@@ -59,6 +224,52 @@
     ]
   },
   {
+    "word": "travel",
+    "say": "TRAV-ul",
+    "emoji": "✈️",
+    "forms": [
+      "travels",
+      "traveled",
+      "traveling",
+      "travelled",
+      "travelling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go from one place to another.",
+          "example": "We travel to the beach by car."
+        },
+        "more": {
+          "def": "To go from one place to another, often over a long distance.",
+          "example": "They traveled across the country by train."
+        }
+      }
+    ]
+  },
+  {
+    "word": "treasure",
+    "say": "TREZH-er",
+    "emoji": "💰",
+    "forms": [
+      "treasures"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Gold, gems, or other special things.",
+          "example": "The pirates hid the treasure."
+        },
+        "more": {
+          "def": "Valuable things such as gold and jewels, or something very special to you.",
+          "example": "The divers found treasure in the sunken ship."
+        }
+      }
+    ]
+  },
+  {
     "word": "tremble",
     "say": "TREM-bul",
     "forms": [
@@ -76,6 +287,28 @@
         "more": {
           "def": "To shake slightly because you are cold, afraid, or excited.",
           "example": "The leaves trembled in the gentle wind."
+        }
+      }
+    ]
+  },
+  {
+    "word": "trust",
+    "say": "trust",
+    "forms": [
+      "trusts",
+      "trusted",
+      "trusting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To feel sure that someone is good and honest.",
+          "example": "I trust my mom."
+        },
+        "more": {
+          "def": "To believe that someone is honest and will not hurt you or let you down.",
+          "example": "You can trust her to keep a promise."
         }
       }
     ]

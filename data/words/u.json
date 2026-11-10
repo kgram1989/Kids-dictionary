@@ -1,5 +1,60 @@
 [
   {
+    "word": "umbrella",
+    "say": "um-BREL-uh",
+    "emoji": "☂️",
+    "forms": [
+      "umbrellas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing you hold over your head to keep the rain off.",
+          "example": "Take an umbrella. It is raining."
+        },
+        "more": {
+          "def": "A folding cover on a handle that you hold over yourself to keep off rain or sun.",
+          "example": "The wind turned my umbrella inside out."
+        }
+      }
+    ]
+  },
+  {
+    "word": "uncomfortable",
+    "say": "un-KUMF-ter-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not feeling good or nice.",
+          "example": "These tight shoes are uncomfortable."
+        },
+        "more": {
+          "def": "Not feeling relaxed or at ease, or causing that feeling.",
+          "example": "The hard bench was uncomfortable to sit on for long."
+        }
+      }
+    ]
+  },
+  {
+    "word": "underneath",
+    "say": "un-der-NEETH",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Under.",
+          "example": "My shoes are underneath the bed."
+        },
+        "more": {
+          "def": "Below or under something, often covered by it.",
+          "example": "We found the key underneath the flowerpot."
+        }
+      }
+    ]
+  },
+  {
     "word": "understand",
     "say": "un-der-STAND",
     "forms": [
@@ -17,6 +72,24 @@
         "more": {
           "def": "To know the meaning of something or how it works.",
           "example": "After the teacher drew a picture, I understood the math problem."
+        }
+      }
+    ]
+  },
+  {
+    "word": "unique",
+    "say": "yoo-NEEK",
+    "emoji": "❄️",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "The only one like it.",
+          "example": "Each snowflake is unique."
+        },
+        "more": {
+          "def": "Being the only one of its kind; unlike anything else.",
+          "example": "Every person's fingerprints are unique."
         }
       }
     ]
@@ -52,6 +125,42 @@
         "more": {
           "def": "Not common or ordinary; different from what you expect.",
           "example": "It is unusual to see snow here in April."
+        }
+      }
+    ]
+  },
+  {
+    "word": "upset",
+    "say": "up-SET",
+    "emoji": "😢",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sad or mad.",
+          "example": "I was upset when I lost my toy."
+        },
+        "more": {
+          "def": "Unhappy, worried, or angry about something.",
+          "example": "She was upset that her best friend was moving away."
+        }
+      }
+    ]
+  },
+  {
+    "word": "urgent",
+    "say": "ER-junt",
+    "emoji": "🚨",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Needing to be done right now.",
+          "example": "It is urgent! We need help fast."
+        },
+        "more": {
+          "def": "Very important and needing attention right away.",
+          "example": "The doctor got an urgent call from the hospital."
         }
       }
     ]

@@ -17,6 +17,45 @@
     ]
   },
   {
+    "word": "pattern",
+    "say": "PAT-ern",
+    "emoji": "🔶",
+    "forms": [
+      "patterns"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Shapes, colors, or things that repeat again and again.",
+          "example": "My shirt has a pattern of red and blue dots."
+        },
+        "more": {
+          "def": "A design or set of things that repeats in a regular way.",
+          "example": "Can you find the pattern in these numbers: 2, 4, 6, 8?"
+        }
+      }
+    ]
+  },
+  {
+    "word": "peaceful",
+    "say": "PEESS-ful",
+    "emoji": "🕊️",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Calm and quiet.",
+          "example": "The garden is a peaceful place."
+        },
+        "more": {
+          "def": "Quiet and calm; without fighting or trouble.",
+          "example": "It was a peaceful morning with no sound but the birds."
+        }
+      }
+    ]
+  },
+  {
     "word": "peculiar",
     "say": "pih-KYOOL-yer",
     "senses": [
@@ -29,6 +68,117 @@
         "more": {
           "def": "Strange or unusual in a way that makes you notice.",
           "example": "There was a peculiar smell coming from the science room."
+        }
+      }
+    ]
+  },
+  {
+    "word": "permission",
+    "say": "per-MISH-un",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When someone says it is okay to do something.",
+          "example": "I have permission to go outside."
+        },
+        "more": {
+          "def": "An okay from someone that allows you to do something.",
+          "example": "You need a parent's permission to go on the field trip."
+        }
+      }
+    ]
+  },
+  {
+    "word": "planet",
+    "say": "PLAN-it",
+    "emoji": "🪐",
+    "forms": [
+      "planets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big, round thing in space that goes around a star.",
+          "example": "Earth is the planet we live on."
+        },
+        "more": {
+          "def": "A large, round object in space that travels around a star such as the sun.",
+          "example": "Jupiter is the largest planet in our solar system."
+        }
+      }
+    ]
+  },
+  {
+    "word": "polite",
+    "say": "puh-LYT",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having good manners.",
+          "example": "It is polite to say \"thank you.\""
+        },
+        "more": {
+          "def": "Having good manners and showing respect for other people.",
+          "example": "The polite boy held the door open for everyone."
+        }
+      }
+    ]
+  },
+  {
+    "word": "pollution",
+    "say": "puh-LOO-shun",
+    "emoji": "🏭",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Dirty things that hurt the air, water, or land.",
+          "example": "Smoke from cars makes pollution."
+        },
+        "more": {
+          "def": "Harmful or dirty things that spoil the air, water, or land.",
+          "example": "Pollution in the river made it unsafe for the fish."
+        }
+      }
+    ]
+  },
+  {
+    "word": "popular",
+    "say": "POP-yuh-ler",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Liked by lots of people.",
+          "example": "Soccer is a popular game."
+        },
+        "more": {
+          "def": "Liked or enjoyed by many people.",
+          "example": "That song is so popular that everyone knows the words."
+        }
+      }
+    ]
+  },
+  {
+    "word": "predator",
+    "say": "PRED-uh-ter",
+    "emoji": "🦈",
+    "forms": [
+      "predators"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal that hunts other animals for food.",
+          "example": "A lion is a predator."
+        },
+        "more": {
+          "def": "An animal that hunts and eats other animals.",
+          "example": "Owls are predators that hunt mice at night."
         }
       }
     ]
@@ -57,6 +207,51 @@
     ]
   },
   {
+    "word": "prepare",
+    "say": "prih-PAIR",
+    "forms": [
+      "prepares",
+      "prepared",
+      "preparing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get ready.",
+          "example": "We prepare for bed by brushing our teeth."
+        },
+        "more": {
+          "def": "To get ready for something, or to make something ready.",
+          "example": "The class prepared for the play by practicing every day."
+        }
+      }
+    ]
+  },
+  {
+    "word": "promise",
+    "say": "PROM-iss",
+    "emoji": "🤞",
+    "forms": [
+      "promises",
+      "promised",
+      "promising"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say you will really do something.",
+          "example": "I promise to feed the fish."
+        },
+        "more": {
+          "def": "To tell someone that you will certainly do something.",
+          "example": "He promised to return the book by Friday."
+        }
+      }
+    ]
+  },
+  {
     "word": "protect",
     "say": "pruh-TEKT",
     "emoji": "🛡️",
@@ -75,6 +270,27 @@
         "more": {
           "def": "To keep someone or something safe from harm.",
           "example": "The mother bird protected her eggs from the cold."
+        }
+      }
+    ]
+  },
+  {
+    "word": "proud",
+    "say": "prowd",
+    "forms": [
+      "prouder",
+      "proudest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling good about something you did.",
+          "example": "I am proud of my painting."
+        },
+        "more": {
+          "def": "Feeling pleased about something you or someone else has done.",
+          "example": "Her parents were proud when she finished the race."
         }
       }
     ]

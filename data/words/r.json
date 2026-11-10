@@ -1,5 +1,67 @@
 [
   {
+    "word": "rapid",
+    "say": "RAP-id",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very fast.",
+          "example": "The cheetah is a rapid runner."
+        },
+        "more": {
+          "def": "Very quick; happening in a short time.",
+          "example": "The river's rapid water carried the raft downstream."
+        }
+      }
+    ]
+  },
+  {
+    "word": "rare",
+    "say": "rair",
+    "emoji": "💎",
+    "forms": [
+      "rarer",
+      "rarest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not seen or found very much.",
+          "example": "It is rare to see snow here."
+        },
+        "more": {
+          "def": "Not common; not often seen, found, or happening.",
+          "example": "The zoo has a rare white tiger."
+        }
+      }
+    ]
+  },
+  {
+    "word": "recognize",
+    "say": "REK-ug-nyz",
+    "forms": [
+      "recognizes",
+      "recognized",
+      "recognizing",
+      "recognise"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To know someone or something because you have seen it before.",
+          "example": "I recognize that dog. It lives next door."
+        },
+        "more": {
+          "def": "To know who or what something is because you have seen or heard it before.",
+          "example": "I did not recognize my cousin with his new haircut."
+        }
+      }
+    ]
+  },
+  {
     "word": "recycle",
     "say": "ree-SY-kul",
     "emoji": "♻️",
@@ -23,6 +85,52 @@
     ]
   },
   {
+    "word": "reflect",
+    "say": "rih-FLEKT",
+    "emoji": "🪞",
+    "forms": [
+      "reflects",
+      "reflected",
+      "reflecting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To show a picture back, like a mirror does.",
+          "example": "The lake reflects the trees."
+        },
+        "more": {
+          "def": "To throw back light, heat, sound, or an image from a surface.",
+          "example": "The calm water reflected the mountains like a mirror."
+        }
+      }
+    ]
+  },
+  {
+    "word": "relax",
+    "say": "rih-LAKS",
+    "emoji": "🏖️",
+    "forms": [
+      "relaxes",
+      "relaxed",
+      "relaxing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rest and feel calm.",
+          "example": "I relax with a good book."
+        },
+        "more": {
+          "def": "To rest and become calm and less worried.",
+          "example": "After the test, the students could finally relax."
+        }
+      }
+    ]
+  },
+  {
     "word": "remember",
     "say": "rih-MEM-ber",
     "forms": [
@@ -40,6 +148,27 @@
         "more": {
           "def": "To bring something back into your mind, or to not forget it.",
           "example": "Remember to bring your lunch on the field trip."
+        }
+      }
+    ]
+  },
+  {
+    "word": "reptile",
+    "say": "REP-tyl",
+    "emoji": "🐍",
+    "forms": [
+      "reptiles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal with dry skin and scales, like a snake.",
+          "example": "A turtle is a reptile."
+        },
+        "more": {
+          "def": "A cold-blooded animal with dry, scaly skin that usually lays eggs.",
+          "example": "Snakes, lizards, and crocodiles are all reptiles."
         }
       }
     ]
@@ -80,6 +209,86 @@
         "more": {
           "def": "A feeling that someone or something is important and should be treated well.",
           "example": "We show respect for our classmates by listening when they speak."
+        }
+      }
+    ]
+  },
+  {
+    "word": "responsible",
+    "say": "rih-SPON-suh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Doing the things you are supposed to do.",
+          "example": "I am responsible for feeding my cat."
+        },
+        "more": {
+          "def": "Able to be trusted to do what is right or what you are supposed to do.",
+          "example": "A responsible pet owner makes sure the dog gets a walk every day."
+        }
+      }
+    ]
+  },
+  {
+    "word": "reward",
+    "say": "rih-WORD",
+    "emoji": "🏅",
+    "forms": [
+      "rewards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A nice thing you get for doing something good.",
+          "example": "I got a sticker as a reward."
+        },
+        "more": {
+          "def": "Something given to you for doing something good or helpful.",
+          "example": "The family offered a reward for finding their lost cat."
+        }
+      }
+    ]
+  },
+  {
+    "word": "rough",
+    "say": "ruf",
+    "forms": [
+      "rougher",
+      "roughest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Bumpy, not smooth.",
+          "example": "The rock feels rough."
+        },
+        "more": {
+          "def": "Having an uneven or bumpy surface; not smooth or gentle.",
+          "example": "The rough bark of the tree scratched my hand."
+        }
+      }
+    ]
+  },
+  {
+    "word": "rumor",
+    "say": "ROO-mer",
+    "forms": [
+      "rumors",
+      "rumour"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A story people tell that may not be true.",
+          "example": "I heard a rumor that we will get a new slide."
+        },
+        "more": {
+          "def": "A story that is passed from person to person and may or may not be true.",
+          "example": "There was a rumor that school would close early."
         }
       }
     ]
