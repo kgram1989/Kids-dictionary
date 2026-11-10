@@ -35,37 +35,64 @@ export const SUFFIXES = {
 function stems(word, suffix) {
   if (!word.endsWith(suffix) || word.length - suffix.length < 3) return [];
   const base = word.slice(0, -suffix.length);
-  const out = [base, base + 'e'];
+  const out = [base];
   if (base.endsWith('i')) out.push(base.slice(0, -1) + 'y');
-  if (/([^aeiou])\1$/.test(base)) out.push(base.slice(0, -1));
+  // A dropped "e" or a doubled letter only happens before endings that start with a vowel.
+  if (/^[aeiouy]/.test(suffix) && suffix !== 'es') {
+    out.push(base + 'e');
+    if (/([^aeiou])\1$/.test(base)) out.push(base.slice(0, -1));
+  }
   return out;
 }
 
-function stripSuffixes(word, has, depth) {
+// `isBlocked` is checked at every step, so a blocked word cannot slip through with an
+// extra ending ("smokers" is refused because "smoker" is blocked).
+function stripSuffixes(word, has, isBlocked, depth) {
+  if (isBlocked(word)) return null;
   if (has(word)) return { root: word, suffixes: [] };
   if (depth === 0) return null;
   for (const suffix of Object.keys(SUFFIXES)) {
     for (const stem of stems(word, suffix)) {
-      const found = stripSuffixes(stem, has, depth - 1);
+      const found = stripSuffixes(stem, has, isBlocked, depth - 1);
       if (found) return { root: found.root, suffixes: [...found.suffixes, suffix] };
     }
   }
   return null;
 }
 
+// Every shorter word that could be reached by taking endings and prefixes off `q`.
+function reachable(q) {
+  const seen = new Set([q]);
+  let frontier = [q, ...Object.keys(PREFIXES).filter((p) => q.startsWith(p)).map((p) => q.slice(p.length))];
+  for (let depth = 0; depth < 2; depth++) {
+    const next = [];
+    for (const word of frontier) {
+      seen.add(word);
+      for (const suffix of Object.keys(SUFFIXES)) for (const stem of stems(word, suffix)) next.push(stem);
+      // also the plain spellings the strict rules skip, so "wines" still reaches "wine"
+      for (const suffix of Object.keys(SUFFIXES)) if (word.endsWith(suffix)) next.push(word.slice(0, -suffix.length), word.slice(0, -suffix.length) + 'e');
+    }
+    frontier = next;
+  }
+  for (const word of frontier) seen.add(word);
+  return seen;
+}
+
 // Returns { prefix, root, suffixes } or null. `has(word)` says whether a
 // lower-case word has an entry. Simpler explanations are tried first.
-export function wordParts(query, has) {
+export function wordParts(query, has, isBlocked = () => false) {
   const q = query.trim().toLowerCase();
   if (!/^[a-z]{4,}$/.test(q) || has(q)) return null;
+  // Give no hint at all if the word could be a form of a blocked word.
+  for (const word of reachable(q)) if (isBlocked(word)) return null;
   const prefixes = Object.keys(PREFIXES).filter((p) => q.startsWith(p) && q.length - p.length >= 3);
   for (const depth of [0, 1, 2]) {
     if (depth > 0) {
-      const found = stripSuffixes(q, has, depth);
+      const found = stripSuffixes(q, has, isBlocked, depth);
       if (found) return { prefix: '', ...found };
     }
     for (const prefix of prefixes) {
-      const found = stripSuffixes(q.slice(prefix.length), has, depth);
+      const found = stripSuffixes(q.slice(prefix.length), has, isBlocked, depth);
       if (found) return { prefix, ...found };
     }
   }

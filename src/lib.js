@@ -56,7 +56,7 @@ const known = new Set(searchNames.flatMap((s) => s.names));
 export function madeFrom(query) {
   const q = query.trim().toLowerCase();
   if (blockedWords.has(q) || known.has(q)) return null;
-  const parts = wordParts(q, (w) => headwords.has(w) && !blockedWords.has(w));
+  const parts = wordParts(q, (w) => headwords.has(w), (w) => blockedWords.has(w));
   return parts ? { ...parts, item: headwords.get(parts.root) } : null;
 }
 
