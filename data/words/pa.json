@@ -182,6 +182,55 @@
     ]
   },
   {
+    "word": "paddle",
+    "say": "PAD-ul",
+    "forms": [
+      "paddles",
+      "paddled",
+      "paddling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short pole with a flat end for a boat.",
+          "examples": [
+            "I hold the paddle.",
+            "The paddle is wood.",
+            "We lost a paddle."
+          ]
+        },
+        "more": {
+          "def": "A short pole with a flat end that is used to move a small boat through water.",
+          "examples": [
+            "I dipped the paddle into the water.",
+            "The canoe has two paddles.",
+            "She lost her paddle in the river."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To push a small boat along with a short pole.",
+          "examples": [
+            "We paddle the canoe.",
+            "He paddled across the lake.",
+            "They paddled down the stream."
+          ]
+        },
+        "more": {
+          "def": "To move a canoe or kayak through water by pushing on a pole with a flat end.",
+          "examples": [
+            "We paddled the canoe across the lake.",
+            "They paddled slowly down the stream.",
+            "I paddled to the shore."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "page",
     "say": "payj",
     "emoji": "📄",
@@ -336,6 +385,54 @@
     ]
   },
   {
+    "word": "painter",
+    "say": "PAYN-ter",
+    "emoji": "🎨",
+    "forms": [
+      "painters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who paints pictures.",
+          "examples": [
+            "The painter has a brush.",
+            "A painter painted the sea.",
+            "She is a painter."
+          ]
+        },
+        "more": {
+          "def": "A person who paints pictures as art.",
+          "examples": [
+            "The painter used bright colors.",
+            "A famous painter made this picture.",
+            "The painter set up her easel by the sea."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who paints walls.",
+          "examples": [
+            "The painter painted the room.",
+            "A painter came to the house.",
+            "The painter used a roller."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to paint walls and buildings.",
+          "examples": [
+            "The painter painted the kitchen yellow.",
+            "A house painter climbed the ladder.",
+            "The painters covered the floor with sheets."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "painting",
     "say": "PAYN-ting",
     "forms": [
@@ -449,6 +546,35 @@
     ]
   },
   {
+    "word": "pale",
+    "say": "payl",
+    "forms": [
+      "paler",
+      "palest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Light in color.",
+          "examples": [
+            "Her face was pale.",
+            "The pale blue sky.",
+            "I like pale yellow."
+          ]
+        },
+        "more": {
+          "def": "Light in color, or not bright.",
+          "examples": [
+            "She looked pale after being sick.",
+            "The walls were painted a pale blue.",
+            "A pale moon rose over the lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "palm",
     "say": "pahm",
     "emoji": "🌴",
@@ -549,6 +675,53 @@
             "We had pancakes and syrup for breakfast.",
             "Dad flipped the pancake in the air.",
             "She stacked three pancakes on her plate."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "panel",
+    "say": "PAN-ul",
+    "forms": [
+      "panels"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat piece that is part of a wall, door or machine.",
+          "examples": [
+            "The door has a panel.",
+            "The panel is glass.",
+            "A panel opened."
+          ]
+        },
+        "more": {
+          "def": "A flat, square piece that forms part of a wall, door or control board.",
+          "examples": [
+            "The door has a glass panel.",
+            "Dad opened the panel on the wall.",
+            "The control panel had many buttons."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of people who talk or judge.",
+          "examples": [
+            "The panel chose the winner.",
+            "A panel of judges sat at the table.",
+            "The panel talked about the books."
+          ]
+        },
+        "more": {
+          "def": "A small group of people chosen to talk about something or make a decision.",
+          "examples": [
+            "A panel of judges chose the winner.",
+            "The panel talked about the importance of reading.",
+            "The students sat on a panel to answer questions."
           ]
         }
       }
@@ -700,6 +873,31 @@
             "Grandpa reads the paper while he drinks his tea.",
             "The local paper wrote about our school fair.",
             "Our neighbor delivers the paper every morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "paperwork",
+    "say": "PAY-per-werk",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Forms and papers that must be filled in.",
+          "examples": [
+            "Dad has paperwork to do.",
+            "The paperwork is on the desk.",
+            "There is a lot of paperwork."
+          ]
+        },
+        "more": {
+          "def": "Written forms and records that have to be filled in or kept.",
+          "examples": [
+            "Dad has a lot of paperwork to do.",
+            "The nurse filled in the paperwork.",
+            "The office needed some paperwork before I could join."
           ]
         }
       }
@@ -917,6 +1115,34 @@
     ]
   },
   {
+    "word": "parlor",
+    "say": "PAR-ler",
+    "forms": [
+      "parlors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shop or room for a certain kind of service.",
+          "examples": [
+            "We went to the ice cream parlor.",
+            "The parlor is cozy.",
+            "The pizza parlor is open."
+          ]
+        },
+        "more": {
+          "def": "A small shop where you buy a certain kind of food or service, or a sitting room in an old house.",
+          "examples": [
+            "The ice cream parlor offers thirty flavors.",
+            "The old house had a parlor with a piano.",
+            "The pizza parlor was full of families."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "part",
     "say": "part",
     "forms": [
@@ -939,6 +1165,36 @@
             "The wheel is one part of the bicycle.",
             "Which part of the story did you like best?",
             "He ate a small part of the cake and saved the rest."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "participate",
+    "say": "par-TIS-ih-payt",
+    "forms": [
+      "participates",
+      "participated",
+      "participating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take part.",
+          "examples": [
+            "I participate in the play.",
+            "She participated in the race.",
+            "All the kids participate."
+          ]
+        },
+        "more": {
+          "def": "To take part in something with others.",
+          "examples": [
+            "I participate in the school play.",
+            "She participated in the spelling bee.",
+            "Everyone is invited to participate."
           ]
         }
       }
@@ -1103,6 +1359,53 @@
     ]
   },
   {
+    "word": "passage",
+    "say": "PAS-ij",
+    "forms": [
+      "passages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A narrow way between places.",
+          "examples": [
+            "The passage led to a room.",
+            "The passage is dark.",
+            "We crept through the passage."
+          ]
+        },
+        "more": {
+          "def": "A narrow way such as a hall or tunnel that leads from one place to another.",
+          "examples": [
+            "A secret passage led to the hidden room.",
+            "We walked through the narrow passage.",
+            "The passage ran under the castle."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short part of a book or speech.",
+          "examples": [
+            "I read a passage.",
+            "The passage is funny.",
+            "The teacher read a passage aloud."
+          ]
+        },
+        "more": {
+          "def": "A short piece taken from a book, poem or speech.",
+          "examples": [
+            "The teacher read a passage from the novel.",
+            "I memorized a passage from the poem.",
+            "The passage described a stormy night."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "passenger",
     "say": "PASS-in-jer",
     "emoji": "🚌",
@@ -1183,6 +1486,34 @@
             "I showed my passport at the airport.",
             "The passport has my photo and name.",
             "We got stamps in our passports."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "password",
+    "say": "PASS-werd",
+    "forms": [
+      "passwords"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A secret word that lets you in.",
+          "examples": [
+            "I need a password.",
+            "The password is secret.",
+            "I forgot my password."
+          ]
+        },
+        "more": {
+          "def": "A secret word or set of letters that you must give to get into a place or a computer.",
+          "examples": [
+            "You need a password to log in.",
+            "Keep your password a secret.",
+            "I forgot my password and had to ask Dad."
           ]
         }
       }
@@ -1471,6 +1802,84 @@
             "Can you find the pattern in these numbers: 2, 4, 6, 8?",
             "The tiles made a pattern of blue and white squares.",
             "Scientists look for patterns in the weather."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pause",
+    "say": "pawz",
+    "forms": [
+      "pauses",
+      "paused",
+      "pausing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop for a short time.",
+          "examples": [
+            "Pause the video.",
+            "She paused at the door.",
+            "The band paused."
+          ]
+        },
+        "more": {
+          "def": "To stop for a short time before going on.",
+          "examples": [
+            "Pause the video while I get a snack.",
+            "She paused at the door and listened.",
+            "The speaker paused to take a sip of water."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short stop.",
+          "examples": [
+            "There was a pause.",
+            "The pause was long.",
+            "He took a pause."
+          ]
+        },
+        "more": {
+          "def": "A short break in speaking or doing something.",
+          "examples": [
+            "There was a long pause after her question.",
+            "The pause gave us time to think.",
+            "The band took a short pause between songs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "paw",
+    "say": "paw",
+    "emoji": "🐾",
+    "forms": [
+      "paws"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal's foot.",
+          "examples": [
+            "The dog has a muddy paw.",
+            "The cat's paw is soft.",
+            "The bear's paw is big."
+          ]
+        },
+        "more": {
+          "def": "The foot of an animal such as a cat, dog or bear, with claws or pads.",
+          "examples": [
+            "The dog left muddy paw prints on the floor.",
+            "The cat licked its paw.",
+            "The bear's huge paw swiped at the log."
           ]
         }
       }

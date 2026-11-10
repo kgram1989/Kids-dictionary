@@ -1,5 +1,33 @@
 [
   {
+    "word": "oven",
+    "say": "UV-en",
+    "forms": [
+      "ovens"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A box in a kitchen where food is baked.",
+          "examples": [
+            "The cake is in the oven.",
+            "The oven is hot.",
+            "Mom opened the oven."
+          ]
+        },
+        "more": {
+          "def": "A closed space in a kitchen that is heated to bake or roast food.",
+          "examples": [
+            "The bread baked in the oven for an hour.",
+            "Be careful, the oven is very hot.",
+            "Mom took the cookies out of the oven."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "over",
     "say": "OH-ver",
     "senses": [
@@ -38,6 +66,152 @@
             "The rain is over, so we can play outside.",
             "Our vacation was over too soon.",
             "When the movie was over, everyone clapped."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overcome",
+    "say": "oh-ver-KUM",
+    "forms": [
+      "overcomes",
+      "overcame",
+      "overcoming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To beat a problem.",
+          "examples": [
+            "I overcome my fear.",
+            "She overcame her shyness.",
+            "He overcame the hard test."
+          ]
+        },
+        "more": {
+          "def": "To succeed in dealing with something that is hard.",
+          "examples": [
+            "I overcame my fear of the dark.",
+            "She overcame her shyness and sang on stage.",
+            "The team overcame many problems."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overlook",
+    "say": "oh-ver-LUK",
+    "forms": [
+      "overlooks",
+      "overlooked",
+      "overlooking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To miss or not see.",
+          "examples": [
+            "I overlooked a mistake.",
+            "She overlooked the sign.",
+            "He overlooked the answer."
+          ]
+        },
+        "more": {
+          "def": "To fail to notice something, or to look down on a view from above.",
+          "examples": [
+            "I overlooked a mistake in my story.",
+            "The house overlooks the lake.",
+            "She overlooked the small print."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overnight",
+    "say": "oh-ver-NYT",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "During the night.",
+          "examples": [
+            "It snowed overnight.",
+            "We stayed overnight.",
+            "The paint dried overnight."
+          ]
+        },
+        "more": {
+          "def": "For the whole night, or during the night.",
+          "examples": [
+            "It snowed overnight and covered the street.",
+            "We stayed overnight at Grandma's.",
+            "The bread rose overnight."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overreact",
+    "say": "oh-ver-ree-AKT",
+    "forms": [
+      "overreacts",
+      "overreacted",
+      "overreacting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To show too much feeling.",
+          "examples": [
+            "Do not overreact.",
+            "He overreacted to the little bug.",
+            "She overreacts."
+          ]
+        },
+        "more": {
+          "def": "To react in a way that is stronger than the situation needs.",
+          "examples": [
+            "Do not overreact to a small spill.",
+            "He overreacted when he saw the tiny bug.",
+            "She overreacted to the small scratch."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "overreaction",
+        "def": "Reacting too strongly."
+      }
+    ]
+  },
+  {
+    "word": "overtime",
+    "say": "OH-ver-tym",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Extra time.",
+          "examples": [
+            "The game went into overtime.",
+            "Dad works overtime.",
+            "The overtime ended."
+          ]
+        },
+        "more": {
+          "def": "Extra time that is added to a game, or extra hours at a job.",
+          "examples": [
+            "Both teams played hard in overtime.",
+            "Dad worked overtime this week.",
+            "The team won in overtime."
           ]
         }
       }

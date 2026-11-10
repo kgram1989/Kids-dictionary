@@ -200,6 +200,34 @@
     ]
   },
   {
+    "word": "exception",
+    "say": "ik-SEP-shun",
+    "forms": [
+      "exceptions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that is not the same as the others.",
+          "examples": [
+            "Every cat likes milk, with one exception.",
+            "There is an exception to the rule.",
+            "She is the exception."
+          ]
+        },
+        "more": {
+          "def": "A person or thing that does not follow the rule.",
+          "examples": [
+            "Everyone came on time, with one exception.",
+            "There is an exception to every rule.",
+            "My cat is the exception, since she loves water."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "exchange",
     "say": "iks-CHAYNJ",
     "forms": [
@@ -319,6 +347,34 @@
             "The last minute of the game was exciting.",
             "We went on an exciting trip.",
             "She read an exciting story about a pirate."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "exclusive",
+    "say": "ik-SKLOO-siv",
+    "forms": [
+      "exclusively"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Only for a few people.",
+          "examples": [
+            "The club is exclusive.",
+            "It is an exclusive party.",
+            "An exclusive pool."
+          ]
+        },
+        "more": {
+          "def": "Not shared with others, or open only to a few people.",
+          "examples": [
+            "The club is exclusive and only lets in a few members.",
+            "It was an exclusive party for her close friends.",
+            "The pool is exclusive to hotel guests."
           ]
         }
       }
@@ -500,6 +556,61 @@
     ]
   },
   {
+    "word": "exhibit",
+    "say": "ig-ZIB-it",
+    "forms": [
+      "exhibits",
+      "exhibited",
+      "exhibiting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A show of things in a museum.",
+          "examples": [
+            "We saw a dinosaur exhibit.",
+            "The exhibit is new.",
+            "The exhibit has old coins."
+          ]
+        },
+        "more": {
+          "def": "A group of objects shown to the public, as in a museum.",
+          "examples": [
+            "We saw a dinosaur exhibit at the museum.",
+            "The art exhibit has paintings by children.",
+            "The exhibit about space was my favorite."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To show something to the public.",
+          "examples": [
+            "The museum exhibits old coins.",
+            "She exhibited her paintings.",
+            "The class exhibited their art."
+          ]
+        },
+        "more": {
+          "def": "To put something on display for people to see.",
+          "examples": [
+            "The museum exhibits ancient pots.",
+            "She exhibited her paintings at the fair.",
+            "The class exhibited its science projects."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "exhibition",
+        "def": "A public show of things."
+      }
+    ]
+  },
+  {
     "word": "exist",
     "say": "ig-ZIST",
     "forms": [
@@ -580,6 +691,36 @@
     ]
   },
   {
+    "word": "expand",
+    "say": "ik-SPAND",
+    "forms": [
+      "expands",
+      "expanded",
+      "expanding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get bigger.",
+          "examples": [
+            "The balloon expands.",
+            "The town expanded.",
+            "Metal expands in heat."
+          ]
+        },
+        "more": {
+          "def": "To grow bigger in size or amount, or to make something bigger.",
+          "examples": [
+            "The balloon expanded as I blew into it.",
+            "The town expanded when new houses were built.",
+            "Metal expands when it is heated."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "expect",
     "say": "ik-SPEKT",
     "forms": [
@@ -604,6 +745,92 @@
             "We expect the first snow to fall sometime next week.",
             "The teacher expects everyone to bring a pencil.",
             "I was expecting a letter, but nothing came today."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "expectation",
+    "say": "ek-spek-TAY-shun",
+    "forms": [
+      "expectations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What you think will happen.",
+          "examples": [
+            "I have high expectations.",
+            "His expectation was to win.",
+            "The result met her expectations."
+          ]
+        },
+        "more": {
+          "def": "A belief that something will happen or that someone will do something.",
+          "examples": [
+            "I have high expectations for the show.",
+            "Her expectation was that the bus would be on time.",
+            "The trip did not meet our expectations."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "expedition",
+    "say": "ek-spuh-DISH-un",
+    "forms": [
+      "expeditions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long trip for a special reason.",
+          "examples": [
+            "The explorers went on an expedition.",
+            "The expedition was long.",
+            "They planned an expedition."
+          ]
+        },
+        "more": {
+          "def": "A long, organized trip to explore or study a place.",
+          "examples": [
+            "The explorers went on an expedition to the Arctic.",
+            "The scientists planned an expedition to the jungle.",
+            "The expedition took three months."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "expel",
+    "say": "ik-SPEL",
+    "forms": [
+      "expels",
+      "expelled",
+      "expelling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To force out.",
+          "examples": [
+            "The student was expelled.",
+            "The fan expels air.",
+            "The volcano expels ash."
+          ]
+        },
+        "more": {
+          "def": "To force something out, or to make someone leave a school.",
+          "examples": [
+            "The fan expels the hot air from the room.",
+            "The volcano expelled ash into the sky.",
+            "The club expelled the member for breaking the rules."
           ]
         }
       }
@@ -1054,6 +1281,36 @@
             "\"Piece of cake\" is an expression that means easy.",
             "She used a funny expression I had never heard.",
             "\"It's raining cats and dogs\" is a well-known expression."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "extend",
+    "say": "ik-STEND",
+    "forms": [
+      "extends",
+      "extended",
+      "extending"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make longer or reach out.",
+          "examples": [
+            "I extend my hand.",
+            "The road extends to the sea.",
+            "We extended the visit."
+          ]
+        },
+        "more": {
+          "def": "To stretch out, make longer, or go farther.",
+          "examples": [
+            "The road extends all the way to the sea.",
+            "She extended her hand to say hello.",
+            "We extended our vacation by two days."
           ]
         }
       }

@@ -186,6 +186,34 @@
     ]
   },
   {
+    "word": "preacher",
+    "say": "PREE-cher",
+    "forms": [
+      "preachers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who speaks at a church.",
+          "examples": [
+            "The preacher gave a talk.",
+            "The preacher spoke.",
+            "The preacher is kind."
+          ]
+        },
+        "more": {
+          "def": "A person who gives talks about religion in a church.",
+          "examples": [
+            "The preacher gave a talk on Sunday.",
+            "The preacher greeted everyone at the door.",
+            "The old preacher had a warm voice."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "precious",
     "say": "PRESH-us",
     "emoji": "💎",
@@ -302,6 +330,34 @@
     ]
   },
   {
+    "word": "pregnancy",
+    "say": "PREG-nun-see",
+    "forms": [
+      "pregnancies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The time when a baby grows inside its mother.",
+          "examples": [
+            "Her pregnancy lasted nine months.",
+            "The pregnancy is long.",
+            "The doctor checked her during her pregnancy."
+          ]
+        },
+        "more": {
+          "def": "The time before a baby is born, when it grows inside its mother's body.",
+          "examples": [
+            "Her pregnancy lasted about nine months.",
+            "The doctor checked on her during the pregnancy.",
+            "The cat's pregnancy lasted two months."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pregnant",
     "say": "PREG-nunt",
     "senses": [
@@ -321,6 +377,34 @@
             "My aunt is pregnant and will have a baby in May.",
             "The pregnant cat found a quiet place to rest.",
             "A pregnant whale swims slowly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "preparation",
+    "say": "prep-uh-RAY-shun",
+    "forms": [
+      "preparations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Getting ready.",
+          "examples": [
+            "The preparation took an hour.",
+            "Preparation helps you win.",
+            "The preparations are done."
+          ]
+        },
+        "more": {
+          "def": "The act of getting ready for something.",
+          "examples": [
+            "The preparation for the party took all day.",
+            "Good preparation helps you do well on tests.",
+            "We made preparations for the trip."
           ]
         }
       }
@@ -351,6 +435,34 @@
             "The class prepared for the play by practicing every day.",
             "The chef prepared a special meal.",
             "The town prepared for the storm by stacking sandbags."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prescription",
+    "say": "prih-SKRIP-shun",
+    "forms": [
+      "prescriptions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A paper from a doctor for medicine.",
+          "examples": [
+            "The doctor wrote a prescription.",
+            "I picked up the prescription.",
+            "The prescription is for a cough."
+          ]
+        },
+        "more": {
+          "def": "A note from a doctor that says what medicine a patient should take.",
+          "examples": [
+            "The doctor wrote a prescription for my cough.",
+            "Mom picked up the prescription at the pharmacy.",
+            "The prescription told me to take one pill a day."
           ]
         }
       }
@@ -465,6 +577,64 @@
             "The mayor will present the award to the winner.",
             "Our class will present a play for the school.",
             "She presented her science project to the judges."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "presentation",
+    "say": "prez-un-TAY-shun",
+    "forms": [
+      "presentations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A talk that shows something to a group.",
+          "examples": [
+            "I gave a presentation.",
+            "The presentation was short.",
+            "She made a presentation on frogs."
+          ]
+        },
+        "more": {
+          "def": "A talk or show in which you present information to an audience.",
+          "examples": [
+            "I gave a presentation on frogs.",
+            "Her presentation had many pictures.",
+            "The presentation lasted ten minutes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "preserve",
+    "say": "prih-ZERV",
+    "forms": [
+      "preserves",
+      "preserved",
+      "preserving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To keep something safe.",
+          "examples": [
+            "We preserve the old house.",
+            "Salt preserves fish.",
+            "The museum preserved the painting."
+          ]
+        },
+        "more": {
+          "def": "To keep something safe from harm or decay.",
+          "examples": [
+            "The town preserved the old church.",
+            "Salt can preserve fish.",
+            "The museum works to preserve old paintings."
           ]
         }
       }
@@ -715,6 +885,59 @@
     ]
   },
   {
+    "word": "previous",
+    "say": "PREE-vee-us",
+    "forms": [
+      "previously"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Coming before.",
+          "examples": [
+            "The previous day was sunny.",
+            "Read the previous page.",
+            "My previous school was small."
+          ]
+        },
+        "more": {
+          "def": "Happening or existing before the present one.",
+          "examples": [
+            "The previous day was sunny and warm.",
+            "Please read the previous chapter first.",
+            "My previous school had a smaller playground."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prey",
+    "say": "pray",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal that is hunted by another animal.",
+          "examples": [
+            "The mouse is prey for the owl.",
+            "The hawk watched its prey.",
+            "The prey ran."
+          ]
+        },
+        "more": {
+          "def": "An animal that is hunted and eaten by another animal.",
+          "examples": [
+            "Rabbits are prey for foxes and hawks.",
+            "The hawk circled over its prey.",
+            "The lion crept toward its prey."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "price",
     "say": "pryss",
     "forms": [
@@ -812,6 +1035,31 @@
             "The priest led the service at the church.",
             "The priest blessed the new building.",
             "The priest visited the sick."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "primary",
+    "say": "PRY-mair-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "First or most important.",
+          "examples": [
+            "The primary color is red.",
+            "The primary reason is safety.",
+            "Her primary job is teaching."
+          ]
+        },
+        "more": {
+          "def": "Coming first, or most important.",
+          "examples": [
+            "Red, blue and yellow are primary colors.",
+            "The primary reason for the rule is safety.",
+            "The primary school is near our house."
           ]
         }
       }
@@ -968,6 +1216,34 @@
     ]
   },
   {
+    "word": "principle",
+    "say": "PRIN-suh-pul",
+    "forms": [
+      "principles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A basic rule or belief.",
+          "examples": [
+            "Honesty is a principle.",
+            "The principle is simple.",
+            "Fairness is a good principle."
+          ]
+        },
+        "more": {
+          "def": "A basic rule or belief that guides how you act.",
+          "examples": [
+            "Honesty is a good principle to live by.",
+            "The scientist explained the principle of gravity.",
+            "She follows the principle of fairness."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "print",
     "say": "print",
     "forms": [
@@ -1023,6 +1299,31 @@
       {
         "word": "reprint",
         "def": "To print again."
+      }
+    ]
+  },
+  {
+    "word": "prior",
+    "say": "PRY-er",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Before.",
+          "examples": [
+            "I have a prior plan.",
+            "We had a prior meeting.",
+            "She has prior experience."
+          ]
+        },
+        "more": {
+          "def": "Coming earlier in time or order.",
+          "examples": [
+            "I have a prior plan for Saturday, so I can't come.",
+            "The team had a prior meeting.",
+            "She has prior experience with horses."
+          ]
+        }
       }
     ]
   },
@@ -1544,6 +1845,34 @@
     ]
   },
   {
+    "word": "profession",
+    "say": "pruh-FESH-un",
+    "forms": [
+      "professions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A job that needs special training.",
+          "examples": [
+            "Teaching is a profession.",
+            "A doctor has a profession.",
+            "She chose a profession."
+          ]
+        },
+        "more": {
+          "def": "A job that needs special study or training, such as teaching or medicine.",
+          "examples": [
+            "Teaching is a profession I admire.",
+            "My aunt chose nursing as her profession.",
+            "Law is a profession that needs years of study."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "professional",
     "say": "pruh-FESH-uh-nul",
     "forms": [
@@ -1871,6 +2200,31 @@
     ]
   },
   {
+    "word": "promising",
+    "say": "PROM-ih-sing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Likely to turn out well.",
+          "examples": [
+            "The weather looks promising.",
+            "She is a promising player.",
+            "The promising young artist won."
+          ]
+        },
+        "more": {
+          "def": "Showing signs that something will do well.",
+          "examples": [
+            "The weather looks promising for a picnic.",
+            "She is a promising young player.",
+            "The test results were promising."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "promote",
     "say": "pruh-MOHT",
     "forms": [
@@ -1907,6 +2261,42 @@
     ]
   },
   {
+    "word": "pronounce",
+    "say": "pruh-NOWNSS",
+    "forms": [
+      "pronounces",
+      "pronounced",
+      "pronouncing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say a word.",
+          "examples": [
+            "I pronounce the word.",
+            "How do you pronounce this?",
+            "She pronounced it right."
+          ]
+        },
+        "more": {
+          "def": "To say a word aloud in the right way.",
+          "examples": [
+            "I can pronounce all my spelling words.",
+            "How do you pronounce this name?",
+            "The teacher pronounced the word slowly."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "mispronounce",
+        "def": "To say a word wrong."
+      }
+    ]
+  },
+  {
     "word": "proof",
     "say": "proof",
     "senses": [
@@ -1926,6 +2316,34 @@
             "The photo is proof that I was there.",
             "Scientists need proof before they decide.",
             "Muddy footprints were proof that the dog came in."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prop",
+    "say": "prop",
+    "forms": [
+      "props"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An object used in a play or movie.",
+          "examples": [
+            "The actor held a prop.",
+            "The prop is a sword.",
+            "The props are on the shelf."
+          ]
+        },
+        "more": {
+          "def": "An object that actors use on a stage or in a movie.",
+          "examples": [
+            "The actor held a prop cup.",
+            "The stage crew moved the props.",
+            "The props for the play were kept in a box."
           ]
         }
       }
@@ -2007,6 +2425,34 @@
     ]
   },
   {
+    "word": "prophet",
+    "say": "PROF-it",
+    "forms": [
+      "prophets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who speaks for God.",
+          "examples": [
+            "The prophet gave a message.",
+            "A prophet speaks for God.",
+            "The prophet was wise."
+          ]
+        },
+        "more": {
+          "def": "A person who is believed to speak words that come from God.",
+          "examples": [
+            "The prophet shared a message of peace.",
+            "In the story, a prophet spoke to the people.",
+            "The prophet was wise and kind."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "propose",
     "say": "pruh-POHZ",
     "forms": [
@@ -2031,6 +2477,34 @@
             "The class proposed a trip to the zoo.",
             "I propose that we take a vote.",
             "She proposed a new rule for the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prospect",
+    "say": "PROS-pekt",
+    "forms": [
+      "prospects"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A chance that something will happen.",
+          "examples": [
+            "The prospect of rain is high.",
+            "She has good prospects.",
+            "The prospect is bright."
+          ]
+        },
+        "more": {
+          "def": "The chance that something will happen in the future.",
+          "examples": [
+            "The prospect of rain worried us.",
+            "She has good prospects of winning.",
+            "The prospect of a trip made us happy."
           ]
         }
       }

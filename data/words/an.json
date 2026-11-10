@@ -1,5 +1,36 @@
 [
   {
+    "word": "anchor",
+    "say": "ANG-ker",
+    "emoji": "⚓",
+    "forms": [
+      "anchors",
+      "anchored",
+      "anchoring"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A heavy metal hook that keeps a boat in one place.",
+          "examples": [
+            "The ship dropped anchor.",
+            "The anchor is heavy.",
+            "The anchor sank."
+          ]
+        },
+        "more": {
+          "def": "A heavy metal tool on a rope or chain that holds a ship in place on the bottom of the water.",
+          "examples": [
+            "The sailors dropped the anchor into the bay.",
+            "The anchor kept the boat from drifting.",
+            "The ship pulled up its anchor and sailed away."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ancient",
     "say": "AYN-shunt",
     "emoji": "🏛️",
@@ -381,6 +412,59 @@
     ]
   },
   {
+    "word": "annual",
+    "say": "AN-yoo-ul",
+    "forms": [
+      "annually"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happening once a year.",
+          "examples": [
+            "We have an annual picnic.",
+            "The fair is annual.",
+            "It is an annual event."
+          ]
+        },
+        "more": {
+          "def": "Happening once every year.",
+          "examples": [
+            "We go to the annual fair every fall.",
+            "The school holds an annual picnic.",
+            "The annual flood waters the fields."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "anonymous",
+    "say": "uh-NON-ih-mus",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "With no name given.",
+          "examples": [
+            "The letter was anonymous.",
+            "An anonymous gift came.",
+            "The donor stayed anonymous."
+          ]
+        },
+        "more": {
+          "def": "Without the name of the person being known.",
+          "examples": [
+            "An anonymous gift was left at the door.",
+            "The letter was anonymous, so we did not know who wrote it.",
+            "The donor wanted to stay anonymous."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "another",
     "say": "uh-NUTH-er",
     "senses": [
@@ -478,6 +562,64 @@
             "An ant carried a crumb back to the nest.",
             "Ants build tunnels under the ground.",
             "A long line of ants marched across the sidewalk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "anticipate",
+    "say": "an-TIS-uh-payt",
+    "forms": [
+      "anticipates",
+      "anticipated",
+      "anticipating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To expect something.",
+          "examples": [
+            "I anticipate a surprise.",
+            "We anticipated rain.",
+            "She anticipated the question."
+          ]
+        },
+        "more": {
+          "def": "To expect something and be ready for it.",
+          "examples": [
+            "We anticipated rain, so we packed umbrellas.",
+            "She anticipated my question and had an answer ready.",
+            "The coach anticipated the play."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "anxiety",
+    "say": "ang-ZY-ih-tee",
+    "forms": [
+      "anxieties"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A feeling of worry.",
+          "examples": [
+            "She felt anxiety before the test.",
+            "The anxiety grew.",
+            "His anxiety was high."
+          ]
+        },
+        "more": {
+          "def": "A nervous feeling about what might happen.",
+          "examples": [
+            "She felt anxiety before the big test.",
+            "His anxiety eased when he saw his mom.",
+            "Deep breaths can help calm anxiety."
           ]
         }
       }

@@ -248,6 +248,31 @@
     ]
   },
   {
+    "word": "allergic",
+    "say": "uh-LER-jik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Getting a rash or sneezing because of something like cats.",
+          "examples": [
+            "I am allergic to cats.",
+            "She is allergic to nuts.",
+            "He is allergic to dust."
+          ]
+        },
+        "more": {
+          "def": "Having a bad reaction, such as sneezing or a rash, to something that is harmless to most people.",
+          "examples": [
+            "I am allergic to cats and sneeze around them.",
+            "She is allergic to peanuts.",
+            "He is allergic to pollen in spring."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "alley",
     "say": "AL-ee",
     "forms": [
@@ -328,6 +353,31 @@
             "The two countries were allies in the war.",
             "My brother was my ally when I needed help.",
             "Bees are allies of the garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "almighty",
+    "say": "awl-MY-tee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having all power.",
+          "examples": [
+            "The almighty king ruled.",
+            "The Almighty is another name for God.",
+            "An almighty roar came."
+          ]
+        },
+        "more": {
+          "def": "Having complete power, or very great.",
+          "examples": [
+            "The king in the story seemed almighty.",
+            "The word almighty is sometimes used for God.",
+            "An almighty crash shook the room."
           ]
         }
       }
@@ -472,6 +522,64 @@
     ]
   },
   {
+    "word": "alter",
+    "say": "AWL-ter",
+    "forms": [
+      "alters",
+      "altered",
+      "altering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To change.",
+          "examples": [
+            "I alter my plan.",
+            "The tailor altered the dress.",
+            "Rain altered our plans."
+          ]
+        },
+        "more": {
+          "def": "To make something a little different.",
+          "examples": [
+            "The tailor altered the dress to fit me.",
+            "Rain altered our plans for the picnic.",
+            "He altered the recipe by adding more spice."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "alternative",
+    "say": "awl-TER-nuh-tiv",
+    "forms": [
+      "alternatives"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Another choice.",
+          "examples": [
+            "We need an alternative.",
+            "Walking is an alternative.",
+            "Pizza is an alternative to pasta."
+          ]
+        },
+        "more": {
+          "def": "A different choice that you can make instead of the first one.",
+          "examples": [
+            "Walking is an alternative if the bus is late.",
+            "We found an alternative to the broken swing.",
+            "Fruit is a healthy alternative to candy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "although",
     "say": "awl-THOH",
     "senses": [
@@ -491,6 +599,31 @@
             "Although it was cold, we went outside.",
             "She smiled, although she was nervous.",
             "We stayed, although the movie was long."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "altogether",
+    "say": "awl-tuh-GETH-er",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In total.",
+          "examples": [
+            "Altogether, we had ten.",
+            "There are five altogether.",
+            "The cost was ten dollars altogether."
+          ]
+        },
+        "more": {
+          "def": "All together, or in total.",
+          "examples": [
+            "Altogether, we had ten dollars.",
+            "There are five of us altogether.",
+            "The trip was altogether too long."
           ]
         }
       }

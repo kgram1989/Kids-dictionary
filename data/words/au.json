@@ -1,5 +1,33 @@
 [
   {
+    "word": "auction",
+    "say": "AWK-shun",
+    "forms": [
+      "auctions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sale where people bid to buy things.",
+          "examples": [
+            "We went to an auction.",
+            "The auction is on Saturday.",
+            "The auction sold old furniture."
+          ]
+        },
+        "more": {
+          "def": "A public sale in which people offer prices and the highest offer wins.",
+          "examples": [
+            "We went to an auction to buy an old clock.",
+            "The auction was held in the barn.",
+            "The painting sold at auction for a high price."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "audience",
     "say": "AW-dee-unss",
     "emoji": "👏",
@@ -114,6 +142,62 @@
     ]
   },
   {
+    "word": "auntie",
+    "say": "AN-tee",
+    "forms": [
+      "aunties"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A friendly word for aunt.",
+          "examples": [
+            "My auntie visited.",
+            "I love Auntie Rose.",
+            "Auntie made cookies."
+          ]
+        },
+        "more": {
+          "def": "A friendly word for aunt.",
+          "examples": [
+            "My auntie came to visit us.",
+            "Auntie Rose baked a cake.",
+            "I called my auntie on her birthday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "author",
+    "say": "AW-ther",
+    "forms": [
+      "authors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who writes books.",
+          "examples": [
+            "The author wrote a book.",
+            "I met an author.",
+            "She is an author."
+          ]
+        },
+        "more": {
+          "def": "A person who writes books, stories or articles.",
+          "examples": [
+            "The author signed copies of her book.",
+            "My favorite author writes about dragons.",
+            "The author visited our school."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "authority",
     "say": "uh-THOR-uh-tee",
     "forms": [
@@ -136,6 +220,148 @@
             "The captain has authority over the ship.",
             "The police have authority to stop cars.",
             "A parent has authority over the family."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "authorize",
+    "say": "AW-ther-yz",
+    "forms": [
+      "authorizes",
+      "authorized",
+      "authorizing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give permission.",
+          "examples": [
+            "The teacher authorized the trip.",
+            "Mom authorized it.",
+            "The mayor authorized the plan."
+          ]
+        },
+        "more": {
+          "def": "To give official permission for something.",
+          "examples": [
+            "The principal authorized the field trip.",
+            "The mayor authorized the building of the park.",
+            "Only the guard can authorize you to enter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "auto",
+    "say": "AW-toh",
+    "forms": [
+      "autos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word for car.",
+          "examples": [
+            "The auto is red.",
+            "We rode in an auto.",
+            "The auto is fast."
+          ]
+        },
+        "more": {
+          "def": "A short, old-fashioned word for a car.",
+          "examples": [
+            "We rode in an auto to the lake.",
+            "The auto sped down the road.",
+            "The auto shop fixes cars."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "autograph",
+    "say": "AW-tuh-graf",
+    "forms": [
+      "autographs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A famous person's name written by themselves.",
+          "examples": [
+            "I got an autograph.",
+            "The singer signed an autograph.",
+            "The autograph is on the poster."
+          ]
+        },
+        "more": {
+          "def": "A person's own signature, especially a famous person's, that they write for a fan.",
+          "examples": [
+            "I asked the player for his autograph.",
+            "The singer signed an autograph for a fan.",
+            "My brother has the autograph of a pilot."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "automatic",
+    "say": "aw-tuh-MAT-ik",
+    "forms": [
+      "automatically"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Working by itself.",
+          "examples": [
+            "The door is automatic.",
+            "The light is automatic.",
+            "The machine is automatic."
+          ]
+        },
+        "more": {
+          "def": "Working on its own without a person controlling it.",
+          "examples": [
+            "The automatic door opened as we walked up.",
+            "The light is automatic and turns on at night.",
+            "The machine has an automatic shut-off."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "automobile",
+    "say": "AW-tuh-moh-beel",
+    "forms": [
+      "automobiles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A car.",
+          "examples": [
+            "The automobile is fast.",
+            "He drove an automobile.",
+            "The automobile is new."
+          ]
+        },
+        "more": {
+          "def": "A road vehicle with an engine and four wheels that carries people.",
+          "examples": [
+            "The automobile sped down the road.",
+            "Henry Ford built many automobiles.",
+            "We rode in an old automobile."
           ]
         }
       }

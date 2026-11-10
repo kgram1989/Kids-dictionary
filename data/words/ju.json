@@ -393,5 +393,35 @@
         }
       }
     ]
+  },
+  {
+    "word": "justify",
+    "say": "JUS-tih-fy",
+    "forms": [
+      "justifies",
+      "justified",
+      "justifying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give a good reason for something.",
+          "examples": [
+            "I cannot justify what I did.",
+            "She justified her choice.",
+            "He justified his answer."
+          ]
+        },
+        "more": {
+          "def": "To show that something is right or fair by giving good reasons.",
+          "examples": [
+            "I cannot justify taking the last cookie without asking.",
+            "She justified her answer with facts.",
+            "The scientist justified the test with a clear reason."
+          ]
+        }
+      }
+    ]
   }
 ]

@@ -1,5 +1,33 @@
 [
   {
+    "word": "hobby",
+    "say": "HOB-ee",
+    "forms": [
+      "hobbies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you like to do in your free time.",
+          "examples": [
+            "My hobby is stamps.",
+            "Reading is a hobby.",
+            "He has a hobby."
+          ]
+        },
+        "more": {
+          "def": "An activity that you do for fun in your free time.",
+          "examples": [
+            "My hobby is collecting stamps.",
+            "Gardening is her favorite hobby.",
+            "Building models is a hobby he started at six."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hockey",
     "say": "HOK-ee",
     "emoji": "🏒",
@@ -20,6 +48,35 @@
             "I play ice hockey in winter.",
             "The hockey game ended three to two.",
             "He scored a goal in hockey."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hog",
+    "say": "hog",
+    "emoji": "🐖",
+    "forms": [
+      "hogs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pig.",
+          "examples": [
+            "The hog is in the mud.",
+            "The hog is big.",
+            "The farmer feeds the hogs."
+          ]
+        },
+        "more": {
+          "def": "A large pig that is raised on a farm.",
+          "examples": [
+            "The hog rolled in the mud.",
+            "The farmer fed the hogs in the pen.",
+            "A hog can weigh hundreds of pounds."
           ]
         }
       }
@@ -139,6 +196,36 @@
     ]
   },
   {
+    "word": "holler",
+    "say": "HOL-er",
+    "forms": [
+      "hollers",
+      "hollered",
+      "hollering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shout loudly.",
+          "examples": [
+            "I holler for Mom.",
+            "He hollered across the field.",
+            "She hollered, \"Dinner!\""
+          ]
+        },
+        "more": {
+          "def": "To shout in a loud voice, especially to call someone from far away.",
+          "examples": [
+            "I hollered across the field to my friend.",
+            "Mom hollered that dinner was ready.",
+            "He hollered when the ball landed."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hollow",
     "say": "HOL-oh",
     "forms": [
@@ -161,6 +248,32 @@
             "The old tree was hollow, and a squirrel lived in it.",
             "A drum is hollow, which makes it loud.",
             "He tapped the hollow log and heard an echo."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "holly",
+    "say": "HOL-ee",
+    "emoji": "🎄",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bush with shiny, prickly green leaves and red berries.",
+          "examples": [
+            "We put holly on the door.",
+            "The holly has red berries.",
+            "Holly is green."
+          ]
+        },
+        "more": {
+          "def": "A bush or tree with shiny, spiky green leaves and red berries, used at winter holidays.",
+          "examples": [
+            "We hung holly on the door in December.",
+            "The holly bush had bright red berries.",
+            "Birds ate the berries of the holly."
           ]
         }
       }
@@ -230,6 +343,31 @@
     ]
   },
   {
+    "word": "homeless",
+    "say": "HOHM-liss",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having no place to live.",
+          "examples": [
+            "The kitten was homeless.",
+            "The shelter helps homeless people.",
+            "The homeless dog needed a home."
+          ]
+        },
+        "more": {
+          "def": "Having no home of your own to live in.",
+          "examples": [
+            "The shelter helps homeless families.",
+            "The homeless puppy was found in a box.",
+            "After the fire, the family was homeless for a week."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "homework",
     "say": "HOHM-werk",
     "emoji": "📚",
@@ -275,6 +413,31 @@
             "She was honest and told the teacher that she had broken the window.",
             "To be honest, I did not like the movie.",
             "An honest shopkeeper gave back the extra money."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "honesty",
+    "say": "ON-iss-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Telling the truth.",
+          "examples": [
+            "Honesty is important.",
+            "I value honesty.",
+            "Her honesty was clear."
+          ]
+        },
+        "more": {
+          "def": "The quality of being truthful and fair, not lying or cheating.",
+          "examples": [
+            "Honesty is the best policy.",
+            "Her honesty made us trust her.",
+            "He returned the wallet out of honesty."
           ]
         }
       }
@@ -334,6 +497,36 @@
     ]
   },
   {
+    "word": "honk",
+    "say": "hongk",
+    "forms": [
+      "honks",
+      "honked",
+      "honking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a loud, harsh sound like a goose.",
+          "examples": [
+            "The geese honk.",
+            "The car honked.",
+            "The driver honked the horn."
+          ]
+        },
+        "more": {
+          "def": "To make a loud, blaring sound, as a goose or a car horn does.",
+          "examples": [
+            "The geese honked as they flew south.",
+            "The driver honked at the cat in the road.",
+            "The truck honked its horn."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "honor",
     "say": "ON-er",
     "forms": [
@@ -377,6 +570,34 @@
             "The town held a parade to honor the firefighters.",
             "We honor our grandparents on a special day.",
             "The school honored her for her kindness."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "honorable",
+    "say": "ON-er-uh-bul",
+    "forms": [
+      "honourable"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Fair and honest.",
+          "examples": [
+            "He is an honorable man.",
+            "The honorable thing is to tell the truth.",
+            "She did an honorable deed."
+          ]
+        },
+        "more": {
+          "def": "Deserving respect because you are honest and do what is right.",
+          "examples": [
+            "He is an honorable man who always tells the truth.",
+            "It was honorable of her to give back the wallet.",
+            "The knight was honorable."
           ]
         }
       }
@@ -534,6 +755,40 @@
             "Our hope is to build a new playground."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "hopeless",
+    "say": "HOHP-liss",
+    "forms": [
+      "hopelessly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having no hope.",
+          "examples": [
+            "The lost puppy felt hopeless.",
+            "It seemed hopeless.",
+            "I felt hopeless."
+          ]
+        },
+        "more": {
+          "def": "Having no hope that things will get better.",
+          "examples": [
+            "The situation seemed hopeless until help arrived.",
+            "I felt hopeless when I lost my homework.",
+            "The lost hikers felt hopeless as night fell."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "hopelessness",
+        "def": "Having no hope."
       }
     ]
   },
@@ -697,6 +952,34 @@
     ]
   },
   {
+    "word": "hose",
+    "say": "hohz",
+    "forms": [
+      "hoses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long tube for water.",
+          "examples": [
+            "I water the garden with a hose.",
+            "The hose is long.",
+            "Dad sprayed the car with a hose."
+          ]
+        },
+        "more": {
+          "def": "A long, bendable tube that carries water.",
+          "examples": [
+            "I watered the garden with a hose.",
+            "The firefighter held the heavy hose.",
+            "Dad washed the car with the hose."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hospital",
     "say": "HOS-pit-ul",
     "emoji": "🏥",
@@ -769,6 +1052,31 @@
             "Our school hosted the science fair.",
             "We will host a picnic at the park.",
             "She hosts a game night every month."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hostile",
+    "say": "HOS-tul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Mean and ready to fight.",
+          "examples": [
+            "The dog was hostile.",
+            "The hostile crowd shouted.",
+            "He gave a hostile look."
+          ]
+        },
+        "more": {
+          "def": "Unfriendly and ready to fight or argue.",
+          "examples": [
+            "The dog gave a hostile growl.",
+            "The hostile crowd shouted angry words.",
+            "The new boy felt the hostile looks of the others."
           ]
         }
       }
@@ -853,6 +1161,34 @@
     ]
   },
   {
+    "word": "hound",
+    "say": "hownd",
+    "forms": [
+      "hounds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dog that hunts by smell.",
+          "examples": [
+            "The hound sniffed the ground.",
+            "The hound has long ears.",
+            "A hound ran fast."
+          ]
+        },
+        "more": {
+          "def": "A kind of dog with a good sense of smell that is used for hunting.",
+          "examples": [
+            "The hound followed the scent through the woods.",
+            "A hound has long, floppy ears.",
+            "The hounds ran across the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hour",
     "say": "owr",
     "forms": [
@@ -903,6 +1239,34 @@
             "Our house has a front porch and a small garden.",
             "The old house at the end of the street has been empty for years.",
             "The builders worked all summer to finish the house."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "household",
+    "say": "HOWS-hohld",
+    "forms": [
+      "households"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The people who live together in one home.",
+          "examples": [
+            "Our household has five people.",
+            "The household is busy.",
+            "Every household has a cat."
+          ]
+        },
+        "more": {
+          "def": "All the people who live together in one home.",
+          "examples": [
+            "Our household has five people and a dog.",
+            "Every household on the street got a flyer.",
+            "A busy household makes lots of noise."
           ]
         }
       }

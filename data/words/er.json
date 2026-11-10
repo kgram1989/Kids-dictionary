@@ -28,5 +28,61 @@
         }
       }
     ]
+  },
+  {
+    "word": "errand",
+    "say": "AIR-und",
+    "forms": [
+      "errands"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short trip to do a job.",
+          "examples": [
+            "I run an errand.",
+            "Mom has errands.",
+            "I went on an errand to the store."
+          ]
+        },
+        "more": {
+          "def": "A short trip to do a small job, such as buying something.",
+          "examples": [
+            "I ran an errand to the store for Mom.",
+            "Dad did errands on Saturday.",
+            "She went to the post office on an errand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "error",
+    "say": "AIR-er",
+    "forms": [
+      "errors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mistake.",
+          "examples": [
+            "I made an error.",
+            "The error is small.",
+            "She fixed the error."
+          ]
+        },
+        "more": {
+          "def": "Something that is not right, a mistake.",
+          "examples": [
+            "I made an error in my math.",
+            "The computer showed an error message.",
+            "She found and fixed the error in her story."
+          ]
+        }
+      }
+    ]
   }
 ]

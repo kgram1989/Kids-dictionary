@@ -1,5 +1,30 @@
 [
   {
+    "word": "ouch",
+    "say": "owch",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A word you say when something hurts.",
+          "examples": [
+            "Ouch! That hurt.",
+            "I said ouch.",
+            "Ouch, I stubbed my toe."
+          ]
+        },
+        "more": {
+          "def": "A word that you shout when you feel a sudden pain.",
+          "examples": [
+            "Ouch, that stove is hot!",
+            "She yelled ouch when the bee stung her.",
+            "\"Ouch!\" he said as he stubbed his toe."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ought",
     "say": "awt",
     "senses": [
@@ -19,6 +44,34 @@
             "You ought to wear a coat in this weather.",
             "We ought to arrive before dark.",
             "She ought to be home by now."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ounce",
+    "say": "owns",
+    "forms": [
+      "ounces"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small unit of weight.",
+          "examples": [
+            "The apple weighs five ounces.",
+            "An ounce is small.",
+            "I need an ounce."
+          ]
+        },
+        "more": {
+          "def": "A unit for measuring weight, equal to one sixteenth of a pound.",
+          "examples": [
+            "The apple weighed six ounces.",
+            "There are sixteen ounces in a pound.",
+            "Add an ounce of cheese."
           ]
         }
       }
@@ -160,6 +213,31 @@
     ]
   },
   {
+    "word": "outer",
+    "say": "OW-ter",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "On the outside.",
+          "examples": [
+            "The outer layer is thick.",
+            "The outer wall is brick.",
+            "Space is outer."
+          ]
+        },
+        "more": {
+          "def": "Farther from the middle, on the outside.",
+          "examples": [
+            "The outer layer of the onion is dry.",
+            "We walked along the outer wall of the castle.",
+            "Pluto is in the outer part of the solar system."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "outfit",
     "say": "OWT-fit",
     "forms": [
@@ -182,6 +260,34 @@
             "She wore a blue outfit to the party.",
             "He picked a warm outfit for the snow.",
             "The clown's outfit was bright and silly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "outrageous",
+    "say": "owt-RAY-jus",
+    "forms": [
+      "outrageously"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Shocking and very bad or unusual.",
+          "examples": [
+            "The price was outrageous.",
+            "He wore an outrageous hat.",
+            "An outrageous idea."
+          ]
+        },
+        "more": {
+          "def": "So unusual or extreme that it shocks people.",
+          "examples": [
+            "The price of the toy was outrageous.",
+            "He wore an outrageous hat with feathers.",
+            "That is an outrageous story."
           ]
         }
       }
@@ -245,6 +351,31 @@
             "A crowd stood outside the museum waiting for it to open.",
             "She left her muddy boots outside the front door.",
             "The picnic tables are just outside the cafe."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "outstanding",
+    "say": "owt-STAN-ding",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very good.",
+          "examples": [
+            "She did outstanding work.",
+            "The outstanding player won.",
+            "It was an outstanding show."
+          ]
+        },
+        "more": {
+          "def": "Much better than usual, excellent.",
+          "examples": [
+            "She did outstanding work on her project.",
+            "The outstanding player won the award.",
+            "The show was outstanding from start to finish."
           ]
         }
       }

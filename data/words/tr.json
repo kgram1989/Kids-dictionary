@@ -213,6 +213,34 @@
     ]
   },
   {
+    "word": "traditional",
+    "say": "truh-DISH-uh-nul",
+    "forms": [
+      "traditionally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Done the same way for a long time.",
+          "examples": [
+            "We eat a traditional meal.",
+            "It is a traditional dance.",
+            "The traditional song is old."
+          ]
+        },
+        "more": {
+          "def": "Following customs that have been passed down for many years.",
+          "examples": [
+            "We eat a traditional meal on holidays.",
+            "The dancers wore traditional costumes.",
+            "It is traditional to give flowers."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "traffic",
     "say": "TRAF-ik",
     "emoji": "🚦",
@@ -506,6 +534,119 @@
     ]
   },
   {
+    "word": "translate",
+    "say": "tranz-LAYT",
+    "forms": [
+      "translates",
+      "translated",
+      "translating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say something in another language.",
+          "examples": [
+            "I translate the words.",
+            "She translated the book into English.",
+            "Can you translate this?"
+          ]
+        },
+        "more": {
+          "def": "To change words from one language into another.",
+          "examples": [
+            "She translated the book from Spanish to English.",
+            "Can you translate this sign for me?",
+            "My aunt translates for visitors."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "transmission",
+    "say": "trans-MISH-un",
+    "forms": [
+      "transmissions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Sending something from one place to another.",
+          "examples": [
+            "The radio transmission was clear.",
+            "The transmission of the signal.",
+            "The TV transmission was lost."
+          ]
+        },
+        "more": {
+          "def": "The act of sending signals or messages, or of passing something along.",
+          "examples": [
+            "The radio transmission came in clearly.",
+            "The transmission of the TV signal failed in the storm.",
+            "Germs can spread through the transmission of droplets."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of a car that sends power to the wheels.",
+          "examples": [
+            "The car has a new transmission.",
+            "The transmission is broken.",
+            "The mechanic fixed the transmission."
+          ]
+        },
+        "more": {
+          "def": "The part of a vehicle that carries power from the engine to the wheels.",
+          "examples": [
+            "The mechanic fixed the car's transmission.",
+            "A bad transmission made the car shake.",
+            "The truck has a manual transmission."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "transmit",
+    "say": "trans-MIT",
+    "forms": [
+      "transmits",
+      "transmitted",
+      "transmitting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To send a signal.",
+          "examples": [
+            "The radio transmits music.",
+            "The tower transmitted the signal.",
+            "They transmit the news."
+          ]
+        },
+        "more": {
+          "def": "To send a message, picture or sound from one place to another.",
+          "examples": [
+            "The radio tower transmits music.",
+            "The signal was transmitted by satellite.",
+            "The mosquito can transmit germs."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "transmitter",
+        "def": "A device that sends signals."
+      }
+    ]
+  },
+  {
     "word": "transparent",
     "say": "trans-PAIR-unt",
     "emoji": "🪟",
@@ -526,6 +667,55 @@
             "The jellyfish was almost transparent in the water.",
             "Tape the transparent plastic over the window.",
             "The water was so transparent that we could see the bottom."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "transplant",
+    "say": "trans-PLANT",
+    "forms": [
+      "transplants",
+      "transplanted",
+      "transplanting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move a plant to a new place.",
+          "examples": [
+            "We transplant the flowers.",
+            "She transplanted the tree.",
+            "Dad transplanted the seedlings."
+          ]
+        },
+        "more": {
+          "def": "To dig up a plant and plant it somewhere else.",
+          "examples": [
+            "We transplanted the flowers to a bigger pot.",
+            "She transplanted the tree to the front yard.",
+            "Dad transplanted the seedlings into the garden."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An operation to move a body part.",
+          "examples": [
+            "The doctor did a transplant.",
+            "He had a heart transplant.",
+            "A transplant helped her."
+          ]
+        },
+        "more": {
+          "def": "An operation in which a doctor puts a healthy part, such as a heart or kidney, into a patient.",
+          "examples": [
+            "A liver transplant gave the patient a new chance.",
+            "A kidney transplant helped her get well.",
+            "The doctor performed a transplant."
           ]
         }
       }
@@ -692,6 +882,34 @@
             "They traveled across the country by train.",
             "Light travels faster than sound.",
             "My aunt travels to many countries for her job."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tray",
+    "say": "tray",
+    "forms": [
+      "trays"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat dish for carrying things.",
+          "examples": [
+            "I carry my lunch on a tray.",
+            "The tray is full.",
+            "The cookies are on a tray."
+          ]
+        },
+        "more": {
+          "def": "A flat, shallow dish with a rim, used to carry food or small things.",
+          "examples": [
+            "I carried my lunch on a tray.",
+            "The waiter held a tray of drinks.",
+            "The cookies cooled on a tray."
           ]
         }
       }
@@ -888,6 +1106,34 @@
     ]
   },
   {
+    "word": "tremendous",
+    "say": "trih-MEN-dus",
+    "forms": [
+      "tremendously"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very big.",
+          "examples": [
+            "The tremendous wave crashed.",
+            "The elephant is tremendous.",
+            "The crowd gave a tremendous cheer."
+          ]
+        },
+        "more": {
+          "def": "Extremely large or great.",
+          "examples": [
+            "A tremendous wave crashed on the shore.",
+            "A tremendous storm swept across the plains.",
+            "The task took tremendous effort."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "trial",
     "say": "TRY-ul",
     "forms": [
@@ -929,6 +1175,34 @@
             "Scientists ran a trial of the new medicine.",
             "We did a trial run before the big show.",
             "The toy had a one-week trial."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tribe",
+    "say": "tryb",
+    "forms": [
+      "tribes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of people who share a way of life and a leader.",
+          "examples": [
+            "The tribe lived by the river.",
+            "The tribe hunted for food.",
+            "A tribe has a chief."
+          ]
+        },
+        "more": {
+          "def": "A group of people who share a language, customs and a leader, often living together.",
+          "examples": [
+            "The tribe lived beside the river for hundreds of years.",
+            "The tribe held a feast each autumn.",
+            "Each tribe had its own chief."
           ]
         }
       }
@@ -997,6 +1271,35 @@
             "The fox tricked the crow into dropping its cheese.",
             "The magician tricked the audience.",
             "My brother tried to trick me with a fake spider."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tricky",
+    "say": "TRIK-ee",
+    "forms": [
+      "trickier",
+      "trickiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Hard to do.",
+          "examples": [
+            "The puzzle is tricky.",
+            "The trail is tricky.",
+            "A tricky question."
+          ]
+        },
+        "more": {
+          "def": "Difficult, or needing care or skill.",
+          "examples": [
+            "The last puzzle piece was tricky to place.",
+            "The icy trail was tricky to walk on.",
+            "She asked a tricky question."
           ]
         }
       }
@@ -1102,6 +1405,55 @@
     ]
   },
   {
+    "word": "triple",
+    "say": "TRIP-ul",
+    "forms": [
+      "triples",
+      "tripled",
+      "tripling"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Three times as much.",
+          "examples": [
+            "I ordered a triple scoop.",
+            "The triple jump is hard.",
+            "A triple scoop of ice cream."
+          ]
+        },
+        "more": {
+          "def": "Made up of three parts, or three times as big.",
+          "examples": [
+            "I ordered a triple scoop of ice cream.",
+            "The athlete won the triple jump.",
+            "The recipe needs a triple amount of flour."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To become three times as much.",
+          "examples": [
+            "The population tripled.",
+            "I tripled the recipe.",
+            "The price tripled."
+          ]
+        },
+        "more": {
+          "def": "To make or become three times as large.",
+          "examples": [
+            "The town's size tripled in ten years.",
+            "I tripled the recipe for the party.",
+            "The price of tickets tripled."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "troops",
     "say": "troops",
     "forms": [
@@ -1130,6 +1482,35 @@
     ]
   },
   {
+    "word": "trophy",
+    "say": "TROH-fee",
+    "emoji": "🏆",
+    "forms": [
+      "trophies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cup or statue that you get as a prize.",
+          "examples": [
+            "We won the trophy.",
+            "The trophy is gold.",
+            "The trophy sits on the shelf."
+          ]
+        },
+        "more": {
+          "def": "A prize, such as a cup or statue, that you get for winning.",
+          "examples": [
+            "Our team won the trophy.",
+            "The gold trophy sat on the shelf.",
+            "She held up the trophy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "trouble",
     "say": "TRUB-ul",
     "forms": [
@@ -1152,6 +1533,31 @@
             "The boat had engine trouble, so we stopped at the dock.",
             "I had trouble tying my shoes when I was little.",
             "He got into trouble for running in the hall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "troubled",
+    "say": "TRUB-uld",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Worried or having problems.",
+          "examples": [
+            "The troubled boy looked sad.",
+            "She was troubled.",
+            "A troubled sea."
+          ]
+        },
+        "more": {
+          "def": "Feeling worried, or full of problems.",
+          "examples": [
+            "A troubled look crossed her face.",
+            "She felt troubled by the news.",
+            "The ship sailed through troubled waters."
           ]
         }
       }

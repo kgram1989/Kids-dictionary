@@ -1,5 +1,33 @@
 [
   {
+    "word": "elbow",
+    "say": "EL-boh",
+    "forms": [
+      "elbows"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part in the middle of your arm that bends.",
+          "examples": [
+            "I hurt my elbow.",
+            "My elbow is bent.",
+            "She leaned on her elbow."
+          ]
+        },
+        "more": {
+          "def": "The joint in the middle of your arm where it bends.",
+          "examples": [
+            "I bumped my elbow on the door.",
+            "She rested her elbows on the table.",
+            "He bent his elbow and flexed his muscle."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "elder",
     "say": "EL-der",
     "forms": [
@@ -41,6 +69,36 @@
             "The village elders told stories by the fire.",
             "The tribe's elders met to settle the dispute.",
             "The elders gave advice to the young."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "elect",
+    "say": "ih-LEKT",
+    "forms": [
+      "elects",
+      "elected",
+      "electing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To choose by voting.",
+          "examples": [
+            "We elect a leader.",
+            "The class elected her.",
+            "They elected a new mayor."
+          ]
+        },
+        "more": {
+          "def": "To choose someone for a job by voting.",
+          "examples": [
+            "The class elected a president.",
+            "The town elected a new mayor.",
+            "We voted to elect her captain."
           ]
         }
       }
@@ -101,6 +159,31 @@
     ]
   },
   {
+    "word": "electrical",
+    "say": "ih-LEK-trih-kul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with electricity.",
+          "examples": [
+            "The electrical cord is long.",
+            "The electrical wire is hot.",
+            "He fixed the electrical box."
+          ]
+        },
+        "more": {
+          "def": "Having to do with electricity or using it.",
+          "examples": [
+            "An electrical wire runs through the wall.",
+            "The electrician checked the electrical outlet.",
+            "The toy needs an electrical cord."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "electricity",
     "say": "ih-lek-TRISS-ih-tee",
     "emoji": "⚡",
@@ -121,6 +204,62 @@
             "The storm knocked out the electricity in our town.",
             "Wires carry electricity to our homes.",
             "Solar panels turn sunlight into electricity."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "electronic",
+    "say": "ih-lek-TRON-ik",
+    "forms": [
+      "electronics"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Using tiny electric parts.",
+          "examples": [
+            "An electronic game.",
+            "The electronic toy beeps.",
+            "The electronic clock."
+          ]
+        },
+        "more": {
+          "def": "Using tiny parts that control electricity, such as in computers and phones.",
+          "examples": [
+            "The electronic game beeped and flashed.",
+            "Dad has an electronic watch.",
+            "She bought an electronic book."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "elegant",
+    "say": "EL-ih-gunt",
+    "forms": [
+      "elegantly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Fancy and beautiful.",
+          "examples": [
+            "The elegant dress is long.",
+            "She wore an elegant gown.",
+            "An elegant dance."
+          ]
+        },
+        "more": {
+          "def": "Graceful, stylish and pleasing to look at.",
+          "examples": [
+            "She wore an elegant gown to the ball.",
+            "The swan moved with elegant grace.",
+            "The room was simple and elegant."
           ]
         }
       }
@@ -232,6 +371,98 @@
             "A soccer team puts eleven players on the field.",
             "My brother is eleven years old.",
             "The clock struck eleven."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "elf",
+    "say": "elf",
+    "forms": [
+      "elves"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny person in stories with pointy ears.",
+          "examples": [
+            "The elf helped Santa.",
+            "An elf lives in the woods.",
+            "The elf had pointy ears."
+          ]
+        },
+        "more": {
+          "def": "A small, magical person in stories who often has pointed ears.",
+          "examples": [
+            "The elf in the story made shoes at night.",
+            "Santa's elves make toys.",
+            "An elf with pointy ears appeared."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "eliminate",
+    "say": "ih-LIM-ih-nayt",
+    "forms": [
+      "eliminates",
+      "eliminated",
+      "eliminating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get rid of something.",
+          "examples": [
+            "We eliminate the waste.",
+            "The team was eliminated.",
+            "She eliminated the mistakes."
+          ]
+        },
+        "more": {
+          "def": "To remove something completely, or to knock a player out of a contest.",
+          "examples": [
+            "We want to eliminate waste at school.",
+            "Our team was eliminated in the first round.",
+            "Washing your hands eliminates many germs."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "elimination",
+        "def": "Getting rid of something."
+      }
+    ]
+  },
+  {
+    "word": "elk",
+    "say": "elk",
+    "forms": [
+      "elks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very big wild animal like a deer.",
+          "examples": [
+            "The elk has antlers.",
+            "An elk ran.",
+            "We saw an elk."
+          ]
+        },
+        "more": {
+          "def": "A very large deer that lives in North America, the male having wide antlers.",
+          "examples": [
+            "The elk's antlers were huge.",
+            "We saw an elk in the park.",
+            "Elk gather in herds in the valley."
           ]
         }
       }

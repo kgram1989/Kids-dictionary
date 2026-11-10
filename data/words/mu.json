@@ -69,6 +69,35 @@
     ]
   },
   {
+    "word": "muffin",
+    "say": "MUF-in",
+    "emoji": "🧁",
+    "forms": [
+      "muffins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, round cake that you eat at breakfast.",
+          "examples": [
+            "I ate a muffin.",
+            "The muffin is warm.",
+            "The muffin has blueberries."
+          ]
+        },
+        "more": {
+          "def": "A small, round, sweet bread or cake that is baked in a cup.",
+          "examples": [
+            "I ate a blueberry muffin for breakfast.",
+            "The muffins were still warm from the oven.",
+            "She split the muffin and spread butter on it."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mug",
     "say": "mug",
     "emoji": "☕",
@@ -98,6 +127,82 @@
     ]
   },
   {
+    "word": "mule",
+    "say": "myool",
+    "emoji": "🫏",
+    "forms": [
+      "mules"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong animal that is part horse and part donkey.",
+          "examples": [
+            "The mule carried a load.",
+            "A mule is strong.",
+            "The mule pulled the cart."
+          ]
+        },
+        "more": {
+          "def": "An animal whose parents are a donkey and a horse, known for being strong and stubborn.",
+          "examples": [
+            "The mule carried supplies up the trail.",
+            "A mule can be very stubborn.",
+            "The farmer used a mule to pull the plow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "multiple",
+    "say": "MUL-tih-pul",
+    "forms": [
+      "multiples"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "More than one.",
+          "examples": [
+            "There are multiple choices.",
+            "The room has multiple doors.",
+            "The box has multiple parts."
+          ]
+        },
+        "more": {
+          "def": "Having or involving many parts or more than one.",
+          "examples": [
+            "The test has multiple choices.",
+            "The building has multiple floors.",
+            "The movie has multiple endings."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A number you get by multiplying.",
+          "examples": [
+            "Ten is a multiple of five.",
+            "Six is a multiple of three.",
+            "The multiples of two are even."
+          ]
+        },
+        "more": {
+          "def": "A number that can be divided evenly by a smaller number.",
+          "examples": [
+            "Eight is a multiple of four.",
+            "The multiples of three are three, six, nine and twelve.",
+            "Twenty is a multiple of both four and five."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mum",
     "say": "mum",
     "forms": [
@@ -120,6 +225,53 @@
             "My cousin in England calls his mother mum.",
             "Mum packed sandwiches for the picnic.",
             "Her mum waved from the window."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mummy",
+    "say": "MUM-ee",
+    "forms": [
+      "mummies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A body wrapped in cloth that was kept safe in ancient Egypt.",
+          "examples": [
+            "The mummy is in the museum.",
+            "A mummy is old.",
+            "We saw a mummy."
+          ]
+        },
+        "more": {
+          "def": "A dead body that was wrapped in cloth to keep it from rotting, as in ancient Egypt.",
+          "examples": [
+            "We saw an Egyptian mummy at the museum.",
+            "The mummy was wrapped in strips of cloth.",
+            "The mummies were buried in tombs."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word some children use for mother.",
+          "examples": [
+            "I love my mummy.",
+            "Mummy read me a story.",
+            "Mummy is home."
+          ]
+        },
+        "more": {
+          "def": "A word that some children use for their mother.",
+          "examples": [
+            "My mummy tucked me in.",
+            "The little girl hugged her mummy.",
+            "Mummy packed a snack."
           ]
         }
       }
@@ -257,6 +409,35 @@
     ]
   },
   {
+    "word": "musician",
+    "say": "myoo-ZISH-un",
+    "emoji": "🎼",
+    "forms": [
+      "musicians"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who plays music.",
+          "examples": [
+            "The musician plays the violin.",
+            "A musician sang.",
+            "She is a musician."
+          ]
+        },
+        "more": {
+          "def": "A person who plays an instrument or sings as a job or hobby.",
+          "examples": [
+            "The musician played the violin.",
+            "Several musicians played in the park.",
+            "My aunt is a musician in an orchestra."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "must",
     "say": "must",
     "senses": [
@@ -276,6 +457,59 @@
             "You must wear a seat belt when you ride in a car.",
             "She must be tired after the long hike.",
             "All visitors must sign in at the front desk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mustard",
+    "say": "MUS-terd",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A yellow sauce for sandwiches.",
+          "examples": [
+            "I put mustard on my hot dog.",
+            "The mustard is yellow.",
+            "I like mustard."
+          ]
+        },
+        "more": {
+          "def": "A yellow or brown sauce with a sharp taste that is put on foods such as hot dogs.",
+          "examples": [
+            "I put mustard on my sandwich.",
+            "The mustard was yellow and tangy.",
+            "Dad squeezed mustard onto the pretzel."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mutual",
+    "say": "MYOO-choo-ul",
+    "forms": [
+      "mutually"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Shared by two or more.",
+          "examples": [
+            "We have a mutual friend.",
+            "The feeling was mutual.",
+            "We reached a mutual agreement."
+          ]
+        },
+        "more": {
+          "def": "Felt or done by each of two or more people toward the others.",
+          "examples": [
+            "We have a mutual friend named Sam.",
+            "Their respect for each other was mutual.",
+            "The two teams had a mutual agreement."
           ]
         }
       }

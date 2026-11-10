@@ -1,5 +1,52 @@
 [
   {
+    "word": "sub",
+    "say": "sub",
+    "forms": [
+      "subs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short word for submarine.",
+          "examples": [
+            "The sub went under the sea.",
+            "We saw a sub.",
+            "The sub is big."
+          ]
+        },
+        "more": {
+          "def": "A short word for a submarine, a ship that goes underwater.",
+          "examples": [
+            "The sub dived deep beneath the waves.",
+            "We toured an old sub at the museum.",
+            "The sub stayed underwater for weeks."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long sandwich.",
+          "examples": [
+            "I ate a sub for lunch.",
+            "The sub has cheese.",
+            "We shared a sub."
+          ]
+        },
+        "more": {
+          "def": "A long sandwich made with a roll that is filled with meat, cheese and vegetables.",
+          "examples": [
+            "I ordered a turkey sub for lunch.",
+            "He cut the sub in half so we could share.",
+            "The sub was stuffed with lettuce and tomatoes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "subject",
     "say": "SUB-jikt",
     "forms": [
@@ -41,6 +88,92 @@
             "In the sentence \"The dog barked,\" the subject is \"dog.\"",
             "Every sentence needs a subject and a verb.",
             "Underline the subject of each sentence."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "submarine",
+    "say": "SUB-muh-reen",
+    "forms": [
+      "submarines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A ship that goes underwater.",
+          "examples": [
+            "The submarine dived.",
+            "We saw a submarine.",
+            "The submarine is big."
+          ]
+        },
+        "more": {
+          "def": "A ship that can travel under the water.",
+          "examples": [
+            "The submarine dived beneath the waves.",
+            "We toured a submarine at the museum.",
+            "A submarine can stay underwater for weeks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "submit",
+    "say": "sub-MIT",
+    "forms": [
+      "submits",
+      "submitted",
+      "submitting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hand something in.",
+          "examples": [
+            "I submit my homework.",
+            "She submitted her story.",
+            "He submitted the form."
+          ]
+        },
+        "more": {
+          "def": "To hand something in so that it can be looked at or judged.",
+          "examples": [
+            "I submitted my homework on time.",
+            "She submitted her story to the contest.",
+            "He submitted the form to the office."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "substance",
+    "say": "SUB-stunss",
+    "forms": [
+      "substances"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Any kind of matter.",
+          "examples": [
+            "Water is a substance.",
+            "The substance is sticky.",
+            "The substance is hard."
+          ]
+        },
+        "more": {
+          "def": "A kind of material that things are made of, such as water or wood.",
+          "examples": [
+            "Water is a clear substance.",
+            "The sticky substance dripped on the table.",
+            "Scientists test each substance."
           ]
         }
       }
@@ -719,6 +852,36 @@
     ]
   },
   {
+    "word": "sunny",
+    "say": "SUN-ee",
+    "emoji": "☀️",
+    "forms": [
+      "sunnier",
+      "sunniest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Bright with sunshine.",
+          "examples": [
+            "It is a sunny day.",
+            "The sunny room is warm.",
+            "We played in the sunny yard."
+          ]
+        },
+        "more": {
+          "def": "Full of sunshine.",
+          "examples": [
+            "It was a warm, sunny day at the beach.",
+            "The sunny room was bright and cheerful.",
+            "We sat in a sunny spot."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sunset",
     "say": "SUN-set",
     "emoji": "🌇",
@@ -822,6 +985,34 @@
             "The superior team won the match.",
             "This kind of paper is superior to that kind.",
             "She is a superior swimmer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "supervisor",
+    "say": "SOO-per-vy-zer",
+    "forms": [
+      "supervisors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who watches over workers.",
+          "examples": [
+            "The supervisor checked the work.",
+            "My supervisor is nice.",
+            "The supervisor is in charge."
+          ]
+        },
+        "more": {
+          "def": "A person who is in charge of other workers and checks their work.",
+          "examples": [
+            "The supervisor trained the new workers.",
+            "Her supervisor praised her.",
+            "The lunchroom supervisor kept us in line."
           ]
         }
       }
@@ -1029,6 +1220,34 @@
     ]
   },
   {
+    "word": "supreme",
+    "say": "suh-PREEM",
+    "forms": [
+      "supremely"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "The highest or greatest.",
+          "examples": [
+            "The supreme court is in the city.",
+            "He is the supreme leader.",
+            "It was supreme joy."
+          ]
+        },
+        "more": {
+          "def": "Greatest in power, rank or importance.",
+          "examples": [
+            "The Supreme Court is the highest court in our country.",
+            "The queen was the supreme ruler.",
+            "It was a moment of supreme joy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sure",
     "say": "shuur",
     "senses": [
@@ -1191,6 +1410,31 @@
     ]
   },
   {
+    "word": "surgical",
+    "say": "SER-jih-kul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with surgery.",
+          "examples": [
+            "The surgeon wore a surgical mask.",
+            "The surgical tools are clean.",
+            "A surgical team worked."
+          ]
+        },
+        "more": {
+          "def": "Having to do with operations that doctors perform on the body.",
+          "examples": [
+            "Surgical gloves keep germs away from the patient.",
+            "The surgical tools were kept clean.",
+            "A surgical team prepared for the operation."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "surprise",
     "say": "ser-PRYZ",
     "emoji": "🎁",
@@ -1305,6 +1549,31 @@
     ]
   },
   {
+    "word": "survival",
+    "say": "sir-VY-vul",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Staying alive.",
+          "examples": [
+            "The animals' survival depends on water.",
+            "Survival is hard in the desert.",
+            "The survival of the plant is certain."
+          ]
+        },
+        "more": {
+          "def": "The state of staying alive in hard conditions.",
+          "examples": [
+            "Scientists study the survival of whales in cold seas.",
+            "Survival in the desert is hard.",
+            "The hikers learned survival skills."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "survive",
     "say": "ser-VYV",
     "forms": [
@@ -1329,6 +1598,34 @@
             "Camels can survive for days without drinking water.",
             "The sailors survived the storm.",
             "Few plants can survive in such dry soil."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "survivor",
+    "say": "sir-VY-ver",
+    "forms": [
+      "survivors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who stays alive after something terrible.",
+          "examples": [
+            "The survivor was rescued.",
+            "The survivors were safe.",
+            "He is a survivor of the flood."
+          ]
+        },
+        "more": {
+          "def": "A person who lives through a dangerous event.",
+          "examples": [
+            "The survivors of the shipwreck were rescued.",
+            "The lone survivor was found clinging to a log.",
+            "The survivors were wrapped in warm blankets."
           ]
         }
       }
@@ -1379,6 +1676,64 @@
             "I suspect the cat ate the fish.",
             "She suspected a surprise party.",
             "He suspected the story was a joke."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "suspend",
+    "say": "suh-SPEND",
+    "forms": [
+      "suspends",
+      "suspended",
+      "suspending"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hang something from above.",
+          "examples": [
+            "The lamp is suspended from the ceiling.",
+            "A rope suspends the swing.",
+            "They suspended the sign."
+          ]
+        },
+        "more": {
+          "def": "To hang something so that it does not touch the ground, or to stop something for a while.",
+          "examples": [
+            "The lamp was suspended from the ceiling.",
+            "The bridge is suspended by thick cables.",
+            "The game was suspended because of rain."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "suspicion",
+    "say": "suh-SPISH-un",
+    "forms": [
+      "suspicions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A feeling that something is wrong.",
+          "examples": [
+            "I had a suspicion.",
+            "The suspicion grew.",
+            "She has a suspicion."
+          ]
+        },
+        "more": {
+          "def": "A feeling that something is not right, even if you have no proof.",
+          "examples": [
+            "I had a suspicion that someone ate the cookies.",
+            "His suspicion grew when he heard a noise.",
+            "She looked at the stranger with suspicion."
           ]
         }
       }

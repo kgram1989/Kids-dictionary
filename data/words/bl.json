@@ -362,6 +362,34 @@
     ]
   },
   {
+    "word": "blessing",
+    "say": "BLES-ing",
+    "forms": [
+      "blessings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something good that you are thankful for.",
+          "examples": [
+            "Good friends are a blessing.",
+            "The rain was a blessing.",
+            "We said a blessing."
+          ]
+        },
+        "more": {
+          "def": "Something that you are glad to have, or a prayer asking for good things.",
+          "examples": [
+            "Her kind teacher was a blessing in her life.",
+            "The rain after the long dry spell was a blessing.",
+            "The family said a blessing before the meal."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "blind",
     "say": "blynd",
     "senses": [
@@ -381,6 +409,37 @@
             "A guide dog helps a blind person cross the street.",
             "Moles are almost blind.",
             "Braille is a way for blind people to read."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blink",
+    "say": "blingk",
+    "emoji": "👀",
+    "forms": [
+      "blinks",
+      "blinked",
+      "blinking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To close and open your eyes quickly.",
+          "examples": [
+            "I blink.",
+            "She blinked in the sun.",
+            "He blinked twice."
+          ]
+        },
+        "more": {
+          "def": "To close and open your eyes very quickly.",
+          "examples": [
+            "I blinked in the bright sun.",
+            "She blinked and then smiled.",
+            "The owl blinked slowly."
           ]
         }
       }
@@ -509,6 +568,56 @@
             "Blood carries oxygen from your lungs to the rest of your body.",
             "Exercise makes your heart pump blood faster.",
             "A scab forms when blood dries over a cut."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bloom",
+    "say": "bloom",
+    "emoji": "🌸",
+    "forms": [
+      "blooms",
+      "bloomed",
+      "blooming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To open into flowers.",
+          "examples": [
+            "The tulips bloom in spring.",
+            "The roses bloomed.",
+            "The tree blooms in May."
+          ]
+        },
+        "more": {
+          "def": "To produce flowers, or to open up as a flower does.",
+          "examples": [
+            "Wildflowers bloom across the meadow in May.",
+            "The roses bloomed all summer.",
+            "The cherry tree blooms in April."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flower.",
+          "examples": [
+            "The bloom is pink.",
+            "I smelled the bloom.",
+            "A rose bloom."
+          ]
+        },
+        "more": {
+          "def": "A flower, especially one on a plant or tree.",
+          "examples": [
+            "The pink bloom opened in the sun.",
+            "I smelled a rose bloom.",
+            "The garden was full of blooms."
           ]
         }
       }
@@ -646,6 +755,50 @@
       {
         "word": "bluish",
         "def": "A little bit blue."
+      }
+    ]
+  },
+  {
+    "word": "blues",
+    "say": "blooz",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A feeling of being sad.",
+          "examples": [
+            "I have the blues.",
+            "The rain gave her the blues.",
+            "He had the Monday blues."
+          ]
+        },
+        "more": {
+          "def": "A feeling of sadness.",
+          "examples": [
+            "The rainy day gave me the blues.",
+            "She had the blues when her friend moved.",
+            "A funny movie chased the blues away."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A slow, sad kind of music.",
+          "examples": [
+            "I like the blues.",
+            "He plays the blues.",
+            "The band played the blues."
+          ]
+        },
+        "more": {
+          "def": "A style of slow music that began in the United States and has a sad sound.",
+          "examples": [
+            "He plays the blues on his guitar.",
+            "The band played the blues all night.",
+            "I like to listen to the blues on Sundays."
+          ]
+        }
       }
     ]
   },

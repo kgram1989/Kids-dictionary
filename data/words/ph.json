@@ -58,6 +58,35 @@
     ]
   },
   {
+    "word": "phony",
+    "say": "FOH-nee",
+    "forms": [
+      "phonier",
+      "phoniest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Fake.",
+          "examples": [
+            "The money was phony.",
+            "He gave a phony name.",
+            "The phony smile was clear."
+          ]
+        },
+        "more": {
+          "def": "Not real, and meant to trick people.",
+          "examples": [
+            "The phony money was easy to spot.",
+            "He gave a phony name at the door.",
+            "Her phony smile hid her worry."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "photo",
     "say": "FOH-toh",
     "emoji": "📷",
@@ -196,6 +225,34 @@
             "Gym class is a time for physical exercise.",
             "A broken arm is a physical injury.",
             "A rock is a physical object, but a dream is not."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "physician",
+    "say": "fih-ZISH-un",
+    "forms": [
+      "physicians"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A doctor.",
+          "examples": [
+            "The physician examined me.",
+            "A physician works in the hospital.",
+            "The physician gave advice."
+          ]
+        },
+        "more": {
+          "def": "A person who is trained to treat sick people, a doctor.",
+          "examples": [
+            "The physician examined my throat.",
+            "The family physician gave me a checkup.",
+            "The physician told her to rest."
           ]
         }
       }

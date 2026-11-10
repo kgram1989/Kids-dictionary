@@ -1,5 +1,30 @@
 [
   {
+    "word": "unable",
+    "say": "un-AY-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not able to do something.",
+          "examples": [
+            "I am unable to come.",
+            "She was unable to swim.",
+            "He is unable to see."
+          ]
+        },
+        "more": {
+          "def": "Not having the power or skill to do something.",
+          "examples": [
+            "I am unable to come to the party.",
+            "The baby is unable to walk yet.",
+            "He was unable to open the stuck door."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "unbelievable",
     "say": "un-bih-LEE-vuh-bul",
     "senses": [
@@ -148,6 +173,36 @@
             "The undercover detective watched the store.",
             "The spy worked undercover in the city.",
             "An undercover reporter learned the truth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "underestimate",
+    "say": "un-der-ES-tuh-mayt",
+    "forms": [
+      "underestimates",
+      "underestimated",
+      "underestimating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To think something is less than it really is.",
+          "examples": [
+            "Do not underestimate the dog.",
+            "I underestimated the hill.",
+            "They underestimated the cold."
+          ]
+        },
+        "more": {
+          "def": "To think that something is smaller, weaker or easier than it really is.",
+          "examples": [
+            "Do not underestimate the steepness of the hill.",
+            "I underestimated how long the walk would take.",
+            "They underestimated how cold it would be."
           ]
         }
       }
@@ -316,6 +371,93 @@
             "Mom put clean underwear in my drawer.",
             "Pack socks and underwear for the trip.",
             "He folded the underwear and put it away."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "undo",
+    "say": "un-DOO",
+    "forms": [
+      "undoes",
+      "undid",
+      "undone",
+      "undoing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To untie or open something.",
+          "examples": [
+            "I undo my shoelaces.",
+            "She undid the knot.",
+            "Undo the button."
+          ]
+        },
+        "more": {
+          "def": "To open, untie or reverse something that was done.",
+          "examples": [
+            "I undid the knot in my shoelace.",
+            "She undid the buttons on her coat.",
+            "You cannot undo a mistake, but you can learn."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "unexpected",
+    "say": "un-ik-SPEK-tid",
+    "forms": [
+      "unexpectedly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not expected.",
+          "examples": [
+            "We had an unexpected visitor.",
+            "The rain was unexpected.",
+            "An unexpected gift came."
+          ]
+        },
+        "more": {
+          "def": "Surprising, because you did not think it would happen.",
+          "examples": [
+            "We had an unexpected visit from Grandma.",
+            "The rain was unexpected, so we got wet.",
+            "An unexpected gift arrived in the mail."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "unfair",
+    "say": "un-FAIR",
+    "forms": [
+      "unfairly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not fair.",
+          "examples": [
+            "It is unfair to cheat.",
+            "The rule is unfair.",
+            "That was an unfair game."
+          ]
+        },
+        "more": {
+          "def": "Not right or equal, so that someone is treated badly.",
+          "examples": [
+            "It is unfair to cut in line.",
+            "The rule seemed unfair to the younger kids.",
+            "That was an unfair call by the referee."
           ]
         }
       }
@@ -639,6 +781,121 @@
             "We will have the picnic unless it rains.",
             "You cannot go outside unless you wear a coat.",
             "I will wait here unless you need me inside."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "unload",
+    "say": "un-LOHD",
+    "forms": [
+      "unloads",
+      "unloaded",
+      "unloading"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take things off a vehicle.",
+          "examples": [
+            "We unload the truck.",
+            "They unloaded the boxes.",
+            "Please unload the dishwasher."
+          ]
+        },
+        "more": {
+          "def": "To remove a load from a vehicle, ship or machine.",
+          "examples": [
+            "We unloaded the groceries from the car.",
+            "Workers unloaded the ship at the dock.",
+            "The crew unloaded the cargo at dawn."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "unlock",
+    "say": "un-LOK",
+    "forms": [
+      "unlocks",
+      "unlocked",
+      "unlocking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To open something with a key.",
+          "examples": [
+            "I unlock the door.",
+            "She unlocked the gate.",
+            "He unlocked the box."
+          ]
+        },
+        "more": {
+          "def": "To open a lock using a key or a code.",
+          "examples": [
+            "I unlocked the door with my key.",
+            "She unlocked the gate to let the dog out.",
+            "He unlocked the phone with a code."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "unnecessary",
+    "say": "un-NES-uh-sair-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not needed.",
+          "examples": [
+            "The extra step is unnecessary.",
+            "An unnecessary noise.",
+            "It is unnecessary to shout."
+          ]
+        },
+        "more": {
+          "def": "Not needed or not useful.",
+          "examples": [
+            "The extra step was unnecessary.",
+            "It is unnecessary to shout when I am next to you.",
+            "Wearing a coat was unnecessary on the warm day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "untie",
+    "say": "un-TY",
+    "forms": [
+      "unties",
+      "untied",
+      "untying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To open a knot.",
+          "examples": [
+            "I untie my shoes.",
+            "She untied the ribbon.",
+            "He untied the rope."
+          ]
+        },
+        "more": {
+          "def": "To loosen or undo something that was tied.",
+          "examples": [
+            "I untied the knot in my shoelace.",
+            "She untied the ribbon on the gift.",
+            "He untied the boat from the dock."
           ]
         }
       }

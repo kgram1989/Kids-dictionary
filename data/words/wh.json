@@ -1,5 +1,35 @@
 [
   {
+    "word": "whack",
+    "say": "wak",
+    "forms": [
+      "whacks",
+      "whacked",
+      "whacking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit something hard.",
+          "examples": [
+            "I whack the ball.",
+            "He whacked the pole.",
+            "She whacked the weeds."
+          ]
+        },
+        "more": {
+          "def": "To hit something with a loud, hard blow.",
+          "examples": [
+            "He whacked the ball over the fence.",
+            "She whacked the weeds with a stick.",
+            "I whacked the drum."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "whale",
     "say": "wayl",
     "emoji": "🐋",
@@ -127,6 +157,34 @@
     ]
   },
   {
+    "word": "wheelchair",
+    "say": "WEEL-chair",
+    "forms": [
+      "wheelchairs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A chair with wheels for people who cannot walk.",
+          "examples": [
+            "He uses a wheelchair.",
+            "The wheelchair rolls.",
+            "The ramp is for the wheelchair."
+          ]
+        },
+        "more": {
+          "def": "A chair with large wheels that a person who cannot walk uses to move around.",
+          "examples": [
+            "He rolls his wheelchair down the ramp.",
+            "The school has ramps for wheelchairs.",
+            "She moved her wheelchair up to the table."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "when",
     "say": "wen",
     "senses": [
@@ -215,6 +273,31 @@
             "Where does the river begin?",
             "This is the spot where we found the old coin.",
             "Do you know where the library is?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "whereabouts",
+    "say": "WAIR-uh-bowts",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The place where someone or something is.",
+          "examples": [
+            "Her whereabouts are unknown.",
+            "The dog's whereabouts is a mystery.",
+            "Do you know his whereabouts?"
+          ]
+        },
+        "more": {
+          "def": "The place where a person or thing is.",
+          "examples": [
+            "The cat's whereabouts were unknown all day.",
+            "Do you know your friend's whereabouts?",
+            "The police searched for the boy's whereabouts."
           ]
         }
       }
@@ -336,6 +419,42 @@
             "She has not played the piano in a long while."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "whine",
+    "say": "wyn",
+    "forms": [
+      "whines",
+      "whined",
+      "whining"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To complain in a high, sad voice.",
+          "examples": [
+            "The child whines.",
+            "The puppy whined.",
+            "Do not whine."
+          ]
+        },
+        "more": {
+          "def": "To make a long, high, unhappy sound, or to complain in an annoying way.",
+          "examples": [
+            "The puppy whined at the door.",
+            "The child whined about bedtime.",
+            "Please do not whine about the rain."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "whiner",
+        "def": "A person who whines."
       }
     ]
   },
@@ -610,6 +729,36 @@
             "To whom should I give this note?",
             "Whom did you invite to the party?",
             "She is the girl with whom I work."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "whoop",
+    "say": "woop",
+    "forms": [
+      "whoops",
+      "whooped",
+      "whooping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shout loudly with joy.",
+          "examples": [
+            "The kids whooped.",
+            "We whoop for joy.",
+            "They whooped and cheered."
+          ]
+        },
+        "more": {
+          "def": "To give a loud cry of joy or excitement.",
+          "examples": [
+            "The kids whooped when the bell rang.",
+            "We whooped for joy when we won.",
+            "She whooped and threw her hat in the air."
           ]
         }
       }

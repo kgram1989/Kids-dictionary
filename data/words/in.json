@@ -25,6 +25,34 @@
     ]
   },
   {
+    "word": "inappropriate",
+    "say": "in-uh-PROH-pree-it",
+    "forms": [
+      "inappropriately"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not right for the time or place.",
+          "examples": [
+            "Shouting is inappropriate in the library.",
+            "The joke was inappropriate.",
+            "That is inappropriate."
+          ]
+        },
+        "more": {
+          "def": "Not suitable for the time or place, or not proper.",
+          "examples": [
+            "Loud talk is inappropriate in a library.",
+            "The joke was inappropriate for school.",
+            "Wearing sandals was inappropriate for the hike."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "inch",
     "say": "inch",
     "emoji": "📏",
@@ -112,6 +140,109 @@
     ]
   },
   {
+    "word": "income",
+    "say": "IN-kum",
+    "forms": [
+      "incomes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money that you earn.",
+          "examples": [
+            "Her income is small.",
+            "Dad's income pays the bills.",
+            "The family has a good income."
+          ]
+        },
+        "more": {
+          "def": "The money that a person or family receives, usually from work.",
+          "examples": [
+            "Her income comes from teaching.",
+            "Her income from the farm rose this year.",
+            "The family had a small income."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "incoming",
+    "say": "IN-kum-ing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Coming in.",
+          "examples": [
+            "The incoming tide is high.",
+            "An incoming call.",
+            "The incoming mail is on the desk."
+          ]
+        },
+        "more": {
+          "def": "Coming in or arriving.",
+          "examples": [
+            "The incoming tide covered the sand.",
+            "An incoming call rang on the phone.",
+            "The incoming class has thirty students."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "increase",
+    "say": "in-KREESS",
+    "forms": [
+      "increases",
+      "increased",
+      "increasing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get bigger.",
+          "examples": [
+            "The price will increase.",
+            "The plant increased in size.",
+            "We increased the speed."
+          ]
+        },
+        "more": {
+          "def": "To become larger or to make something larger in amount or number.",
+          "examples": [
+            "The price of milk will increase next month.",
+            "The plant increased in height every week.",
+            "She increased the volume on the radio."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rise in amount.",
+          "examples": [
+            "There was an increase in price.",
+            "The increase is small.",
+            "An increase in rain."
+          ]
+        },
+        "more": {
+          "def": "A rise in size, amount or number.",
+          "examples": [
+            "There was an increase in the price of gas.",
+            "The increase in snow made the roads slippery.",
+            "We saw an increase in visitors."
+          ]
+        },
+        "say": "IN-kreess"
+      }
+    ]
+  },
+  {
     "word": "incredible",
     "say": "in-KRED-uh-bul",
     "senses": [
@@ -156,6 +287,34 @@
             "It was indeed the best day of my life.",
             "The test was hard indeed.",
             "Yes, indeed, we are ready to go."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "independent",
+    "say": "in-dih-PEN-dunt",
+    "forms": [
+      "independently"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not needing others.",
+          "examples": [
+            "I am independent.",
+            "She is an independent girl.",
+            "The independent boy tied his shoes."
+          ]
+        },
+        "more": {
+          "def": "Able to do things on your own, without help from others.",
+          "examples": [
+            "I am independent now and tie my own shoes.",
+            "She is an independent thinker.",
+            "The country became independent after many years."
           ]
         }
       }
@@ -267,6 +426,64 @@
     ]
   },
   {
+    "word": "infect",
+    "say": "in-FEKT",
+    "forms": [
+      "infects",
+      "infected",
+      "infecting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone sick with germs.",
+          "examples": [
+            "Germs infect people.",
+            "The cut got infected.",
+            "A virus infected him."
+          ]
+        },
+        "more": {
+          "def": "To pass germs to a person, animal or plant so that it becomes sick.",
+          "examples": [
+            "Germs can infect a cut.",
+            "The virus infected many people.",
+            "The cut became infected, and the doctor gave her medicine."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "infection",
+    "say": "in-FEK-shun",
+    "forms": [
+      "infections"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sickness caused by germs.",
+          "examples": [
+            "I have an ear infection.",
+            "The cut got an infection.",
+            "The infection went away."
+          ]
+        },
+        "more": {
+          "def": "A sickness that is caused by germs entering the body.",
+          "examples": [
+            "I had an ear infection and took medicine.",
+            "The cut developed an infection.",
+            "Washing your hands helps stop infection."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "influence",
     "say": "IN-floo-unss",
     "forms": [
@@ -358,6 +575,36 @@
     ]
   },
   {
+    "word": "inherit",
+    "say": "in-HAIR-it",
+    "forms": [
+      "inherits",
+      "inherited",
+      "inheriting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get something from a parent or someone who has died.",
+          "examples": [
+            "I inherited my mom's eyes.",
+            "She inherited a ring.",
+            "He will inherit the farm."
+          ]
+        },
+        "more": {
+          "def": "To receive money or things from a person who has died, or to get a trait from your parents.",
+          "examples": [
+            "I inherited my mother's curly hair.",
+            "She inherited her grandmother's ring.",
+            "He will inherit the farm one day."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "initial",
     "say": "ih-NISH-ul",
     "forms": [
@@ -399,6 +646,36 @@
             "The initial plan was to leave at nine.",
             "My initial thought was that it was a joke.",
             "The initial step is to read the directions."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "initiate",
+    "say": "ih-NISH-ee-ayt",
+    "forms": [
+      "initiates",
+      "initiated",
+      "initiating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To start.",
+          "examples": [
+            "I initiate the game.",
+            "The teacher initiated the lesson.",
+            "She initiated the plan."
+          ]
+        },
+        "more": {
+          "def": "To begin something or get it going.",
+          "examples": [
+            "The teacher initiated the new reading plan.",
+            "She initiated a recycling program at school.",
+            "Who will initiate the game?"
           ]
         }
       }
@@ -458,6 +735,118 @@
             "He had an injury to his ankle.",
             "The nurse looked at my knee injury.",
             "The injury healed after a few weeks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ink",
+    "say": "ingk",
+    "forms": [
+      "inks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Colored liquid for writing.",
+          "examples": [
+            "The pen has blue ink.",
+            "The ink is black.",
+            "I spilled ink."
+          ]
+        },
+        "more": {
+          "def": "A colored liquid that is used for writing or printing.",
+          "examples": [
+            "The pen ran out of ink.",
+            "The ink stained my fingers blue.",
+            "The printer uses black ink."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "inky",
+        "def": "Dark like ink."
+      }
+    ]
+  },
+  {
+    "word": "inn",
+    "say": "in",
+    "forms": [
+      "inns"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small hotel.",
+          "examples": [
+            "We stayed at an inn.",
+            "The inn is by the road.",
+            "The inn has six rooms."
+          ]
+        },
+        "more": {
+          "def": "A small hotel or a place where travelers can stay and eat.",
+          "examples": [
+            "We stayed the night at a cozy inn.",
+            "The inn served hot soup.",
+            "The old inn sat beside the road."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "inner",
+    "say": "IN-er",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "On the inside.",
+          "examples": [
+            "The inner room is dark.",
+            "The inner layer is soft.",
+            "The inner circle."
+          ]
+        },
+        "more": {
+          "def": "Closer to the middle, or on the inside.",
+          "examples": [
+            "The inner room has no windows.",
+            "The inner layer of the onion is soft.",
+            "The inner tube of the tire has a leak."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "innocence",
+    "say": "IN-uh-sunss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Not being guilty.",
+          "examples": [
+            "He proved his innocence.",
+            "The child's innocence was clear.",
+            "The jury believed in his innocence."
+          ]
+        },
+        "more": {
+          "def": "The state of not having done anything wrong.",
+          "examples": [
+            "He proved his innocence to the teacher.",
+            "The jury believed in her innocence.",
+            "The innocence of the child made everyone smile."
           ]
         }
       }
@@ -617,6 +1006,34 @@
     ]
   },
   {
+    "word": "inspection",
+    "say": "in-SPEK-shun",
+    "forms": [
+      "inspections"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A careful look to check something.",
+          "examples": [
+            "The car needs an inspection.",
+            "The inspection was short.",
+            "The inspection found no problems."
+          ]
+        },
+        "more": {
+          "def": "A careful check to see that something is safe or correct.",
+          "examples": [
+            "The car passed its yearly inspection.",
+            "The building inspection found no problems.",
+            "The teacher made an inspection of our desks."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "inspector",
     "say": "in-SPEK-ter",
     "forms": [
@@ -639,6 +1056,34 @@
             "The inspector checked that the new bridge was safe.",
             "A health inspector visited the restaurant kitchen.",
             "The building inspector looked at the wiring."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "inspiration",
+    "say": "in-spuh-RAY-shun",
+    "forms": [
+      "inspirations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that gives you good ideas.",
+          "examples": [
+            "Nature is her inspiration.",
+            "The story was an inspiration.",
+            "He found inspiration."
+          ]
+        },
+        "more": {
+          "def": "Something or someone that makes you want to do or make something good.",
+          "examples": [
+            "Nature is the inspiration for her paintings.",
+            "Her teacher was an inspiration to the class.",
+            "The poem came from a flash of inspiration."
           ]
         }
       }
@@ -675,6 +1120,36 @@
     ]
   },
   {
+    "word": "install",
+    "say": "in-STAWL",
+    "forms": [
+      "installs",
+      "installed",
+      "installing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put in place so it works.",
+          "examples": [
+            "Dad installed a new light.",
+            "We install the program.",
+            "They installed a new sink."
+          ]
+        },
+        "more": {
+          "def": "To put something in place and make it ready to use.",
+          "examples": [
+            "Dad installed a new light in the kitchen.",
+            "The workers installed a new sink.",
+            "I installed the game on the computer."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "instance",
     "say": "IN-stunss",
     "forms": [
@@ -697,6 +1172,53 @@
             "Can you give me an instance of a mammal?",
             "In this instance, the bus was late.",
             "Cats, for instance, like to sleep in warm places."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "instant",
+    "say": "IN-stunt",
+    "forms": [
+      "instants"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very short time.",
+          "examples": [
+            "I will be there in an instant.",
+            "The light flashed for an instant.",
+            "In an instant, it was gone."
+          ]
+        },
+        "more": {
+          "def": "A very short moment.",
+          "examples": [
+            "I will be back in an instant.",
+            "The lightning flashed for just an instant.",
+            "In an instant, the squirrel was up the tree."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happening or ready right away.",
+          "examples": [
+            "I like instant oatmeal.",
+            "The pudding is instant.",
+            "It was an instant success."
+          ]
+        },
+        "more": {
+          "def": "Happening right away, or made to be ready in a short time.",
+          "examples": [
+            "I eat instant oatmeal on busy mornings.",
+            "The magic trick was an instant hit.",
+            "Instant noodles are ready in three minutes."
           ]
         }
       }
@@ -750,6 +1272,64 @@
             "Baby turtles head for the sea by instinct.",
             "A mother bird's instinct is to protect her eggs.",
             "His instinct told him to step back."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "institution",
+    "say": "in-stih-TOO-shun",
+    "forms": [
+      "institutions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big, important organization.",
+          "examples": [
+            "A school is an institution.",
+            "The bank is an institution.",
+            "The museum is an institution."
+          ]
+        },
+        "more": {
+          "def": "A large, established organization such as a school, bank or hospital.",
+          "examples": [
+            "A university is an institution that teaches many students.",
+            "The museum is a well-known institution in our city.",
+            "Banks and hospitals are institutions."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "instruct",
+    "say": "in-STRUKT",
+    "forms": [
+      "instructs",
+      "instructed",
+      "instructing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To teach.",
+          "examples": [
+            "The coach instructed the team.",
+            "I instruct my dog.",
+            "She instructs the class."
+          ]
+        },
+        "more": {
+          "def": "To teach someone a skill or to tell someone what to do.",
+          "examples": [
+            "The coach instructed the team on how to pass.",
+            "The teacher instructed us to open our books.",
+            "She instructs the swimming class."
           ]
         }
       }
@@ -907,6 +1487,56 @@
     ]
   },
   {
+    "word": "intact",
+    "say": "in-TAKT",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Whole and not broken.",
+          "examples": [
+            "The vase is intact.",
+            "The egg is intact.",
+            "The box arrived intact."
+          ]
+        },
+        "more": {
+          "def": "Not broken, damaged or touched, still whole.",
+          "examples": [
+            "The vase was still intact after the fall.",
+            "The package arrived intact.",
+            "The old castle walls were mostly intact."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "integrity",
+    "say": "in-TEG-rih-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Doing what is right even when no one is watching.",
+          "examples": [
+            "He has integrity.",
+            "She acted with integrity.",
+            "Integrity is important."
+          ]
+        },
+        "more": {
+          "def": "The quality of being honest and having strong rules about what is right.",
+          "examples": [
+            "He is a person of integrity.",
+            "She showed integrity by telling the truth.",
+            "A good leader acts with integrity."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "intelligence",
     "say": "in-TEL-uh-junss",
     "senses": [
@@ -996,6 +1626,62 @@
     ]
   },
   {
+    "word": "intense",
+    "say": "in-TENSS",
+    "forms": [
+      "intensely"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very strong.",
+          "examples": [
+            "The heat was intense.",
+            "The pain was intense.",
+            "She felt intense joy."
+          ]
+        },
+        "more": {
+          "def": "Very strong or very serious.",
+          "examples": [
+            "The intense heat made us stay inside.",
+            "She watched the game with intense interest.",
+            "The pain was too intense to ignore."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "intent",
+    "say": "in-TENT",
+    "forms": [
+      "intents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A plan or purpose.",
+          "examples": [
+            "His intent was to help.",
+            "I had no bad intent.",
+            "The intent was kind."
+          ]
+        },
+        "more": {
+          "def": "What you mean to do, your purpose.",
+          "examples": [
+            "His intent was to help his sister.",
+            "She had no bad intent when she laughed.",
+            "The intent of the rule is to keep us safe."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "intention",
     "say": "in-TEN-shun",
     "forms": [
@@ -1020,6 +1706,42 @@
             "He had good intentions, but he spilled the milk."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "intercept",
+    "say": "in-ter-SEPT",
+    "forms": [
+      "intercepts",
+      "intercepted",
+      "intercepting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop something on its way.",
+          "examples": [
+            "The player intercepted the ball.",
+            "The guard intercepted the note.",
+            "She intercepted the pass."
+          ]
+        },
+        "more": {
+          "def": "To catch or stop someone or something before it gets where it is going.",
+          "examples": [
+            "The player intercepted the pass.",
+            "The teacher intercepted the note.",
+            "The goalie intercepted the shot."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "interceptor",
+        "def": "Something that intercepts."
       }
     ]
   },
@@ -1151,6 +1873,34 @@
             "The noise interfered with my reading.",
             "Loud music can interfere with studying.",
             "Please do not interfere when I am helping my brother."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "internal",
+    "say": "in-TER-nul",
+    "forms": [
+      "internally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Inside.",
+          "examples": [
+            "The internal parts of a clock are small.",
+            "The internal walls are thin.",
+            "The internal organs."
+          ]
+        },
+        "more": {
+          "def": "Found or happening inside something.",
+          "examples": [
+            "The internal parts of the clock are tiny.",
+            "Your heart is an internal organ.",
+            "The internal walls of the house are painted white."
           ]
         }
       }
@@ -1325,6 +2075,70 @@
     ]
   },
   {
+    "word": "invade",
+    "say": "in-VAYD",
+    "forms": [
+      "invades",
+      "invaded",
+      "invading"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To enter a place to take it over.",
+          "examples": [
+            "The army invaded the land.",
+            "Ants invaded the kitchen.",
+            "Weeds invaded the garden."
+          ]
+        },
+        "more": {
+          "def": "To enter a place by force, or to spread into a place where you are not wanted.",
+          "examples": [
+            "The army invaded the neighboring land.",
+            "Tiny bugs invaded the picnic table.",
+            "Rabbits invaded the vegetable patch and ate the lettuce."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "invader",
+        "def": "A person or thing that invades."
+      }
+    ]
+  },
+  {
+    "word": "invasion",
+    "say": "in-VAY-zhun",
+    "forms": [
+      "invasions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When an army enters a country to take it over.",
+          "examples": [
+            "The invasion began at dawn.",
+            "The people feared an invasion.",
+            "The invasion was stopped."
+          ]
+        },
+        "more": {
+          "def": "The act of entering a place by force in order to take it over.",
+          "examples": [
+            "The invasion of the castle began at dawn.",
+            "Ants carried out an invasion of the kitchen.",
+            "The people feared the invasion of their land."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "invent",
     "say": "in-VENT",
     "emoji": "💡",
@@ -1358,6 +2172,70 @@
       {
         "word": "reinvent",
         "def": "To make something again in a new way."
+      }
+    ]
+  },
+  {
+    "word": "invention",
+    "say": "in-VEN-shun",
+    "forms": [
+      "inventions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something new that someone made.",
+          "examples": [
+            "The light bulb was a great invention.",
+            "I made an invention.",
+            "The invention helps people."
+          ]
+        },
+        "more": {
+          "def": "A new thing that someone has made or thought of for the first time.",
+          "examples": [
+            "The printing press was an important invention.",
+            "She showed her class an invention that waters plants.",
+            "The invention of the wheel changed the world."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "invest",
+    "say": "in-VEST",
+    "forms": [
+      "invests",
+      "invested",
+      "investing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put money into something to make more money.",
+          "examples": [
+            "Dad invests money.",
+            "She invested her savings.",
+            "He invested in a farm."
+          ]
+        },
+        "more": {
+          "def": "To put money or time into something hoping it will grow or pay off.",
+          "examples": [
+            "Dad invested some money in a small business.",
+            "She invested her savings in a new bike shop.",
+            "I invest time in practice to get better."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "investment",
+        "def": "Money put into something."
       }
     ]
   },
@@ -1414,6 +2292,34 @@
             "The police began an investigation of the lost bike.",
             "Scientists carried out an investigation of the old tree.",
             "The investigation took three days."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "investigator",
+    "say": "in-VES-tih-gay-ter",
+    "forms": [
+      "investigators"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who looks for facts about something.",
+          "examples": [
+            "The investigator looked for clues.",
+            "An investigator came.",
+            "The investigator took notes."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to find out the facts about something.",
+          "examples": [
+            "The investigator looked for clues at the scene.",
+            "A fire investigator found the cause.",
+            "The investigator wrote down every detail."
           ]
         }
       }

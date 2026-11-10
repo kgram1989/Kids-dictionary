@@ -131,6 +131,34 @@
     ]
   },
   {
+    "word": "saddle",
+    "say": "SAD-ul",
+    "forms": [
+      "saddles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A seat on a horse or a bike.",
+          "examples": [
+            "The rider sat in the saddle.",
+            "The saddle is leather.",
+            "I put the saddle on the horse."
+          ]
+        },
+        "more": {
+          "def": "A seat for a rider on a horse, or on a bicycle.",
+          "examples": [
+            "The rider climbed into the saddle.",
+            "The saddle on my bike is too high.",
+            "She tightened the horse's saddle."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "safe",
     "say": "sayf",
     "emoji": "🛡️",
@@ -447,6 +475,32 @@
     ]
   },
   {
+    "word": "salmon",
+    "say": "SAM-un",
+    "emoji": "🐟",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large fish that swims up rivers.",
+          "examples": [
+            "The salmon swims upstream.",
+            "We ate salmon.",
+            "A salmon jumped."
+          ]
+        },
+        "more": {
+          "def": "A large fish that is pink inside and swims from the sea up rivers to lay eggs.",
+          "examples": [
+            "The salmon swam upstream to lay its eggs.",
+            "We had grilled salmon for dinner.",
+            "Bears catch salmon in the river."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "salt",
     "say": "sawlt",
     "emoji": "🧂",
@@ -472,6 +526,36 @@
             "She sprinkled salt on the popcorn.",
             "Ocean water is full of salt.",
             "Add a pinch of salt to the soup."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "salute",
+    "say": "suh-LOOT",
+    "forms": [
+      "salutes",
+      "saluted",
+      "saluting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To show respect with a hand movement.",
+          "examples": [
+            "The soldier saluted.",
+            "I salute the flag.",
+            "He saluted the captain."
+          ]
+        },
+        "more": {
+          "def": "To raise your hand to your forehead to show respect.",
+          "examples": [
+            "The soldiers saluted the flag.",
+            "He saluted the captain as she walked by.",
+            "The scouts saluted at the ceremony."
           ]
         }
       }
@@ -591,6 +675,37 @@
     ]
   },
   {
+    "word": "satisfaction",
+    "say": "sat-iss-FAK-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A happy feeling when you have what you want.",
+          "examples": [
+            "I felt satisfaction when I finished.",
+            "She smiled with satisfaction.",
+            "He took satisfaction in his work."
+          ]
+        },
+        "more": {
+          "def": "A pleased feeling that you get when you have done well or have what you need.",
+          "examples": [
+            "I felt satisfaction when I finished the puzzle.",
+            "She smiled with satisfaction after a good meal.",
+            "He took satisfaction in a job well done."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "dissatisfaction",
+        "def": "Not being satisfied."
+      }
+    ]
+  },
+  {
     "word": "satisfied",
     "say": "SAT-iss-fyd",
     "senses": [
@@ -610,6 +725,36 @@
             "I am satisfied with my score.",
             "She felt satisfied after a big dinner.",
             "The customer was satisfied with the new shoes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "satisfy",
+    "say": "SAT-iss-fy",
+    "forms": [
+      "satisfies",
+      "satisfied",
+      "satisfying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give someone what they need.",
+          "examples": [
+            "The snack satisfied me.",
+            "The meal will satisfy us.",
+            "She satisfied her hunger."
+          ]
+        },
+        "more": {
+          "def": "To give someone enough of what they want or need so that they are content.",
+          "examples": [
+            "A big sandwich will satisfy my hunger.",
+            "The answer did not satisfy the teacher.",
+            "The meal satisfied everyone."
           ]
         }
       }
@@ -667,6 +812,35 @@
             "Mom poured tomato sauce on the spaghetti.",
             "The pizza had a lot of cheese and sauce.",
             "Dip your fries in the sauce."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sausage",
+    "say": "SAW-sij",
+    "emoji": "🌭",
+    "forms": [
+      "sausages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tube of seasoned chopped meat.",
+          "examples": [
+            "I eat a sausage.",
+            "The sausage is hot.",
+            "We had sausages for breakfast."
+          ]
+        },
+        "more": {
+          "def": "A food made of chopped meat and spices that are packed into a tube-shaped skin.",
+          "examples": [
+            "I had a sausage for breakfast.",
+            "The sausages sizzled on the grill.",
+            "He sliced the sausage into rounds."
           ]
         }
       }
@@ -744,6 +918,31 @@
             "I am saving my coins to buy a new bike.",
             "Save some cake for your sister.",
             "We saved the leftover soup for lunch tomorrow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "savings",
+    "say": "SAY-vingz",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money you keep and do not spend.",
+          "examples": [
+            "I put it in my savings.",
+            "The savings are in the bank.",
+            "Her savings are growing."
+          ]
+        },
+        "more": {
+          "def": "Money that you have put away and not spent.",
+          "examples": [
+            "I put my allowance in my savings.",
+            "The savings are in a jar.",
+            "She used her savings to buy a bike."
           ]
         }
       }

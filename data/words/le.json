@@ -205,6 +205,37 @@
     ]
   },
   {
+    "word": "leap",
+    "say": "leep",
+    "forms": [
+      "leaps",
+      "leaped",
+      "leapt",
+      "leaping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To jump high or far.",
+          "examples": [
+            "The frog leaps.",
+            "I leaped over the puddle.",
+            "The deer leapt the fence."
+          ]
+        },
+        "more": {
+          "def": "To jump a long way or high into the air.",
+          "examples": [
+            "The frog leaped from rock to rock.",
+            "The deer leapt over the fence.",
+            "The cat leaped onto the shelf."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "learn",
     "say": "lern",
     "emoji": "📚",
@@ -533,6 +564,92 @@
       {
         "word": "lender",
         "def": "A person who lends something."
+      }
+    ]
+  },
+  {
+    "word": "length",
+    "say": "length",
+    "emoji": "📏",
+    "forms": [
+      "lengths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How long something is.",
+          "examples": [
+            "The length of the table is six feet.",
+            "Measure the length.",
+            "The length is five inches."
+          ]
+        },
+        "more": {
+          "def": "The distance from one end of something to the other.",
+          "examples": [
+            "The length of the whale was nearly ninety feet.",
+            "We measured the length of the room.",
+            "The pool is fifty meters in length."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lens",
+    "say": "lenz",
+    "forms": [
+      "lenses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A curved piece of glass that bends light.",
+          "examples": [
+            "The lens is round.",
+            "I looked through the lens.",
+            "The camera has a lens."
+          ]
+        },
+        "more": {
+          "def": "A curved piece of glass or plastic that bends light, used in cameras and glasses.",
+          "examples": [
+            "I looked at the ant through a lens.",
+            "The camera has a zoom lens.",
+            "His glasses have thick lenses."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "leopard",
+    "say": "LEP-erd",
+    "emoji": "🐆",
+    "forms": [
+      "leopards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big wild cat with spots.",
+          "examples": [
+            "The leopard has spots.",
+            "A leopard climbed the tree.",
+            "The leopard hid."
+          ]
+        },
+        "more": {
+          "def": "A large wild cat with a yellow coat and dark spots that is a good climber.",
+          "examples": [
+            "The leopard climbed the tree with its prey.",
+            "A leopard's spots help it hide in the grass.",
+            "The leopard crept silently through the bushes."
+          ]
+        }
       }
     ]
   },

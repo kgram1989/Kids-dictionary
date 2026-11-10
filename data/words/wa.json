@@ -272,6 +272,36 @@
     ]
   },
   {
+    "word": "waltz",
+    "say": "wawlts",
+    "forms": [
+      "waltzes",
+      "waltzed",
+      "waltzing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A graceful dance in three beats.",
+          "examples": [
+            "They danced a waltz.",
+            "The waltz is slow.",
+            "The waltz is pretty."
+          ]
+        },
+        "more": {
+          "def": "A smooth, gliding dance with a beat of three counts.",
+          "examples": [
+            "They danced a waltz at the party.",
+            "The orchestra played a slow waltz.",
+            "The waltz has a rhythm of one, two, three."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wander",
     "say": "WON-der",
     "forms": [
@@ -410,6 +440,62 @@
             "The warden looked after the nature reserve.",
             "A game warden checked fishing permits.",
             "The warden counted the birds."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wardrobe",
+    "say": "WORD-rohb",
+    "forms": [
+      "wardrobes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tall cupboard for clothes.",
+          "examples": [
+            "My clothes are in the wardrobe.",
+            "The wardrobe is big.",
+            "The wardrobe door creaks."
+          ]
+        },
+        "more": {
+          "def": "A tall cupboard in which you hang your clothes, or all the clothes you own.",
+          "examples": [
+            "My coats hang in the wardrobe.",
+            "The wardrobe door creaked open.",
+            "She has a large wardrobe of winter clothes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "warehouse",
+    "say": "WAIR-hows",
+    "forms": [
+      "warehouses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big building for storing things.",
+          "examples": [
+            "The boxes are in the warehouse.",
+            "The warehouse is huge.",
+            "The truck went to the warehouse."
+          ]
+        },
+        "more": {
+          "def": "A large building where goods are stored before they are sold.",
+          "examples": [
+            "The boxes were stored in a warehouse.",
+            "Trucks lined up at the warehouse.",
+            "The warehouse was full of toys."
           ]
         }
       }
@@ -789,6 +875,42 @@
             "He waved a flag at the parade."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "wax",
+    "say": "waks",
+    "forms": [
+      "waxes",
+      "waxed",
+      "waxing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft stuff that candles are made of.",
+          "examples": [
+            "The candle is made of wax.",
+            "The wax melted.",
+            "I polished the floor with wax."
+          ]
+        },
+        "more": {
+          "def": "A soft, oily substance that melts easily and is used for candles and polish.",
+          "examples": [
+            "The candle was made of wax.",
+            "The hot wax dripped onto the plate.",
+            "Dad rubbed wax on the car."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "waxy",
+        "def": "Like wax."
       }
     ]
   },

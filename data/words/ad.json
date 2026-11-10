@@ -78,6 +78,53 @@
     ]
   },
   {
+    "word": "addition",
+    "say": "uh-DISH-un",
+    "forms": [
+      "additions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Putting numbers together.",
+          "examples": [
+            "We learned addition.",
+            "Addition is adding.",
+            "Two plus two is addition."
+          ]
+        },
+        "more": {
+          "def": "The math process of finding the total of two or more numbers.",
+          "examples": [
+            "We learned addition in first grade.",
+            "Addition is the opposite of subtraction.",
+            "I am good at addition."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that is added.",
+          "examples": [
+            "The baby is a new addition to the family.",
+            "A new room is an addition.",
+            "The pool is an addition."
+          ]
+        },
+        "more": {
+          "def": "Something that is added to what is already there.",
+          "examples": [
+            "The baby is a new addition to our family.",
+            "A new room was an addition to the house.",
+            "The puppy is a happy addition to our home."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "address",
     "say": "uh-DRESS",
     "emoji": "✉️",
@@ -124,6 +171,42 @@
             "She addressed the audience from the stage."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "adjust",
+    "say": "uh-JUST",
+    "forms": [
+      "adjusts",
+      "adjusted",
+      "adjusting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To change a little to make it better.",
+          "examples": [
+            "I adjust my seat.",
+            "She adjusted her hat.",
+            "He adjusted the volume."
+          ]
+        },
+        "more": {
+          "def": "To change something slightly so that it fits or works better.",
+          "examples": [
+            "I adjusted my seat in the car.",
+            "She adjusted the straps on her backpack.",
+            "He adjusted the volume on the radio."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "adjustable",
+        "def": "Able to be changed."
       }
     ]
   },
@@ -271,6 +354,34 @@
     ]
   },
   {
+    "word": "adorable",
+    "say": "uh-DOR-uh-bul",
+    "forms": [
+      "adorably"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "So cute that you love it.",
+          "examples": [
+            "The puppy is adorable.",
+            "The baby is adorable.",
+            "The kittens are adorable."
+          ]
+        },
+        "more": {
+          "def": "Very cute and lovable.",
+          "examples": [
+            "The puppy was adorable in its little sweater.",
+            "The baby giggled in an adorable way.",
+            "The kittens looked adorable curled up together."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "adore",
     "say": "uh-DOR",
     "forms": [
@@ -385,6 +496,31 @@
     ]
   },
   {
+    "word": "advanced",
+    "say": "ud-VANST",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Far along, or more difficult.",
+          "examples": [
+            "She is in the advanced class.",
+            "The advanced book is hard.",
+            "He has advanced skills."
+          ]
+        },
+        "more": {
+          "def": "Beyond the beginning, more difficult or more modern.",
+          "examples": [
+            "She is in the advanced reading group.",
+            "The advanced class studies harder math.",
+            "The advanced machine can do many jobs."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "advantage",
     "say": "ad-VAN-tij",
     "forms": [
@@ -444,6 +580,31 @@
       {
         "word": "misadventure",
         "def": "An adventure that goes wrong."
+      }
+    ]
+  },
+  {
+    "word": "advertising",
+    "say": "AD-ver-ty-zing",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Telling people about things to buy.",
+          "examples": [
+            "Advertising is on TV.",
+            "The store uses advertising.",
+            "Advertising helps sell things."
+          ]
+        },
+        "more": {
+          "def": "The business of making notices that try to get people to buy things.",
+          "examples": [
+            "Advertising on TV tries to sell us toys.",
+            "The store spent money on advertising.",
+            "Her job is in advertising."
+          ]
+        }
       }
     ]
   },

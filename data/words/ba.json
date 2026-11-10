@@ -156,6 +156,34 @@
     ]
   },
   {
+    "word": "backyard",
+    "say": "BAK-yard",
+    "forms": [
+      "backyards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The area behind a house.",
+          "examples": [
+            "We play in the backyard.",
+            "The backyard has a swing.",
+            "The dog is in the backyard."
+          ]
+        },
+        "more": {
+          "def": "The yard at the back of a house.",
+          "examples": [
+            "We play in the backyard after school.",
+            "The backyard has a tall oak tree.",
+            "Dad grilled burgers in the backyard."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bacon",
     "say": "BAY-kun",
     "emoji": "🥓",
@@ -290,6 +318,31 @@
     ]
   },
   {
+    "word": "baggage",
+    "say": "BAG-ij",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Bags for a trip.",
+          "examples": [
+            "We picked up our baggage.",
+            "The baggage is heavy.",
+            "The baggage was lost."
+          ]
+        },
+        "more": {
+          "def": "The suitcases and bags that you take with you when you travel.",
+          "examples": [
+            "We picked up our baggage at the airport.",
+            "The baggage was loaded onto the plane.",
+            "She checked her baggage at the counter."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bail",
     "say": "bayl",
     "forms": [
@@ -314,6 +367,67 @@
             "We bailed water out of the little boat with a pail.",
             "The sailors bailed all night to keep afloat.",
             "She bailed the rain from the canoe."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bait",
+    "say": "bayt",
+    "forms": [
+      "baits",
+      "baited",
+      "baiting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Food used to catch fish or animals.",
+          "examples": [
+            "I put bait on the hook.",
+            "The bait is a worm.",
+            "The fish ate the bait."
+          ]
+        },
+        "more": {
+          "def": "Food or something tasty that is used to attract and catch fish or animals.",
+          "examples": [
+            "I put a worm on the hook as bait.",
+            "The fish took the bait.",
+            "The trap had cheese for bait."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bake",
+    "say": "bayk",
+    "emoji": "🍞",
+    "forms": [
+      "bakes",
+      "baked",
+      "baking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cook in an oven.",
+          "examples": [
+            "I bake cookies.",
+            "Mom baked a cake.",
+            "We bake bread."
+          ]
+        },
+        "more": {
+          "def": "To cook food in an oven using dry heat.",
+          "examples": [
+            "I bake cookies with my mom.",
+            "Dad baked a loaf of bread.",
+            "The pie baked for an hour."
           ]
         }
       }
@@ -351,6 +465,69 @@
     ]
   },
   {
+    "word": "balcony",
+    "say": "BAL-kuh-nee",
+    "forms": [
+      "balconies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small platform on the outside of a building.",
+          "examples": [
+            "We sat on the balcony.",
+            "The balcony has plants.",
+            "The balcony is high."
+          ]
+        },
+        "more": {
+          "def": "A platform that sticks out from the wall of a building, with a rail around it.",
+          "examples": [
+            "We ate dinner on the balcony.",
+            "Plants hung from the balcony.",
+            "She waved from the balcony."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bald",
+    "say": "bawld",
+    "forms": [
+      "balder",
+      "baldest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having no hair on the head.",
+          "examples": [
+            "Grandpa is bald.",
+            "The baby is bald.",
+            "A bald eagle."
+          ]
+        },
+        "more": {
+          "def": "Having little or no hair on the head.",
+          "examples": [
+            "Grandpa is bald on top.",
+            "The baby was bald when he was born.",
+            "The bald eagle has white feathers on its head."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "baldness",
+        "def": "Having no hair."
+      }
+    ]
+  },
+  {
     "word": "ball",
     "say": "bawl",
     "emoji": "⚽",
@@ -380,6 +557,35 @@
     ]
   },
   {
+    "word": "ballet",
+    "say": "bal-AY",
+    "emoji": "🩰",
+    "forms": [
+      "ballets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind of dance with graceful moves.",
+          "examples": [
+            "I take ballet.",
+            "The ballet is on stage.",
+            "She loves ballet."
+          ]
+        },
+        "more": {
+          "def": "A type of graceful dance that tells a story with music, often on tiptoe.",
+          "examples": [
+            "I take ballet lessons on Saturdays.",
+            "We saw a ballet about a swan.",
+            "The ballet dancers moved gracefully."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "balloon",
     "say": "buh-LOON",
     "emoji": "🎈",
@@ -403,6 +609,36 @@
             "I blew up a red balloon for the party.",
             "The balloon floated up to the ceiling.",
             "A hot air balloon rose over the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ban",
+    "say": "ban",
+    "forms": [
+      "bans",
+      "banned",
+      "banning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not allow.",
+          "examples": [
+            "The school banned gum.",
+            "They ban cars.",
+            "The park bans dogs."
+          ]
+        },
+        "more": {
+          "def": "To say officially that something is not allowed.",
+          "examples": [
+            "The school banned gum in class.",
+            "The town banned cars from the square.",
+            "The pool bans running."
           ]
         }
       }
@@ -480,6 +716,63 @@
             "She put a rubber band around the papers.",
             "The gift had a red band around it.",
             "A ring is a band of gold."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bandage",
+    "say": "BAN-dij",
+    "emoji": "🩹",
+    "forms": [
+      "bandages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strip of cloth that covers a cut.",
+          "examples": [
+            "I have a bandage on my knee.",
+            "The bandage is white.",
+            "Mom put on a bandage."
+          ]
+        },
+        "more": {
+          "def": "A strip of cloth or tape that is put over a wound to protect it.",
+          "examples": [
+            "The doctor wrapped a clean bandage around her sprained wrist.",
+            "The nurse wrapped a bandage around his wrist.",
+            "Mom put a bandage on the cut."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bandit",
+    "say": "BAN-dit",
+    "forms": [
+      "bandits"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A robber in stories.",
+          "examples": [
+            "The bandit hid in the woods.",
+            "A bandit stole the gold.",
+            "The bandit wore a mask."
+          ]
+        },
+        "more": {
+          "def": "A robber, especially one who lives outside the law in stories about the Old West.",
+          "examples": [
+            "The bandit hid in the canyon.",
+            "In the story, a bandit stole the gold.",
+            "The bandit wore a mask and a big hat."
           ]
         }
       }
@@ -583,6 +876,62 @@
     ]
   },
   {
+    "word": "banker",
+    "say": "BANG-ker",
+    "forms": [
+      "bankers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who works in a bank.",
+          "examples": [
+            "The banker helped us.",
+            "A banker works with money.",
+            "My aunt is a banker."
+          ]
+        },
+        "more": {
+          "def": "A person who works at a bank or runs one.",
+          "examples": [
+            "The banker helped us open an account.",
+            "My aunt is a banker in the city.",
+            "The banker counted the money."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "banner",
+    "say": "BAN-er",
+    "forms": [
+      "banners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long flag or sign.",
+          "examples": [
+            "The banner said \"Welcome.\"",
+            "A banner hung above the stage.",
+            "The banner is red."
+          ]
+        },
+        "more": {
+          "def": "A long strip of cloth with words or a picture, hung up for people to see.",
+          "examples": [
+            "The banner said \"Welcome Home.\"",
+            "A banner hung across the gym.",
+            "The class painted a banner for the parade."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bar",
     "say": "bar",
     "forms": [
@@ -605,6 +954,65 @@
             "A metal bar held the gate shut.",
             "She washed her hands with a bar of soap.",
             "He ate a granola bar for a snack."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "barbecue",
+    "say": "BAR-buh-kyoo",
+    "emoji": "🍖",
+    "forms": [
+      "barbecues"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A meal cooked outside on a grill.",
+          "examples": [
+            "We had a barbecue.",
+            "The barbecue was fun.",
+            "Dad lit the barbecue."
+          ]
+        },
+        "more": {
+          "def": "A meal or party where food is cooked on a grill outdoors.",
+          "examples": [
+            "We had a barbecue in the backyard.",
+            "Dad cooked burgers at the barbecue.",
+            "The neighbors came to our summer barbecue."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bare",
+    "say": "bair",
+    "forms": [
+      "barer",
+      "barest",
+      "barely"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not covered.",
+          "examples": [
+            "I walked on bare feet.",
+            "The tree is bare.",
+            "The room has bare walls."
+          ]
+        },
+        "more": {
+          "def": "Not covered by clothes or anything else, or empty.",
+          "examples": [
+            "We ran on the beach in bare feet.",
+            "The tree was bare in winter.",
+            "The bare walls needed pictures."
           ]
         }
       }
@@ -677,6 +1085,34 @@
             "We made a bargain that I would do the dishes if he took out the trash.",
             "They kept their bargain.",
             "The two friends made a bargain to share the toy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "barge",
+    "say": "barj",
+    "forms": [
+      "barges"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wide, flat boat for carrying loads.",
+          "examples": [
+            "The barge carried sand.",
+            "The barge floats on the river.",
+            "The barge is slow."
+          ]
+        },
+        "more": {
+          "def": "A long, flat-bottomed boat that carries heavy loads on rivers and canals.",
+          "examples": [
+            "The barge carried sand down the river.",
+            "A tug pulled the barge under the bridge.",
+            "The barge was loaded with coal."
           ]
         }
       }
@@ -986,6 +1422,54 @@
     ]
   },
   {
+    "word": "bass",
+    "say": "bays",
+    "forms": [
+      "basses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The lowest singing voice or musical sound.",
+          "examples": [
+            "He sings bass.",
+            "The bass is deep.",
+            "I hear the bass."
+          ]
+        },
+        "more": {
+          "def": "The lowest kind of singing voice or the deepest sounds in music.",
+          "examples": [
+            "He sings bass in the choir.",
+            "The bass of the drum made the floor shake.",
+            "The song had a strong, deep bass."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A type of fish.",
+          "examples": [
+            "I caught a bass.",
+            "The bass is in the lake.",
+            "The bass is big."
+          ]
+        },
+        "more": {
+          "def": "A kind of fish that lives in lakes and the sea.",
+          "examples": [
+            "I caught a bass in the lake.",
+            "The bass swam under the dock.",
+            "We had grilled bass for dinner."
+          ]
+        },
+        "say": "bas"
+      }
+    ]
+  },
+  {
     "word": "bat",
     "say": "bat",
     "emoji": "🦇",
@@ -1083,6 +1567,31 @@
     ]
   },
   {
+    "word": "bathing",
+    "say": "BAY-thing",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Washing your body.",
+          "examples": [
+            "Bathing keeps you clean.",
+            "The baby loves bathing.",
+            "Bathing is a daily habit."
+          ]
+        },
+        "more": {
+          "def": "The act of washing yourself in a tub or in water.",
+          "examples": [
+            "Bathing keeps your skin clean.",
+            "The baby loves bathing and splashing.",
+            "The sign said no bathing in the pond."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bathroom",
     "say": "BATH-room",
     "forms": [
@@ -1105,6 +1614,35 @@
             "The bathroom is at the end of the hall.",
             "She washed her hands in the bathroom.",
             "Our school has a bathroom on every floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bathtub",
+    "say": "BATH-tub",
+    "emoji": "🛁",
+    "forms": [
+      "bathtubs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big tub for washing your body.",
+          "examples": [
+            "I sit in the bathtub.",
+            "The bathtub is full.",
+            "The bathtub has bubbles."
+          ]
+        },
+        "more": {
+          "def": "A large container in a bathroom that you fill with water to wash in.",
+          "examples": [
+            "I filled the bathtub with warm water.",
+            "The bathtub was full of bubbles.",
+            "The rubber duck floated in the bathtub."
           ]
         }
       }

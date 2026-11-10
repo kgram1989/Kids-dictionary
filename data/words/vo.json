@@ -59,6 +59,72 @@
     ]
   },
   {
+    "word": "volume",
+    "say": "VOL-yoom",
+    "forms": [
+      "volumes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How loud a sound is.",
+          "examples": [
+            "Turn down the volume.",
+            "The volume is loud.",
+            "The radio's volume is low."
+          ]
+        },
+        "more": {
+          "def": "How loud or quiet a sound is.",
+          "examples": [
+            "Turn down the volume of the TV.",
+            "The volume on the radio was too high.",
+            "The teacher asked us to lower our volume."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How much space something fills.",
+          "examples": [
+            "The volume of the tank is large.",
+            "The cup's volume is one cup.",
+            "Find the volume."
+          ]
+        },
+        "more": {
+          "def": "The amount of space that something takes up or holds.",
+          "examples": [
+            "The volume of the tank is fifty gallons.",
+            "We measured the volume of water in the cup.",
+            "The box has a large volume."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A book.",
+          "examples": [
+            "I read the first volume.",
+            "The set has ten volumes.",
+            "The library has old volumes."
+          ]
+        },
+        "more": {
+          "def": "One book in a set, or a book.",
+          "examples": [
+            "I read the first volume of the series.",
+            "The scientist kept a volume of notes.",
+            "The library has old volumes of the news."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "volunteer",
     "say": "vol-un-TEER",
     "forms": [
@@ -102,6 +168,36 @@
             "He volunteered to carry the heavy bags.",
             "She volunteers at the animal shelter on Saturdays.",
             "I volunteered to clean the board."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vomit",
+    "say": "VOM-it",
+    "forms": [
+      "vomits",
+      "vomited",
+      "vomiting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To throw up food from your stomach.",
+          "examples": [
+            "I felt sick and vomited.",
+            "The dog vomited.",
+            "He vomited."
+          ]
+        },
+        "more": {
+          "def": "To bring up food from your stomach through your mouth.",
+          "examples": [
+            "The baby vomited after drinking too fast.",
+            "I felt sick and almost vomited.",
+            "The dog vomited on the rug."
           ]
         }
       }

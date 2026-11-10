@@ -216,6 +216,64 @@
     ]
   },
   {
+    "word": "tease",
+    "say": "teez",
+    "forms": [
+      "teases",
+      "teased",
+      "teasing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make fun of someone in a playful or unkind way.",
+          "examples": [
+            "Do not tease the cat.",
+            "He teased his sister.",
+            "They teased me about my hat."
+          ]
+        },
+        "more": {
+          "def": "To say things to make fun of someone, either as a joke or to be unkind.",
+          "examples": [
+            "My brother teased me about my new haircut.",
+            "It is not nice to tease someone who is shy.",
+            "Friends tease each other, but they should stop if someone is hurt."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "technical",
+    "say": "TEK-nih-kul",
+    "forms": [
+      "technically"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with machines and how they work.",
+          "examples": [
+            "The technical book is hard.",
+            "The technical team fixed it.",
+            "She has technical skills."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the special parts and skills of a machine or subject.",
+          "examples": [
+            "The technical manual was hard to read.",
+            "The technical team fixed the computer.",
+            "She has the technical skills to build a robot."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "technology",
     "say": "tek-NOL-uh-jee",
     "emoji": "💻",
@@ -245,6 +303,34 @@
     ]
   },
   {
+    "word": "teenage",
+    "say": "TEEN-ayj",
+    "forms": [
+      "teenaged"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with teenagers.",
+          "examples": [
+            "The teenage boy ran.",
+            "A teenage girl helped.",
+            "My brother is a teenage boy."
+          ]
+        },
+        "more": {
+          "def": "Aged between thirteen and nineteen, or having to do with people of that age.",
+          "examples": [
+            "A teenage boy mowed our lawn.",
+            "The teenage girls played volleyball.",
+            "The store has a section for teenage clothes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "teenager",
     "say": "TEEN-ay-jer",
     "forms": [
@@ -267,6 +353,34 @@
             "My cousin is a teenager and goes to high school.",
             "A teenager babysits for our neighbors.",
             "The teenagers played basketball in the park."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "telegram",
+    "say": "TEL-uh-gram",
+    "forms": [
+      "telegrams"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A message sent long ago by wire.",
+          "examples": [
+            "The telegram arrived.",
+            "He sent a telegram.",
+            "A telegram came with news."
+          ]
+        },
+        "more": {
+          "def": "A message that was sent by wire and printed out at the other end, used long ago.",
+          "examples": [
+            "A telegram arrived with the news.",
+            "Long ago, people sent a telegram to share news fast.",
+            "The telegram was only five words long."
           ]
         }
       }
@@ -523,6 +637,36 @@
     ]
   },
   {
+    "word": "tempt",
+    "say": "tempt",
+    "forms": [
+      "tempts",
+      "tempted",
+      "tempting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone want to do something.",
+          "examples": [
+            "The cookies tempt me.",
+            "The smell tempted her.",
+            "I was tempted to peek."
+          ]
+        },
+        "more": {
+          "def": "To make someone want something, especially something they should not have.",
+          "examples": [
+            "The smell of cookies tempted me.",
+            "She was tempted to peek at the gift.",
+            "The sunny day tempted us to skip homework."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ten",
     "say": "ten",
     "emoji": "🔟",
@@ -579,6 +723,34 @@
     ]
   },
   {
+    "word": "tender",
+    "say": "TEN-der",
+    "forms": [
+      "tenderly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Soft and easy to chew.",
+          "examples": [
+            "The meat is tender.",
+            "The tender carrots are cooked.",
+            "The beans are tender."
+          ]
+        },
+        "more": {
+          "def": "Soft and easy to cut or chew, or gentle and loving.",
+          "examples": [
+            "The roast was so tender that it fell apart.",
+            "She gave the baby a tender hug.",
+            "My sore arm is tender to touch."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tennis",
     "say": "TEN-iss",
     "emoji": "🎾",
@@ -599,6 +771,82 @@
             "I play tennis on Saturdays.",
             "The tennis ball bounced over the net.",
             "They won the tennis match."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tense",
+    "say": "tenss",
+    "forms": [
+      "tenser",
+      "tensest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Nervous and tight.",
+          "examples": [
+            "I felt tense before the test.",
+            "The room was tense.",
+            "His muscles were tense."
+          ]
+        },
+        "more": {
+          "def": "Feeling nervous or worried, or stretched tight.",
+          "examples": [
+            "I felt tense before the big game.",
+            "The tense silence filled the room.",
+            "His shoulders were tense."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The form of a verb that shows time.",
+          "examples": [
+            "\"Walked\" is past tense.",
+            "Use the present tense.",
+            "The verb is in the past tense."
+          ]
+        },
+        "more": {
+          "def": "The form of a verb that shows when something happens.",
+          "examples": [
+            "\"Walked\" is the past tense of \"walk.\"",
+            "Write the story in the present tense.",
+            "The teacher explained the future tense."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tension",
+    "say": "TEN-shun",
+    "forms": [
+      "tensions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tight, nervous feeling.",
+          "examples": [
+            "There was tension before the test.",
+            "The tension grew.",
+            "The tension in the room was high."
+          ]
+        },
+        "more": {
+          "def": "A tight, uneasy feeling that you have when you are worried or waiting.",
+          "examples": [
+            "There was tension in the room before the test.",
+            "The tension grew as the game went on.",
+            "A joke eased the tension."
           ]
         }
       }
@@ -681,6 +929,53 @@
     ]
   },
   {
+    "word": "terminal",
+    "say": "TER-mih-nul",
+    "forms": [
+      "terminals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A station at the end of a line.",
+          "examples": [
+            "The bus terminal is busy.",
+            "We waited at the terminal.",
+            "The airport terminal is big."
+          ]
+        },
+        "more": {
+          "def": "A building where buses, trains or planes begin or end their trips.",
+          "examples": [
+            "We waited at the bus terminal.",
+            "The airport terminal was full of travelers.",
+            "The train arrived at the terminal."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A computer screen and keyboard.",
+          "examples": [
+            "I typed at the terminal.",
+            "The terminal is on.",
+            "The librarian used a terminal."
+          ]
+        },
+        "more": {
+          "def": "A screen and keyboard that you use to work with a computer.",
+          "examples": [
+            "The librarian typed at the terminal.",
+            "I looked up the book on a terminal.",
+            "The terminal showed a list of names."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "terrible",
     "say": "TAIR-uh-bul",
     "senses": [
@@ -731,6 +1026,31 @@
     ]
   },
   {
+    "word": "terrified",
+    "say": "TAIR-ih-fyd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very, very scared.",
+          "examples": [
+            "The kitten was terrified.",
+            "I was terrified of the dark.",
+            "She was terrified of thunder."
+          ]
+        },
+        "more": {
+          "def": "Extremely frightened.",
+          "examples": [
+            "The kitten was terrified by the loud noise.",
+            "He was terrified of the big dog.",
+            "The little girl felt terrified during the storm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "territory",
     "say": "TAIR-ih-tor-ee",
     "forms": [
@@ -753,6 +1073,34 @@
             "The lion protected its territory.",
             "The explorers entered new territory.",
             "Each wolf pack has its own territory."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "terror",
+    "say": "TAIR-er",
+    "forms": [
+      "terrors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Very great fear.",
+          "examples": [
+            "The child screamed in terror.",
+            "She felt terror.",
+            "The terror passed."
+          ]
+        },
+        "more": {
+          "def": "A feeling of very great fear.",
+          "examples": [
+            "The child screamed in terror at the thunder.",
+            "She froze in terror when she saw the snake.",
+            "The terror faded when the lights came on."
           ]
         }
       }
@@ -867,6 +1215,53 @@
             "The witness gave her testimony in court.",
             "His testimony helped the judge decide.",
             "Her testimony was calm and clear."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "text",
+    "say": "tekst",
+    "forms": [
+      "texts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The words in a book or on a page.",
+          "examples": [
+            "Read the text.",
+            "The text is small.",
+            "The text is on the screen."
+          ]
+        },
+        "more": {
+          "def": "The written words in a book, on a page or on a screen.",
+          "examples": [
+            "Read the text of the story aloud.",
+            "The text on the sign was tiny.",
+            "The book has more pictures than text."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short message on a phone.",
+          "examples": [
+            "I got a text from Mom.",
+            "Send a text.",
+            "The text said \"Hello.\""
+          ]
+        },
+        "more": {
+          "def": "A short written message that you send on a phone.",
+          "examples": [
+            "I sent a text to my dad.",
+            "The text said that she would be late.",
+            "I got a text from my friend."
           ]
         }
       }

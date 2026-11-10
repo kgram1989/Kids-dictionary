@@ -81,6 +81,34 @@
     ]
   },
   {
+    "word": "dam",
+    "say": "dam",
+    "forms": [
+      "dams"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wall that holds back water.",
+          "examples": [
+            "The dam stops the river.",
+            "Beavers build a dam.",
+            "The dam is strong."
+          ]
+        },
+        "more": {
+          "def": "A wall built across a river to hold back water.",
+          "examples": [
+            "Beavers built a dam across the stream.",
+            "The dam holds back the river.",
+            "The dam makes a big lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "damage",
     "say": "DAM-ij",
     "forms": [
@@ -439,6 +467,55 @@
     ]
   },
   {
+    "word": "dash",
+    "say": "dash",
+    "forms": [
+      "dashes",
+      "dashed",
+      "dashing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To run fast for a short way.",
+          "examples": [
+            "I dash to the door.",
+            "The boy dashed across the road.",
+            "She dashed for the bus."
+          ]
+        },
+        "more": {
+          "def": "To run quickly for a short distance.",
+          "examples": [
+            "I dashed to the door when the bell rang.",
+            "The squirrel dashed up the tree.",
+            "The rabbit dashed into its hole."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short race or a short line.",
+          "examples": [
+            "He won the dash.",
+            "The dash is a short line.",
+            "The runner won the hundred-yard dash."
+          ]
+        },
+        "more": {
+          "def": "A short, fast run, or a short horizontal mark that is used in writing.",
+          "examples": [
+            "He won the hundred-yard dash.",
+            "Add a dash between the two words.",
+            "We made a dash for the car in the rain."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "data",
     "say": "DAY-tuh",
     "emoji": "📊",
@@ -594,6 +671,32 @@
             "The sun shines during the day, and the moon shines at night.",
             "There are seven days in a week.",
             "Our trip to the zoo was the best day of the summer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "daylight",
+    "say": "DAY-lyt",
+    "emoji": "☀️",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The light from the sun during the day.",
+          "examples": [
+            "We played until the daylight faded.",
+            "Daylight came through the window.",
+            "I woke up at daylight."
+          ]
+        },
+        "more": {
+          "def": "The natural light that you have during the day.",
+          "examples": [
+            "We played outside until the daylight faded.",
+            "We hiked back before the daylight ran out.",
+            "The owl hides from the daylight."
           ]
         }
       }

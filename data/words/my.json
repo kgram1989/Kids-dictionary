@@ -105,5 +105,52 @@
         }
       }
     ]
+  },
+  {
+    "word": "myth",
+    "say": "mith",
+    "forms": [
+      "myths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An old story that explains something.",
+          "examples": [
+            "The myth tells about a god.",
+            "I read a myth.",
+            "A myth explains the sun."
+          ]
+        },
+        "more": {
+          "def": "An ancient story that tells about gods or heroes and explains how things came to be.",
+          "examples": [
+            "We read a Greek myth about a hero.",
+            "A myth explains why the sun rises.",
+            "The old myth told of a giant."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something many people believe that is not true.",
+          "examples": [
+            "It is a myth that bats are blind.",
+            "That is a myth.",
+            "The myth is false."
+          ]
+        },
+        "more": {
+          "def": "An idea that many people believe but that is not true.",
+          "examples": [
+            "It is a myth that goldfish have a three-second memory.",
+            "The teacher cleared up a common myth.",
+            "The idea is just a myth."
+          ]
+        }
+      }
+    ]
   }
 ]

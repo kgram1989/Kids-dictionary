@@ -138,5 +138,83 @@
         }
       }
     ]
+  },
+  {
+    "word": "lure",
+    "say": "loor",
+    "forms": [
+      "lures",
+      "lured",
+      "lured",
+      "luring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To attract someone to something.",
+          "examples": [
+            "The smell lured the dog.",
+            "The bait lured the fish.",
+            "The music lured us in."
+          ]
+        },
+        "more": {
+          "def": "To attract or tempt someone to go somewhere or do something.",
+          "examples": [
+            "The smell of pizza lured us into the shop.",
+            "The bait lured the fish to the hook.",
+            "The music lured the children closer."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fake bait used to catch fish.",
+          "examples": [
+            "The fish took the lure.",
+            "I tied a lure to the line.",
+            "The lure shines."
+          ]
+        },
+        "more": {
+          "def": "A fake bait that is used to attract fish or other animals.",
+          "examples": [
+            "The fish took the shiny lure.",
+            "I tied a lure to my fishing line.",
+            "The lure looked like a small insect."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "luxury",
+    "say": "LUK-sher-ee",
+    "forms": [
+      "luxuries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something very nice that you do not need.",
+          "examples": [
+            "A pool is a luxury.",
+            "The hotel was a luxury.",
+            "A nap is a luxury."
+          ]
+        },
+        "more": {
+          "def": "Something that is very comfortable or expensive and that is not necessary.",
+          "examples": [
+            "A swimming pool is a luxury.",
+            "The hotel was full of luxury.",
+            "A long, quiet bath is a luxury."
+          ]
+        }
+      }
+    ]
   }
 ]

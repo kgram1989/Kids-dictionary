@@ -25,6 +25,35 @@
     ]
   },
   {
+    "word": "toad",
+    "say": "tohd",
+    "emoji": "🐸",
+    "forms": [
+      "toads"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal like a frog with dry, bumpy skin.",
+          "examples": [
+            "The toad sat on a rock.",
+            "A toad hops.",
+            "The toad has bumpy skin."
+          ]
+        },
+        "more": {
+          "def": "An animal like a frog, with dry, bumpy skin, that spends more time on land.",
+          "examples": [
+            "A toad hopped across the garden path.",
+            "The toad's skin is dry and bumpy.",
+            "Toads eat insects."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "toast",
     "say": "tohst",
     "emoji": "🍞",
@@ -176,6 +205,65 @@
             "Please flush the toilet.",
             "The toilet is down the hall.",
             "The plumber fixed the toilet."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tolerate",
+    "say": "TOL-er-ayt",
+    "forms": [
+      "tolerates",
+      "tolerated",
+      "tolerating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put up with something you do not like.",
+          "examples": [
+            "I cannot tolerate loud noise.",
+            "She tolerates the cold.",
+            "We tolerate the heat."
+          ]
+        },
+        "more": {
+          "def": "To accept or put up with something that is unpleasant.",
+          "examples": [
+            "I cannot tolerate the smell of fish.",
+            "The school does not tolerate teasing.",
+            "The plant tolerates dry soil."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tomato",
+    "say": "tuh-MAY-toh",
+    "emoji": "🍅",
+    "forms": [
+      "tomatoes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round, red fruit that is used as a vegetable.",
+          "examples": [
+            "I eat a tomato.",
+            "The tomato is red.",
+            "Tomatoes grow on a vine."
+          ]
+        },
+        "more": {
+          "def": "A round, juicy, red fruit that is eaten raw or cooked as a vegetable.",
+          "examples": [
+            "I put a slice of tomato on my sandwich.",
+            "Tomatoes grow on a vine in the garden.",
+            "Mom made sauce from ripe tomatoes."
           ]
         }
       }
@@ -504,6 +592,62 @@
     ]
   },
   {
+    "word": "topic",
+    "say": "TOP-ik",
+    "forms": [
+      "topics"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What a talk or writing is about.",
+          "examples": [
+            "The topic is dogs.",
+            "I picked a topic.",
+            "The topic is space."
+          ]
+        },
+        "more": {
+          "def": "The subject that is being talked or written about.",
+          "examples": [
+            "The topic of my report is space.",
+            "The teacher gave us a topic to write about.",
+            "The topic of our talk was dogs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "torch",
+    "say": "torch",
+    "forms": [
+      "torches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A stick that burns to give light.",
+          "examples": [
+            "The torch lit the cave.",
+            "He held a torch.",
+            "The torch burned."
+          ]
+        },
+        "more": {
+          "def": "A stick with a flame on the end that is carried to give light.",
+          "examples": [
+            "The explorers carried a torch into the cave.",
+            "The torch lit the dark hall.",
+            "The runner carried the torch in the relay."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tornado",
     "say": "tor-NAY-doh",
     "emoji": "🌪️",
@@ -528,6 +672,34 @@
             "The family hid in the basement until the tornado passed.",
             "The tornado tore the roof off the barn.",
             "A siren warns the town when a tornado is near."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "torpedo",
+    "say": "tor-PEE-doh",
+    "forms": [
+      "torpedoes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long weapon that moves under the sea.",
+          "examples": [
+            "The submarine fired a torpedo.",
+            "A torpedo moves underwater.",
+            "The torpedo was long."
+          ]
+        },
+        "more": {
+          "def": "A long, tube-shaped weapon that travels underwater to hit a ship.",
+          "examples": [
+            "The museum has an old torpedo from a submarine.",
+            "A torpedo travels underwater.",
+            "The submarine carried several torpedoes."
           ]
         }
       }
@@ -758,6 +930,98 @@
             "We toured the castle with a guide.",
             "The class toured the fire station.",
             "They toured the city by bus."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tourist",
+    "say": "TUR-ist",
+    "forms": [
+      "tourists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who travels to see new places.",
+          "examples": [
+            "The tourist took photos.",
+            "Many tourists visit the beach.",
+            "The tourist had a map."
+          ]
+        },
+        "more": {
+          "def": "A person who travels to a place for fun and to see sights.",
+          "examples": [
+            "The tourist took pictures of the tower.",
+            "Many tourists visit the beach in summer.",
+            "The tourists followed the guide through the museum."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "touristy",
+        "def": "Full of tourists."
+      }
+    ]
+  },
+  {
+    "word": "tournament",
+    "say": "TER-nuh-munt",
+    "forms": [
+      "tournaments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A set of games to find the best team.",
+          "examples": [
+            "We played in a soccer tournament.",
+            "The tournament is on Saturday.",
+            "The tournament was exciting."
+          ]
+        },
+        "more": {
+          "def": "A competition in which many players or teams play games until one wins.",
+          "examples": [
+            "The tennis tournament drew players from ten countries.",
+            "The chess tournament lasted two days.",
+            "Our team reached the final of the tournament."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tow",
+    "say": "toh",
+    "forms": [
+      "tows",
+      "towed",
+      "towing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pull something behind a vehicle.",
+          "examples": [
+            "The truck tows the car.",
+            "They towed the boat.",
+            "We towed the trailer."
+          ]
+        },
+        "more": {
+          "def": "To pull something along behind a car, truck or boat.",
+          "examples": [
+            "The truck towed our broken car to the garage.",
+            "The tug towed the barge.",
+            "Dad towed the boat on a trailer."
           ]
         }
       }
