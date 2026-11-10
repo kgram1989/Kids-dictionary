@@ -21,6 +21,28 @@
     ]
   },
   {
+    "word": "harbor",
+    "say": "HAR-ber",
+    "emoji": "⚓",
+    "forms": [
+      "harbors",
+      "harbour"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A safe place by the land for boats.",
+          "example": "The boats are in the harbor."
+        },
+        "more": {
+          "def": "A sheltered area of water where ships can stay safely.",
+          "example": "Fishing boats returned to the harbor before the storm."
+        }
+      }
+    ]
+  },
+  {
     "word": "harvest",
     "say": "HAR-vist",
     "emoji": "🌾",
@@ -39,6 +61,71 @@
         "more": {
           "def": "To gather crops when they are ripe and ready.",
           "example": "Farmers harvest apples in the fall."
+        }
+      }
+    ]
+  },
+  {
+    "word": "healthy",
+    "say": "HEL-thee",
+    "emoji": "🥦",
+    "forms": [
+      "healthier",
+      "healthiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Well and strong, not sick.",
+          "example": "Eating fruit helps you stay healthy."
+        },
+        "more": {
+          "def": "Having a strong body and mind; not ill. Also, good for your body.",
+          "example": "Exercise and sleep help keep you healthy."
+        }
+      }
+    ]
+  },
+  {
+    "word": "heavy",
+    "say": "HEV-ee",
+    "emoji": "🏋️",
+    "forms": [
+      "heavier",
+      "heaviest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Hard to lift.",
+          "example": "This box of books is heavy."
+        },
+        "more": {
+          "def": "Weighing a lot; hard to lift or move.",
+          "example": "The heavy backpack made his shoulders ache."
+        }
+      }
+    ]
+  },
+  {
+    "word": "hero",
+    "say": "HEER-oh",
+    "emoji": "🦸",
+    "forms": [
+      "heroes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A brave person who helps others.",
+          "example": "The firefighter is a hero."
+        },
+        "more": {
+          "def": "A person admired for being brave or for doing something great.",
+          "example": "She became a hero when she saved the child from the river."
         }
       }
     ]
@@ -66,6 +153,29 @@
     ]
   },
   {
+    "word": "hibernate",
+    "say": "HY-ber-nayt",
+    "emoji": "🐻",
+    "forms": [
+      "hibernates",
+      "hibernated",
+      "hibernating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To sleep all winter.",
+          "example": "Bears hibernate when it is cold."
+        },
+        "more": {
+          "def": "To spend the winter in a deep sleep, as some animals do.",
+          "example": "Some frogs hibernate in the mud at the bottom of ponds."
+        }
+      }
+    ]
+  },
+  {
     "word": "honest",
     "say": "ON-ist",
     "senses": [
@@ -78,6 +188,104 @@
         "more": {
           "def": "Truthful; not lying, cheating, or stealing.",
           "example": "She was honest and told the teacher that she had broken the window."
+        }
+      }
+    ]
+  },
+  {
+    "word": "horizon",
+    "say": "huh-RY-zun",
+    "emoji": "🌅",
+    "forms": [
+      "horizons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The line far away where the sky seems to touch the land or sea.",
+          "example": "The sun went down below the horizon."
+        },
+        "more": {
+          "def": "The line in the distance where the sky and the land or sea seem to meet.",
+          "example": "A ship appeared as a tiny dot on the horizon."
+        }
+      }
+    ]
+  },
+  {
+    "word": "huge",
+    "say": "hyooj",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very big.",
+          "example": "A whale is huge."
+        },
+        "more": {
+          "def": "Extremely large in size or amount.",
+          "example": "A huge crowd gathered to watch the parade."
+        }
+      }
+    ]
+  },
+  {
+    "word": "humble",
+    "say": "HUM-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not bragging.",
+          "example": "The winner was humble and kind."
+        },
+        "more": {
+          "def": "Not thinking or acting as if you are better than other people.",
+          "example": "Even after winning the prize, she stayed humble."
+        }
+      }
+    ]
+  },
+  {
+    "word": "hungry",
+    "say": "HUNG-gree",
+    "emoji": "🍽️",
+    "forms": [
+      "hungrier",
+      "hungriest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wanting food.",
+          "example": "I am hungry for lunch."
+        },
+        "more": {
+          "def": "Feeling that you need or want to eat.",
+          "example": "The hungry kittens meowed until they were fed."
+        }
+      }
+    ]
+  },
+  {
+    "word": "hurricane",
+    "say": "HER-ih-kayn",
+    "emoji": "🌀",
+    "forms": [
+      "hurricanes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very big storm with strong wind and lots of rain.",
+          "example": "The hurricane knocked down trees."
+        },
+        "more": {
+          "def": "A huge, powerful storm with very strong winds and heavy rain that forms over the ocean.",
+          "example": "People boarded up their windows before the hurricane arrived."
         }
       }
     ]

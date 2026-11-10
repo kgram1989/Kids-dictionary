@@ -83,7 +83,7 @@ h1 { font-size: 2rem; line-height: 1.2; margin: 24px 0 12px; overflow-wrap: anyw
 }
 .star[aria-pressed='true'] { background: var(--accent); border-color: var(--accent); color: var(--ink); }
 .speak { background: var(--brand); color: var(--brand-ink); }
-.speak.small { padding: 4px 10px; margin-left: 8px; min-height: 36px; }
+.speak.small { padding: 4px 10px; margin-left: 8px; min-height: 36px; font-size: 1rem; font-style: normal; vertical-align: middle; }
 .say { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; font-size: 1.15rem; }
 .senses { padding-left: 1.4em; }
 .senses.single { list-style: none; padding-left: 0; }

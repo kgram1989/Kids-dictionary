@@ -40,6 +40,27 @@
     ]
   },
   {
+    "word": "gentle",
+    "say": "JEN-tul",
+    "forms": [
+      "gentler",
+      "gentlest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Soft and kind, not rough.",
+          "example": "Be gentle with the baby."
+        },
+        "more": {
+          "def": "Kind, calm, and careful; not rough or strong.",
+          "example": "A gentle rain fell on the garden all morning."
+        }
+      }
+    ]
+  },
+  {
     "word": "gigantic",
     "say": "jy-GAN-tik",
     "emoji": "🦕",
@@ -58,6 +79,112 @@
     ]
   },
   {
+    "word": "glance",
+    "say": "glanss",
+    "forms": [
+      "glances",
+      "glanced",
+      "glancing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take a quick look.",
+          "example": "I glance at the clock."
+        },
+        "more": {
+          "def": "To look at something quickly and then look away.",
+          "example": "She glanced at her watch to check the time."
+        }
+      }
+    ]
+  },
+  {
+    "word": "gloomy",
+    "say": "GLOO-mee",
+    "emoji": "🌧️",
+    "forms": [
+      "gloomier",
+      "gloomiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Dark and sad.",
+          "example": "It is a gloomy, rainy day."
+        },
+        "more": {
+          "def": "Dark and dull, or feeling sad and without hope.",
+          "example": "The gloomy old house had not seen sunlight in years."
+        }
+      }
+    ]
+  },
+  {
+    "word": "glow",
+    "say": "gloh",
+    "emoji": "✨",
+    "forms": [
+      "glows",
+      "glowed",
+      "glowing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give off a soft light.",
+          "example": "My night-light glows in the dark."
+        },
+        "more": {
+          "def": "To shine with a soft, steady light.",
+          "example": "The campfire glowed long after the flames died down."
+        }
+      }
+    ]
+  },
+  {
+    "word": "goal",
+    "say": "gohl",
+    "emoji": "🥅",
+    "forms": [
+      "goals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you want to do and work hard for.",
+          "example": "My goal is to read ten books."
+        },
+        "more": {
+          "def": "Something you are trying to reach or achieve.",
+          "example": "Her goal is to learn to play the violin this year."
+        }
+      }
+    ]
+  },
+  {
+    "word": "grateful",
+    "say": "GRAYT-ful",
+    "emoji": "🙏",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling thankful.",
+          "example": "I am grateful for my family."
+        },
+        "more": {
+          "def": "Feeling or showing thanks for something good.",
+          "example": "We were grateful to the neighbors who helped us move."
+        }
+      }
+    ]
+  },
+  {
     "word": "gravity",
     "say": "GRAV-ih-tee",
     "emoji": "🍎",
@@ -71,6 +198,94 @@
         "more": {
           "def": "The force that pulls objects toward the Earth and keeps us on the ground.",
           "example": "Because of gravity, a dropped pencil always falls to the floor."
+        }
+      }
+    ]
+  },
+  {
+    "word": "greedy",
+    "say": "GREE-dee",
+    "forms": [
+      "greedier",
+      "greediest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wanting more than you need.",
+          "example": "The greedy boy took all the cookies."
+        },
+        "more": {
+          "def": "Wanting much more of something than you need or than is fair.",
+          "example": "The greedy king kept all the gold for himself."
+        }
+      }
+    ]
+  },
+  {
+    "word": "grumpy",
+    "say": "GRUM-pee",
+    "emoji": "😠",
+    "forms": [
+      "grumpier",
+      "grumpiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "In a bad mood.",
+          "example": "I am grumpy when I am tired."
+        },
+        "more": {
+          "def": "Easily annoyed and in a bad mood.",
+          "example": "He is always grumpy before he has eaten breakfast."
+        }
+      }
+    ]
+  },
+  {
+    "word": "guess",
+    "say": "gess",
+    "forms": [
+      "guesses",
+      "guessed",
+      "guessing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give an answer when you are not sure.",
+          "example": "Can you guess what is in the box?"
+        },
+        "more": {
+          "def": "To give an answer or opinion without knowing for certain.",
+          "example": "I guessed that there were two hundred beans in the jar."
+        }
+      }
+    ]
+  },
+  {
+    "word": "guide",
+    "say": "gyd",
+    "emoji": "🧭",
+    "forms": [
+      "guides",
+      "guided",
+      "guiding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To show someone the way.",
+          "example": "The lights guide the ships."
+        },
+        "more": {
+          "def": "To lead or show the way to someone.",
+          "example": "A ranger guided us along the trail to the waterfall."
         }
       }
     ]

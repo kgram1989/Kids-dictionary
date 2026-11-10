@@ -189,7 +189,12 @@ function WordPage({ word, level, starred, onStar }) {
         {entry.senses.map((s, i) => (
           <li key={i}>
             <span className="pos">{POS_LABELS[s.pos] ?? s.pos}</span>
-            <p className="def">{s[level].def}</p>
+            <p className="def">
+              {s[level].def}
+              {canSpeak && (
+                <button className="speak small" onClick={() => speak(s[level].def)} aria-label="Hear the meaning">🔊</button>
+              )}
+            </p>
             <p className="example">
               “{s[level].example}”
               {canSpeak && (

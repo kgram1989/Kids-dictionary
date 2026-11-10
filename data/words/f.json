@@ -17,6 +17,149 @@
     ]
   },
   {
+    "word": "famous",
+    "say": "FAY-mus",
+    "emoji": "🌟",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Known by lots of people.",
+          "example": "She is a famous singer."
+        },
+        "more": {
+          "def": "Known and recognized by very many people.",
+          "example": "The famous painting hangs in a museum in Paris."
+        }
+      }
+    ]
+  },
+  {
+    "word": "favorite",
+    "say": "FAY-vuh-rit",
+    "emoji": "❤️",
+    "forms": [
+      "favourite"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "The one you like best.",
+          "example": "Blue is my favorite color."
+        },
+        "more": {
+          "def": "Liked more than all the others.",
+          "example": "My favorite part of the book is the surprise ending."
+        }
+      }
+    ]
+  },
+  {
+    "word": "festival",
+    "say": "FES-tih-vul",
+    "emoji": "🎪",
+    "forms": [
+      "festivals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big party for a special day.",
+          "example": "We ate treats at the festival."
+        },
+        "more": {
+          "def": "A special time when people celebrate with events, food, or music.",
+          "example": "The town holds a kite festival every spring."
+        }
+      }
+    ]
+  },
+  {
+    "word": "fierce",
+    "say": "feerss",
+    "emoji": "🐯",
+    "forms": [
+      "fiercer",
+      "fiercest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wild and scary.",
+          "example": "The tiger looks fierce."
+        },
+        "more": {
+          "def": "Wild, strong, and ready to attack; or very strong and powerful.",
+          "example": "A fierce wind bent the trees almost to the ground."
+        }
+      }
+    ]
+  },
+  {
+    "word": "flexible",
+    "say": "FLEK-suh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to bend without breaking.",
+          "example": "A rubber band is flexible."
+        },
+        "more": {
+          "def": "Able to bend easily without breaking; or able to change easily.",
+          "example": "Gymnasts stretch every day to stay flexible."
+        }
+      }
+    ]
+  },
+  {
+    "word": "float",
+    "say": "floht",
+    "emoji": "🎈",
+    "forms": [
+      "floats",
+      "floated",
+      "floating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stay on top of water or in the air.",
+          "example": "My toy boat can float."
+        },
+        "more": {
+          "def": "To rest on top of a liquid or drift gently through the air.",
+          "example": "A leaf floated slowly down the stream."
+        }
+      }
+    ]
+  },
+  {
+    "word": "forest",
+    "say": "FOR-ist",
+    "emoji": "🌲",
+    "forms": [
+      "forests"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big place with lots of trees.",
+          "example": "Deer live in the forest."
+        },
+        "more": {
+          "def": "A large area of land covered with trees and other plants.",
+          "example": "We followed a narrow trail through the forest."
+        }
+      }
+    ]
+  },
+  {
     "word": "fossil",
     "say": "FOSS-ul",
     "emoji": "🦴",
@@ -56,6 +199,49 @@
     ]
   },
   {
+    "word": "freedom",
+    "say": "FREE-dum",
+    "emoji": "🕊️",
+    "forms": [
+      "freedoms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being able to do and say what you want.",
+          "example": "The bird flew away to freedom."
+        },
+        "more": {
+          "def": "The right to act, speak, and think as you choose.",
+          "example": "The people fought for their freedom."
+        }
+      }
+    ]
+  },
+  {
+    "word": "frighten",
+    "say": "FRY-tun",
+    "forms": [
+      "frightens",
+      "frightened",
+      "frightening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To scare.",
+          "example": "Loud noises frighten my cat."
+        },
+        "more": {
+          "def": "To make someone feel afraid.",
+          "example": "The sudden bang frightened the horses."
+        }
+      }
+    ]
+  },
+  {
     "word": "furious",
     "say": "FYUR-ee-us",
     "emoji": "😡",
@@ -69,6 +255,24 @@
         "more": {
           "def": "Extremely angry.",
           "example": "She was furious when she found out someone had broken her model."
+        }
+      }
+    ]
+  },
+  {
+    "word": "future",
+    "say": "FYOO-cher",
+    "emoji": "🚀",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The time that has not come yet.",
+          "example": "In the future, I want to be a vet."
+        },
+        "more": {
+          "def": "The time that is still to come, after now.",
+          "example": "No one knows exactly what will happen in the future."
         }
       }
     ]

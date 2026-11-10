@@ -1,5 +1,47 @@
 [
   {
+    "word": "machine",
+    "say": "muh-SHEEN",
+    "emoji": "⚙️",
+    "forms": [
+      "machines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing with parts that does a job.",
+          "example": "A washing machine cleans our clothes."
+        },
+        "more": {
+          "def": "A piece of equipment with moving parts that uses power to do work.",
+          "example": "The machine at the factory fills a hundred bottles every minute."
+        }
+      }
+    ]
+  },
+  {
+    "word": "magnet",
+    "say": "MAG-nit",
+    "emoji": "🧲",
+    "forms": [
+      "magnets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing that pulls some metal to it.",
+          "example": "The magnet stuck to the fridge."
+        },
+        "more": {
+          "def": "A piece of metal or rock that pulls iron and steel toward it.",
+          "example": "We used a magnet to pick up the spilled pins."
+        }
+      }
+    ]
+  },
+  {
     "word": "magnificent",
     "say": "mag-NIF-ih-sunt",
     "emoji": "✨",
@@ -13,6 +55,48 @@
         "more": {
           "def": "Extremely beautiful, grand, or impressive.",
           "example": "From the top of the mountain, the view was magnificent."
+        }
+      }
+    ]
+  },
+  {
+    "word": "mammal",
+    "say": "MAM-ul",
+    "emoji": "🐄",
+    "forms": [
+      "mammals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal with fur or hair that feeds milk to its babies.",
+          "example": "A dog is a mammal."
+        },
+        "more": {
+          "def": "A warm-blooded animal that has hair or fur and feeds its babies with milk.",
+          "example": "Whales are mammals, even though they live in the sea."
+        }
+      }
+    ]
+  },
+  {
+    "word": "meadow",
+    "say": "MED-oh",
+    "emoji": "🌾",
+    "forms": [
+      "meadows"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A field of grass and flowers.",
+          "example": "Cows eat grass in the meadow."
+        },
+        "more": {
+          "def": "A field of grass, often with wildflowers.",
+          "example": "Butterflies fluttered over the sunny meadow."
         }
       }
     ]
@@ -41,6 +125,28 @@
     ]
   },
   {
+    "word": "mention",
+    "say": "MEN-shun",
+    "forms": [
+      "mentions",
+      "mentioned",
+      "mentioning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say a little bit about something.",
+          "example": "Did I mention that I have a new puppy?"
+        },
+        "more": {
+          "def": "To speak or write about something briefly.",
+          "example": "She mentioned that the library would be closed on Monday."
+        }
+      }
+    ]
+  },
+  {
     "word": "migrate",
     "say": "MY-grayt",
     "emoji": "🦆",
@@ -59,6 +165,83 @@
         "more": {
           "def": "To travel from one place to another at certain times of year, as many animals do.",
           "example": "Monarch butterflies migrate thousands of miles to warmer places each fall."
+        }
+      }
+    ]
+  },
+  {
+    "word": "mischief",
+    "say": "MISS-chif",
+    "emoji": "😈",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Silly things that can cause a little trouble.",
+          "example": "The puppy got into mischief."
+        },
+        "more": {
+          "def": "Playful behavior that causes trouble or annoys people.",
+          "example": "The twins were always up to some kind of mischief."
+        }
+      }
+    ]
+  },
+  {
+    "word": "moist",
+    "say": "moyst",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A little bit wet.",
+          "example": "The soil is moist after the rain."
+        },
+        "more": {
+          "def": "Slightly wet; damp.",
+          "example": "Keep the seeds in moist soil until they sprout."
+        }
+      }
+    ]
+  },
+  {
+    "word": "mountain",
+    "say": "MOWN-tun",
+    "emoji": "⛰️",
+    "forms": [
+      "mountains"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very tall hill.",
+          "example": "There is snow on top of the mountain."
+        },
+        "more": {
+          "def": "A very high area of land, much taller than a hill.",
+          "example": "It took the climbers three days to reach the top of the mountain."
+        }
+      }
+    ]
+  },
+  {
+    "word": "museum",
+    "say": "myoo-ZEE-um",
+    "emoji": "🖼️",
+    "forms": [
+      "museums"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where you can look at old or special things.",
+          "example": "We saw old bones at the museum."
+        },
+        "more": {
+          "def": "A building where interesting objects of art, history, or science are kept and shown.",
+          "example": "The museum has a real rocket hanging from the ceiling."
         }
       }
     ]

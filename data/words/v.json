@@ -1,5 +1,26 @@
 [
   {
+    "word": "vacation",
+    "say": "vay-KAY-shun",
+    "emoji": "🏖️",
+    "forms": [
+      "vacations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A time when you rest and do not go to school or work.",
+          "example": "We went to the beach on vacation."
+        },
+        "more": {
+          "def": "A time of rest away from school or work, often spent on a trip.",
+          "example": "Our family spent summer vacation camping in the mountains."
+        }
+      }
+    ]
+  },
+  {
     "word": "valuable",
     "say": "VAL-yoo-bul",
     "emoji": "💎",
@@ -41,6 +62,65 @@
     ]
   },
   {
+    "word": "various",
+    "say": "VAIR-ee-us",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Many different kinds.",
+          "example": "The shop sells various toys."
+        },
+        "more": {
+          "def": "Of several different kinds.",
+          "example": "The garden has flowers of various colors and sizes."
+        }
+      }
+    ]
+  },
+  {
+    "word": "vehicle",
+    "say": "VEE-ih-kul",
+    "emoji": "🚗",
+    "forms": [
+      "vehicles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing that takes people from place to place, like a car or bus.",
+          "example": "A truck is a big vehicle."
+        },
+        "more": {
+          "def": "A machine such as a car, bus, or truck that carries people or things.",
+          "example": "Only emergency vehicles may park in front of the hospital."
+        }
+      }
+    ]
+  },
+  {
+    "word": "victory",
+    "say": "VIK-tuh-ree",
+    "emoji": "🏆",
+    "forms": [
+      "victories"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A win.",
+          "example": "Our team cheered after the victory."
+        },
+        "more": {
+          "def": "The act of winning a game, contest, or battle.",
+          "example": "The team's victory was their first of the season."
+        }
+      }
+    ]
+  },
+  {
     "word": "village",
     "say": "VIL-ij",
     "emoji": "🏡",
@@ -57,6 +137,26 @@
         "more": {
           "def": "A small group of houses and buildings, smaller than a town.",
           "example": "The village had one school, one shop, and a tiny post office."
+        }
+      }
+    ]
+  },
+  {
+    "word": "visitor",
+    "say": "VIZ-ih-ter",
+    "forms": [
+      "visitors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who comes to see you or a place.",
+          "example": "We have a visitor at our house."
+        },
+        "more": {
+          "def": "A person who goes to see someone or to spend time in a place.",
+          "example": "Visitors to the park must stay on the trails."
         }
       }
     ]
@@ -79,6 +179,27 @@
         "more": {
           "def": "A mountain with an opening where melted rock, ash, and gas can burst out.",
           "example": "When the volcano erupted, lava flowed down its sides."
+        }
+      }
+    ]
+  },
+  {
+    "word": "voyage",
+    "say": "VOY-ij",
+    "emoji": "⛵",
+    "forms": [
+      "voyages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long trip on a ship or in space.",
+          "example": "The ship went on a long voyage."
+        },
+        "more": {
+          "def": "A long journey, especially by sea or through space.",
+          "example": "The voyage across the ocean took three weeks."
         }
       }
     ]

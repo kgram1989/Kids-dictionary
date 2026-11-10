@@ -1,5 +1,27 @@
 [
   {
+    "word": "calm",
+    "say": "kahm",
+    "emoji": "😌",
+    "forms": [
+      "calmer",
+      "calmest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Quiet and not upset.",
+          "example": "Take a deep breath and stay calm."
+        },
+        "more": {
+          "def": "Peaceful and quiet; not excited, worried, or angry.",
+          "example": "The lake was calm and smooth after the storm passed."
+        }
+      }
+    ]
+  },
+  {
     "word": "camouflage",
     "say": "KAM-uh-flahzh",
     "emoji": "🦎",
@@ -13,6 +35,168 @@
         "more": {
           "def": "Colors or patterns that help an animal or thing blend in with what is around it.",
           "example": "A snowshoe hare's white fur is good camouflage in winter."
+        }
+      }
+    ]
+  },
+  {
+    "word": "capture",
+    "say": "KAP-cher",
+    "forms": [
+      "captures",
+      "captured",
+      "capturing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To catch.",
+          "example": "The net will capture the fish."
+        },
+        "more": {
+          "def": "To catch and hold a person, animal, or thing.",
+          "example": "The photographer captured a picture of the eagle in flight."
+        }
+      }
+    ]
+  },
+  {
+    "word": "careful",
+    "say": "KAIR-ful",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Trying hard to stay safe and not make a mistake.",
+          "example": "Be careful with the hot soup."
+        },
+        "more": {
+          "def": "Paying close attention so that you avoid danger or mistakes.",
+          "example": "She was careful not to step on the wet paint."
+        }
+      }
+    ]
+  },
+  {
+    "word": "celebrate",
+    "say": "SEL-uh-brayt",
+    "emoji": "🎉",
+    "forms": [
+      "celebrates",
+      "celebrated",
+      "celebrating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To do something fun for a special day.",
+          "example": "We celebrate my birthday with cake."
+        },
+        "more": {
+          "def": "To do something special or fun to mark a happy day or event.",
+          "example": "The team celebrated their win with a pizza party."
+        }
+      }
+    ]
+  },
+  {
+    "word": "challenge",
+    "say": "CHAL-inj",
+    "emoji": "🧗",
+    "forms": [
+      "challenges"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something hard to do.",
+          "example": "The big puzzle is a challenge."
+        },
+        "more": {
+          "def": "Something difficult that tests your skill or strength.",
+          "example": "Climbing the steep hill was a real challenge."
+        }
+      }
+    ]
+  },
+  {
+    "word": "cheerful",
+    "say": "CHEER-ful",
+    "emoji": "😊",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happy.",
+          "example": "She has a cheerful smile."
+        },
+        "more": {
+          "def": "Happy and full of good feelings.",
+          "example": "The cheerful bus driver greeted every child by name."
+        }
+      }
+    ]
+  },
+  {
+    "word": "climate",
+    "say": "KLY-mut",
+    "emoji": "🌍",
+    "forms": [
+      "climates"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What the weather is like in a place most of the time.",
+          "example": "The climate here is hot and dry."
+        },
+        "more": {
+          "def": "The usual weather a place has over a long period of time.",
+          "example": "Penguins live in a very cold climate."
+        }
+      }
+    ]
+  },
+  {
+    "word": "collect",
+    "say": "kuh-LEKT",
+    "forms": [
+      "collects",
+      "collected",
+      "collecting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To bring things together.",
+          "example": "I collect pretty rocks."
+        },
+        "more": {
+          "def": "To gather things together, sometimes as a hobby.",
+          "example": "He collects stamps from countries all around the world."
+        }
+      }
+    ]
+  },
+  {
+    "word": "comfortable",
+    "say": "KUMF-ter-bul",
+    "emoji": "🛋️",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling good and soft.",
+          "example": "My bed is so comfortable."
+        },
+        "more": {
+          "def": "Feeling relaxed and at ease, or making you feel that way.",
+          "example": "These shoes are comfortable enough to wear all day."
         }
       }
     ]
@@ -56,6 +240,68 @@
         "more": {
           "def": "To look closely at two or more things to find how they are alike and different.",
           "example": "We compared the two maps and noticed that one had more rivers."
+        }
+      }
+    ]
+  },
+  {
+    "word": "courage",
+    "say": "KER-ij",
+    "emoji": "🦁",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being brave.",
+          "example": "It takes courage to try new things."
+        },
+        "more": {
+          "def": "The strength to do something even though it is scary or hard.",
+          "example": "It took courage to tell the truth about what happened."
+        }
+      }
+    ]
+  },
+  {
+    "word": "create",
+    "say": "kree-AYT",
+    "emoji": "🎨",
+    "forms": [
+      "creates",
+      "created",
+      "creating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something new.",
+          "example": "Let's create a picture with paint."
+        },
+        "more": {
+          "def": "To make or invent something that did not exist before.",
+          "example": "The students created a model of the solar system."
+        }
+      }
+    ]
+  },
+  {
+    "word": "creature",
+    "say": "KREE-cher",
+    "emoji": "🐾",
+    "forms": [
+      "creatures"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal.",
+          "example": "A tiny creature ran under the leaf."
+        },
+        "more": {
+          "def": "Any living animal, real or imaginary.",
+          "example": "Strange creatures live at the bottom of the ocean."
         }
       }
     ]

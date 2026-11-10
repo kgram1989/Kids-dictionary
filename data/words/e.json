@@ -1,5 +1,127 @@
 [
   {
+    "word": "eager",
+    "say": "EE-ger",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wanting to do something very much.",
+          "example": "I am eager to see my friends."
+        },
+        "more": {
+          "def": "Very excited and interested in doing or having something.",
+          "example": "The puppies were eager to go outside and play."
+        }
+      }
+    ]
+  },
+  {
+    "word": "earthquake",
+    "say": "ERTH-kwayk",
+    "forms": [
+      "earthquakes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When the ground shakes.",
+          "example": "The earthquake made the house shake."
+        },
+        "more": {
+          "def": "A sudden shaking of the ground caused by movement deep inside the Earth.",
+          "example": "The earthquake knocked books off the shelves."
+        }
+      }
+    ]
+  },
+  {
+    "word": "echo",
+    "say": "EK-oh",
+    "emoji": "🗣️",
+    "forms": [
+      "echoes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sound that comes back to you.",
+          "example": "I yelled in the cave and heard an echo."
+        },
+        "more": {
+          "def": "A sound you hear again because it bounces off a surface like a wall or cliff.",
+          "example": "We shouted across the canyon and listened for the echo."
+        }
+      }
+    ]
+  },
+  {
+    "word": "effort",
+    "say": "EF-ert",
+    "emoji": "💪",
+    "forms": [
+      "efforts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Hard work.",
+          "example": "It takes effort to learn to read."
+        },
+        "more": {
+          "def": "The energy and hard work you use to do something.",
+          "example": "With a lot of effort, they pushed the heavy sled up the hill."
+        }
+      }
+    ]
+  },
+  {
+    "word": "embarrass",
+    "say": "em-BAIR-us",
+    "emoji": "😳",
+    "forms": [
+      "embarrasses",
+      "embarrassed",
+      "embarrassing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone feel shy or silly.",
+          "example": "It would embarrass me to sing alone."
+        },
+        "more": {
+          "def": "To make someone feel awkward or ashamed in front of others.",
+          "example": "Tripping on stage embarrassed him, but he kept going."
+        }
+      }
+    ]
+  },
+  {
+    "word": "enemy",
+    "say": "EN-uh-mee",
+    "forms": [
+      "enemies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Someone who does not like you and wants to hurt you.",
+          "example": "The hero beat his enemy."
+        },
+        "more": {
+          "def": "A person or group that is against you or wants to harm you.",
+          "example": "In the story, the two enemies finally became friends."
+        }
+      }
+    ]
+  },
+  {
     "word": "energy",
     "say": "EN-er-jee",
     "emoji": "⚡",
@@ -18,6 +140,28 @@
     ]
   },
   {
+    "word": "enjoy",
+    "say": "en-JOY",
+    "forms": [
+      "enjoys",
+      "enjoyed",
+      "enjoying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To like doing something.",
+          "example": "I enjoy playing in the snow."
+        },
+        "more": {
+          "def": "To get pleasure or happiness from something.",
+          "example": "We enjoyed the concert so much that we clapped for five minutes."
+        }
+      }
+    ]
+  },
+  {
     "word": "enormous",
     "say": "ih-NOR-mus",
     "emoji": "🐘",
@@ -31,6 +175,49 @@
         "more": {
           "def": "Much bigger than usual; huge.",
           "example": "An enormous wave crashed over the rocks."
+        }
+      }
+    ]
+  },
+  {
+    "word": "environment",
+    "say": "en-VY-run-munt",
+    "emoji": "🌎",
+    "forms": [
+      "environments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The land, water, and air around us.",
+          "example": "We keep the environment clean."
+        },
+        "more": {
+          "def": "The natural world of land, water, air, plants, and animals around us.",
+          "example": "Planting trees is one way to help the environment."
+        }
+      }
+    ]
+  },
+  {
+    "word": "escape",
+    "say": "ih-SKAYP",
+    "forms": [
+      "escapes",
+      "escaped",
+      "escaping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get away.",
+          "example": "The hamster tried to escape from its cage."
+        },
+        "more": {
+          "def": "To get free from a place or from danger.",
+          "example": "The fish escaped through a hole in the net."
         }
       }
     ]
@@ -59,6 +246,45 @@
     ]
   },
   {
+    "word": "exhausted",
+    "say": "eg-ZAW-stid",
+    "emoji": "😴",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very, very tired.",
+          "example": "I was exhausted after the long walk."
+        },
+        "more": {
+          "def": "Extremely tired, with no energy left.",
+          "example": "After the race, the exhausted runners lay down on the grass."
+        }
+      }
+    ]
+  },
+  {
+    "word": "experiment",
+    "say": "ek-SPAIR-uh-munt",
+    "emoji": "🧪",
+    "forms": [
+      "experiments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A test to find out something.",
+          "example": "We did an experiment with ice and salt."
+        },
+        "more": {
+          "def": "A careful test done to discover or prove something.",
+          "example": "Our science experiment showed that plants grow toward light."
+        }
+      }
+    ]
+  },
+  {
     "word": "explore",
     "say": "ek-SPLOR",
     "emoji": "🗺️",
@@ -77,6 +303,24 @@
         "more": {
           "def": "To travel through or look carefully at a place to learn about it.",
           "example": "The divers explored a cave deep under the sea."
+        }
+      }
+    ]
+  },
+  {
+    "word": "extinct",
+    "say": "ek-STINKT",
+    "emoji": "🦖",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "No longer living anywhere on Earth.",
+          "example": "Dinosaurs are extinct."
+        },
+        "more": {
+          "def": "No longer existing; having no living members left.",
+          "example": "The dodo bird became extinct hundreds of years ago."
         }
       }
     ]

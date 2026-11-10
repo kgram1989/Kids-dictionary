@@ -1,5 +1,67 @@
 [
   {
+    "word": "damage",
+    "say": "DAM-ij",
+    "forms": [
+      "damages",
+      "damaged",
+      "damaging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hurt or break something.",
+          "example": "Rain can damage a book."
+        },
+        "more": {
+          "def": "To harm something so that it is broken or works less well.",
+          "example": "The storm damaged the roof of the barn."
+        }
+      }
+    ]
+  },
+  {
+    "word": "dangerous",
+    "say": "DAYN-jer-us",
+    "emoji": "⚠️",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not safe.",
+          "example": "It is dangerous to play near the road."
+        },
+        "more": {
+          "def": "Likely to cause harm or injury.",
+          "example": "Swimming in the river is dangerous when the water is high."
+        }
+      }
+    ]
+  },
+  {
+    "word": "decide",
+    "say": "dih-SYD",
+    "forms": [
+      "decides",
+      "decided",
+      "deciding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pick what you will do.",
+          "example": "I can't decide which game to play."
+        },
+        "more": {
+          "def": "To make a choice after thinking about it.",
+          "example": "We decided to walk to school instead of taking the bus."
+        }
+      }
+    ]
+  },
+  {
     "word": "delicate",
     "say": "DEL-ih-kut",
     "emoji": "🦋",
@@ -13,6 +75,46 @@
         "more": {
           "def": "Easily broken or damaged, so it needs gentle care.",
           "example": "The delicate glass ornament was wrapped in soft paper."
+        }
+      }
+    ]
+  },
+  {
+    "word": "delicious",
+    "say": "dih-LISH-us",
+    "emoji": "😋",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very good to eat.",
+          "example": "This apple pie is delicious."
+        },
+        "more": {
+          "def": "Very pleasant to taste or smell.",
+          "example": "A delicious smell of fresh bread came from the kitchen."
+        }
+      }
+    ]
+  },
+  {
+    "word": "depend",
+    "say": "dih-PEND",
+    "forms": [
+      "depends",
+      "depended",
+      "depending"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To need someone or something.",
+          "example": "Baby birds depend on their mother for food."
+        },
+        "more": {
+          "def": "To need or trust someone or something for help or support.",
+          "example": "Plants depend on sunlight and water to grow."
         }
       }
     ]
@@ -35,6 +137,89 @@
         "more": {
           "def": "To use words to tell what someone or something is like.",
           "example": "She described the storm so well that we could almost hear the thunder."
+        }
+      }
+    ]
+  },
+  {
+    "word": "desert",
+    "say": "DEZ-ert",
+    "emoji": "🏜️",
+    "forms": [
+      "deserts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very dry place with lots of sand and not much rain.",
+          "example": "Camels live in the desert."
+        },
+        "more": {
+          "def": "A very dry area of land that gets little rain and has few plants.",
+          "example": "Only tough plants like cactuses can grow in the desert."
+        }
+      }
+    ]
+  },
+  {
+    "word": "different",
+    "say": "DIF-runt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not the same.",
+          "example": "My socks are different colors."
+        },
+        "more": {
+          "def": "Not like something or someone else.",
+          "example": "The twins look alike, but they have very different hobbies."
+        }
+      }
+    ]
+  },
+  {
+    "word": "disappear",
+    "say": "dis-uh-PEER",
+    "forms": [
+      "disappears",
+      "disappeared",
+      "disappearing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go away so you can't see it.",
+          "example": "The sun will disappear behind the clouds."
+        },
+        "more": {
+          "def": "To go out of sight or stop existing.",
+          "example": "The snow disappeared as soon as the weather warmed up."
+        }
+      }
+    ]
+  },
+  {
+    "word": "disappoint",
+    "say": "dis-uh-POYNT",
+    "emoji": "😞",
+    "forms": [
+      "disappoints",
+      "disappointed",
+      "disappointing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone sad because something did not happen.",
+          "example": "I do not want to disappoint my team."
+        },
+        "more": {
+          "def": "To make someone unhappy by not doing what they hoped for or expected.",
+          "example": "The canceled trip disappointed the whole class."
         }
       }
     ]
@@ -79,6 +264,26 @@
         "more": {
           "def": "The amount of space between two places or things.",
           "example": "The distance between our town and the ocean is two hundred miles."
+        }
+      }
+    ]
+  },
+  {
+    "word": "drought",
+    "say": "drowt",
+    "forms": [
+      "droughts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long time with no rain.",
+          "example": "The plants died in the drought."
+        },
+        "more": {
+          "def": "A long period with little or no rain, so the land becomes very dry.",
+          "example": "During the drought, the farmers' fields turned brown."
         }
       }
     ]
