@@ -91,7 +91,13 @@ h1 { font-size: 2rem; line-height: 1.2; margin: 24px 0 12px; overflow-wrap: anyw
 .senses li::marker { font-weight: 700; }
 .pos { color: var(--muted); font-size: .9rem; }
 .def { font-size: 1.35rem; margin: 6px 0 10px; }
-.example { margin: 0; color: var(--muted); font-style: italic; }
+.examples { list-style: none; margin: 0; padding: 0; color: var(--muted); }
+.senses .examples li {
+  display: flex; align-items: center; justify-content: space-between; gap: 8px;
+  background: none; border: 0; border-top: 1px solid var(--line); border-radius: 0; padding: 8px 0; margin: 0;
+}
+.examples span { font-style: italic; }
+.examples .speak.small { margin-left: 0; flex: none; }
 
 .star-list { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 10px; }
 .star-list li { display: flex; align-items: center; gap: 4px; }

@@ -4,7 +4,7 @@ A dictionary for elementary students: big words explained in small words.
 
 - Two reading levels for every meaning: **Grades K–2** and **Grades 3–5**
 - Pronunciation shown as a simple respelling ("ih-NOR-mus") with a **Hear it** button
-- An example sentence for every meaning
+- Three example sentences for every meaning, each in a different situation
 - Forgiving search (typos and word forms like "batting" still find the word) and A–Z browsing
 - Kids can star words; stars are saved in the browser only, with no accounts and no tracking
 
@@ -28,14 +28,25 @@ Words live in `data/words/`, one file per starting letter. Each entry looks like
   "senses": [
     {
       "pos": "adjective",
-      "easy": { "def": "Very, very big.", "example": "An elephant is enormous." },
-      "more": { "def": "Much bigger than usual; huge.", "example": "An enormous wave crashed over the rocks." }
+      "easy": {
+        "def": "Very, very big.",
+        "examples": ["An elephant is enormous.", "We ate an enormous pizza.", "The whale has an enormous tail."]
+      },
+      "more": {
+        "def": "Much bigger than usual; huge.",
+        "examples": [
+          "An enormous wave crashed over the rocks.",
+          "The library has an enormous collection of books.",
+          "An enormous tree had fallen across the road."
+        ]
+      }
     }
   ]
 }
 ```
 
 - `easy` is the Grades K–2 wording, `more` is the Grades 3–5 wording.
+- Each level needs three example sentences, set in different situations.
 - `forms` lists other spellings a child might search for ("ran", "running").
 - `emoji` and `forms` are optional. A word with several meanings has several `senses`.
 

@@ -39,7 +39,9 @@ for (const file of readdirSync(dir).filter((f) => f.endsWith('.json')).sort()) {
       if (!POS.includes(s.pos)) errors.push(`${at} sense ${i + 1}: unknown part of speech "${s.pos}"`);
       for (const level of ['easy', 'more']) {
         if (!isText(s[level]?.def)) errors.push(`${at} sense ${i + 1}: missing ${level}.def`);
-        if (!isText(s[level]?.example)) errors.push(`${at} sense ${i + 1}: missing ${level}.example`);
+        const ex = s[level]?.examples;
+        if (!Array.isArray(ex) || ex.length < 3 || !ex.every(isText)) errors.push(`${at} sense ${i + 1}: ${level}.examples needs 3 sentences`);
+        else if (new Set(ex).size !== ex.length) errors.push(`${at} sense ${i + 1}: ${level}.examples has a repeated sentence`);
       }
     });
     index.push({ w: e.word, f: e.forms ?? [], e: e.emoji ?? '' });
