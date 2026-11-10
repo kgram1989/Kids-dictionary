@@ -1,0 +1,83 @@
+[
+  {
+    "word": "weather",
+    "say": "WETH-er",
+    "emoji": "🌦️",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What it is like outside, like sunny or rainy.",
+          "example": "The weather is sunny today."
+        },
+        "more": {
+          "def": "What the air outside is like at a certain time, such as hot, cold, rainy, or windy.",
+          "example": "We checked the weather before planning our picnic."
+        }
+      }
+    ]
+  },
+  {
+    "word": "whisper",
+    "say": "WISS-per",
+    "emoji": "🤫",
+    "forms": [
+      "whispers",
+      "whispered",
+      "whispering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To talk in a very soft voice.",
+          "example": "Whisper so you do not wake the baby."
+        },
+        "more": {
+          "def": "To speak very softly, using your breath instead of your full voice.",
+          "example": "He whispered the secret into his sister's ear."
+        }
+      }
+    ]
+  },
+  {
+    "word": "wisdom",
+    "say": "WIZ-dum",
+    "emoji": "🦉",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Knowing what is good and right to do.",
+          "example": "Grandma has a lot of wisdom."
+        },
+        "more": {
+          "def": "Good sense and judgment that comes from knowledge and experience.",
+          "example": "The old story is full of wisdom about being kind."
+        }
+      }
+    ]
+  },
+  {
+    "word": "wonder",
+    "say": "WUN-der",
+    "forms": [
+      "wonders",
+      "wondered",
+      "wondering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To think about something and want to know more.",
+          "example": "I wonder why the sky is blue."
+        },
+        "more": {
+          "def": "To think about something with curiosity, wanting to know the answer.",
+          "example": "She wondered how deep the ocean really was."
+        }
+      }
+    ]
+  }
+]
