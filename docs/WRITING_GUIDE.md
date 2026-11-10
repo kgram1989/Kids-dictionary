@@ -173,9 +173,9 @@ was built automatically, so it contains words that should not get an entry. Skip
 and record it in `data/skipped.txt` as `word | reason`, when it is:
 
 - **Not suitable for children**: swearing and crude slang, slurs and demeaning names for
-  groups of people, sexual words, alcohol, tobacco, drugs and gambling, and violent crime
+  groups of people, sexual words, nudity and private body parts, alcohol, tobacco, drugs and gambling, and violent crime
   or cruelty (murder, torture, kidnapping and the like). Reason: `not suitable for
-  children`. The list was reviewed for these and about 150 words were removed, but if
+  children`. The list was reviewed for these and about 175 words were removed, but if
   one was missed, skip it. Keep these topics out of definitions and examples for other
   words too: "smoke" is what a fire makes, and a "bar" is a long piece of something.
 - **Only a form of another word** with no meaning of its own (`dancing` as in "is
