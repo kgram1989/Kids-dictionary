@@ -55,6 +55,34 @@
     ]
   },
   {
+    "word": "friend",
+    "say": "frend",
+    "forms": [
+      "friends"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person you like and who likes you.",
+          "examples": [
+            "She is my friend.",
+            "I play with my friends.",
+            "My dog is my best friend."
+          ]
+        },
+        "more": {
+          "def": "A person you know well and like, and who likes you too.",
+          "examples": [
+            "My best friend and I walk to school together every day.",
+            "A good friend listens when you feel sad.",
+            "He made a new friend on the first day of camp."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "frighten",
     "say": "FRY-tun",
     "forms": [
@@ -79,6 +107,31 @@
             "The sudden bang frightened the horses.",
             "The scary movie frightened my little brother.",
             "A sudden shadow frightened the fish away."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "from",
+    "say": "frum",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "A word that shows where something starts.",
+          "examples": [
+            "I came from school.",
+            "This gift is from Grandma.",
+            "The bus is far from here."
+          ]
+        },
+        "more": {
+          "def": "A word used to show where something starts, or what it was made of.",
+          "examples": [
+            "The train travels from the city to the mountains.",
+            "Maple syrup comes from the sap of maple trees.",
+            "Our school is open from eight in the morning until three."
           ]
         }
       }

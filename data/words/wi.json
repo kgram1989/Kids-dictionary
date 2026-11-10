@@ -1,5 +1,33 @@
 [
   {
+    "word": "wife",
+    "say": "wyf",
+    "forms": [
+      "wives"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A woman who is married to someone.",
+          "examples": [
+            "He kissed his wife.",
+            "The farmer and his wife work.",
+            "Her wife is a nurse."
+          ]
+        },
+        "more": {
+          "def": "A woman who is married to another person.",
+          "examples": [
+            "The baker and his wife open the shop at six each morning.",
+            "My uncle's wife is my aunt.",
+            "His wife grows tomatoes in the garden behind the house."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wild",
     "say": "wyld",
     "emoji": "🐺",
@@ -24,6 +52,61 @@
             "We picked wild berries along the trail.",
             "Wild horses still live on the island.",
             "The garden grew wild after no one looked after it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "will",
+    "say": "wil",
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "A word used to show something is going to happen.",
+          "examples": [
+            "I will go to bed soon.",
+            "It will snow tomorrow.",
+            "She will be here at six."
+          ]
+        },
+        "more": {
+          "def": "A word used to say what is going to happen in the future, or to say that someone is willing to do something.",
+          "examples": [
+            "Our class will visit the science museum next week.",
+            "I will help you carry those groceries.",
+            "Spring will come after the long winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "win",
+    "say": "win",
+    "forms": [
+      "wins",
+      "won",
+      "winning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To come in first in a game.",
+          "examples": [
+            "I want to win.",
+            "Our team won.",
+            "She wins every race."
+          ]
+        },
+        "more": {
+          "def": "To be first or best in a game or contest, or to get a prize.",
+          "examples": [
+            "Our class won the spelling contest after weeks of practice.",
+            "The runner won the race by a few seconds.",
+            "He hopes to win a ribbon at the fair."
           ]
         }
       }
@@ -80,6 +163,105 @@
             "It was wise to bring a raincoat on such a cloudy day.",
             "The wise queen listened before she decided.",
             "He made a wise choice to save his money."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wish",
+    "say": "wish",
+    "forms": [
+      "wishes",
+      "wished",
+      "wishing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To want something very much.",
+          "examples": [
+            "I wish for a puppy.",
+            "She wished it would snow.",
+            "We wish you well."
+          ]
+        },
+        "more": {
+          "def": "To want something to happen, often something that may not be possible.",
+          "examples": [
+            "I wish I could fly like a bird.",
+            "She wished upon a star before bed.",
+            "We wished that the summer would last longer."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you want very much.",
+          "examples": [
+            "Make a wish.",
+            "My wish came true.",
+            "Her wish is a pony."
+          ]
+        },
+        "more": {
+          "def": "A strong feeling of wanting something to happen.",
+          "examples": [
+            "Blow out the candles and make a wish.",
+            "His wish was to see the ocean one day.",
+            "They did their best to grant her wish."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "with",
+    "say": "with",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "A word that shows two things go together.",
+          "examples": [
+            "I play with my friend.",
+            "Cut it with scissors.",
+            "She came with her dad."
+          ]
+        },
+        "more": {
+          "def": "A word used to show that people or things are together, or to show the tool or thing that is used.",
+          "examples": [
+            "We walked to the park with our grandfather.",
+            "He painted the picture with a thin brush.",
+            "A sandwich with cheese and tomato is my favorite lunch."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "without",
+    "say": "with-OWT",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Not having something.",
+          "examples": [
+            "I went without a coat.",
+            "Tea without sugar.",
+            "Do not go without me."
+          ]
+        },
+        "more": {
+          "def": "Not having or not using something.",
+          "examples": [
+            "We cannot live without water.",
+            "She left the house without her umbrella.",
+            "He solved the puzzle without any help."
           ]
         }
       }

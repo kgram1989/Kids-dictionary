@@ -84,6 +84,55 @@
     ]
   },
   {
+    "word": "make",
+    "say": "mayk",
+    "forms": [
+      "makes",
+      "made",
+      "making"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put things together to get something new.",
+          "examples": [
+            "I make a card.",
+            "She made a cake.",
+            "We make a fort."
+          ]
+        },
+        "more": {
+          "def": "To build, create, or prepare something by putting parts together.",
+          "examples": [
+            "Bees make honey from the nectar of flowers.",
+            "We made a poster for the school play.",
+            "He is making a sandwich for his lunch."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cause something to happen.",
+          "examples": [
+            "The joke made me laugh.",
+            "Rain makes puddles.",
+            "She made him smile."
+          ]
+        },
+        "more": {
+          "def": "To cause something to happen or to be a certain way.",
+          "examples": [
+            "The loud thunder made the baby cry.",
+            "Good exercise makes your body strong.",
+            "Sunlight makes the plants grow tall."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mammal",
     "say": "MAM-ul",
     "emoji": "🐄",
@@ -107,6 +156,183 @@
             "Whales are mammals, even though they live in the sea.",
             "Bats are the only mammals that can fly.",
             "Like all mammals, a baby elephant drinks its mother's milk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "man",
+    "say": "man",
+    "forms": [
+      "men"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A male person who is not a child.",
+          "examples": [
+            "The man waved to us.",
+            "A man fixed our car.",
+            "That man is my uncle."
+          ]
+        },
+        "more": {
+          "def": "An adult male person.",
+          "examples": [
+            "The man at the bakery gave us warm bread.",
+            "Two men carried the piano up the stairs.",
+            "He grew from a small boy into a tall man."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "many",
+    "say": "MEN-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A large number of.",
+          "examples": [
+            "I have many toys.",
+            "Many birds fly south.",
+            "How many are there?"
+          ]
+        },
+        "more": {
+          "def": "A large number of people or things.",
+          "examples": [
+            "Many students ride the bus to school.",
+            "There are too many stars in the sky to count.",
+            "How many apples are in the basket?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "married",
+    "say": "MAIR-eed",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Joined together as a husband and wife.",
+          "examples": [
+            "My aunt is married.",
+            "They are a married pair.",
+            "The married couple smiled."
+          ]
+        },
+        "more": {
+          "def": "Having a husband or a wife by a wedding.",
+          "examples": [
+            "My parents have been married for fifteen years.",
+            "The newly married couple waved from the car.",
+            "Her uncle is married to my teacher."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "matter",
+    "say": "MAT-er",
+    "forms": [
+      "matters",
+      "mattered",
+      "mattering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be important.",
+          "examples": [
+            "You matter to me.",
+            "It does not matter.",
+            "What matters is being kind."
+          ]
+        },
+        "more": {
+          "def": "To be important or to make a difference.",
+          "examples": [
+            "It does not matter who wins, as long as we have fun.",
+            "Your opinion matters to our class.",
+            "Good sleep matters when you are growing."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What things are made of.",
+          "examples": [
+            "Rock is a kind of matter.",
+            "Water is matter.",
+            "Air is matter too."
+          ]
+        },
+        "more": {
+          "def": "Anything that takes up space and has weight, such as solids, liquids, and gases.",
+          "examples": [
+            "Rocks, water, and air are all kinds of matter.",
+            "Matter can change from ice to water to steam.",
+            "Scientists study how matter behaves when it is heated."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "may",
+    "say": "may",
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "A word used to ask or say what is allowed.",
+          "examples": [
+            "May I go out?",
+            "You may sit here.",
+            "May I have some?"
+          ]
+        },
+        "more": {
+          "def": "A word used to ask for permission, or to say that something is possible.",
+          "examples": [
+            "May I borrow your ruler for a minute?",
+            "It may rain later, so take an umbrella.",
+            "You may leave the table when you have finished eating."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "maybe",
+    "say": "MAY-bee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Not sure, but it may be.",
+          "examples": [
+            "Maybe it will rain.",
+            "Maybe I can come.",
+            "Maybe she is home."
+          ]
+        },
+        "more": {
+          "def": "Possibly, or perhaps, when you are not sure.",
+          "examples": [
+            "Maybe we can go to the park if the rain stops.",
+            "I am not sure, but maybe my sister took it.",
+            "Maybe the answer is on the next page."
           ]
         }
       }

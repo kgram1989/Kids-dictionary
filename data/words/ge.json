@@ -53,5 +53,55 @@
         }
       }
     ]
+  },
+  {
+    "word": "get",
+    "say": "get",
+    "forms": [
+      "gets",
+      "got",
+      "gotten",
+      "getting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have something come to you or to go and bring it.",
+          "examples": [
+            "I get a new book today.",
+            "Please get your coat.",
+            "She got a letter."
+          ]
+        },
+        "more": {
+          "def": "To receive or obtain something, or to go and bring it back.",
+          "examples": [
+            "My sister got a bike for her birthday.",
+            "Can you get the scissors from the kitchen drawer?",
+            "We get snow here almost every winter."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To become something.",
+          "examples": [
+            "I get sleepy at night.",
+            "It gets cold in winter.",
+            "She got tall this year."
+          ]
+        },
+        "more": {
+          "def": "To change into a different condition or state.",
+          "examples": [
+            "The sky gets dark when a storm is coming.",
+            "He got nervous before the spelling bee.",
+            "Ice cream gets soft if you leave it in the sun."
+          ]
+        }
+      }
+    ]
   }
 ]

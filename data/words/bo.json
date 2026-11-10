@@ -1,5 +1,61 @@
 [
   {
+    "word": "body",
+    "say": "BOD-ee",
+    "forms": [
+      "bodies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "All of a person or animal, from head to foot.",
+          "examples": [
+            "My body is strong.",
+            "Wash your body.",
+            "A bird has a small body."
+          ]
+        },
+        "more": {
+          "def": "The whole physical form of a person or animal, including the head, arms, and legs.",
+          "examples": [
+            "Exercise helps keep your body healthy.",
+            "The giraffe has a long neck and a small body.",
+            "She wrapped a towel around her body after swimming."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "book",
+    "say": "buuk",
+    "forms": [
+      "books"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Pages with words or pictures that you read.",
+          "examples": [
+            "I read a book.",
+            "She has a new book.",
+            "This book is funny."
+          ]
+        },
+        "more": {
+          "def": "A set of pages with words or pictures that are joined together in a cover.",
+          "examples": [
+            "I borrowed a book about space from the library.",
+            "My favorite book has a green cover and a hundred pages.",
+            "This book has a story about a dragon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "borrow",
     "say": "BOR-oh",
     "forms": [
@@ -30,6 +86,31 @@
     ]
   },
   {
+    "word": "both",
+    "say": "bohth",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "The two of them.",
+          "examples": [
+            "I like both.",
+            "Both are good.",
+            "Hold it with both hands."
+          ]
+        },
+        "more": {
+          "def": "The one and the other of two people or things.",
+          "examples": [
+            "Both of my brothers play the guitar.",
+            "I tried the red and the blue shirts, and I like both.",
+            "Both teams ran onto the field at the same time."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "boundary",
     "say": "BOWN-dree",
     "forms": [
@@ -52,6 +133,34 @@
             "The river forms the boundary between the two countries.",
             "The ball rolled past the boundary, so play stopped.",
             "Mountains form a natural boundary between the two valleys."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "boy",
+    "say": "boy",
+    "forms": [
+      "boys"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A male child.",
+          "examples": [
+            "The boy is my brother.",
+            "A boy kicked the ball.",
+            "That boy is in my class."
+          ]
+        },
+        "more": {
+          "def": "A male child or young man.",
+          "examples": [
+            "The boy on the bus gave his seat to an older lady.",
+            "A group of boys was building a sandcastle at the beach.",
+            "He was a curious boy who asked questions about everything."
           ]
         }
       }

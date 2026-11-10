@@ -1,5 +1,52 @@
 [
   {
+    "word": "room",
+    "say": "room",
+    "forms": [
+      "rooms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of a building with walls.",
+          "examples": [
+            "My room is blue.",
+            "The kitchen is a room.",
+            "The class is in this room."
+          ]
+        },
+        "more": {
+          "def": "A part of a building that has its own walls, floor, and ceiling.",
+          "examples": [
+            "Our house has a bedroom, a kitchen, and a living room.",
+            "The students walked quietly into the music room.",
+            "My brother and I share a room."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Space that is open or free.",
+          "examples": [
+            "There is room for you.",
+            "We have no room.",
+            "Make room for me."
+          ]
+        },
+        "more": {
+          "def": "Enough empty space for something.",
+          "examples": [
+            "There is plenty of room on the bench for three more people.",
+            "The suitcase had no room for another sweater.",
+            "Please make room for the new student."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "rough",
     "say": "ruf",
     "forms": [

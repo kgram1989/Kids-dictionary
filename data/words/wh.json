@@ -1,5 +1,193 @@
 [
   {
+    "word": "what",
+    "say": "wut",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A word used to ask about something.",
+          "examples": [
+            "What is your name?",
+            "What do you want to eat?",
+            "What is in the box?"
+          ]
+        },
+        "more": {
+          "def": "A word used to ask a question about a thing or an idea, or to stand for the thing that someone is talking about.",
+          "examples": [
+            "What time does the movie start?",
+            "I do not know what the answer is.",
+            "Tell me what you saw at the farm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "whatever",
+    "say": "wut-EV-er",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "Any thing at all.",
+          "examples": [
+            "Eat whatever you like.",
+            "Do whatever you want.",
+            "Take whatever you need."
+          ]
+        },
+        "more": {
+          "def": "Anything or everything that, no matter what it is.",
+          "examples": [
+            "You can paint whatever you like on the paper.",
+            "Whatever happens, we will stay together.",
+            "Pick whatever flavor you want."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "when",
+    "say": "wen",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "A word used to ask at what time.",
+          "examples": [
+            "When is lunch?",
+            "When do we go?",
+            "When will you come?"
+          ]
+        },
+        "more": {
+          "def": "A word used to ask about the time that something happens.",
+          "examples": [
+            "When does the library open on Saturdays?",
+            "Do you know when the next bus will arrive?",
+            "When did you lose your first tooth?"
+          ]
+        }
+      },
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "At the time that something happens.",
+          "examples": [
+            "I smile when I see you.",
+            "Call me when you are home.",
+            "When it rains, we stay in."
+          ]
+        },
+        "more": {
+          "def": "At the moment or during the time that something happens.",
+          "examples": [
+            "The frogs start singing when the sun goes down.",
+            "Turn off the lights when you leave the room.",
+            "When I was little, I was afraid of thunder."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "where",
+    "say": "wair",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "A word used to ask about a place.",
+          "examples": [
+            "Where is my hat?",
+            "Where do you live?",
+            "Where did the cat go?"
+          ]
+        },
+        "more": {
+          "def": "A word used to ask about a place, or to say the place in which something happens.",
+          "examples": [
+            "Where does the river begin?",
+            "This is the spot where we found the old coin.",
+            "Do you know where the library is?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "which",
+    "say": "wich",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A word used to ask about one out of a few.",
+          "examples": [
+            "Which one do you want?",
+            "Which is your coat?",
+            "Which way is home?"
+          ]
+        },
+        "more": {
+          "def": "A word used to ask or tell what one of a group is meant.",
+          "examples": [
+            "Which of these books have you already read?",
+            "I could not tell which twin was Ava.",
+            "Tell me which road leads to the lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "while",
+    "say": "wyl",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "At the same time as.",
+          "examples": [
+            "I sing while I walk.",
+            "Read while I cook.",
+            "She naps while it rains."
+          ]
+        },
+        "more": {
+          "def": "During the time that something else is happening.",
+          "examples": [
+            "The audience stayed quiet while the band played.",
+            "I did my homework while my sister set the table.",
+            "Birds sing while the sun comes up."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short time.",
+          "examples": [
+            "Stay for a while.",
+            "It was a long while ago.",
+            "Rest a while."
+          ]
+        },
+        "more": {
+          "def": "A period of time.",
+          "examples": [
+            "It took a while for the paint to dry.",
+            "We waited for a while at the bus stop.",
+            "She has not played the piano in a long while."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "whisper",
     "say": "WISS-per",
     "emoji": "🤫",
@@ -25,6 +213,85 @@
             "He whispered the secret into his sister's ear.",
             "The children whispered so they would not wake the baby.",
             "The wind whispered through the tall grass."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "who",
+    "say": "hoo",
+    "forms": [
+      "whom",
+      "whose"
+    ],
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A word used to ask which person.",
+          "examples": [
+            "Who is at the door?",
+            "Who has my hat?",
+            "Who wants some juice?"
+          ]
+        },
+        "more": {
+          "def": "A word used to ask which person or people, or to tell more about a person you just named.",
+          "examples": [
+            "Who wrote the book about the sea turtle?",
+            "The girl who sits next to me is new.",
+            "I know who left the muddy footprints on the floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "whole",
+    "say": "hohl",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "All of something, with no part missing.",
+          "examples": [
+            "I ate the whole apple.",
+            "She read the whole book.",
+            "The whole class cheered."
+          ]
+        },
+        "more": {
+          "def": "Complete, with nothing left out or broken.",
+          "examples": [
+            "He ate the whole sandwich and was still hungry.",
+            "The whole class went on the trip to the zoo.",
+            "We looked for the whole afternoon but could not find the key."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "why",
+    "say": "wy",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "A word used to ask for the reason.",
+          "examples": [
+            "Why is the sky blue?",
+            "Why are you sad?",
+            "Why did the bell ring?"
+          ]
+        },
+        "more": {
+          "def": "A word used to ask for the reason that something happens or is done.",
+          "examples": [
+            "Why do leaves change color in the fall?",
+            "I do not know why my pencil keeps breaking.",
+            "Can you explain why we need to sleep?"
           ]
         }
       }

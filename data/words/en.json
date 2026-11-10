@@ -1,5 +1,54 @@
 [
   {
+    "word": "end",
+    "say": "end",
+    "forms": [
+      "ends",
+      "ended",
+      "ending"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The last part of something.",
+          "examples": [
+            "The end of the story.",
+            "Go to the end of the line.",
+            "This is the end."
+          ]
+        },
+        "more": {
+          "def": "The last part of something, or the point where it stops.",
+          "examples": [
+            "We cheered at the end of the movie.",
+            "The store is at the end of Maple Street.",
+            "Summer ends in the last days of August."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop, or to finish.",
+          "examples": [
+            "School ends at three.",
+            "The show ended.",
+            "The rain will end soon."
+          ]
+        },
+        "more": {
+          "def": "To come to a stop, or to bring something to a stop.",
+          "examples": [
+            "The concert ended with a loud round of clapping.",
+            "The path ends at a quiet lake.",
+            "We ended our picnic when the clouds rolled in."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "enemy",
     "say": "EN-uh-mee",
     "forms": [
@@ -104,6 +153,31 @@
             "An enormous wave crashed over the rocks.",
             "The library has an enormous collection of books.",
             "An enormous tree had fallen across the road."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "enough",
+    "say": "ih-NUF",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "As much as you need.",
+          "examples": [
+            "Do we have enough milk?",
+            "I have had enough.",
+            "There is enough for all."
+          ]
+        },
+        "more": {
+          "def": "As much as is needed or wanted.",
+          "examples": [
+            "We do not have enough chairs for the whole class.",
+            "There is enough time to finish the picture before lunch.",
+            "Is the soup hot enough for you?"
           ]
         }
       }

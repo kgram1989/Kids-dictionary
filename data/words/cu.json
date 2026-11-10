@@ -24,5 +24,53 @@
         }
       }
     ]
+  },
+  {
+    "word": "cut",
+    "say": "kut",
+    "forms": [
+      "cuts",
+      "cutting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To use something sharp to split or open.",
+          "examples": [
+            "Cut the paper.",
+            "She cut the cake.",
+            "I cut the string."
+          ]
+        },
+        "more": {
+          "def": "To use a sharp tool to split, open, or take off a piece of something.",
+          "examples": [
+            "Please cut the apple into four pieces.",
+            "He cut a long piece of string for the kite.",
+            "The barber cut my hair very short."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small hurt made by something sharp.",
+          "examples": [
+            "I have a cut.",
+            "She has a cut on her hand.",
+            "A cut can sting."
+          ]
+        },
+        "more": {
+          "def": "An opening or injury made by something sharp.",
+          "examples": [
+            "She had a small cut on her finger from the paper.",
+            "The nurse put a bandage on the cut.",
+            "He made a straight cut in the cloth."
+          ]
+        }
+      }
+    ]
   }
 ]

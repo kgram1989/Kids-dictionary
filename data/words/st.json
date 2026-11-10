@@ -1,5 +1,133 @@
 [
   {
+    "word": "stand",
+    "say": "stand",
+    "forms": [
+      "stands",
+      "stood",
+      "standing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be up on your legs.",
+          "examples": [
+            "Stand up, please.",
+            "I stand in line.",
+            "The tree stood tall."
+          ]
+        },
+        "more": {
+          "def": "To be upright on your feet, or to be placed upright.",
+          "examples": [
+            "Please stand when the flag goes by.",
+            "The old barn stood at the top of the hill.",
+            "Flamingos can stand on one leg for a long time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "start",
+    "say": "start",
+    "forms": [
+      "starts",
+      "started",
+      "starting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To begin something.",
+          "examples": [
+            "School starts at eight.",
+            "I start my book.",
+            "The race started."
+          ]
+        },
+        "more": {
+          "def": "To begin something, or to make something begin working.",
+          "examples": [
+            "The concert starts at seven o'clock tonight.",
+            "Dad started the car and turned on the heat.",
+            "She started drawing as soon as she got the paper."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The first part of something.",
+          "examples": [
+            "It was a good start.",
+            "The start of the race is here.",
+            "We ate at the start."
+          ]
+        },
+        "more": {
+          "def": "The point at which something begins.",
+          "examples": [
+            "The runners lined up at the start of the race.",
+            "We read the start of the story and wanted to hear more.",
+            "The first day of school is a fresh start."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stay",
+    "say": "stay",
+    "forms": [
+      "stays",
+      "stayed",
+      "staying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be in the same place and not go.",
+          "examples": [
+            "Stay here.",
+            "The dog stays home.",
+            "She stayed in bed."
+          ]
+        },
+        "more": {
+          "def": "To remain in a place and not leave.",
+          "examples": [
+            "Please stay in your seats until the bell rings.",
+            "We stayed inside because of the thunder.",
+            "The turtle stayed under the rock all afternoon."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To live somewhere for a little while.",
+          "examples": [
+            "We stay at a hotel.",
+            "I stayed at Grandma's.",
+            "They stay for a week."
+          ]
+        },
+        "more": {
+          "def": "To live or sleep somewhere for a short time.",
+          "examples": [
+            "We stayed at a cabin by the lake for the weekend.",
+            "My cousin is staying with us for a week.",
+            "The travelers stayed in a small hotel near the station."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "steady",
     "say": "STED-ee",
     "forms": [
@@ -23,6 +151,127 @@
             "She kept a steady hand while she painted the tiny flowers.",
             "A steady rain fell all day.",
             "He walked at a steady pace for miles."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "still",
+    "say": "stil",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Even now, or even then.",
+          "examples": [
+            "I am still hungry.",
+            "It is still raining.",
+            "She is still here."
+          ]
+        },
+        "more": {
+          "def": "Up to this time, or even so.",
+          "examples": [
+            "It was late, but the children were still awake.",
+            "He lost the game, but he still had fun.",
+            "Is the museum still open at this hour?"
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not moving.",
+          "examples": [
+            "Stand still.",
+            "The pond is still.",
+            "The cat sat still."
+          ]
+        },
+        "more": {
+          "def": "Not moving, or quiet and calm.",
+          "examples": [
+            "The still water looked like a mirror in the morning light.",
+            "Hold still while I take your picture.",
+            "The forest was still, with not a sound to be heard."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stop",
+    "say": "stop",
+    "forms": [
+      "stops",
+      "stopped",
+      "stopping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not move or go on any more.",
+          "examples": [
+            "The bus will stop.",
+            "Stop at the red light.",
+            "The rain stopped."
+          ]
+        },
+        "more": {
+          "def": "To end an action or movement, or to make something end.",
+          "examples": [
+            "The bus stops at the corner every morning.",
+            "Please stop talking so we can hear the song.",
+            "A fence stopped the sheep from wandering off."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where a bus or train waits.",
+          "examples": [
+            "This is my stop.",
+            "The bus stop is near.",
+            "We waited at the stop."
+          ]
+        },
+        "more": {
+          "def": "A place where a bus, train, or other vehicle halts to let people on or off.",
+          "examples": [
+            "Our school bus stop is at the end of the street.",
+            "The train made a stop at every small town.",
+            "Get off at the next stop for the museum."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "story",
+    "say": "STOR-ee",
+    "forms": [
+      "stories"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words about things that happen.",
+          "examples": [
+            "Read me a story.",
+            "I like that story.",
+            "She told a story."
+          ]
+        },
+        "more": {
+          "def": "An account of real or made-up events, told or written to entertain people.",
+          "examples": [
+            "Grandpa told us a story about a talking fox.",
+            "The story ended with a happy surprise.",
+            "I wrote a story about a robot who loved to cook."
           ]
         }
       }
@@ -79,6 +328,31 @@
             "He was too stubborn to admit that he was lost.",
             "The stubborn stain would not come out.",
             "The stubborn mule refused to cross the bridge."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stuff",
+    "say": "stuf",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things that you do not name.",
+          "examples": [
+            "I packed my stuff.",
+            "Put your stuff away.",
+            "There is stuff in the box."
+          ]
+        },
+        "more": {
+          "def": "Things or materials that are not named exactly.",
+          "examples": [
+            "Put all your stuff in your backpack before you leave.",
+            "What is that sticky stuff on the table?",
+            "There is a lot of old stuff in the attic."
           ]
         }
       }

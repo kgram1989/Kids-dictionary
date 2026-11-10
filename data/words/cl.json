@@ -1,5 +1,56 @@
 [
   {
+    "word": "clear",
+    "say": "kleer",
+    "forms": [
+      "clearer",
+      "clearest",
+      "clears",
+      "cleared",
+      "clearing"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Easy to see through.",
+          "examples": [
+            "The water is clear.",
+            "A clear glass.",
+            "The sky is clear."
+          ]
+        },
+        "more": {
+          "def": "Easy to see through, or with nothing blocking your view.",
+          "examples": [
+            "The water in the pond was so clear that we could see fish.",
+            "It was a clear night, so we could see thousands of stars.",
+            "She wiped the window until it was clear."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Easy to understand.",
+          "examples": [
+            "The rules are clear.",
+            "Her words were clear.",
+            "Is that clear?"
+          ]
+        },
+        "more": {
+          "def": "Easy to understand, hear, or read.",
+          "examples": [
+            "The teacher gave clear directions for the project.",
+            "Speak in a clear voice so everyone can hear you.",
+            "The sign was clear, so we knew where to turn."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "climate",
     "say": "KLY-mut",
     "emoji": "🌍",
@@ -23,6 +74,56 @@
             "Penguins live in a very cold climate.",
             "Oranges grow best in a warm, sunny climate.",
             "Scientists study how the Earth's climate is changing."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "close",
+    "say": "klohz",
+    "forms": [
+      "closes",
+      "closed",
+      "closing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shut something.",
+          "examples": [
+            "Close the door.",
+            "I closed my book.",
+            "She closes her eyes."
+          ]
+        },
+        "more": {
+          "def": "To shut something, or to stop being open.",
+          "examples": [
+            "Please close the gate so the dog cannot get out.",
+            "The shop closes at six o'clock each evening.",
+            "He closed his eyes and made a wish."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "say": "klohss",
+        "easy": {
+          "def": "Near to something.",
+          "examples": [
+            "The park is close.",
+            "Stand close to me.",
+            "We are close to home."
+          ]
+        },
+        "more": {
+          "def": "Not far away in distance or time.",
+          "examples": [
+            "Our house is close to the school, so we walk there.",
+            "Winter is close, and the leaves are almost gone.",
+            "Stand close together so everyone fits in the picture."
           ]
         }
       }

@@ -29,5 +29,58 @@
         }
       }
     ]
+  },
+  {
+    "word": "nice",
+    "say": "nyss",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Kind and friendly.",
+          "examples": [
+            "She is a nice girl.",
+            "He was nice to me.",
+            "What a nice dog!"
+          ]
+        },
+        "more": {
+          "def": "Kind, friendly, or pleasant.",
+          "examples": [
+            "The nice neighbor brought us a basket of apples.",
+            "We had a nice walk along the beach.",
+            "It is nice to see you again."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "night",
+    "say": "nyt",
+    "forms": [
+      "nights"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The time when it is dark and people sleep.",
+          "examples": [
+            "The moon shines at night.",
+            "Good night!",
+            "I sleep all night."
+          ]
+        },
+        "more": {
+          "def": "The time between sunset and sunrise, when it is dark outside.",
+          "examples": [
+            "Owls hunt at night when the forest is quiet.",
+            "We camped under the stars all night.",
+            "It was a cold night, so we lit the fire."
+          ]
+        }
+      }
+    ]
   }
 ]

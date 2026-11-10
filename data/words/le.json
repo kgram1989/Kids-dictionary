@@ -28,6 +28,80 @@
     ]
   },
   {
+    "word": "leave",
+    "say": "leev",
+    "forms": [
+      "leaves",
+      "left",
+      "leaving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go away from a place.",
+          "examples": [
+            "We leave at noon.",
+            "She left the room.",
+            "The bus leaves soon."
+          ]
+        },
+        "more": {
+          "def": "To go away from a place or a person.",
+          "examples": [
+            "The train leaves the station at nine o'clock.",
+            "Please leave the room quietly when the bell rings.",
+            "We left the beach before the tide came in."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let something stay where it is.",
+          "examples": [
+            "Leave your shoes here.",
+            "I left my hat at home.",
+            "Do not leave the door open."
+          ]
+        },
+        "more": {
+          "def": "To let something stay in a place, or to forget to take it with you.",
+          "examples": [
+            "Leave your boots by the door so you do not track in mud.",
+            "I left my lunch box on the school bus.",
+            "Please leave some cake for your brother."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "left",
+    "say": "left",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "On the side of the body opposite the right.",
+          "examples": [
+            "Raise your left hand.",
+            "Turn left here.",
+            "My left shoe is wet."
+          ]
+        },
+        "more": {
+          "def": "On the side of your body that is opposite the right side.",
+          "examples": [
+            "Most people hold a fork in their left hand.",
+            "The bakery is on the left side of the street.",
+            "She tied her left shoe, then her right one."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "legend",
     "say": "LEJ-und",
     "emoji": "🐉",
@@ -51,6 +125,35 @@
             "According to legend, a giant made these hills.",
             "The legend says a monster lives in the lake.",
             "Many legends are told about the brave king."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "let",
+    "say": "let",
+    "forms": [
+      "lets",
+      "letting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say yes to something.",
+          "examples": [
+            "Mom let me stay up.",
+            "Please let me help.",
+            "Let the dog out."
+          ]
+        },
+        "more": {
+          "def": "To give someone permission, or to allow something to happen.",
+          "examples": [
+            "My dad let me pick the movie on Friday night.",
+            "She opened the window to let fresh air into the room.",
+            "Do not let the cat get out of the house."
           ]
         }
       }

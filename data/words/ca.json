@@ -1,5 +1,73 @@
 [
   {
+    "word": "call",
+    "say": "kawl",
+    "forms": [
+      "calls",
+      "called",
+      "calling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say something in a loud voice.",
+          "examples": [
+            "I call to my dog.",
+            "Mom called us for dinner.",
+            "She calls from the yard."
+          ]
+        },
+        "more": {
+          "def": "To shout or speak loudly to get someone's attention.",
+          "examples": [
+            "The coach called to the players from the sideline.",
+            "I heard someone calling my name across the field.",
+            "Please call the children inside when it starts to rain."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To use a phone to talk to someone.",
+          "examples": [
+            "I will call Grandma.",
+            "He called me last night.",
+            "Call me later."
+          ]
+        },
+        "more": {
+          "def": "To telephone someone.",
+          "examples": [
+            "I will call my cousin to wish her a happy birthday.",
+            "She called the library to ask when it closes.",
+            "Please call us when you get to the airport."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give a name to someone or something.",
+          "examples": [
+            "We call our cat Mittens.",
+            "They called the baby Leo.",
+            "What do you call this plant?"
+          ]
+        },
+        "more": {
+          "def": "To give a name to someone or something, or to describe it with a certain word.",
+          "examples": [
+            "People call that big yellow flower a sunflower.",
+            "We called our new puppy Biscuit.",
+            "Scientists call baby frogs tadpoles."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "calm",
     "say": "kahm",
     "emoji": "😌",
@@ -56,6 +124,78 @@
     ]
   },
   {
+    "word": "can",
+    "say": "kan",
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "Able to do something.",
+          "examples": [
+            "I can tie my shoes.",
+            "Birds can fly.",
+            "Can you swim?"
+          ]
+        },
+        "more": {
+          "def": "Used to show that someone is able to do something or is allowed to do it.",
+          "examples": [
+            "Cheetahs can run faster than any other land animal.",
+            "You can borrow my pencil if you give it back.",
+            "Can I help you carry those books?"
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round metal container for food or drinks.",
+          "examples": [
+            "I opened a can of soup.",
+            "Put the can in the bin.",
+            "The can was empty."
+          ]
+        },
+        "more": {
+          "def": "A metal container, often shaped like a tube, that is used to hold food, drinks, or paint.",
+          "examples": [
+            "He used a can of paint to color the fence.",
+            "The class collected cans of food for families in need.",
+            "She rinsed the soup can before putting it in the recycling."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "captain",
+    "say": "KAP-tin",
+    "forms": [
+      "captains"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The leader of a ship or a team.",
+          "examples": [
+            "The captain steered.",
+            "She is the team captain.",
+            "The captain waved."
+          ]
+        },
+        "more": {
+          "def": "The person in charge of a ship, plane, or sports team.",
+          "examples": [
+            "The captain steered the ship safely into the harbor.",
+            "Our soccer team chose Maya as captain.",
+            "The pilot is the captain of the plane."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "capture",
     "say": "KAP-cher",
     "forms": [
@@ -86,6 +226,83 @@
     ]
   },
   {
+    "word": "car",
+    "say": "kar",
+    "forms": [
+      "cars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A vehicle with four wheels that people ride in.",
+          "examples": [
+            "We ride in a car.",
+            "The red car stopped.",
+            "Dad washed the car."
+          ]
+        },
+        "more": {
+          "def": "A road vehicle with an engine and four wheels that carries a few people.",
+          "examples": [
+            "Our family drove the car to the lake for the weekend.",
+            "The car stopped at the red light.",
+            "She buckled her seat belt as soon as she got into the car."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "care",
+    "say": "kair",
+    "forms": [
+      "cares",
+      "cared",
+      "caring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To feel that someone or something matters.",
+          "examples": [
+            "I care about my friend.",
+            "She cares for her pet.",
+            "He cared a lot."
+          ]
+        },
+        "more": {
+          "def": "To feel that something is important, or to look after someone or something.",
+          "examples": [
+            "I care about my friends, and I listen when they are upset.",
+            "She cares for the class hamster on weekends.",
+            "Do you care which game we play?"
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being careful or looking after someone.",
+          "examples": [
+            "Take care.",
+            "The baby needs care.",
+            "Handle it with care."
+          ]
+        },
+        "more": {
+          "def": "Close attention to avoid mistakes or harm, or the act of looking after someone or something.",
+          "examples": [
+            "Carry the eggs with care so that they do not break.",
+            "The nurse gave the patient good care.",
+            "A garden needs a lot of care in the summer."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "careful",
     "say": "KAIR-ful",
     "senses": [
@@ -105,6 +322,170 @@
             "She was careful not to step on the wet paint.",
             "He made a careful drawing of the bird's feathers.",
             "Be careful to check your answers before you turn in the test."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "case",
+    "say": "kayss",
+    "forms": [
+      "cases"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A box or cover to hold something.",
+          "examples": [
+            "I put it in a case.",
+            "The glasses are in a case.",
+            "She has a pencil case."
+          ]
+        },
+        "more": {
+          "def": "A box or cover that holds or protects something.",
+          "examples": [
+            "He put his glasses in their case.",
+            "The museum keeps the old coins in a glass case.",
+            "I keep my markers in a zip-up pencil case."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An example of something that happens.",
+          "examples": [
+            "In this case, we wait.",
+            "It is a rare case.",
+            "That is not the case."
+          ]
+        },
+        "more": {
+          "def": "A particular situation or example of something.",
+          "examples": [
+            "In this case, the answer is yes, because the rule says so.",
+            "It was a case of mixed-up names.",
+            "The detective worked on a very strange case."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "catch",
+    "say": "kach",
+    "forms": [
+      "catches",
+      "caught",
+      "catching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To grab something that is moving.",
+          "examples": [
+            "Catch the ball.",
+            "The dog caught the stick.",
+            "I can catch it."
+          ]
+        },
+        "more": {
+          "def": "To grab and hold something that is moving through the air.",
+          "examples": [
+            "Can you catch the ball when I throw it?",
+            "The goalie caught the ball with both hands.",
+            "She caught the leaf as it fell from the tree."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get on a bus or train in time.",
+          "examples": [
+            "We catch the bus.",
+            "She caught the train.",
+            "Hurry and catch it."
+          ]
+        },
+        "more": {
+          "def": "To get on a bus, train, or plane before it leaves.",
+          "examples": [
+            "We ran to catch the school bus.",
+            "He caught the early train to the city.",
+            "If we hurry, we can catch the last boat."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get sick from a germ.",
+          "examples": [
+            "I caught a cold.",
+            "He caught the flu.",
+            "Do not catch cold."
+          ]
+        },
+        "more": {
+          "def": "To become sick with something, such as a cold.",
+          "examples": [
+            "My brother caught a cold after playing in the rain.",
+            "She caught the flu and stayed home for a week.",
+            "Wash your hands to avoid catching germs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cause",
+    "say": "kawz",
+    "forms": [
+      "causes",
+      "caused",
+      "causing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something happen.",
+          "examples": [
+            "Rain can cause floods.",
+            "The wind caused the door to shut.",
+            "Ice causes slips."
+          ]
+        },
+        "more": {
+          "def": "To make something happen.",
+          "examples": [
+            "Heavy rain can cause a river to overflow.",
+            "The loud noise caused the baby to wake up.",
+            "Too much sun can cause a sunburn."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The reason something happens.",
+          "examples": [
+            "What is the cause?",
+            "Rain is the cause.",
+            "The cause was a storm."
+          ]
+        },
+        "more": {
+          "def": "The thing that makes something happen.",
+          "examples": [
+            "The cause of the traffic jam was a broken-down truck.",
+            "Scientists look for the cause of the strange noise.",
+            "A spark was the cause of the small fire."
           ]
         }
       }

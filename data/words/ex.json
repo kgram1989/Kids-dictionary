@@ -1,5 +1,30 @@
 [
   {
+    "word": "exactly",
+    "say": "ig-ZAKT-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Just right, with no mistake.",
+          "examples": [
+            "It fits exactly.",
+            "That is exactly right.",
+            "She knew exactly what to do."
+          ]
+        },
+        "more": {
+          "def": "In a way that is completely correct, with nothing more or less.",
+          "examples": [
+            "The two pieces fit together exactly.",
+            "It is exactly three o'clock.",
+            "I knew exactly where I had put my keys."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "examine",
     "say": "eg-ZAM-in",
     "emoji": "🔬",
@@ -25,6 +50,56 @@
             "We examined the leaf under a magnifying glass.",
             "The detective examined the room for clues.",
             "She examined the coin closely to read its date."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "excuse",
+    "say": "ik-SKYOOZ",
+    "forms": [
+      "excuses",
+      "excused",
+      "excusing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say it is okay that someone did something.",
+          "examples": [
+            "Please excuse me.",
+            "He excused her.",
+            "Excuse my mess."
+          ]
+        },
+        "more": {
+          "def": "To forgive a small mistake, or to let someone leave.",
+          "examples": [
+            "Please excuse me for being late to class.",
+            "The teacher excused the students for lunch.",
+            "She excused his mistake because it was an accident."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "say": "ik-SKYOOSS",
+        "easy": {
+          "def": "A reason you give for something you did.",
+          "examples": [
+            "I have an excuse.",
+            "His excuse was silly.",
+            "That is not a good excuse."
+          ]
+        },
+        "more": {
+          "def": "A reason that you give to explain why something happened or was not done.",
+          "examples": [
+            "His excuse for being late was that the bus broke down.",
+            "She had no excuse for forgetting her homework.",
+            "Rain is not an excuse to stay inside all day."
           ]
         }
       }

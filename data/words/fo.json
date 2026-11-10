@@ -1,5 +1,30 @@
 [
   {
+    "word": "for",
+    "say": "for",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "A word that shows who gets something or why.",
+          "examples": [
+            "This card is for you.",
+            "I saved a seat for Dad.",
+            "We have a treat for the dog."
+          ]
+        },
+        "more": {
+          "def": "A word used to show who gets something, what its purpose is, or how long something lasts.",
+          "examples": [
+            "The nurse made a bandage for my scraped knee.",
+            "We waited for the bus for ten minutes.",
+            "A saw is a tool for cutting wood."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "forest",
     "say": "FOR-ist",
     "emoji": "🌲",
@@ -29,6 +54,37 @@
     ]
   },
   {
+    "word": "forget",
+    "say": "fer-GET",
+    "forms": [
+      "forgets",
+      "forgot",
+      "forgotten",
+      "forgetting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not remember.",
+          "examples": [
+            "I forget his name.",
+            "She forgot her hat.",
+            "Do not forget me."
+          ]
+        },
+        "more": {
+          "def": "To be unable to remember something, or to not do it because you did not think of it.",
+          "examples": [
+            "I forgot where I put my library book.",
+            "Do not forget to feed the fish before you go.",
+            "He has never forgotten the day he saw a whale."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fossil",
     "say": "FOSS-ul",
     "emoji": "🦴",
@@ -52,6 +108,31 @@
             "The fossil showed the shape of a fish that lived millions of years ago.",
             "Fossils help scientists learn about animals from long ago.",
             "He found a leaf fossil in a piece of stone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "four",
+    "say": "for",
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "The number 4.",
+          "examples": [
+            "I have four crayons.",
+            "Four plus one is five.",
+            "A cat has four legs."
+          ]
+        },
+        "more": {
+          "def": "The number 4, which is one more than three.",
+          "examples": [
+            "A year has four seasons.",
+            "We saw four deer by the road.",
+            "The clock struck four."
           ]
         }
       }

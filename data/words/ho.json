@@ -1,5 +1,63 @@
 [
   {
+    "word": "hold",
+    "say": "hohld",
+    "forms": [
+      "holds",
+      "held",
+      "holding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have something in your hands.",
+          "examples": [
+            "Hold my hand.",
+            "She holds a cup.",
+            "He held the baby."
+          ]
+        },
+        "more": {
+          "def": "To have something in your hands or arms, or to keep it in place.",
+          "examples": [
+            "Hold the rope tightly so that you do not fall.",
+            "She held the kitten gently in her arms.",
+            "The shelf holds all of our heavy books."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "home",
+    "say": "hohm",
+    "forms": [
+      "homes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The place where you live.",
+          "examples": [
+            "I go home after school.",
+            "Our home is warm.",
+            "Birds make a home in the tree."
+          ]
+        },
+        "more": {
+          "def": "The place where a person or family lives, or where an animal lives.",
+          "examples": [
+            "My grandmother's home is full of old photographs.",
+            "A hollow log is a good home for small animals.",
+            "We were glad to get home after the long trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "honest",
     "say": "ON-ist",
     "senses": [
@@ -19,6 +77,80 @@
             "She was honest and told the teacher that she had broken the window.",
             "To be honest, I did not like the movie.",
             "An honest shopkeeper gave back the extra money."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "honey",
+    "say": "HUN-ee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet, sticky food that bees make.",
+          "examples": [
+            "I like honey on toast.",
+            "Bees make honey.",
+            "The honey is sweet."
+          ]
+        },
+        "more": {
+          "def": "A thick, sweet food that bees make from the nectar of flowers.",
+          "examples": [
+            "Bees make honey from the nectar of flowers.",
+            "I stirred a spoonful of honey into my tea.",
+            "The honey dripped from the comb onto the biscuit."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hope",
+    "say": "hohp",
+    "forms": [
+      "hopes",
+      "hoped",
+      "hoping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To wish for something good.",
+          "examples": [
+            "I hope it snows.",
+            "She hopes to win.",
+            "We hoped for sun."
+          ]
+        },
+        "more": {
+          "def": "To want something to happen and think that it might.",
+          "examples": [
+            "I hope the rain stops before the picnic.",
+            "He is hoping to see a deer in the woods.",
+            "We hoped that our team would win the game."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wish for something good.",
+          "examples": [
+            "I have hope.",
+            "Her hope is to swim.",
+            "Hope kept us going."
+          ]
+        },
+        "more": {
+          "def": "A feeling that something good may happen.",
+          "examples": [
+            "The rain gave the farmers hope for a good harvest.",
+            "She held on to hope that her lost cat would come home.",
+            "Our hope is to build a new playground."
           ]
         }
       }
@@ -48,6 +180,87 @@
             "A ship appeared as a tiny dot on the horizon.",
             "Dark clouds gathered on the horizon.",
             "The road stretched all the way to the horizon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hour",
+    "say": "owr",
+    "forms": [
+      "hours"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Sixty minutes of time.",
+          "examples": [
+            "It takes an hour.",
+            "We waited one hour.",
+            "School is six hours long."
+          ]
+        },
+        "more": {
+          "def": "A length of time equal to sixty minutes.",
+          "examples": [
+            "There are twenty-four hours in one day.",
+            "The drive to the beach takes about an hour.",
+            "We studied for two hours before dinner."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "house",
+    "say": "howss",
+    "forms": [
+      "houses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A building where people live.",
+          "examples": [
+            "We have a red house.",
+            "The house has a big yard.",
+            "I walk to my friend's house."
+          ]
+        },
+        "more": {
+          "def": "A building where one family or a few people live.",
+          "examples": [
+            "Our house has a front porch and a small garden.",
+            "The old house at the end of the street has been empty for years.",
+            "The builders worked all summer to finish the house."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "how",
+    "say": "how",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "A word used to ask in what way.",
+          "examples": [
+            "How do you do it?",
+            "How are you?",
+            "How old are you?"
+          ]
+        },
+        "more": {
+          "def": "A word used to ask about the way something is done, an amount, or a feeling.",
+          "examples": [
+            "How does a caterpillar turn into a butterfly?",
+            "How tall is the tree in the front yard?",
+            "Tell me how you made this paper airplane."
           ]
         }
       }

@@ -29,6 +29,53 @@
     ]
   },
   {
+    "word": "second",
+    "say": "SEK-und",
+    "forms": [
+      "seconds"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Coming after the first.",
+          "examples": [
+            "I am in second grade.",
+            "She came in second place.",
+            "This is my second try."
+          ]
+        },
+        "more": {
+          "def": "Coming right after the first in order.",
+          "examples": [
+            "The second runner crossed the line just after the first.",
+            "Turn to the second page of the book.",
+            "This is my second visit to the aquarium."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very short bit of time.",
+          "examples": [
+            "Wait a second.",
+            "It took one second.",
+            "I will be back in a second."
+          ]
+        },
+        "more": {
+          "def": "A very short period of time, and one sixtieth of a minute.",
+          "examples": [
+            "There are sixty seconds in a minute.",
+            "Wait a second while I tie my shoe.",
+            "The runner finished one second before her friend."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "secret",
     "say": "SEE-krit",
     "emoji": "🤐",
@@ -58,6 +105,67 @@
     ]
   },
   {
+    "word": "see",
+    "say": "see",
+    "forms": [
+      "sees",
+      "saw",
+      "seen",
+      "seeing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To use your eyes to look at something.",
+          "examples": [
+            "I see a bird.",
+            "She saw a rainbow.",
+            "Can you see the moon?"
+          ]
+        },
+        "more": {
+          "def": "To notice something with your eyes, or to understand something.",
+          "examples": [
+            "From the top of the hill, we could see the whole town.",
+            "I see what you mean about the math problem.",
+            "He has never seen snow before."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "seem",
+    "say": "seem",
+    "forms": [
+      "seems",
+      "seemed",
+      "seeming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look or feel a certain way.",
+          "examples": [
+            "You seem sad.",
+            "It seems cold.",
+            "He seemed happy."
+          ]
+        },
+        "more": {
+          "def": "To give the feeling of being a certain way, though it may not be true.",
+          "examples": [
+            "The night seems quiet when it snows.",
+            "She seemed nervous before the big spelling bee.",
+            "The test did not seem hard to me."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "selfish",
     "say": "SEL-fish",
     "senses": [
@@ -77,6 +185,84 @@
             "It was selfish of him to eat the whole cake without sharing.",
             "A selfish player never passes the ball.",
             "She realized it was selfish to keep the window seat every time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "send",
+    "say": "send",
+    "forms": [
+      "sends",
+      "sent",
+      "sending"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something go to another place.",
+          "examples": [
+            "I send a card.",
+            "She sent a letter.",
+            "Mom sends me to school."
+          ]
+        },
+        "more": {
+          "def": "To make something go to another place, or to tell someone to go.",
+          "examples": [
+            "I will send a postcard to my grandmother from the beach.",
+            "The teacher sent a note home with each student.",
+            "The coach sent the players onto the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "set",
+    "say": "set",
+    "forms": [
+      "sets",
+      "setting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put something in a place.",
+          "examples": [
+            "Set the cup down.",
+            "I set the table.",
+            "She set the box here."
+          ]
+        },
+        "more": {
+          "def": "To put something in a certain place or position, or to get it ready.",
+          "examples": [
+            "Please set the vase on the shelf.",
+            "He set the alarm clock for seven.",
+            "We set the table before dinner."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of things that go together.",
+          "examples": [
+            "I have a set of blocks.",
+            "A set of crayons.",
+            "She has a tea set."
+          ]
+        },
+        "more": {
+          "def": "A group of things that belong together.",
+          "examples": [
+            "I got a set of paints for my birthday.",
+            "The library has a whole set of books about space.",
+            "He keeps a set of tools in the garage."
           ]
         }
       }

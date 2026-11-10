@@ -29,6 +29,139 @@
     ]
   },
   {
+    "word": "hand",
+    "say": "hand",
+    "forms": [
+      "hands"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part at the end of your arm.",
+          "examples": [
+            "Wash your hands.",
+            "I raise my hand.",
+            "She held my hand."
+          ]
+        },
+        "more": {
+          "def": "The part of the body at the end of the arm, with fingers and a thumb that is used for holding things.",
+          "examples": [
+            "He held a small frog in his hand.",
+            "Raise your hand if you know the answer.",
+            "The clock has two hands, one for hours and one for minutes."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pass something to someone.",
+          "examples": [
+            "Hand me the cup.",
+            "She handed me a pencil.",
+            "Please hand it over."
+          ]
+        },
+        "more": {
+          "def": "To give something to someone by passing it straight to them.",
+          "examples": [
+            "Please hand the scissors to your sister.",
+            "The teacher handed out a worksheet to each student.",
+            "He handed her the umbrella as she left."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hang",
+    "say": "hang",
+    "forms": [
+      "hangs",
+      "hung",
+      "hanged",
+      "hanging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hold something up from the top so it swings.",
+          "examples": [
+            "Hang your coat.",
+            "The picture hangs on the wall.",
+            "Bats hang upside down."
+          ]
+        },
+        "more": {
+          "def": "To attach something at the top so that the bottom swings freely.",
+          "examples": [
+            "Please hang your coat on the hook by the door.",
+            "A bird feeder hangs from the branch of the tree.",
+            "Bats hang upside down while they sleep."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "happen",
+    "say": "HAP-un",
+    "forms": [
+      "happens",
+      "happened",
+      "happening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take place.",
+          "examples": [
+            "What will happen next?",
+            "It happened last night.",
+            "Rainbows happen after rain."
+          ]
+        },
+        "more": {
+          "def": "To take place, often without being planned.",
+          "examples": [
+            "A strange thing happened on the way to school today.",
+            "Do you know what happens to ice when it gets warm?",
+            "The accident happened so quickly that nobody saw it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "happy",
+    "say": "HAP-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling glad and full of joy.",
+          "examples": [
+            "I am happy today.",
+            "The happy dog wags.",
+            "She is a happy girl."
+          ]
+        },
+        "more": {
+          "def": "Feeling pleased, glad, or full of joy.",
+          "examples": [
+            "The children were happy when the sun came out.",
+            "I am happy that you could come to my party.",
+            "The happy puppy ran in circles around the yard."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "harbor",
     "say": "HAR-ber",
     "emoji": "⚓",
@@ -53,6 +186,50 @@
             "Fishing boats returned to the harbor before the storm.",
             "The city grew up around its busy harbor.",
             "Sailboats bobbed gently in the harbor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hard",
+    "say": "hard",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not soft.",
+          "examples": [
+            "A rock is hard.",
+            "The bed is hard.",
+            "The ice was hard."
+          ]
+        },
+        "more": {
+          "def": "Stiff and firm, not easily pressed or bent.",
+          "examples": [
+            "A diamond is the hardest natural material on Earth.",
+            "The path was hard and dry after the long summer.",
+            "He sat on the hard wooden bench."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not easy to do.",
+          "examples": [
+            "The test was hard.",
+            "It is hard to climb.",
+            "Math is hard for me."
+          ]
+        },
+        "more": {
+          "def": "Difficult to do or to understand, and needing a lot of effort.",
+          "examples": [
+            "The puzzle was so hard that it took us all day.",
+            "It is hard to be quiet when you are excited.",
+            "Learning to ride a bike was hard at first."
           ]
         }
       }
@@ -84,6 +261,66 @@
             "Farmers harvest apples in the fall.",
             "We harvested tomatoes from our garden all summer.",
             "Workers harvest the grapes by hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hate",
+    "say": "hayt",
+    "forms": [
+      "hates",
+      "hated",
+      "hating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not like something at all.",
+          "examples": [
+            "I hate peas.",
+            "She hates the cold.",
+            "He hated losing."
+          ]
+        },
+        "more": {
+          "def": "To dislike someone or something very strongly.",
+          "examples": [
+            "I hate it when my socks get wet in the rain.",
+            "My brother hates loud noises.",
+            "She hated saying goodbye to her friends."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "have",
+    "say": "hav",
+    "forms": [
+      "has",
+      "had",
+      "having"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To own or hold something.",
+          "examples": [
+            "I have a red ball.",
+            "She has two cats.",
+            "We had a nice time."
+          ]
+        },
+        "more": {
+          "def": "To own something, to hold it, or to be given or filled with something.",
+          "examples": [
+            "My cousin has a telescope for looking at the stars.",
+            "Spiders have eight legs.",
+            "We had pancakes for breakfast on Saturday."
           ]
         }
       }

@@ -1,5 +1,84 @@
 [
   {
+    "word": "wait",
+    "say": "wayt",
+    "forms": [
+      "waits",
+      "waited",
+      "waiting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stay until something happens.",
+          "examples": [
+            "Wait for me.",
+            "I waited at the door.",
+            "We wait for the bus."
+          ]
+        },
+        "more": {
+          "def": "To stay in a place or do nothing until something happens or someone comes.",
+          "examples": [
+            "Please wait here until the teacher comes back.",
+            "We waited in line for an hour to ride the roller coaster.",
+            "I cannot wait for summer to come."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "walk",
+    "say": "wawk",
+    "forms": [
+      "walks",
+      "walked",
+      "walking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move on your legs, one step after another.",
+          "examples": [
+            "I walk to school.",
+            "The baby walked.",
+            "We walk the dog."
+          ]
+        },
+        "more": {
+          "def": "To move along on foot at a normal speed, putting one foot in front of the other.",
+          "examples": [
+            "We walk to the library every Saturday.",
+            "The baby walked across the room for the first time.",
+            "He walked the dog around the block."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A trip on foot.",
+          "examples": [
+            "We took a walk.",
+            "It is a short walk.",
+            "I love a walk in the park."
+          ]
+        },
+        "more": {
+          "def": "A trip made on foot, for fun or exercise.",
+          "examples": [
+            "After dinner, we went for a walk along the river.",
+            "It is a short walk from our house to the school.",
+            "The nature walk was full of bird songs."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wander",
     "say": "WON-der",
     "forms": [
@@ -24,6 +103,36 @@
             "The lost puppy wandered through the streets.",
             "We wandered around the market looking at the stalls.",
             "His mind wandered during the long speech."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "want",
+    "say": "wont",
+    "forms": [
+      "wants",
+      "wanted",
+      "wanting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To wish to have or do something.",
+          "examples": [
+            "I want a drink.",
+            "She wants to play.",
+            "We wanted to see the show."
+          ]
+        },
+        "more": {
+          "def": "To feel that you would like to have, do, or be something.",
+          "examples": [
+            "I want to be a vet when I grow up.",
+            "My little brother wants a story before bed.",
+            "They wanted a bigger garden, so they dug up the lawn."
           ]
         }
       }
@@ -55,6 +164,151 @@
             "The lifeguard warned the swimmers about the strong waves.",
             "Dark clouds warned us that a storm was coming.",
             "The sign warns drivers of a sharp turn ahead."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "watch",
+    "say": "woch",
+    "forms": [
+      "watches",
+      "watched",
+      "watching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look at something for a while.",
+          "examples": [
+            "I watch the birds.",
+            "We watched a movie.",
+            "Watch me jump."
+          ]
+        },
+        "more": {
+          "def": "To look carefully at something for a while.",
+          "examples": [
+            "We sat on the dock and watched the boats go by.",
+            "She watched the chef roll out the dough.",
+            "Watch the clock so we do not miss the bus."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small clock you wear on your wrist.",
+          "examples": [
+            "I got a new watch.",
+            "His watch says noon.",
+            "She looks at her watch."
+          ]
+        },
+        "more": {
+          "def": "A small clock that you wear on your wrist.",
+          "examples": [
+            "He checked his watch to see if it was time for lunch.",
+            "My grandfather gave me his old watch.",
+            "The watch ticked quietly on her wrist."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "water",
+    "say": "WAW-ter",
+    "forms": [
+      "waters",
+      "watered",
+      "watering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What falls as rain and fills rivers and oceans.",
+          "examples": [
+            "I drink water.",
+            "The water is cold.",
+            "Fish live in water."
+          ]
+        },
+        "more": {
+          "def": "The clear liquid that falls as rain, fills rivers and oceans, and is needed by all living things.",
+          "examples": [
+            "Plants and animals need water to live.",
+            "The water in the lake was cold and clear.",
+            "We filled our bottles with water before the hike."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give plants a drink.",
+          "examples": [
+            "I water the plants.",
+            "She watered the garden.",
+            "Dad waters the lawn."
+          ]
+        },
+        "more": {
+          "def": "To give plants or soil a drink so they can grow.",
+          "examples": [
+            "We water the tomato plants every morning.",
+            "He watered the flowers with a green can.",
+            "The farmer waters the crops during the dry summer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "way",
+    "say": "way",
+    "forms": [
+      "ways"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A path or road to get somewhere.",
+          "examples": [
+            "This is the way to school.",
+            "Which way did the cat go?",
+            "The way home is short."
+          ]
+        },
+        "more": {
+          "def": "A road or path that leads somewhere, or the direction you go to get there.",
+          "examples": [
+            "Can you tell me the way to the library?",
+            "The sign pointed the other way, so we turned around.",
+            "It is a long way to the top of the mountain."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How you do something.",
+          "examples": [
+            "I like your way of drawing.",
+            "Mom showed me a new way to tie shoes.",
+            "There is a way to fix it."
+          ]
+        },
+        "more": {
+          "def": "The method or manner in which something is done.",
+          "examples": [
+            "There is more than one way to solve this math problem.",
+            "My grandfather has a funny way of laughing.",
+            "Birds find their way home by using the sun and the stars."
           ]
         }
       }

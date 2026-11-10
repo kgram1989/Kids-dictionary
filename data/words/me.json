@@ -1,5 +1,30 @@
 [
   {
+    "word": "me",
+    "say": "mee",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A word you use for yourself.",
+          "examples": [
+            "Give the book to me.",
+            "Mom hugged me.",
+            "Come play with me."
+          ]
+        },
+        "more": {
+          "def": "A word a speaker or writer uses for themselves when they are not the one doing the action.",
+          "examples": [
+            "My grandmother taught me how to knit.",
+            "Please send me a message when you get home.",
+            "The teacher asked me to read the next page."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "meadow",
     "say": "MED-oh",
     "emoji": "🌾",
@@ -23,6 +48,74 @@
             "Butterflies fluttered over the sunny meadow.",
             "A deer and her fawn grazed in the meadow.",
             "The meadow turns yellow with flowers in May."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mean",
+    "say": "meen",
+    "forms": [
+      "means",
+      "meant",
+      "meaning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To show or stand for something.",
+          "examples": [
+            "A red light means stop.",
+            "What does this word mean?",
+            "Smoke can mean fire."
+          ]
+        },
+        "more": {
+          "def": "To be a sign of something, or to stand for a certain idea.",
+          "examples": [
+            "A black cloud usually means that rain is coming.",
+            "The word fragile means easy to break.",
+            "Green lights on a road mean that cars can go."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To plan to do something.",
+          "examples": [
+            "I did not mean to spill.",
+            "She meant to call you.",
+            "We mean to win."
+          ]
+        },
+        "more": {
+          "def": "To plan or intend to do something.",
+          "examples": [
+            "I did not mean to break the vase when I ran inside.",
+            "She meant to return the book, but she forgot.",
+            "He meant what he said when he made the promise."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not kind.",
+          "examples": [
+            "Do not be mean to her.",
+            "The mean wolf was in the story.",
+            "That was a mean joke."
+          ]
+        },
+        "more": {
+          "def": "Unkind or unfair to other people.",
+          "examples": [
+            "It was mean to leave him out of the game.",
+            "The mean witch in the story would not share her food.",
+            "She felt sad when the boy said mean words to her."
           ]
         }
       }
@@ -54,6 +147,36 @@
             "We measured the table to see if it would fit through the door.",
             "Use a ruler to measure the length of the paper.",
             "The cook measured two cups of milk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "meet",
+    "say": "meet",
+    "forms": [
+      "meets",
+      "met",
+      "meeting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To come together with someone.",
+          "examples": [
+            "I meet my friend.",
+            "We met at the park.",
+            "Let us meet at noon."
+          ]
+        },
+        "more": {
+          "def": "To come together with someone, or to see and know someone for the first time.",
+          "examples": [
+            "We will meet at the front gate after school.",
+            "I met my new neighbor when she moved in.",
+            "Nice to meet you!"
           ]
         }
       }

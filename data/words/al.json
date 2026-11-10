@@ -1,5 +1,30 @@
 [
   {
+    "word": "all",
+    "say": "awl",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Every one of something.",
+          "examples": [
+            "All the kids can play.",
+            "I ate all my peas.",
+            "She read all the books."
+          ]
+        },
+        "more": {
+          "def": "The whole amount of something, or every one of a group.",
+          "examples": [
+            "All the students lined up for the fire drill.",
+            "We stayed inside all day because of the rain.",
+            "The squirrel hid all of the acorns before winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "allow",
     "say": "uh-LOW",
     "forms": [
@@ -24,6 +49,100 @@
             "The museum does not allow visitors to touch the paintings.",
             "Our teacher allows us to read quietly after a test.",
             "Dogs are not allowed inside the bakery."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "alone",
+    "say": "uh-LOHN",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "With no one else.",
+          "examples": [
+            "I was alone.",
+            "She likes to be alone.",
+            "He played alone."
+          ]
+        },
+        "more": {
+          "def": "By yourself, with nobody else.",
+          "examples": [
+            "The lighthouse keeper lived alone on the rocky island.",
+            "She likes to read alone in the quiet room.",
+            "He did not feel alone with his dog beside him."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "By yourself.",
+          "examples": [
+            "I walked alone.",
+            "She did it alone.",
+            "Can you carry it alone?"
+          ]
+        },
+        "more": {
+          "def": "Without any help or company from others.",
+          "examples": [
+            "I made the whole model airplane alone.",
+            "He walked home alone after school.",
+            "Wolves often hunt together, but a bear usually hunts alone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "also",
+    "say": "AWL-soh",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Too, or as well.",
+          "examples": [
+            "I also like cake.",
+            "She also sings.",
+            "He is also here."
+          ]
+        },
+        "more": {
+          "def": "In addition, or as well as something already said.",
+          "examples": [
+            "Frogs live in water, and they also live on land.",
+            "She plays the violin and also sings in the choir.",
+            "The park has swings, and there is also a pond."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "always",
+    "say": "AWL-wayz",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "All the time, or every time.",
+          "examples": [
+            "I always brush my teeth.",
+            "The sun always rises.",
+            "She is always happy."
+          ]
+        },
+        "more": {
+          "def": "At all times, or every time, without change.",
+          "examples": [
+            "The sun always rises in the east.",
+            "My grandmother always sings when she cooks.",
+            "He is always the first one to arrive at school."
           ]
         }
       }

@@ -25,6 +25,31 @@
     ]
   },
   {
+    "word": "under",
+    "say": "UN-der",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Below something.",
+          "examples": [
+            "The cat is under the bed.",
+            "Look under the table.",
+            "We dug under the fence."
+          ]
+        },
+        "more": {
+          "def": "Below or beneath something, or covered by it.",
+          "examples": [
+            "The mouse hid under the old wooden porch.",
+            "We played under the shade of the tall oak tree.",
+            "A turtle can stay under the water for a long time."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "underneath",
     "say": "un-der-NEETH",
     "senses": [
@@ -126,6 +151,50 @@
             "Scientists use telescopes to study faraway parts of the universe.",
             "No one knows how big the universe really is.",
             "There are billions of galaxies in the universe."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "until",
+    "say": "un-TIL",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "Up to the time that something happens.",
+          "examples": [
+            "Wait until I come back.",
+            "Stay until it stops.",
+            "Play until dinner."
+          ]
+        },
+        "more": {
+          "def": "Up to the time when something happens.",
+          "examples": [
+            "Stir the soup until it boils.",
+            "We played outside until it got dark.",
+            "Wait here until your name is called."
+          ]
+        }
+      },
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Up to a certain time.",
+          "examples": [
+            "I sleep until seven.",
+            "Wait until noon.",
+            "Stay until Friday."
+          ]
+        },
+        "more": {
+          "def": "Up to a certain time or point.",
+          "examples": [
+            "The library is open until eight o'clock.",
+            "We have a spelling test, but not until Friday.",
+            "The paint takes until tomorrow to dry."
           ]
         }
       }

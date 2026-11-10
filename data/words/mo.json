@@ -25,6 +25,196 @@
     ]
   },
   {
+    "word": "mom",
+    "say": "mom",
+    "forms": [
+      "moms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word for your mother.",
+          "examples": [
+            "My mom makes soup.",
+            "Mom hugged me.",
+            "I help my mom."
+          ]
+        },
+        "more": {
+          "def": "A word used for a mother, in everyday talk.",
+          "examples": [
+            "My mom drives me to soccer practice on Tuesdays.",
+            "Her mom is a teacher at the high school.",
+            "Mom, may I have a snack?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "moment",
+    "say": "MOH-munt",
+    "forms": [
+      "moments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very short time.",
+          "examples": [
+            "Wait a moment.",
+            "It took a moment.",
+            "Just one moment!"
+          ]
+        },
+        "more": {
+          "def": "A very short period of time, or a particular point in time.",
+          "examples": [
+            "Wait a moment while I find my shoes.",
+            "At that moment, the lights went out.",
+            "The best moment of the trip was seeing the whale."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "money",
+    "say": "MUN-ee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Coins and paper you use to pay for things.",
+          "examples": [
+            "I have money for a toy.",
+            "She saved her money.",
+            "Dad has no more money."
+          ]
+        },
+        "more": {
+          "def": "Coins and paper bills that people use to buy things or to pay for work.",
+          "examples": [
+            "He saved his money for months to buy a new bike.",
+            "The class raised money for the animal shelter.",
+            "People use money to pay for food, clothes, and homes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "month",
+    "say": "munth",
+    "forms": [
+      "months"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "About four weeks of time.",
+          "examples": [
+            "A year has twelve months.",
+            "It is a new month.",
+            "I turn six next month."
+          ]
+        },
+        "more": {
+          "def": "One of the twelve parts of a year, such as May or June.",
+          "examples": [
+            "June is the first month of summer.",
+            "My grandparents visit once a month.",
+            "It rained almost every day this month."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "more",
+    "say": "mor",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A larger amount.",
+          "examples": [
+            "I want more milk.",
+            "She has more toys.",
+            "Can I have more?"
+          ]
+        },
+        "more": {
+          "def": "A greater number or amount of something, or an extra amount.",
+          "examples": [
+            "There are more stars in the sky than anyone can count.",
+            "Add a little more water to the paint.",
+            "We need two more players to start the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "morning",
+    "say": "MOR-ning",
+    "forms": [
+      "mornings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The first part of the day.",
+          "examples": [
+            "I wake up in the morning.",
+            "Good morning!",
+            "Birds sing in the morning."
+          ]
+        },
+        "more": {
+          "def": "The early part of the day, from sunrise until noon.",
+          "examples": [
+            "The farmer feeds the chickens first thing in the morning.",
+            "Dew shone on the grass in the bright morning sun.",
+            "We have math class on Monday morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mother",
+    "say": "MUTH-er",
+    "forms": [
+      "mothers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A woman who has a child.",
+          "examples": [
+            "My mother is kind.",
+            "Her mother is a nurse.",
+            "I help my mother."
+          ]
+        },
+        "more": {
+          "def": "A woman who has a child, or a female parent.",
+          "examples": [
+            "My mother reads to me before bed.",
+            "The mother duck led her ducklings across the road.",
+            "He made a card for his mother on her birthday."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mountain",
     "say": "MOWN-tun",
     "emoji": "⛰️",
@@ -48,6 +238,55 @@
             "It took the climbers three days to reach the top of the mountain.",
             "The mountain was hidden in clouds.",
             "A cold stream runs down the side of the mountain."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "move",
+    "say": "moov",
+    "forms": [
+      "moves",
+      "moved",
+      "moving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go from one place to another.",
+          "examples": [
+            "Do not move.",
+            "The snail moves slowly.",
+            "She moved her chair."
+          ]
+        },
+        "more": {
+          "def": "To change position or place, or to make something change its position.",
+          "examples": [
+            "The clouds move across the sky in the wind.",
+            "Please move your bag so I can sit down.",
+            "The dancers moved in time with the music."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go live in a new home.",
+          "examples": [
+            "We move next week.",
+            "They moved to a new town.",
+            "She moved away."
+          ]
+        },
+        "more": {
+          "def": "To leave your home and go to live in a new place.",
+          "examples": [
+            "My family moved to a new town last summer.",
+            "They are moving to a bigger house near the park.",
+            "Our neighbors moved away, and new ones came."
           ]
         }
       }

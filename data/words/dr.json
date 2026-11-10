@@ -1,5 +1,223 @@
 [
   {
+    "word": "dream",
+    "say": "dreem",
+    "forms": [
+      "dreams",
+      "dreamed",
+      "dreamt",
+      "dreaming"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Pictures and stories in your mind while you sleep.",
+          "examples": [
+            "I had a dream.",
+            "The dream was funny.",
+            "She told me her dream."
+          ]
+        },
+        "more": {
+          "def": "Thoughts and pictures that go through your mind while you are asleep.",
+          "examples": [
+            "I had a dream that I could fly over the town.",
+            "He woke up from a strange dream about a talking cat.",
+            "Dreams can be silly, happy, or scary."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you really want to do or be.",
+          "examples": [
+            "My dream is to be a pilot.",
+            "Her dream came true.",
+            "He has a big dream."
+          ]
+        },
+        "more": {
+          "def": "Something you hope for very much and want to achieve.",
+          "examples": [
+            "Her dream is to be an astronaut one day.",
+            "He worked hard to make his dream come true.",
+            "It is my dream to visit the Arctic."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To see pictures in your mind while you sleep.",
+          "examples": [
+            "I dream at night.",
+            "She dreamed of a cat.",
+            "He is dreaming."
+          ]
+        },
+        "more": {
+          "def": "To have thoughts and pictures in your mind while sleeping, or to imagine something you wish for.",
+          "examples": [
+            "The puppy twitched its paws as if it were dreaming of a run.",
+            "I dreamed that I was swimming with dolphins.",
+            "She dreams of being a famous singer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drink",
+    "say": "drink",
+    "forms": [
+      "drinks",
+      "drank",
+      "drunk",
+      "drinking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take milk or water into your mouth and swallow.",
+          "examples": [
+            "I drink milk.",
+            "The dog drank water.",
+            "Drink your juice."
+          ]
+        },
+        "more": {
+          "def": "To take a liquid into your mouth and swallow it.",
+          "examples": [
+            "Camels can drink a lot of water at one time.",
+            "I drink a glass of milk every morning.",
+            "The baby bird drank water from the dish."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Milk, juice, or water in a cup.",
+          "examples": [
+            "I want a drink.",
+            "Milk is a drink.",
+            "She gave me a drink."
+          ]
+        },
+        "more": {
+          "def": "A liquid that people swallow when thirsty, or one gulp of it.",
+          "examples": [
+            "The waiter brought each of us a cold drink.",
+            "Orange juice is my favorite morning drink.",
+            "He took a long drink of water after the race."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drive",
+    "say": "dryv",
+    "forms": [
+      "drives",
+      "drove",
+      "driven",
+      "driving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a car or truck go.",
+          "examples": [
+            "Dad drives a truck.",
+            "She drove us home.",
+            "I will drive the bus."
+          ]
+        },
+        "more": {
+          "def": "To control a car, truck, or bus as it moves along.",
+          "examples": [
+            "My mom drives me to school every morning.",
+            "The bus driver drove slowly on the snowy road.",
+            "He is learning to drive a tractor on the farm."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A trip in a car.",
+          "examples": [
+            "We went for a drive.",
+            "It is a long drive.",
+            "The drive was fun."
+          ]
+        },
+        "more": {
+          "def": "A trip in a car or other vehicle.",
+          "examples": [
+            "The drive to the beach takes about two hours.",
+            "We took a scenic drive through the mountains.",
+            "It was a short drive from the airport."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drop",
+    "say": "drop",
+    "forms": [
+      "drops",
+      "dropped",
+      "dropping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let something fall.",
+          "examples": [
+            "Do not drop it.",
+            "She dropped her cup.",
+            "The leaf will drop."
+          ]
+        },
+        "more": {
+          "def": "To let something fall, or to fall down.",
+          "examples": [
+            "Be careful not to drop the eggs on the floor.",
+            "The apple dropped from the tree with a thud.",
+            "The temperature drops at night in the desert."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny round bit of water.",
+          "examples": [
+            "A drop of rain fell.",
+            "I felt a drop.",
+            "Add one drop."
+          ]
+        },
+        "more": {
+          "def": "A very small amount of liquid in a rounded shape.",
+          "examples": [
+            "A drop of rain landed on my nose.",
+            "Add one drop of food coloring to the water.",
+            "Dew drops sparkled on the spider web."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drought",
     "say": "drowt",
     "forms": [

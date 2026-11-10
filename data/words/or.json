@@ -1,5 +1,30 @@
 [
   {
+    "word": "or",
+    "say": "or",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "A word used to show a choice.",
+          "examples": [
+            "Do you want milk or juice?",
+            "Is it day or night?",
+            "We can walk or ride."
+          ]
+        },
+        "more": {
+          "def": "A word that offers a choice between things, and adds one more possibility.",
+          "examples": [
+            "You can have soup or a salad with your lunch.",
+            "Is the whale a fish, or is it a mammal?",
+            "Hurry up, or we will miss the bus."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "orbit",
     "say": "OR-bit",
     "emoji": "🪐",
@@ -54,6 +79,55 @@
             "The orchard was full of ripe peaches.",
             "The family runs a cherry orchard.",
             "We walked between rows of trees in the orchard."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "order",
+    "say": "OR-der",
+    "forms": [
+      "orders",
+      "ordered",
+      "ordering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way things are placed one after another.",
+          "examples": [
+            "Put them in order.",
+            "The cards are in order.",
+            "Say the days in order."
+          ]
+        },
+        "more": {
+          "def": "The way that things are arranged in a line or sequence.",
+          "examples": [
+            "Please put the numbers in order from smallest to biggest.",
+            "The books were in alphabetical order on the shelf.",
+            "The order of the days is Monday, Tuesday, Wednesday."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To ask for food or goods to be sent to you.",
+          "examples": [
+            "We order pizza.",
+            "She ordered soup.",
+            "I will order a book."
+          ]
+        },
+        "more": {
+          "def": "To ask for food or goods to be made or sent to you.",
+          "examples": [
+            "We ordered a pizza for Friday night.",
+            "She ordered a book about frogs from the store.",
+            "Dad ordered soup and a sandwich at the cafe."
           ]
         }
       }

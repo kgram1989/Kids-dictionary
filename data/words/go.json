@@ -1,5 +1,36 @@
 [
   {
+    "word": "go",
+    "say": "goh",
+    "forms": [
+      "goes",
+      "went",
+      "gone",
+      "going"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move from one place to another.",
+          "examples": [
+            "I go to school by bus.",
+            "We went to the park.",
+            "The train goes fast."
+          ]
+        },
+        "more": {
+          "def": "To move or travel from one place to another, or to leave a place.",
+          "examples": [
+            "Every summer we go to the lake for a week.",
+            "The ducks went down the stream in a line.",
+            "She has gone to the library to return her books."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "goal",
     "say": "gohl",
     "emoji": "🥅",
@@ -23,6 +54,50 @@
             "Her goal is to learn to play the violin this year.",
             "Our class goal is to collect five hundred cans of food.",
             "He set a goal to save enough money for a bike."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "good",
+    "say": "guud",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Nice, and just right.",
+          "examples": [
+            "This is a good book.",
+            "She is a good friend.",
+            "The soup smells good."
+          ]
+        },
+        "more": {
+          "def": "Of a high quality, pleasant, or helpful.",
+          "examples": [
+            "Sunshine and rain are good for the garden.",
+            "He is a good swimmer and has won many races.",
+            "It is a good idea to wear a helmet."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Kind and doing what is right.",
+          "examples": [
+            "He is a good boy.",
+            "She was good to the new girl.",
+            "Be good for the sitter."
+          ]
+        },
+        "more": {
+          "def": "Behaving well, and showing kindness or honesty.",
+          "examples": [
+            "The good neighbor shoveled snow from our walk.",
+            "Our puppy was very good at the vet's office.",
+            "It was a good thing to return the lost wallet."
           ]
         }
       }

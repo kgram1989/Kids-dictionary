@@ -1,5 +1,33 @@
 [
   {
+    "word": "lady",
+    "say": "LAY-dee",
+    "forms": [
+      "ladies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A polite word for a woman.",
+          "examples": [
+            "The lady smiled.",
+            "A kind lady helped me.",
+            "That lady has a hat."
+          ]
+        },
+        "more": {
+          "def": "A polite word for a woman, especially a grown-up.",
+          "examples": [
+            "The lady at the bakery gave us each a free cookie.",
+            "An old lady held the door for the children.",
+            "Ladies and gentlemen, the show is about to begin."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "language",
     "say": "LANG-gwij",
     "emoji": "🗣️",
@@ -23,6 +51,119 @@
             "She can speak three languages: English, French, and Arabic.",
             "People who cannot hear may use sign language.",
             "He is learning a new language before his trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "last",
+    "say": "last",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Coming after all the others.",
+          "examples": [
+            "I was last in line.",
+            "This is the last page.",
+            "She ate the last grape."
+          ]
+        },
+        "more": {
+          "def": "Coming at the end, or most recent.",
+          "examples": [
+            "The last bus leaves the station at midnight.",
+            "I saw my cousins last summer.",
+            "He ate the last slice of pizza on the plate."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go on for a time.",
+          "examples": [
+            "The show lasts one hour.",
+            "The snow did not last.",
+            "Will the toy last?"
+          ]
+        },
+        "more": {
+          "def": "To continue for a certain length of time, or to stay in good condition.",
+          "examples": [
+            "The storm lasted all night, but the morning was calm.",
+            "These strong boots will last for years.",
+            "A summer day lasts longer than a winter day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "late",
+    "say": "layt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "After the right time.",
+          "examples": [
+            "I am late.",
+            "The bus is late.",
+            "It is late at night."
+          ]
+        },
+        "more": {
+          "def": "Coming after the expected time, or near the end of a period of time.",
+          "examples": [
+            "The train was late because of the snow.",
+            "We stayed up late on New Year's Eve.",
+            "The leaves fall in late autumn."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "After the right time.",
+          "examples": [
+            "She woke up late.",
+            "We ate late.",
+            "He got to school late."
+          ]
+        },
+        "more": {
+          "def": "After the usual or expected time.",
+          "examples": [
+            "I woke up late, so I missed the bus.",
+            "The movie ended late, and we got home after dark.",
+            "She arrived late and tiptoed to her seat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "later",
+    "say": "LAY-ter",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "After this time.",
+          "examples": [
+            "See you later.",
+            "I will eat later.",
+            "She came later."
+          ]
+        },
+        "more": {
+          "def": "At a time after now, or after another time that was named.",
+          "examples": [
+            "I will do my homework later, after we play outside.",
+            "The rain stopped, and the sun came out an hour later.",
+            "We can talk about it later."
           ]
         }
       }

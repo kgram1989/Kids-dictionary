@@ -1,5 +1,35 @@
 [
   {
+    "word": "die",
+    "say": "dy",
+    "forms": [
+      "dies",
+      "died",
+      "dying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop living.",
+          "examples": [
+            "Plants die without water.",
+            "The flower died.",
+            "Fish die out of water."
+          ]
+        },
+        "more": {
+          "def": "To stop being alive, as every living thing does one day.",
+          "examples": [
+            "Some insects die when the weather turns cold.",
+            "The old tree died during the long drought.",
+            "Leaves die and fall to the ground in autumn."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "different",
     "say": "DIF-runt",
     "senses": [
@@ -19,6 +49,34 @@
             "The twins look alike, but they have very different hobbies.",
             "People in different countries celebrate the new year in different ways.",
             "My handwriting looks different when I use a pen."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dinner",
+    "say": "DIN-er",
+    "forms": [
+      "dinners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The main meal of the day, eaten at night.",
+          "examples": [
+            "We eat dinner at six.",
+            "Dinner is ready.",
+            "What is for dinner?"
+          ]
+        },
+        "more": {
+          "def": "The main meal of the day, usually eaten in the evening.",
+          "examples": [
+            "We set the table for dinner and sat down together.",
+            "Dad cooked a pot of soup for dinner.",
+            "My grandparents came over for dinner on Sunday."
           ]
         }
       }

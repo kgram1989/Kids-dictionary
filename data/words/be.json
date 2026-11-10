@@ -1,5 +1,39 @@
 [
   {
+    "word": "be",
+    "say": "bee",
+    "forms": [
+      "is",
+      "am",
+      "are",
+      "was",
+      "were",
+      "been",
+      "being"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have a certain look, place, or feeling.",
+          "examples": [
+            "I am happy today.",
+            "The cat is on the bed.",
+            "We were at the park."
+          ]
+        },
+        "more": {
+          "def": "To exist, to stay in a place, or to have a certain quality.",
+          "examples": [
+            "The library is next to the school.",
+            "Our teacher was late this morning because of the snow.",
+            "Whales are the largest animals on Earth."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "beautiful",
     "say": "BYOO-tih-ful",
     "emoji": "🌸",
@@ -20,6 +54,105 @@
             "The beautiful music made everyone stop and listen.",
             "The garden looked beautiful after the roses bloomed.",
             "She has a beautiful singing voice."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "because",
+    "say": "bih-KAWZ",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "A word used to give a reason.",
+          "examples": [
+            "I am happy because it is my birthday.",
+            "We stayed in because it rained.",
+            "She cried because she fell."
+          ]
+        },
+        "more": {
+          "def": "A word used to tell the reason for something.",
+          "examples": [
+            "The ice melted because the sun was so hot.",
+            "I wore a sweater because the room was cold.",
+            "He could not play because his leg hurt."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "become",
+    "say": "bih-KUM",
+    "forms": [
+      "becomes",
+      "became",
+      "becoming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To grow or change into something.",
+          "examples": [
+            "A tadpole becomes a frog.",
+            "The sky became dark.",
+            "She became a nurse."
+          ]
+        },
+        "more": {
+          "def": "To start to be something, or to change into something different.",
+          "examples": [
+            "A caterpillar will become a butterfly.",
+            "The sky became dark as the storm moved in.",
+            "He wants to become a pilot when he grows up."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "before",
+    "say": "bih-FOR",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Earlier than something else.",
+          "examples": [
+            "Wash up before dinner.",
+            "I woke before the sun.",
+            "Brush your teeth before bed."
+          ]
+        },
+        "more": {
+          "def": "At an earlier time than something else, or in front of something.",
+          "examples": [
+            "Please finish your homework before you play outside.",
+            "The thunder came before the rain.",
+            "He arrived at the station before noon."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "At an earlier time.",
+          "examples": [
+            "I have seen it before.",
+            "She came the day before.",
+            "Have you been here before?"
+          ]
+        },
+        "more": {
+          "def": "At some time earlier than now.",
+          "examples": [
+            "I have never ridden a horse before.",
+            "We met the new teacher the day before.",
+            "Have you tried this fruit before?"
           ]
         }
       }
@@ -76,6 +209,94 @@
             "The treasure was buried beneath an old oak tree.",
             "Worms tunnel beneath the surface of the soil.",
             "We sat beneath a shady tree to eat our lunch."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "best",
+    "say": "best",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Better than all the others.",
+          "examples": [
+            "She is my best friend.",
+            "This is the best cake.",
+            "He is the best runner."
+          ]
+        },
+        "more": {
+          "def": "Better than all the rest, or of the highest quality.",
+          "examples": [
+            "The best part of the trip was seeing the dolphins.",
+            "She is the best swimmer on our team.",
+            "This is the best book I have read this year."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In the most good way.",
+          "examples": [
+            "I like this best.",
+            "She sings best.",
+            "He jumps the best."
+          ]
+        },
+        "more": {
+          "def": "In the most successful or pleasing way.",
+          "examples": [
+            "Of all the paints, I like the blue one best.",
+            "The plants grow best in warm sunshine.",
+            "She did best on the spelling test."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "better",
+    "say": "BET-er",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "More good than before or than another.",
+          "examples": [
+            "This book is better.",
+            "I feel better now.",
+            "Her drawing is better than mine."
+          ]
+        },
+        "more": {
+          "def": "Of a higher quality than something else, or in improved health.",
+          "examples": [
+            "Fresh bread is much better than stale bread.",
+            "I felt better after I rested for a day.",
+            "Practice will make your piano playing better."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a more good way.",
+          "examples": [
+            "I sing better now.",
+            "She runs better than me.",
+            "Do it better next time."
+          ]
+        },
+        "more": {
+          "def": "In a more skillful or more pleasing way.",
+          "examples": [
+            "My little sister reads better every week.",
+            "The plants grow better in the sun than in the shade.",
+            "You will do better on the test if you study."
           ]
         }
       }

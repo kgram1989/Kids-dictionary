@@ -1,5 +1,30 @@
 [
   {
+    "word": "we",
+    "say": "wee",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A word for you and other people together.",
+          "examples": [
+            "We are friends.",
+            "We play ball after school.",
+            "Today we sing a song."
+          ]
+        },
+        "more": {
+          "def": "A word a speaker or writer uses for themselves and one or more other people.",
+          "examples": [
+            "We planted tomatoes in the garden last spring.",
+            "In our town, we celebrate with a parade every summer.",
+            "If we work together, we can finish this faster."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wealthy",
     "say": "WEL-thee",
     "emoji": "💰",
@@ -24,6 +49,37 @@
             "A wealthy family gave money to build the new library.",
             "The wealthy merchant owned ten ships.",
             "It is one of the wealthiest cities in the world."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wear",
+    "say": "wair",
+    "forms": [
+      "wears",
+      "wore",
+      "worn",
+      "wearing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have clothes on your body.",
+          "examples": [
+            "I wear a hat.",
+            "She wore a red dress.",
+            "He wears glasses."
+          ]
+        },
+        "more": {
+          "def": "To have clothes, shoes, or jewelry on your body.",
+          "examples": [
+            "I wear boots when it snows.",
+            "She wore a silver necklace to the party.",
+            "Everyone must wear a helmet when riding a bike."
           ]
         }
       }
@@ -79,6 +135,97 @@
             "We checked the weather before planning our picnic.",
             "The game was called off because of bad weather.",
             "The weather in the mountains can change quickly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "week",
+    "say": "week",
+    "forms": [
+      "weeks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Seven days in a row.",
+          "examples": [
+            "A week has seven days.",
+            "I see Grandma next week.",
+            "We were gone for a week."
+          ]
+        },
+        "more": {
+          "def": "A period of seven days, often from Sunday or Monday to the end of the weekend.",
+          "examples": [
+            "We have art class twice a week.",
+            "My cousins will stay with us for a week.",
+            "The school fair is held in the last week of May."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "well",
+    "say": "wel",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a good way.",
+          "examples": [
+            "She sings well.",
+            "He did well on the test.",
+            "I slept well."
+          ]
+        },
+        "more": {
+          "def": "In a good or successful way, or in a thorough way.",
+          "examples": [
+            "The team played well and won the game.",
+            "Mix the paint well before you use it.",
+            "Our dog listens well when we call her."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not sick.",
+          "examples": [
+            "I feel well today.",
+            "Are you well now?",
+            "Grandma is well again."
+          ]
+        },
+        "more": {
+          "def": "In good health.",
+          "examples": [
+            "I stayed home from school until I was well again.",
+            "The doctor said the baby is well and growing fast.",
+            "You do not look well, so you should rest."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A deep hole in the ground with water in it.",
+          "examples": [
+            "We got water from the well.",
+            "A bucket hangs in the well.",
+            "The well is very deep."
+          ]
+        },
+        "more": {
+          "def": "A deep hole dug into the ground to reach water, oil, or gas.",
+          "examples": [
+            "Long ago, villagers carried buckets of water from the well.",
+            "The farmer dug a new well near the barn.",
+            "Oil comes from a deep well that goes far under the ground."
           ]
         }
       }

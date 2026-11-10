@@ -107,5 +107,53 @@
         }
       }
     ]
+  },
+  {
+    "word": "hurt",
+    "say": "hert",
+    "forms": [
+      "hurts",
+      "hurting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cause pain.",
+          "examples": [
+            "My knee hurts.",
+            "I hurt my arm.",
+            "Do not hurt the cat."
+          ]
+        },
+        "more": {
+          "def": "To cause pain or an injury, or to feel pain.",
+          "examples": [
+            "I fell and hurt my knee on the pavement.",
+            "Does your tooth still hurt?",
+            "Her words hurt his feelings."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling pain or sore.",
+          "examples": [
+            "I am hurt.",
+            "The hurt dog limps.",
+            "She felt hurt."
+          ]
+        },
+        "more": {
+          "def": "Feeling pain in the body, or feeling upset.",
+          "examples": [
+            "The hurt bird could not fly until its wing healed.",
+            "He felt hurt when his friend forgot his birthday.",
+            "The nurse helped the hurt child."
+          ]
+        }
+      }
+    ]
   }
 ]

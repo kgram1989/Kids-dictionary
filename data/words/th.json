@@ -1,5 +1,548 @@
 [
   {
+    "word": "than",
+    "say": "than",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "A word used to compare two things.",
+          "examples": [
+            "I am taller than you.",
+            "A cat is smaller than a dog.",
+            "She runs faster than me."
+          ]
+        },
+        "more": {
+          "def": "A word used to compare two things, showing how they are different.",
+          "examples": [
+            "A blue whale is much bigger than an elephant.",
+            "I would rather read a book than watch television.",
+            "It took us more than an hour to get there."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thank",
+    "say": "thangk",
+    "forms": [
+      "thanks",
+      "thanked",
+      "thanking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say you are glad for what someone did.",
+          "examples": [
+            "I thank my friend.",
+            "She thanked her aunt.",
+            "Let us thank the cook."
+          ]
+        },
+        "more": {
+          "def": "To tell someone that you are grateful for what they have given or done.",
+          "examples": [
+            "We thanked the bus driver for the ride.",
+            "I wrote a card to thank my grandmother for the sweater.",
+            "The team thanked the fans for cheering."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thanks",
+    "say": "thangks",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A word you say when someone is kind to you.",
+          "examples": [
+            "Thanks for the gift!",
+            "Thanks, Mom.",
+            "Thanks for helping."
+          ]
+        },
+        "more": {
+          "def": "A short way to say that you are grateful for something.",
+          "examples": [
+            "Thanks for holding the door for me.",
+            "Thanks, I would love a glass of water.",
+            "Thanks for the ride to school."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words that show you are glad.",
+          "examples": [
+            "Give thanks to the cook.",
+            "She said thanks.",
+            "We gave our thanks."
+          ]
+        },
+        "more": {
+          "def": "Words or actions that show you are grateful.",
+          "examples": [
+            "The class sent their thanks to the firefighters who visited.",
+            "He gave thanks for the meal before eating.",
+            "Many thanks for your help with the project."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "that",
+    "say": "that",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A word for something over there, away from you.",
+          "examples": [
+            "What is that over there?",
+            "I like that.",
+            "That is my bike."
+          ]
+        },
+        "more": {
+          "def": "A word used to point to a person or thing farther away, or one just mentioned.",
+          "examples": [
+            "Look at that tall building across the street.",
+            "That was the best movie I have seen all year.",
+            "Did you hear that strange noise outside?"
+          ]
+        }
+      },
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "A word which links what someone says or thinks to the rest.",
+          "examples": [
+            "I know that you are kind.",
+            "She said that lunch is ready.",
+            "I hope that it snows."
+          ]
+        },
+        "more": {
+          "def": "A word used to link what someone says or believes to words like say, think, know, or hope.",
+          "examples": [
+            "Scientists believe that the dinosaurs lived millions of years ago.",
+            "My brother told me that the game was canceled.",
+            "We are glad that you could join our team."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "the",
+    "say": "thuh",
+    "senses": [
+      {
+        "pos": "article",
+        "easy": {
+          "def": "A word used before a name for one special thing.",
+          "examples": [
+            "Please close the door.",
+            "The dog is asleep.",
+            "I ate the apple."
+          ]
+        },
+        "more": {
+          "def": "A word used before a noun to show you mean one particular person or thing that is already known.",
+          "examples": [
+            "The moon was bright last night.",
+            "Can you pass me the red marker?",
+            "The museum we visited is downtown."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "their",
+    "say": "thair",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A word that shows something belongs to them.",
+          "examples": [
+            "The kids lost their ball.",
+            "Their dog is big.",
+            "The birds fed their babies."
+          ]
+        },
+        "more": {
+          "def": "A word used to show that something belongs to or is connected with two or more people or things.",
+          "examples": [
+            "The students put their backpacks on the hooks.",
+            "The bears protect their cubs from danger.",
+            "Their house is at the end of the road."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "them",
+    "say": "them",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A word for more than one person or thing.",
+          "examples": [
+            "I saw them play.",
+            "Give them the books.",
+            "We like them."
+          ]
+        },
+        "more": {
+          "def": "A word used for two or more people, animals, or things when they are not the ones doing the action.",
+          "examples": [
+            "The coach thanked them for their hard work.",
+            "I found my gloves, and I put them in my bag.",
+            "We watched the geese until we could not see them anymore."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "then",
+    "say": "then",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "After that.",
+          "examples": [
+            "I ate, and then I played.",
+            "First wash, then dry.",
+            "Then she went home."
+          ]
+        },
+        "more": {
+          "def": "At that time, or next, after something else.",
+          "examples": [
+            "Mix the flour and water, and then add the eggs.",
+            "We saw the lightning, and then we heard the thunder.",
+            "I was in kindergarten then, and I was very small."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "there",
+    "say": "thair",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In that place.",
+          "examples": [
+            "Put the book there.",
+            "I will go there.",
+            "The cat is over there."
+          ]
+        },
+        "more": {
+          "def": "In or to a place that is not where you are, or at that place just mentioned.",
+          "examples": [
+            "We drove to the beach and played there all afternoon.",
+            "Look over there, behind the big oak tree.",
+            "The store is closed, so there is no point going."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "these",
+    "say": "theez",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A word for things that are close to you.",
+          "examples": [
+            "These are my shoes.",
+            "I like these.",
+            "Look at these!"
+          ]
+        },
+        "more": {
+          "def": "A word used for more than one person or thing that is near you or has just been mentioned.",
+          "examples": [
+            "These berries are ripe, so we can pick them.",
+            "Put these papers in your backpack.",
+            "These are the animals we saw at the farm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "they",
+    "say": "thay",
+    "forms": [
+      "them",
+      "their",
+      "theirs"
+    ],
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A word for two or more people or things.",
+          "examples": [
+            "They are my friends.",
+            "They play in the yard.",
+            "The birds are loud, and they sing."
+          ]
+        },
+        "more": {
+          "def": "A word used for two or more people, animals, or things that have already been talked about.",
+          "examples": [
+            "The twins love swimming, and they practice every Saturday.",
+            "I cannot find my gloves, but I think they are in the car.",
+            "The farmers were happy because they had a good harvest."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thing",
+    "say": "thing",
+    "forms": [
+      "things"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Any object, or something you do not name.",
+          "examples": [
+            "What is that thing?",
+            "I packed my things.",
+            "The best thing is cake."
+          ]
+        },
+        "more": {
+          "def": "An object, a fact, or an idea that is not named exactly.",
+          "examples": [
+            "There was a strange thing in the box, but I did not know what it was.",
+            "The most important thing is to stay safe.",
+            "She put all of her things in a bag before the trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "think",
+    "say": "think",
+    "forms": [
+      "thinks",
+      "thought",
+      "thinking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To use your mind.",
+          "examples": [
+            "I think about my pet.",
+            "She thinks hard.",
+            "We thought of a good plan."
+          ]
+        },
+        "more": {
+          "def": "To use your mind to form ideas or to have an opinion.",
+          "examples": [
+            "I think it will rain before lunch because the clouds are dark.",
+            "He is thinking about what to draw for the art show.",
+            "What do you think the answer is?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "this",
+    "say": "this",
+    "forms": [
+      "these"
+    ],
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A word for a thing that is close to you.",
+          "examples": [
+            "This is my toy.",
+            "I like this.",
+            "Look at this!"
+          ]
+        },
+        "more": {
+          "def": "A word used to point to a person or thing that is near you or that you are just about to talk about.",
+          "examples": [
+            "This is the book I told you about.",
+            "Try this juice, because it is made from fresh pears.",
+            "These shoes are too small for me now."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "those",
+    "say": "thohz",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A word for things that are not close to you.",
+          "examples": [
+            "Those are my shoes.",
+            "Look at those birds.",
+            "I like those."
+          ]
+        },
+        "more": {
+          "def": "A word used for more than one person or thing that is farther away or has already been named.",
+          "examples": [
+            "Those mountains in the distance are covered with snow.",
+            "Do you remember those cookies we baked last winter?",
+            "Those are the books I borrowed from the library."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thought",
+    "say": "thawt",
+    "forms": [
+      "thoughts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An idea in your mind.",
+          "examples": [
+            "I had a happy thought.",
+            "She shared her thought.",
+            "That is a nice thought."
+          ]
+        },
+        "more": {
+          "def": "An idea or opinion that comes into your mind, or the act of thinking.",
+          "examples": [
+            "I had a funny thought while I was watching the clouds.",
+            "After some thought, he chose the blue paint.",
+            "Please share your thoughts about the story with the class."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "three",
+    "say": "three",
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "The number 3.",
+          "examples": [
+            "I have three pets.",
+            "Three plus one is four.",
+            "She is three years old."
+          ]
+        },
+        "more": {
+          "def": "The number 3, which is one more than two.",
+          "examples": [
+            "A triangle has three sides.",
+            "The farmer counted three eggs in the nest.",
+            "We waited three days for the package."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "through",
+    "say": "throo",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "In one side and out the other.",
+          "examples": [
+            "We walked through the door.",
+            "The train goes through a tunnel.",
+            "Light comes through the window."
+          ]
+        },
+        "more": {
+          "def": "From one end, side, or part of something to the other.",
+          "examples": [
+            "The river flows through the valley and into the sea.",
+            "We hiked through the forest to reach the lake.",
+            "Sunlight shone through the clouds after the storm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "throw",
+    "say": "throh",
+    "forms": [
+      "throws",
+      "threw",
+      "thrown",
+      "throwing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To send something through the air with your hand.",
+          "examples": [
+            "Throw me the ball.",
+            "She threw a stick.",
+            "I can throw far."
+          ]
+        },
+        "more": {
+          "def": "To send something through the air by moving your arm quickly.",
+          "examples": [
+            "Throw the ball to your partner as gently as you can.",
+            "He threw the stick, and the dog ran after it.",
+            "She has thrown the football farther than anyone else."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thunder",
     "say": "THUN-der",
     "emoji": "⛈️",

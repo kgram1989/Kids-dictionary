@@ -1,5 +1,174 @@
 [
   {
+    "word": "to",
+    "say": "too",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "A word that shows where something goes.",
+          "examples": [
+            "We walk to school.",
+            "I gave the ball to Mia.",
+            "The bus goes to the zoo."
+          ]
+        },
+        "more": {
+          "def": "A word that shows the place, person, or thing that something moves toward or is aimed at.",
+          "examples": [
+            "The train travels from the city to the coast.",
+            "She wrote a letter to her grandfather.",
+            "Please listen to the instructions carefully."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "today",
+    "say": "tuh-DAY",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "On this day.",
+          "examples": [
+            "I am home today.",
+            "It is sunny today.",
+            "We have art today."
+          ]
+        },
+        "more": {
+          "def": "On this present day, or at the present time.",
+          "examples": [
+            "Today our class is visiting the science museum.",
+            "I planted the seeds today, and I hope they grow.",
+            "Many people today use phones to take photographs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "together",
+    "say": "tuh-GETH-er",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "With each other.",
+          "examples": [
+            "We play together.",
+            "They walked together.",
+            "Let us sing together."
+          ]
+        },
+        "more": {
+          "def": "With each other, or at the same time or place.",
+          "examples": [
+            "The whole family cooked dinner together.",
+            "Put the two pieces together to make a puzzle.",
+            "The geese flew south together in a long line."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tomorrow",
+    "say": "tuh-MOR-oh",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "The day after today.",
+          "examples": [
+            "We go tomorrow.",
+            "See you tomorrow.",
+            "It will snow tomorrow."
+          ]
+        },
+        "more": {
+          "def": "On the day after today.",
+          "examples": [
+            "Our class is going to the zoo tomorrow.",
+            "I will return the library book tomorrow.",
+            "Tomorrow will be warm and sunny."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tonight",
+    "say": "tuh-NYT",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "On this night.",
+          "examples": [
+            "We eat pizza tonight.",
+            "I sleep early tonight.",
+            "It will be cold tonight."
+          ]
+        },
+        "more": {
+          "def": "During the night that is coming, or this evening.",
+          "examples": [
+            "The moon will be full tonight, so look out the window.",
+            "We are having soup and bread for dinner tonight.",
+            "My grandparents are coming to visit tonight."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "too",
+    "say": "too",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Also, or as well.",
+          "examples": [
+            "I want to come too.",
+            "She likes pizza too.",
+            "Can I play too?"
+          ]
+        },
+        "more": {
+          "def": "Also, or in addition to something that was just said.",
+          "examples": [
+            "My brother plays the drums, and my sister plays them too.",
+            "I would like some juice too, please.",
+            "Frogs are amphibians, and toads are too."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "More than is good.",
+          "examples": [
+            "The soup is too hot.",
+            "This box is too big.",
+            "It is too late."
+          ]
+        },
+        "more": {
+          "def": "More than is needed, wanted, or allowed.",
+          "examples": [
+            "The coat was too small, so I gave it to my cousin.",
+            "It is too dark to read without a lamp.",
+            "Do not eat too much candy before dinner."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tornado",
     "say": "tor-NAY-doh",
     "emoji": "🌪️",
@@ -24,6 +193,34 @@
             "The family hid in the basement until the tornado passed.",
             "The tornado tore the roof off the barn.",
             "A siren warns the town when a tornado is near."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "town",
+    "say": "town",
+    "forms": [
+      "towns"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where many people live, smaller than a city.",
+          "examples": [
+            "I live in a small town.",
+            "We went to town.",
+            "The town has a park."
+          ]
+        },
+        "more": {
+          "def": "A place where people live and work, bigger than a village and smaller than a city.",
+          "examples": [
+            "Our town has a library, a bakery, and a park.",
+            "The whole town came to watch the parade.",
+            "We drove into town to buy groceries."
           ]
         }
       }
