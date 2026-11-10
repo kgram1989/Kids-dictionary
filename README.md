@@ -29,7 +29,10 @@ npm run add -- my-batch.json               # merge it
 ```
 
 - [`docs/WRITING_GUIDE.md`](docs/WRITING_GUIDE.md) has the entry format, the writing rules for both reading levels, the pronunciation key and the full workflow.
-- `data/wordlist.txt` is the master list of about 10,500 words, most-used first. Words deliberately left out are recorded in `data/skipped.txt`.
+- `data/wordlist.txt` is the master list of about 10,300 words, most-used first. Words deliberately left out are recorded in `data/skipped.txt`.
+- `data/derived.txt` lists about 450 words built from a root word (`unjust`, `sugarless`). They get a one-line entry under their root, shown as "Words made from …".
+- `data/blocked.txt` lists words removed as unsuitable for children; the checks refuse them.
+- For a word with no entry, the app shows a "may be made from" hint when it is a known word plus a common prefix or suffix.
 - `npm run check` validates all the data. The same check runs on every pull request.
 
 ## Licences and credits

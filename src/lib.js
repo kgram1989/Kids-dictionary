@@ -1,6 +1,8 @@
 import { useEffect, useState } from 'react';
 import index from './generated/index.json';
+import blocked from './generated/blocked.json';
 import { bucketOf } from './bucket.js';
+import { wordParts } from './wordparts.js';
 
 export { index };
 
@@ -38,15 +40,32 @@ function editDistance(a, b) {
 
 // Forgiving search: exact word or word form, then "starts with",
 // then close spellings (so "elefant" style typos still find the word).
-// Lower-cased word and forms for each index entry, worked out once.
-const searchNames = index.map((item) => ({ item, names: [item.w, ...item.f].map((n) => n.toLowerCase()) }));
+// Lower-cased word and forms for each index entry, worked out once. A related word
+// (a one-line entry shown under its root) gets its own record pointing at the root.
+const searchNames = index.flatMap((item) => [
+  { item, names: [item.w, ...item.f].map((n) => n.toLowerCase()) },
+  ...(item.r ?? []).map((rel) => ({ item, via: rel, names: [rel.toLowerCase()] })),
+]);
+
+const blockedWords = new Set(blocked);
+const headwords = new Map(index.map((item) => [item.w.toLowerCase(), item]));
+const known = new Set(searchNames.flatMap((s) => s.names));
+
+// For a word with no entry: the entry it seems to be built from, and its parts.
+// Returns { item, prefix, root, suffixes } or null.
+export function madeFrom(query) {
+  const q = query.trim().toLowerCase();
+  if (blockedWords.has(q) || known.has(q)) return null;
+  const parts = wordParts(q, (w) => headwords.has(w) && !blockedWords.has(w));
+  return parts ? { ...parts, item: headwords.get(parts.root) } : null;
+}
 
 export function search(query, limit = 8) {
   const q = query.trim().toLowerCase();
   if (!q) return [];
   const scored = [];
   const allowed = q.length <= 4 ? 1 : q.length <= 7 ? 2 : 3;
-  for (const { item, names } of searchNames) {
+  for (const { item, names, via } of searchNames) {
     let score = Infinity;
     if (names.includes(q)) score = 0;
     else if (names[0].startsWith(q)) score = 1;
@@ -56,10 +75,10 @@ export function search(query, limit = 8) {
       const d = Math.min(Infinity, ...close.map((n) => editDistance(q, n)));
       if (d <= allowed) score = 2 + d;
     }
-    if (score < Infinity) scored.push({ item, score });
+    if (score < Infinity) scored.push({ item, via, score });
   }
   scored.sort((a, b) => a.score - b.score || a.item.w.localeCompare(b.item.w));
-  return scored.slice(0, limit).map((s) => s.item);
+  return scored.slice(0, limit);
 }
 
 // A value kept in the browser's own storage. Nothing leaves the device.

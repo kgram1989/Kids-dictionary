@@ -1,7 +1,7 @@
 // Shows progress through data/wordlist.txt and prints the next words to write.
 //   npm run next            -> the next 50 words
 //   npm run next -- 300     -> the next 300 words
-import { readAllWords, readWordlist, readSkipped } from './lib/words.mjs';
+import { readAllWords, readWordlist, readSkipped, readDerived } from './lib/words.mjs';
 
 const count = Number(process.argv[2] ?? 50);
 const list = readWordlist();
@@ -15,4 +15,10 @@ console.error(
   `Dictionary: ${done.size} words. Word list: ${list.length} total, ${listDone} written, ` +
   `${list.filter((w) => skipped.has(w)).length} skipped, ${todo.length} to go.`,
 );
-console.log(todo.slice(0, count).join('\n'));
+// Words with one-line related entries to write alongside them are shown as
+//   happy   + related: happiness, unhappy
+const derived = readDerived();
+console.log(todo.slice(0, count).map((w) => {
+  const rel = derived.get(w);
+  return rel ? `${w}   + related: ${rel.map((r) => r.word).join(', ')}` : w;
+}).join('\n'));

@@ -7,7 +7,7 @@
 // and fix the ones that are real.
 import { readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
-import { wordsDir, bucketOf, readAllWords, readWordlist, validateEntry } from './lib/words.mjs';
+import { wordsDir, bucketOf, readAllWords, readWordlist, readDerived, validateEntry, crossCheck } from './lib/words.mjs';
 
 const args = process.argv.slice(2);
 const dryRun = args.includes('--dry-run');
@@ -38,6 +38,7 @@ for (const e of batch) {
   if (inBatch.has(e.word)) errors.push(`"${e.word}": appears twice in the batch`);
   inBatch.add(e.word);
 }
+if (!errors.length) errors.push(...crossCheck([...[...files.values()].flat(), ...batch]));
 if (errors.length) {
   console.error(`Batch rejected, ${errors.length} problem(s):\n` + errors.map((e) => '  - ' + e).join('\n'));
   process.exit(1);
@@ -61,6 +62,7 @@ const variants = (w) => {
 const isSimple = (w) => w.length <= 2 || /'/.test(w) || variants(w).some((v) => simple.has(v));
 const LIMITS = { easy: { def: 14, example: 12 }, more: { def: 26, example: 22 } };
 const warnings = [];
+const derived = readDerived();
 
 for (const e of batch) {
   const names = [e.word, ...(e.forms ?? [])].map((n) => n.toLowerCase());
@@ -70,6 +72,14 @@ for (const e of batch) {
     warnings.push(`"${e.word}": say "${e.say}" should have exactly one stressed syllable in CAPITALS`);
   }
   if (!list.includes(e.word.toLowerCase())) warnings.push(`"${e.word}": not in data/wordlist.txt (fine if intended)`);
+  const due = (derived.get(e.word.toLowerCase()) ?? []).map((d) => d.word);
+  const given = (e.related ?? []).map((r) => r.word);
+  const missing = due.filter((w) => !given.includes(w));
+  if (missing.length) warnings.push(`"${e.word}": data/derived.txt lists related words not written yet: ${missing.join(', ')}`);
+  for (const r of e.related ?? []) {
+    if (tokens(r.def).length > 12) warnings.push(`"${e.word}": related word "${r.word}" has a long definition (${tokens(r.def).length} words)`);
+    if (tokens(r.def).includes(r.word.toLowerCase())) warnings.push(`"${e.word}": related word "${r.word}" is used in its own definition`);
+  }
   e.senses.forEach((s, i) => {
     const where = `"${e.word}" sense ${i + 1}`;
     for (const level of ['easy', 'more']) {
