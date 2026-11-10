@@ -1,5 +1,54 @@
 [
   {
+    "word": "focus",
+    "say": "FOH-kus",
+    "forms": [
+      "focuses",
+      "focused",
+      "focusing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To think hard about one thing.",
+          "examples": [
+            "Focus on your work.",
+            "She focused on the book.",
+            "It is hard to focus."
+          ]
+        },
+        "more": {
+          "def": "To give all your attention to one thing.",
+          "examples": [
+            "Focus on your work and ignore the noise.",
+            "He focused on the puzzle for an hour.",
+            "It's hard to focus when you're tired."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a clear picture.",
+          "examples": [
+            "Focus the camera.",
+            "He focused the lens.",
+            "Focus the telescope."
+          ]
+        },
+        "more": {
+          "def": "To adjust a camera, lens or eyes to see clearly.",
+          "examples": [
+            "He focused the camera on the bird.",
+            "Turn the dial to focus the telescope.",
+            "Her eyes slowly focused on the page."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "folk",
     "say": "fohk",
     "forms": [
@@ -216,6 +265,54 @@
             "A small village lay at the foot of the mountain.",
             "The cat curled up at the foot of my bed.",
             "Wait for me at the foot of the stairs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "football",
+    "say": "FUUT-bawl",
+    "emoji": "🏈",
+    "forms": [
+      "footballs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sport played with an oval ball.",
+          "examples": [
+            "My brother plays football.",
+            "We watch football.",
+            "The football team won."
+          ]
+        },
+        "more": {
+          "def": "A game in which two teams try to carry or throw an oval ball over a goal line.",
+          "examples": [
+            "My brother plays football on Saturdays.",
+            "The football team practiced after school.",
+            "We watched the football game on TV."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The oval ball that players throw and carry.",
+          "examples": [
+            "Throw the football.",
+            "He caught the football.",
+            "The football flew far."
+          ]
+        },
+        "more": {
+          "def": "The oval ball that is thrown, kicked and carried in a team game.",
+          "examples": [
+            "He threw the football across the field.",
+            "She caught the football with both hands.",
+            "The football bounced off the goal post."
           ]
         }
       }
@@ -449,6 +546,53 @@
             "Ice forms on the pond in winter.",
             "We formed a line at the door.",
             "Clay can be formed into a bowl."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fortune",
+    "say": "FOR-chun",
+    "forms": [
+      "fortunes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A lot of money.",
+          "examples": [
+            "He made a fortune.",
+            "The family has a fortune.",
+            "The pirate hid a fortune."
+          ]
+        },
+        "more": {
+          "def": "A very large amount of money.",
+          "examples": [
+            "The pirate hid his fortune on the island.",
+            "She made a fortune selling lemonade.",
+            "The family inherited a fortune."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Luck.",
+          "examples": [
+            "Good fortune.",
+            "Fortune smiled on us.",
+            "Bad fortune."
+          ]
+        },
+        "more": {
+          "def": "Luck, good or bad, that comes to a person.",
+          "examples": [
+            "We had good fortune on our trip.",
+            "Fortune smiled on the team.",
+            "Bad fortune kept the ship in port."
           ]
         }
       }

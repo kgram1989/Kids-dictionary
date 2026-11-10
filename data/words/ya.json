@@ -1,5 +1,52 @@
 [
   {
+    "word": "yard",
+    "say": "yard",
+    "forms": [
+      "yards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The land around a house.",
+          "examples": [
+            "We play in the yard.",
+            "The yard has a swing.",
+            "Dad cuts the grass in the yard."
+          ]
+        },
+        "more": {
+          "def": "The piece of ground next to a house or school.",
+          "examples": [
+            "We play ball in the front yard.",
+            "Mom planted flowers in the yard.",
+            "The school yard has a big slide."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way to measure length.",
+          "examples": [
+            "The rope is one yard long.",
+            "A yard is three feet.",
+            "He ran ten yards."
+          ]
+        },
+        "more": {
+          "def": "A unit of length equal to three feet.",
+          "examples": [
+            "A football field is one hundred yards long.",
+            "The cloth is two yards long.",
+            "He threw the ball thirty yards."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "yawn",
     "say": "yawn",
     "emoji": "🥱",

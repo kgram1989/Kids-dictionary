@@ -1,5 +1,62 @@
 [
   {
+    "word": "cab",
+    "say": "kab",
+    "forms": [
+      "cabs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A car that you pay to ride in.",
+          "examples": [
+            "We took a cab.",
+            "The cab came fast.",
+            "The cab driver waved."
+          ]
+        },
+        "more": {
+          "def": "A car with a driver that you pay to take you somewhere.",
+          "examples": [
+            "We took a cab to the airport.",
+            "The cab driver knew the way.",
+            "A yellow cab pulled up to the curb."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cake",
+    "say": "cayk",
+    "emoji": "🎂",
+    "forms": [
+      "cakes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet baked food.",
+          "examples": [
+            "I ate a piece of cake.",
+            "We have cake on my birthday.",
+            "Mom baked a cake."
+          ]
+        },
+        "more": {
+          "def": "A sweet food made from flour, sugar and eggs that is baked in an oven.",
+          "examples": [
+            "Dad baked a chocolate cake for my birthday.",
+            "She cut the cake into twelve slices.",
+            "The cake had pink frosting and sprinkles."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "call",
     "say": "kawl",
     "forms": [
@@ -249,6 +306,65 @@
     ]
   },
   {
+    "word": "cancel",
+    "say": "KAN-sul",
+    "forms": [
+      "cancels",
+      "canceled",
+      "canceling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say that something will not happen.",
+          "examples": [
+            "They canceled the party.",
+            "The game was canceled.",
+            "We canceled the trip."
+          ]
+        },
+        "more": {
+          "def": "To decide that something planned will not happen.",
+          "examples": [
+            "They canceled the picnic because of rain.",
+            "The school canceled the game.",
+            "We canceled our trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "candy",
+    "say": "KAN-dee",
+    "emoji": "🍬",
+    "forms": [
+      "candies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet treat.",
+          "examples": [
+            "I like candy.",
+            "The candy is sweet.",
+            "He ate a piece of candy."
+          ]
+        },
+        "more": {
+          "def": "A sweet food made from sugar, often small and sold in pieces.",
+          "examples": [
+            "She bought a bag of candy at the store.",
+            "The candy melted in the sun.",
+            "We got candy at the parade."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "captain",
     "say": "KAP-tin",
     "forms": [
@@ -426,6 +542,34 @@
             "Carry the eggs with care so that they do not break.",
             "The nurse gave the patient good care.",
             "A garden needs a lot of care in the summer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "career",
+    "say": "kuh-REER",
+    "forms": [
+      "careers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The job you do for many years.",
+          "examples": [
+            "She has a career as a nurse.",
+            "He wants a career in sports.",
+            "My mom has a career in teaching."
+          ]
+        },
+        "more": {
+          "def": "The work a person does for much of their life.",
+          "examples": [
+            "She has a career as a pilot.",
+            "He wants a career in music.",
+            "Her career as a teacher lasted forty years."
           ]
         }
       }
@@ -675,7 +819,7 @@
           ]
         },
         "more": {
-          "def": "To make something happen.",
+          "def": "To make something happen, or to be the reason that it happens.",
           "examples": [
             "Heavy rain can cause a river to overflow.",
             "The loud noise caused the baby to wake up.",

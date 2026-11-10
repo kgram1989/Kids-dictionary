@@ -77,5 +77,33 @@
         }
       }
     ]
+  },
+  {
+    "word": "owner",
+    "say": "OH-ner",
+    "forms": [
+      "owners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who owns something.",
+          "examples": [
+            "The dog's owner came.",
+            "Who is the owner?",
+            "The shop owner smiled."
+          ]
+        },
+        "more": {
+          "def": "A person who owns something, such as a pet, shop or house.",
+          "examples": [
+            "The dog's owner threw the ball.",
+            "The shop owner greeted every customer.",
+            "The owner of the bike left it by the gate."
+          ]
+        }
+      }
+    ]
   }
 ]

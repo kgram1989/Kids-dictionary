@@ -57,5 +57,56 @@
         }
       }
     ]
+  },
+  {
+    "word": "empty",
+    "say": "EMP-tee",
+    "forms": [
+      "emptier",
+      "emptiest",
+      "empties",
+      "emptied",
+      "emptying"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "With nothing inside.",
+          "examples": [
+            "The box is empty.",
+            "My cup is empty.",
+            "The room was empty."
+          ]
+        },
+        "more": {
+          "def": "Having nothing inside.",
+          "examples": [
+            "The box was empty when we opened it.",
+            "She found an empty seat on the bus.",
+            "The empty classroom was quiet."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take everything out.",
+          "examples": [
+            "Empty the bucket.",
+            "She emptied the bag.",
+            "He empties the trash."
+          ]
+        },
+        "more": {
+          "def": "To take everything out of something.",
+          "examples": [
+            "Empty your pockets before you wash your pants.",
+            "She emptied the bucket of sand.",
+            "Dad empties the trash every Tuesday."
+          ]
+        }
+      }
+    ]
   }
 ]

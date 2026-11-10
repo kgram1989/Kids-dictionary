@@ -234,6 +234,55 @@
     ]
   },
   {
+    "word": "bang",
+    "say": "bang",
+    "forms": [
+      "bangs",
+      "banged",
+      "banging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loud sudden sound.",
+          "examples": [
+            "I heard a bang.",
+            "The door shut with a bang.",
+            "The bang scared the dog."
+          ]
+        },
+        "more": {
+          "def": "A loud, sudden noise like an explosion or a hit.",
+          "examples": [
+            "We heard a loud bang in the garage.",
+            "The firecracker went off with a bang.",
+            "The bang of the drum made me jump."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit hard and make noise.",
+          "examples": [
+            "Do not bang the door.",
+            "He banged the drum.",
+            "She bangs on the table."
+          ]
+        },
+        "more": {
+          "def": "To hit something so that it makes a loud noise.",
+          "examples": [
+            "The wind banged the door against the wall.",
+            "He banged the drum in time with the song.",
+            "She banged on the door to get our attention."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bank",
     "say": "bank",
     "emoji": "🏦",
@@ -304,6 +353,31 @@
             "A metal bar held the gate shut.",
             "She washed her hands with a bar of soap.",
             "He ate a granola bar for a snack."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "barely",
+    "say": "BAIR-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Just; almost not.",
+          "examples": [
+            "I barely made it.",
+            "He barely spoke.",
+            "She barely ate."
+          ]
+        },
+        "more": {
+          "def": "Only just; almost not at all.",
+          "examples": [
+            "I barely made it to the bus on time.",
+            "The baby barely made a sound.",
+            "He could barely see in the dark."
           ]
         }
       }
@@ -426,6 +500,34 @@
     ]
   },
   {
+    "word": "bath",
+    "say": "bath",
+    "forms": [
+      "baths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wash in a tub of water.",
+          "examples": [
+            "I take a bath.",
+            "The baby has a bath.",
+            "The bath is warm."
+          ]
+        },
+        "more": {
+          "def": "A wash in which you sit or lie in a tub of water.",
+          "examples": [
+            "I take a bath every evening.",
+            "The baby splashed in her bath.",
+            "The dog needed a bath."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bathroom",
     "say": "BATH-room",
     "forms": [
@@ -448,6 +550,34 @@
             "The bathroom is at the end of the hall.",
             "She washed her hands in the bathroom.",
             "Our school has a bathroom on every floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "battle",
+    "say": "BAT-ul",
+    "forms": [
+      "battles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big fight between armies.",
+          "examples": [
+            "The battle was long.",
+            "The soldiers fought in a battle.",
+            "We read about a battle."
+          ]
+        },
+        "more": {
+          "def": "A fight between armies or groups.",
+          "examples": [
+            "The battle lasted for three days.",
+            "Soldiers rested after the battle.",
+            "We read about a famous battle in history class."
           ]
         }
       }

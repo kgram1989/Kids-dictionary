@@ -1,5 +1,103 @@
 [
   {
+    "word": "crack",
+    "say": "krak",
+    "forms": [
+      "cracks",
+      "cracked",
+      "cracking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To break without falling apart.",
+          "examples": [
+            "The glass cracked.",
+            "The ice cracked.",
+            "I cracked an egg."
+          ]
+        },
+        "more": {
+          "def": "To break so that lines appear but the pieces stay together.",
+          "examples": [
+            "The glass cracked when it fell.",
+            "The ice on the pond began to crack.",
+            "She cracked an egg into the bowl."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin line in something that is split.",
+          "examples": [
+            "There is a crack in the cup.",
+            "The crack in the wall is long.",
+            "A crack in the ice."
+          ]
+        },
+        "more": {
+          "def": "A thin line or gap where something has split.",
+          "examples": [
+            "There is a crack in the window.",
+            "Water leaked through a crack in the wall.",
+            "A small flower grew from a crack in the sidewalk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crash",
+    "say": "krash",
+    "forms": [
+      "crashes",
+      "crashed",
+      "crashing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loud sound from something hitting.",
+          "examples": [
+            "I heard a crash.",
+            "There was a crash in the kitchen.",
+            "The crash woke me."
+          ]
+        },
+        "more": {
+          "def": "A loud noise made when something falls or hits something.",
+          "examples": [
+            "We heard a crash from the kitchen.",
+            "The crash of thunder shook the house.",
+            "A crash of dishes woke the baby."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit something hard.",
+          "examples": [
+            "The car crashed into a fence.",
+            "The plate crashed on the floor.",
+            "The waves crash on the rocks."
+          ]
+        },
+        "more": {
+          "def": "To hit something hard and fall or break.",
+          "examples": [
+            "The bike crashed into the fence.",
+            "Waves crash onto the rocks.",
+            "A plate crashed onto the floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "crazy",
     "say": "KRAY-zee",
     "senses": [
@@ -19,6 +117,53 @@
             "The clown wore a crazy hat with a flower on top.",
             "It was a crazy day, with snow in the morning and sun by lunch.",
             "My cousin has a crazy plan to build a boat out of boxes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cream",
+    "say": "kreem",
+    "forms": [
+      "creams"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The thick, rich part of milk.",
+          "examples": [
+            "I put cream in my pudding.",
+            "Cream is thick.",
+            "Whipped cream sits on the pie."
+          ]
+        },
+        "more": {
+          "def": "The thick, rich part of milk that rises to the top.",
+          "examples": [
+            "Cream is used to make butter.",
+            "She poured cream over the berries.",
+            "We put whipped cream on the pie."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft, thick lotion.",
+          "examples": [
+            "Rub cream on your skin.",
+            "Sun cream protects you.",
+            "Dad put cream on the bite."
+          ]
+        },
+        "more": {
+          "def": "A soft, thick lotion that you rub on the skin.",
+          "examples": [
+            "Mom put cream on my dry hands.",
+            "Put on sun cream before you swim.",
+            "The nurse gave me cream for the rash."
           ]
         }
       }
@@ -85,6 +230,81 @@
     ]
   },
   {
+    "word": "credit",
+    "say": "KRED-it",
+    "forms": [
+      "credits"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Praise for something you did.",
+          "examples": [
+            "She got credit for the idea.",
+            "You deserve credit.",
+            "He gets the credit."
+          ]
+        },
+        "more": {
+          "def": "Praise or thanks that someone gets for what they did.",
+          "examples": [
+            "The coach gave her credit for the winning plan.",
+            "You deserve credit for finishing the project.",
+            "The whole team shared the credit."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way to pay later.",
+          "examples": [
+            "Dad bought it on credit.",
+            "I paid with a credit card.",
+            "The shop offers credit."
+          ]
+        },
+        "more": {
+          "def": "A way of buying something now and paying for it later.",
+          "examples": [
+            "They bought the couch on credit.",
+            "He used a credit card to pay for the tickets.",
+            "The store lets you buy on credit."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crew",
+    "say": "croo",
+    "forms": [
+      "crews"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of people who work together.",
+          "examples": [
+            "The ship has a crew.",
+            "A road crew fixed the street.",
+            "The crew worked hard."
+          ]
+        },
+        "more": {
+          "def": "A group of people who work together, especially on a ship, plane or job.",
+          "examples": [
+            "The ship's crew raised the sails.",
+            "A road crew repaired the broken street.",
+            "The film crew set up the cameras."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "crime",
     "say": "krym",
     "forms": [
@@ -107,6 +327,34 @@
             "Stealing a bike is a crime.",
             "The detective in the book solved the crime.",
             "The town has very little crime."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "criminal",
+    "say": "KRIM-ih-nul",
+    "forms": [
+      "criminals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who did a crime.",
+          "examples": [
+            "The detective hunted the criminal.",
+            "The criminal ran away.",
+            "A criminal stole the bike."
+          ]
+        },
+        "more": {
+          "def": "A person who has done something against the law.",
+          "examples": [
+            "The police caught the criminal.",
+            "The criminal was sent to court.",
+            "The detective chased the criminal."
           ]
         }
       }
@@ -175,6 +423,64 @@
             "He was cross because his sister borrowed his bike.",
             "The cross cat hissed at the dog.",
             "Do not be cross with me."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crowd",
+    "say": "krowd",
+    "forms": [
+      "crowds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A lot of people together.",
+          "examples": [
+            "A crowd came to the show.",
+            "The crowd cheered.",
+            "The crowd was big."
+          ]
+        },
+        "more": {
+          "def": "A large group of people together in one place.",
+          "examples": [
+            "A crowd gathered to watch the parade.",
+            "The crowd cheered when the band played.",
+            "We got lost in the crowd."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crush",
+    "say": "krush",
+    "forms": [
+      "crushes",
+      "crushed",
+      "crushing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To squash something.",
+          "examples": [
+            "Do not crush the can.",
+            "The rock crushed the box.",
+            "She crushed the leaves."
+          ]
+        },
+        "more": {
+          "def": "To press something so hard that it is broken or flattened.",
+          "examples": [
+            "The truck crushed the empty can.",
+            "She crushed the leaves in her hand.",
+            "Be careful not to crush the flowers."
           ]
         }
       }

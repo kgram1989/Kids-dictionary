@@ -146,6 +146,55 @@
     ]
   },
   {
+    "word": "earn",
+    "say": "ern",
+    "forms": [
+      "earns",
+      "earned",
+      "earning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get money for work.",
+          "examples": [
+            "She earns money.",
+            "I earned five dollars.",
+            "He earns a salary."
+          ]
+        },
+        "more": {
+          "def": "To get money by working.",
+          "examples": [
+            "She earns money walking dogs.",
+            "I earned five dollars washing cars.",
+            "Dad earns his pay at the factory."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get something by doing well.",
+          "examples": [
+            "You earned a prize.",
+            "She earned a star.",
+            "He earned a badge."
+          ]
+        },
+        "more": {
+          "def": "To get something because of what you have done.",
+          "examples": [
+            "You earned a prize for your hard work.",
+            "She earned a gold star on her paper.",
+            "He earned a badge for swimming."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "earth",
     "say": "erth",
     "emoji": "🌍",
@@ -213,6 +262,31 @@
             "The earthquake knocked books off the shelves.",
             "The bridge was built to stay standing in an earthquake.",
             "Scientists measure how strong each earthquake is."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "east",
+    "say": "eest",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The direction where the sun comes up.",
+          "examples": [
+            "The sun rises in the east.",
+            "We drove east.",
+            "Birds flew east."
+          ]
+        },
+        "more": {
+          "def": "The direction opposite to west, where the sun rises.",
+          "examples": [
+            "Morning light spills in from the east.",
+            "Our house faces east.",
+            "They traveled east across the country."
           ]
         }
       }

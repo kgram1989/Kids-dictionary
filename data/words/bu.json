@@ -75,6 +75,54 @@
     ]
   },
   {
+    "word": "bug",
+    "say": "bug",
+    "emoji": "🐛",
+    "forms": [
+      "bugs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small insect.",
+          "examples": [
+            "A bug crawled on me.",
+            "I saw a bug.",
+            "The bug is small."
+          ]
+        },
+        "more": {
+          "def": "A small insect or crawling creature.",
+          "examples": [
+            "A bug crawled across the leaf.",
+            "We found a beetle bug in the garden.",
+            "Ladybugs are helpful bugs in the garden."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mistake in a computer program.",
+          "examples": [
+            "The game has a bug.",
+            "There is a bug in the code.",
+            "The bug made it crash."
+          ]
+        },
+        "more": {
+          "def": "A mistake in a computer program that makes it work wrongly.",
+          "examples": [
+            "The bug made the game freeze.",
+            "She fixed the bug in the program.",
+            "A bug in the code stopped the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "build",
     "say": "bild",
     "forms": [
@@ -127,6 +175,34 @@
             "The tallest building in town has twenty floors.",
             "Our school building has a big red door.",
             "Workers are painting the old building."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bull",
+    "say": "buul",
+    "forms": [
+      "bulls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A male cow.",
+          "examples": [
+            "The bull is big.",
+            "The bull has horns.",
+            "A bull stood in the field."
+          ]
+        },
+        "more": {
+          "def": "An adult male of the cattle family.",
+          "examples": [
+            "The bull stood in the field.",
+            "A bull has a strong, heavy body.",
+            "Farmers keep the bull in a fenced pen."
           ]
         }
       }
@@ -402,6 +478,55 @@
     ]
   },
   {
+    "word": "bust",
+    "say": "bust",
+    "forms": [
+      "busts",
+      "busted",
+      "busting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A statue of someone's head and shoulders.",
+          "examples": [
+            "The bust was made of stone.",
+            "A bust of a king.",
+            "The bust sat on the shelf."
+          ]
+        },
+        "more": {
+          "def": "A statue of a person's head, neck and shoulders.",
+          "examples": [
+            "The museum has a stone bust of a king.",
+            "A bust of the writer sat on the desk.",
+            "The sculptor made a bust of the mayor."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To break.",
+          "examples": [
+            "The toy busted.",
+            "Do not bust the window.",
+            "The balloon busted."
+          ]
+        },
+        "more": {
+          "def": "To break or burst, an informal word.",
+          "examples": [
+            "The toy busted when it hit the floor.",
+            "The pipe busted in the cold.",
+            "I busted my kite string."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "busy",
     "say": "BIZ-ee",
     "forms": [
@@ -469,6 +594,53 @@
             "The soup smelled wonderful, but it was too hot to eat.",
             "He wanted to stay up late, but he fell asleep on the couch.",
             "Bats have wings, but they are mammals and not birds."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "button",
+    "say": "BUT-un",
+    "forms": [
+      "buttons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small round piece that you push or fasten.",
+          "examples": [
+            "Press the button.",
+            "My coat has a button.",
+            "The button fell off."
+          ]
+        },
+        "more": {
+          "def": "A small round object sewn on clothes to fasten them.",
+          "examples": [
+            "A button fell off my coat.",
+            "She sewed a button on the shirt.",
+            "He fastened every button."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small part that you press to make something work.",
+          "examples": [
+            "Push the button.",
+            "Press the red button.",
+            "Click the button."
+          ]
+        },
+        "more": {
+          "def": "A small part that you press to make a machine or game work.",
+          "examples": [
+            "Push the button to start the elevator.",
+            "Press the red button to stop.",
+            "Click the button on the screen."
           ]
         }
       }

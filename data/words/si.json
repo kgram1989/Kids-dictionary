@@ -77,6 +77,53 @@
     ]
   },
   {
+    "word": "sight",
+    "say": "syt",
+    "forms": [
+      "sights"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The power to see.",
+          "examples": [
+            "Eagles have good sight.",
+            "My grandpa's sight is weak.",
+            "Sight is one of the five senses."
+          ]
+        },
+        "more": {
+          "def": "The ability to see.",
+          "examples": [
+            "Eagles have sharp sight.",
+            "Her sight improved when she got glasses.",
+            "Bats find food by sound rather than sight."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you see.",
+          "examples": [
+            "It was a pretty sight.",
+            "A sunset is a lovely sight.",
+            "The sights of the city."
+          ]
+        },
+        "more": {
+          "def": "Something that you see, especially something interesting.",
+          "examples": [
+            "The rainbow over the barn was a lovely sight.",
+            "We saw the sights of the city.",
+            "A herd of deer was a rare sight."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sign",
     "say": "syn",
     "emoji": "🪧",
@@ -146,6 +193,55 @@
     ]
   },
   {
+    "word": "signal",
+    "say": "SIG-nul",
+    "forms": [
+      "signals",
+      "signaled",
+      "signaling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sign that tells you something.",
+          "examples": [
+            "A red light is a signal.",
+            "The whistle is a signal.",
+            "The signal means go."
+          ]
+        },
+        "more": {
+          "def": "A sign, sound or light that tells people something.",
+          "examples": [
+            "A red light is a signal to stop.",
+            "The coach blew the whistle as a signal.",
+            "Smoke signals were a way to send messages."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell someone with a sign.",
+          "examples": [
+            "She signaled with her hand.",
+            "He signals before turning.",
+            "The coach signaled the team."
+          ]
+        },
+        "more": {
+          "def": "To give a sign that tells someone something.",
+          "examples": [
+            "The driver signaled before turning left.",
+            "The referee signaled a goal.",
+            "She signaled the waiter with a wave."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "silent",
     "say": "SY-lunt",
     "emoji": "🤫",
@@ -201,6 +297,51 @@
     ]
   },
   {
+    "word": "silver",
+    "say": "SIL-ver",
+    "emoji": "🥈",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shiny, gray-white metal.",
+          "examples": [
+            "The spoon is silver.",
+            "Silver is shiny.",
+            "A silver ring."
+          ]
+        },
+        "more": {
+          "def": "A shiny, gray-white metal used to make coins and jewelry.",
+          "examples": [
+            "The spoon is made of silver.",
+            "Silver coins gleamed in the box.",
+            "She wore a silver bracelet."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Shiny gray-white.",
+          "examples": [
+            "A silver car.",
+            "Silver hair.",
+            "A silver star."
+          ]
+        },
+        "more": {
+          "def": "Having the shiny gray-white color of the metal.",
+          "examples": [
+            "A silver car sped by.",
+            "The moon cast a silver light.",
+            "He won a silver medal."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "similar",
     "say": "SIM-uh-ler",
     "senses": [
@@ -249,6 +390,31 @@
             "The directions were simple, so we finished quickly.",
             "She wore a simple blue dress.",
             "There is a simple way to fix the problem."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "simply",
+    "say": "SIM-plee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Only; just.",
+          "examples": [
+            "I simply asked.",
+            "It is simply a game.",
+            "She simply smiled."
+          ]
+        },
+        "more": {
+          "def": "Only, or in an easy way.",
+          "examples": [
+            "I simply wanted to say thank you.",
+            "The teacher explained it simply.",
+            "He simply smiled and walked away."
           ]
         }
       }
@@ -394,6 +560,56 @@
     ]
   },
   {
+    "word": "sink",
+    "say": "sink",
+    "forms": [
+      "sinks",
+      "sank",
+      "sunk",
+      "sinking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A basin in the kitchen or bathroom.",
+          "examples": [
+            "Wash your hands in the sink.",
+            "The sink is full of dishes.",
+            "The sink is clean."
+          ]
+        },
+        "more": {
+          "def": "A basin with a faucet where you wash things.",
+          "examples": [
+            "I washed my hands in the bathroom sink.",
+            "The kitchen sink was full of dishes.",
+            "Water ran from the faucet into the sink."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go down below the water.",
+          "examples": [
+            "The rock sinks.",
+            "The boat sank.",
+            "Stones sink in water."
+          ]
+        },
+        "more": {
+          "def": "To go down below the surface of water or another liquid.",
+          "examples": [
+            "The heavy rock sank to the bottom of the pond.",
+            "The boat began to sink.",
+            "Metal coins sink in water."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sir",
     "say": "ser",
     "senses": [
@@ -525,6 +741,34 @@
             "A cube has six faces, one on each side.",
             "The bus leaves at six o'clock every morning.",
             "She scored six points in the basketball game."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "size",
+    "say": "syz",
+    "forms": [
+      "sizes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How big or small something is.",
+          "examples": [
+            "The size of the box is big.",
+            "What size are your shoes?",
+            "The dogs are all different sizes."
+          ]
+        },
+        "more": {
+          "def": "How large something is, or the amount of space it takes up.",
+          "examples": [
+            "The elephant is an animal of great size.",
+            "What size shoes do you wear?",
+            "Boxes come in many sizes."
           ]
         }
       }

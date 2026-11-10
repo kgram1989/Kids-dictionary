@@ -28,5 +28,34 @@
         }
       }
     ]
+  },
+  {
+    "word": "photo",
+    "say": "FOH-toh",
+    "emoji": "📷",
+    "forms": [
+      "photos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture taken with a camera.",
+          "examples": [
+            "I took a photo.",
+            "The photo is pretty.",
+            "Look at the photo."
+          ]
+        },
+        "more": {
+          "def": "A picture made with a camera, either printed or kept on a device.",
+          "examples": [
+            "I took a photo of the sunset.",
+            "Grandma has a photo of me on the wall.",
+            "The photo shows our whole family."
+          ]
+        }
+      }
+    ]
   }
 ]

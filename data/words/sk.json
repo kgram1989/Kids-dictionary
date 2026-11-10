@@ -27,5 +27,130 @@
         }
       }
     ]
+  },
+  {
+    "word": "skin",
+    "say": "skin",
+    "forms": [
+      "skins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The outside covering of your body.",
+          "examples": [
+            "My skin is soft.",
+            "The sun can burn your skin.",
+            "Wash your skin."
+          ]
+        },
+        "more": {
+          "def": "The outer covering of the body of a person or animal.",
+          "examples": [
+            "Put on sunscreen to protect your skin.",
+            "A snake sheds its skin as it grows.",
+            "Her skin felt warm in the sun."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The outside layer of a fruit.",
+          "examples": [
+            "Peel the skin off the banana.",
+            "An apple has red skin.",
+            "The potato skin is thin."
+          ]
+        },
+        "more": {
+          "def": "The outer covering of a fruit or vegetable.",
+          "examples": [
+            "Peel the skin off the orange.",
+            "The banana skin was brown and soft.",
+            "The tomato skin split in the heat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "skip",
+    "say": "skip",
+    "forms": [
+      "skips",
+      "skipped",
+      "skipping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move with little jumps.",
+          "examples": [
+            "The kids skip.",
+            "She skipped down the path.",
+            "I skip rope."
+          ]
+        },
+        "more": {
+          "def": "To move forward with light hops from one foot to the other.",
+          "examples": [
+            "The children skipped down the sidewalk.",
+            "She skipped happily to school.",
+            "We skip rope at recess."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To leave something out.",
+          "examples": [
+            "Skip the hard question.",
+            "I skipped a page.",
+            "He skipped lunch."
+          ]
+        },
+        "more": {
+          "def": "To leave something out or not do it.",
+          "examples": [
+            "Skip the hard question and come back to it.",
+            "I accidentally skipped a page.",
+            "He skipped breakfast and ran to the bus."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sky",
+    "say": "sky",
+    "emoji": "🌤️",
+    "forms": [
+      "skies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The space above us where we see clouds and stars.",
+          "examples": [
+            "The sky is blue.",
+            "Birds fly in the sky.",
+            "Stars are in the sky."
+          ]
+        },
+        "more": {
+          "def": "The space above the Earth that we see when we look up.",
+          "examples": [
+            "The sky turned orange at sunset.",
+            "A kite danced in the windy sky.",
+            "Stars fill the sky on a clear night."
+          ]
+        }
+      }
+    ]
   }
 ]

@@ -48,6 +48,55 @@
     ]
   },
   {
+    "word": "cure",
+    "say": "kyur",
+    "forms": [
+      "cures",
+      "cured",
+      "curing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that makes an illness go away.",
+          "examples": [
+            "There is a cure.",
+            "The medicine is a cure.",
+            "Rest is a cure."
+          ]
+        },
+        "more": {
+          "def": "A treatment or remedy that makes a sickness go away for good.",
+          "examples": [
+            "Doctors found a cure for the disease.",
+            "Rest is a cure for a cold.",
+            "Honey is a cure for a sore throat."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a sick person well.",
+          "examples": [
+            "The medicine cured him.",
+            "The doctor cures sick people.",
+            "The treatment cured her cough."
+          ]
+        },
+        "more": {
+          "def": "To make a sick person well again.",
+          "examples": [
+            "The medicine cured his cough.",
+            "A good rest cured her headache.",
+            "The doctor cured the dog's infection."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "curious",
     "say": "KYUR-ee-us",
     "emoji": "🤔",
@@ -68,6 +117,83 @@
             "He was curious about how airplanes stay up in the sky.",
             "Curious visitors gathered around the strange machine.",
             "She was curious to know where the trail led."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "curse",
+    "say": "kerss",
+    "forms": [
+      "curses",
+      "cursed",
+      "cursing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rude word, or a wish for bad luck.",
+          "examples": [
+            "The witch put a curse on him.",
+            "It was a curse in the story.",
+            "The curse was broken."
+          ]
+        },
+        "more": {
+          "def": "A magic spell that brings bad luck, or a rude word said in anger.",
+          "examples": [
+            "In the story, a witch put a curse on the castle.",
+            "The curse was broken at midnight.",
+            "The knight lifted the curse."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say rude words.",
+          "examples": [
+            "Do not curse.",
+            "He cursed when he dropped it.",
+            "She never curses."
+          ]
+        },
+        "more": {
+          "def": "To use rude words, or to wish bad luck on someone.",
+          "examples": [
+            "It is rude to curse in front of others.",
+            "He cursed when he stubbed his toe.",
+            "In the tale, the witch cursed the prince."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "customer",
+    "say": "KUS-tuh-mer",
+    "forms": [
+      "customers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who buys things.",
+          "examples": [
+            "The customer paid.",
+            "A customer came in.",
+            "The shop has many customers."
+          ]
+        },
+        "more": {
+          "def": "A person who buys goods or services from a shop or business.",
+          "examples": [
+            "The customer paid for the loaf of bread.",
+            "A customer asked the clerk a question.",
+            "The bakery has many customers every morning."
           ]
         }
       }

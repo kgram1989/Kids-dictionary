@@ -188,6 +188,35 @@
     ]
   },
   {
+    "word": "telephone",
+    "say": "TEL-uh-fohn",
+    "emoji": "☎️",
+    "forms": [
+      "telephones"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A device for talking to people far away.",
+          "examples": [
+            "The telephone rang.",
+            "I talk on the telephone.",
+            "Answer the telephone."
+          ]
+        },
+        "more": {
+          "def": "A device used to talk to people who are far away.",
+          "examples": [
+            "The telephone rang during dinner.",
+            "I talked to Grandma on the telephone.",
+            "Alexander Graham Bell invented the telephone."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "telescope",
     "say": "TEL-uh-skohp",
     "emoji": "🔭",
@@ -211,6 +240,35 @@
             "Through the telescope, we could see the rings of Saturn.",
             "The sailor spotted land through his telescope.",
             "A huge telescope on the mountain studies distant stars."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "television",
+    "say": "TEL-uh-vizh-un",
+    "emoji": "📺",
+    "forms": [
+      "televisions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine with a screen that shows programs.",
+          "examples": [
+            "We watched television.",
+            "The television is on.",
+            "I turned off the television."
+          ]
+        },
+        "more": {
+          "def": "A device with a screen that shows programs and movies.",
+          "examples": [
+            "We watched a funny show on television.",
+            "The television in the living room is large.",
+            "She turned off the television."
           ]
         }
       }
@@ -302,6 +360,53 @@
     ]
   },
   {
+    "word": "term",
+    "say": "term",
+    "forms": [
+      "terms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word with a special meaning.",
+          "examples": [
+            "\"Noun\" is a term in grammar.",
+            "A science term.",
+            "The term means a baby."
+          ]
+        },
+        "more": {
+          "def": "A word or name for something, often in a special subject.",
+          "examples": [
+            "\"Verb\" is another term we learned in grammar.",
+            "A science term is \"habitat.\"",
+            "\"Cub\" is the term for a baby bear."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A period of time at school.",
+          "examples": [
+            "The spring term begins.",
+            "The first term of school.",
+            "The last term ended."
+          ]
+        },
+        "more": {
+          "def": "A period of the school year.",
+          "examples": [
+            "The spring term begins in January.",
+            "The school year has three terms.",
+            "Final tests come at the end of the term."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "terrible",
     "say": "TAIR-uh-bul",
     "senses": [
@@ -321,6 +426,31 @@
             "A terrible storm knocked out the power for two days.",
             "The roads were in terrible shape after the flood.",
             "He felt terrible about forgetting her birthday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "terrific",
+    "say": "tuh-RIF-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very good.",
+          "examples": [
+            "We had a terrific time.",
+            "The cake was terrific.",
+            "What a terrific idea!"
+          ]
+        },
+        "more": {
+          "def": "Extremely good.",
+          "examples": [
+            "We had a terrific time at the fair.",
+            "The soup was terrific.",
+            "She came up with a terrific idea."
           ]
         }
       }

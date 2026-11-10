@@ -1,5 +1,33 @@
 [
   {
+    "word": "pocket",
+    "say": "POK-it",
+    "forms": [
+      "pockets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small bag sewn into clothes.",
+          "examples": [
+            "I put it in my pocket.",
+            "My pants have two pockets.",
+            "Keep your hands in your pocket."
+          ]
+        },
+        "more": {
+          "def": "A small bag sewn into clothing for holding small things.",
+          "examples": [
+            "She keeps a tissue in her pocket.",
+            "His coat has deep pockets.",
+            "I found a coin in my jeans pocket."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "point",
     "say": "point",
     "forms": [
@@ -68,6 +96,34 @@
     ]
   },
   {
+    "word": "poison",
+    "say": "POY-zun",
+    "forms": [
+      "poisons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that can make you very sick.",
+          "examples": [
+            "Poison is dangerous.",
+            "Some mushrooms are poison.",
+            "The bottle said poison."
+          ]
+        },
+        "more": {
+          "def": "A substance that can make a person or animal very sick or kill it.",
+          "examples": [
+            "Some snakes have poison in their fangs.",
+            "The label warns that the cleaner is poison.",
+            "Some wild mushrooms are poison."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "police",
     "say": "puh-LEESS",
     "senses": [
@@ -87,6 +143,34 @@
             "The police helped the lost boy find his parents.",
             "A police officer stopped the traffic so the children could cross.",
             "The police station is next to the library."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "policy",
+    "say": "POL-uh-see",
+    "forms": [
+      "policies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rule or plan.",
+          "examples": [
+            "The school has a policy.",
+            "The policy is no phones.",
+            "It is our policy."
+          ]
+        },
+        "more": {
+          "def": "A set of rules or plans that people agree to follow.",
+          "examples": [
+            "The school has a policy about running in the halls.",
+            "The store has a return policy.",
+            "It is our policy to share."
           ]
         }
       }
@@ -138,6 +222,54 @@
             "Pollution in the river made it unsafe for the fish.",
             "Factories must work to cut down on pollution.",
             "Noise pollution from the airport bothers the neighbors."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pool",
+    "say": "pool",
+    "emoji": "🏊",
+    "forms": [
+      "pools"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place filled with water for swimming.",
+          "examples": [
+            "We swim in the pool.",
+            "The pool is cool.",
+            "Kids splash in the pool."
+          ]
+        },
+        "more": {
+          "def": "A large tank of water for swimming.",
+          "examples": [
+            "We swam in the community pool.",
+            "The pool is deep at one end.",
+            "She learned to dive at the pool."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small puddle or pond.",
+          "examples": [
+            "A pool of water.",
+            "Frogs sit by the pool.",
+            "There is a pool of rain."
+          ]
+        },
+        "more": {
+          "def": "A small area of water that has collected in one place.",
+          "examples": [
+            "After the storm, a pool of water stayed on the road.",
+            "Frogs gathered by the shallow pool.",
+            "Starfish live in rock pools by the sea."
           ]
         }
       }
@@ -332,6 +464,50 @@
     ]
   },
   {
+    "word": "positive",
+    "say": "POZ-uh-tiv",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Hopeful and happy.",
+          "examples": [
+            "She has a positive attitude.",
+            "Be positive.",
+            "He is positive."
+          ]
+        },
+        "more": {
+          "def": "Thinking about the good side of things.",
+          "examples": [
+            "She has a positive attitude about school.",
+            "A positive person looks for the bright side.",
+            "He felt positive about the test."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sure.",
+          "examples": [
+            "I am positive.",
+            "He is positive he locked it.",
+            "She was positive about the answer."
+          ]
+        },
+        "more": {
+          "def": "Completely sure about something.",
+          "examples": [
+            "I am positive that I locked the door.",
+            "He was positive about the answer.",
+            "She was positive the bus was late."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "possible",
     "say": "POS-uh-bul",
     "senses": [
@@ -351,6 +527,123 @@
             "It is possible to see the stars from here on a clear night.",
             "Is it possible to finish before lunch?",
             "Snow is possible tomorrow, but it may rain instead."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "post",
+    "say": "pohst",
+    "forms": [
+      "posts",
+      "posted",
+      "posting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tall piece of wood or metal in the ground.",
+          "examples": [
+            "The fence post is tall.",
+            "A post holds the sign.",
+            "The horse is tied to the post."
+          ]
+        },
+        "more": {
+          "def": "A strong, upright piece of wood or metal set in the ground.",
+          "examples": [
+            "Dad nailed the sign to a post.",
+            "The horse was tied to a fence post.",
+            "A tall post held up the porch roof."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put up a sign or message.",
+          "examples": [
+            "Post the sign.",
+            "She posted a picture.",
+            "He posted a note."
+          ]
+        },
+        "more": {
+          "def": "To put up a notice or message where people can see it.",
+          "examples": [
+            "The teacher posted the schedule on the door.",
+            "She posted a photo on the class page.",
+            "He posted a sign by the gate."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To send a letter.",
+          "examples": [
+            "Post the letter.",
+            "I posted a card.",
+            "He posts letters."
+          ]
+        },
+        "more": {
+          "def": "To send something by mail.",
+          "examples": [
+            "Mom posted the letter on the way to work.",
+            "I posted a card to my cousin.",
+            "He posts packages on Fridays."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pound",
+    "say": "pownd",
+    "forms": [
+      "pounds",
+      "pounded",
+      "pounding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way to measure how heavy something is.",
+          "examples": [
+            "The baby weighs ten pounds.",
+            "I bought a pound of apples.",
+            "A pound of flour is heavy."
+          ]
+        },
+        "more": {
+          "def": "A unit for measuring weight, equal to 16 ounces.",
+          "examples": [
+            "The baby weighed eight pounds.",
+            "We bought a pound of apples.",
+            "The bag of flour weighs five pounds."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit again and again.",
+          "examples": [
+            "Rain pounded on the roof.",
+            "He pounded the drum.",
+            "Waves pound the shore."
+          ]
+        },
+        "more": {
+          "def": "To hit something hard many times.",
+          "examples": [
+            "Rain pounded on the roof all night.",
+            "He pounded the nail into the board.",
+            "Waves pound the shore during a storm."
           ]
         }
       }
@@ -399,6 +692,31 @@
             "The power went out in the whole city during the storm.",
             "Windmills turn wind into power for homes.",
             "A small battery gives power to the toy car."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "powerful",
+    "say": "POW-er-ful",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very strong.",
+          "examples": [
+            "A powerful engine.",
+            "The wind was powerful.",
+            "He is a powerful swimmer."
+          ]
+        },
+        "more": {
+          "def": "Having great power or strength.",
+          "examples": [
+            "The powerful engine lifted the rocket.",
+            "A powerful storm knocked down trees.",
+            "The king was a powerful ruler."
           ]
         }
       }

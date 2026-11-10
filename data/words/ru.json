@@ -174,5 +174,54 @@
         }
       }
     ]
+  },
+  {
+    "word": "rush",
+    "say": "rush",
+    "forms": [
+      "rushes",
+      "rushed",
+      "rushing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hurry.",
+          "examples": [
+            "Do not rush.",
+            "We rushed to the bus.",
+            "She rushes to school."
+          ]
+        },
+        "more": {
+          "def": "To move or do something very quickly.",
+          "examples": [
+            "We rushed to catch the bus.",
+            "Water rushed down the stream.",
+            "Don't rush; there is plenty of time."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hurry.",
+          "examples": [
+            "There is no rush.",
+            "We were in a rush.",
+            "The morning rush."
+          ]
+        },
+        "more": {
+          "def": "A time when people are in a great hurry.",
+          "examples": [
+            "There is no rush to finish.",
+            "We were in a rush to catch the train.",
+            "Traffic is heavy during the morning rush."
+          ]
+        }
+      }
+    ]
   }
 ]

@@ -84,6 +84,31 @@
     ]
   },
   {
+    "word": "woods",
+    "say": "wuudz",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place with many trees.",
+          "examples": [
+            "We walk in the woods.",
+            "The woods are quiet.",
+            "A fox lives in the woods."
+          ]
+        },
+        "more": {
+          "def": "An area of land covered with trees.",
+          "examples": [
+            "We walked through the woods behind the school.",
+            "Deer live in the quiet woods.",
+            "A cabin stood deep in the woods."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "word",
     "say": "werd",
     "forms": [
@@ -346,6 +371,34 @@
             "I would visit the moon if I could ride a rocket.",
             "Would you please pass the salt?",
             "He said he would call us after dinner."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wound",
+    "say": "woond",
+    "forms": [
+      "wounds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An injury where the skin is cut.",
+          "examples": [
+            "The wound was bandaged.",
+            "The nurse cleaned the wound.",
+            "The wound healed."
+          ]
+        },
+        "more": {
+          "def": "An injury where the skin is cut or broken.",
+          "examples": [
+            "The nurse cleaned and bandaged the wound.",
+            "The wound healed in a week.",
+            "The soldier's wound was treated."
           ]
         }
       }

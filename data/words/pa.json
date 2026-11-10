@@ -68,6 +68,54 @@
     ]
   },
   {
+    "word": "page",
+    "say": "payj",
+    "emoji": "📄",
+    "forms": [
+      "pages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One side of a sheet in a book.",
+          "examples": [
+            "Turn the page.",
+            "I read one page.",
+            "My book has a hundred pages."
+          ]
+        },
+        "more": {
+          "def": "One side of a sheet of paper in a book, magazine or newspaper.",
+          "examples": [
+            "Turn to page twelve in your book.",
+            "The story ends on the last page.",
+            "Each page of the magazine has bright pictures."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One screen on a website.",
+          "examples": [
+            "The page has a picture.",
+            "Click to open the page.",
+            "This page tells about frogs."
+          ]
+        },
+        "more": {
+          "def": "A single screen of information on a website.",
+          "examples": [
+            "The school's web page lists the lunch menu.",
+            "This page has facts about frogs and toads.",
+            "The page loaded slowly on the old computer."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pain",
     "say": "payn",
     "forms": [
@@ -90,6 +138,112 @@
             "I felt a sharp pain in my foot.",
             "The medicine took away the pain.",
             "She had a pain in her tooth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "paint",
+    "say": "paynt",
+    "emoji": "🎨",
+    "forms": [
+      "paints",
+      "painted",
+      "painting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Colored liquid you put on things.",
+          "examples": [
+            "The paint is wet.",
+            "I need red paint.",
+            "We used paint on the wall."
+          ]
+        },
+        "more": {
+          "def": "A colored liquid used to cover a surface or make pictures.",
+          "examples": [
+            "Dad put a coat of blue paint on the fence.",
+            "The paint on the art table was still wet.",
+            "She mixed yellow and blue paint to make green."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cover something with color.",
+          "examples": [
+            "I paint a picture.",
+            "We painted the fence.",
+            "She paints flowers."
+          ]
+        },
+        "more": {
+          "def": "To cover a surface with colored liquid, or to make a picture with it.",
+          "examples": [
+            "The class painted a mural on the wall.",
+            "He painted the barn red.",
+            "She likes to paint the sea."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "painting",
+    "say": "PAYN-ting",
+    "forms": [
+      "paintings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture made with paint.",
+          "examples": [
+            "The painting is pretty.",
+            "She made a painting.",
+            "A painting hangs on the wall."
+          ]
+        },
+        "more": {
+          "def": "A picture made with paint, such as one on a canvas or wall.",
+          "examples": [
+            "A painting of a barn hung on the wall.",
+            "The museum has an old painting of a ship.",
+            "She finished her painting of the sunset."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pair",
+    "say": "pair",
+    "forms": [
+      "pairs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Two things that go together.",
+          "examples": [
+            "I have a pair of shoes.",
+            "A pair of socks.",
+            "We are a pair."
+          ]
+        },
+        "more": {
+          "def": "Two things of the same kind that are used together.",
+          "examples": [
+            "She bought a new pair of shoes.",
+            "A pair of scissors lay on the table.",
+            "The two friends walked as a pair."
           ]
         }
       }
@@ -124,6 +278,55 @@
     ]
   },
   {
+    "word": "panic",
+    "say": "PAN-ik",
+    "forms": [
+      "panics",
+      "panicked",
+      "panicking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Sudden, wild fear.",
+          "examples": [
+            "There was panic in the crowd.",
+            "He felt panic.",
+            "Panic spread."
+          ]
+        },
+        "more": {
+          "def": "A sudden feeling of fear that makes you act without thinking.",
+          "examples": [
+            "Panic spread through the crowd when the lights went out.",
+            "She felt panic when she lost her mom in the store.",
+            "The loud noise caused panic."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be so afraid you cannot think.",
+          "examples": [
+            "Do not panic.",
+            "The crowd panicked.",
+            "She panicked."
+          ]
+        },
+        "more": {
+          "def": "To feel sudden fear and not think clearly.",
+          "examples": [
+            "Stay calm and do not panic.",
+            "The crowd panicked when the alarm rang.",
+            "He panicked when he could not find his keys."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pants",
     "say": "pants",
     "emoji": "👖",
@@ -144,6 +347,34 @@
             "He wore warm pants in the snow.",
             "My pants have deep pockets.",
             "She rolled up her pants to wade in the creek."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "papa",
+    "say": "PAH-pah",
+    "forms": [
+      "papas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A name for a father.",
+          "examples": [
+            "Papa makes pancakes.",
+            "I love my papa.",
+            "Papa read me a book."
+          ]
+        },
+        "more": {
+          "def": "A word that some children use for their father.",
+          "examples": [
+            "The little girl ran to her papa.",
+            "Papa taught me how to fish.",
+            "My papa sings in the shower."
           ]
         }
       }

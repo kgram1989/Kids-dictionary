@@ -106,6 +106,81 @@
     ]
   },
   {
+    "word": "military",
+    "say": "MIL-uh-tair-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About soldiers and armies.",
+          "examples": [
+            "A military base.",
+            "He wore a military uniform.",
+            "The military band marched."
+          ]
+        },
+        "more": {
+          "def": "Having to do with soldiers, armies or war.",
+          "examples": [
+            "The military band played in the parade.",
+            "Soldiers lined up in a military camp.",
+            "The military base is outside of town."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "milk",
+    "say": "milk",
+    "emoji": "🥛",
+    "forms": [
+      "milks",
+      "milked",
+      "milking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A white drink that comes from cows.",
+          "examples": [
+            "I drink milk.",
+            "Cows give milk.",
+            "The milk is cold."
+          ]
+        },
+        "more": {
+          "def": "A white liquid that comes from cows and other mammals, used as a drink and in food.",
+          "examples": [
+            "I drink a glass of milk with breakfast.",
+            "Goat milk can be made into cheese.",
+            "The baby kitten drank its mother's milk."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get a drink from a cow.",
+          "examples": [
+            "The farmer milks the cow.",
+            "She milks the goat.",
+            "He milked the cows."
+          ]
+        },
+        "more": {
+          "def": "To draw the white drink out of a cow or goat.",
+          "examples": [
+            "The farmer milks the cows every morning.",
+            "She milked the goat before breakfast.",
+            "They milked the cow by hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "million",
     "say": "MIL-yun",
     "forms": [
@@ -236,6 +311,34 @@
     ]
   },
   {
+    "word": "miracle",
+    "say": "MEER-uh-kul",
+    "forms": [
+      "miracles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something wonderful that seems impossible.",
+          "examples": [
+            "It was a miracle.",
+            "The rescue was a miracle.",
+            "A miracle happened."
+          ]
+        },
+        "more": {
+          "def": "A wonderful event that seems impossible or that cannot be explained.",
+          "examples": [
+            "It was a miracle that no one was hurt.",
+            "The rescue of the lost puppy felt like a miracle.",
+            "Doctors called her recovery a miracle."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mischief",
     "say": "MISS-chif",
     "emoji": "😈",
@@ -311,6 +414,34 @@
     ]
   },
   {
+    "word": "mission",
+    "say": "MISH-un",
+    "forms": [
+      "missions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An important job someone is sent to do.",
+          "examples": [
+            "The astronauts' mission is to go to space.",
+            "The dog's mission was to find the ball.",
+            "Our mission is to clean the park."
+          ]
+        },
+        "more": {
+          "def": "An important task that a person or group is sent to do.",
+          "examples": [
+            "The mission of the spaceship was to explore Mars.",
+            "Our class has a mission to clean the park.",
+            "The rescue team completed its mission."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mistake",
     "say": "mih-STAYK",
     "forms": [
@@ -333,6 +464,64 @@
             "She found one mistake in her spelling test.",
             "It was a mistake to leave the door open.",
             "Everybody makes mistakes when they are learning something new."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mister",
+    "say": "MIS-ter",
+    "forms": [
+      "misters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A polite word before a man's name.",
+          "examples": [
+            "Mister Lee is my teacher.",
+            "Hello, Mister Brown.",
+            "Thank you, Mister Jones."
+          ]
+        },
+        "more": {
+          "def": "A polite title used before a man's name.",
+          "examples": [
+            "Mister Garcia teaches our music class.",
+            "Thank you, Mister Lee, for the ride.",
+            "Mister Brown waved from his porch."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mix",
+    "say": "miks",
+    "forms": [
+      "mixes",
+      "mixed",
+      "mixing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stir things together.",
+          "examples": [
+            "Mix the paint.",
+            "She mixed the batter.",
+            "He mixes the salad."
+          ]
+        },
+        "more": {
+          "def": "To stir or blend things together.",
+          "examples": [
+            "Mix the flour and eggs in a bowl.",
+            "She mixed red and yellow paint to make orange.",
+            "He mixed the salad with a big spoon."
           ]
         }
       }

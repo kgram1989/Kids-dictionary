@@ -59,6 +59,55 @@
     ]
   },
   {
+    "word": "vote",
+    "say": "voht",
+    "forms": [
+      "votes",
+      "voted",
+      "voting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To choose by raising a hand or marking a paper.",
+          "examples": [
+            "We vote for class pet.",
+            "She voted for the red team.",
+            "Raise your hand to vote."
+          ]
+        },
+        "more": {
+          "def": "To show your choice by raising a hand or marking a ballot.",
+          "examples": [
+            "Our class voted for a new pet.",
+            "Adults vote to choose a mayor.",
+            "Everyone voted to go to the park."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A choice you make in a group.",
+          "examples": [
+            "My vote is for pizza.",
+            "Each person gets a vote.",
+            "The vote was close."
+          ]
+        },
+        "more": {
+          "def": "A choice that you show in a group decision.",
+          "examples": [
+            "My vote is for the pizza party.",
+            "Each student gets one vote.",
+            "The vote was close, but the red team won."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "voyage",
     "say": "VOY-ij",
     "emoji": "⛵",

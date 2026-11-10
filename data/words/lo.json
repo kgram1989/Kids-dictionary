@@ -1,5 +1,79 @@
 [
   {
+    "word": "load",
+    "say": "lohd",
+    "forms": [
+      "loads",
+      "loaded",
+      "loading"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that is carried.",
+          "examples": [
+            "The truck has a heavy load.",
+            "The donkey carried a load.",
+            "I carried a load of books."
+          ]
+        },
+        "more": {
+          "def": "Something that is carried, especially a heavy thing.",
+          "examples": [
+            "The truck carried a load of logs.",
+            "She washed a load of towels.",
+            "The camel carried a heavy load across the desert."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put things onto something.",
+          "examples": [
+            "Load the truck.",
+            "We loaded the car.",
+            "He loads the dishwasher."
+          ]
+        },
+        "more": {
+          "def": "To put things onto or into something so they can be carried.",
+          "examples": [
+            "Workers loaded boxes onto the truck.",
+            "We loaded the car for our trip.",
+            "She loaded the dishwasher after dinner."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "local",
+    "say": "LOH-kul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Near where you live.",
+          "examples": [
+            "The local store is close.",
+            "We went to the local park.",
+            "The local team won."
+          ]
+        },
+        "more": {
+          "def": "Belonging to a nearby place.",
+          "examples": [
+            "We shop at the local market.",
+            "The local team won the game.",
+            "The local library has story time every week."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lock",
     "say": "lok",
     "emoji": "🔒",
@@ -153,6 +227,54 @@
     ]
   },
   {
+    "word": "loose",
+    "say": "looss",
+    "forms": [
+      "looser",
+      "loosest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not tight.",
+          "examples": [
+            "My tooth is loose.",
+            "The rope is loose.",
+            "My shoe is loose."
+          ]
+        },
+        "more": {
+          "def": "Not firmly fixed or tied; not tight.",
+          "examples": [
+            "My front tooth is loose.",
+            "The loose rope slipped off the post.",
+            "She wore a loose shirt in the summer heat."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not tied up.",
+          "examples": [
+            "The dog is loose.",
+            "A loose horse.",
+            "Chickens got loose."
+          ]
+        },
+        "more": {
+          "def": "Free, not held or tied.",
+          "examples": [
+            "The dog got loose and ran down the street.",
+            "Chickens were loose in the yard.",
+            "A loose horse ran across the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lord",
     "say": "lord",
     "forms": [
@@ -249,6 +371,53 @@
     ]
   },
   {
+    "word": "loss",
+    "say": "loss",
+    "forms": [
+      "losses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Not having something anymore.",
+          "examples": [
+            "The loss of my toy made me sad.",
+            "The loss of a friend.",
+            "She felt the loss."
+          ]
+        },
+        "more": {
+          "def": "The state of no longer having someone or something.",
+          "examples": [
+            "The loss of her pet made her cry.",
+            "The loss of a pet is hard for a family.",
+            "The team felt the loss after the game."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Not winning.",
+          "examples": [
+            "Our team had a loss.",
+            "It was a sad loss.",
+            "The team's third loss."
+          ]
+        },
+        "more": {
+          "def": "A defeat in a game or contest.",
+          "examples": [
+            "Our team had its first loss of the season.",
+            "The loss made the players sad.",
+            "Two wins and one loss gave them a good record."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lot",
     "say": "lot",
     "forms": [
@@ -271,6 +440,35 @@
             "There were a lot of people at the parade.",
             "We learned a lot about space on our trip to the museum.",
             "He eats lots of vegetables."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "loud",
+    "say": "lowd",
+    "forms": [
+      "louder",
+      "loudest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making a lot of noise.",
+          "examples": [
+            "The drum is loud.",
+            "A loud noise woke me.",
+            "Do not be so loud."
+          ]
+        },
+        "more": {
+          "def": "Having a strong sound that is easy to hear.",
+          "examples": [
+            "The thunder was so loud that it shook the windows.",
+            "The loud music filled the gym.",
+            "The baby gave a loud cry."
           ]
         }
       }
@@ -349,6 +547,34 @@
             "The garden looked lovely in the spring.",
             "We had a lovely time at the beach.",
             "She sang a lovely song."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lover",
+    "say": "LUV-er",
+    "forms": [
+      "lovers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who enjoys something a lot.",
+          "examples": [
+            "She is a book lover.",
+            "He is an animal lover.",
+            "I am a music lover."
+          ]
+        },
+        "more": {
+          "def": "A person who enjoys something very much.",
+          "examples": [
+            "My sister is a book lover.",
+            "He is a lover of nature.",
+            "The shop is full of cat lovers."
           ]
         }
       }

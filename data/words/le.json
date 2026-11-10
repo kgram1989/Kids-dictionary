@@ -251,6 +251,31 @@
     ]
   },
   {
+    "word": "legal",
+    "say": "LEE-gul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Allowed by the law.",
+          "examples": [
+            "It is legal to drive at sixteen.",
+            "That is legal.",
+            "A legal sign."
+          ]
+        },
+        "more": {
+          "def": "Allowed by the law, or having to do with the law.",
+          "examples": [
+            "It is legal to ride a bike on this road.",
+            "The park has legal parking spaces.",
+            "It is not legal to cross the street here."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "legend",
     "say": "LEJ-und",
     "emoji": "🐉",
@@ -274,6 +299,53 @@
             "According to legend, a giant made these hills.",
             "The legend says a monster lives in the lake.",
             "Many legends are told about the brave king."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lesson",
+    "say": "LES-un",
+    "forms": [
+      "lessons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Time when you learn something.",
+          "examples": [
+            "We have a swimming lesson.",
+            "The lesson was fun.",
+            "The music lesson is at four."
+          ]
+        },
+        "more": {
+          "def": "A period of time when a teacher teaches something.",
+          "examples": [
+            "I have a piano lesson on Tuesday.",
+            "The math lesson was about fractions.",
+            "She takes swimming lessons at the pool."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you learn from an event.",
+          "examples": [
+            "I learned a lesson.",
+            "The story has a lesson.",
+            "Never again, he learned his lesson."
+          ]
+        },
+        "more": {
+          "def": "Something that you learn from something that happened.",
+          "examples": [
+            "He learned a lesson about being careful.",
+            "The lesson of the story is to share.",
+            "Missing the bus taught her a lesson."
           ]
         }
       }

@@ -1,5 +1,54 @@
 [
   {
+    "word": "trace",
+    "say": "trayss",
+    "forms": [
+      "traces",
+      "traced",
+      "tracing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To copy by following lines.",
+          "examples": [
+            "Trace the picture.",
+            "She traced her hand.",
+            "He traces the letters."
+          ]
+        },
+        "more": {
+          "def": "To copy a drawing by following its lines on thin paper.",
+          "examples": [
+            "Trace the picture with a pencil.",
+            "She traced her hand on the paper.",
+            "He traced the map onto a clear sheet."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small sign that something was there.",
+          "examples": [
+            "There was no trace of the cat.",
+            "A trace of snow.",
+            "A trace of dust."
+          ]
+        },
+        "more": {
+          "def": "A small mark or sign that something was there.",
+          "examples": [
+            "There was no trace of the missing cat.",
+            "A trace of snow stayed on the roof.",
+            "The detective found a trace of mud."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "track",
     "say": "trak",
     "forms": [
@@ -87,6 +136,55 @@
     ]
   },
   {
+    "word": "trade",
+    "say": "trayd",
+    "forms": [
+      "trades",
+      "traded",
+      "trading"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To swap one thing for another.",
+          "examples": [
+            "Let's trade cards.",
+            "I traded my pencil.",
+            "She trades stickers."
+          ]
+        },
+        "more": {
+          "def": "To give something and get something else in return.",
+          "examples": [
+            "Let's trade lunches today.",
+            "I traded my stickers for his marbles.",
+            "She trades baseball cards with her friend."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Buying and selling.",
+          "examples": [
+            "Trade between countries.",
+            "The trade of goods.",
+            "Trade is busy."
+          ]
+        },
+        "more": {
+          "def": "The buying and selling of goods.",
+          "examples": [
+            "The port is busy with trade.",
+            "Trade between the two countries grew.",
+            "Ships carried goods for trade."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tradition",
     "say": "truh-DISH-un",
     "forms": [
@@ -165,6 +263,61 @@
     ]
   },
   {
+    "word": "training",
+    "say": "TRAY-ning",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Learning how to do something by practicing.",
+          "examples": [
+            "He is in training for the race.",
+            "Dog training.",
+            "She got training for the job."
+          ]
+        },
+        "more": {
+          "def": "The process of learning a skill by practicing it.",
+          "examples": [
+            "He is in training for the big race.",
+            "The puppy is in training class.",
+            "Nurses need years of training."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "transfer",
+    "say": "TRANSS-fer",
+    "forms": [
+      "transfers",
+      "transferred",
+      "transferring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move from one place to another.",
+          "examples": [
+            "Transfer the water to a jug.",
+            "He transferred schools.",
+            "She transferred the money."
+          ]
+        },
+        "more": {
+          "def": "To move something or someone from one place to another.",
+          "examples": [
+            "Transfer the soup into a bowl.",
+            "She transferred to a new school.",
+            "Dad transferred the photos to the computer."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "transparent",
     "say": "trans-PAIR-unt",
     "emoji": "🪟",
@@ -185,6 +338,55 @@
             "The jellyfish was almost transparent in the water.",
             "Tape the transparent plastic over the window.",
             "The water was so transparent that we could see the bottom."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "trap",
+    "say": "trap",
+    "forms": [
+      "traps",
+      "trapped",
+      "trapping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something set up to catch an animal.",
+          "examples": [
+            "The trap caught a mouse.",
+            "He set a trap.",
+            "The fox escaped the trap."
+          ]
+        },
+        "more": {
+          "def": "A device or hole used to catch animals.",
+          "examples": [
+            "Dad set a trap for the mouse in the shed.",
+            "The fox escaped from the trap.",
+            "The hunters dug a trap in the story."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To catch or hold something so it cannot get out.",
+          "examples": [
+            "The net trapped the fish.",
+            "I was trapped in the elevator.",
+            "The bear was trapped."
+          ]
+        },
+        "more": {
+          "def": "To catch or hold something so that it cannot escape.",
+          "examples": [
+            "The fishing net trapped the fish.",
+            "A fallen tree trapped the car.",
+            "We were trapped inside by the snow."
           ]
         }
       }
@@ -374,6 +576,53 @@
             "The leaves trembled in the gentle wind.",
             "The ground trembled as the train passed.",
             "His hands trembled as he opened the letter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "trial",
+    "say": "TRY-ul",
+    "forms": [
+      "trials"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A time in court when a judge decides a case.",
+          "examples": [
+            "The trial lasted a week.",
+            "The judge led the trial.",
+            "People watched the trial."
+          ]
+        },
+        "more": {
+          "def": "A meeting in a court where a judge or jury decides if someone broke the law.",
+          "examples": [
+            "The trial lasted three days.",
+            "The lawyer spoke at the trial.",
+            "The jury listened carefully during the trial."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A test to see how well something works.",
+          "examples": [
+            "The trial of the new bike went well.",
+            "We did a trial run.",
+            "The medicine was in a trial."
+          ]
+        },
+        "more": {
+          "def": "A test of something to find out how well it works.",
+          "examples": [
+            "Scientists ran a trial of the new medicine.",
+            "We did a trial run before the big show.",
+            "The toy had a one-week trial."
           ]
         }
       }

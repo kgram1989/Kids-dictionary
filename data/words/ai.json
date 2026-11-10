@@ -24,5 +24,33 @@
         }
       }
     ]
+  },
+  {
+    "word": "airport",
+    "say": "AIR-port",
+    "forms": [
+      "airports"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where planes take off and land.",
+          "examples": [
+            "We went to the airport.",
+            "The airport is big.",
+            "Planes land at the airport."
+          ]
+        },
+        "more": {
+          "def": "A place where planes take off and land, with buildings for passengers.",
+          "examples": [
+            "We waited at the airport for our plane.",
+            "The airport is busy during the holidays.",
+            "Planes line up at the airport to take off."
+          ]
+        }
+      }
+    ]
   }
 ]

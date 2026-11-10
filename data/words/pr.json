@@ -49,6 +49,36 @@
     ]
   },
   {
+    "word": "pray",
+    "say": "pray",
+    "forms": [
+      "prays",
+      "prayed",
+      "praying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To talk to God.",
+          "examples": [
+            "We pray before dinner.",
+            "She prayed for her grandmother.",
+            "People pray in church."
+          ]
+        },
+        "more": {
+          "def": "To speak to God or a holy being, to give thanks or ask for help.",
+          "examples": [
+            "Many families pray together before meals.",
+            "She prayed for good weather on the day of the picnic.",
+            "People gather to pray in churches, mosques and temples."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "predator",
     "say": "PRED-uh-ter",
     "emoji": "🦈",
@@ -103,6 +133,61 @@
             "Scientists use clouds and wind to predict the weather.",
             "No one can predict exactly when an earthquake will happen.",
             "The teacher asked us to predict what would float."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prefer",
+    "say": "prih-FER",
+    "forms": [
+      "prefers",
+      "preferred",
+      "preferring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To like one thing better.",
+          "examples": [
+            "I prefer pizza.",
+            "She prefers tea.",
+            "He prefers cats."
+          ]
+        },
+        "more": {
+          "def": "To like one thing better than another.",
+          "examples": [
+            "I prefer pizza to pasta.",
+            "She prefers reading to watching TV.",
+            "Many people prefer summer to winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pregnant",
+    "say": "PREG-nunt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having a baby growing inside the body.",
+          "examples": [
+            "My aunt is pregnant.",
+            "The pregnant cat sleeps a lot.",
+            "A pregnant woman rested."
+          ]
+        },
+        "more": {
+          "def": "Having a baby or young animal growing inside the body.",
+          "examples": [
+            "My aunt is pregnant and will have a baby in May.",
+            "The pregnant cat found a quiet place to rest.",
+            "A pregnant whale swims slowly."
           ]
         }
       }
@@ -470,6 +555,139 @@
     ]
   },
   {
+    "word": "priest",
+    "say": "preest",
+    "forms": [
+      "priests"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A religious leader in some religions.",
+          "examples": [
+            "The priest led the service.",
+            "A priest wore robes.",
+            "The priest blessed them."
+          ]
+        },
+        "more": {
+          "def": "A person who leads religious services in some religions.",
+          "examples": [
+            "The priest led the service at the church.",
+            "The priest blessed the new building.",
+            "The priest visited the sick."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prince",
+    "say": "prinss",
+    "forms": [
+      "princes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The son of a king or queen.",
+          "examples": [
+            "The prince wore a crown.",
+            "The prince lives in the castle.",
+            "The prince rode a horse."
+          ]
+        },
+        "more": {
+          "def": "The son of a king or queen, who may become king one day.",
+          "examples": [
+            "The prince lived in a tall castle.",
+            "In the story, the prince searched for a lost girl.",
+            "The prince will become king one day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "princess",
+    "say": "PRIN-sess",
+    "forms": [
+      "princesses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The daughter of a king or queen.",
+          "examples": [
+            "The princess wore a crown.",
+            "The princess lives in a castle.",
+            "The princess rode a horse."
+          ]
+        },
+        "more": {
+          "def": "The daughter of a king or queen, or the wife of a prince.",
+          "examples": [
+            "The princess lived in a tall castle.",
+            "In the story, the princess saves the village.",
+            "The little girl dressed as a princess."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "print",
+    "say": "print",
+    "forms": [
+      "prints",
+      "printed",
+      "printing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put words or pictures on paper.",
+          "examples": [
+            "Print the page.",
+            "She printed her name.",
+            "The machine prints pictures."
+          ]
+        },
+        "more": {
+          "def": "To put words or pictures on paper with a machine, or to write in separate letters.",
+          "examples": [
+            "Please print your name at the top.",
+            "I printed the photo.",
+            "The machine prints a hundred pages a minute."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mark left by pressing.",
+          "examples": [
+            "Footprints are prints.",
+            "The dog left a paw print.",
+            "We saw prints in the snow."
+          ]
+        },
+        "more": {
+          "def": "A mark made by pressing something onto a surface.",
+          "examples": [
+            "The dog left a muddy paw print on the floor.",
+            "She saw bear prints in the snow.",
+            "The detective found a fingerprint."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "prison",
     "say": "PRIZ-un",
     "forms": [
@@ -492,6 +710,34 @@
             "The robber was sent to prison.",
             "The old prison is now a museum.",
             "A prison has high walls and locked doors."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prisoner",
+    "say": "PRIZ-uh-ner",
+    "forms": [
+      "prisoners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person kept in prison.",
+          "examples": [
+            "The prisoner sat in a cell.",
+            "The prisoner was in jail.",
+            "A prisoner was freed."
+          ]
+        },
+        "more": {
+          "def": "A person who is kept in prison or locked up.",
+          "examples": [
+            "The prisoner was kept in a small cell.",
+            "In the story, the prisoner escaped.",
+            "The king freed the prisoner."
           ]
         }
       }
@@ -570,6 +816,83 @@
     ]
   },
   {
+    "word": "process",
+    "say": "PROSS-es",
+    "forms": [
+      "processes",
+      "processed",
+      "processing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A set of steps that happen in order.",
+          "examples": [
+            "The process is simple.",
+            "The process of baking bread.",
+            "A growing process."
+          ]
+        },
+        "more": {
+          "def": "A series of steps or actions that lead to a result.",
+          "examples": [
+            "The process of making bread takes several steps.",
+            "Growing a plant is a slow process.",
+            "The process of melting ice is simple."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To treat food or materials with steps.",
+          "examples": [
+            "Factories process food.",
+            "The machine processes paper.",
+            "They process milk."
+          ]
+        },
+        "more": {
+          "def": "To prepare or change something by a series of steps.",
+          "examples": [
+            "The factory processes milk into cheese.",
+            "The machine processed the paper.",
+            "Workers process the fruit before packing it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "professional",
+    "say": "pruh-FESH-uh-nul",
+    "forms": [
+      "professionals"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Doing something as a job.",
+          "examples": [
+            "A professional baseball player.",
+            "A professional cook.",
+            "She is a professional."
+          ]
+        },
+        "more": {
+          "def": "Doing something as a job and being paid for it.",
+          "examples": [
+            "He is a professional baseball player.",
+            "A professional gardener planted the trees.",
+            "She hired a professional painter."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "professor",
     "say": "pruh-FES-er",
     "forms": [
@@ -592,6 +915,100 @@
             "The professor gave a talk about volcanoes.",
             "My aunt is a professor of history.",
             "The professors met in the library."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "program",
+    "say": "PROH-gram",
+    "forms": [
+      "programs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A show on TV or radio.",
+          "examples": [
+            "I like this program.",
+            "The program is funny.",
+            "We watched a program about whales."
+          ]
+        },
+        "more": {
+          "def": "A show on television or radio.",
+          "examples": [
+            "She watched a program about the ocean.",
+            "The radio program plays music for kids.",
+            "A science program comes on at six."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A plan of things to do.",
+          "examples": [
+            "The school has a reading program.",
+            "There is a summer program.",
+            "The program starts at noon."
+          ]
+        },
+        "more": {
+          "def": "A planned set of activities or events.",
+          "examples": [
+            "The school has a program to help kids read.",
+            "The program for the concert lists every song.",
+            "He joined a swimming program at the pool."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Instructions for a computer.",
+          "examples": [
+            "I wrote a program.",
+            "The program runs the game.",
+            "A computer program shows the words."
+          ]
+        },
+        "more": {
+          "def": "A set of instructions that tells a computer what to do.",
+          "examples": [
+            "My brother wrote a program for a math game.",
+            "The program crashed when I pressed the button.",
+            "This program helps you learn to type."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "project",
+    "say": "PROJ-ekt",
+    "forms": [
+      "projects"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big school job.",
+          "examples": [
+            "I am doing a science project.",
+            "The class did a project.",
+            "Our art project is due."
+          ]
+        },
+        "more": {
+          "def": "A piece of work with a plan, often done over a period of time.",
+          "examples": [
+            "I am doing a science project on plants.",
+            "Our class did a project about the ocean.",
+            "The town started a project to build a new library."
           ]
         }
       }
@@ -623,6 +1040,78 @@
             "He promised to return the book by Friday.",
             "The mayor promised to fix the roads.",
             "I promise I will not tell anyone your secret."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "proof",
+    "say": "proof",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that shows a thing is true.",
+          "examples": [
+            "I have proof.",
+            "Footprints are proof.",
+            "The photo is proof."
+          ]
+        },
+        "more": {
+          "def": "Facts or things that show that something is true.",
+          "examples": [
+            "The photo is proof that I was there.",
+            "Scientists need proof before they decide.",
+            "Muddy footprints were proof that the dog came in."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "property",
+    "say": "PROP-er-tee",
+    "forms": [
+      "properties"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things that belong to someone.",
+          "examples": [
+            "This is my property.",
+            "The farm is private property.",
+            "Do not touch my property."
+          ]
+        },
+        "more": {
+          "def": "Things that belong to a person or a group.",
+          "examples": [
+            "This book is school property.",
+            "The sign said it was private property.",
+            "Please keep off my property."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A quality of something.",
+          "examples": [
+            "A property of water is that it flows.",
+            "Metal has the property of conducting heat.",
+            "A property of rubber is that it stretches."
+          ]
+        },
+        "more": {
+          "def": "A quality that something has.",
+          "examples": [
+            "One property of water is that it flows.",
+            "Metal has the property of carrying heat.",
+            "A property of glass is that it breaks easily."
           ]
         }
       }
@@ -714,6 +1203,36 @@
             "Scientists proved that the Earth goes around the sun.",
             "Can you prove that you finished your homework?",
             "The footprints proved a deer had been there."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "provide",
+    "say": "pruh-VYD",
+    "forms": [
+      "provides",
+      "provided",
+      "providing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give what is needed.",
+          "examples": [
+            "The school provides lunch.",
+            "Dad provides food.",
+            "The park provides shade."
+          ]
+        },
+        "more": {
+          "def": "To give or supply something that is needed.",
+          "examples": [
+            "The school provides lunch for all the kids.",
+            "The trees provide shade on hot days.",
+            "The camp provided tents for everyone."
           ]
         }
       }

@@ -1,5 +1,35 @@
 [
   {
+    "word": "wrap",
+    "say": "rap",
+    "forms": [
+      "wraps",
+      "wrapped",
+      "wrapping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cover by folding something around.",
+          "examples": [
+            "Wrap the gift.",
+            "She wrapped the baby.",
+            "He wraps the sandwich."
+          ]
+        },
+        "more": {
+          "def": "To cover something by putting paper or cloth around it.",
+          "examples": [
+            "Wrap the present in colorful paper.",
+            "She wrapped the baby in a blanket.",
+            "He wrapped the sandwich in foil."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wrinkle",
     "say": "RING-kul",
     "forms": [
@@ -53,6 +83,34 @@
             "Please write your name at the top of the page.",
             "She wrote a letter to her grandfather.",
             "He is writing a story about a pirate."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "writer",
+    "say": "RY-ter",
+    "forms": [
+      "writers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who writes.",
+          "examples": [
+            "She is a writer.",
+            "The writer wrote a book.",
+            "My mom is a writer."
+          ]
+        },
+        "more": {
+          "def": "A person who writes stories, articles or books.",
+          "examples": [
+            "The writer signed her new book.",
+            "My aunt is a writer for a newspaper.",
+            "The writer spent a year on the story."
           ]
         }
       }

@@ -1,5 +1,80 @@
 [
   {
+    "word": "subject",
+    "say": "SUB-jikt",
+    "forms": [
+      "subjects"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What you are talking or learning about.",
+          "examples": [
+            "Math is my favorite subject.",
+            "The subject of the book is bees.",
+            "Change the subject."
+          ]
+        },
+        "more": {
+          "def": "The thing that is being talked about, studied or written about.",
+          "examples": [
+            "Science is my favorite subject at school.",
+            "The subject of the book is the ocean.",
+            "Let's change the subject to something happier."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The doer in a sentence.",
+          "examples": [
+            "The subject of the sentence is the dog.",
+            "In \"Mia ran,\" Mia is the subject.",
+            "Find the subject."
+          ]
+        },
+        "more": {
+          "def": "The person or thing that does the action in a sentence.",
+          "examples": [
+            "In the sentence \"The dog barked,\" the subject is \"dog.\"",
+            "Every sentence needs a subject and a verb.",
+            "Underline the subject of each sentence."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "subtitle",
+    "say": "SUB-ty-tul",
+    "forms": [
+      "subtitles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words at the bottom of a screen.",
+          "examples": [
+            "The movie has subtitles.",
+            "Read the subtitles.",
+            "Turn on subtitles."
+          ]
+        },
+        "more": {
+          "def": "Words shown at the bottom of a screen that show what people are saying.",
+          "examples": [
+            "The movie had subtitles in English.",
+            "Turn on the subtitles to read the words.",
+            "She read the subtitles because the actors spoke Spanish."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "such",
     "say": "such",
     "senses": [
@@ -25,6 +100,31 @@
     ]
   },
   {
+    "word": "sudden",
+    "say": "SUD-un",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happening fast and not expected.",
+          "examples": [
+            "A sudden noise.",
+            "The sudden rain.",
+            "A sudden stop."
+          ]
+        },
+        "more": {
+          "def": "Happening quickly and without warning.",
+          "examples": [
+            "A sudden noise made me jump.",
+            "The sudden storm surprised us.",
+            "The bus came to a sudden stop."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "suddenly",
     "say": "SUD-un-lee",
     "senses": [
@@ -44,6 +144,95 @@
             "The sky suddenly turned dark.",
             "A deer suddenly jumped across the road.",
             "Suddenly the music stopped."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sue",
+    "say": "soo",
+    "forms": [
+      "sues",
+      "sued",
+      "suing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To ask a court to decide in your favor.",
+          "examples": [
+            "He sued the company.",
+            "They sued for money.",
+            "She decided to sue."
+          ]
+        },
+        "more": {
+          "def": "To take legal action by asking a court to make someone pay for a harm.",
+          "examples": [
+            "The family sued the company for the broken car.",
+            "The neighbor sued over the fence.",
+            "She decided to sue for the lost money."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "suffer",
+    "say": "SUF-er",
+    "forms": [
+      "suffers",
+      "suffered",
+      "suffering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To feel pain or trouble.",
+          "examples": [
+            "The plants suffer in the heat.",
+            "He suffers from a cold.",
+            "The dog suffered a cut."
+          ]
+        },
+        "more": {
+          "def": "To feel pain, sadness or trouble.",
+          "examples": [
+            "Plants suffer when there is no rain.",
+            "He suffered from a bad cold.",
+            "The hikers suffered in the heat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sugar",
+    "say": "SHUUG-er",
+    "emoji": "🍬",
+    "forms": [
+      "sugars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet white food.",
+          "examples": [
+            "Sugar is sweet.",
+            "I put sugar in my tea.",
+            "Cookies have sugar."
+          ]
+        },
+        "more": {
+          "def": "A sweet food, usually white or brown, that comes from plants.",
+          "examples": [
+            "Add a spoonful of sugar to the tea.",
+            "Sugar comes from sugar cane and beets.",
+            "The cake needs a cup of sugar."
           ]
         }
       }
@@ -225,6 +414,84 @@
     ]
   },
   {
+    "word": "Sunday",
+    "say": "SUN-day",
+    "emoji": "📅",
+    "forms": [
+      "Sundays"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The day after Saturday.",
+          "examples": [
+            "We rest on Sunday.",
+            "Sunday is a day off.",
+            "We visit Grandma on Sunday."
+          ]
+        },
+        "more": {
+          "def": "The day of the week that comes after Saturday and before Monday.",
+          "examples": [
+            "We have pancakes every Sunday.",
+            "There is no school on Sunday.",
+            "My cousins visit on Sunday afternoon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "supply",
+    "say": "suh-PLY",
+    "forms": [
+      "supplies",
+      "supplied",
+      "supplying"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An amount of something that you have.",
+          "examples": [
+            "We have a supply of food.",
+            "The supply of water is low.",
+            "Pack a supply of snacks."
+          ]
+        },
+        "more": {
+          "def": "An amount of something that is ready to be used.",
+          "examples": [
+            "We have a supply of food for the trip.",
+            "The supply of water ran low.",
+            "The store ran out of its supply of paper."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give what is needed.",
+          "examples": [
+            "The farm supplies milk.",
+            "Dad supplies the snacks.",
+            "The river supplies water."
+          ]
+        },
+        "more": {
+          "def": "To give or provide something that is needed.",
+          "examples": [
+            "The farm supplies milk to the town.",
+            "Dad supplied snacks for the whole team.",
+            "The river supplies water to the village."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "support",
     "say": "suh-PORT",
     "forms": [
@@ -367,6 +634,34 @@
             "I am sure that I left my backpack by the door.",
             "Are you sure this is the right way to the beach?",
             "Our team is sure to win after practicing so hard."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "surgery",
+    "say": "SER-jer-ee",
+    "forms": [
+      "surgeries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When doctors fix your body by cutting.",
+          "examples": [
+            "He had surgery on his knee.",
+            "Grandma needs surgery.",
+            "The surgery was a success."
+          ]
+        },
+        "more": {
+          "def": "A medical treatment in which a doctor cuts into the body to fix a problem.",
+          "examples": [
+            "She had surgery on her arm.",
+            "The doctor explained the surgery to the family.",
+            "Surgery can fix broken bones."
           ]
         }
       }
