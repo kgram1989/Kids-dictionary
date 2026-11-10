@@ -123,6 +123,36 @@
     ]
   },
   {
+    "word": "locate",
+    "say": "LOH-kayt",
+    "forms": [
+      "locates",
+      "located",
+      "locating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To find where something is.",
+          "examples": [
+            "Can you locate the park on the map?",
+            "I could not locate my shoe.",
+            "She located the key."
+          ]
+        },
+        "more": {
+          "def": "To find the exact place where something is.",
+          "examples": [
+            "Use the map to locate the park.",
+            "The rescuers located the lost hikers.",
+            "He tried to locate the missing key."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "location",
     "say": "loh-KAY-shun",
     "emoji": "📍",
@@ -198,6 +228,90 @@
             "He locked the box and hid the key."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "locker",
+    "say": "LOK-er",
+    "forms": [
+      "lockers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small closet with a lock where you keep things.",
+          "examples": [
+            "I put my coat in my locker.",
+            "The locker is blue.",
+            "My locker is by the door."
+          ]
+        },
+        "more": {
+          "def": "A small cupboard with a door that locks, used to store coats and books.",
+          "examples": [
+            "I keep my coat and books in my locker.",
+            "The gym lockers were painted blue.",
+            "He spun the lock on his locker."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "log",
+    "say": "log",
+    "emoji": "🪵",
+    "forms": [
+      "logs",
+      "logged",
+      "logging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thick piece cut from a tree.",
+          "examples": [
+            "We put a log on the fire.",
+            "A log is in the river.",
+            "He sat on a log."
+          ]
+        },
+        "more": {
+          "def": "A thick, heavy piece cut from a tree trunk or a branch.",
+          "examples": [
+            "Dad put another log on the fire.",
+            "We sat on a log by the stream.",
+            "A beaver dragged a log to its dam."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A list of what happened.",
+          "examples": [
+            "The captain kept a log.",
+            "I keep a reading log.",
+            "Write it in the log."
+          ]
+        },
+        "more": {
+          "def": "A written record of events or activities, kept as time goes on.",
+          "examples": [
+            "The ship's captain wrote in the log every day.",
+            "I keep a reading log of every book I finish.",
+            "The scientist kept a log of the weather."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "logger",
+        "def": "A worker who cuts down trees."
       }
     ]
   },

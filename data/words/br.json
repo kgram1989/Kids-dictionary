@@ -29,6 +29,34 @@
     ]
   },
   {
+    "word": "brand",
+    "say": "brand",
+    "forms": [
+      "brands"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A name that a company gives to its products.",
+          "examples": [
+            "What brand of cereal do you eat?",
+            "My shoes are a good brand.",
+            "That brand is popular."
+          ]
+        },
+        "more": {
+          "def": "A name or mark that a company gives to the things it makes.",
+          "examples": [
+            "What brand of cereal do you like?",
+            "He wore shoes of a popular brand.",
+            "The store sells many brands of juice."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "brave",
     "say": "brayv",
     "emoji": "🦁",
@@ -321,6 +349,36 @@
     ]
   },
   {
+    "word": "brief",
+    "say": "breef",
+    "forms": [
+      "briefer",
+      "briefest",
+      "briefly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Short.",
+          "examples": [
+            "It was a brief talk.",
+            "The visit was brief.",
+            "She gave a brief speech."
+          ]
+        },
+        "more": {
+          "def": "Lasting only a short time, or using only a few words.",
+          "examples": [
+            "The teacher gave a brief talk.",
+            "We took a brief break.",
+            "After a brief rest, we kept walking."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bright",
     "say": "bryt",
     "emoji": "☀️",
@@ -425,6 +483,36 @@
     ]
   },
   {
+    "word": "broad",
+    "say": "brawd",
+    "forms": [
+      "broader",
+      "broadest",
+      "broadly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wide.",
+          "examples": [
+            "The river is broad.",
+            "He has broad shoulders.",
+            "The broad road has four lanes."
+          ]
+        },
+        "more": {
+          "def": "Wide from one side to the other.",
+          "examples": [
+            "The broad river was too deep to cross.",
+            "The football player had broad shoulders.",
+            "A broad path led to the gate."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "brother",
     "say": "BRUTH-er",
     "forms": [
@@ -504,6 +592,62 @@
       {
         "word": "brownish",
         "def": "A little bit brown."
+      }
+    ]
+  },
+  {
+    "word": "brush",
+    "say": "brush",
+    "emoji": "🖌️",
+    "forms": [
+      "brushes",
+      "brushed",
+      "brushing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool with stiff hairs on a handle.",
+          "examples": [
+            "I use a brush to paint.",
+            "Brush your teeth.",
+            "The brush is wet."
+          ]
+        },
+        "more": {
+          "def": "A tool with hairs, bristles or wire on a handle, used to clean, paint or tidy things.",
+          "examples": [
+            "She dipped the brush in blue paint.",
+            "He used a hair brush to fix his hair.",
+            "I cleaned the pot with a stiff brush."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To clean something by rubbing it with a tool.",
+          "examples": [
+            "I brush my teeth.",
+            "She brushed her hair.",
+            "He brushed the dog."
+          ]
+        },
+        "more": {
+          "def": "To clean, smooth or paint something by rubbing it with a tool that has stiff hairs.",
+          "examples": [
+            "I brush my teeth twice a day.",
+            "She brushed the dust off her coat.",
+            "He brushed the horse until its coat shone."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "underbrush",
+        "def": "Small bushes and plants growing under tall trees."
       }
     ]
   }

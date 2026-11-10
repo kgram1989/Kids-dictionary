@@ -47,6 +47,31 @@
     ]
   },
   {
+    "word": "modern",
+    "say": "MOD-ern",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Of the present time.",
+          "examples": [
+            "We live in a modern house.",
+            "Modern cars are fast.",
+            "The modern world is busy."
+          ]
+        },
+        "more": {
+          "def": "Of the present or recent time, not of long ago.",
+          "examples": [
+            "Modern phones can take pictures.",
+            "The new school is a modern building.",
+            "Modern doctors have many new tools."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "moist",
     "say": "moyst",
     "senses": [
@@ -494,6 +519,35 @@
     ]
   },
   {
+    "word": "motel",
+    "say": "moh-TEL",
+    "emoji": "🏨",
+    "forms": [
+      "motels"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place to sleep for a night when you travel by car.",
+          "examples": [
+            "We stayed at a motel.",
+            "The motel has a pool.",
+            "The motel is by the road."
+          ]
+        },
+        "more": {
+          "def": "A hotel by the road where people who travel by car can stay and park.",
+          "examples": [
+            "We stopped at a motel for the night.",
+            "The motel had a pool and a parking lot.",
+            "The family stayed at a small motel on the way to the beach."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mother",
     "say": "MUTH-er",
     "forms": [
@@ -516,6 +570,117 @@
             "My mother reads to me before bed.",
             "The mother duck led her ducklings across the road.",
             "He made a card for his mother on her birthday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "motion",
+    "say": "MOH-shun",
+    "forms": [
+      "motions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Moving from one place to another.",
+          "examples": [
+            "The wheel is in motion.",
+            "The motion of the waves is calm.",
+            "The car was in motion."
+          ]
+        },
+        "more": {
+          "def": "The act or state of moving.",
+          "examples": [
+            "The gentle rocking motion put the baby to sleep.",
+            "The gentle motion of the boat made me sleepy.",
+            "Scientists study the motion of the planets."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "motionless",
+        "def": "Not moving."
+      }
+    ]
+  },
+  {
+    "word": "motor",
+    "say": "MOH-ter",
+    "forms": [
+      "motors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that makes things move.",
+          "examples": [
+            "The boat has a motor.",
+            "The toy has a small motor.",
+            "The motor is loud."
+          ]
+        },
+        "more": {
+          "def": "A machine that uses power to make something move.",
+          "examples": [
+            "The boat has a motor that pushes it across the lake.",
+            "The toy car has a small motor.",
+            "The motor hummed when I turned on the fan."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mount",
+    "say": "mownt",
+    "forms": [
+      "mounts",
+      "mounted",
+      "mounting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To climb up onto something.",
+          "examples": [
+            "He mounted the horse.",
+            "I mounted the stairs.",
+            "She mounted the bike."
+          ]
+        },
+        "more": {
+          "def": "To get up on something, such as a horse or a bike.",
+          "examples": [
+            "The rider mounted the horse.",
+            "She mounted the steps to the stage.",
+            "He mounted the bike and rode away."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mountain.",
+          "examples": [
+            "Mount Everest is tall.",
+            "We saw Mount Rainier.",
+            "The mount is snowy."
+          ]
+        },
+        "more": {
+          "def": "A word for a mountain, often used before a name.",
+          "examples": [
+            "Mount Everest is the tallest mountain on Earth.",
+            "The climbers hiked up Mount Washington.",
+            "Mount Rushmore has four faces carved in stone."
           ]
         }
       }
@@ -696,6 +861,53 @@
             "My family moved to a new town last summer.",
             "They are moving to a bigger house near the park.",
             "Our neighbors moved away, and new ones came."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "movement",
+    "say": "MOOV-munt",
+    "forms": [
+      "movements"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Moving from one place to another.",
+          "examples": [
+            "I saw movement in the grass.",
+            "The movement of the clock hands is slow.",
+            "Dancers use graceful movements."
+          ]
+        },
+        "more": {
+          "def": "The act of moving, or a way in which a person or thing moves.",
+          "examples": [
+            "We saw some movement in the bushes.",
+            "The dancer's movements were smooth and graceful.",
+            "The movement of the planets is very slow."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of people working together for a cause.",
+          "examples": [
+            "The movement helped clean the river.",
+            "They joined the movement.",
+            "A big movement for kindness."
+          ]
+        },
+        "more": {
+          "def": "A group of people who work together to change something.",
+          "examples": [
+            "The movement for clean air began many years ago.",
+            "Many people joined the movement to protect the forests.",
+            "The students started a movement to recycle more."
           ]
         }
       }

@@ -313,6 +313,83 @@
     ]
   },
   {
+    "word": "palace",
+    "say": "PAL-iss",
+    "emoji": "🏰",
+    "forms": [
+      "palaces"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big home of a king or queen.",
+          "examples": [
+            "The queen lives in a palace.",
+            "The palace is huge.",
+            "We visited a palace."
+          ]
+        },
+        "more": {
+          "def": "A very large and grand home of a king, queen or other ruler.",
+          "examples": [
+            "The king lived in a golden palace.",
+            "We toured the palace and saw the royal rooms.",
+            "The palace had hundreds of rooms and a huge garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "palm",
+    "say": "pahm",
+    "emoji": "🌴",
+    "forms": [
+      "palms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The inside part of your hand.",
+          "examples": [
+            "I held the coin in my palm.",
+            "My palm is sweaty.",
+            "She put a seed in her palm."
+          ]
+        },
+        "more": {
+          "def": "The flat inside part of your hand, between your wrist and fingers.",
+          "examples": [
+            "He held the coin in the palm of his hand.",
+            "A tiny frog sat in her palm.",
+            "I clapped my palms together."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tall tree with big leaves at the top.",
+          "examples": [
+            "A palm grows on the beach.",
+            "The palm tree is tall.",
+            "Coconuts grow on a palm."
+          ]
+        },
+        "more": {
+          "def": "A tall tree that grows in warm places and has a bunch of large leaves at the top.",
+          "examples": [
+            "Palm trees waved in the breeze at the beach.",
+            "A palm tree gave shade to the whole picnic.",
+            "We sat in the shade of a palm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "panic",
     "say": "PAN-ik",
     "forms": [
@@ -1020,6 +1097,31 @@
     ]
   },
   {
+    "word": "patience",
+    "say": "PAY-shunss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being able to wait without getting upset.",
+          "examples": [
+            "She has a lot of patience.",
+            "Learning takes patience.",
+            "I lost my patience."
+          ]
+        },
+        "more": {
+          "def": "The ability to stay calm while waiting or when something is hard.",
+          "examples": [
+            "Teaching a puppy to sit takes patience.",
+            "She waited with patience for her turn.",
+            "Fishing takes a lot of patience."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "patient",
     "say": "PAY-shunt",
     "senses": [
@@ -1039,6 +1141,55 @@
             "The patient teacher explained the problem again until everyone understood.",
             "You must be patient when you are fishing.",
             "She is patient with her little brother when he learns new games."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "patrol",
+    "say": "puh-TROHL",
+    "forms": [
+      "patrols",
+      "patrolled",
+      "patrolling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To walk or drive around to keep a place safe.",
+          "examples": [
+            "The guard patrols the building.",
+            "The officer patrols the street.",
+            "The ranger patrols the park."
+          ]
+        },
+        "more": {
+          "def": "To go around an area to watch it and keep it safe.",
+          "examples": [
+            "The ranger patrols the park every morning.",
+            "Guards patrolled the museum at night.",
+            "The police patrol our neighborhood."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group that goes around to keep a place safe.",
+          "examples": [
+            "A patrol came by.",
+            "The patrol checked the park.",
+            "The sea patrol saved the boat."
+          ]
+        },
+        "more": {
+          "def": "A person or group sent around an area to watch over it.",
+          "examples": [
+            "The park patrol checked the trail.",
+            "A police patrol drove down the street.",
+            "The ship sent out a patrol."
           ]
         }
       }

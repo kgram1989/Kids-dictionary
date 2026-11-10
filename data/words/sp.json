@@ -172,6 +172,34 @@
     ]
   },
   {
+    "word": "specific",
+    "say": "spuh-SIF-ik",
+    "forms": [
+      "specifically"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Exact and clear.",
+          "examples": [
+            "Be specific about what you want.",
+            "I need a specific book.",
+            "She gave a specific answer."
+          ]
+        },
+        "more": {
+          "def": "Clear and exact, about one particular thing and not just any.",
+          "examples": [
+            "Please give a specific time for the party.",
+            "I need a specific book for my report.",
+            "The teacher asked for specific details in the story."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "speech",
     "say": "speech",
     "forms": [
@@ -362,6 +390,73 @@
             "We spent the whole summer at my grandparents' farm.",
             "He spends an hour each night reading.",
             "The owl spends the daytime sleeping in a hollow tree."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spike",
+    "say": "spyk",
+    "forms": [
+      "spikes",
+      "spiked",
+      "spiking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, sharp point.",
+          "examples": [
+            "The fence has spikes.",
+            "The cactus has spikes.",
+            "The spike is sharp."
+          ]
+        },
+        "more": {
+          "def": "A thin piece of metal or wood with a sharp point.",
+          "examples": [
+            "The fence had metal spikes on top.",
+            "The runner's shoes had spikes.",
+            "A spike stuck out of the board."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "spiky",
+        "def": "Having sharp points."
+      }
+    ]
+  },
+  {
+    "word": "spill",
+    "say": "spil",
+    "forms": [
+      "spills",
+      "spilled",
+      "spilt",
+      "spilling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let something run out by accident.",
+          "examples": [
+            "Do not spill the milk.",
+            "I spilled my juice.",
+            "She spilled the paint."
+          ]
+        },
+        "more": {
+          "def": "To let a liquid or a powder run out of its container by accident.",
+          "examples": [
+            "I spilled my juice on the table.",
+            "Be careful not to spill the paint.",
+            "She spilled sugar all over the floor."
           ]
         }
       }

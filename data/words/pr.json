@@ -279,6 +279,31 @@
     ]
   },
   {
+    "word": "presence",
+    "say": "PREZ-unss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being in a place.",
+          "examples": [
+            "Her presence made us happy.",
+            "Your presence is needed.",
+            "The presence of the teacher calmed us."
+          ]
+        },
+        "more": {
+          "def": "The fact of being in a certain place at a certain time.",
+          "examples": [
+            "The teacher's presence kept the class quiet.",
+            "Your presence at the party made it special.",
+            "We felt the presence of someone in the room."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "present",
     "say": "PREZ-unt",
     "emoji": "🎁",
@@ -582,6 +607,36 @@
     ]
   },
   {
+    "word": "prevent",
+    "say": "prih-VENT",
+    "forms": [
+      "prevents",
+      "prevented",
+      "preventing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop something from happening.",
+          "examples": [
+            "A helmet prevents injury.",
+            "The fence prevents the dog from running out.",
+            "Wash your hands to prevent germs."
+          ]
+        },
+        "more": {
+          "def": "To keep something from happening.",
+          "examples": [
+            "A helmet can prevent a head injury.",
+            "The fence prevents the dog from running into the road.",
+            "Washing your hands can prevent colds."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "price",
     "say": "pryss",
     "forms": [
@@ -679,6 +734,53 @@
             "The priest led the service at the church.",
             "The priest blessed the new building.",
             "The priest visited the sick."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prime",
+    "say": "prym",
+    "forms": [
+      "primes"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Most important or best.",
+          "examples": [
+            "This is the prime spot for the picnic.",
+            "It is a prime example.",
+            "The prime reason is safety."
+          ]
+        },
+        "more": {
+          "def": "Main, first in importance, or of the highest quality.",
+          "examples": [
+            "The prime reason for the rule is safety.",
+            "This is a prime spot for fishing.",
+            "The farm grew prime beef."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Describing a number that can be divided only by itself and one.",
+          "examples": [
+            "Seven is a prime number.",
+            "Two is a prime number.",
+            "Five is prime."
+          ]
+        },
+        "more": {
+          "def": "Describing a number greater than one that can be divided evenly only by one and itself.",
+          "examples": [
+            "Thirteen is prime because only one and thirteen divide it evenly.",
+            "The prime numbers start with two, three and five.",
+            "Nine is not prime because three goes into it."
           ]
         }
       }
@@ -1114,6 +1216,81 @@
     ]
   },
   {
+    "word": "producer",
+    "say": "pruh-DOO-ser",
+    "forms": [
+      "producers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who gets a movie or show made.",
+          "examples": [
+            "The producer made the movie.",
+            "The producer of the show was happy.",
+            "The producer found the actors."
+          ]
+        },
+        "more": {
+          "def": "A person who is in charge of making a movie, play or TV show.",
+          "examples": [
+            "The producer found the actors for the movie.",
+            "The show's producer planned the budget.",
+            "Farmers are producers of food."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "product",
+    "say": "PROD-ukt",
+    "forms": [
+      "products"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that is made to be sold.",
+          "examples": [
+            "This product is new.",
+            "The store sells many products.",
+            "Milk is a dairy product."
+          ]
+        },
+        "more": {
+          "def": "Something that is made or grown to be sold or used.",
+          "examples": [
+            "The factory makes a new product every year.",
+            "Cheese is a dairy product.",
+            "The store sells cleaning products."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The number you get when you multiply.",
+          "examples": [
+            "The product of two and three is six.",
+            "What is the product?",
+            "Six is the product of two times three."
+          ]
+        },
+        "more": {
+          "def": "The answer you get when you multiply two or more numbers together.",
+          "examples": [
+            "The product of four and five is twenty.",
+            "The product of any number and zero is zero.",
+            "She found the product by multiplying."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "professional",
     "say": "pruh-FESH-uh-nul",
     "forms": [
@@ -1166,6 +1343,41 @@
             "The professors met in the library."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "profit",
+    "say": "PROF-it",
+    "emoji": "💵",
+    "forms": [
+      "profits"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money you make after paying for what you used.",
+          "examples": [
+            "The lemonade stand made a profit.",
+            "The shop made a profit.",
+            "We kept the profit."
+          ]
+        },
+        "more": {
+          "def": "The money left over after the cost of making or buying something has been paid.",
+          "examples": [
+            "The lemonade stand made a profit of ten dollars.",
+            "The shop owner was happy with the profit.",
+            "We earned a profit by selling the cookies for more than they cost."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "profitable",
+        "def": "Making money."
       }
     ]
   },
@@ -1313,6 +1525,34 @@
             "I am doing a science project on plants.",
             "Our class did a project about the ocean.",
             "The town started a project to build a new library."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prom",
+    "say": "prom",
+    "forms": [
+      "proms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big dance at a high school.",
+          "examples": [
+            "My sister went to the prom.",
+            "The prom is in May.",
+            "The prom was in the gym."
+          ]
+        },
+        "more": {
+          "def": "A formal dance held at the end of the school year for high school students.",
+          "examples": [
+            "My cousin wore a blue dress to the prom.",
+            "The prom is held in the school gym.",
+            "They danced all night at the prom."
           ]
         }
       }

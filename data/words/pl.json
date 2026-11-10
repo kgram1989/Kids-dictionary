@@ -286,6 +286,35 @@
     ]
   },
   {
+    "word": "plastic",
+    "say": "PLAS-tik",
+    "emoji": "🧴",
+    "forms": [
+      "plastics"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A light, hard material that is made in factories.",
+          "examples": [
+            "The cup is plastic.",
+            "Toys are made of plastic.",
+            "Plastic floats."
+          ]
+        },
+        "more": {
+          "def": "A light, strong material made in factories and used to make many things.",
+          "examples": [
+            "Many toys are made of plastic.",
+            "The bottle is plastic, so it will not break.",
+            "Recycling helps keep plastic out of the sea."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "plate",
     "say": "playt",
     "emoji": "🍽️",
@@ -545,6 +574,105 @@
       {
         "word": "plentiful",
         "def": "More than enough."
+      }
+    ]
+  },
+  {
+    "word": "plot",
+    "say": "plot",
+    "forms": [
+      "plots",
+      "plotted",
+      "plotting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The main events in a story.",
+          "examples": [
+            "The plot is exciting.",
+            "The story has a good plot.",
+            "I like the plot."
+          ]
+        },
+        "more": {
+          "def": "The series of events that make up a story.",
+          "examples": [
+            "The plot of the story is about a lost dog.",
+            "The movie had an exciting plot.",
+            "The plot has a surprise at the end."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small piece of land.",
+          "examples": [
+            "We planted a vegetable plot.",
+            "The plot is by the fence.",
+            "The garden plot is small."
+          ]
+        },
+        "more": {
+          "def": "A small area of ground, such as one for a garden.",
+          "examples": [
+            "We planted tomatoes in the garden plot.",
+            "The family bought a plot of land.",
+            "The class has a small plot for flowers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "plug",
+    "say": "plug",
+    "emoji": "🔌",
+    "forms": [
+      "plugs",
+      "plugged",
+      "plugging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece that you push into a wall to get electricity.",
+          "examples": [
+            "Put the plug in the wall.",
+            "The plug is loose.",
+            "Pull out the plug."
+          ]
+        },
+        "more": {
+          "def": "A small piece with metal pins that you push into a wall to bring electricity.",
+          "examples": [
+            "I put the plug into the wall.",
+            "The lamp's plug fell out.",
+            "Pull the plug out of the socket."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that stops up a hole.",
+          "examples": [
+            "Put a plug in the sink.",
+            "The plug stopped the leak.",
+            "A plug is in the drain."
+          ]
+        },
+        "more": {
+          "def": "Something that you push into a hole to close it.",
+          "examples": [
+            "He put a plug in the sink and filled it with water.",
+            "A plug stopped the leak in the pipe.",
+            "The plug in the bathtub held the water in."
+          ]
+        }
       }
     ]
   },

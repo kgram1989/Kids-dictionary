@@ -1,5 +1,33 @@
 [
   {
+    "word": "fabulous",
+    "say": "FAB-yuh-lus",
+    "forms": [
+      "fabulously"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wonderful.",
+          "examples": [
+            "We had a fabulous time.",
+            "The cake was fabulous.",
+            "She wore a fabulous hat."
+          ]
+        },
+        "more": {
+          "def": "Very good, in a way that is almost hard to believe.",
+          "examples": [
+            "We had a fabulous time at the zoo.",
+            "The chef made a fabulous cake.",
+            "The view from the top was fabulous."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "face",
     "say": "fayss",
     "forms": [
@@ -28,6 +56,34 @@
     ]
   },
   {
+    "word": "facility",
+    "say": "fuh-SIL-ih-tee",
+    "forms": [
+      "facilities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A building or place made for a certain use.",
+          "examples": [
+            "The school has a sports facility.",
+            "The park has a picnic facility.",
+            "The facility is open all day."
+          ]
+        },
+        "more": {
+          "def": "A place or building that is made for a particular activity.",
+          "examples": [
+            "The school has a new sports facility.",
+            "The park has a facility for picnics.",
+            "The research facility has many labs."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fact",
     "say": "fakt",
     "forms": [
@@ -50,6 +106,35 @@
             "It is a fact that the Earth goes around the sun.",
             "Check your facts before you share a story.",
             "The librarian told us an amazing fact about octopuses."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "factory",
+    "say": "FAK-ter-ee",
+    "emoji": "🏭",
+    "forms": [
+      "factories"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A building where things are made.",
+          "examples": [
+            "Toys are made in a factory.",
+            "The factory is big.",
+            "Dad works at a factory."
+          ]
+        },
+        "more": {
+          "def": "A large building where workers and machines make things.",
+          "examples": [
+            "Cars are built in a factory.",
+            "The factory makes toys and ships them to stores.",
+            "My uncle works in a bread factory."
           ]
         }
       }
@@ -133,6 +218,57 @@
     ]
   },
   {
+    "word": "faint",
+    "say": "faynt",
+    "forms": [
+      "fainter",
+      "faintest",
+      "faints",
+      "fainted",
+      "fainting"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not strong or clear.",
+          "examples": [
+            "I heard a faint sound.",
+            "The light was faint.",
+            "The smell is faint."
+          ]
+        },
+        "more": {
+          "def": "Hard to see, hear or smell because it is not strong.",
+          "examples": [
+            "We heard a faint sound far away.",
+            "The stars grew faint when the sun came up.",
+            "A faint smell of smoke was in the air."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To suddenly pass out for a short time.",
+          "examples": [
+            "She felt faint and sat down.",
+            "He fainted in the heat.",
+            "I almost fainted."
+          ]
+        },
+        "more": {
+          "def": "To lose your senses for a short time, usually because you feel weak.",
+          "examples": [
+            "He fainted in the hot sun and woke up in the shade.",
+            "She felt dizzy and almost fainted.",
+            "The nurse helped the girl who had fainted."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fair",
     "say": "fair",
     "forms": [
@@ -194,6 +330,35 @@
             "We rode the Ferris wheel at the county fair.",
             "The prize pig at the fair won a blue ribbon.",
             "She baked a pie to enter in the fair."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fairy",
+    "say": "FAIR-ee",
+    "emoji": "🧚",
+    "forms": [
+      "fairies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny make-believe person with wings.",
+          "examples": [
+            "The fairy waved a wand.",
+            "I read about a fairy.",
+            "A fairy lives in the flower."
+          ]
+        },
+        "more": {
+          "def": "A tiny make-believe creature in stories, with wings and magic powers.",
+          "examples": [
+            "The fairy waved her wand and made it glow.",
+            "In the story, a fairy lived inside a flower.",
+            "The little girl dressed as a fairy for the party."
           ]
         }
       }
@@ -682,6 +847,63 @@
             "They farm the land in the valley.",
             "He farms corn and wheat.",
             "Her family has farmed here for generations."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "farmer",
+    "say": "FAR-mer",
+    "emoji": "🧑‍🌾",
+    "forms": [
+      "farmers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who grows food or raises animals.",
+          "examples": [
+            "The farmer grows corn.",
+            "The farmer milks the cows.",
+            "The farmer drives a tractor."
+          ]
+        },
+        "more": {
+          "def": "A person who grows crops or raises animals on a farm.",
+          "examples": [
+            "The farmer planted corn in the spring.",
+            "A farmer gets up early to milk the cows.",
+            "The farmers sell vegetables at the market."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fashion",
+    "say": "FASH-un",
+    "forms": [
+      "fashions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A style of clothes that many people like.",
+          "examples": [
+            "Her hat is in fashion.",
+            "The fashion changes every year.",
+            "She likes fashion."
+          ]
+        },
+        "more": {
+          "def": "A popular way of dressing or doing something at a certain time.",
+          "examples": [
+            "Bell-bottom pants were in fashion long ago.",
+            "She likes to design clothes and follow fashion.",
+            "Hats came back into fashion this year."
           ]
         }
       }

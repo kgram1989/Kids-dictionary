@@ -1,5 +1,55 @@
 [
   {
+    "word": "skate",
+    "say": "skayt",
+    "emoji": "⛸️",
+    "forms": [
+      "skates",
+      "skated",
+      "skating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To glide on ice or the ground with special shoes.",
+          "examples": [
+            "I skate on the ice.",
+            "We skated at the rink.",
+            "She skates well."
+          ]
+        },
+        "more": {
+          "def": "To glide over ice or smooth ground on wheels or blades attached to your shoes.",
+          "examples": [
+            "We skated on the frozen pond.",
+            "She skates around the rink.",
+            "The kids skated down the sidewalk."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A boot with a blade or wheels on the bottom.",
+          "examples": [
+            "I put on my skates.",
+            "My skate is blue.",
+            "I tied my skates."
+          ]
+        },
+        "more": {
+          "def": "A shoe with a metal blade or wheels on the bottom for gliding.",
+          "examples": [
+            "She laced up her ice skates.",
+            "He wore roller skates on the smooth path.",
+            "My skate got stuck in a crack."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "skeleton",
     "say": "SKEL-uh-tun",
     "emoji": "💀",
@@ -147,6 +197,35 @@
             "Skip the hard question and come back to it.",
             "I accidentally skipped a page.",
             "He skipped breakfast and ran to the bus."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "skull",
+    "say": "skul",
+    "emoji": "💀",
+    "forms": [
+      "skulls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The bones of the head.",
+          "examples": [
+            "The skull protects the brain.",
+            "A skull is made of bone.",
+            "The skull is hard."
+          ]
+        },
+        "more": {
+          "def": "The set of bones that forms the head and protects the brain.",
+          "examples": [
+            "Your skull protects your brain.",
+            "The museum has a dinosaur skull.",
+            "A helmet protects your skull."
           ]
         }
       }

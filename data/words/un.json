@@ -253,6 +253,36 @@
     ]
   },
   {
+    "word": "unhappy",
+    "say": "un-HAP-ee",
+    "emoji": "🙁",
+    "forms": [
+      "unhappier",
+      "unhappiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not happy.",
+          "examples": [
+            "The boy is unhappy.",
+            "I am unhappy about the rain.",
+            "The unhappy puppy whined."
+          ]
+        },
+        "more": {
+          "def": "Feeling sad or not pleased.",
+          "examples": [
+            "The unhappy child cried when her toy broke.",
+            "I was unhappy that the game was canceled.",
+            "The unhappy puppy sat by the door."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "uniform",
     "say": "YOO-nuh-form",
     "forms": [
@@ -437,6 +467,31 @@
             "My aunt studied science at a university.",
             "The university has many buildings and a big football field.",
             "Scientists at the university study the stars."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "unknown",
+    "say": "un-NOHN",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not known.",
+          "examples": [
+            "The cause is unknown.",
+            "An unknown boy came.",
+            "The name is unknown."
+          ]
+        },
+        "more": {
+          "def": "Not known or not familiar to people.",
+          "examples": [
+            "The cause of the fire was unknown.",
+            "An unknown boy sat next to me.",
+            "The explorers sailed into unknown waters."
           ]
         }
       }

@@ -1,5 +1,33 @@
 [
   {
+    "word": "sack",
+    "say": "sak",
+    "forms": [
+      "sacks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big bag.",
+          "examples": [
+            "I carried a sack.",
+            "The sack of potatoes is heavy.",
+            "The sack is full of toys."
+          ]
+        },
+        "more": {
+          "def": "A large bag made of strong paper or cloth.",
+          "examples": [
+            "Dad carried a sack of potatoes.",
+            "The sack was filled with apples.",
+            "She packed her lunch in a paper sack."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sacrifice",
     "say": "SAK-ruh-fyss",
     "forms": [
@@ -152,6 +180,85 @@
     ]
   },
   {
+    "word": "sail",
+    "say": "sayl",
+    "emoji": "⛵",
+    "forms": [
+      "sails",
+      "sailed",
+      "sailing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big piece of cloth on a boat that catches the wind.",
+          "examples": [
+            "The boat has a white sail.",
+            "The wind filled the sail.",
+            "The sail is up."
+          ]
+        },
+        "more": {
+          "def": "A large piece of strong cloth fixed to a boat that catches the wind to push it along.",
+          "examples": [
+            "The wind filled the white sail.",
+            "A sail is raised on the boat's tall mast.",
+            "The sailors lowered the sail when the storm came."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To travel on water in a boat.",
+          "examples": [
+            "We sail on the lake.",
+            "The ship sailed away.",
+            "They sailed across the sea."
+          ]
+        },
+        "more": {
+          "def": "To travel across water in a boat, especially a sailboat.",
+          "examples": [
+            "We sailed across the lake on Saturday.",
+            "The ship sailed out of the harbor at dawn.",
+            "She sailed all the way around the island."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sailor",
+    "say": "SAY-ler",
+    "emoji": "⚓",
+    "forms": [
+      "sailors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who works on a ship.",
+          "examples": [
+            "The sailor sailed the ship.",
+            "A sailor wore a blue hat.",
+            "Sailors work on boats."
+          ]
+        },
+        "more": {
+          "def": "A person who works on a ship or sails a boat.",
+          "examples": [
+            "The sailor climbed the mast.",
+            "Sailors pulled the ropes.",
+            "The sailor sailed across the sea."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sake",
     "say": "sayk",
     "senses": [
@@ -255,6 +362,37 @@
       {
         "word": "resale",
         "def": "The selling of something again."
+      }
+    ]
+  },
+  {
+    "word": "salt",
+    "say": "sawlt",
+    "emoji": "🧂",
+    "forms": [
+      "salts",
+      "salted",
+      "salting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A white powder that makes food taste better.",
+          "examples": [
+            "I put salt on my eggs.",
+            "The soup needs salt.",
+            "Salt is in the shaker."
+          ]
+        },
+        "more": {
+          "def": "A white mineral in tiny grains that is used to flavor food.",
+          "examples": [
+            "She sprinkled salt on the popcorn.",
+            "Ocean water is full of salt.",
+            "Add a pinch of salt to the soup."
+          ]
+        }
       }
     ]
   },
@@ -372,6 +510,31 @@
     ]
   },
   {
+    "word": "satisfied",
+    "say": "SAT-iss-fyd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happy with what you got.",
+          "examples": [
+            "I am satisfied with my work.",
+            "She felt satisfied.",
+            "The customer was satisfied."
+          ]
+        },
+        "more": {
+          "def": "Pleased because you have what you need or want.",
+          "examples": [
+            "I am satisfied with my score.",
+            "She felt satisfied after a big dinner.",
+            "The customer was satisfied with the new shoes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "Saturday",
     "say": "SAT-er-day",
     "emoji": "📅",
@@ -395,6 +558,34 @@
             "We go to the market on Saturday.",
             "There is no school on Saturday.",
             "My soccer game is on Saturday morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sauce",
+    "say": "saws",
+    "forms": [
+      "sauces"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thick liquid that you put on food.",
+          "examples": [
+            "I like tomato sauce.",
+            "The sauce is on the pasta.",
+            "Dad made a sauce."
+          ]
+        },
+        "more": {
+          "def": "A thick liquid that is poured over food to give it flavor.",
+          "examples": [
+            "Mom poured tomato sauce on the spaghetti.",
+            "The pizza had a lot of cheese and sauce.",
+            "Dip your fries in the sauce."
           ]
         }
       }

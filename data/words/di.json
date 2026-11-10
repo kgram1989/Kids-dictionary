@@ -97,6 +97,34 @@
     ]
   },
   {
+    "word": "diet",
+    "say": "DY-it",
+    "forms": [
+      "diets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The food a person or animal usually eats.",
+          "examples": [
+            "A panda's diet is bamboo.",
+            "I eat a healthy diet.",
+            "The doctor talked about diet."
+          ]
+        },
+        "more": {
+          "def": "The kinds of food that a person or animal usually eats.",
+          "examples": [
+            "A panda's diet is mostly bamboo.",
+            "Fruit and vegetables are part of a healthy diet.",
+            "The vet talked about the dog's diet."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "difference",
     "say": "DIF-rents",
     "forms": [
@@ -523,6 +551,34 @@
     ]
   },
   {
+    "word": "disaster",
+    "say": "dih-ZAS-ter",
+    "forms": [
+      "disasters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A terrible event that causes much damage.",
+          "examples": [
+            "The flood was a disaster.",
+            "The storm was a disaster.",
+            "The picnic was a disaster."
+          ]
+        },
+        "more": {
+          "def": "A sudden event that causes great harm or damage, such as a flood or fire.",
+          "examples": [
+            "The flood was a disaster for the town.",
+            "Many people helped after the disaster.",
+            "Our picnic was a disaster because it rained."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "discover",
     "say": "dis-KUV-er",
     "emoji": "🔍",
@@ -677,6 +733,36 @@
     ]
   },
   {
+    "word": "dismiss",
+    "say": "dis-MISS",
+    "forms": [
+      "dismisses",
+      "dismissed",
+      "dismissing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let someone go.",
+          "examples": [
+            "The teacher dismissed the class.",
+            "She dismissed us at noon.",
+            "School is dismissed."
+          ]
+        },
+        "more": {
+          "def": "To tell people they may leave, or to decide not to think about something.",
+          "examples": [
+            "The teacher dismissed the class at three o'clock.",
+            "The principal dismissed the students for lunch.",
+            "He dismissed the idea because it was silly."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "distance",
     "say": "DIS-tunss",
     "emoji": "📏",
@@ -700,6 +786,36 @@
             "The distance between our town and the ocean is two hundred miles.",
             "The runners trained to race a distance of five miles.",
             "From a distance, the two houses look exactly the same."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "distract",
+    "say": "dis-TRAKT",
+    "forms": [
+      "distracts",
+      "distracted",
+      "distracting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take someone's attention away from something.",
+          "examples": [
+            "Noise can distract me.",
+            "The toy distracted the baby.",
+            "Do not distract the driver."
+          ]
+        },
+        "more": {
+          "def": "To pull someone's attention away from what they are doing.",
+          "examples": [
+            "The loud noise distracted me from my work.",
+            "A toy distracted the baby from crying.",
+            "Please do not distract the bus driver."
           ]
         }
       }
@@ -758,6 +874,66 @@
             "Please do not disturb the baby while she sleeps.",
             "The loud music disturbed our reading.",
             "Do not disturb the nest in the tree."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dive",
+    "say": "dyve",
+    "emoji": "🤿",
+    "forms": [
+      "dives",
+      "dived",
+      "dove",
+      "diving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To jump into water head first.",
+          "examples": [
+            "I dive into the pool.",
+            "She dove off the board.",
+            "The seal dived."
+          ]
+        },
+        "more": {
+          "def": "To jump into water with your head first, or to go deep under water.",
+          "examples": [
+            "She dived into the pool with a splash.",
+            "The seal dove deep under the waves.",
+            "The swimmers dove for coins at the bottom."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "division",
+    "say": "dih-VIZH-un",
+    "forms": [
+      "divisions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Splitting a number into equal groups.",
+          "examples": [
+            "We learned division in math.",
+            "Division is the opposite of multiplication.",
+            "Six divided by two is a division."
+          ]
+        },
+        "more": {
+          "def": "The act of splitting a number into equal parts in math, or of separating something into parts.",
+          "examples": [
+            "In math class we practiced long division.",
+            "The division of the cake gave everyone a fair slice.",
+            "A fence made a clear division between the two yards."
           ]
         }
       }

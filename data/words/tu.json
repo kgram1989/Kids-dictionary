@@ -212,5 +212,34 @@
         }
       }
     ]
+  },
+  {
+    "word": "turtle",
+    "say": "TER-tul",
+    "emoji": "🐢",
+    "forms": [
+      "turtles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal with a hard shell on its back.",
+          "examples": [
+            "The turtle is slow.",
+            "A turtle hid in its shell.",
+            "The turtle crossed the road."
+          ]
+        },
+        "more": {
+          "def": "A slow, hard-shelled animal that lives in water or on land and can pull its head into its shell.",
+          "examples": [
+            "The turtle pulled its head into its shell.",
+            "Sea turtles swim long distances.",
+            "A turtle slowly crossed the road."
+          ]
+        }
+      }
+    ]
   }
 ]

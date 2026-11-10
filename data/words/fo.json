@@ -210,6 +210,34 @@
     ]
   },
   {
+    "word": "foolish",
+    "say": "FOO-lish",
+    "forms": [
+      "foolishly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not wise.",
+          "examples": [
+            "It is foolish to touch a hot stove.",
+            "That was a foolish thing to do.",
+            "The foolish boy forgot his coat."
+          ]
+        },
+        "more": {
+          "def": "Showing a lack of good sense, silly in a way that may cause trouble.",
+          "examples": [
+            "It is foolish to swim right after a big meal.",
+            "He felt foolish for forgetting his coat.",
+            "The foolish crow dropped its cheese."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "foot",
     "say": "fuut",
     "emoji": "🦶",
@@ -596,6 +624,56 @@
     ]
   },
   {
+    "word": "former",
+    "say": "FOR-mer",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "From an earlier time.",
+          "examples": [
+            "He is a former teacher.",
+            "My former school.",
+            "The former king."
+          ]
+        },
+        "more": {
+          "def": "Having been something in the past but not now.",
+          "examples": [
+            "My former teacher now works at another school.",
+            "The old building was the former library.",
+            "He is a former champion."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "forth",
+    "say": "forth",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Forward or out.",
+          "examples": [
+            "They went back and forth.",
+            "He walked forth.",
+            "The bird flew forth."
+          ]
+        },
+        "more": {
+          "def": "Forward, out or onward.",
+          "examples": [
+            "The pendulum swung back and forth.",
+            "The knights rode forth into the forest.",
+            "She stepped forth to receive her prize."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fortune",
     "say": "FOR-chun",
     "forms": [
@@ -691,6 +769,83 @@
             "The fossil showed the shape of a fish that lived millions of years ago.",
             "Fossils help scientists learn about animals from long ago.",
             "He found a leaf fossil in a piece of stone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "foul",
+    "say": "fowl",
+    "forms": [
+      "fouls",
+      "fouled",
+      "fouling"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very dirty or bad-smelling.",
+          "examples": [
+            "The foul smell was strong.",
+            "The water was foul.",
+            "The foul weather kept us in."
+          ]
+        },
+        "more": {
+          "def": "Very dirty, bad-smelling or unpleasant.",
+          "examples": [
+            "A foul smell came from the old trash can.",
+            "The foul weather kept us indoors.",
+            "The water in the pond was foul."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A move in a game that breaks the rules.",
+          "examples": [
+            "The player made a foul.",
+            "The referee called a foul.",
+            "That was a foul."
+          ]
+        },
+        "more": {
+          "def": "An unfair move that breaks the rules of a sport.",
+          "examples": [
+            "The referee blew the whistle for a foul.",
+            "He got a foul for pushing.",
+            "The team lost a point on the foul."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "foundation",
+    "say": "fown-DAY-shun",
+    "forms": [
+      "foundations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The solid base that a building stands on.",
+          "examples": [
+            "The house has a strong foundation.",
+            "The foundation is made of stone.",
+            "Workers poured the foundation."
+          ]
+        },
+        "more": {
+          "def": "The strong base under a building, which holds it up.",
+          "examples": [
+            "The house has a strong foundation of stone.",
+            "Workers poured the concrete foundation first.",
+            "A good foundation keeps the walls from cracking."
           ]
         }
       }

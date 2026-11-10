@@ -177,6 +177,34 @@
     ]
   },
   {
+    "word": "debt",
+    "say": "det",
+    "forms": [
+      "debts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money that you owe someone.",
+          "examples": [
+            "I paid my debt.",
+            "He owes a debt to the bank.",
+            "The family paid the debt."
+          ]
+        },
+        "more": {
+          "def": "Money that someone owes and must pay back.",
+          "examples": [
+            "He paid the debt he owed his friend.",
+            "The family worked hard to pay off the debt.",
+            "Dad took out a loan and then paid the debt."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "decent",
     "say": "DEE-sent",
     "forms": [
@@ -291,6 +319,70 @@
     ]
   },
   {
+    "word": "declare",
+    "say": "dih-KLAIR",
+    "forms": [
+      "declares",
+      "declared",
+      "declaring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say something strongly.",
+          "examples": [
+            "He declared that he was ready.",
+            "She declared she would win.",
+            "The mayor declared a holiday."
+          ]
+        },
+        "more": {
+          "def": "To say something in a strong, clear way so that everyone hears it.",
+          "examples": [
+            "The judge declared the winner of the contest.",
+            "She declared that she was ready to go.",
+            "The people declared their freedom."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "declaration",
+        "def": "Something declared."
+      }
+    ]
+  },
+  {
+    "word": "deed",
+    "say": "deed",
+    "forms": [
+      "deeds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that someone does.",
+          "examples": [
+            "She did a good deed.",
+            "He was known for his kind deeds.",
+            "A good deed makes people smile."
+          ]
+        },
+        "more": {
+          "def": "An act that someone does, especially a good or brave one.",
+          "examples": [
+            "She did a good deed by helping her neighbor.",
+            "The firefighter was honored for his brave deed.",
+            "Every kind deed makes the world nicer."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "deep",
     "say": "deep",
     "forms": [
@@ -352,6 +444,55 @@
             "Deep in the forest stood an old cabin.",
             "The tunnel runs deep under the mountain.",
             "Roots grow deep into the soil."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "defeat",
+    "say": "dih-FEET",
+    "forms": [
+      "defeats",
+      "defeated",
+      "defeating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To win against someone.",
+          "examples": [
+            "Our team defeated them.",
+            "She defeated her brother at chess.",
+            "We defeated the other team."
+          ]
+        },
+        "more": {
+          "def": "To win against someone in a game or contest.",
+          "examples": [
+            "Our team defeated the visitors by three points.",
+            "The champion defeated every challenger this year.",
+            "The hero defeated the dragon in the story."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Losing a game or contest.",
+          "examples": [
+            "The team accepted its defeat.",
+            "We felt sad about the defeat.",
+            "It was a big defeat."
+          ]
+        },
+        "more": {
+          "def": "The act or result of losing a game or contest.",
+          "examples": [
+            "The team was sad after its defeat.",
+            "The defeat made us practice harder.",
+            "A defeat can teach you a lot."
           ]
         }
       }
@@ -482,6 +623,55 @@
             "She worked to a high degree of skill.",
             "There was some degree of danger.",
             "He was happy to a large degree."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "delay",
+    "say": "dih-LAY",
+    "forms": [
+      "delays",
+      "delayed",
+      "delaying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something late.",
+          "examples": [
+            "The rain delayed the game.",
+            "We delayed our trip.",
+            "The bus was delayed."
+          ]
+        },
+        "more": {
+          "def": "To make something happen later than planned.",
+          "examples": [
+            "The rain delayed the start of the game.",
+            "The snow delayed our train for an hour.",
+            "She delayed dinner until everyone arrived."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A time when something is late.",
+          "examples": [
+            "There was a delay.",
+            "The delay was an hour.",
+            "The flight had a delay."
+          ]
+        },
+        "more": {
+          "def": "A period of waiting caused by something that makes things late.",
+          "examples": [
+            "There was a one-hour delay because of the snow.",
+            "The delay made us miss the show.",
+            "Our flight had a delay."
           ]
         }
       }
@@ -770,6 +960,59 @@
     ]
   },
   {
+    "word": "depressed",
+    "say": "dih-PREST",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very sad for a long time.",
+          "examples": [
+            "She felt depressed.",
+            "He was depressed.",
+            "The depressed man stayed in."
+          ]
+        },
+        "more": {
+          "def": "Feeling very sad and hopeless for a long time.",
+          "examples": [
+            "He felt depressed after the move.",
+            "The depressed girl stayed inside all day.",
+            "Talking with a doctor can help someone who is depressed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deputy",
+    "say": "DEP-yuh-tee",
+    "forms": [
+      "deputies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who helps a leader and takes their place.",
+          "examples": [
+            "The deputy helped the sheriff.",
+            "The deputy is in charge today.",
+            "The deputy took over."
+          ]
+        },
+        "more": {
+          "def": "A person who is second in charge and who acts for a leader when needed.",
+          "examples": [
+            "The deputy filled in for the principal.",
+            "The sheriff's deputy checked on the town.",
+            "A deputy helped the mayor open the park."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "describe",
     "say": "dih-SKRYB",
     "forms": [
@@ -1016,6 +1259,35 @@
       {
         "word": "desperation",
         "def": "Feeling desperate."
+      }
+    ]
+  },
+  {
+    "word": "dessert",
+    "say": "dih-ZERT",
+    "emoji": "🍰",
+    "forms": [
+      "desserts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet food you eat at the end of a meal.",
+          "examples": [
+            "Cake is my favorite dessert.",
+            "We had pie for dessert.",
+            "The dessert was sweet."
+          ]
+        },
+        "more": {
+          "def": "A sweet food, such as cake or fruit, eaten at the end of a meal.",
+          "examples": [
+            "We had apple pie for dessert.",
+            "Ice cream is my favorite dessert.",
+            "For dessert, she served strawberries and cream."
+          ]
+        }
       }
     ]
   },

@@ -1,5 +1,54 @@
 [
   {
+    "word": "aid",
+    "say": "ayd",
+    "forms": [
+      "aids",
+      "aided",
+      "aiding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Help.",
+          "examples": [
+            "They sent aid to the town.",
+            "I called for aid.",
+            "The aid arrived fast."
+          ]
+        },
+        "more": {
+          "def": "Help that is given to people who need it.",
+          "examples": [
+            "Food and blankets were sent as aid after the flood.",
+            "She called for aid when she fell.",
+            "The nurse gave first aid."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To help.",
+          "examples": [
+            "The nurse aids the doctor.",
+            "He aided the injured man.",
+            "Maps aid travelers."
+          ]
+        },
+        "more": {
+          "def": "To give help to someone or something.",
+          "examples": [
+            "The nurse aided the doctor.",
+            "A map can aid hikers on a long trail.",
+            "Neighbors aided the family after the storm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "aim",
     "say": "aym",
     "emoji": "🎯",

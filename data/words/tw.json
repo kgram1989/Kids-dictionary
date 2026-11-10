@@ -1,5 +1,31 @@
 [
   {
+    "word": "twelve",
+    "say": "twelv",
+    "emoji": "1️⃣",
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "The number 12.",
+          "examples": [
+            "I have twelve crayons.",
+            "There are twelve eggs in a dozen.",
+            "It is twelve o'clock."
+          ]
+        },
+        "more": {
+          "def": "The number that comes after eleven, written 12.",
+          "examples": [
+            "There are twelve months in a year.",
+            "A dozen is twelve.",
+            "The clock struck twelve at noon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "twenty",
     "say": "TWEN-tee",
     "senses": [
@@ -75,6 +101,61 @@
             "The twin lambs followed their mother."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "twist",
+    "say": "twist",
+    "forms": [
+      "twists",
+      "twisted",
+      "twisting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To turn something around.",
+          "examples": [
+            "Twist the lid.",
+            "She twisted the cap.",
+            "I twisted my ankle."
+          ]
+        },
+        "more": {
+          "def": "To turn something around, or to bend it in a curve.",
+          "examples": [
+            "Twist the lid to open the jar.",
+            "She twisted the wire into a heart shape.",
+            "He twisted his ankle on the ice."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A turn in a story.",
+          "examples": [
+            "The story had a twist.",
+            "The twist was a surprise.",
+            "The movie has a twist at the end."
+          ]
+        },
+        "more": {
+          "def": "A surprising turn in the way events go.",
+          "examples": [
+            "The story had a surprise twist at the end.",
+            "The road has a twist near the bridge.",
+            "The twist in the plot made everyone gasp."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "twisty",
+        "def": "Full of twists and turns."
       }
     ]
   },

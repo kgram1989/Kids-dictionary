@@ -1,5 +1,34 @@
 [
   {
+    "word": "Bible",
+    "say": "BY-bul",
+    "emoji": "📖",
+    "forms": [
+      "bibles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A holy book that many people read in church.",
+          "examples": [
+            "The family has a Bible.",
+            "She reads the Bible.",
+            "There are stories in the Bible."
+          ]
+        },
+        "more": {
+          "def": "The holy book of the Christian religion, and the first part is also holy to Jews.",
+          "examples": [
+            "The family read from the Bible.",
+            "Many stories in the Bible are very old.",
+            "The Bible has been translated into many languages."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "big",
     "say": "big",
     "senses": [
@@ -135,6 +164,54 @@
             "My birthday is in the spring.",
             "We sang to Grandpa on his birthday.",
             "She turned eight on her birthday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bishop",
+    "say": "BISH-up",
+    "emoji": "♟️",
+    "forms": [
+      "bishops"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A leader in some churches.",
+          "examples": [
+            "The bishop gave a talk.",
+            "The bishop wore a tall hat.",
+            "The bishop visited."
+          ]
+        },
+        "more": {
+          "def": "A senior leader in some churches.",
+          "examples": [
+            "The bishop visited our church on Sunday.",
+            "A bishop wears a tall hat.",
+            "The bishop gave a blessing."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece in the game of chess.",
+          "examples": [
+            "I moved my bishop.",
+            "The bishop is next to the king.",
+            "Bishops move on a slant."
+          ]
+        },
+        "more": {
+          "def": "A piece in chess that can move any distance on a slant.",
+          "examples": [
+            "I moved my bishop across the board.",
+            "The bishop captured the knight.",
+            "A bishop stays on the same color of squares."
           ]
         }
       }

@@ -1,5 +1,53 @@
 [
   {
+    "word": "stable",
+    "say": "STAY-bul",
+    "emoji": "🐴",
+    "forms": [
+      "stables"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A building where horses are kept.",
+          "examples": [
+            "The horse is in the stable.",
+            "The stable is clean.",
+            "She cleaned the stable."
+          ]
+        },
+        "more": {
+          "def": "A building where horses are kept and cared for.",
+          "examples": [
+            "The horse trotted back to the stable.",
+            "She cleaned the stable each morning.",
+            "The stable smelled of hay."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Steady and not likely to fall.",
+          "examples": [
+            "The ladder is stable.",
+            "The table is stable.",
+            "The chair is stable."
+          ]
+        },
+        "more": {
+          "def": "Firm and steady, not likely to move or change.",
+          "examples": [
+            "The ladder is stable on flat ground.",
+            "The table is stable, so it will not wobble.",
+            "The bridge is stable enough to hold a heavy truck."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "staff",
     "say": "staf",
     "forms": [
@@ -142,6 +190,53 @@
             "We tied the tent rope to a stake.",
             "The gardener used a stake to hold up the tall flower.",
             "He hammered a stake into the ground to mark the spot."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stall",
+    "say": "stawl",
+    "forms": [
+      "stalls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small stand where things are sold.",
+          "examples": [
+            "The fruit stall is busy.",
+            "We bought a hat at the stall.",
+            "The stall sells flowers."
+          ]
+        },
+        "more": {
+          "def": "A small open booth or table where things are sold.",
+          "examples": [
+            "We bought apples at the market stall.",
+            "The flower stall was full of roses.",
+            "A stall sold hot cocoa on the corner."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A space in a barn for one animal.",
+          "examples": [
+            "The horse is in its stall.",
+            "The cow has a stall.",
+            "The stall is clean."
+          ]
+        },
+        "more": {
+          "def": "A small space in a barn or stable for one animal.",
+          "examples": [
+            "The horse stood quietly in its stall.",
+            "Each cow has a stall in the barn.",
+            "She cleaned out the stall."
           ]
         }
       }
@@ -365,6 +460,31 @@
             "The runners lined up at the start of the race.",
             "We read the start of the story and wanted to hear more.",
             "The first day of school is a fresh start."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "starving",
+    "say": "STAR-ving",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very, very hungry.",
+          "examples": [
+            "I am starving.",
+            "The starving puppy ate fast.",
+            "We were starving after the hike."
+          ]
+        },
+        "more": {
+          "def": "Suffering because you have not had enough food, or extremely hungry.",
+          "examples": [
+            "I was starving after the long hike.",
+            "The starving puppy gulped down its food.",
+            "We are starving, so let's eat lunch."
           ]
         }
       }
@@ -623,6 +743,35 @@
     ]
   },
   {
+    "word": "steak",
+    "say": "stayk",
+    "emoji": "🥩",
+    "forms": [
+      "steaks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thick, flat piece of meat or fish.",
+          "examples": [
+            "Dad cooked a steak.",
+            "The steak is juicy.",
+            "We ate steak for dinner."
+          ]
+        },
+        "more": {
+          "def": "A thick, flat piece of meat or fish that is cooked and eaten.",
+          "examples": [
+            "Dad grilled a steak for dinner.",
+            "The steak was cut into small pieces.",
+            "We had salmon steak and potatoes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "steal",
     "say": "steel",
     "forms": [
@@ -648,6 +797,31 @@
             "The raccoon tried to steal food from the camp.",
             "In the story, a thief stole the king's crown.",
             "Squirrels sometimes steal seeds from the bird feeder."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "steel",
+    "say": "steel",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very strong metal.",
+          "examples": [
+            "The bridge is made of steel.",
+            "Steel is strong.",
+            "The knife is steel."
+          ]
+        },
+        "more": {
+          "def": "A very strong, hard metal made from iron, used to build many things.",
+          "examples": [
+            "The tall building has a frame of steel.",
+            "Steel is used to make bridges.",
+            "The kitchen sink is made of steel."
           ]
         }
       }
@@ -1202,6 +1376,36 @@
     ]
   },
   {
+    "word": "straighten",
+    "say": "STRAY-tun",
+    "forms": [
+      "straightens",
+      "straightened",
+      "straightening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something straight.",
+          "examples": [
+            "I straighten my tie.",
+            "She straightened the picture.",
+            "He straightened the rug."
+          ]
+        },
+        "more": {
+          "def": "To make something not bent or crooked.",
+          "examples": [
+            "I straightened the picture on the wall.",
+            "He straightened his back and stood tall.",
+            "She straightened the wire."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "strange",
     "say": "straynj",
     "emoji": "👽",
@@ -1371,6 +1575,61 @@
     ]
   },
   {
+    "word": "stretch",
+    "say": "strech",
+    "forms": [
+      "stretches",
+      "stretched",
+      "stretching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something longer or wider.",
+          "examples": [
+            "I stretch the rubber band.",
+            "She stretched her arms.",
+            "The cat stretched."
+          ]
+        },
+        "more": {
+          "def": "To pull something so that it gets longer, or to reach out your body to its full length.",
+          "examples": [
+            "The cat stretched on the rug.",
+            "He stretched the rubber band until it was thin.",
+            "She stretched her arms above her head."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long piece of land or time.",
+          "examples": [
+            "The road has a long stretch of straight.",
+            "A stretch of sand is by the sea.",
+            "It was a long stretch of days."
+          ]
+        },
+        "more": {
+          "def": "A long, unbroken piece of land, road or time.",
+          "examples": [
+            "A stretch of sandy beach lay along the coast.",
+            "The road has a long, straight stretch.",
+            "It was a long stretch without any rain."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "stretchy",
+        "def": "Able to stretch."
+      }
+    ]
+  },
+  {
     "word": "strike",
     "say": "stryk",
     "forms": [
@@ -1420,6 +1679,35 @@
     ]
   },
   {
+    "word": "string",
+    "say": "string",
+    "emoji": "🧵",
+    "forms": [
+      "strings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin cord.",
+          "examples": [
+            "I tied a string around the box.",
+            "The kite has a string.",
+            "The string is long."
+          ]
+        },
+        "more": {
+          "def": "A thin cord made of twisted threads, used for tying things.",
+          "examples": [
+            "She wound the string tightly around the spool.",
+            "The kite flew on a long string.",
+            "The guitar has six strings."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "strip",
     "say": "strip",
     "forms": [
@@ -1444,6 +1732,55 @@
             "She cut a strip of paper for the bookmark.",
             "A strip of tape held the box shut.",
             "He tied a strip of cloth around the post."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stroke",
+    "say": "strohk",
+    "forms": [
+      "strokes",
+      "stroked",
+      "stroking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rub gently with your hand.",
+          "examples": [
+            "She stroked the cat.",
+            "I stroke the dog.",
+            "He stroked the horse."
+          ]
+        },
+        "more": {
+          "def": "To move your hand gently over something again and again.",
+          "examples": [
+            "She stroked the cat's soft fur.",
+            "He stroked the horse's neck.",
+            "Mom stroked my hair."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One movement of a pen, brush or arm.",
+          "examples": [
+            "One stroke of the brush.",
+            "The swimmer takes a stroke.",
+            "The artist made a stroke."
+          ]
+        },
+        "more": {
+          "def": "A single movement of a brush, pen or arm, or one way of swimming.",
+          "examples": [
+            "The artist painted with long strokes of the brush.",
+            "The swimmer took a strong stroke.",
+            "The backstroke is my favorite swimming stroke."
           ]
         }
       }

@@ -93,5 +93,35 @@
         }
       }
     ]
+  },
+  {
+    "word": "squeeze",
+    "say": "skweez",
+    "forms": [
+      "squeezes",
+      "squeezed",
+      "squeezing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To press something hard from all sides.",
+          "examples": [
+            "I squeeze the sponge.",
+            "She squeezed the lemon.",
+            "He squeezed my hand."
+          ]
+        },
+        "more": {
+          "def": "To press something firmly from the sides, often to get liquid out or to fit into a small space.",
+          "examples": [
+            "She squeezed a lemon to make lemonade.",
+            "The cat squeezed through the small hole.",
+            "He squeezed my hand to say goodbye."
+          ]
+        }
+      }
+    ]
   }
 ]

@@ -64,6 +64,36 @@
     ]
   },
   {
+    "word": "smash",
+    "say": "smash",
+    "forms": [
+      "smashes",
+      "smashed",
+      "smashing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To break something into many pieces.",
+          "examples": [
+            "The glass will smash.",
+            "He smashed the plate.",
+            "The ball smashed the window."
+          ]
+        },
+        "more": {
+          "def": "To break something with a loud crash.",
+          "examples": [
+            "The vase fell and smashed into pieces.",
+            "The wave smashed the sand castle.",
+            "He smashed the clay model by accident."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "smell",
     "say": "smel",
     "emoji": "👃",
@@ -229,6 +259,42 @@
             "The pan began to smoke."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "smooth",
+    "say": "smooth",
+    "forms": [
+      "smoother",
+      "smoothest",
+      "smoothly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Flat and even, with no bumps.",
+          "examples": [
+            "The table is smooth.",
+            "The stone is smooth.",
+            "The road is smooth."
+          ]
+        },
+        "more": {
+          "def": "Having a flat, even surface with no bumps or rough spots.",
+          "examples": [
+            "The pebble was smooth from years in the river.",
+            "The smooth ice made a good rink.",
+            "She sanded the wood until it was smooth."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "smoothness",
+        "def": "Being smooth."
       }
     ]
   }

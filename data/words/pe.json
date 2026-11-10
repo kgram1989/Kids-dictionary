@@ -481,6 +481,56 @@
     ]
   },
   {
+    "word": "permit",
+    "say": "per-MIT",
+    "forms": [
+      "permits",
+      "permitted",
+      "permitting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let someone do something.",
+          "examples": [
+            "The sign does not permit dogs.",
+            "The teacher will permit it.",
+            "We will not permit running."
+          ]
+        },
+        "more": {
+          "def": "To say that someone may do something, or to make something possible.",
+          "examples": [
+            "The rules do not permit dogs in the pool.",
+            "The teacher permitted us to go outside.",
+            "Good weather will permit us to play outside."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A paper that gives you permission.",
+          "examples": [
+            "We need a permit to fish.",
+            "The permit is for parking.",
+            "He has a fishing permit."
+          ]
+        },
+        "more": {
+          "def": "An official paper that says you are allowed to do something.",
+          "examples": [
+            "You need a permit to fish in the lake.",
+            "Dad bought a parking permit.",
+            "The builder showed the permit to the city."
+          ]
+        },
+        "say": "PER-mit"
+      }
+    ]
+  },
+  {
     "word": "person",
     "say": "PER-sun",
     "forms": [
@@ -528,6 +578,34 @@
             "My diary is personal, so please do not read it.",
             "He asked a very personal question.",
             "Each camper has a personal locker."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "personality",
+    "say": "per-suh-NAL-uh-tee",
+    "forms": [
+      "personalities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way a person acts and feels that makes them different.",
+          "examples": [
+            "She has a friendly personality.",
+            "My dog has a funny personality.",
+            "He has a big personality."
+          ]
+        },
+        "more": {
+          "def": "All the qualities that make a person different from other people.",
+          "examples": [
+            "She has a friendly, outgoing personality.",
+            "My cat has a shy personality.",
+            "Each twin has a different personality."
           ]
         }
       }

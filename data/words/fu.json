@@ -1,5 +1,36 @@
 [
   {
+    "word": "fuel",
+    "say": "FYOO-ul",
+    "emoji": "⛽",
+    "forms": [
+      "fuels",
+      "fueled",
+      "fueling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that is burned to make heat or power.",
+          "examples": [
+            "The car needs fuel.",
+            "Wood is a fuel.",
+            "The fuel is gone."
+          ]
+        },
+        "more": {
+          "def": "Something burned to give heat or power, such as gas, wood or coal.",
+          "examples": [
+            "The car ran out of fuel.",
+            "Wood is a fuel that people burn in a fireplace.",
+            "The rocket carried a lot of fuel."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "full",
     "say": "fuul",
     "forms": [
@@ -86,6 +117,55 @@
             "The party was fun, with games and music.",
             "She is a fun friend who always makes me laugh.",
             "We had a fun day at the fair."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "function",
+    "say": "FUNK-shun",
+    "forms": [
+      "functions",
+      "functioned",
+      "functioning"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The job that something does.",
+          "examples": [
+            "The function of a heart is to pump blood.",
+            "What is the function of a fork?",
+            "A pen's function is to write."
+          ]
+        },
+        "more": {
+          "def": "The special job or purpose that something has.",
+          "examples": [
+            "A hinge's function is to let the door swing open.",
+            "What is the function of this button?",
+            "A bridge's function is to help people cross water."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To work.",
+          "examples": [
+            "The machine does not function.",
+            "The radio functions well.",
+            "The clock still functions."
+          ]
+        },
+        "more": {
+          "def": "To work in the right way.",
+          "examples": [
+            "The old clock still functions well.",
+            "A bike cannot function with a flat tire.",
+            "The new machine functions smoothly."
           ]
         }
       }

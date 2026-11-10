@@ -23,5 +23,53 @@
         }
       }
     ]
+  },
+  {
+    "word": "jet",
+    "say": "jet",
+    "emoji": "✈️",
+    "forms": [
+      "jets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fast airplane.",
+          "examples": [
+            "The jet flew over the town.",
+            "We rode on a jet.",
+            "A jet is fast."
+          ]
+        },
+        "more": {
+          "def": "A fast airplane with engines that push out hot air.",
+          "examples": [
+            "The jet flew high above the clouds.",
+            "We flew on a jet to see my aunt.",
+            "A jet leaves a white trail across the sky."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong stream of water or air.",
+          "examples": [
+            "A jet of water shot up.",
+            "The fountain has a jet.",
+            "A jet of air blew the leaves."
+          ]
+        },
+        "more": {
+          "def": "A strong, thin stream of water, air or gas that comes out of a small hole.",
+          "examples": [
+            "A jet of water shot up from the fountain.",
+            "The hose sent a jet across the yard.",
+            "A jet of steam came from the kettle."
+          ]
+        }
+      }
+    ]
   }
 ]

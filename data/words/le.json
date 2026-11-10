@@ -97,6 +97,84 @@
     ]
   },
   {
+    "word": "league",
+    "say": "leeg",
+    "forms": [
+      "leagues"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of teams that play each other.",
+          "examples": [
+            "I play in a soccer league.",
+            "The league has ten teams.",
+            "Our team is in a league."
+          ]
+        },
+        "more": {
+          "def": "A group of sports teams that play against each other.",
+          "examples": [
+            "Our town has a youth soccer league.",
+            "The team won the league for three years.",
+            "Ten teams play in the baseball league."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "leak",
+    "say": "leek",
+    "emoji": "💧",
+    "forms": [
+      "leaks",
+      "leaked",
+      "leaking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let water or air out by accident.",
+          "examples": [
+            "The pipe leaks.",
+            "The boat is leaking.",
+            "The roof leaked."
+          ]
+        },
+        "more": {
+          "def": "To let liquid or gas escape through a small hole.",
+          "examples": [
+            "The pipe under the sink leaks.",
+            "The roof leaked during the storm.",
+            "Gas leaked from the old tank."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small hole that lets water or air out.",
+          "examples": [
+            "There is a leak in the roof.",
+            "The leak is small.",
+            "The tire has a leak."
+          ]
+        },
+        "more": {
+          "def": "A small hole or crack through which liquid or gas escapes.",
+          "examples": [
+            "A leak in the water pipe soaked the floor.",
+            "The plumber fixed the leak under the sink.",
+            "A leak in the tire let the air out."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "learn",
     "say": "lern",
     "emoji": "📚",
@@ -301,6 +379,42 @@
             "Many legends are told about the brave king."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "lend",
+    "say": "lend",
+    "forms": [
+      "lends",
+      "lent",
+      "lending"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let someone use something for a while.",
+          "examples": [
+            "I will lend you my pen.",
+            "She lent me a book.",
+            "Can you lend me a dollar?"
+          ]
+        },
+        "more": {
+          "def": "To let someone use something for a short time and then give it back.",
+          "examples": [
+            "I will lend you my pencil.",
+            "She lent me her bike for the day.",
+            "The library lends books for two weeks."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "lender",
+        "def": "A person who lends something."
       }
     ]
   },

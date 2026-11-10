@@ -56,6 +56,31 @@
     ]
   },
   {
+    "word": "daily",
+    "say": "DAY-lee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happening every day.",
+          "examples": [
+            "We have daily chores.",
+            "She takes a daily walk.",
+            "The paper is a daily paper."
+          ]
+        },
+        "more": {
+          "def": "Done or happening each day.",
+          "examples": [
+            "We take a daily walk after dinner.",
+            "The daily paper comes at seven.",
+            "A daily chore is feeding the dog."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "damage",
     "say": "DAM-ij",
     "forms": [
@@ -310,6 +335,32 @@
             "She wore a dark blue coat.",
             "The dark soil is good for plants.",
             "His dark hair curled at the ends."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "darkness",
+    "say": "DARK-niss",
+    "emoji": "🌑",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "No light.",
+          "examples": [
+            "The room was in darkness.",
+            "We sat in the darkness.",
+            "The darkness is scary."
+          ]
+        },
+        "more": {
+          "def": "The lack of light, or the dark.",
+          "examples": [
+            "The room was filled with darkness.",
+            "We walked through the darkness with a flashlight.",
+            "A candle lit up the darkness."
           ]
         }
       }

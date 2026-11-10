@@ -29,6 +29,35 @@
     ]
   },
   {
+    "word": "flame",
+    "say": "flaym",
+    "emoji": "🔥",
+    "forms": [
+      "flames"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The bright, hot part of a fire.",
+          "examples": [
+            "The candle has a flame.",
+            "The flame is hot.",
+            "The flame went out."
+          ]
+        },
+        "more": {
+          "def": "The glowing, hot part of a fire that you can see.",
+          "examples": [
+            "The candle flame flickered in the wind.",
+            "Flames danced in the fireplace.",
+            "The firefighters put out the flames."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "flash",
     "say": "flash",
     "emoji": "⚡",
@@ -227,6 +256,36 @@
       {
         "word": "flightless",
         "def": "Not able to fly."
+      }
+    ]
+  },
+  {
+    "word": "flip",
+    "say": "flip",
+    "forms": [
+      "flips",
+      "flipped",
+      "flipping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To turn over quickly.",
+          "examples": [
+            "Flip the pancake.",
+            "I flipped the card.",
+            "She flipped the page."
+          ]
+        },
+        "more": {
+          "def": "To turn something over quickly, or to toss it into the air so it turns over.",
+          "examples": [
+            "Dad flipped the pancake in the pan.",
+            "I flipped the card over to see the picture.",
+            "She flipped a coin to decide who went first."
+          ]
+        }
       }
     ]
   },

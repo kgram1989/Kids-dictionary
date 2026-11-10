@@ -294,6 +294,60 @@
     ]
   },
   {
+    "word": "border",
+    "say": "BOR-der",
+    "forms": [
+      "borders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The edge of something, or the line between two countries.",
+          "examples": [
+            "The picture has a blue border.",
+            "The river is the border.",
+            "We crossed the border."
+          ]
+        },
+        "more": {
+          "def": "The edge of something, or the line that separates two places or countries.",
+          "examples": [
+            "The picture has a red border around it.",
+            "The river forms the border between the two countries.",
+            "We showed our passports when we crossed the border."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bored",
+    "say": "bord",
+    "emoji": "😑",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Tired of something that is not interesting.",
+          "examples": [
+            "I am bored.",
+            "He was bored in the car.",
+            "The kids were bored."
+          ]
+        },
+        "more": {
+          "def": "Feeling tired and restless because you have nothing interesting to do.",
+          "examples": [
+            "I was bored on the long car ride.",
+            "The bored cat stared out the window.",
+            "She felt bored until her friend arrived."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "boring",
     "say": "BOR-ing",
     "emoji": "😴",
@@ -530,6 +584,111 @@
             "The cat sleeps in the bottom drawer."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "bounce",
+    "say": "bownss",
+    "emoji": "⚽",
+    "forms": [
+      "bounces",
+      "bounced",
+      "bouncing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To spring back after hitting something.",
+          "examples": [
+            "The ball will bounce.",
+            "I bounce the ball.",
+            "The ball bounced off the wall."
+          ]
+        },
+        "more": {
+          "def": "To spring back quickly after hitting something.",
+          "examples": [
+            "The ball bounced twice before she caught it.",
+            "She bounced the ball on the floor.",
+            "The kids bounced on the trampoline."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A spring back after hitting something.",
+          "examples": [
+            "The ball took a high bounce.",
+            "I heard a bounce.",
+            "The bounce was high."
+          ]
+        },
+        "more": {
+          "def": "The act of springing back after hitting something.",
+          "examples": [
+            "The bounce of the basketball echoed through the gym.",
+            "The bounce of the rubber ball surprised us.",
+            "A high bounce sent it over the fence."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bound",
+    "say": "bownd",
+    "forms": [
+      "bounds",
+      "bounded",
+      "bounding"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sure to happen.",
+          "examples": [
+            "She is bound to win.",
+            "It is bound to rain.",
+            "The ice is bound to melt."
+          ]
+        },
+        "more": {
+          "def": "Certain or sure to do something.",
+          "examples": [
+            "The team is bound to win after all that practice.",
+            "It is bound to rain with those dark clouds.",
+            "He is bound to be late again."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To jump with long steps.",
+          "examples": [
+            "The deer bounded across the field.",
+            "The puppy bounded up the stairs.",
+            "She bounded down the hall."
+          ]
+        },
+        "more": {
+          "def": "To leap or run with long, springy steps.",
+          "examples": [
+            "The deer bounded across the meadow.",
+            "The puppy bounded up the steps to greet us.",
+            "She bounded out of bed on the first day of vacation."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "boundless",
+        "def": "Without limits."
       }
     ]
   },

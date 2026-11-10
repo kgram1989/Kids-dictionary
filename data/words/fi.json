@@ -64,6 +64,85 @@
     ]
   },
   {
+    "word": "fifteen",
+    "say": "fif-TEEN",
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "The number 15.",
+          "examples": [
+            "I have fifteen cents.",
+            "There are fifteen kids.",
+            "Fifteen minutes is a quarter of an hour."
+          ]
+        },
+        "more": {
+          "def": "The number that comes after fourteen, written 15.",
+          "examples": [
+            "There are fifteen students in the club.",
+            "She counted to fifteen.",
+            "Fifteen minutes make a quarter of an hour."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fifth",
+    "say": "fifth",
+    "forms": [
+      "fifths"
+    ],
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "Number five in a line.",
+          "examples": [
+            "I am fifth in line.",
+            "She came in fifth.",
+            "It is the fifth day."
+          ]
+        },
+        "more": {
+          "def": "Coming after the fourth one and before the sixth one.",
+          "examples": [
+            "He finished fifth in the race.",
+            "The fifth chapter is my favorite.",
+            "My sister is in the fifth grade."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fifty",
+    "say": "FIF-tee",
+    "emoji": "5️⃣",
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "The number 50.",
+          "examples": [
+            "I have fifty cents.",
+            "There are fifty states.",
+            "Fifty people came."
+          ]
+        },
+        "more": {
+          "def": "The number that comes after forty-nine, written 50.",
+          "examples": [
+            "There are fifty states in our country.",
+            "She counted to fifty by fives.",
+            "Fifty people came to the party."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fight",
     "say": "fyt",
     "forms": [
@@ -107,6 +186,53 @@
             "Firefighters fought the blaze all through the night.",
             "Doctors work hard to fight disease.",
             "The village worked together to fight the flood."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fighter",
+    "say": "FY-ter",
+    "forms": [
+      "fighters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who does not give up easily.",
+          "examples": [
+            "She is a fighter.",
+            "The little boy was a fighter.",
+            "A fighter never quits."
+          ]
+        },
+        "more": {
+          "def": "A person who keeps trying hard and does not give up.",
+          "examples": [
+            "She is a fighter who kept on trying after she fell.",
+            "The little puppy was a fighter and got well.",
+            "A fighter never gives up when things get hard."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fast airplane used by an air force.",
+          "examples": [
+            "The fighter flew over the show.",
+            "A fighter jet is very fast.",
+            "The fighter landed at the base."
+          ]
+        },
+        "more": {
+          "def": "A fast airplane used by an air force.",
+          "examples": [
+            "The fighter jet flew over the air show.",
+            "A fighter can fly faster than a car can drive.",
+            "The fighter landed on the runway at the base."
           ]
         }
       }
@@ -309,6 +435,35 @@
     ]
   },
   {
+    "word": "filthy",
+    "say": "FIL-thee",
+    "forms": [
+      "filthier",
+      "filthiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very dirty.",
+          "examples": [
+            "My shoes are filthy.",
+            "The dog was filthy.",
+            "His hands were filthy."
+          ]
+        },
+        "more": {
+          "def": "Extremely dirty.",
+          "examples": [
+            "His shoes were filthy after the muddy hike.",
+            "The dog was filthy and needed a bath.",
+            "The old windows were filthy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "final",
     "say": "FY-nul",
     "forms": [
@@ -453,6 +608,34 @@
             "She pointed her finger at the map.",
             "A pianist moves her fingers quickly.",
             "He wore a ring on his finger."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fingerprint",
+    "say": "FING-ger-print",
+    "forms": [
+      "fingerprints"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The mark your finger leaves on something.",
+          "examples": [
+            "I left a fingerprint.",
+            "A fingerprint is on the glass.",
+            "Each fingerprint is different."
+          ]
+        },
+        "more": {
+          "def": "The pattern of lines your fingertip leaves on things you touch.",
+          "examples": [
+            "I left a fingerprint on the window.",
+            "Each person's fingerprint is different.",
+            "The detective looked for a fingerprint on the glass."
           ]
         }
       }

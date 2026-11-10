@@ -234,6 +234,55 @@
     ]
   },
   {
+    "word": "pile",
+    "say": "pyl",
+    "forms": [
+      "piles",
+      "piled",
+      "piling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A lot of things on top of each other.",
+          "examples": [
+            "I made a pile of leaves.",
+            "A pile of books is on the desk.",
+            "The pile of laundry is big."
+          ]
+        },
+        "more": {
+          "def": "A group of things lying one on top of another.",
+          "examples": [
+            "The kids jumped into a pile of leaves.",
+            "A pile of books sat on the desk.",
+            "She put the dirty clothes in a pile."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put things on top of each other.",
+          "examples": [
+            "Pile the books on the table.",
+            "She piled the toys.",
+            "Snow piled up."
+          ]
+        },
+        "more": {
+          "def": "To make a heap of things.",
+          "examples": [
+            "He piled the wood next to the fireplace.",
+            "Snow piled up against the door.",
+            "She piled all the cushions on the floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pill",
     "say": "pil",
     "forms": [
@@ -412,6 +461,53 @@
             "The plumber fixed the broken pipe under the sink.",
             "Pipes bring clean water to every house in town.",
             "A frozen pipe burst in the cold winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pit",
+    "say": "pit",
+    "forms": [
+      "pits"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big hole in the ground.",
+          "examples": [
+            "We dug a pit.",
+            "The pit is deep.",
+            "They fell into the pit."
+          ]
+        },
+        "more": {
+          "def": "A large hole in the ground.",
+          "examples": [
+            "We dug a pit for the campfire.",
+            "The workers dug a deep pit.",
+            "A cat fell into the muddy pit."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The hard seed in a fruit like a peach.",
+          "examples": [
+            "I spit out the pit.",
+            "The cherry has a pit.",
+            "The peach pit is hard."
+          ]
+        },
+        "more": {
+          "def": "The large, hard seed in the middle of some fruits, such as a peach or cherry.",
+          "examples": [
+            "Be careful, there is a pit in the cherry.",
+            "He planted a peach pit in the garden.",
+            "The olive has a small pit."
           ]
         }
       }

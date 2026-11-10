@@ -1,5 +1,62 @@
 [
   {
+    "word": "equal",
+    "say": "EE-kwul",
+    "emoji": "🟰",
+    "forms": [
+      "equals",
+      "equaled",
+      "equalled",
+      "equally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "The same in size, amount or value.",
+          "examples": [
+            "The two pieces are equal.",
+            "We got equal slices.",
+            "Two plus two is equal to four."
+          ]
+        },
+        "more": {
+          "def": "The same in amount, size or value as something else.",
+          "examples": [
+            "The two pieces of pizza were equal.",
+            "Everyone has an equal chance to win.",
+            "Two halves are equal to one whole."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be the same as.",
+          "examples": [
+            "Two plus two equals four.",
+            "Ten equals ten.",
+            "One dime equals ten cents."
+          ]
+        },
+        "more": {
+          "def": "To be the same amount or value as something else.",
+          "examples": [
+            "Three times two equals six.",
+            "Ten pennies equal one dime.",
+            "Her score equaled the highest in the class."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unequal",
+        "def": "Not equal."
+      }
+    ]
+  },
+  {
     "word": "equipment",
     "say": "ih-KWIP-munt",
     "senses": [

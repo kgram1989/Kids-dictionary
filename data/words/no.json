@@ -44,6 +44,54 @@
     ]
   },
   {
+    "word": "noble",
+    "say": "NOH-bul",
+    "forms": [
+      "nobles",
+      "nobly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Good and honest.",
+          "examples": [
+            "The noble knight helped the poor.",
+            "It was a noble act.",
+            "He is a noble man."
+          ]
+        },
+        "more": {
+          "def": "Showing high honor and goodness.",
+          "examples": [
+            "The noble ruler gave food to the hungry.",
+            "It was a noble thing to share your lunch.",
+            "The noble dog saved its owner."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person of high rank in old times.",
+          "examples": [
+            "The noble lived in a castle.",
+            "The nobles met with the king.",
+            "The nobles wore fine clothes."
+          ]
+        },
+        "more": {
+          "def": "A person of high rank in the past, such as a lord or lady.",
+          "examples": [
+            "The noble lived in a castle on the hill.",
+            "The king invited the nobles to dinner.",
+            "In the story, a noble wore fine robes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nobody",
     "say": "NOH-bod-ee",
     "senses": [
@@ -204,6 +252,32 @@
     ]
   },
   {
+    "word": "noon",
+    "say": "noon",
+    "emoji": "🕛",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Twelve o'clock in the day.",
+          "examples": [
+            "We eat lunch at noon.",
+            "The sun is high at noon.",
+            "The bell rings at noon."
+          ]
+        },
+        "more": {
+          "def": "Twelve o'clock in the middle of the day.",
+          "examples": [
+            "The shadows are shortest at noon.",
+            "The sun is highest in the sky at noon.",
+            "The school bell rang at noon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nor",
     "say": "nor",
     "senses": [
@@ -248,6 +322,31 @@
             "Rain is normal in the spring.",
             "It was a normal day until the power went out.",
             "Her temperature was normal."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "normally",
+    "say": "NOR-muh-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In the usual way.",
+          "examples": [
+            "I normally eat at six.",
+            "She normally walks to school.",
+            "It normally snows in winter."
+          ]
+        },
+        "more": {
+          "def": "In the usual way, or most of the time.",
+          "examples": [
+            "I normally eat dinner at six.",
+            "She normally rides the bus to school.",
+            "It normally snows here in January."
           ]
         }
       }

@@ -1,5 +1,34 @@
 [
   {
+    "word": "ad",
+    "say": "ad",
+    "emoji": "📢",
+    "forms": [
+      "ads"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A notice or short film that tries to get you to buy something.",
+          "examples": [
+            "I saw an ad on TV.",
+            "The ad is for cereal.",
+            "The ad was funny."
+          ]
+        },
+        "more": {
+          "def": "A short word for advertisement, a message that tries to sell something.",
+          "examples": [
+            "I saw an ad for a new toy.",
+            "The ad on the radio was funny.",
+            "They put an ad in the paper for the sale."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "add",
     "say": "ad",
     "forms": [
@@ -93,6 +122,34 @@
             "The principal addressed the students at assembly.",
             "The mayor addressed the crowd in the park.",
             "She addressed the audience from the stage."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "admiral",
+    "say": "AD-mer-ul",
+    "forms": [
+      "admirals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very high officer in the navy.",
+          "examples": [
+            "The admiral was on the ship.",
+            "The admiral gave an order.",
+            "The admiral wore a uniform."
+          ]
+        },
+        "more": {
+          "def": "The most important officer in a navy, who leads many ships.",
+          "examples": [
+            "The admiral led the fleet of ships.",
+            "The admiral wore a uniform with gold stripes.",
+            "The sailors saluted the admiral."
           ]
         }
       }
@@ -194,6 +251,55 @@
     ]
   },
   {
+    "word": "advance",
+    "say": "ud-VANSS",
+    "forms": [
+      "advances",
+      "advanced",
+      "advancing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move forward.",
+          "examples": [
+            "The line advanced.",
+            "The army advanced.",
+            "I advanced to the next level."
+          ]
+        },
+        "more": {
+          "def": "To move forward, or to make progress.",
+          "examples": [
+            "The line of people slowly advanced.",
+            "She advanced to the next level of the game.",
+            "Science advances as we learn new things."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A step forward.",
+          "examples": [
+            "We made an advance in math.",
+            "An advance in science helps people.",
+            "Advances in medicine help us."
+          ]
+        },
+        "more": {
+          "def": "A move forward or an improvement in something.",
+          "examples": [
+            "The scientists made an advance in medicine.",
+            "Advances in computers have changed our lives.",
+            "The advance of the army was slow."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "advantage",
     "say": "ad-VAN-tij",
     "forms": [
@@ -278,6 +384,42 @@
             "Grandpa's advice helped me solve the problem."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "advise",
+    "say": "ud-VYZE",
+    "forms": [
+      "advises",
+      "advised",
+      "advising"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell someone what you think they should do.",
+          "examples": [
+            "Mom advised me to wear a coat.",
+            "The doctor advises rest.",
+            "I advise you to take a map."
+          ]
+        },
+        "more": {
+          "def": "To give someone your opinion about what they should do.",
+          "examples": [
+            "The coach advised us to drink water.",
+            "My teacher advised me to read every night.",
+            "The guide advised the hikers to stay on the path."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "advisor",
+        "def": "A person who advises."
       }
     ]
   }

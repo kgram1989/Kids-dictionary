@@ -53,6 +53,34 @@
     ]
   },
   {
+    "word": "exam",
+    "say": "ig-ZAM",
+    "forms": [
+      "exams"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A test.",
+          "examples": [
+            "I have an exam.",
+            "The exam is on math.",
+            "I passed the exam."
+          ]
+        },
+        "more": {
+          "def": "A test that shows how much you know.",
+          "examples": [
+            "I studied for my math exam.",
+            "The exam had twenty questions.",
+            "She was glad to pass the exam."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "examine",
     "say": "eg-ZAM-in",
     "emoji": "🔬",
@@ -446,6 +474,56 @@
     ]
   },
   {
+    "word": "exit",
+    "say": "EG-zit",
+    "emoji": "🚪",
+    "forms": [
+      "exits",
+      "exited",
+      "exiting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way out of a place.",
+          "examples": [
+            "The exit is on the left.",
+            "We left through the exit.",
+            "The sign points to the exit."
+          ]
+        },
+        "more": {
+          "def": "A door or passage that you use to leave a place.",
+          "examples": [
+            "Follow the green sign to the exit.",
+            "The theater has an exit on each side.",
+            "We took the next exit off the highway."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go out of a place.",
+          "examples": [
+            "Please exit the bus.",
+            "We exited the building.",
+            "She exited through the back door."
+          ]
+        },
+        "more": {
+          "def": "To leave a place.",
+          "examples": [
+            "Please exit the bus through the back door.",
+            "The actors exited the stage.",
+            "We exited the highway to find lunch."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "expect",
     "say": "ik-SPEKT",
     "forms": [
@@ -672,6 +750,37 @@
     ]
   },
   {
+    "word": "explode",
+    "say": "ik-SPLOHD",
+    "emoji": "💥",
+    "forms": [
+      "explodes",
+      "exploded",
+      "exploding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To burst with a loud bang.",
+          "examples": [
+            "The balloon will explode.",
+            "The firework exploded.",
+            "The popcorn exploded in the pan."
+          ]
+        },
+        "more": {
+          "def": "To burst apart suddenly and loudly.",
+          "examples": [
+            "The balloon exploded with a loud pop.",
+            "The firework exploded in the sky.",
+            "The volcano exploded and sent ash into the air."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "explore",
     "say": "ek-SPLOR",
     "emoji": "🗺️",
@@ -697,6 +806,65 @@
             "The divers explored a cave deep under the sea.",
             "Robots explore the surface of Mars.",
             "On vacation, we explored the old part of the city."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "explosion",
+    "say": "ik-SPLOH-zhun",
+    "emoji": "💥",
+    "forms": [
+      "explosions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sudden, loud burst.",
+          "examples": [
+            "We heard an explosion.",
+            "The firework made an explosion.",
+            "The explosion was loud."
+          ]
+        },
+        "more": {
+          "def": "A sudden, very loud burst that sends things flying.",
+          "examples": [
+            "A loud explosion came from the old factory.",
+            "Fireworks make bright explosions in the sky.",
+            "A volcano can cause a huge explosion."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "expose",
+    "say": "ik-SPOHZ",
+    "forms": [
+      "exposes",
+      "exposed",
+      "exposing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let something be seen or touched.",
+          "examples": [
+            "Do not expose the film to light.",
+            "The wind exposed the rocks.",
+            "The low tide exposes the sand."
+          ]
+        },
+        "more": {
+          "def": "To uncover something so it can be seen, or to leave something open to weather or danger.",
+          "examples": [
+            "The low tide exposed the rocks along the shore.",
+            "Do not expose the paint to too much sun.",
+            "The fox's cover was exposed when the snow melted."
           ]
         }
       }

@@ -47,6 +47,56 @@
     ]
   },
   {
+    "word": "tag",
+    "say": "tag",
+    "emoji": "🏷️",
+    "forms": [
+      "tags",
+      "tagged",
+      "tagging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small label.",
+          "examples": [
+            "The tag shows the price.",
+            "My coat has a name tag.",
+            "The dog has a tag."
+          ]
+        },
+        "more": {
+          "def": "A small piece of paper or cloth that has information on it, fixed to something.",
+          "examples": [
+            "The tag on the shirt shows the size.",
+            "My dog wears a tag with its name on it.",
+            "Dad checked the price tag."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A running game where one person chases the others.",
+          "examples": [
+            "We play tag at recess.",
+            "I am it in tag.",
+            "The kids played tag."
+          ]
+        },
+        "more": {
+          "def": "A game in which one player chases the others and tries to touch them.",
+          "examples": [
+            "We play tag on the playground.",
+            "She was it in the game of tag.",
+            "The kids ran in circles during tag."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tail",
     "say": "tayl",
     "forms": [
@@ -119,6 +169,35 @@
             "Please take an umbrella because it might rain.",
             "He took a cookie from the plate on the counter.",
             "I will take you to the museum on Saturday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tale",
+    "say": "tayl",
+    "emoji": "📖",
+    "forms": [
+      "tales"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A story.",
+          "examples": [
+            "I read a tale about a fox.",
+            "The tale was funny.",
+            "Grandpa told a tale."
+          ]
+        },
+        "more": {
+          "def": "A story, especially one that is made up or told aloud.",
+          "examples": [
+            "Grandpa told us a tale about a clever fox.",
+            "The fairy tale ended happily.",
+            "She wrote a tale about a dragon."
           ]
         }
       }
@@ -494,6 +573,34 @@
             "Grandpa makes a tasty vegetable stew.",
             "The market sells tasty fresh bread.",
             "Add some herbs to make the sauce more tasty."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tattoo",
+    "say": "ta-TOO",
+    "forms": [
+      "tattoos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture on skin that does not wash off.",
+          "examples": [
+            "He has a tattoo on his arm.",
+            "The tattoo is a bird.",
+            "She has a small tattoo."
+          ]
+        },
+        "more": {
+          "def": "A picture or design that is put into the skin with ink and stays there forever.",
+          "examples": [
+            "The sailor had a tattoo of an anchor on his arm.",
+            "She got a tattoo of a rose on her shoulder.",
+            "The tattoo will never wash off."
           ]
         }
       }

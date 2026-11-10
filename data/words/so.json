@@ -44,6 +44,35 @@
     ]
   },
   {
+    "word": "soap",
+    "say": "sohp",
+    "emoji": "🧼",
+    "forms": [
+      "soaps"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you wash with.",
+          "examples": [
+            "Wash your hands with soap.",
+            "The soap smells nice.",
+            "The soap is slippery."
+          ]
+        },
+        "more": {
+          "def": "A substance that you use with water to wash and clean things.",
+          "examples": [
+            "Wash your hands with soap and water.",
+            "The soap made a lot of bubbles.",
+            "The bar of soap is on the sink."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "social",
     "say": "SOH-shul",
     "senses": [
@@ -145,6 +174,35 @@
     ]
   },
   {
+    "word": "soda",
+    "say": "SOH-duh",
+    "emoji": "🥤",
+    "forms": [
+      "sodas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet drink with bubbles.",
+          "examples": [
+            "I drink soda at parties.",
+            "The soda is cold.",
+            "We had soda with pizza."
+          ]
+        },
+        "more": {
+          "def": "A sweet drink that has bubbles in it.",
+          "examples": [
+            "I had a soda with my pizza.",
+            "The soda fizzed when he opened the can.",
+            "Dad does not let us drink soda every day."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "soft",
     "say": "soft",
     "forms": [
@@ -215,6 +273,53 @@
             "The soldier stood guard at the gate.",
             "Soldiers marched in the parade.",
             "My grandpa was a soldier."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "solid",
+    "say": "SOL-id",
+    "forms": [
+      "solids"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Hard, not like water or air.",
+          "examples": [
+            "Ice is solid.",
+            "The table is solid.",
+            "A rock is a solid."
+          ]
+        },
+        "more": {
+          "def": "Hard and firm, keeping its shape, not like a liquid or a gas.",
+          "examples": [
+            "Water freezes into solid ice.",
+            "The bridge is solid and strong.",
+            "A rock is solid, but the air is not."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that is hard and keeps its shape.",
+          "examples": [
+            "Ice is a solid.",
+            "A rock is a solid.",
+            "Solids do not flow."
+          ]
+        },
+        "more": {
+          "def": "A thing that is hard and keeps its shape, not a liquid or a gas.",
+          "examples": [
+            "Ice is a solid, and water is a liquid.",
+            "Rocks, wood and metal are solids.",
+            "Solids keep their shape when you move them."
           ]
         }
       }
@@ -612,6 +717,35 @@
             "The bus will be here soon, so get your backpack.",
             "Soon after the rain stopped, the sun came out.",
             "I hope to see you again soon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sore",
+    "say": "sor",
+    "forms": [
+      "sorer",
+      "sorest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Painful when touched.",
+          "examples": [
+            "My arm is sore.",
+            "My throat is sore.",
+            "His legs were sore after the hike."
+          ]
+        },
+        "more": {
+          "def": "Hurting or painful, especially when you touch or move it.",
+          "examples": [
+            "My legs were sore after the long hike.",
+            "She has a sore throat from shouting.",
+            "My arm is sore from throwing the ball."
           ]
         }
       }

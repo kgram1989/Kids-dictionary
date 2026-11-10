@@ -277,6 +277,35 @@
     ]
   },
   {
+    "word": "grass",
+    "say": "grass",
+    "emoji": "🌱",
+    "forms": [
+      "grasses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Green plants that grow close to the ground.",
+          "examples": [
+            "The grass is green.",
+            "I lay on the grass.",
+            "The cow ate grass."
+          ]
+        },
+        "more": {
+          "def": "A low, green plant with thin leaves that covers lawns and fields.",
+          "examples": [
+            "We sat on the soft grass in the park.",
+            "The cows chewed the grass.",
+            "Dad cut the grass on Saturday."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "grateful",
     "say": "GRAYT-ful",
     "emoji": "🙏",
@@ -530,6 +559,35 @@
       {
         "word": "greenish",
         "def": "A little bit green."
+      }
+    ]
+  },
+  {
+    "word": "gross",
+    "say": "grohss",
+    "forms": [
+      "grosser",
+      "grossest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very yucky.",
+          "examples": [
+            "The smell is gross.",
+            "The old milk is gross.",
+            "That is gross!"
+          ]
+        },
+        "more": {
+          "def": "Very unpleasant or disgusting.",
+          "examples": [
+            "The rotten food was gross.",
+            "The smell from the trash was gross.",
+            "That is gross, so please wash your hands."
+          ]
+        }
       }
     ]
   },

@@ -176,6 +176,32 @@
     ]
   },
   {
+    "word": "homework",
+    "say": "HOHM-werk",
+    "emoji": "📚",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "School work you do at home.",
+          "examples": [
+            "I do my homework after school.",
+            "The homework is easy.",
+            "I finished my homework."
+          ]
+        },
+        "more": {
+          "def": "Schoolwork that a student does at home after school.",
+          "examples": [
+            "I do my homework at the kitchen table.",
+            "The teacher gave us math homework for the weekend.",
+            "She finished her homework before dinner."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "honest",
     "say": "ON-ist",
     "senses": [
@@ -226,6 +252,34 @@
     ]
   },
   {
+    "word": "honeymoon",
+    "say": "HUN-ee-moon",
+    "forms": [
+      "honeymoons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A trip taken by two people right after they get married.",
+          "examples": [
+            "They went on a honeymoon.",
+            "The honeymoon was at the beach.",
+            "They took a honeymoon."
+          ]
+        },
+        "more": {
+          "def": "A trip or holiday taken by two people right after their wedding.",
+          "examples": [
+            "The couple went to the beach for their honeymoon.",
+            "My aunt and uncle took a honeymoon in Hawaii.",
+            "They sent postcards from their honeymoon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "honor",
     "say": "ON-er",
     "forms": [
@@ -269,6 +323,53 @@
             "The town held a parade to honor the firefighters.",
             "We honor our grandparents on a special day.",
             "The school honored her for her kindness."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hood",
+    "say": "huud",
+    "forms": [
+      "hoods"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cover for your head that is part of a coat.",
+          "examples": [
+            "I put up my hood.",
+            "The coat has a hood.",
+            "The hood keeps the rain off."
+          ]
+        },
+        "more": {
+          "def": "A part of a coat that you pull up to cover your head.",
+          "examples": [
+            "She pulled up her hood because of the rain.",
+            "The coat has a warm hood.",
+            "The hood kept the snow out of his face."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The cover over the engine of a car.",
+          "examples": [
+            "Dad opened the hood.",
+            "The hood is hot.",
+            "A bird sat on the hood."
+          ]
+        },
+        "more": {
+          "def": "The metal cover over the front of a car, which hides the engine.",
+          "examples": [
+            "Dad raised the hood to check the engine.",
+            "A cat sat on the warm hood of the car.",
+            "The hood of the car was dusty."
           ]
         }
       }
@@ -537,6 +638,55 @@
             "The ambulance took her to the hospital.",
             "My mom works as a nurse at the hospital.",
             "Babies are born at the hospital every day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "host",
+    "say": "hohst",
+    "forms": [
+      "hosts",
+      "hosted",
+      "hosting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who has guests.",
+          "examples": [
+            "The host welcomed us.",
+            "Our host gave us dinner.",
+            "She is a good host."
+          ]
+        },
+        "more": {
+          "def": "A person who invites guests and takes care of them, or who leads a TV show.",
+          "examples": [
+            "The host welcomed us at the door.",
+            "She is a gracious host who makes everyone feel at home.",
+            "The host of the show asked the guests questions."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have guests at an event.",
+          "examples": [
+            "We host a party.",
+            "Our school hosted the fair.",
+            "She hosts the game."
+          ]
+        },
+        "more": {
+          "def": "To invite people to an event and look after them.",
+          "examples": [
+            "Our school hosted the science fair.",
+            "We will host a picnic at the park.",
+            "She hosts a game night every month."
           ]
         }
       }
