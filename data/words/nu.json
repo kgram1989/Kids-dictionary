@@ -47,6 +47,103 @@
     ]
   },
   {
+    "word": "nurse",
+    "say": "ners",
+    "emoji": "👩‍⚕️",
+    "forms": [
+      "nurses",
+      "nursed",
+      "nursing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who helps doctors take care of sick people.",
+          "examples": [
+            "The nurse took my temperature.",
+            "A nurse helped me.",
+            "My aunt is a nurse."
+          ]
+        },
+        "more": {
+          "def": "A person trained to take care of people who are sick or hurt.",
+          "examples": [
+            "The nurse checked my temperature.",
+            "A nurse bandaged his knee.",
+            "My aunt is a nurse at the hospital."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take care of a sick person.",
+          "examples": [
+            "She nursed her brother.",
+            "Mom nursed me when I was sick.",
+            "The vet nursed the bird."
+          ]
+        },
+        "more": {
+          "def": "To take care of someone who is sick or hurt.",
+          "examples": [
+            "Mom nursed me back to health when I had the flu.",
+            "She nursed the injured bird until it could fly.",
+            "He nursed his sore ankle."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "nut",
+    "say": "nut",
+    "forms": [
+      "nuts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hard seed in a shell.",
+          "examples": [
+            "Squirrels eat nuts.",
+            "The nut is hard.",
+            "I cracked a nut."
+          ]
+        },
+        "more": {
+          "def": "A seed or fruit with a hard shell that grows on some trees.",
+          "examples": [
+            "A squirrel stored a nut in the tree.",
+            "Walnuts and almonds are nuts.",
+            "We cracked the nuts with a nutcracker."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small piece of metal that fits on a bolt.",
+          "examples": [
+            "Dad used a nut and bolt.",
+            "Tighten the nut.",
+            "The nut is loose."
+          ]
+        },
+        "more": {
+          "def": "A small metal piece with a hole in the middle that screws onto a bolt.",
+          "examples": [
+            "The nut on the wheel was loose.",
+            "Dad tightened the nut with a wrench.",
+            "A nut and bolt hold the chair together."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nutrient",
     "say": "NOO-tree-unt",
     "forms": [

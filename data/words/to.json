@@ -169,6 +169,35 @@
     ]
   },
   {
+    "word": "tooth",
+    "say": "tooth",
+    "emoji": "🦷",
+    "forms": [
+      "teeth"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One of the hard white parts in your mouth.",
+          "examples": [
+            "I lost a tooth.",
+            "Brush your teeth.",
+            "My tooth is loose."
+          ]
+        },
+        "more": {
+          "def": "One of the hard, white parts in the mouth that are used for biting and chewing.",
+          "examples": [
+            "He lost a front tooth and got a coin from the tooth fairy.",
+            "A shark has rows of sharp teeth.",
+            "Brush your teeth twice a day."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "top",
     "say": "top",
     "emoji": "🔝",
@@ -187,7 +216,7 @@
           ]
         },
         "more": {
-          "def": "The highest part of something.",
+          "def": "The highest point or part of something, farthest from the bottom.",
           "examples": [
             "We hiked to the top of the mountain.",
             "The top of the cake was covered with berries.",
@@ -310,6 +339,54 @@
             "The bark felt rough to the touch.",
             "People who cannot see can read Braille by touch.",
             "A gentle touch on the shoulder told him it was time to go."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tough",
+    "say": "tuf",
+    "forms": [
+      "tougher",
+      "toughest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Strong and hard to break.",
+          "examples": [
+            "This rope is tough.",
+            "Tough boots last a long time.",
+            "The steak was tough to chew."
+          ]
+        },
+        "more": {
+          "def": "Strong and hard to break, tear or cut.",
+          "examples": [
+            "The tough rope held the boat in the storm.",
+            "This meat is too tough to chew.",
+            "Her backpack is made of tough cloth."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Hard to do.",
+          "examples": [
+            "It was a tough test.",
+            "The tough puzzle took an hour.",
+            "A tough job."
+          ]
+        },
+        "more": {
+          "def": "Difficult to do or deal with.",
+          "examples": [
+            "The math test was tough, but I finished.",
+            "It was a tough climb to the top of the hill.",
+            "She made a tough decision."
           ]
         }
       }

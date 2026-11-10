@@ -355,5 +355,71 @@
         }
       }
     ]
+  },
+  {
+    "word": "level",
+    "say": "LEV-ul",
+    "forms": [
+      "levels"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How high something is.",
+          "examples": [
+            "The water level is high.",
+            "The river level rose.",
+            "Her reading level is high."
+          ]
+        },
+        "more": {
+          "def": "The height of something, or how much of something there is.",
+          "examples": [
+            "The water level in the lake went down.",
+            "The noise level in the cafeteria is high.",
+            "Her reading level is very advanced."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One part in a series of steps.",
+          "examples": [
+            "I beat the third level of the game.",
+            "The parking lot has three levels.",
+            "She reached the next level."
+          ]
+        },
+        "more": {
+          "def": "One floor of a building or one stage in a game or a series.",
+          "examples": [
+            "The parking garage has four levels.",
+            "I finally passed level five of the game.",
+            "Each level is harder than the last."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Flat, with no bumps.",
+          "examples": [
+            "The floor is level.",
+            "Put the board on a level surface.",
+            "A level field is good for soccer."
+          ]
+        },
+        "more": {
+          "def": "Flat and even, with no part higher than another.",
+          "examples": [
+            "We set up the tent on level ground.",
+            "The shelf was not level, so the marbles rolled off.",
+            "The pool table must be level."
+          ]
+        }
+      }
+    ]
   }
 ]

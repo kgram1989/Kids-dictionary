@@ -73,5 +73,56 @@
         }
       }
     ]
+  },
+  {
+    "word": "slow",
+    "say": "sloh",
+    "forms": [
+      "slower",
+      "slowest",
+      "slows",
+      "slowed",
+      "slowing"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not fast.",
+          "examples": [
+            "A snail is slow.",
+            "The slow bus is late.",
+            "The turtle is slow."
+          ]
+        },
+        "more": {
+          "def": "Moving or happening at a low speed, or taking a long time.",
+          "examples": [
+            "The snail made slow progress across the garden.",
+            "We were stuck behind a slow truck.",
+            "The line at the store was slow."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go less fast.",
+          "examples": [
+            "Slow down, please.",
+            "The bus slowed at the corner.",
+            "Cars slow near the school."
+          ]
+        },
+        "more": {
+          "def": "To lower the speed of something, or to move at a lower speed.",
+          "examples": [
+            "The driver slowed the car at the crosswalk.",
+            "Please slow down before the corner.",
+            "Rain slowed the runners."
+          ]
+        }
+      }
+    ]
   }
 ]

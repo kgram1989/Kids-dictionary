@@ -56,6 +56,53 @@
     ]
   },
   {
+    "word": "scene",
+    "say": "seen",
+    "forms": [
+      "scenes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A view of a place.",
+          "examples": [
+            "The beach was a nice scene.",
+            "It was a pretty winter scene.",
+            "The painting shows a farm scene."
+          ]
+        },
+        "more": {
+          "def": "A view of a place and the things in it, as in a picture.",
+          "examples": [
+            "The painting shows a quiet farm scene.",
+            "We looked at the snowy winter scene from the window.",
+            "A pretty scene of mountains and a lake hung on the wall."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of a play or movie.",
+          "examples": [
+            "The first scene was funny.",
+            "My scene is next.",
+            "She forgot her lines in the scene."
+          ]
+        },
+        "more": {
+          "def": "One part of a play, movie or book that happens in one place or time.",
+          "examples": [
+            "In the first scene, the curtain rose on a forest.",
+            "The funniest scene in the movie was the food fight.",
+            "We rehearsed the last scene again."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "school",
     "say": "skool",
     "forms": [
@@ -78,6 +125,104 @@
             "Our school has a library, a gym, and a garden.",
             "The school bus picks us up at the corner.",
             "She goes to school five days a week."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scream",
+    "say": "skreem",
+    "forms": [
+      "screams",
+      "screamed",
+      "screaming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To yell in a loud, high voice.",
+          "examples": [
+            "She screamed when she saw the spider.",
+            "The kids scream on the ride.",
+            "We screamed with joy."
+          ]
+        },
+        "more": {
+          "def": "To make a loud, high cry because you are scared, excited or hurt.",
+          "examples": [
+            "The riders screamed with excitement on the roller coaster.",
+            "She screamed when a mouse ran by.",
+            "The baby screamed for a bottle."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loud, high cry.",
+          "examples": [
+            "I heard a scream.",
+            "A scream came from the ride.",
+            "His scream was loud."
+          ]
+        },
+        "more": {
+          "def": "A loud, high cry of fear, pain or excitement.",
+          "examples": [
+            "A scream came from the roller coaster.",
+            "We heard a scream from the haunted house.",
+            "She let out a scream of joy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "screw",
+    "say": "skroo",
+    "forms": [
+      "screws",
+      "screwed",
+      "screwing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin metal pin with a twisty edge.",
+          "examples": [
+            "Dad used a screw to hang the shelf.",
+            "The screw is loose.",
+            "I found a screw on the floor."
+          ]
+        },
+        "more": {
+          "def": "A small metal pin with a spiral edge that is twisted into wood or metal to hold things together.",
+          "examples": [
+            "Dad drove a screw into the wall to hang the picture.",
+            "A loose screw made the chair wobble.",
+            "A box of screws sat on the workbench."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To twist something on tight.",
+          "examples": [
+            "Screw the lid on.",
+            "Dad screwed the shelf to the wall.",
+            "Screw in the light bulb."
+          ]
+        },
+        "more": {
+          "def": "To fasten something by twisting it, or by using a metal pin with a spiral edge.",
+          "examples": [
+            "Screw the lid on tightly so the jam does not spill.",
+            "Dad screwed the hook into the beam.",
+            "She screwed the bulb into the lamp."
           ]
         }
       }

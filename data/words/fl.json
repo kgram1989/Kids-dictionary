@@ -25,6 +25,53 @@
     ]
   },
   {
+    "word": "flight",
+    "say": "flyt",
+    "forms": [
+      "flights"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A trip by airplane.",
+          "examples": [
+            "Our flight was long.",
+            "The flight to Grandma's house was short.",
+            "We took an early flight."
+          ]
+        },
+        "more": {
+          "def": "A trip in an airplane.",
+          "examples": [
+            "Our flight left at six in the morning.",
+            "The flight to Grandma's house takes two hours.",
+            "The flight from Texas to Alaska was long."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The act of flying.",
+          "examples": [
+            "The bird's flight was swift.",
+            "Wings help flight.",
+            "Her flight across the sky was graceful."
+          ]
+        },
+        "more": {
+          "def": "The act or ability to fly through the air.",
+          "examples": [
+            "The eagle's flight carried it over the valley.",
+            "Wings make flight possible.",
+            "The first flight of the airplane lasted a few seconds."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "float",
     "say": "floht",
     "emoji": "🎈",
@@ -92,11 +139,40 @@
           ]
         },
         "more": {
-          "def": "One level of a building.",
+          "def": "One level of a building, such as the first, second or third floor.",
           "examples": [
             "My aunt lives on the tenth floor of her building.",
             "The art room is on the second floor.",
             "Push the button for the fourth floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flower",
+    "say": "FLOW-er",
+    "emoji": "🌸",
+    "forms": [
+      "flowers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The colorful part of a plant.",
+          "examples": [
+            "The flower smells nice.",
+            "Bees visit the flower.",
+            "I picked a flower."
+          ]
+        },
+        "more": {
+          "def": "The colorful part of a plant that makes seeds, often with petals.",
+          "examples": [
+            "A bee landed on the yellow flower.",
+            "The garden is full of flowers.",
+            "She picked a flower for her teacher."
           ]
         }
       }

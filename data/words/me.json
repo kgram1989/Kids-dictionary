@@ -153,6 +153,31 @@
     ]
   },
   {
+    "word": "medical",
+    "say": "MED-ih-kul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with doctors and healing.",
+          "examples": [
+            "She has a medical bag.",
+            "He went to a medical office.",
+            "The doctor needs medical help."
+          ]
+        },
+        "more": {
+          "def": "Having to do with medicine and the care of sick or hurt people.",
+          "examples": [
+            "The nurse brought the medical kit.",
+            "The doctor needed medical supplies.",
+            "She studied medical science for many years."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "meet",
     "say": "meet",
     "forms": [
@@ -205,6 +230,53 @@
             "The club held a meeting to plan the bake sale.",
             "Town leaders had a meeting about the new playground.",
             "Our meeting ended when the bell rang."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "memory",
+    "say": "MEM-uh-ree",
+    "forms": [
+      "memories"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you remember.",
+          "examples": [
+            "I have a happy memory.",
+            "My memory of the trip is good.",
+            "I have a memory of the beach."
+          ]
+        },
+        "more": {
+          "def": "Something from the past that you remember.",
+          "examples": [
+            "My best memory is of the day we saw whales.",
+            "She has fond memories of her grandmother's kitchen.",
+            "The old photo brought back a happy memory."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being able to remember.",
+          "examples": [
+            "He has a good memory.",
+            "My memory is strong.",
+            "She has a bad memory for names."
+          ]
+        },
+        "more": {
+          "def": "The power of the mind to remember things.",
+          "examples": [
+            "She has a good memory for names.",
+            "A good memory helps you pass tests.",
+            "His memory is as sharp as ever."
           ]
         }
       }

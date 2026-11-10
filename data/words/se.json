@@ -1,5 +1,83 @@
 [
   {
+    "word": "sea",
+    "say": "see",
+    "emoji": "🌊",
+    "forms": [
+      "seas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big area of salty water.",
+          "examples": [
+            "Fish live in the sea.",
+            "We swim in the sea.",
+            "The ship sails the sea."
+          ]
+        },
+        "more": {
+          "def": "A large body of salt water, sometimes another name for the ocean.",
+          "examples": [
+            "We watched the waves roll in from the sea.",
+            "Sailors crossed the sea.",
+            "Fish and whales live in the sea."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "search",
+    "say": "serch",
+    "forms": [
+      "searches",
+      "searched",
+      "searching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look for something.",
+          "examples": [
+            "I search for my shoe.",
+            "We searched the house.",
+            "She searches the room."
+          ]
+        },
+        "more": {
+          "def": "To look carefully for something.",
+          "examples": [
+            "We searched the whole house for the lost cat.",
+            "Divers searched the water for the old ship.",
+            "She searched her bag for her keys."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The act of looking for something.",
+          "examples": [
+            "The search took an hour.",
+            "We joined the search.",
+            "There was a search for the lost key."
+          ]
+        },
+        "more": {
+          "def": "A careful look to find something.",
+          "examples": [
+            "The search for the lost kitten lasted all afternoon.",
+            "Scientists began a search for new planets.",
+            "The search ended when we found the key."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "season",
     "say": "SEE-zun",
     "emoji": "🍂",
@@ -128,6 +206,50 @@
             "She kept the surprise party a secret for two weeks.",
             "The recipe is a family secret.",
             "He whispered the secret to his best friend."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "security",
+    "say": "sih-KYUR-ih-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being safe from harm.",
+          "examples": [
+            "A good lock gives us security.",
+            "Hugs gave the child a feeling of security.",
+            "The fence is for security."
+          ]
+        },
+        "more": {
+          "def": "Safety from danger or harm.",
+          "examples": [
+            "A seat belt gives you security in a car.",
+            "Locks and alarms add security to the house.",
+            "A warm hug gave the child a sense of security."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "People who guard a place.",
+          "examples": [
+            "Security stood at the door.",
+            "Security checked our bags.",
+            "Call security if you are lost."
+          ]
+        },
+        "more": {
+          "def": "The people whose job is to keep a place safe.",
+          "examples": [
+            "Airport security checked our bags.",
+            "Security guards watched the museum.",
+            "The concert had extra security."
           ]
         }
       }
@@ -375,6 +497,34 @@
     ]
   },
   {
+    "word": "sergeant",
+    "say": "SAR-junt",
+    "forms": [
+      "sergeants"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A leader of soldiers or police officers.",
+          "examples": [
+            "The sergeant gave orders.",
+            "The sergeant saluted.",
+            "A sergeant leads a team."
+          ]
+        },
+        "more": {
+          "def": "An officer of middle rank in the army or police.",
+          "examples": [
+            "The sergeant gave the order to march.",
+            "A police sergeant helped the lost boy.",
+            "The sergeant checked the soldiers' uniforms."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "serious",
     "say": "SEER-ee-us",
     "senses": [
@@ -413,6 +563,102 @@
             "A serious storm closed the roads for two days.",
             "Forgetting to lock the gate is a serious problem for the farmer.",
             "The doctor said the cut was not serious."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "serve",
+    "say": "serv",
+    "forms": [
+      "serves",
+      "served",
+      "serving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give food to people.",
+          "examples": [
+            "The waiter serves soup.",
+            "Mom served dinner.",
+            "We serve lemonade."
+          ]
+        },
+        "more": {
+          "def": "To bring food or drink to people at a meal.",
+          "examples": [
+            "The waiter served our pancakes with syrup.",
+            "Dad serves dinner at six.",
+            "The cafe serves hot chocolate."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To help people by doing a job.",
+          "examples": [
+            "Firefighters serve the town.",
+            "The nurse serves the sick.",
+            "Soldiers serve their country."
+          ]
+        },
+        "more": {
+          "def": "To do work that helps a person, group or country.",
+          "examples": [
+            "Firefighters serve the town day and night.",
+            "The library serves the whole neighborhood.",
+            "She served as president of the club."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit a ball to start play.",
+          "examples": [
+            "Serve the ball.",
+            "She served first.",
+            "He serves hard."
+          ]
+        },
+        "more": {
+          "def": "To hit the ball to start a point in a game such as tennis.",
+          "examples": [
+            "It was her turn to serve.",
+            "He served the ball over the net.",
+            "Players take turns to serve."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "service",
+    "say": "SER-viss",
+    "forms": [
+      "services"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Work you do to help people.",
+          "examples": [
+            "The bus gives good service.",
+            "The shop gives fast service.",
+            "Mail service came late."
+          ]
+        },
+        "more": {
+          "def": "Work that is done to help other people, often as a business.",
+          "examples": [
+            "The waiter gave us friendly service.",
+            "Bus service stops at midnight in our town.",
+            "The library offers a free service for borrowing books."
           ]
         }
       }
@@ -461,6 +707,55 @@
             "I got a set of paints for my birthday.",
             "The library has a whole set of books about space.",
             "He keeps a set of tools in the garage."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "settle",
+    "say": "SET-ul",
+    "forms": [
+      "settles",
+      "settled",
+      "settling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a home in a new place.",
+          "examples": [
+            "Pioneers settled the land.",
+            "The family settled in a new town.",
+            "They settled by the river."
+          ]
+        },
+        "more": {
+          "def": "To make your home in a new place.",
+          "examples": [
+            "The family settled in a small town near the sea.",
+            "Early farmers settled in the river valley.",
+            "They settled near the lake."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To become calm or quiet.",
+          "examples": [
+            "The dust settles.",
+            "Settle down, class.",
+            "The puppy settled in its bed."
+          ]
+        },
+        "more": {
+          "def": "To become calm, still or comfortable.",
+          "examples": [
+            "The dust settled after the truck passed.",
+            "The puppy settled into its bed.",
+            "Please settle down so we can begin."
           ]
         }
       }

@@ -1,5 +1,52 @@
 [
   {
+    "word": "area",
+    "say": "AIR-ee-uh",
+    "forms": [
+      "areas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of a place.",
+          "examples": [
+            "The play area is big.",
+            "This area is quiet.",
+            "We ate in the picnic area."
+          ]
+        },
+        "more": {
+          "def": "A part of a place or space.",
+          "examples": [
+            "The playground has an area for little kids.",
+            "Rain fell over a large area of the state.",
+            "Please stay in the picnic area."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The size of a flat surface.",
+          "examples": [
+            "We measured the area of the rug.",
+            "A big room has a large area.",
+            "The area of the field is huge."
+          ]
+        },
+        "more": {
+          "def": "The amount of flat space inside a shape, measured in squares.",
+          "examples": [
+            "The area of a square that is three feet on each side is nine square feet.",
+            "Find the area of the garden before buying grass seed.",
+            "The area of the football field is huge."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "argue",
     "say": "AR-gyoo",
     "forms": [
@@ -24,6 +71,63 @@
             "The two friends began to argue about the rules of the game.",
             "The players argued with the referee about the call.",
             "She argued that recess should be ten minutes longer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "arm",
+    "say": "arm",
+    "emoji": "💪",
+    "forms": [
+      "arms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of your body between your shoulder and your hand.",
+          "examples": [
+            "Raise your arm.",
+            "My arm is strong.",
+            "She hugged me with both arms."
+          ]
+        },
+        "more": {
+          "def": "The long part of the body between the shoulder and the hand.",
+          "examples": [
+            "He raised his arm to ask a question.",
+            "An octopus has eight arms.",
+            "The baby fell asleep in her mother's arms."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "army",
+    "say": "AR-mee",
+    "forms": [
+      "armies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large group of soldiers.",
+          "examples": [
+            "The army marched through the town.",
+            "An army guards the country.",
+            "Soldiers in the army wear uniforms."
+          ]
+        },
+        "more": {
+          "def": "A large, organized group of soldiers who fight on land.",
+          "examples": [
+            "The army marched across the mountains.",
+            "A country's army protects its borders.",
+            "He joined the army after school."
           ]
         }
       }
@@ -68,6 +172,94 @@
             "There are not many people around early in the morning.",
             "The class turned around when the door opened.",
             "The game will begin at around noon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "arrest",
+    "say": "uh-REST",
+    "forms": [
+      "arrests",
+      "arrested",
+      "arresting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To catch a person who did something against the law.",
+          "examples": [
+            "The police arrested the thief.",
+            "An officer arrested the man.",
+            "They arrest people who break the law."
+          ]
+        },
+        "more": {
+          "def": "To catch someone and hold them because they are thought to have broken the law.",
+          "examples": [
+            "The police arrested the man who stole the bike.",
+            "Officers arrest people who break the law.",
+            "The sheriff arrested the thief at the train station."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "arrive",
+    "say": "uh-RYV",
+    "forms": [
+      "arrives",
+      "arrived",
+      "arriving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get to a place.",
+          "examples": [
+            "We arrive at noon.",
+            "The bus arrived.",
+            "She arrived at school."
+          ]
+        },
+        "more": {
+          "def": "To reach a place after traveling.",
+          "examples": [
+            "We arrived at the campsite just before dark.",
+            "The train arrives at four o'clock.",
+            "Grandma arrived with a big bag of presents."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "art",
+    "say": "art",
+    "forms": [
+      "arts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Drawing, painting and other things you make.",
+          "examples": [
+            "I love art class.",
+            "Art is fun.",
+            "Her art is on the wall."
+          ]
+        },
+        "more": {
+          "def": "Pictures, sculptures and other things that people make to show ideas or feelings.",
+          "examples": [
+            "The art in the museum is hundreds of years old.",
+            "We painted flowers in art class.",
+            "She loves music, dance and art."
           ]
         }
       }

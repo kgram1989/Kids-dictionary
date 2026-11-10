@@ -172,6 +172,35 @@
     ]
   },
   {
+    "word": "silly",
+    "say": "SIL-ee",
+    "forms": [
+      "sillier",
+      "silliest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not serious; funny.",
+          "examples": [
+            "He wore a silly hat.",
+            "We made silly faces.",
+            "The clown is silly."
+          ]
+        },
+        "more": {
+          "def": "Funny in a playful or foolish way.",
+          "examples": [
+            "The clown wore a silly hat and big shoes.",
+            "We made silly faces in the mirror.",
+            "It was a silly joke, but it made us laugh."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "similar",
     "say": "SIM-uh-ler",
     "senses": [
@@ -302,6 +331,69 @@
     ]
   },
   {
+    "word": "single",
+    "say": "SING-gul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Only one.",
+          "examples": [
+            "A single flower grew there.",
+            "She ate a single cookie.",
+            "There is not a single cloud."
+          ]
+        },
+        "more": {
+          "def": "Only one; not more than one.",
+          "examples": [
+            "A single red flower grew in the field.",
+            "He did not eat a single bite of dinner.",
+            "Not a single cloud was in the sky."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not married.",
+          "examples": [
+            "My uncle is single.",
+            "She is single.",
+            "Many people in the city are single."
+          ]
+        },
+        "more": {
+          "def": "Not married or not in a close relationship.",
+          "examples": [
+            "My uncle is single and lives alone.",
+            "She is single and travels a lot.",
+            "Many single people live in the city."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "For one person.",
+          "examples": [
+            "I sleep in a single bed.",
+            "He asked for a single room.",
+            "I need a single ticket."
+          ]
+        },
+        "more": {
+          "def": "Meant for one person.",
+          "examples": [
+            "The hotel has one single room left.",
+            "She bought a single ticket to the show.",
+            "A single bed fits one person."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sir",
     "say": "ser",
     "senses": [
@@ -379,6 +471,34 @@
             "Please sit quietly on the rug while I read.",
             "The birds sat on the wire, side by side.",
             "We sat around the campfire and sang songs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "situation",
+    "say": "sich-oo-AY-shun",
+    "forms": [
+      "situations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way things are at a certain time.",
+          "examples": [
+            "We are in a tricky situation.",
+            "The situation is better now.",
+            "What a funny situation!"
+          ]
+        },
+        "more": {
+          "def": "The set of things that are happening around you at a certain time.",
+          "examples": [
+            "We were in a difficult situation when the bus broke down.",
+            "The teacher explained the situation to the class.",
+            "Staying calm helps in any situation."
           ]
         }
       }

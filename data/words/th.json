@@ -381,6 +381,31 @@
     ]
   },
   {
+    "word": "third",
+    "say": "therd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Number three in order.",
+          "examples": [
+            "I am third in line.",
+            "She won third place.",
+            "Today is the third day of camp."
+          ]
+        },
+        "more": {
+          "def": "Coming after the second and before the fourth.",
+          "examples": [
+            "My brother came in third place in the race.",
+            "We live on the third floor.",
+            "It was the third time we visited the zoo."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thirteen",
     "say": "ther-TEEN",
     "senses": [
@@ -506,6 +531,34 @@
             "I had a funny thought while I was watching the clouds.",
             "After some thought, he chose the blue paint.",
             "Please share your thoughts about the story with the class."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thousand",
+    "say": "THOW-zund",
+    "forms": [
+      "thousands"
+    ],
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "The number 1,000.",
+          "examples": [
+            "The stadium holds a thousand people.",
+            "A thousand stars are in the sky.",
+            "Count to one thousand."
+          ]
+        },
+        "more": {
+          "def": "The number 1,000, which is ten hundreds.",
+          "examples": [
+            "A thousand meters make one kilometer.",
+            "Thousands of fans cheered for the team.",
+            "The ancient tree is over a thousand years old."
           ]
         }
       }

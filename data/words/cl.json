@@ -180,6 +180,35 @@
     ]
   },
   {
+    "word": "clock",
+    "say": "klok",
+    "emoji": "🕒",
+    "forms": [
+      "clocks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that shows the time.",
+          "examples": [
+            "The clock says three.",
+            "Look at the clock.",
+            "The clock ticks."
+          ]
+        },
+        "more": {
+          "def": "A device that shows what time it is.",
+          "examples": [
+            "The clock on the wall says half past nine.",
+            "I set the clock for seven.",
+            "The clock chimed at noon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "close",
     "say": "klohz",
     "forms": [
@@ -224,6 +253,32 @@
             "Our house is close to the school, so we walk there.",
             "Winter is close, and the leaves are almost gone.",
             "Stand close together so everyone fits in the picture."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clothes",
+    "say": "klohz",
+    "emoji": "👕",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things you wear.",
+          "examples": [
+            "Put on your clothes.",
+            "My clothes are wet.",
+            "She folded the clothes."
+          ]
+        },
+        "more": {
+          "def": "Things such as shirts, pants and dresses that people wear.",
+          "examples": [
+            "He packed his clothes for the trip.",
+            "Put your dirty clothes in the basket.",
+            "Winter clothes keep you warm in the snow."
           ]
         }
       }

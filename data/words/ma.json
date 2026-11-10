@@ -347,6 +347,34 @@
     ]
   },
   {
+    "word": "marriage",
+    "say": "MAIR-ij",
+    "forms": [
+      "marriages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The time when two people are husband and wife.",
+          "examples": [
+            "Their marriage is happy.",
+            "Grandma and Grandpa had a long marriage.",
+            "The marriage began in a garden."
+          ]
+        },
+        "more": {
+          "def": "The state of being married to someone.",
+          "examples": [
+            "My grandparents celebrated fifty years of marriage.",
+            "Their marriage was a happy one.",
+            "The marriage ceremony took place in a garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "married",
     "say": "MAIR-eed",
     "senses": [
@@ -396,6 +424,123 @@
             "My cousin is going to marry her best friend next summer.",
             "They married in a garden full of flowers.",
             "Many people marry in the spring."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "master",
+    "say": "MAS-ter",
+    "forms": [
+      "masters",
+      "mastered",
+      "mastering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Someone who is very good at something.",
+          "examples": [
+            "He is a master painter.",
+            "The master carved the bowl.",
+            "He is a chess master."
+          ]
+        },
+        "more": {
+          "def": "A person who has great skill at something.",
+          "examples": [
+            "The master baker made the wedding cake.",
+            "She is a master of the violin.",
+            "A master carver made the wooden horse."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To learn something very well.",
+          "examples": [
+            "I mastered tying my shoes.",
+            "She mastered the piano piece.",
+            "He mastered the trick."
+          ]
+        },
+        "more": {
+          "def": "To learn something so well that you can do it easily.",
+          "examples": [
+            "It took a year to master the violin.",
+            "She mastered riding a bike without help.",
+            "He mastered the card trick after hours of practice."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "match",
+    "say": "mach",
+    "forms": [
+      "matches",
+      "matched",
+      "matching"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin stick that makes fire.",
+          "examples": [
+            "A grown-up lit a match.",
+            "The match went out.",
+            "The box of matches is on the shelf."
+          ]
+        },
+        "more": {
+          "def": "A small stick with a tip that makes a flame when rubbed on a rough surface.",
+          "examples": [
+            "Dad struck a match to light the candle.",
+            "A box of matches sat on the shelf.",
+            "He blew out the match."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A game between teams.",
+          "examples": [
+            "We watched the soccer match.",
+            "The tennis match was long.",
+            "My dad won his tennis match."
+          ]
+        },
+        "more": {
+          "def": "A contest between two players or teams.",
+          "examples": [
+            "The tennis match lasted two hours.",
+            "Our team won the match.",
+            "She watched the chess match."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go together.",
+          "examples": [
+            "The socks match.",
+            "Her shoes match her dress.",
+            "These two colors match."
+          ]
+        },
+        "more": {
+          "def": "To be alike or to go well together.",
+          "examples": [
+            "Her scarf matches her hat.",
+            "Match each word with its picture.",
+            "The two socks match."
           ]
         }
       }

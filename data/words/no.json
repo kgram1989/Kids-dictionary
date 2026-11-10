@@ -176,6 +176,85 @@
     ]
   },
   {
+    "word": "normal",
+    "say": "NOR-mul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Usual; not strange.",
+          "examples": [
+            "It is a normal school day.",
+            "A cold winter is normal here.",
+            "His temperature is normal."
+          ]
+        },
+        "more": {
+          "def": "Usual, ordinary and what you would expect.",
+          "examples": [
+            "Rain is normal in the spring.",
+            "It was a normal day until the power went out.",
+            "Her temperature was normal."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "north",
+    "say": "north",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The direction opposite to south.",
+          "examples": [
+            "Geese fly north in spring.",
+            "Polar bears live in the far north.",
+            "It is colder in the north."
+          ]
+        },
+        "more": {
+          "def": "The direction that is opposite to south, toward the top of most maps.",
+          "examples": [
+            "A compass needle points north.",
+            "Many birds fly north in the spring.",
+            "Snow arrives early in the north."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "nose",
+    "say": "nohz",
+    "emoji": "👃",
+    "forms": [
+      "noses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of your face you smell with.",
+          "examples": [
+            "My nose is cold.",
+            "A dog has a wet nose.",
+            "He wiped his nose."
+          ]
+        },
+        "more": {
+          "def": "The part of the face above the mouth that is used for smelling and breathing.",
+          "examples": [
+            "Dogs sniff with their wet noses.",
+            "She held her nose when she dove in the pool.",
+            "The clown wore a big red nose."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "not",
     "say": "not",
     "senses": [
@@ -195,6 +274,53 @@
             "Penguins can swim, but they cannot fly, and that is not a mistake.",
             "Please do not run in the hallway.",
             "The test was not as hard as I thought."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "note",
+    "say": "noht",
+    "forms": [
+      "notes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short message.",
+          "examples": [
+            "I left a note for Mom.",
+            "She read the note.",
+            "There is a note on the fridge."
+          ]
+        },
+        "more": {
+          "def": "A short written message.",
+          "examples": [
+            "I left a note for my mom on the fridge.",
+            "The teacher sent a note home.",
+            "She slipped a note under the door."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One sound in music.",
+          "examples": [
+            "Play a note on the piano.",
+            "That note is high.",
+            "The bird sang a note."
+          ]
+        },
+        "more": {
+          "def": "A single sound of music, or the sign that shows it.",
+          "examples": [
+            "She played one note on the piano.",
+            "The bird sang a high note.",
+            "The song starts on a low note."
           ]
         }
       }

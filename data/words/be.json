@@ -34,6 +34,85 @@
     ]
   },
   {
+    "word": "beach",
+    "say": "beech",
+    "emoji": "🏖️",
+    "forms": [
+      "beaches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Sandy land next to the sea.",
+          "examples": [
+            "We play on the beach.",
+            "The beach is sandy.",
+            "We built a castle on the beach."
+          ]
+        },
+        "more": {
+          "def": "A sandy or pebbly area beside the sea or a lake.",
+          "examples": [
+            "We collected shells on the beach.",
+            "Waves washed over the sandy beach.",
+            "A lifeguard watched the beach."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bear",
+    "say": "bair",
+    "emoji": "🐻",
+    "forms": [
+      "bears",
+      "bore",
+      "borne"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big strong animal with thick fur.",
+          "examples": [
+            "The bear sleeps all winter.",
+            "Bears like honey.",
+            "A brown bear walked by the stream."
+          ]
+        },
+        "more": {
+          "def": "A large, heavy animal with thick fur and sharp claws.",
+          "examples": [
+            "The bear caught a fish in the stream.",
+            "A polar bear lives in the cold north.",
+            "Black bears climb trees."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put up with something.",
+          "examples": [
+            "I cannot bear the noise.",
+            "She bears the cold well.",
+            "He could not bear to wait."
+          ]
+        },
+        "more": {
+          "def": "To put up with something unpleasant.",
+          "examples": [
+            "I cannot bear the loud noise.",
+            "She bore the cold without complaining.",
+            "He could not bear to see the puppy sad."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "beat",
     "say": "beet",
     "emoji": "🥁",
@@ -232,6 +311,34 @@
     ]
   },
   {
+    "word": "beer",
+    "say": "beer",
+    "forms": [
+      "beers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bubbly drink that only adults may have.",
+          "examples": [
+            "Adults may drink beer.",
+            "Dad had a beer.",
+            "Beer is for grown-ups."
+          ]
+        },
+        "more": {
+          "def": "A bubbly drink made from grain that only adults may drink.",
+          "examples": [
+            "He ordered a glass of beer with dinner.",
+            "Beer is sold only to adults.",
+            "Dad poured a beer at the barbecue."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "before",
     "say": "bih-FOR",
     "senses": [
@@ -276,6 +383,36 @@
     ]
   },
   {
+    "word": "beg",
+    "say": "beg",
+    "forms": [
+      "begs",
+      "begged",
+      "begging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To ask for something very much.",
+          "examples": [
+            "The puppy begs for a treat.",
+            "I begged Mom for a pet.",
+            "He begged to stay."
+          ]
+        },
+        "more": {
+          "def": "To ask for something in a strong, pleading way.",
+          "examples": [
+            "The puppy begged for a bite of my sandwich.",
+            "She begged her parents to let her stay up late.",
+            "The child begged to go on the ride again."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "begin",
     "say": "bih-GIN",
     "forms": [
@@ -301,6 +438,34 @@
             "School begins at eight o'clock.",
             "She began to paint when she was six.",
             "The race begins when the whistle blows."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "beginning",
+    "say": "bih-GIN-ing",
+    "forms": [
+      "beginnings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The start of something.",
+          "examples": [
+            "The beginning of the book is funny.",
+            "The beginning of the race.",
+            "At the beginning, it is easy."
+          ]
+        },
+        "more": {
+          "def": "The first part of something, or the time when it starts.",
+          "examples": [
+            "The beginning of the movie was funny.",
+            "At the beginning of the year, we met our teacher.",
+            "Spring is the beginning of the growing season."
           ]
         }
       }
@@ -375,6 +540,55 @@
             "She believed her team could win if they worked together.",
             "Nobody believed him when he said he saw a bear.",
             "I believe that practice will make me a better swimmer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "belong",
+    "say": "bih-LONG",
+    "forms": [
+      "belongs",
+      "belonged",
+      "belonging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be owned by someone.",
+          "examples": [
+            "This book belongs to me.",
+            "The coat belongs to Sam.",
+            "Who does the toy belong to?"
+          ]
+        },
+        "more": {
+          "def": "To be the property of a person or group, or to be owned by them.",
+          "examples": [
+            "This pencil belongs to Mia.",
+            "The bike belongs to my sister.",
+            "Who does this coat belong to?"
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be in the right place.",
+          "examples": [
+            "The shoes belong by the door.",
+            "Books belong on the shelf.",
+            "The spoon belongs in the drawer."
+          ]
+        },
+        "more": {
+          "def": "To be in the right place or group.",
+          "examples": [
+            "Pencils belong in the desk, not on the floor.",
+            "A penguin belongs in cold places.",
+            "You belong on our team."
           ]
         }
       }

@@ -126,5 +126,123 @@
         }
       }
     ]
+  },
+  {
+    "word": "smile",
+    "say": "smyl",
+    "emoji": "😊",
+    "forms": [
+      "smiles",
+      "smiled",
+      "smiling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To turn up your mouth to show you are happy.",
+          "examples": [
+            "Smile for the picture.",
+            "She smiled at me.",
+            "The baby smiles."
+          ]
+        },
+        "more": {
+          "def": "To curve your mouth upward to show that you are happy or friendly.",
+          "examples": [
+            "Everyone smiled when the puppy walked in.",
+            "She smiled and waved at her neighbor.",
+            "The baby smiled at her dad."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A happy look on your face.",
+          "examples": [
+            "She has a big smile.",
+            "His smile was bright.",
+            "There was a smile on her face."
+          ]
+        },
+        "more": {
+          "def": "A happy or friendly look in which the mouth curves upward.",
+          "examples": [
+            "A big smile spread across his face.",
+            "She greeted us with a warm smile.",
+            "The baby's smile made everyone laugh."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "smoke",
+    "say": "smohk",
+    "forms": [
+      "smokes",
+      "smoked",
+      "smoking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The gray cloud from a fire.",
+          "examples": [
+            "Smoke came from the chimney.",
+            "Fire makes smoke.",
+            "Smoke filled the room."
+          ]
+        },
+        "more": {
+          "def": "A gray or black cloud that rises from something that is burning.",
+          "examples": [
+            "Smoke rose from the campfire.",
+            "Firefighters followed the smoke to the fire.",
+            "Smoke curled from the chimney."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give off a gray cloud.",
+          "examples": [
+            "The chimney smokes.",
+            "The fire smoked.",
+            "The pot is smoking."
+          ]
+        },
+        "more": {
+          "def": "To send out a cloud of gray or black fumes.",
+          "examples": [
+            "The chimney smoked on cold days.",
+            "The campfire smoked when we added wet wood.",
+            "The pan began to smoke."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To puff on a cigarette.",
+          "examples": [
+            "Signs say you cannot smoke here.",
+            "Grandpa used to smoke.",
+            "People may not smoke inside the building."
+          ]
+        },
+        "more": {
+          "def": "To breathe in the fumes from a cigarette, cigar or pipe.",
+          "examples": [
+            "People may not smoke inside the school.",
+            "Her uncle decided to stop smoking last year.",
+            "Signs ask visitors not to smoke near the playground."
+          ]
+        }
+      }
+    ]
   }
 ]

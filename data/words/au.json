@@ -24,5 +24,34 @@
         }
       }
     ]
+  },
+  {
+    "word": "aunt",
+    "say": "ant",
+    "emoji": "👩",
+    "forms": [
+      "aunts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sister of your mom or dad.",
+          "examples": [
+            "My aunt lives far away.",
+            "Aunt Lucy brings cookies.",
+            "I visited my aunt."
+          ]
+        },
+        "more": {
+          "def": "The sister of your mother or father, or the wife of your uncle.",
+          "examples": [
+            "My aunt taught me to knit.",
+            "Aunt Maria lives in Mexico.",
+            "Both of my aunts came to the party."
+          ]
+        }
+      }
+    ]
   }
 ]

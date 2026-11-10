@@ -31,6 +31,35 @@
     ]
   },
   {
+    "word": "knife",
+    "say": "nyf",
+    "emoji": "🔪",
+    "forms": [
+      "knives"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sharp tool for cutting.",
+          "examples": [
+            "Use a knife to cut the bread.",
+            "The knife is sharp.",
+            "Be careful with the knife."
+          ]
+        },
+        "more": {
+          "def": "A tool with a sharp blade and a handle, used for cutting.",
+          "examples": [
+            "Dad used a knife to slice the tomatoes.",
+            "The knife is kept in a high drawer.",
+            "She spread butter with a butter knife."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "knight",
     "say": "nyt",
     "emoji": "🛡️",
@@ -54,6 +83,55 @@
             "The knight promised to protect the castle.",
             "The queen made the brave soldier a knight.",
             "In the story, the knight fights a dragon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "knock",
+    "say": "nok",
+    "forms": [
+      "knocks",
+      "knocked",
+      "knocking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit a door so people know you are there.",
+          "examples": [
+            "Knock on the door.",
+            "Someone knocked.",
+            "I knock before I go in."
+          ]
+        },
+        "more": {
+          "def": "To hit something, such as a door, to make a sound.",
+          "examples": [
+            "Please knock before you come in.",
+            "Someone knocked on the window.",
+            "A woodpecker knocked on the tree."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit something so that it falls.",
+          "examples": [
+            "Do not knock over the cup.",
+            "The ball knocked down the pins.",
+            "The cat knocked the vase off."
+          ]
+        },
+        "more": {
+          "def": "To hit something so that it falls or moves.",
+          "examples": [
+            "The wind knocked over the garden chair.",
+            "Be careful not to knock the lamp off the table.",
+            "The ball knocked down all the pins."
           ]
         }
       }

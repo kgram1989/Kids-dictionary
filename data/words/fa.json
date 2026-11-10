@@ -56,6 +56,122 @@
     ]
   },
   {
+    "word": "fail",
+    "say": "fayl",
+    "forms": [
+      "fails",
+      "failed",
+      "failing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not do what you tried to do.",
+          "examples": [
+            "The plan failed.",
+            "He failed to open the jar.",
+            "The car failed to start."
+          ]
+        },
+        "more": {
+          "def": "To not succeed in doing something you tried to do.",
+          "examples": [
+            "The first rocket failed to reach space.",
+            "I failed to catch the ball.",
+            "The seeds failed to grow in the dry soil."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not pass a test.",
+          "examples": [
+            "He failed the quiz.",
+            "I hope I do not fail.",
+            "She failed her driving test."
+          ]
+        },
+        "more": {
+          "def": "To not reach the level needed to pass a test or course.",
+          "examples": [
+            "He failed the quiz and had to take it again.",
+            "She did not study, so she failed the test.",
+            "Many people fail the test the first time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fair",
+    "say": "fair",
+    "forms": [
+      "fairer",
+      "fairest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Treating everyone the same.",
+          "examples": [
+            "It is not fair!",
+            "The game is fair.",
+            "The judge was fair."
+          ]
+        },
+        "more": {
+          "def": "Treating everyone in the same way, without favorites.",
+          "examples": [
+            "The referee was fair to both teams.",
+            "It is only fair that everyone gets a turn.",
+            "A fair way to share is to cut the cake equally."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sunny and not raining.",
+          "examples": [
+            "The weather is fair.",
+            "Tomorrow will be fair.",
+            "We hope for a fair day."
+          ]
+        },
+        "more": {
+          "def": "Pleasant, with no rain or storms.",
+          "examples": [
+            "The forecast says it will be fair all week.",
+            "We held the picnic on a fair day.",
+            "Fair weather is ahead for the weekend."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fun event with rides and games.",
+          "examples": [
+            "We went to the fair.",
+            "I rode the Ferris wheel at the fair.",
+            "They sell pies at the fair."
+          ]
+        },
+        "more": {
+          "def": "An event with rides, games, food and shows.",
+          "examples": [
+            "We rode the Ferris wheel at the county fair.",
+            "The prize pig at the fair won a blue ribbon.",
+            "She baked a pie to enter in the fair."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fall",
     "say": "fawl",
     "emoji": "🍂",
@@ -279,6 +395,54 @@
     ]
   },
   {
+    "word": "fat",
+    "say": "fat",
+    "forms": [
+      "fatter",
+      "fattest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Big around; thick.",
+          "examples": [
+            "The fat frog sat on a leaf.",
+            "I read a fat book.",
+            "We made a fat snowman."
+          ]
+        },
+        "more": {
+          "def": "Thick or round in shape, or having a lot of body weight.",
+          "examples": [
+            "The fat bear ate berries all autumn.",
+            "He carried a fat book of fairy tales.",
+            "A fat cloud sat over the hill."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Oily stuff in food or in the body.",
+          "examples": [
+            "Butter has fat.",
+            "Bears store fat for winter.",
+            "Fat keeps seals warm."
+          ]
+        },
+        "more": {
+          "def": "A soft, oily substance found in animals and some plants, which gives the body energy.",
+          "examples": [
+            "Whales have a thick layer of fat that keeps them warm.",
+            "Butter and oil are mostly fat.",
+            "Bears store fat before the long winter sleep."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "father",
     "say": "FAH-ther",
     "forms": [
@@ -348,6 +512,34 @@
             "One fault in the design was a loose handle.",
             "Being late is his only fault.",
             "The inspector looked for faults in the bridge."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "favor",
+    "say": "FAY-ver",
+    "forms": [
+      "favors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind thing you do for someone.",
+          "examples": [
+            "Can you do me a favor?",
+            "She did me a favor.",
+            "He asked for a favor."
+          ]
+        },
+        "more": {
+          "def": "A kind act that you do for someone without being paid.",
+          "examples": [
+            "Could you do me a favor and hold the door?",
+            "My neighbor did us a favor and fed the cat.",
+            "He asked her a favor."
           ]
         }
       }

@@ -1,5 +1,33 @@
 [
   {
+    "word": "folk",
+    "say": "fohk",
+    "forms": [
+      "folks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "People.",
+          "examples": [
+            "Hello, folks!",
+            "Kind folks live here.",
+            "The folks next door are nice."
+          ]
+        },
+        "more": {
+          "def": "People, especially a group of people or a family.",
+          "examples": [
+            "Welcome, folks, to the show!",
+            "The folks next door brought us cookies.",
+            "The old folks sat on the porch."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "follow",
     "say": "FOL-oh",
     "forms": [
@@ -219,6 +247,55 @@
     ]
   },
   {
+    "word": "force",
+    "say": "fors",
+    "forms": [
+      "forces",
+      "forced",
+      "forcing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A push or pull.",
+          "examples": [
+            "Wind has force.",
+            "A magnet pulls with force.",
+            "The force of the wave knocked me over."
+          ]
+        },
+        "more": {
+          "def": "A push or pull that makes something move or change.",
+          "examples": [
+            "The force of the wind blew the door shut.",
+            "Gravity is a force that pulls things toward the ground.",
+            "It takes a lot of force to push the heavy cart."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something happen by using strength.",
+          "examples": [
+            "He forced the stuck door open.",
+            "Do not force the puzzle piece.",
+            "Mom forced the lid off."
+          ]
+        },
+        "more": {
+          "def": "To make a person or thing do something by using strength or power.",
+          "examples": [
+            "The storm forced us to stay inside.",
+            "She forced the stuck window open.",
+            "Heavy rain forced the game to stop."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "forest",
     "say": "FOR-ist",
     "emoji": "🌲",
@@ -273,6 +350,130 @@
             "I forgot where I put my library book.",
             "Do not forget to feed the fish before you go.",
             "He has never forgotten the day he saw a whale."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "forgive",
+    "say": "fer-GIV",
+    "forms": [
+      "forgives",
+      "forgave",
+      "forgiven",
+      "forgiving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop being angry at someone.",
+          "examples": [
+            "I forgive you.",
+            "She forgave her friend.",
+            "Please forgive me."
+          ]
+        },
+        "more": {
+          "def": "To stop being angry with someone who has done something wrong.",
+          "examples": [
+            "He forgave his sister for breaking the toy.",
+            "Please forgive me for being late.",
+            "She forgave her friend after the argument."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "form",
+    "say": "form",
+    "forms": [
+      "forms",
+      "formed",
+      "forming"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind of something.",
+          "examples": [
+            "Ice is a form of water.",
+            "Water has three forms.",
+            "Steam is a form of water."
+          ]
+        },
+        "more": {
+          "def": "A kind of something, or the shape it takes.",
+          "examples": [
+            "Ice is a solid form of water.",
+            "Poetry is one form of writing.",
+            "Clouds appear in many forms."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A paper with spaces to fill in.",
+          "examples": [
+            "Fill out the form.",
+            "The form needs your name.",
+            "Sign the form."
+          ]
+        },
+        "more": {
+          "def": "A paper with blank spaces where you write information.",
+          "examples": [
+            "Please fill out the form with your name and age.",
+            "The library card form asks for your address.",
+            "She signed the form and handed it back."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make or shape something.",
+          "examples": [
+            "Ice forms on the pond.",
+            "We formed a line.",
+            "Clouds form in the sky."
+          ]
+        },
+        "more": {
+          "def": "To make something, or to come into being.",
+          "examples": [
+            "Ice forms on the pond in winter.",
+            "We formed a line at the door.",
+            "Clay can be formed into a bowl."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "forward",
+    "say": "FOR-werd",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Toward the front.",
+          "examples": [
+            "Step forward.",
+            "Move forward.",
+            "The car rolled forward."
+          ]
+        },
+        "more": {
+          "def": "In the direction that is in front of you.",
+          "examples": [
+            "Please step forward and take a ticket.",
+            "The line moved forward.",
+            "He leaned forward to hear better."
           ]
         }
       }

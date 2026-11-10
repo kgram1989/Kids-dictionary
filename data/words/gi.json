@@ -1,5 +1,53 @@
 [
   {
+    "word": "gift",
+    "say": "gift",
+    "emoji": "🎁",
+    "forms": [
+      "gifts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you give to someone.",
+          "examples": [
+            "I got a gift.",
+            "The gift is wrapped.",
+            "Mom likes her gift."
+          ]
+        },
+        "more": {
+          "def": "Something that you give to a person without being paid.",
+          "examples": [
+            "She wrapped a gift for her friend.",
+            "Grandma sent a gift for my birthday.",
+            "The book was a gift from my teacher."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A special talent.",
+          "examples": [
+            "She has a gift for music.",
+            "He has a gift for drawing.",
+            "A gift for singing."
+          ]
+        },
+        "more": {
+          "def": "A natural talent or skill.",
+          "examples": [
+            "She has a gift for playing the violin.",
+            "He has a gift for making people laugh.",
+            "Her gift for drawing was clear at age three."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "gigantic",
     "say": "jy-GAN-tik",
     "emoji": "🦕",
@@ -48,6 +96,34 @@
             "The girl next door taught me how to play chess.",
             "A group of girls was singing in the school choir.",
             "She was a shy girl who loved to read."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "girlfriend",
+    "say": "GERL-frend",
+    "forms": [
+      "girlfriends"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A girl who is someone's special friend.",
+          "examples": [
+            "My big brother has a girlfriend.",
+            "Her girlfriend came to the party.",
+            "Dan and his girlfriend baked a cake."
+          ]
+        },
+        "more": {
+          "def": "A girl or woman who is in a close, loving relationship with someone.",
+          "examples": [
+            "My cousin brought his girlfriend to meet our family.",
+            "Her girlfriend helped her carry the boxes.",
+            "Dan and his girlfriend baked a cake for the picnic."
           ]
         }
       }

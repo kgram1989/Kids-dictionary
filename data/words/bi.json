@@ -25,6 +25,64 @@
     ]
   },
   {
+    "word": "bird",
+    "say": "berd",
+    "emoji": "🐦",
+    "forms": [
+      "birds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal with feathers and wings.",
+          "examples": [
+            "A bird sings.",
+            "The bird built a nest.",
+            "Birds eat seeds."
+          ]
+        },
+        "more": {
+          "def": "An animal with feathers, wings and a beak, that usually can fly.",
+          "examples": [
+            "A bird built a nest in the tree.",
+            "Penguins are birds that cannot fly.",
+            "Owls are birds that hunt at night."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "birthday",
+    "say": "BERTH-day",
+    "emoji": "🎂",
+    "forms": [
+      "birthdays"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The day you were born, every year.",
+          "examples": [
+            "Today is my birthday.",
+            "We have cake on my birthday.",
+            "Her birthday is in May."
+          ]
+        },
+        "more": {
+          "def": "The day each year that is the same date as the day you were born.",
+          "examples": [
+            "My birthday is in the spring.",
+            "We sang to Grandpa on his birthday.",
+            "She turned eight on her birthday."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bit",
     "say": "bit",
     "forms": [
@@ -47,6 +105,75 @@
             "I found a bit of string on the floor.",
             "Add a bit more water to the soup.",
             "She was a bit shy on her first day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bite",
+    "say": "byt",
+    "forms": [
+      "bites",
+      "bit",
+      "bitten",
+      "biting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To use your teeth to cut or hold.",
+          "examples": [
+            "I bite the apple.",
+            "The dog bit the toy.",
+            "Do not bite your pencil."
+          ]
+        },
+        "more": {
+          "def": "To use your teeth to cut, hold or crush something.",
+          "examples": [
+            "Bite the apple and chew it well.",
+            "The puppy bit the rope toy.",
+            "Mosquitoes bite at night."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mouthful of food.",
+          "examples": [
+            "Take a bite.",
+            "One bite of cake.",
+            "I took a bite of the apple."
+          ]
+        },
+        "more": {
+          "def": "A small amount of food taken into the mouth at one time.",
+          "examples": [
+            "She took a big bite of the sandwich.",
+            "Have a bite of my pie.",
+            "He saved one bite for later."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small hurt from a bug or animal.",
+          "examples": [
+            "I have a mosquito bite.",
+            "The bite is small.",
+            "A bee bite itches."
+          ]
+        },
+        "more": {
+          "def": "A small cut or sting made by an insect or animal.",
+          "examples": [
+            "The mosquito bite on my arm itched.",
+            "The dog's bite did not break the skin.",
+            "He put cream on the bite."
           ]
         }
       }

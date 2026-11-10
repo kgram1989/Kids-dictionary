@@ -31,6 +31,34 @@
     ]
   },
   {
+    "word": "doc",
+    "say": "dok",
+    "forms": [
+      "docs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short name for a doctor.",
+          "examples": [
+            "The doc looked in my ears.",
+            "Doc, my arm hurts.",
+            "I asked the doc a question."
+          ]
+        },
+        "more": {
+          "def": "An informal, short name for a doctor.",
+          "examples": [
+            "The doc said I should rest.",
+            "Ask the doc if you can swim.",
+            "Everyone in town calls her Doc."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "doctor",
     "say": "DOK-ter",
     "forms": [
@@ -138,6 +166,104 @@
             "She knocked on the door and waited for an answer.",
             "The door to the classroom opens into the hallway.",
             "Please shut the car door gently."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "double",
+    "say": "DUB-ul",
+    "forms": [
+      "doubles",
+      "doubled",
+      "doubling"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Two times as much.",
+          "examples": [
+            "I got a double scoop.",
+            "Use double the flour.",
+            "A double bed fits two."
+          ]
+        },
+        "more": {
+          "def": "Twice as much or twice as many.",
+          "examples": [
+            "She ordered a double scoop of ice cream.",
+            "The recipe needs double the amount of flour.",
+            "A double window keeps out the cold."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make two times as much.",
+          "examples": [
+            "Double the recipe.",
+            "The plant doubled in size.",
+            "The money doubled."
+          ]
+        },
+        "more": {
+          "def": "To make something twice as big or twice as many.",
+          "examples": [
+            "We doubled the recipe to feed the whole class.",
+            "The plant doubled in height in a week.",
+            "Sales doubled this year."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "doubt",
+    "say": "dowt",
+    "forms": [
+      "doubts",
+      "doubted",
+      "doubting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not be sure.",
+          "examples": [
+            "I doubt it will rain.",
+            "She doubts he is right.",
+            "I doubt she knows."
+          ]
+        },
+        "more": {
+          "def": "To think that something is probably not true.",
+          "examples": [
+            "I doubt that it will snow today.",
+            "She doubted that the story was true.",
+            "He doubts he can lift the box."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A feeling of not being sure.",
+          "examples": [
+            "I have some doubt.",
+            "There is no doubt.",
+            "Doubt made him stop."
+          ]
+        },
+        "more": {
+          "def": "A feeling of not being sure about something.",
+          "examples": [
+            "There was no doubt that it was her coat.",
+            "A little doubt crossed his mind.",
+            "She had doubts about the plan."
           ]
         }
       }

@@ -97,6 +97,74 @@
     ]
   },
   {
+    "word": "roll",
+    "say": "rohl",
+    "forms": [
+      "rolls",
+      "rolled",
+      "rolling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move by turning over and over.",
+          "examples": [
+            "The ball rolls.",
+            "Roll down the hill.",
+            "The log rolled away."
+          ]
+        },
+        "more": {
+          "def": "To move along by turning over and over, like a wheel or a ball.",
+          "examples": [
+            "A marble rolled across the floor.",
+            "We rolled down the grassy hill, laughing.",
+            "The wheels rolled smoothly down the road."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small round bread.",
+          "examples": [
+            "I ate a roll with butter.",
+            "Mom baked rolls.",
+            "A warm roll is tasty."
+          ]
+        },
+        "more": {
+          "def": "A small, round piece of bread.",
+          "examples": [
+            "She spread butter on a warm roll.",
+            "The sandwich was on a soft roll.",
+            "Grandma baked a pan of rolls."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something wrapped into a tube.",
+          "examples": [
+            "A roll of tape.",
+            "A roll of paper towels.",
+            "I need a roll of paper."
+          ]
+        },
+        "more": {
+          "def": "Something that has been wound up into a tube shape.",
+          "examples": [
+            "I need a new roll of tape.",
+            "She bought a roll of wrapping paper.",
+            "A roll of paper towels sat by the sink."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "room",
     "say": "room",
     "forms": [
@@ -144,6 +212,35 @@
     ]
   },
   {
+    "word": "rose",
+    "say": "rohz",
+    "emoji": "🌹",
+    "forms": [
+      "roses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flower with a sweet smell and thorns.",
+          "examples": [
+            "The rose is red.",
+            "A rose has thorns.",
+            "I smelled the rose."
+          ]
+        },
+        "more": {
+          "def": "A flower with a sweet smell, many petals and thorns on its stem.",
+          "examples": [
+            "A red rose grew by the gate.",
+            "Roses have sharp thorns.",
+            "She smelled the pink rose."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "rough",
     "say": "ruf",
     "forms": [
@@ -167,6 +264,55 @@
             "The rough bark of the tree scratched my hand.",
             "The sea was too rough for small boats.",
             "Sandpaper feels rough."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "round",
+    "say": "rownd",
+    "forms": [
+      "rounder",
+      "roundest",
+      "rounds"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Shaped like a circle or ball.",
+          "examples": [
+            "A ball is round.",
+            "The moon is round.",
+            "We sat at a round table."
+          ]
+        },
+        "more": {
+          "def": "Shaped like a circle or a ball.",
+          "examples": [
+            "The round table seats eight.",
+            "A full moon looks round and bright.",
+            "She baked a round cake."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One part of a game.",
+          "examples": [
+            "Let us play another round.",
+            "She won the first round.",
+            "The last round is next."
+          ]
+        },
+        "more": {
+          "def": "One part of a game, contest or series.",
+          "examples": [
+            "She won the first round of the spelling bee.",
+            "Let us play one more round of cards.",
+            "The quiz show has three rounds."
           ]
         }
       }

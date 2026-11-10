@@ -1,5 +1,71 @@
 [
   {
+    "word": "code",
+    "say": "kohd",
+    "forms": [
+      "codes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A secret way of writing messages.",
+          "examples": [
+            "We wrote in code.",
+            "The code is secret.",
+            "Can you read the code?"
+          ]
+        },
+        "more": {
+          "def": "A set of signs, letters or numbers used to send secret messages.",
+          "examples": [
+            "The spies wrote their messages in code.",
+            "We made up a code using numbers for letters.",
+            "Can you crack the code?"
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Numbers that open something.",
+          "examples": [
+            "The safe code is secret.",
+            "Enter the code.",
+            "The code is on the card."
+          ]
+        },
+        "more": {
+          "def": "A set of numbers or letters used to open a lock or enter a place.",
+          "examples": [
+            "Type the code to unlock the door.",
+            "She forgot the code to her bike lock.",
+            "The code to the safe is a secret."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Instructions for a computer.",
+          "examples": [
+            "She writes code for games.",
+            "Kids can learn code.",
+            "The code has a mistake."
+          ]
+        },
+        "more": {
+          "def": "Instructions written in a special language that tell a computer what to do.",
+          "examples": [
+            "My brother writes code for video games.",
+            "A mistake in the code made the program stop.",
+            "We learned to write simple code at school."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "coffee",
     "say": "KOF-ee",
     "emoji": "☕",
@@ -99,6 +165,62 @@
             "He collects stamps from countries all around the world.",
             "A truck collects the trash every Tuesday.",
             "Bees collect nectar from flowers to make honey."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "college",
+    "say": "KOL-ij",
+    "forms": [
+      "colleges"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A school people go to after high school.",
+          "examples": [
+            "My sister goes to college.",
+            "College is for older students.",
+            "He wants to go to college."
+          ]
+        },
+        "more": {
+          "def": "A school that people attend after high school to study more.",
+          "examples": [
+            "My cousin is studying music at college.",
+            "Some people go to college to become teachers.",
+            "The college has a big library."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "colonel",
+    "say": "KER-nul",
+    "forms": [
+      "colonels"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A high officer in the army.",
+          "examples": [
+            "The colonel gave orders.",
+            "The colonel led the soldiers.",
+            "A colonel stood at the gate."
+          ]
+        },
+        "more": {
+          "def": "A military officer of high rank, above a major and below a general.",
+          "examples": [
+            "The colonel inspected the soldiers.",
+            "A colonel gave the order to move out.",
+            "The colonel wore a medal on his coat."
           ]
         }
       }
@@ -267,6 +389,218 @@
     ]
   },
   {
+    "word": "complete",
+    "say": "kum-PLEET",
+    "forms": [
+      "completes",
+      "completed",
+      "completing"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having all its parts.",
+          "examples": [
+            "The puzzle is complete.",
+            "I have a complete set of cards.",
+            "She read the complete book."
+          ]
+        },
+        "more": {
+          "def": "Having all the parts that are needed; whole.",
+          "examples": [
+            "The puzzle was complete after we found the last piece.",
+            "He owns a complete set of the books.",
+            "Give a complete answer."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To finish.",
+          "examples": [
+            "Complete your work.",
+            "She completed the race.",
+            "I completed my homework."
+          ]
+        },
+        "more": {
+          "def": "To finish something so that nothing is left to do.",
+          "examples": [
+            "Please complete the worksheet before lunch.",
+            "The runners completed the race.",
+            "He completed the puzzle in an hour."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "computer",
+    "say": "kum-PYOO-ter",
+    "emoji": "💻",
+    "forms": [
+      "computers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that stores and shows information.",
+          "examples": [
+            "I use the computer.",
+            "The computer has a screen.",
+            "Mom works on a computer."
+          ]
+        },
+        "more": {
+          "def": "An electronic machine that can store information, do tasks and connect to other machines.",
+          "examples": [
+            "I write my reports on the computer.",
+            "The library has computers for children.",
+            "A computer can do math very fast."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "congratulations",
+    "say": "kun-grach-uh-LAY-shunz",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "Words you say when someone has good news.",
+          "examples": [
+            "Congratulations on your new baby brother!",
+            "Congratulations, you won!",
+            "Congratulations on your report card!"
+          ]
+        },
+        "more": {
+          "def": "Words that you say to someone when something good has happened to them.",
+          "examples": [
+            "Congratulations on winning the spelling bee!",
+            "Congratulations to the graduating class!",
+            "Congratulations on your new puppy!"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "consider",
+    "say": "kun-SID-er",
+    "forms": [
+      "considers",
+      "considered",
+      "considering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To think about something carefully.",
+          "examples": [
+            "Consider your choices.",
+            "I will consider it.",
+            "Consider the problem."
+          ]
+        },
+        "more": {
+          "def": "To think carefully about something before you decide.",
+          "examples": [
+            "Consider all the choices before you pick one.",
+            "We considered going to the lake.",
+            "She considered the problem for a long time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "contact",
+    "say": "KON-takt",
+    "forms": [
+      "contacts",
+      "contacted",
+      "contacting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Touching, or talking with someone.",
+          "examples": [
+            "Keep in contact.",
+            "Fire needs contact with air.",
+            "We lost contact with the plane."
+          ]
+        },
+        "more": {
+          "def": "The state of touching, or of being in touch with someone.",
+          "examples": [
+            "Keep in contact with your friends after camp.",
+            "Avoid contact with the hot pan.",
+            "The pilot lost contact with the control tower."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To reach someone by phone or message.",
+          "examples": [
+            "Contact me soon.",
+            "I will contact you.",
+            "She contacted her aunt."
+          ]
+        },
+        "more": {
+          "def": "To get in touch with someone by phone, message or letter.",
+          "examples": [
+            "Please contact the office if you are sick.",
+            "She contacted her cousin by video call.",
+            "I will contact you tomorrow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "continue",
+    "say": "kun-TIN-yoo",
+    "forms": [
+      "continues",
+      "continued",
+      "continuing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To keep going.",
+          "examples": [
+            "The rain continued.",
+            "Continue reading.",
+            "The road continues past the farm."
+          ]
+        },
+        "more": {
+          "def": "To keep going without stopping, or to start again after a break.",
+          "examples": [
+            "The rain continued all through the night.",
+            "The road continues past the farm and into the hills.",
+            "After lunch, we continued our hike."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "control",
     "say": "kun-TROHL",
     "forms": [
@@ -310,6 +644,84 @@
             "The driver lost control of the sled on the icy hill.",
             "Who is in control of the music at the party?",
             "Good players keep control of the ball."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "conversation",
+    "say": "kon-ver-SAY-shun",
+    "forms": [
+      "conversations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A talk between people.",
+          "examples": [
+            "We had a conversation.",
+            "Their conversation was long.",
+            "I heard a conversation."
+          ]
+        },
+        "more": {
+          "def": "A talk in which people share thoughts and listen to each other.",
+          "examples": [
+            "We had a long conversation on the bus.",
+            "Their conversation was about dinosaurs.",
+            "She joined the conversation at lunch."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cook",
+    "say": "kuuk",
+    "emoji": "👩‍🍳",
+    "forms": [
+      "cooks",
+      "cooked",
+      "cooking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make food hot to eat.",
+          "examples": [
+            "Dad cooks dinner.",
+            "I cooked eggs.",
+            "We cook soup."
+          ]
+        },
+        "more": {
+          "def": "To prepare food by heating it.",
+          "examples": [
+            "Dad likes to cook pasta on Sundays.",
+            "We cooked marshmallows over the campfire.",
+            "Cook the rice for twenty minutes."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who makes food.",
+          "examples": [
+            "The cook made soup.",
+            "Our school cook is kind.",
+            "The cook baked bread."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to prepare food.",
+          "examples": [
+            "The cook at the camp made pancakes.",
+            "My uncle is a cook at a restaurant.",
+            "The cook chopped the carrots."
           ]
         }
       }
@@ -410,6 +822,131 @@
             "The cop directed traffic after the parade.",
             "A cop helped the lost child find her mom.",
             "Our neighbor is a cop who works at night."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "copy",
+    "say": "KOP-ee",
+    "forms": [
+      "copies",
+      "copied",
+      "copying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make the same as something else.",
+          "examples": [
+            "Copy the words.",
+            "I copied the picture.",
+            "She copies my dance."
+          ]
+        },
+        "more": {
+          "def": "To do or make something the same as another thing.",
+          "examples": [
+            "Copy the sentence from the board.",
+            "The parrot can copy words.",
+            "She copied the drawing carefully."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something made to be the same as another.",
+          "examples": [
+            "I made a copy of the picture.",
+            "Take a copy.",
+            "This is a copy of the book."
+          ]
+        },
+        "more": {
+          "def": "A thing that is made to look the same as another.",
+          "examples": [
+            "I made a copy of my report.",
+            "She bought a copy of the book.",
+            "The museum has a copy of the old map."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "corner",
+    "say": "KOR-ner",
+    "forms": [
+      "corners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The place where two sides meet.",
+          "examples": [
+            "The table has four corners.",
+            "The cat sat in the corner.",
+            "Turn at the corner."
+          ]
+        },
+        "more": {
+          "def": "The place where two walls, lines or streets meet.",
+          "examples": [
+            "The lamp stood in the corner of the room.",
+            "Turn left at the next corner.",
+            "Fold down the corner of the page."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cost",
+    "say": "kost",
+    "forms": [
+      "costs",
+      "costing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The money you pay for something.",
+          "examples": [
+            "The cost is five dollars.",
+            "What is the cost?",
+            "The cost of the toy is low."
+          ]
+        },
+        "more": {
+          "def": "The price that you pay for something.",
+          "examples": [
+            "The cost of the ticket is ten dollars.",
+            "What is the cost of the trip?",
+            "The cost of food went up."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have a price.",
+          "examples": [
+            "The toy costs five dollars.",
+            "How much does it cost?",
+            "It costs a dollar."
+          ]
+        },
+        "more": {
+          "def": "To have a certain price.",
+          "examples": [
+            "The book costs ten dollars.",
+            "How much does a pizza cost?",
+            "That bike costs more than my allowance."
           ]
         }
       }
@@ -656,6 +1193,34 @@
             "The lawyer spoke to the judge in court.",
             "The case went to court last spring.",
             "The court decided that the rule was fair."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cousin",
+    "say": "KUZ-in",
+    "forms": [
+      "cousins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The child of your aunt or uncle.",
+          "examples": [
+            "My cousin is my age.",
+            "I play with my cousin.",
+            "Our cousins visit in summer."
+          ]
+        },
+        "more": {
+          "def": "A relative who is the son or daughter of your aunt or uncle.",
+          "examples": [
+            "My cousin and I built a fort.",
+            "Four cousins stayed with us over the summer.",
+            "She taught her cousin to ride a bike."
           ]
         }
       }

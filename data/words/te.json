@@ -1,5 +1,34 @@
 [
   {
+    "word": "tea",
+    "say": "tee",
+    "emoji": "🍵",
+    "forms": [
+      "teas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hot drink made with leaves.",
+          "examples": [
+            "Grandma drinks tea.",
+            "Mom made a cup of tea.",
+            "Tea is hot."
+          ]
+        },
+        "more": {
+          "def": "A drink made by pouring hot water over dried leaves.",
+          "examples": [
+            "My grandmother has a cup of tea every afternoon.",
+            "She added honey to her tea.",
+            "Tea is grown on hillside farms."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "teach",
     "say": "teech",
     "emoji": "👩‍🏫",
@@ -31,6 +60,35 @@
     ]
   },
   {
+    "word": "teacher",
+    "say": "TEE-cher",
+    "emoji": "👩‍🏫",
+    "forms": [
+      "teachers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who helps you learn at school.",
+          "examples": [
+            "My teacher reads to us.",
+            "The teacher is kind.",
+            "A teacher helps us."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to teach students.",
+          "examples": [
+            "The teacher handed out the spelling tests.",
+            "My piano teacher plays beautiful songs.",
+            "Our science teacher brought in a snake."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "team",
     "say": "teem",
     "emoji": "🏅",
@@ -54,6 +112,76 @@
             "Our soccer team practices twice a week.",
             "A team of scientists studied the volcano for years.",
             "The two teams shook hands after the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tear",
+    "say": "tair",
+    "forms": [
+      "tears",
+      "tore",
+      "torn",
+      "tearing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pull something apart.",
+          "examples": [
+            "Do not tear the paper.",
+            "I tore my shirt.",
+            "She tears the bread."
+          ]
+        },
+        "more": {
+          "def": "To pull something apart or into pieces.",
+          "examples": [
+            "Please do not tear the pages of the book.",
+            "He tore a hole in his jeans on the fence.",
+            "She tore the bread into small pieces."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "say": "teer",
+        "easy": {
+          "def": "A drop of water from your eye.",
+          "examples": [
+            "A tear ran down her cheek.",
+            "I wiped a tear from my eye.",
+            "The onion brought a tear."
+          ]
+        },
+        "more": {
+          "def": "A drop of salty water that comes from your eye when you cry.",
+          "examples": [
+            "A single tear rolled down his cheek.",
+            "She wiped a tear from her eye.",
+            "Tears of joy filled his eyes."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rip in something.",
+          "examples": [
+            "There is a tear in my shirt.",
+            "Tape the tear in the page.",
+            "The tear is small."
+          ]
+        },
+        "more": {
+          "def": "A hole or split made by pulling something apart.",
+          "examples": [
+            "There is a long tear in my backpack.",
+            "She sewed up a tear in her sleeve.",
+            "A tear in the page made it hard to read."
           ]
         }
       }

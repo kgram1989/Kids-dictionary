@@ -1,5 +1,155 @@
 [
   {
+    "word": "pack",
+    "say": "pak",
+    "forms": [
+      "packs",
+      "packed",
+      "packing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put things in a bag or box.",
+          "examples": [
+            "Pack your bag.",
+            "We packed for the trip.",
+            "He packs his lunch."
+          ]
+        },
+        "more": {
+          "def": "To put things into a bag, box or suitcase to carry them.",
+          "examples": [
+            "I packed my swimsuit and towel in a bag.",
+            "Dad packs our lunches every morning.",
+            "We packed the car for the trip."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of wolves or dogs.",
+          "examples": [
+            "A pack of wolves howled.",
+            "The pack ran through the snow.",
+            "A pack of dogs barked."
+          ]
+        },
+        "more": {
+          "def": "A group of animals, such as wolves or dogs, that live or hunt together.",
+          "examples": [
+            "A pack of wolves traveled across the snowy plain.",
+            "The pack of dogs ran along the beach.",
+            "Each pack of wolves has a leader."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small box or bag of things.",
+          "examples": [
+            "I bought a pack of gum.",
+            "She opened a pack of cards.",
+            "We need a pack of pencils."
+          ]
+        },
+        "more": {
+          "def": "A small package that holds several of the same thing.",
+          "examples": [
+            "She bought a pack of pencils for school.",
+            "A pack of cards has fifty-two cards.",
+            "Mom opened a new pack of napkins."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pain",
+    "say": "payn",
+    "forms": [
+      "pains"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hurting feeling.",
+          "examples": [
+            "I feel pain in my knee.",
+            "The shot caused a little pain.",
+            "He cried out in pain."
+          ]
+        },
+        "more": {
+          "def": "A feeling of hurt in the body.",
+          "examples": [
+            "I felt a sharp pain in my foot.",
+            "The medicine took away the pain.",
+            "She had a pain in her tooth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pal",
+    "say": "pal",
+    "forms": [
+      "pals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A friend.",
+          "examples": [
+            "He is my pal.",
+            "My pal and I play ball.",
+            "She is a good pal."
+          ]
+        },
+        "more": {
+          "def": "A close and friendly companion.",
+          "examples": [
+            "My pal and I walk to school together.",
+            "He is a loyal pal who always helps.",
+            "She wrote to her pen pal."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pants",
+    "say": "pants",
+    "emoji": "👖",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Clothes that cover both legs.",
+          "examples": [
+            "I wear pants to school.",
+            "My pants are blue.",
+            "Put on your pants."
+          ]
+        },
+        "more": {
+          "def": "A piece of clothing that covers the body from the waist to the ankles, with a separate part for each leg.",
+          "examples": [
+            "He wore warm pants in the snow.",
+            "My pants have deep pockets.",
+            "She rolled up her pants to wade in the creek."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "paper",
     "say": "PAY-per",
     "emoji": "📄",
@@ -48,6 +198,55 @@
     ]
   },
   {
+    "word": "pardon",
+    "say": "PAR-dun",
+    "forms": [
+      "pardons",
+      "pardoned",
+      "pardoning"
+    ],
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A polite word to say you are sorry.",
+          "examples": [
+            "Pardon me, I did not hear you.",
+            "Pardon? Can you say it again?",
+            "Pardon me for bumping you."
+          ]
+        },
+        "more": {
+          "def": "A polite way to say sorry, or to ask someone to say something again.",
+          "examples": [
+            "Pardon me, may I pass?",
+            "Pardon? I did not catch your name.",
+            "Pardon me for being late."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To forgive someone.",
+          "examples": [
+            "Please pardon me.",
+            "The king pardoned the boy.",
+            "Pardon my mess."
+          ]
+        },
+        "more": {
+          "def": "To forgive someone or to let them go without punishment.",
+          "examples": [
+            "The king pardoned the prisoner.",
+            "Please pardon the mess in my room.",
+            "The governor pardoned the man."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "parent",
     "say": "PAIR-unt",
     "forms": [
@@ -76,6 +275,56 @@
     ]
   },
   {
+    "word": "park",
+    "say": "park",
+    "emoji": "🏞️",
+    "forms": [
+      "parks",
+      "parked",
+      "parking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place outside with grass and trees to play.",
+          "examples": [
+            "We play at the park.",
+            "The park has swings.",
+            "Let's go to the park."
+          ]
+        },
+        "more": {
+          "def": "A public place with grass, trees and often playgrounds, where people go to play and relax.",
+          "examples": [
+            "We had a picnic in the park.",
+            "The park has a pond with ducks.",
+            "Kids play soccer at the park."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To leave a car in a place.",
+          "examples": [
+            "Dad parked the car.",
+            "We park here.",
+            "Please park by the tree."
+          ]
+        },
+        "more": {
+          "def": "To stop a vehicle and leave it in a place for a while.",
+          "examples": [
+            "Dad parked the car in front of the library.",
+            "You may not park by the fire hydrant.",
+            "We parked near the beach."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "part",
     "say": "part",
     "forms": [
@@ -98,6 +347,34 @@
             "The wheel is one part of the bicycle.",
             "Which part of the story did you like best?",
             "He ate a small part of the cake and saved the rest."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "partner",
+    "say": "PART-ner",
+    "forms": [
+      "partners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person you do something with.",
+          "examples": [
+            "My partner and I did the project.",
+            "Find a partner for the game.",
+            "She is my dance partner."
+          ]
+        },
+        "more": {
+          "def": "A person who does an activity or works together with you.",
+          "examples": [
+            "My science partner and I built a volcano.",
+            "Each dancer has a partner.",
+            "Choose a partner and sit together."
           ]
         }
       }

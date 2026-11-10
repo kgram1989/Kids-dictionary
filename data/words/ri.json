@@ -1,5 +1,82 @@
 [
   {
+    "word": "rich",
+    "say": "rich",
+    "forms": [
+      "richer",
+      "richest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having a lot of money.",
+          "examples": [
+            "The rich king had gold.",
+            "She is rich.",
+            "The rich family lived in a big house."
+          ]
+        },
+        "more": {
+          "def": "Having a lot of money or valuable things.",
+          "examples": [
+            "In the story, a rich king owned a golden castle.",
+            "The rich family lived in a huge mansion.",
+            "He worked hard and became rich."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Strong in taste.",
+          "examples": [
+            "A rich chocolate cake.",
+            "The soil is rich.",
+            "Rich soup is filling."
+          ]
+        },
+        "more": {
+          "def": "Full of flavor, or containing a lot of something good.",
+          "examples": [
+            "The rich chocolate cake was very sweet.",
+            "Rich soil helps plants grow.",
+            "The milk was rich and creamy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "rid",
+    "say": "rid",
+    "forms": [
+      "rids",
+      "ridding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To free from something you do not want.",
+          "examples": [
+            "We got rid of the old toys.",
+            "He rid the garden of weeds.",
+            "How do I get rid of hiccups?"
+          ]
+        },
+        "more": {
+          "def": "To free a place or person from something unwanted.",
+          "examples": [
+            "The farmer wanted to rid the field of weeds.",
+            "We got rid of the old boxes.",
+            "A good wash will rid your hands of germs."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ride",
     "say": "ryd",
     "emoji": "🚲",
@@ -64,6 +141,31 @@
             "The roller coaster was the tallest ride in the park.",
             "Tickets for each ride cost two coins.",
             "She was too small to go on the spinning ride."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ridiculous",
+    "say": "rih-DIK-yuh-lus",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very silly.",
+          "examples": [
+            "He wore a ridiculous hat.",
+            "It was a ridiculous idea.",
+            "The joke was ridiculous."
+          ]
+        },
+        "more": {
+          "def": "So silly or strange that it makes people laugh.",
+          "examples": [
+            "The clown wore a ridiculous pair of giant shoes.",
+            "It is ridiculous to wear a coat in July.",
+            "She told a ridiculous story about a flying cow."
           ]
         }
       }
@@ -178,6 +280,84 @@
             "The school bell rings at the end of the day.",
             "The phone rang three times before I answered.",
             "Church bells rang across the town."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "risk",
+    "say": "risk",
+    "forms": [
+      "risks",
+      "risked",
+      "risking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A chance that something bad may happen.",
+          "examples": [
+            "There is a risk of rain.",
+            "Climbing is a risk.",
+            "Skating on thin ice is a risk."
+          ]
+        },
+        "more": {
+          "def": "The chance that something bad or dangerous could happen.",
+          "examples": [
+            "There is a risk of rain on Saturday.",
+            "Climbing a tall ladder has some risk.",
+            "Divers know the risks of deep water."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To do something that may be dangerous.",
+          "examples": [
+            "He risked getting wet.",
+            "She risked a fall.",
+            "They risked the storm."
+          ]
+        },
+        "more": {
+          "def": "To do something even though something bad might happen.",
+          "examples": [
+            "He risked slipping on the icy path.",
+            "She risked missing the bus to help a friend.",
+            "The firefighter risked her safety to save the kitten."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "river",
+    "say": "RIV-er",
+    "emoji": "🏞️",
+    "forms": [
+      "rivers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long stream of water that flows to the sea.",
+          "examples": [
+            "The river is wide.",
+            "There is a boat on the river.",
+            "We fish in the river."
+          ]
+        },
+        "more": {
+          "def": "A large stream of water that flows across the land into a sea, a lake or a bigger stream.",
+          "examples": [
+            "The river winds through the valley.",
+            "Ducks swam down the river.",
+            "We crossed the river on a bridge."
           ]
         }
       }

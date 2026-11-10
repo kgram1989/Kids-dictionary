@@ -106,6 +106,35 @@
     ]
   },
   {
+    "word": "large",
+    "say": "larj",
+    "forms": [
+      "larger",
+      "largest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Big.",
+          "examples": [
+            "A large dog.",
+            "The box is large.",
+            "A large cup of milk."
+          ]
+        },
+        "more": {
+          "def": "Big in size or amount.",
+          "examples": [
+            "A large crowd gathered in the park.",
+            "The elephant is the largest land animal.",
+            "She ordered a large glass of milk."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "last",
     "say": "last",
     "senses": [
@@ -318,6 +347,83 @@
             "There is a law that cars must stop for school buses.",
             "The mayor signed a new law about recycling.",
             "Laws help keep people safe."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lawyer",
+    "say": "LOY-er",
+    "forms": [
+      "lawyers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person with a job helping people with the law.",
+          "examples": [
+            "The lawyer works in court.",
+            "My aunt is a lawyer.",
+            "A lawyer reads many laws."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to give advice about laws and speak for people in court.",
+          "examples": [
+            "My aunt is a lawyer who helps families.",
+            "The lawyer spoke to the judge.",
+            "Lawyers study the law for many years."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lay",
+    "say": "lay",
+    "forms": [
+      "lays",
+      "laid",
+      "laying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put something down gently.",
+          "examples": [
+            "Lay the book on the table.",
+            "Mom laid the baby in the crib.",
+            "Lay your coat here."
+          ]
+        },
+        "more": {
+          "def": "To put something down in a flat or careful way.",
+          "examples": [
+            "Lay the cards face down on the table.",
+            "She laid the baby in the crib.",
+            "Workers laid bricks in a neat row."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make an egg.",
+          "examples": [
+            "Hens lay eggs.",
+            "The hen laid an egg.",
+            "Birds lay eggs in nests."
+          ]
+        },
+        "more": {
+          "def": "To produce an egg from the body.",
+          "examples": [
+            "Chickens lay eggs almost every day.",
+            "The turtle crawled up the beach to lay her eggs.",
+            "Robins lay blue eggs in the spring."
           ]
         }
       }

@@ -1,5 +1,33 @@
 [
   {
+    "word": "victim",
+    "say": "VIK-tim",
+    "forms": [
+      "victims"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who was hurt.",
+          "examples": [
+            "Help came for the storm victims.",
+            "The victim of the prank laughed.",
+            "The victims got food and blankets."
+          ]
+        },
+        "more": {
+          "def": "A person who has been hurt, harmed or killed by something.",
+          "examples": [
+            "The victims of the flood were given food and blankets.",
+            "She was the victim of a prank but laughed it off.",
+            "Rescue teams helped the storm victims."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "victory",
     "say": "VIK-tuh-ree",
     "emoji": "🏆",
@@ -52,6 +80,55 @@
             "The village had one school, one shop, and a tiny post office.",
             "Fishing boats lined the shore of the village.",
             "Everyone in the village knows each other."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "visit",
+    "say": "VIZ-it",
+    "forms": [
+      "visits",
+      "visited",
+      "visiting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go see a person or a place.",
+          "examples": [
+            "We visit Grandma.",
+            "I visited the zoo.",
+            "They visit us every year."
+          ]
+        },
+        "more": {
+          "def": "To go and spend time with a person or at a place.",
+          "examples": [
+            "We visited the science museum on Saturday.",
+            "My cousins visit us every summer.",
+            "She visited her grandmother in the hospital."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A time when you go see someone.",
+          "examples": [
+            "We had a visit from Grandma.",
+            "The visit was fun.",
+            "My visit to the dentist was short."
+          ]
+        },
+        "more": {
+          "def": "A time spent with a person or in a place.",
+          "examples": [
+            "We enjoyed a visit from our cousins.",
+            "Our class made a visit to the farm.",
+            "Her visit to the museum lasted all day."
           ]
         }
       }

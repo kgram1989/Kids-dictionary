@@ -214,6 +214,72 @@
     ]
   },
   {
+    "word": "station",
+    "say": "STAY-shun",
+    "forms": [
+      "stations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where trains or buses stop.",
+          "examples": [
+            "We waited at the train station.",
+            "The bus station is busy.",
+            "The station is near our house."
+          ]
+        },
+        "more": {
+          "def": "A place where trains or buses stop to let people on and off.",
+          "examples": [
+            "We waited at the train station for Grandma.",
+            "The subway station was crowded.",
+            "The bus station is near the library."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where TV or radio shows come from.",
+          "examples": [
+            "My favorite radio station plays songs.",
+            "The TV station shows cartoons.",
+            "Turn to that station."
+          ]
+        },
+        "more": {
+          "def": "A company that sends out radio or TV programs.",
+          "examples": [
+            "My favorite radio station plays music all day.",
+            "The TV station reported on the parade.",
+            "She listens to a news station on the way to school."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A building where a group of workers does their job.",
+          "examples": [
+            "The fire station is down the street.",
+            "Firefighters live at the station.",
+            "We toured the police station."
+          ]
+        },
+        "more": {
+          "def": "A building or place used for a special kind of work, such as fighting fires.",
+          "examples": [
+            "The fire station is across from the school.",
+            "Scientists work at a weather station on the mountain.",
+            "The ranger station had maps of the park."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "stay",
     "say": "stay",
     "forms": [
@@ -554,6 +620,56 @@
     ]
   },
   {
+    "word": "store",
+    "say": "stor",
+    "emoji": "🏪",
+    "forms": [
+      "stores",
+      "stored",
+      "storing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where you buy things.",
+          "examples": [
+            "We went to the store.",
+            "The store sells shoes.",
+            "Mom bought milk at the store."
+          ]
+        },
+        "more": {
+          "def": "A place where things are sold.",
+          "examples": [
+            "The toy store has a huge train set.",
+            "We bought apples at the grocery store.",
+            "The store closes at nine."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To keep something for later.",
+          "examples": [
+            "Squirrels store nuts.",
+            "We store toys in a box.",
+            "Store the milk in the fridge."
+          ]
+        },
+        "more": {
+          "def": "To put something away and keep it until it is needed.",
+          "examples": [
+            "Squirrels store nuts for the winter.",
+            "We store our winter coats in the closet.",
+            "Camels store fat in their humps."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "story",
     "say": "STOR-ee",
     "forms": [
@@ -688,6 +804,55 @@
     ]
   },
   {
+    "word": "strike",
+    "say": "stryk",
+    "forms": [
+      "strikes",
+      "struck",
+      "striking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit something hard.",
+          "examples": [
+            "Lightning can strike a tree.",
+            "A rock struck the wall.",
+            "He struck the drum."
+          ]
+        },
+        "more": {
+          "def": "To hit something with force.",
+          "examples": [
+            "Lightning struck the old oak tree.",
+            "The ball struck the window.",
+            "She struck the match to light the candle."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A miss in baseball.",
+          "examples": [
+            "He swung and got a strike.",
+            "Three strikes and you are out.",
+            "The pitcher threw a strike."
+          ]
+        },
+        "more": {
+          "def": "In baseball, a pitch that the batter swings at and misses, or that crosses the plate without a swing.",
+          "examples": [
+            "The pitcher threw a fast strike over the plate.",
+            "Three strikes and the batter is out.",
+            "She swung and missed for strike two."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "strong",
     "say": "strong",
     "forms": [
@@ -756,6 +921,83 @@
             "He was too stubborn to admit that he was lost.",
             "The stubborn stain would not come out.",
             "The stubborn mule refused to cross the bridge."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "student",
+    "say": "STOO-dunt",
+    "forms": [
+      "students"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who goes to school.",
+          "examples": [
+            "The student reads a book.",
+            "Each student has a desk.",
+            "A new student joined our class."
+          ]
+        },
+        "more": {
+          "def": "A person who is learning at a school or college.",
+          "examples": [
+            "Every student received a new notebook.",
+            "The student raised her hand.",
+            "The new student sat by the window."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "study",
+    "say": "STUD-ee",
+    "forms": [
+      "studies",
+      "studied",
+      "studying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To learn by reading and thinking.",
+          "examples": [
+            "I study for my test.",
+            "She studies math.",
+            "We studied frogs."
+          ]
+        },
+        "more": {
+          "def": "To spend time learning about something by reading and thinking.",
+          "examples": [
+            "I study my spelling words every night.",
+            "Scientists study the stars with telescopes.",
+            "She studied maps to plan the trip."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Learning about something with care.",
+          "examples": [
+            "The study of space is fun.",
+            "Scientists did a study of bees.",
+            "Her study took an hour."
+          ]
+        },
+        "more": {
+          "def": "A careful look at something to learn about it.",
+          "examples": [
+            "The scientists published a study about bees.",
+            "A study of birds showed that many fly south.",
+            "Her study of the volcano took three years."
           ]
         }
       }

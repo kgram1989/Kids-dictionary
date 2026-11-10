@@ -211,6 +211,55 @@
     ]
   },
   {
+    "word": "pop",
+    "say": "pop",
+    "forms": [
+      "pops",
+      "popped",
+      "popping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To burst with a short sound.",
+          "examples": [
+            "The balloon popped.",
+            "Corn pops in the pan.",
+            "Bubbles pop."
+          ]
+        },
+        "more": {
+          "def": "To burst or break open with a quick, short sound.",
+          "examples": [
+            "The balloon popped and made me jump.",
+            "Popcorn kernels pop when they get hot.",
+            "I heard the soap bubbles pop."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short loud sound.",
+          "examples": [
+            "I heard a pop.",
+            "The balloon went pop.",
+            "A pop came from the fire."
+          ]
+        },
+        "more": {
+          "def": "A short, sharp sound like a small burst.",
+          "examples": [
+            "The cork came out with a loud pop.",
+            "We heard a pop from the fireplace.",
+            "The balloon burst with a pop."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "popular",
     "say": "POP-yuh-ler",
     "senses": [
@@ -230,6 +279,53 @@
             "That song is so popular that everyone knows the words.",
             "The beach is popular with tourists in summer.",
             "She is popular because she is friendly to everyone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "position",
+    "say": "puh-ZISH-un",
+    "forms": [
+      "positions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The place or way something is.",
+          "examples": [
+            "Stay in your position.",
+            "Put the ball in position.",
+            "I changed my sitting position."
+          ]
+        },
+        "more": {
+          "def": "The place where something is, or the way it is placed.",
+          "examples": [
+            "The players ran to their positions on the field.",
+            "Sit in a comfortable position.",
+            "Check the position of the hands on the clock."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A job.",
+          "examples": [
+            "She has a new position.",
+            "He applied for a position at the zoo.",
+            "The school has a position open."
+          ]
+        },
+        "more": {
+          "def": "A job in a company or group.",
+          "examples": [
+            "She applied for a position at the library.",
+            "He holds an important position at the bank.",
+            "The school has a position open for a cook."
           ]
         }
       }

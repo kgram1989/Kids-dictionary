@@ -55,6 +55,56 @@
     ]
   },
   {
+    "word": "information",
+    "say": "in-fer-MAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Facts about something.",
+          "examples": [
+            "I need information about frogs.",
+            "The sign gives information.",
+            "Ask for information."
+          ]
+        },
+        "more": {
+          "def": "Facts or details about something.",
+          "examples": [
+            "The library has information about every state.",
+            "Read the sign for information about the park.",
+            "I found information about frogs in a book."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "innocent",
+    "say": "IN-uh-sent",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not having done anything wrong.",
+          "examples": [
+            "The boy was innocent.",
+            "I am innocent.",
+            "The dog looked innocent."
+          ]
+        },
+        "more": {
+          "def": "Not guilty of a crime or wrongdoing; not having done what you are blamed for.",
+          "examples": [
+            "The detective proved that the boy was innocent.",
+            "I am innocent because I did not touch the cookies.",
+            "The innocent dog sat quietly."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "insect",
     "say": "IN-sekt",
     "emoji": "🐞",
@@ -128,6 +178,31 @@
     ]
   },
   {
+    "word": "instead",
+    "say": "in-STED",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In place of something.",
+          "examples": [
+            "I took an apple instead.",
+            "Let us walk instead.",
+            "She had tea instead of milk."
+          ]
+        },
+        "more": {
+          "def": "In place of something else.",
+          "examples": [
+            "It was raining, so we played inside instead.",
+            "I wanted pizza, but we had soup instead.",
+            "He walked instead of taking the bus."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "instrument",
     "say": "IN-struh-munt",
     "emoji": "🎺",
@@ -151,6 +226,103 @@
             "The violin is her favorite instrument to play.",
             "Every instrument in the band plays a different part.",
             "The dentist used a small instrument to check my teeth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "interest",
+    "say": "IN-trist",
+    "forms": [
+      "interests"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wish to know more.",
+          "examples": [
+            "She has an interest in space.",
+            "He lost interest.",
+            "He shows interest in bugs."
+          ]
+        },
+        "more": {
+          "def": "A feeling of wanting to learn about or take part in something.",
+          "examples": [
+            "She has a big interest in dinosaurs.",
+            "He lost interest in the game.",
+            "My interest in music began at age five."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you like to do.",
+          "examples": [
+            "My interests are art and soccer.",
+            "Her interests include chess.",
+            "He has many interests."
+          ]
+        },
+        "more": {
+          "def": "Something that you enjoy doing or learning about.",
+          "examples": [
+            "Her interests include painting and swimming.",
+            "Chess is one of his main interests.",
+            "We share an interest in birds."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "interested",
+    "say": "IN-trist-id",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wanting to know more.",
+          "examples": [
+            "I am interested in space.",
+            "She was interested in the book.",
+            "He is interested in birds."
+          ]
+        },
+        "more": {
+          "def": "Wanting to learn about or take part in something.",
+          "examples": [
+            "I am interested in learning to play the guitar.",
+            "She seemed interested in the bug on the leaf.",
+            "Are you interested in joining the choir?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "interesting",
+    "say": "IN-trist-ing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making you want to know more.",
+          "examples": [
+            "This is an interesting book.",
+            "The story is interesting.",
+            "I found an interesting bug."
+          ]
+        },
+        "more": {
+          "def": "Holding your attention and making you want to learn more.",
+          "examples": [
+            "The museum had an interesting display of old coins.",
+            "That was the most interesting book I have read.",
+            "She told us an interesting fact about whales."
           ]
         }
       }
@@ -268,6 +440,36 @@
             "We invited our new neighbors over for dinner.",
             "The neighbors invited us to their barbecue.",
             "She was invited to speak at the meeting."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "involve",
+    "say": "in-VOLV",
+    "forms": [
+      "involves",
+      "involved",
+      "involving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have something as a part.",
+          "examples": [
+            "The game involves running.",
+            "Baking involves measuring.",
+            "This job involves lots of walking."
+          ]
+        },
+        "more": {
+          "def": "To include something as a necessary part.",
+          "examples": [
+            "Playing the piano involves a lot of practice.",
+            "The project involves building a model volcano.",
+            "Camping involves sleeping in a tent."
           ]
         }
       }

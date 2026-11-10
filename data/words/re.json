@@ -1,5 +1,54 @@
 [
   {
+    "word": "reach",
+    "say": "reech",
+    "forms": [
+      "reaches",
+      "reached",
+      "reaching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stretch out your hand to get something.",
+          "examples": [
+            "I reach for the book.",
+            "He cannot reach the shelf.",
+            "Reach up high."
+          ]
+        },
+        "more": {
+          "def": "To stretch out your arm to touch or get something.",
+          "examples": [
+            "She reached for the top shelf.",
+            "The baby reached out to grab my finger.",
+            "I cannot reach the jar on the top shelf."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get to a place.",
+          "examples": [
+            "We reach the beach at noon.",
+            "The train reached the station.",
+            "When will you reach home?"
+          ]
+        },
+        "more": {
+          "def": "To arrive at a place, or to get as far as a certain point.",
+          "examples": [
+            "We reached the top of the mountain at noon.",
+            "The hikers reached the camp before dark.",
+            "The water in the tub reached my knees."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "read",
     "say": "reed",
     "forms": [
@@ -176,6 +225,36 @@
             "The reason the grass is wet is that it rained last night.",
             "He had a good reason for being late to class.",
             "Tell me the reason you chose that book."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "receive",
+    "say": "rih-SEEV",
+    "forms": [
+      "receives",
+      "received",
+      "receiving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get something that is sent or given.",
+          "examples": [
+            "I receive mail.",
+            "She received a gift.",
+            "He received a letter."
+          ]
+        },
+        "more": {
+          "def": "To get something that is given or sent to you.",
+          "examples": [
+            "I received a postcard from my cousin.",
+            "She received a prize for her painting.",
+            "We receive the newspaper every morning."
           ]
         }
       }
@@ -393,6 +472,34 @@
     ]
   },
   {
+    "word": "relationship",
+    "say": "rih-LAY-shun-ship",
+    "forms": [
+      "relationships"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How two people get along or are connected.",
+          "examples": [
+            "My sister and I have a close relationship.",
+            "The two dogs have a good relationship.",
+            "A teacher and student have a relationship."
+          ]
+        },
+        "more": {
+          "def": "The way that two people or things are connected or feel about each other.",
+          "examples": [
+            "She has a warm relationship with her grandfather.",
+            "Scientists study the relationship between plants and bees.",
+            "Brothers and sisters often have a close relationship."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "relax",
     "say": "rih-LAKS",
     "emoji": "🏖️",
@@ -424,6 +531,36 @@
     ]
   },
   {
+    "word": "release",
+    "say": "rih-LEESS",
+    "forms": [
+      "releases",
+      "released",
+      "releasing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let something go free.",
+          "examples": [
+            "Release the bird.",
+            "He released the balloon.",
+            "The zoo released the animal."
+          ]
+        },
+        "more": {
+          "def": "To let a person or animal go free, or to let go of something.",
+          "examples": [
+            "The girl released the butterfly into the garden.",
+            "The park ranger released the fish back into the river.",
+            "He released the balloon and watched it float up."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "remember",
     "say": "rih-MEM-ber",
     "forms": [
@@ -448,6 +585,55 @@
             "Remember to bring your lunch on the field trip.",
             "I cannot remember where I put my keys.",
             "She still remembers the song her grandmother taught her."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "remind",
+    "say": "rih-MYND",
+    "forms": [
+      "reminds",
+      "reminded",
+      "reminding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To help someone remember.",
+          "examples": [
+            "Remind me to call.",
+            "She reminded me.",
+            "Please remind him."
+          ]
+        },
+        "more": {
+          "def": "To make someone remember something.",
+          "examples": [
+            "Please remind me to bring my gym shoes.",
+            "My alarm reminds me to feed the fish.",
+            "She reminded him about the test."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone think of something.",
+          "examples": [
+            "You remind me of my sister.",
+            "This song reminds me of summer.",
+            "The smell reminds me of baking."
+          ]
+        },
+        "more": {
+          "def": "To make someone think of a person, place or thing.",
+          "examples": [
+            "That song reminds me of our trip.",
+            "The smell of pine reminds her of winter.",
+            "You remind me of my cousin."
           ]
         }
       }

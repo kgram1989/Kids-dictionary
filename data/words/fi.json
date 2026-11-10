@@ -1,5 +1,33 @@
 [
   {
+    "word": "field",
+    "say": "feeld",
+    "forms": [
+      "fields"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big open piece of land.",
+          "examples": [
+            "Cows are in the field.",
+            "We play in the field.",
+            "There is a field of flowers."
+          ]
+        },
+        "more": {
+          "def": "A large, open piece of land, often used for growing crops or playing sports.",
+          "examples": [
+            "Cows grazed in the green field.",
+            "A field of sunflowers stretched to the hills.",
+            "The soccer team practiced on the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fierce",
     "say": "feerss",
     "emoji": "🐯",
@@ -128,6 +156,200 @@
     ]
   },
   {
+    "word": "file",
+    "say": "fyl",
+    "forms": [
+      "files",
+      "filed",
+      "filing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A folder or box for papers.",
+          "examples": [
+            "Put the paper in the file.",
+            "The teacher has a file.",
+            "There is a file of papers."
+          ]
+        },
+        "more": {
+          "def": "A folder or case used to keep papers in order.",
+          "examples": [
+            "The teacher keeps each student's work in a file.",
+            "Mom put the bills in a file.",
+            "A file cabinet holds many folders."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Work that is saved on a computer.",
+          "examples": [
+            "I saved my file.",
+            "The file is big.",
+            "Open the file."
+          ]
+        },
+        "more": {
+          "def": "A collection of information or work that is stored on a computer.",
+          "examples": [
+            "I saved my story in a computer file.",
+            "The photo file is too large to send.",
+            "She opened the file and began to type."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fill",
+    "say": "fil",
+    "forms": [
+      "fills",
+      "filled",
+      "filling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something full.",
+          "examples": [
+            "Fill the cup.",
+            "I filled the tub.",
+            "Fill the bucket."
+          ]
+        },
+        "more": {
+          "def": "To put in so much that there is no more room.",
+          "examples": [
+            "Fill the glass with milk.",
+            "Dad filled the tank with gas.",
+            "She filled the basket with apples."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be in every part of a place.",
+          "examples": [
+            "Music fills the room.",
+            "Light filled the house.",
+            "Water filled the hole."
+          ]
+        },
+        "more": {
+          "def": "To take up all the space in a place.",
+          "examples": [
+            "Laughter filled the room.",
+            "The smell of bread filled the kitchen.",
+            "Sunlight filled the room."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "film",
+    "say": "film",
+    "forms": [
+      "films",
+      "filmed",
+      "filming"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A movie.",
+          "examples": [
+            "We watched a film.",
+            "The film was funny.",
+            "It is a film about animals."
+          ]
+        },
+        "more": {
+          "def": "A story told in moving pictures, shown on a screen; a movie.",
+          "examples": [
+            "We saw a film about penguins at the museum.",
+            "The film lasted nearly two hours.",
+            "She wrote a film about a talking tree."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To record moving pictures.",
+          "examples": [
+            "They film a show.",
+            "Dad filmed the parade.",
+            "We filmed the dog."
+          ]
+        },
+        "more": {
+          "def": "To record moving pictures with a camera.",
+          "examples": [
+            "Dad filmed the school play.",
+            "Scientists film the bees in the hive.",
+            "She filmed her dog doing tricks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "final",
+    "say": "FY-nul",
+    "forms": [
+      "finals"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Last.",
+          "examples": [
+            "This is the final page.",
+            "It is the final day of school.",
+            "It was the final game."
+          ]
+        },
+        "more": {
+          "def": "Coming at the end; last.",
+          "examples": [
+            "The final page of the book has a surprise.",
+            "The team won the final game of the season.",
+            "Friday is the final day of school."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The last game of a contest.",
+          "examples": [
+            "Our team is in the final.",
+            "She won the final.",
+            "The final starts at noon."
+          ]
+        },
+        "more": {
+          "def": "The last and deciding game or contest of a series.",
+          "examples": [
+            "Our team played in the final on Saturday.",
+            "She won the final in two sets.",
+            "Thousands of people watched the final."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "find",
     "say": "fynd",
     "forms": [
@@ -196,6 +418,35 @@
             "The spider spun a fine web between the two branches.",
             "The beach had fine white sand that felt soft under our feet.",
             "He drew the lines with a fine pen."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "finger",
+    "say": "FING-ger",
+    "emoji": "☝️",
+    "forms": [
+      "fingers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One of the parts at the end of your hand.",
+          "examples": [
+            "I have five fingers.",
+            "She pointed her finger.",
+            "He pricked his finger."
+          ]
+        },
+        "more": {
+          "def": "One of the long parts at the end of your hand, which you use to hold things.",
+          "examples": [
+            "She pointed her finger at the map.",
+            "A pianist moves her fingers quickly.",
+            "He wore a ring on his finger."
           ]
         }
       }
@@ -318,6 +569,107 @@
             "First, crack the eggs into a bowl.",
             "She arrived first and saved us all a seat.",
             "We first met when I was six."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fish",
+    "say": "fish",
+    "emoji": "🐟",
+    "forms": [
+      "fishes",
+      "fished",
+      "fishing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal that lives in water and swims with fins.",
+          "examples": [
+            "A fish swims.",
+            "We saw a fish.",
+            "The fish has scales."
+          ]
+        },
+        "more": {
+          "def": "An animal with fins and gills that lives in water.",
+          "examples": [
+            "A goldfish swam in the bowl.",
+            "Sharks are large fish with sharp teeth.",
+            "The fish hid among the rocks."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To try to catch food from the water.",
+          "examples": [
+            "We fish in the lake.",
+            "Dad fished all day.",
+            "I like to fish."
+          ]
+        },
+        "more": {
+          "def": "To try to catch animals from a river, lake or sea with a hook or net.",
+          "examples": [
+            "We fish in the river on Saturdays.",
+            "He fished all morning but caught nothing.",
+            "Pelicans fish by diving into the sea."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fit",
+    "say": "fit",
+    "forms": [
+      "fits",
+      "fitted",
+      "fitting",
+      "fitter",
+      "fittest"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be the right size.",
+          "examples": [
+            "The shoe fits.",
+            "The key fits the lock.",
+            "Does the hat fit?"
+          ]
+        },
+        "more": {
+          "def": "To be the right size or shape for something.",
+          "examples": [
+            "The new shoes fit well.",
+            "This key does not fit the lock.",
+            "Will all of the books fit in the bag?"
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Strong and healthy.",
+          "examples": [
+            "He runs to stay fit.",
+            "A fit dog can run far.",
+            "She is fit."
+          ]
+        },
+        "more": {
+          "def": "In good health, especially from exercise.",
+          "examples": [
+            "He runs every day to stay fit.",
+            "The fit athletes ran a long race.",
+            "She keeps fit by swimming."
           ]
         }
       }

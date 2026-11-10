@@ -55,6 +55,34 @@
     ]
   },
   {
+    "word": "weapon",
+    "say": "WEP-un",
+    "forms": [
+      "weapons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something used to fight or hurt.",
+          "examples": [
+            "A sword is a weapon.",
+            "Knights carried weapons.",
+            "Soldiers have weapons."
+          ]
+        },
+        "more": {
+          "def": "An object used to fight or to hurt someone.",
+          "examples": [
+            "A sword is a weapon from long ago.",
+            "The knights carried weapons into battle.",
+            "Some animals use horns as weapons."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wear",
     "say": "wair",
     "forms": [
@@ -227,6 +255,34 @@
     ]
   },
   {
+    "word": "weekend",
+    "say": "WEEK-end",
+    "forms": [
+      "weekends"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Saturday and Sunday.",
+          "examples": [
+            "We play on the weekend.",
+            "The weekend is fun.",
+            "See you this weekend."
+          ]
+        },
+        "more": {
+          "def": "Saturday and Sunday, the days when many people do not work or go to school.",
+          "examples": [
+            "We go hiking on the weekend.",
+            "She visits her grandma every weekend.",
+            "The weekend was rainy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "weird",
     "say": "weerd",
     "forms": [
@@ -382,6 +438,31 @@
             "Long ago, villagers carried buckets of water from the well.",
             "The farmer dug a new well near the barn.",
             "Oil comes from a deep well that goes far under the ground."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "west",
+    "say": "west",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The direction where the sun goes down.",
+          "examples": [
+            "The sun sets in the west.",
+            "We drove west.",
+            "Birds flew west."
+          ]
+        },
+        "more": {
+          "def": "The direction opposite to east, where the sun sets.",
+          "examples": [
+            "Storms often roll in from the west.",
+            "We drove west toward the mountains.",
+            "Pioneers traveled west in wagons."
           ]
         }
       }

@@ -224,6 +224,34 @@
     ]
   },
   {
+    "word": "player",
+    "say": "PLAY-er",
+    "forms": [
+      "players"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who plays a game.",
+          "examples": [
+            "The player kicked the ball.",
+            "Each player has a card.",
+            "She is a good player."
+          ]
+        },
+        "more": {
+          "def": "A person who takes part in a game or sport.",
+          "examples": [
+            "The soccer player scored a goal.",
+            "Each player picks a card.",
+            "The team has ten players."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "please",
     "say": "pleez",
     "senses": [
@@ -243,6 +271,59 @@
             "Please close the door quietly when you leave.",
             "Could I have some more water, please?",
             "Please be careful with the glass."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pleasure",
+    "say": "PLEZH-er",
+    "forms": [
+      "pleasures"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A happy feeling.",
+          "examples": [
+            "Reading gives me pleasure.",
+            "It is a pleasure to meet you.",
+            "She smiled with pleasure."
+          ]
+        },
+        "more": {
+          "def": "A feeling of happiness or enjoyment.",
+          "examples": [
+            "It was a pleasure to see you again.",
+            "Reading gives her great pleasure.",
+            "He splashed in the puddles with pleasure."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "plenty",
+    "say": "PLEN-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "More than enough.",
+          "examples": [
+            "We have plenty of food.",
+            "There is plenty of time.",
+            "There is plenty of room."
+          ]
+        },
+        "more": {
+          "def": "A large amount, as much as you need or more.",
+          "examples": [
+            "There is plenty of food for everyone.",
+            "We have plenty of time before the bus.",
+            "The pond has plenty of fish."
           ]
         }
       }

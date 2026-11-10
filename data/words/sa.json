@@ -1,5 +1,34 @@
 [
   {
+    "word": "sad",
+    "say": "sad",
+    "forms": [
+      "sadder",
+      "saddest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not happy.",
+          "examples": [
+            "I feel sad.",
+            "It was a sad story.",
+            "She is sad."
+          ]
+        },
+        "more": {
+          "def": "Feeling unhappy or causing unhappy feelings.",
+          "examples": [
+            "He felt sad when his friend moved away.",
+            "It was a sad movie about a lost puppy.",
+            "She was sad because the party was over."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "safe",
     "say": "sayf",
     "emoji": "🛡️",
@@ -43,6 +72,31 @@
             "The bank keeps gold coins in a big metal safe.",
             "Only my grandmother knows the code that opens the safe.",
             "The treasure was locked in an old safe in the attic."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sake",
+    "say": "sayk",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A reason for doing something.",
+          "examples": [
+            "We hurried for the sake of the baby.",
+            "Be careful for your own sake.",
+            "He stayed for his friend's sake."
+          ]
+        },
+        "more": {
+          "def": "The good or benefit of someone or something.",
+          "examples": [
+            "For the sake of the sleeping baby, we whispered.",
+            "She walked slowly for her grandmother's sake.",
+            "Do it for your own sake."
           ]
         }
       }

@@ -86,6 +86,53 @@
     ]
   },
   {
+    "word": "hall",
+    "say": "hawl",
+    "forms": [
+      "halls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long space inside a building.",
+          "examples": [
+            "Walk down the hall.",
+            "The hall is long.",
+            "We lined up in the hall."
+          ]
+        },
+        "more": {
+          "def": "A long passage inside a building with rooms on each side.",
+          "examples": [
+            "Please walk in the hall and do not run.",
+            "The classrooms are down the hall.",
+            "Coats hang in the hall."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big room for events.",
+          "examples": [
+            "We ate lunch in the hall.",
+            "The concert is in the hall.",
+            "The hall was full."
+          ]
+        },
+        "more": {
+          "def": "A large room used for meetings, shows or events.",
+          "examples": [
+            "The school held its concert in the hall.",
+            "A town meeting was held in the hall.",
+            "The great hall was full of guests."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hand",
     "say": "hand",
     "forms": [
@@ -386,6 +433,35 @@
             "Farmers harvest apples in the fall.",
             "We harvested tomatoes from our garden all summer.",
             "Workers harvest the grapes by hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hat",
+    "say": "hat",
+    "emoji": "🎩",
+    "forms": [
+      "hats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you wear on your head.",
+          "examples": [
+            "Wear a hat.",
+            "His hat is red.",
+            "The sun hat is big."
+          ]
+        },
+        "more": {
+          "def": "A covering that you wear on your head.",
+          "examples": [
+            "She wore a straw hat to keep off the sun.",
+            "He pulled his wool hat over his ears.",
+            "A tall hat sat on the clown's head."
           ]
         }
       }
