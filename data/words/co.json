@@ -304,6 +304,34 @@
     ]
   },
   {
+    "word": "cog",
+    "say": "kog",
+    "forms": [
+      "cogs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tooth on a wheel.",
+          "examples": [
+            "The cog turns.",
+            "The machine has a cog.",
+            "A cog is part of a gear."
+          ]
+        },
+        "more": {
+          "def": "One of the teeth on the edge of a wheel, or a wheel with such teeth, that fits into another.",
+          "examples": [
+            "The cog turned the next wheel.",
+            "The machine had many cogs.",
+            "A cog broke in the old clock."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "coin",
     "say": "koyn",
     "emoji": "🪙",
@@ -1899,6 +1927,56 @@
     ]
   },
   {
+    "word": "completely",
+    "say": "kum-PLEET-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "All the way.",
+          "examples": [
+            "The glass is completely full.",
+            "I am completely done.",
+            "It was completely dark."
+          ]
+        },
+        "more": {
+          "def": "In every way, totally.",
+          "examples": [
+            "The glass was completely full.",
+            "The room was completely dark.",
+            "I forgot completely about the test."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "complex",
+    "say": "kom-PLEKS",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having many parts.",
+          "examples": [
+            "The puzzle is complex.",
+            "A complex machine.",
+            "The map is complex."
+          ]
+        },
+        "more": {
+          "def": "Made up of many parts that work together, so that it is hard to understand.",
+          "examples": [
+            "The watch is a complex machine.",
+            "The rules of the game are complex.",
+            "The story had a complex plot."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "complicated",
     "say": "KOM-pluh-kay-tid",
     "senses": [
@@ -3198,6 +3276,31 @@
             "The constant rain kept us inside all week.",
             "A constant hum came from the machine.",
             "She is my constant friend through good times and bad."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "constantly",
+    "say": "KON-stunt-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "All the time.",
+          "examples": [
+            "The phone rang constantly.",
+            "She constantly asks questions.",
+            "The baby cried constantly."
+          ]
+        },
+        "more": {
+          "def": "In a way that goes on without stopping.",
+          "examples": [
+            "The phone rang constantly all morning.",
+            "She constantly asks questions about space.",
+            "The river flows constantly to the sea."
           ]
         }
       }

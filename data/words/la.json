@@ -603,6 +603,35 @@
     ]
   },
   {
+    "word": "laptop",
+    "say": "LAP-top",
+    "emoji": "💻",
+    "forms": [
+      "laptops"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small computer you can carry.",
+          "examples": [
+            "I use a laptop.",
+            "The laptop is on the table.",
+            "She has a laptop."
+          ]
+        },
+        "more": {
+          "def": "A small computer that folds shut and can be carried and used on your lap.",
+          "examples": [
+            "I used a laptop to write my report.",
+            "The laptop fits in my backpack.",
+            "She closed her laptop."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "large",
     "say": "larj",
     "forms": [
@@ -750,6 +779,31 @@
       {
         "word": "lateness",
         "def": "Being late."
+      }
+    ]
+  },
+  {
+    "word": "lately",
+    "say": "LAYT-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Not long ago.",
+          "examples": [
+            "I have been tired lately.",
+            "We have not seen him lately.",
+            "It has been warm lately."
+          ]
+        },
+        "more": {
+          "def": "Recently, in the past few days or weeks.",
+          "examples": [
+            "I have been very tired lately.",
+            "We have not seen our neighbor lately.",
+            "Have you read any good books lately?"
+          ]
+        }
       }
     ]
   },

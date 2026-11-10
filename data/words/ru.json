@@ -373,5 +373,34 @@
         }
       }
     ]
+  },
+  {
+    "word": "rusty",
+    "say": "RUS-tee",
+    "forms": [
+      "rustier",
+      "rustiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Covered with rust.",
+          "examples": [
+            "The gate is rusty.",
+            "The nail is rusty.",
+            "The old bike is rusty."
+          ]
+        },
+        "more": {
+          "def": "Covered with a reddish-brown coating that forms on iron when it gets wet.",
+          "examples": [
+            "The gate was rusty and squeaked.",
+            "A rusty nail lay in the grass.",
+            "The old bike was rusty from the rain."
+          ]
+        }
+      }
+    ]
   }
 ]

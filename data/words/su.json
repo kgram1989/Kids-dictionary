@@ -769,6 +769,36 @@
     ]
   },
   {
+    "word": "summon",
+    "say": "SUM-un",
+    "forms": [
+      "summons",
+      "summoned",
+      "summoning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To call for someone.",
+          "examples": [
+            "The king summoned the knight.",
+            "The bell summoned us.",
+            "She summoned the nurse."
+          ]
+        },
+        "more": {
+          "def": "To call someone to come to you, or to gather your strength.",
+          "examples": [
+            "The king summoned his knights to the castle.",
+            "The bell summoned us to class.",
+            "She summoned all her courage and spoke."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sun",
     "say": "sun",
     "emoji": "☀️",
@@ -876,6 +906,35 @@
             "It was a warm, sunny day at the beach.",
             "The sunny room was bright and cheerful.",
             "We sat in a sunny spot."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sunrise",
+    "say": "SUN-ryz",
+    "emoji": "🌅",
+    "forms": [
+      "sunrises"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When the sun comes up.",
+          "examples": [
+            "We woke up at sunrise.",
+            "The sunrise is pink.",
+            "I watched the sunrise."
+          ]
+        },
+        "more": {
+          "def": "The time in the morning when the sun first appears.",
+          "examples": [
+            "Fog lifted from the valley at sunrise.",
+            "The sky was pink at sunrise.",
+            "The birds sang at sunrise."
           ]
         }
       }
@@ -1273,6 +1332,31 @@
     ]
   },
   {
+    "word": "surely",
+    "say": "SHUR-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Without a doubt.",
+          "examples": [
+            "You will surely win.",
+            "Surely you are joking.",
+            "He will surely come."
+          ]
+        },
+        "more": {
+          "def": "Certainly, with no doubt.",
+          "examples": [
+            "You will surely win with all that practice.",
+            "Surely you remember my name.",
+            "She will surely be here by noon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "surf",
     "say": "serf",
     "emoji": "🏄",
@@ -1489,6 +1573,31 @@
     ]
   },
   {
+    "word": "surprisingly",
+    "say": "sur-PRY-zing-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that is not expected.",
+          "examples": [
+            "The test was surprisingly easy.",
+            "It was surprisingly cold.",
+            "She was surprisingly fast."
+          ]
+        },
+        "more": {
+          "def": "In a way that is a surprise.",
+          "examples": [
+            "The old car ran surprisingly well.",
+            "It was surprisingly cold in the cave.",
+            "The little dog was surprisingly fast."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "surrender",
     "say": "suh-REN-der",
     "forms": [
@@ -1543,6 +1652,55 @@
             "A moat surrounded the castle.",
             "Water surrounds the little island.",
             "Mountains surround the valley."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "survey",
+    "say": "SER-vay",
+    "forms": [
+      "surveys",
+      "surveyed",
+      "surveying"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A set of questions to find out what people think.",
+          "examples": [
+            "We took a survey.",
+            "The survey asked about pets.",
+            "The survey is short."
+          ]
+        },
+        "more": {
+          "def": "A set of questions that is asked of many people to find out what they think.",
+          "examples": [
+            "We took a survey about favorite pets.",
+            "The survey showed that most students like pizza.",
+            "The survey had five questions."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look carefully over an area.",
+          "examples": [
+            "He surveyed the field.",
+            "She surveyed the room.",
+            "They surveyed the land."
+          ]
+        },
+        "more": {
+          "def": "To look over or measure something carefully.",
+          "examples": [
+            "He surveyed the field from the hill.",
+            "She surveyed the room before leaving.",
+            "Workers surveyed the land for the new road."
           ]
         }
       }
