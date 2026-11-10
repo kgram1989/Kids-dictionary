@@ -53,6 +53,35 @@
     ]
   },
   {
+    "word": "ape",
+    "say": "ayp",
+    "emoji": "🦍",
+    "forms": [
+      "apes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large animal like a monkey but with no tail.",
+          "examples": [
+            "The ape swung.",
+            "A gorilla is an ape.",
+            "The ape sat in a tree."
+          ]
+        },
+        "more": {
+          "def": "A large animal with long arms and no tail, such as a gorilla or chimpanzee.",
+          "examples": [
+            "The ape swung from branch to branch.",
+            "Gorillas and chimpanzees are apes.",
+            "The ape peeled a banana."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "apologize",
     "say": "uh-POL-uh-jyz",
     "forms": [
@@ -209,6 +238,40 @@
     ]
   },
   {
+    "word": "appearance",
+    "say": "uh-PEER-unss",
+    "forms": [
+      "appearances"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How someone or something looks.",
+          "examples": [
+            "His appearance changed.",
+            "She cares about her appearance.",
+            "The house has a neat appearance."
+          ]
+        },
+        "more": {
+          "def": "The way that someone or something looks.",
+          "examples": [
+            "Her appearance changed after she cut her hair.",
+            "The house had a neat appearance.",
+            "You cannot tell a person's kindness by their appearance."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "reappearance",
+        "def": "Appearing again."
+      }
+    ]
+  },
+  {
     "word": "apple",
     "say": "AP-ul",
     "emoji": "🍎",
@@ -232,6 +295,53 @@
             "She picked a red apple from the tree.",
             "Apple pie is my favorite dessert.",
             "A worm crawled out of the apple."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "application",
+    "say": "ap-lih-KAY-shun",
+    "forms": [
+      "applications"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A form you fill in to ask for something.",
+          "examples": [
+            "I filled out an application.",
+            "She sent in her application.",
+            "The application is for a job."
+          ]
+        },
+        "more": {
+          "def": "A written request, often a form, for a job, a school or a place in a program.",
+          "examples": [
+            "She filled out an application for the summer camp.",
+            "The application asks for your name and age.",
+            "He sent in an application to join the club."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way of using something.",
+          "examples": [
+            "The application of the paint is easy.",
+            "The application of glue is simple.",
+            "The application of the rule is clear."
+          ]
+        },
+        "more": {
+          "def": "The act of putting something to use, or putting something onto a surface.",
+          "examples": [
+            "The application of two coats of paint made the wall bright.",
+            "The teacher showed us a practical application of math.",
+            "The application of cream soothed the sting."
           ]
         }
       }
@@ -388,6 +498,34 @@
             "She has a fun approach to teaching math.",
             "A good approach is to ask for help.",
             "We tried a new approach to the puzzle."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "appropriate",
+    "say": "uh-PROH-pree-it",
+    "forms": [
+      "appropriately"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Right for a certain time or place.",
+          "examples": [
+            "A coat is appropriate for snow.",
+            "That is not appropriate.",
+            "Wear appropriate shoes."
+          ]
+        },
+        "more": {
+          "def": "Suitable and right for a certain time, place or purpose.",
+          "examples": [
+            "A heavy coat is appropriate for snowy days.",
+            "Quiet talk is appropriate in the library.",
+            "Wear shoes that are appropriate for hiking."
           ]
         }
       }

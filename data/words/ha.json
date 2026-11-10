@@ -57,6 +57,56 @@
     ]
   },
   {
+    "word": "hail",
+    "say": "hayl",
+    "emoji": "🌨️",
+    "forms": [
+      "hails",
+      "hailed",
+      "hailing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Small balls of ice that fall like rain.",
+          "examples": [
+            "Hail hit the car.",
+            "It is hailing outside.",
+            "The hail was loud."
+          ]
+        },
+        "more": {
+          "def": "Small, hard balls of ice that fall from the sky in a storm.",
+          "examples": [
+            "Hail rattled on the roof.",
+            "The hail was as big as peas.",
+            "The storm brought rain and hail."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To call out to get someone's attention.",
+          "examples": [
+            "I hail a taxi.",
+            "She hailed a cab.",
+            "He hailed his friend."
+          ]
+        },
+        "more": {
+          "def": "To call out or signal to someone to get their attention.",
+          "examples": [
+            "She hailed a taxi on the corner.",
+            "The captain hailed the other ship.",
+            "He hailed his friend across the street."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hair",
     "say": "hair",
     "emoji": "💇",

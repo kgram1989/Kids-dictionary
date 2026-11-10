@@ -1,5 +1,54 @@
 [
   {
+    "word": "pace",
+    "say": "payss",
+    "forms": [
+      "paces",
+      "paced",
+      "pacing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How fast you move.",
+          "examples": [
+            "We walked at a fast pace.",
+            "The pace is slow.",
+            "Keep the same pace."
+          ]
+        },
+        "more": {
+          "def": "The speed at which you walk, run or do something.",
+          "examples": [
+            "We walked at a quick pace to catch the bus.",
+            "The runner kept a steady pace.",
+            "The teacher slowed the pace of the lesson."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To walk back and forth.",
+          "examples": [
+            "He paces the floor.",
+            "She paced when she was nervous.",
+            "The lion paced in its cage."
+          ]
+        },
+        "more": {
+          "def": "To walk back and forth in a small space, often because you are nervous.",
+          "examples": [
+            "He paced the floor while waiting for the phone call.",
+            "The tiger paced back and forth in its pen.",
+            "She paced the hall before her speech."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pack",
     "say": "pak",
     "forms": [
@@ -173,6 +222,34 @@
             "I felt a sharp pain in my foot.",
             "The medicine took away the pain.",
             "She had a pain in her tooth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "painful",
+    "say": "PAYN-ful",
+    "forms": [
+      "painfully"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Hurting.",
+          "examples": [
+            "My sore toe is painful.",
+            "The shot was painful.",
+            "It is painful to walk."
+          ]
+        },
+        "more": {
+          "def": "Causing pain or hurting a lot.",
+          "examples": [
+            "The splinter in my finger was painful.",
+            "Walking on the hot sand was painful.",
+            "A sunburn can be painful."
           ]
         }
       }
@@ -390,6 +467,64 @@
     ]
   },
   {
+    "word": "pan",
+    "say": "pan",
+    "emoji": "🍳",
+    "forms": [
+      "pans"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat dish for cooking.",
+          "examples": [
+            "Mom cooked eggs in a pan.",
+            "The pan is hot.",
+            "I washed the pan."
+          ]
+        },
+        "more": {
+          "def": "A flat, wide container with a handle that is used for cooking.",
+          "examples": [
+            "Mom cooked pancakes in a pan.",
+            "The pan was too hot to touch.",
+            "He washed the frying pan."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pancake",
+    "say": "PAN-kayk",
+    "emoji": "🥞",
+    "forms": [
+      "pancakes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat, round cake that you cook in a pan.",
+          "examples": [
+            "I eat pancakes.",
+            "The pancake is round.",
+            "Dad flipped a pancake."
+          ]
+        },
+        "more": {
+          "def": "A thin, flat cake made of batter and cooked in a pan, often eaten at breakfast.",
+          "examples": [
+            "We had pancakes and syrup for breakfast.",
+            "Dad flipped the pancake in the air.",
+            "She stacked three pancakes on her plate."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "panic",
     "say": "PAN-ik",
     "forms": [
@@ -535,6 +670,64 @@
             "Grandpa reads the paper while he drinks his tea.",
             "The local paper wrote about our school fair.",
             "Our neighbor delivers the paper every morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "parade",
+    "say": "puh-RAYD",
+    "emoji": "🎉",
+    "forms": [
+      "parades"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A line of people, bands or floats that moves along a street.",
+          "examples": [
+            "We watched the parade.",
+            "The parade has a band.",
+            "The parade is long."
+          ]
+        },
+        "more": {
+          "def": "A show in which bands, floats and people move along a street for people to watch.",
+          "examples": [
+            "We watched the parade on the Fourth of July.",
+            "The band marched in the parade.",
+            "A float with a giant dragon led the parade."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "paradise",
+    "say": "PAIR-uh-dyss",
+    "emoji": "🏝️",
+    "forms": [
+      "paradises"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A perfect place.",
+          "examples": [
+            "The island is a paradise.",
+            "The beach was paradise.",
+            "A garden paradise."
+          ]
+        },
+        "more": {
+          "def": "A place that is as beautiful and perfect as you could wish.",
+          "examples": [
+            "The island felt like a paradise.",
+            "The beach was a paradise for the kids.",
+            "Her garden was a paradise of flowers."
           ]
         }
       }
@@ -937,6 +1130,35 @@
     ]
   },
   {
+    "word": "passport",
+    "say": "PASS-port",
+    "emoji": "🛂",
+    "forms": [
+      "passports"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small book that lets you travel to other countries.",
+          "examples": [
+            "I need a passport.",
+            "The passport has my picture.",
+            "The passport is blue."
+          ]
+        },
+        "more": {
+          "def": "A small official book that shows who you are and lets you travel between countries.",
+          "examples": [
+            "I showed my passport at the airport.",
+            "The passport has my photo and name.",
+            "We got stamps in our passports."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "past",
     "say": "past",
     "forms": [
@@ -1249,6 +1471,34 @@
             "We paid for our tickets at the door.",
             "The bakery pays its workers every Friday.",
             "I used my savings to pay for the new bike."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "payment",
+    "say": "PAY-munt",
+    "forms": [
+      "payments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money you give for something.",
+          "examples": [
+            "Make a payment.",
+            "The payment was due.",
+            "He made a payment on the car."
+          ]
+        },
+        "more": {
+          "def": "An amount of money that you give to pay for something.",
+          "examples": [
+            "Dad made a payment on the car.",
+            "We got the bill and sent a payment.",
+            "The shop takes cash as payment."
           ]
         }
       }

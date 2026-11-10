@@ -233,6 +233,82 @@
     ]
   },
   {
+    "word": "dime",
+    "say": "dym",
+    "emoji": "🪙",
+    "forms": [
+      "dimes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A coin worth ten cents.",
+          "examples": [
+            "I found a dime.",
+            "A dime is ten cents.",
+            "I put a dime in the jar."
+          ]
+        },
+        "more": {
+          "def": "A small coin worth ten cents.",
+          "examples": [
+            "I found a dime under the couch.",
+            "Ten dimes make a dollar.",
+            "She paid for the sticker with two dimes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "diner",
+    "say": "DY-ner",
+    "forms": [
+      "diners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small place to eat simple meals.",
+          "examples": [
+            "We ate breakfast at a diner.",
+            "The diner serves pancakes.",
+            "The diner is open all night."
+          ]
+        },
+        "more": {
+          "def": "A small restaurant that serves simple meals, often with long counters.",
+          "examples": [
+            "We ate pancakes at the diner.",
+            "The diner at the corner is famous for its milkshakes.",
+            "A waitress poured coffee at the diner counter."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is eating at a restaurant.",
+          "examples": [
+            "The diner ordered soup.",
+            "The diners enjoyed the meal.",
+            "A diner waved to the waiter."
+          ]
+        },
+        "more": {
+          "def": "A person who is eating a meal in a restaurant.",
+          "examples": [
+            "The diner ordered the soup of the day.",
+            "The diners enjoyed the fresh bread.",
+            "A diner asked the waiter for more water."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dinner",
     "say": "DIN-er",
     "forms": [
@@ -644,6 +720,34 @@
             "The class discussed the story after reading it.",
             "Let us discuss where to go for lunch.",
             "The family discussed their vacation plans."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "discussion",
+    "say": "dis-KUSH-un",
+    "forms": [
+      "discussions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A talk about something.",
+          "examples": [
+            "We had a class discussion.",
+            "The discussion was about the park.",
+            "Everyone joined the discussion."
+          ]
+        },
+        "more": {
+          "def": "A talk in which people share ideas about something.",
+          "examples": [
+            "We had a class discussion about the story.",
+            "The discussion lasted half an hour.",
+            "Everyone joined the discussion about the new rule."
           ]
         }
       }

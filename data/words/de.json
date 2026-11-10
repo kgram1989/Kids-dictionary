@@ -25,6 +25,41 @@
     ]
   },
   {
+    "word": "deaf",
+    "say": "def",
+    "forms": [
+      "deafer",
+      "deafest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not able to hear.",
+          "examples": [
+            "The deaf girl used sign language.",
+            "He is deaf.",
+            "The deaf dog did not hear me."
+          ]
+        },
+        "more": {
+          "def": "Not able to hear, or not able to hear well.",
+          "examples": [
+            "The deaf girl talked using sign language.",
+            "Some deaf people read lips.",
+            "The old dog is nearly deaf."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "deafness",
+        "def": "Not being able to hear."
+      }
+    ]
+  },
+  {
     "word": "deal",
     "say": "deel",
     "forms": [
@@ -736,6 +771,32 @@
     ]
   },
   {
+    "word": "delighted",
+    "say": "dih-LY-tid",
+    "emoji": "😄",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very, very happy.",
+          "examples": [
+            "I was delighted with my gift.",
+            "She was delighted.",
+            "He is delighted."
+          ]
+        },
+        "more": {
+          "def": "Feeling great pleasure and joy.",
+          "examples": [
+            "I was delighted with my new puppy.",
+            "She was delighted to see her friends.",
+            "The children were delighted by the clown's tricks."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "deliver",
     "say": "dih-LIV-er",
     "forms": [
@@ -960,6 +1021,55 @@
     ]
   },
   {
+    "word": "deposit",
+    "say": "dih-POZ-it",
+    "forms": [
+      "deposits",
+      "deposited",
+      "depositing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put something in a place.",
+          "examples": [
+            "Deposit your coins in the slot.",
+            "She deposited money in the bank.",
+            "I deposited my coat on the chair."
+          ]
+        },
+        "more": {
+          "def": "To put something down or into a place, especially money in a bank.",
+          "examples": [
+            "He deposited his paycheck at the bank on Friday.",
+            "The river deposited mud on the field.",
+            "Deposit your coins in the machine."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money you put in the bank.",
+          "examples": [
+            "I made a deposit.",
+            "The deposit is ten dollars.",
+            "Dad made a deposit at the bank."
+          ]
+        },
+        "more": {
+          "def": "An amount of money that you put into a bank account.",
+          "examples": [
+            "She made a deposit of fifty dollars into her savings.",
+            "The deposit was added to her savings.",
+            "A deposit holds your place until you pay the rest."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "depressed",
     "say": "dih-PREST",
     "senses": [
@@ -1037,6 +1147,34 @@
             "She described the storm so well that we could almost hear the thunder.",
             "The witness described the car to the police.",
             "Can you describe how the soup tastes?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "description",
+    "say": "dih-SKRIP-shun",
+    "forms": [
+      "descriptions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words that tell what something is like.",
+          "examples": [
+            "Write a description of your pet.",
+            "The description was clear.",
+            "He gave a description."
+          ]
+        },
+        "more": {
+          "def": "Words that tell what a person, place or thing is like.",
+          "examples": [
+            "Write a description of your favorite toy.",
+            "The police asked for a description of the missing dog.",
+            "Her description of the beach made us want to visit."
           ]
         }
       }
@@ -1263,6 +1401,31 @@
     ]
   },
   {
+    "word": "despite",
+    "say": "dih-SPYT",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Even though something was in the way.",
+          "examples": [
+            "We went despite the rain.",
+            "He smiled despite his sore knee.",
+            "They played despite the cold."
+          ]
+        },
+        "more": {
+          "def": "In spite of something, even though it might have stopped you.",
+          "examples": [
+            "We went to the park despite the rain.",
+            "He finished the race despite a sore foot.",
+            "She smiled despite feeling tired."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dessert",
     "say": "dih-ZERT",
     "emoji": "🍰",
@@ -1479,6 +1642,34 @@
             "Scientists developed a new medicine.",
             "She develops computer games.",
             "He developed a plan for the garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "development",
+    "say": "dih-VEL-up-munt",
+    "forms": [
+      "developments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Growing or changing over time.",
+          "examples": [
+            "The development of a baby is amazing.",
+            "The development of the town was fast.",
+            "Plant development takes time."
+          ]
+        },
+        "more": {
+          "def": "The process of growing or changing into something better or bigger.",
+          "examples": [
+            "A baby's development is fast in the first year.",
+            "The development of the town brought new stores.",
+            "Scientists study the development of frogs from tadpoles."
           ]
         }
       }

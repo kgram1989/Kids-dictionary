@@ -59,6 +59,55 @@
     ]
   },
   {
+    "word": "drain",
+    "say": "drayn",
+    "forms": [
+      "drains",
+      "drained",
+      "draining"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hole that water runs down.",
+          "examples": [
+            "The water goes down the drain.",
+            "The drain is blocked.",
+            "A hair is in the drain."
+          ]
+        },
+        "more": {
+          "def": "A pipe or opening that lets water flow away.",
+          "examples": [
+            "The water ran down the drain.",
+            "The leaves blocked the drain in the street.",
+            "The plumber cleared the drain."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let water run out.",
+          "examples": [
+            "I drain the sink.",
+            "We drained the pool.",
+            "The pasta needs to drain."
+          ]
+        },
+        "more": {
+          "def": "To make liquid flow out of something.",
+          "examples": [
+            "Drain the water from the pasta.",
+            "We drained the bathtub after our bath.",
+            "The rain drained away down the hill."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drama",
     "say": "DRAH-muh",
     "emoji": "🎭",
@@ -140,6 +189,34 @@
       {
         "word": "redraw",
         "def": "To draw again."
+      }
+    ]
+  },
+  {
+    "word": "drawer",
+    "say": "DROR",
+    "forms": [
+      "drawers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A box in a table that slides in and out.",
+          "examples": [
+            "The socks are in the drawer.",
+            "Open the drawer.",
+            "The drawer is full of toys."
+          ]
+        },
+        "more": {
+          "def": "A box without a top that slides in and out of a piece of furniture.",
+          "examples": [
+            "The socks are in the top drawer.",
+            "He pulled open the kitchen drawer.",
+            "The desk has three drawers."
+          ]
+        }
       }
     ]
   },

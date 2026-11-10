@@ -1,5 +1,69 @@
 [
   {
+    "word": "scan",
+    "say": "skan",
+    "forms": [
+      "scans",
+      "scanned",
+      "scanning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look quickly over something.",
+          "examples": [
+            "I scan the page.",
+            "She scanned the room for her friend.",
+            "He scanned the list."
+          ]
+        },
+        "more": {
+          "def": "To look quickly over something to find a certain thing, or to copy it with a machine.",
+          "examples": [
+            "He scanned the menu for something he liked.",
+            "He scanned the page for his name.",
+            "The clerk scanned the bar code at the store."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "scanner",
+        "def": "A machine that scans."
+      }
+    ]
+  },
+  {
+    "word": "scar",
+    "say": "skar",
+    "forms": [
+      "scars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mark left on skin after a cut heals.",
+          "examples": [
+            "I have a scar on my knee.",
+            "The scar is small.",
+            "He got a scar from falling."
+          ]
+        },
+        "more": {
+          "def": "A mark that stays on the skin after an injury has healed.",
+          "examples": [
+            "I have a scar on my knee from falling off my bike.",
+            "The old scar looked like a thin line.",
+            "The tree had a scar where a branch broke off."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scare",
     "say": "skair",
     "forms": [
@@ -324,6 +388,55 @@
       {
         "word": "scoreless",
         "def": "With no points scored."
+      }
+    ]
+  },
+  {
+    "word": "scout",
+    "say": "skowt",
+    "forms": [
+      "scouts",
+      "scouted",
+      "scouting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person sent ahead to find things out.",
+          "examples": [
+            "The scout looked for a path.",
+            "The scout rode ahead.",
+            "A scout watched for danger."
+          ]
+        },
+        "more": {
+          "def": "A person who goes ahead of a group to find out what is there.",
+          "examples": [
+            "The scout rode ahead to find a safe path.",
+            "A scout climbed the hill to look around.",
+            "The explorers sent a scout to find water."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A member of a youth group that learns outdoor skills.",
+          "examples": [
+            "I am in the scouts.",
+            "The scouts went camping.",
+            "She is a scout."
+          ]
+        },
+        "more": {
+          "def": "A young person in a group that teaches outdoor skills and helping others.",
+          "examples": [
+            "The scouts went camping by the lake.",
+            "My brother is a scout and earned a badge.",
+            "The scouts picked up trash in the park."
+          ]
+        }
       }
     ]
   },

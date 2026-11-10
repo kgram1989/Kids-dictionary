@@ -277,6 +277,55 @@
     ]
   },
   {
+    "word": "rear",
+    "say": "reer",
+    "forms": [
+      "rears",
+      "reared",
+      "rearing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The back part of something.",
+          "examples": [
+            "The seat is at the rear of the bus.",
+            "The rear of the car is dirty.",
+            "The garden is at the rear of the house."
+          ]
+        },
+        "more": {
+          "def": "The back part of something.",
+          "examples": [
+            "The seat at the rear of the bus is bumpy.",
+            "There is a small garden at the rear of the house.",
+            "The line stretched to the rear of the room."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stand up on the back legs.",
+          "examples": [
+            "The horse reared up.",
+            "The pony reared.",
+            "The horse reared in surprise."
+          ]
+        },
+        "more": {
+          "def": "To rise up on the back legs, as a horse does.",
+          "examples": [
+            "The horse reared up when it heard the loud noise.",
+            "The pony reared and then calmed down.",
+            "The bear reared on its hind legs."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "reason",
     "say": "REE-zun",
     "forms": [
@@ -387,6 +436,64 @@
             "I received a postcard from my cousin.",
             "She received a prize for her painting.",
             "We receive the newspaper every morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "recent",
+    "say": "REE-sunt",
+    "forms": [
+      "recently"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happening a short time ago.",
+          "examples": [
+            "The recent snow is melting.",
+            "I read a recent book.",
+            "A recent storm fell."
+          ]
+        },
+        "more": {
+          "def": "Happening or done not long ago.",
+          "examples": [
+            "The recent snow is still on the ground.",
+            "I read a recent book about whales.",
+            "She told us about her recent trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "reckon",
+    "say": "REK-un",
+    "forms": [
+      "reckons",
+      "reckoned",
+      "reckoning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To think or guess.",
+          "examples": [
+            "I reckon it will rain.",
+            "She reckons it is noon.",
+            "I reckon we are close."
+          ]
+        },
+        "more": {
+          "def": "To think that something is probably true.",
+          "examples": [
+            "I reckon it will rain soon.",
+            "She reckons we will be there by noon.",
+            "He reckoned the trip would take an hour."
           ]
         }
       }
@@ -721,6 +828,53 @@
     ]
   },
   {
+    "word": "reference",
+    "say": "REF-er-unss",
+    "forms": [
+      "references"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mention of something.",
+          "examples": [
+            "She made a reference to the book.",
+            "He made a reference to the game.",
+            "The teacher made a reference to the map."
+          ]
+        },
+        "more": {
+          "def": "A mention of someone or something in speech or writing.",
+          "examples": [
+            "She made a reference to the book in her talk.",
+            "The story has a reference to an old fairy tale.",
+            "He made a funny reference to the movie."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A book you use to find facts.",
+          "examples": [
+            "A dictionary is a reference book.",
+            "I used a reference.",
+            "The library has references."
+          ]
+        },
+        "more": {
+          "def": "A book or source that gives you facts and information.",
+          "examples": [
+            "An atlas is a handy reference for finding countries.",
+            "She used an encyclopedia as a reference.",
+            "The librarian showed us the reference section."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "reflect",
     "say": "rih-FLEKT",
     "emoji": "🪞",
@@ -917,6 +1071,64 @@
     ]
   },
   {
+    "word": "rehearsal",
+    "say": "rih-HER-sul",
+    "forms": [
+      "rehearsals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Practice before a show.",
+          "examples": [
+            "We have a rehearsal today.",
+            "The rehearsal for the play is after school.",
+            "The band had a rehearsal."
+          ]
+        },
+        "more": {
+          "def": "Practice of a play, song or show before you do it for an audience.",
+          "examples": [
+            "The cast had a long rehearsal before opening night.",
+            "The band held a rehearsal in the garage.",
+            "After many rehearsals, the dance was perfect."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "reject",
+    "say": "rih-JEKT",
+    "forms": [
+      "rejects",
+      "rejected",
+      "rejecting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say no to something.",
+          "examples": [
+            "I reject the offer.",
+            "They rejected the idea.",
+            "The machine rejected my coin."
+          ]
+        },
+        "more": {
+          "def": "To refuse to accept something, or to say no.",
+          "examples": [
+            "They rejected the plan because it cost too much.",
+            "The machine rejected my dollar.",
+            "The editor rejected the story."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "relate",
     "say": "rih-LAYT",
     "forms": [
@@ -960,6 +1172,53 @@
             "The story relates to the rainforest.",
             "Cooking relates to math because you measure things.",
             "The teacher showed how the two ideas relate."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "relation",
+    "say": "rih-LAY-shun",
+    "forms": [
+      "relations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How two things are connected.",
+          "examples": [
+            "What is the relation between the two?",
+            "The relation is clear.",
+            "There is a relation between rain and floods."
+          ]
+        },
+        "more": {
+          "def": "The way in which two or more things are connected to each other.",
+          "examples": [
+            "There is a relation between sleep and health.",
+            "What is the relation between the two numbers?",
+            "The relation between the two friends is strong."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person in your family.",
+          "examples": [
+            "He is a relation of mine.",
+            "My cousin is a relation.",
+            "I met a relation at the party."
+          ]
+        },
+        "more": {
+          "def": "A person who belongs to the same family as you.",
+          "examples": [
+            "He is a distant relation of mine.",
+            "We invited all our relations to the party.",
+            "My cousin is a close relation."
           ]
         }
       }
@@ -1083,6 +1342,34 @@
     ]
   },
   {
+    "word": "relief",
+    "say": "rih-LEEF",
+    "forms": [
+      "reliefs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The good feeling when something bad stops.",
+          "examples": [
+            "I felt relief when the test ended.",
+            "It was a relief to be home.",
+            "The rain brought relief."
+          ]
+        },
+        "more": {
+          "def": "A feeling of comfort when worry or pain goes away.",
+          "examples": [
+            "I felt relief when the test was over.",
+            "The cool breeze was a relief on the hot day.",
+            "It was a relief to find my lost dog."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "relieve",
     "say": "rih-LEEV",
     "forms": [
@@ -1107,6 +1394,62 @@
             "The cool cloth relieved the sting.",
             "The good news relieved her worry.",
             "Medicine can relieve a cough."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "religion",
+    "say": "rih-LIJ-un",
+    "forms": [
+      "religions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A belief in a god or gods, and the way people worship.",
+          "examples": [
+            "Many people follow a religion.",
+            "Each religion has holy days.",
+            "Religion is important to her."
+          ]
+        },
+        "more": {
+          "def": "A system of beliefs and ways of worshipping that people follow.",
+          "examples": [
+            "A temple, church or mosque is where people practice a religion.",
+            "Each religion has its own holy days.",
+            "The class learned about different religions."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "religious",
+    "say": "rih-LIJ-us",
+    "forms": [
+      "religiously"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with religion.",
+          "examples": [
+            "A church is a religious place.",
+            "She has religious books.",
+            "The religious holiday is in spring."
+          ]
+        },
+        "more": {
+          "def": "Having to do with a religion, or following one closely.",
+          "examples": [
+            "A church is a religious building.",
+            "The family celebrates a religious holiday in the spring.",
+            "He is a religious person who prays every day."
           ]
         }
       }
@@ -1216,6 +1559,55 @@
             "That song reminds me of our trip.",
             "The smell of pine reminds her of winter.",
             "You remind me of my cousin."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "remote",
+    "say": "rih-MOHT",
+    "forms": [
+      "remoter",
+      "remotest",
+      "remotely"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Far away.",
+          "examples": [
+            "The cabin is remote.",
+            "They live in a remote village.",
+            "The island is remote."
+          ]
+        },
+        "more": {
+          "def": "Far away from towns or other places.",
+          "examples": [
+            "The cabin is in a remote part of the forest.",
+            "They live in a remote village in the mountains.",
+            "The remote island has no roads."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small tool for changing the TV from far away.",
+          "examples": [
+            "Where is the remote?",
+            "I pressed the remote.",
+            "The remote needs batteries."
+          ]
+        },
+        "more": {
+          "def": "A small device that you use to control a television or toy from a distance.",
+          "examples": [
+            "I changed the channel with the remote.",
+            "The remote needs new batteries.",
+            "The toy car has a remote."
           ]
         }
       }
@@ -1793,6 +2185,55 @@
     ]
   },
   {
+    "word": "reserve",
+    "say": "rih-ZERV",
+    "forms": [
+      "reserves",
+      "reserved",
+      "reserving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To keep something for someone.",
+          "examples": [
+            "We reserved a table.",
+            "I reserved a seat.",
+            "She reserved a room."
+          ]
+        },
+        "more": {
+          "def": "To arrange to keep something such as a table or a seat for someone.",
+          "examples": [
+            "We reserved a table for six at the restaurant.",
+            "Please reserve a seat for me.",
+            "She reserved a room at the hotel."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A supply that you save for later.",
+          "examples": [
+            "We have a reserve of food.",
+            "The reserve of water is low.",
+            "Dad keeps a reserve of money."
+          ]
+        },
+        "more": {
+          "def": "An extra supply of something that is kept for when it is needed.",
+          "examples": [
+            "We keep a reserve of food in the pantry.",
+            "The camp has a reserve of water in case of trouble.",
+            "The team had a strong player in reserve."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "resist",
     "say": "rih-ZIST",
     "forms": [
@@ -2239,6 +2680,61 @@
     ]
   },
   {
+    "word": "reverse",
+    "say": "rih-VERS",
+    "forms": [
+      "reverses",
+      "reversed",
+      "reversing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go backward or turn around.",
+          "examples": [
+            "The car will reverse.",
+            "He reversed the car.",
+            "Reverse the order."
+          ]
+        },
+        "more": {
+          "def": "To go the opposite way, or to turn something the other way around.",
+          "examples": [
+            "Dad reversed the car out of the garage.",
+            "She reversed the order of the cards.",
+            "The river seemed to reverse its flow."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The opposite.",
+          "examples": [
+            "The reverse is true.",
+            "The reverse of up is down.",
+            "Do the reverse."
+          ]
+        },
+        "more": {
+          "def": "The opposite of something.",
+          "examples": [
+            "Down is the reverse of up.",
+            "I thought she was happy, but the reverse was true.",
+            "The reverse side of the coin has a bird."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "reversible",
+        "def": "Able to be turned inside out or backward."
+      }
+    ]
+  },
+  {
     "word": "review",
     "say": "rih-VYOO",
     "forms": [
@@ -2282,6 +2778,53 @@
             "The newspaper gave the movie a good review.",
             "I read a review of the book before I bought it.",
             "Her review of the restaurant said the soup was the best."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "revolution",
+    "say": "rev-uh-LOO-shun",
+    "forms": [
+      "revolutions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big change in how people live.",
+          "examples": [
+            "The invention was a revolution.",
+            "The computer started a revolution.",
+            "The revolution changed life."
+          ]
+        },
+        "more": {
+          "def": "A great and sudden change in how people think, work or live.",
+          "examples": [
+            "The invention of the computer started a revolution.",
+            "The people made a revolution to change the government.",
+            "The industrial revolution brought machines to factories."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One full turn around something.",
+          "examples": [
+            "The wheel makes one revolution.",
+            "The earth makes one revolution around the sun in a year.",
+            "The wheel made ten revolutions."
+          ]
+        },
+        "more": {
+          "def": "One full turn around a point or a circle.",
+          "examples": [
+            "The earth makes one revolution around the sun each year.",
+            "The wheel made ten revolutions each minute.",
+            "The moon makes a revolution around the earth in about a month."
           ]
         }
       }

@@ -100,6 +100,34 @@
     ]
   },
   {
+    "word": "backwards",
+    "say": "BAK-werdz",
+    "forms": [
+      "backward"
+    ],
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "With the back going first.",
+          "examples": [
+            "He walked backwards.",
+            "I read the word backwards.",
+            "The car rolled backwards."
+          ]
+        },
+        "more": {
+          "def": "In the direction behind you, or in the opposite order.",
+          "examples": [
+            "He walked backwards down the hall.",
+            "She said the alphabet backwards.",
+            "The truck rolled backwards down the hill."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bad",
     "say": "bad",
     "senses": [
@@ -292,6 +320,35 @@
             "He threw the ball over the fence.",
             "A basketball is a large orange ball.",
             "The kitten batted a ball of yarn across the floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "balloon",
+    "say": "buh-LOON",
+    "emoji": "🎈",
+    "forms": [
+      "balloons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rubber bag that you fill with air.",
+          "examples": [
+            "I blew up a balloon.",
+            "The balloon popped.",
+            "The balloon floated up."
+          ]
+        },
+        "more": {
+          "def": "A thin rubber bag that is filled with air or gas so that it gets big and round.",
+          "examples": [
+            "I blew up a red balloon for the party.",
+            "The balloon floated up to the ceiling.",
+            "A hot air balloon rose over the field."
           ]
         }
       }
@@ -525,6 +582,53 @@
     ]
   },
   {
+    "word": "bargain",
+    "say": "BAR-gin",
+    "forms": [
+      "bargains"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that costs little.",
+          "examples": [
+            "The shoes were a bargain.",
+            "I got a bargain.",
+            "The bargain was good."
+          ]
+        },
+        "more": {
+          "def": "Something that costs less money than it normally would.",
+          "examples": [
+            "The shoes were a bargain at half price.",
+            "She found a bargain at the yard sale.",
+            "This book is a bargain at two dollars."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An agreement between two people.",
+          "examples": [
+            "We made a bargain.",
+            "The bargain was fair.",
+            "A bargain is a deal."
+          ]
+        },
+        "more": {
+          "def": "An agreement in which each side promises something.",
+          "examples": [
+            "We made a bargain that I would do the dishes if he took out the trash.",
+            "They kept their bargain.",
+            "The two friends made a bargain to share the toy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bark",
     "say": "bark",
     "emoji": "🐕",
@@ -569,6 +673,63 @@
             "The dog barked at the mail carrier.",
             "Seals can bark like dogs.",
             "Our puppy barks when it wants to play."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "barn",
+    "say": "barn",
+    "emoji": "🐄",
+    "forms": [
+      "barns"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big farm building for animals or hay.",
+          "examples": [
+            "The cows are in the barn.",
+            "The barn is red.",
+            "Hay is in the barn."
+          ]
+        },
+        "more": {
+          "def": "A large farm building where animals, hay or machines are kept.",
+          "examples": [
+            "The cows slept in the barn.",
+            "The farmer stored hay in the barn.",
+            "A red barn stood at the end of the lane."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "barrel",
+    "say": "BAIR-ul",
+    "forms": [
+      "barrels"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large, round container for liquids.",
+          "examples": [
+            "The barrel is full of water.",
+            "A barrel is made of wood.",
+            "The barrel rolled."
+          ]
+        },
+        "more": {
+          "def": "A large, round container with flat ends and curved sides, used to hold liquids.",
+          "examples": [
+            "The barrel was filled with rainwater.",
+            "The old barrel was made of wood.",
+            "The workers rolled the barrel up the ramp."
           ]
         }
       }
@@ -703,6 +864,41 @@
             "The basic idea of the story is easy to follow."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "basket",
+    "say": "BAS-kit",
+    "emoji": "🧺",
+    "forms": [
+      "baskets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A container for carrying things.",
+          "examples": [
+            "The fruit is in a basket.",
+            "I carry a basket.",
+            "The basket is full."
+          ]
+        },
+        "more": {
+          "def": "A container made of woven strips of wood, reeds or plastic, used for carrying things.",
+          "examples": [
+            "She picked berries and put them in a basket.",
+            "A basket of apples sat on the table.",
+            "The cat slept in a basket."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "basketful",
+        "def": "As much as fits in a basket."
       }
     ]
   },

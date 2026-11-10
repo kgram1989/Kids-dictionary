@@ -151,6 +151,53 @@
     ]
   },
   {
+    "word": "blank",
+    "say": "blangk",
+    "forms": [
+      "blanks"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Empty, with nothing on it.",
+          "examples": [
+            "The page is blank.",
+            "I have a blank paper.",
+            "The screen went blank."
+          ]
+        },
+        "more": {
+          "def": "Empty, with nothing written, drawn or shown on it.",
+          "examples": [
+            "The page was blank, so I started to draw.",
+            "The screen went blank when the power went out.",
+            "She gave me a blank look."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An empty space to fill in.",
+          "examples": [
+            "Fill in the blank.",
+            "The test has a blank.",
+            "Write the answer in the blank."
+          ]
+        },
+        "more": {
+          "def": "An empty space on a page where you write an answer.",
+          "examples": [
+            "Fill in the blank with the correct word.",
+            "The test had ten blanks.",
+            "I left one blank empty because I did not know."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "blanket",
     "say": "BLANG-kit",
     "emoji": "🛏️",
@@ -284,6 +331,31 @@
             "People bless the food before a meal.",
             "The priest blessed the new building.",
             "\"God bless you,\" said Grandma when I sneezed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blessed",
+    "say": "BLES-id",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Lucky, or holy.",
+          "examples": [
+            "We are blessed with good friends.",
+            "She felt blessed.",
+            "The blessed land."
+          ]
+        },
+        "more": {
+          "def": "Lucky or happy, or made holy by a religion.",
+          "examples": [
+            "We feel blessed to have good friends.",
+            "The family felt blessed after the good news.",
+            "They live in a blessed place with plenty of food."
           ]
         }
       }

@@ -540,6 +540,36 @@
     ]
   },
   {
+    "word": "inspire",
+    "say": "in-SPYR",
+    "forms": [
+      "inspires",
+      "inspired",
+      "inspiring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone want to do something good.",
+          "examples": [
+            "The story inspired me.",
+            "The teacher inspires us.",
+            "Her kindness inspires me."
+          ]
+        },
+        "more": {
+          "def": "To make someone feel excited about doing something.",
+          "examples": [
+            "The story of the brave girl inspired me to try.",
+            "The coach inspired the team to work hard.",
+            "Her kindness inspires everyone around her."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "instance",
     "say": "IN-stunss",
     "forms": [
@@ -797,6 +827,40 @@
     ]
   },
   {
+    "word": "intelligent",
+    "say": "in-TEL-uh-jent",
+    "forms": [
+      "intelligently"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Smart and able to learn.",
+          "examples": [
+            "The dog is intelligent.",
+            "She is an intelligent girl.",
+            "Dolphins are intelligent."
+          ]
+        },
+        "more": {
+          "def": "Able to learn, understand and think about things well.",
+          "examples": [
+            "Crows are intelligent birds that can solve puzzles.",
+            "She is an intelligent student who asks good questions.",
+            "The intelligent dog learned new tricks quickly."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unintelligent",
+        "def": "Not intelligent."
+      }
+    ]
+  },
+  {
     "word": "intend",
     "say": "in-TEND",
     "forms": [
@@ -954,6 +1018,64 @@
       {
         "word": "uninteresting",
         "def": "Not interesting."
+      }
+    ]
+  },
+  {
+    "word": "interfere",
+    "say": "in-ter-FEER",
+    "forms": [
+      "interferes",
+      "interfered",
+      "interfering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get in the way.",
+          "examples": [
+            "Do not interfere.",
+            "The noise interferes with my reading.",
+            "The rain interfered with our picnic."
+          ]
+        },
+        "more": {
+          "def": "To get in the way of something or to step into a matter that is not yours.",
+          "examples": [
+            "The noise interfered with my reading.",
+            "Loud music can interfere with studying.",
+            "Please do not interfere when I am helping my brother."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "international",
+    "say": "in-ter-NASH-uh-nul",
+    "forms": [
+      "internationally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Between or among countries.",
+          "examples": [
+            "The games are international.",
+            "We went to an international fair.",
+            "She speaks an international language."
+          ]
+        },
+        "more": {
+          "def": "Involving two or more countries.",
+          "examples": [
+            "The Olympics is an international event.",
+            "We went to an international food fair.",
+            "She is an international star known around the world."
+          ]
+        }
       }
     ]
   },

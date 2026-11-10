@@ -1,5 +1,34 @@
 [
   {
+    "word": "bubble",
+    "say": "BUB-ul",
+    "emoji": "🫧",
+    "forms": [
+      "bubbles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin ball of liquid filled with air.",
+          "examples": [
+            "I blow bubbles.",
+            "The bubble popped.",
+            "The soap made bubbles."
+          ]
+        },
+        "more": {
+          "def": "A very thin ball of liquid with air or gas inside.",
+          "examples": [
+            "I blew a big bubble with the wand.",
+            "The bubbles floated away and popped.",
+            "Bubbles rose to the top of the water."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "buck",
     "say": "buk",
     "forms": [
@@ -41,6 +70,35 @@
             "The sticker cost only a buck.",
             "That toy costs ten bucks.",
             "She earned five bucks for washing the car."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bucket",
+    "say": "BUK-it",
+    "emoji": "🪣",
+    "forms": [
+      "buckets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round container with a handle for carrying water.",
+          "examples": [
+            "I fill the bucket.",
+            "The bucket is full of sand.",
+            "I carried the bucket."
+          ]
+        },
+        "more": {
+          "def": "A deep, round container with a handle, used for carrying liquids or sand.",
+          "examples": [
+            "I filled the bucket with water.",
+            "The kids carried buckets of sand to the castle.",
+            "Rain dripped into a bucket."
           ]
         }
       }

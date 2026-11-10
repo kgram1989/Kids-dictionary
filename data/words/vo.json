@@ -157,6 +157,55 @@
     ]
   },
   {
+    "word": "vow",
+    "say": "vow",
+    "forms": [
+      "vows",
+      "vowed",
+      "vowing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A serious promise.",
+          "examples": [
+            "He made a vow.",
+            "The vow was kept.",
+            "She made a vow to help."
+          ]
+        },
+        "more": {
+          "def": "A very serious promise that you make.",
+          "examples": [
+            "He made a vow to keep the secret.",
+            "The knights made a vow to protect the king.",
+            "She kept her vow to visit her grandmother each week."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a serious promise.",
+          "examples": [
+            "I vow to help.",
+            "She vowed to be kind.",
+            "He vowed to try again."
+          ]
+        },
+        "more": {
+          "def": "To promise something very seriously.",
+          "examples": [
+            "She vowed to keep the secret.",
+            "He vowed to try harder next time.",
+            "The knight vowed to protect the village."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "voyage",
     "say": "VOY-ij",
     "emoji": "⛵",

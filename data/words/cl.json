@@ -228,6 +228,34 @@
     ]
   },
   {
+    "word": "clerk",
+    "say": "klerk",
+    "forms": [
+      "clerks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who works at a store or office.",
+          "examples": [
+            "The clerk gave me change.",
+            "The store clerk smiled.",
+            "The clerk bagged the groceries."
+          ]
+        },
+        "more": {
+          "def": "A person who works in a store, office or bank, helping customers or keeping records.",
+          "examples": [
+            "The clerk gave me my change.",
+            "The grocery clerk bagged our food.",
+            "A clerk at the library stamped my book."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clever",
     "say": "KLEV-er",
     "emoji": "🧠",
@@ -252,6 +280,56 @@
             "The clever crow dropped nuts on the road to crack them.",
             "He made a clever trap to catch the runaway ball.",
             "It was clever of you to bring an umbrella."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "click",
+    "say": "klik",
+    "emoji": "🖱️",
+    "forms": [
+      "clicks",
+      "clicked",
+      "clicking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To press a button on a mouse.",
+          "examples": [
+            "Click the button.",
+            "I clicked on the picture.",
+            "She clicks the mouse."
+          ]
+        },
+        "more": {
+          "def": "To press a mouse button to choose something on a computer.",
+          "examples": [
+            "Click on the picture to see it bigger.",
+            "I clicked the link to open the page.",
+            "She clicked the mouse to start the game."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short, sharp sound.",
+          "examples": [
+            "I heard a click.",
+            "The door shut with a click.",
+            "The click of the pen was loud."
+          ]
+        },
+        "more": {
+          "def": "A short, sharp sound like the sound of a light switch.",
+          "examples": [
+            "The lock opened with a sharp click.",
+            "I heard the click of a camera.",
+            "The click of the lock was quiet."
           ]
         }
       }
@@ -311,6 +389,34 @@
             "The children climbed the tree.",
             "We climbed to the top of the hill.",
             "Monkeys climb trees to find fruit."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clinic",
+    "say": "KLIN-ik",
+    "forms": [
+      "clinics"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where you go to see a doctor.",
+          "examples": [
+            "I went to the clinic.",
+            "The clinic is small.",
+            "The nurse works at the clinic."
+          ]
+        },
+        "more": {
+          "def": "A small place where people go for medical care.",
+          "examples": [
+            "I got a checkup at the clinic.",
+            "The clinic is open on Saturdays.",
+            "The nurse at the clinic gave me a sticker."
           ]
         }
       }

@@ -1,5 +1,33 @@
 [
   {
+    "word": "accent",
+    "say": "AK-sent",
+    "forms": [
+      "accents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way of speaking that shows where you are from.",
+          "examples": [
+            "She has a British accent.",
+            "He has a southern accent.",
+            "I love his accent."
+          ]
+        },
+        "more": {
+          "def": "A way of pronouncing words that shows which country or place you come from.",
+          "examples": [
+            "She speaks with a British accent.",
+            "His accent told us he was from the south.",
+            "I tried to copy my cousin's accent."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "accept",
     "say": "ik-SEPT",
     "forms": [
@@ -77,6 +105,36 @@
             "He broke the vase by accident when he bumped the table.",
             "We met by accident at the grocery store.",
             "Wearing a helmet can protect you in a bike accident."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "accomplish",
+    "say": "uh-KOM-plish",
+    "forms": [
+      "accomplishes",
+      "accomplished",
+      "accomplishing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To finish something you set out to do.",
+          "examples": [
+            "We accomplished our goal.",
+            "She accomplished a lot today.",
+            "He accomplished the task."
+          ]
+        },
+        "more": {
+          "def": "To succeed in doing something, especially something that took effort.",
+          "examples": [
+            "We accomplished our goal of cleaning the park.",
+            "She accomplished a lot by working hard.",
+            "He accomplished the long climb before sunset."
           ]
         }
       }

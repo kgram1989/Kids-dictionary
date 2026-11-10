@@ -165,5 +165,33 @@
         }
       }
     ]
+  },
+  {
+    "word": "afterwards",
+    "say": "AF-ter-werdz",
+    "forms": [
+      "afterward"
+    ],
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "At a later time.",
+          "examples": [
+            "We ate, and afterwards we played.",
+            "Afterwards, we went home.",
+            "I will call you afterwards."
+          ]
+        },
+        "more": {
+          "def": "At a later time, after something else has happened.",
+          "examples": [
+            "We ate lunch and played outside afterwards.",
+            "The movie was fun, and afterwards we got ice cream.",
+            "Do your chores first and rest afterwards."
+          ]
+        }
+      }
+    ]
   }
 ]

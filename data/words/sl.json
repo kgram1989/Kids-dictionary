@@ -1,5 +1,35 @@
 [
   {
+    "word": "slam",
+    "say": "slam",
+    "forms": [
+      "slams",
+      "slammed",
+      "slamming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shut with a loud bang.",
+          "examples": [
+            "The door slammed.",
+            "He slammed the door.",
+            "The wind slams the gate."
+          ]
+        },
+        "more": {
+          "def": "To shut or hit something hard so that it makes a loud noise.",
+          "examples": [
+            "The wind slammed the door shut.",
+            "Please do not slam the car door.",
+            "He slammed the book on the desk."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "slap",
     "say": "slap",
     "forms": [
@@ -103,6 +133,61 @@
             "A good night of sleep helps you feel ready for school."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "slice",
+    "say": "slyss",
+    "forms": [
+      "slices",
+      "sliced",
+      "slicing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin, flat piece cut from something.",
+          "examples": [
+            "I ate a slice of pizza.",
+            "The slice of bread is thin.",
+            "I want a slice of cake."
+          ]
+        },
+        "more": {
+          "def": "A thin, flat piece that has been cut from something larger.",
+          "examples": [
+            "She cut a thin slice of ham for the sandwich.",
+            "Dad put a slice of cheese on the bread.",
+            "She cut a slice of watermelon."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cut into thin pieces.",
+          "examples": [
+            "I slice the apple.",
+            "She sliced the bread.",
+            "Please slice the tomato."
+          ]
+        },
+        "more": {
+          "def": "To cut something into thin, flat pieces.",
+          "examples": [
+            "Mom sliced the bread for sandwiches.",
+            "He sliced the apple into eight pieces.",
+            "The chef sliced the tomatoes."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "slicer",
+        "def": "A tool that slices."
       }
     ]
   },

@@ -1,5 +1,33 @@
 [
   {
+    "word": "mob",
+    "say": "mob",
+    "forms": [
+      "mobs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large, wild crowd.",
+          "examples": [
+            "A mob of people ran.",
+            "The mob was loud.",
+            "The crowd turned into a mob."
+          ]
+        },
+        "more": {
+          "def": "A large crowd of people that is noisy and hard to control.",
+          "examples": [
+            "A mob of fans rushed toward the singer.",
+            "The angry mob shouted outside the building.",
+            "Shoppers formed a mob at the door of the store."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "model",
     "say": "MOD-ul",
     "forms": [
@@ -460,6 +488,53 @@
             "Jupiter has dozens of moons.",
             "Mars has two small moons.",
             "Scientists study the moons of Saturn."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "moral",
+    "say": "MOR-ul",
+    "forms": [
+      "morals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The lesson that a story teaches.",
+          "examples": [
+            "The moral of the story is to be kind.",
+            "What is the moral?",
+            "The moral is to work hard."
+          ]
+        },
+        "more": {
+          "def": "The lesson about right and wrong that you learn from a story.",
+          "examples": [
+            "The moral of the fable is that slow and steady wins.",
+            "The fable's moral was to work together.",
+            "Can you tell me the moral of the tale?"
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with right and wrong.",
+          "examples": [
+            "It is a moral choice.",
+            "Telling the truth is a moral act.",
+            "A moral person tells the truth."
+          ]
+        },
+        "more": {
+          "def": "Having to do with what is right and wrong, or being good and fair.",
+          "examples": [
+            "Telling the truth is the moral thing to do.",
+            "She made a moral choice to return the money.",
+            "A moral person treats others with respect."
           ]
         }
       }

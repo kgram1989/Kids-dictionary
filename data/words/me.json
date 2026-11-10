@@ -178,6 +178,31 @@
     ]
   },
   {
+    "word": "meantime",
+    "say": "MEEN-tym",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The time between two things.",
+          "examples": [
+            "In the meantime, we played.",
+            "In the meantime, wash your hands.",
+            "The bus is coming, and in the meantime we wait."
+          ]
+        },
+        "more": {
+          "def": "The time between one event and another.",
+          "examples": [
+            "Dinner is not ready, so in the meantime let us set the table.",
+            "The movie starts at three, and in the meantime we can have lunch.",
+            "Mom is coming, and in the meantime we will wait."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "measure",
     "say": "MEZH-er",
     "emoji": "📐",
@@ -299,6 +324,34 @@
             "The nurse brought the medical kit.",
             "The doctor needed medical supplies.",
             "She studied medical science for many years."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "medication",
+    "say": "med-ih-KAY-shun",
+    "forms": [
+      "medications"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Medicine.",
+          "examples": [
+            "He takes his medication.",
+            "The doctor gave her medication.",
+            "The medication helped."
+          ]
+        },
+        "more": {
+          "def": "Medicine that a doctor gives you to help you get better.",
+          "examples": [
+            "He takes his medication every morning.",
+            "The doctor gave her medication for the cough.",
+            "Keep your medication away from small children."
           ]
         }
       }
@@ -751,6 +804,53 @@
             "A spoon is often made of metal.",
             "Gold, silver and copper are metals.",
             "The metal gate was cold to touch."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "meter",
+    "say": "MEE-ter",
+    "forms": [
+      "meters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way to measure how long something is.",
+          "examples": [
+            "The room is five meters long.",
+            "A meter is a long ruler.",
+            "The pool is ten meters wide."
+          ]
+        },
+        "more": {
+          "def": "A unit of length equal to one hundred centimeters, a little more than a yard.",
+          "examples": [
+            "The pool was fifty meters long.",
+            "He ran a hundred meters in the race.",
+            "A meter is a bit longer than a yard."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool that measures something.",
+          "examples": [
+            "The meter shows the speed.",
+            "Read the meter.",
+            "The water meter is outside."
+          ]
+        },
+        "more": {
+          "def": "A device that measures and shows an amount, such as electricity or time.",
+          "examples": [
+            "The taxi meter shows how much money we owe.",
+            "Dad read the gas meter.",
+            "The parking meter takes coins."
           ]
         }
       }

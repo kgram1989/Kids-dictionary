@@ -142,6 +142,40 @@
     ]
   },
   {
+    "word": "beard",
+    "say": "beerd",
+    "forms": [
+      "beards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The hair that grows on a man's chin and cheeks.",
+          "examples": [
+            "Grandpa has a beard.",
+            "The man has a long beard.",
+            "He shaved his beard."
+          ]
+        },
+        "more": {
+          "def": "The hair that grows on a man's chin and face.",
+          "examples": [
+            "Grandpa has a long white beard.",
+            "The man trimmed his beard with scissors.",
+            "The wizard in the story had a beard down to his belt."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "beardless",
+        "def": "Without a beard."
+      }
+    ]
+  },
+  {
     "word": "beast",
     "say": "beest",
     "emoji": "🐗",
@@ -906,6 +940,31 @@
     ]
   },
   {
+    "word": "beloved",
+    "say": "bih-LUV-id",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Loved very much.",
+          "examples": [
+            "My beloved pet is a dog.",
+            "The beloved teacher retired.",
+            "She hugged her beloved doll."
+          ]
+        },
+        "more": {
+          "def": "Very much loved by someone.",
+          "examples": [
+            "The beloved teacher retired after thirty years.",
+            "She hugged her beloved teddy bear.",
+            "The beloved old dog slept by the fire."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "below",
     "say": "bih-LOH",
     "emoji": "⬇️",
@@ -1122,6 +1181,31 @@
             "Plants benefit from sunlight and water.",
             "The whole town benefited from the new library.",
             "Your muscles benefit from stretching."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "beside",
+    "say": "bih-SYD",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Next to.",
+          "examples": [
+            "Sit beside me.",
+            "The cat is beside the dog.",
+            "The park is beside the school."
+          ]
+        },
+        "more": {
+          "def": "At the side of someone or something.",
+          "examples": [
+            "She sat beside her friend on the bus.",
+            "The cat curled up beside the fire.",
+            "A little stream ran beside the road."
           ]
         }
       }

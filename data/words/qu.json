@@ -379,5 +379,54 @@
         }
       }
     ]
+  },
+  {
+    "word": "quote",
+    "say": "kwoht",
+    "forms": [
+      "quotes",
+      "quoted",
+      "quoting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To repeat the exact words that someone said.",
+          "examples": [
+            "I quote the teacher.",
+            "She quoted a poem.",
+            "He quoted the book."
+          ]
+        },
+        "more": {
+          "def": "To repeat the exact words of someone else, in speech or writing.",
+          "examples": [
+            "She quoted a line from her favorite poem.",
+            "The reporter quoted the mayor.",
+            "He quoted the book in his report."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words that you repeat from someone else.",
+          "examples": [
+            "I read a quote from the book.",
+            "The quote is from a poem.",
+            "She wrote down a quote."
+          ]
+        },
+        "more": {
+          "def": "A part of a book, speech or poem that is repeated word for word.",
+          "examples": [
+            "The speech began with a quote from a famous poet.",
+            "She wrote her favorite quote on the board.",
+            "The quote was from a book about space."
+          ]
+        }
+      }
+    ]
   }
 ]

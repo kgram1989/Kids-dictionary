@@ -340,6 +340,32 @@
     ]
   },
   {
+    "word": "sheep",
+    "say": "sheep",
+    "emoji": "🐑",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A farm animal with a thick, woolly coat.",
+          "examples": [
+            "The sheep eat grass.",
+            "Wool comes from a sheep.",
+            "The sheep said baa."
+          ]
+        },
+        "more": {
+          "def": "A farm animal with a thick coat of wool that is raised for wool and meat.",
+          "examples": [
+            "The farmer sheared the sheep in spring.",
+            "A flock of sheep grazed on the hill.",
+            "Wool for my sweater came from a sheep."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sheet",
     "say": "sheet",
     "emoji": "🛏️",
@@ -468,6 +494,56 @@
             "The sheriff drove through town.",
             "In old stories, the sheriff wears a star badge.",
             "The sheriff helped find the lost hikers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shield",
+    "say": "sheeld",
+    "emoji": "🛡️",
+    "forms": [
+      "shields",
+      "shielded",
+      "shielding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that protects you.",
+          "examples": [
+            "The knight held a shield.",
+            "A shield protects you.",
+            "The shield is round."
+          ]
+        },
+        "more": {
+          "def": "A large flat piece that a fighter holds to protect the body, or anything that protects.",
+          "examples": [
+            "The knight raised his shield.",
+            "She wore a face shield for safety.",
+            "Clouds can shield the sun's heat."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To keep someone safe.",
+          "examples": [
+            "She shielded her eyes.",
+            "The umbrella shields me from the rain.",
+            "He shielded the baby from the wind."
+          ]
+        },
+        "more": {
+          "def": "To protect someone or something from harm.",
+          "examples": [
+            "He shielded his eyes from the bright sun.",
+            "The umbrella shielded us from the rain.",
+            "She shielded the candle from the wind."
           ]
         }
       }
@@ -1192,6 +1268,37 @@
             "A quick shower passed over the town.",
             "April showers bring flowers.",
             "We ran inside during the shower."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shrink",
+    "say": "shringk",
+    "forms": [
+      "shrinks",
+      "shrank",
+      "shrunk",
+      "shrinking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get smaller.",
+          "examples": [
+            "My sweater will shrink in the wash.",
+            "The puddle shrank.",
+            "The balloon shrank."
+          ]
+        },
+        "more": {
+          "def": "To become smaller in size or amount.",
+          "examples": [
+            "My sweater shrank in the dryer.",
+            "The puddle shrank in the hot sun.",
+            "The balloon shrinks as the air leaks out."
           ]
         }
       }

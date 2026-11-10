@@ -172,6 +172,31 @@
     ]
   },
   {
+    "word": "species",
+    "say": "SPEE-sheez",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind of animal or plant.",
+          "examples": [
+            "A lion is a species of cat.",
+            "This species is rare.",
+            "There are many species of birds."
+          ]
+        },
+        "more": {
+          "def": "A group of animals or plants that are alike and can have young together.",
+          "examples": [
+            "The panda is an endangered species.",
+            "This rare species lives only on one island.",
+            "Scientists have found thousands of new species."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "specific",
     "say": "spuh-SIF-ik",
     "forms": [
@@ -390,6 +415,35 @@
             "We spent the whole summer at my grandparents' farm.",
             "He spends an hour each night reading.",
             "The owl spends the daytime sleeping in a hollow tree."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spider",
+    "say": "SPY-der",
+    "emoji": "🕷️",
+    "forms": [
+      "spiders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small animal with eight legs that makes a web.",
+          "examples": [
+            "A spider made a web.",
+            "The spider has eight legs.",
+            "I saw a spider."
+          ]
+        },
+        "more": {
+          "def": "A small creature with eight legs that spins webs to catch insects.",
+          "examples": [
+            "A spider spun a web between the branches.",
+            "Spiders have eight legs.",
+            "The spider waited in its web for a fly."
           ]
         }
       }
@@ -748,6 +802,62 @@
             "She spotted her friend in the crowd."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "spray",
+    "say": "spray",
+    "emoji": "💦",
+    "forms": [
+      "sprays",
+      "sprayed",
+      "spraying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To send out tiny drops of water.",
+          "examples": [
+            "I spray the plants.",
+            "She sprayed water on the flowers.",
+            "The hose sprays."
+          ]
+        },
+        "more": {
+          "def": "To send out liquid in a fine mist of tiny drops.",
+          "examples": [
+            "I sprayed water on the plants.",
+            "The whale sprayed water from its blowhole.",
+            "He sprayed the car with a hose."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Tiny drops of water in the air.",
+          "examples": [
+            "The spray of the waves was cold.",
+            "The spray from the hose was cool.",
+            "A spray of water hit me."
+          ]
+        },
+        "more": {
+          "def": "A mist of tiny drops of liquid, or a can that makes one.",
+          "examples": [
+            "The spray from the waves cooled us off.",
+            "A spray of water from the fountain wet my shoes.",
+            "The bug spray smelled strong."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "sprayer",
+        "def": "A tool that sprays."
       }
     ]
   },

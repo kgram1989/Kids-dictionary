@@ -214,5 +214,52 @@
         }
       }
     ]
+  },
+  {
+    "word": "vault",
+    "say": "vawlt",
+    "forms": [
+      "vaults"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong room for keeping money or valuable things safe.",
+          "examples": [
+            "The bank has a vault.",
+            "The money is in the vault.",
+            "The vault door is heavy."
+          ]
+        },
+        "more": {
+          "def": "A strong, locked room where money and valuable things are kept.",
+          "examples": [
+            "The bank keeps its gold in a vault.",
+            "The vault door was thick and heavy.",
+            "Important papers are stored in a vault."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To jump over something using your hands or a pole.",
+          "examples": [
+            "He vaulted the fence.",
+            "She vaulted over the gate.",
+            "The athlete vaulted."
+          ]
+        },
+        "more": {
+          "def": "To jump over something by pushing off with your hands or a pole.",
+          "examples": [
+            "He vaulted over the fence.",
+            "The athlete vaulted over the high bar with a pole.",
+            "She vaulted over a log."
+          ]
+        }
+      }
+    ]
   }
 ]

@@ -29,6 +29,105 @@
     ]
   },
   {
+    "word": "brake",
+    "say": "brayk",
+    "forms": [
+      "brakes",
+      "braked",
+      "braking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part that makes a bike or car stop.",
+          "examples": [
+            "I pressed the brake.",
+            "The bike has a brake.",
+            "The brake squeaked."
+          ]
+        },
+        "more": {
+          "def": "The part of a bike or car that slows it down or stops it.",
+          "examples": [
+            "He pressed the brake and the car stopped.",
+            "The brakes on my bike squeak.",
+            "Dad checked the brakes before the trip."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To slow down or stop.",
+          "examples": [
+            "The driver braked hard.",
+            "I brake at the corner.",
+            "The car braked."
+          ]
+        },
+        "more": {
+          "def": "To slow down or stop a vehicle by pressing the pedal or lever.",
+          "examples": [
+            "The driver braked when the light turned red.",
+            "I braked at the bottom of the hill.",
+            "The bus braked quickly to avoid the dog."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "branch",
+    "say": "branch",
+    "emoji": "🌳",
+    "forms": [
+      "branches",
+      "branched",
+      "branching"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of a tree that grows out from the trunk.",
+          "examples": [
+            "The bird sat on a branch.",
+            "The branch is long.",
+            "A branch fell off the tree."
+          ]
+        },
+        "more": {
+          "def": "One of the woody parts of a tree that grows out from the trunk.",
+          "examples": [
+            "The bird perched on a branch.",
+            "The wind snapped a dry branch from the tree.",
+            "The children climbed along a thick branch."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One part of a larger group or business.",
+          "examples": [
+            "The bank has a branch downtown.",
+            "The library has a branch in our town.",
+            "We visited a branch of the library."
+          ]
+        },
+        "more": {
+          "def": "One of the offices or shops that belongs to a larger group.",
+          "examples": [
+            "The bank has a branch near my school.",
+            "The library has a branch in every neighborhood.",
+            "The company opened a new branch."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "brand",
     "say": "brand",
     "forms": [
@@ -285,6 +384,35 @@
             "A breeze from the sea kept us cool on the hot beach.",
             "The flags waved gently in the morning breeze.",
             "We opened the windows to let the breeze in."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "brick",
+    "say": "brik",
+    "emoji": "🧱",
+    "forms": [
+      "bricks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hard block used to build walls.",
+          "examples": [
+            "The house is made of brick.",
+            "The brick is red.",
+            "I built a wall of brick."
+          ]
+        },
+        "more": {
+          "def": "A hard block of baked clay, used to build walls and houses.",
+          "examples": [
+            "The wall was built of red brick.",
+            "The builder laid bricks one by one.",
+            "A brick fell off the old chimney."
           ]
         }
       }

@@ -161,6 +161,53 @@
     ]
   },
   {
+    "word": "engagement",
+    "say": "en-GAYJ-munt",
+    "forms": [
+      "engagements"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A promise to get married.",
+          "examples": [
+            "They announced their engagement.",
+            "The engagement party was fun.",
+            "Their engagement lasted a year."
+          ]
+        },
+        "more": {
+          "def": "An agreement between two people to marry each other.",
+          "examples": [
+            "They announced their engagement at dinner.",
+            "The engagement lasted a year before the wedding.",
+            "My aunt wore her engagement ring."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A promise to be somewhere.",
+          "examples": [
+            "I have a dinner engagement.",
+            "The engagement is at noon.",
+            "She has an engagement at three."
+          ]
+        },
+        "more": {
+          "def": "An arrangement to be somewhere at a certain time.",
+          "examples": [
+            "She has a dinner engagement tonight.",
+            "The singer had an engagement at the theater.",
+            "I cannot come because of a previous engagement."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "engine",
     "say": "EN-jin",
     "forms": [
@@ -436,6 +483,31 @@
     ]
   },
   {
+    "word": "entertainment",
+    "say": "en-ter-TAYN-munt",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things that people watch or listen to for fun.",
+          "examples": [
+            "The party had entertainment.",
+            "The movie is good entertainment.",
+            "The clown was the entertainment."
+          ]
+        },
+        "more": {
+          "def": "Shows, music, games or other things that people enjoy watching or taking part in.",
+          "examples": [
+            "The party had a magician for entertainment.",
+            "Movies are a popular form of entertainment.",
+            "The band provided the entertainment at the fair."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "entire",
     "say": "en-TYR",
     "senses": [
@@ -484,6 +556,53 @@
             "We waited at the entrance to the zoo.",
             "The cave had a narrow entrance.",
             "The entrance to the school is on the north side."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "entry",
+    "say": "EN-tree",
+    "forms": [
+      "entries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way in.",
+          "examples": [
+            "The entry is at the side.",
+            "The entry to the cave was small.",
+            "The front entry is open."
+          ]
+        },
+        "more": {
+          "def": "A door or gateway where you go into a place.",
+          "examples": [
+            "The entry to the cave was hidden by bushes.",
+            "We waited at the front entry for our friends.",
+            "The museum has a large entry."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One item in a list or book.",
+          "examples": [
+            "I read the entry in the dictionary.",
+            "Write one entry a day.",
+            "The entry has a picture."
+          ]
+        },
+        "more": {
+          "def": "One item in a list, diary or dictionary.",
+          "examples": [
+            "Each entry in the dictionary has a definition.",
+            "She wrote an entry in her diary.",
+            "I read the entry about frogs."
           ]
         }
       }

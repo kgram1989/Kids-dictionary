@@ -44,6 +44,42 @@
     ]
   },
   {
+    "word": "publish",
+    "say": "PUB-lish",
+    "forms": [
+      "publishes",
+      "published",
+      "publishing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To print and sell books or news.",
+          "examples": [
+            "They publish books.",
+            "The newspaper published the story.",
+            "She published a book."
+          ]
+        },
+        "more": {
+          "def": "To print and sell a book, magazine or news so that people can read it.",
+          "examples": [
+            "The company published my favorite book.",
+            "The newspaper published the story on Friday.",
+            "She published a book about whales."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "publisher",
+        "def": "A company or person that publishes books."
+      }
+    ]
+  },
+  {
     "word": "pull",
     "say": "puul",
     "forms": [
@@ -244,6 +280,34 @@
             "The coach punished the team by making them run extra laps.",
             "It is not fair to punish a child for something they did not do.",
             "The judge punished the thief."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "punishment",
+    "say": "PUN-ish-munt",
+    "forms": [
+      "punishments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What happens to you for doing something wrong.",
+          "examples": [
+            "The punishment was fair.",
+            "Her punishment was to clean up.",
+            "A punishment taught him a lesson."
+          ]
+        },
+        "more": {
+          "def": "A penalty that is given to someone who has done something wrong.",
+          "examples": [
+            "His punishment for being rude was to say sorry.",
+            "A fair punishment teaches a lesson without being cruel.",
+            "The coach said running laps was not a punishment, but practice."
           ]
         }
       }

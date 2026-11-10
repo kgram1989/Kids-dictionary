@@ -135,6 +135,35 @@
     ]
   },
   {
+    "word": "railroad",
+    "say": "RAYL-rohd",
+    "emoji": "🚂",
+    "forms": [
+      "railroads"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Tracks that trains run on.",
+          "examples": [
+            "The railroad goes to the city.",
+            "We crossed the railroad.",
+            "The railroad is long."
+          ]
+        },
+        "more": {
+          "def": "A road made of steel rails on which trains travel.",
+          "examples": [
+            "The railroad crosses the river on a bridge.",
+            "Workers built the railroad across the country.",
+            "We waited as the train rumbled along the railroad."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "rain",
     "say": "rayn",
     "emoji": "🌧️",
@@ -325,6 +354,104 @@
             "Temperatures here range from freezing in winter to hot in summer.",
             "The students range in age from eight to ten.",
             "The books on the shelf range from picture books to long novels."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "rank",
+    "say": "rangk",
+    "forms": [
+      "ranks",
+      "ranked",
+      "ranking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How high someone is in a group.",
+          "examples": [
+            "The captain has a high rank.",
+            "What is her rank?",
+            "He rose in rank."
+          ]
+        },
+        "more": {
+          "def": "A person's level or position in a group such as an army.",
+          "examples": [
+            "A captain has a higher rank than a sergeant.",
+            "He rose in rank after years of service.",
+            "The soldiers stood in ranks."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put in order from first to last.",
+          "examples": [
+            "We rank the teams.",
+            "Our team ranked first.",
+            "The class ranked the books."
+          ]
+        },
+        "more": {
+          "def": "To place something in order from highest to lowest.",
+          "examples": [
+            "The judges ranked the teams from best to worst.",
+            "Our school ranked first in the spelling contest.",
+            "I would rank her story at the top."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "rap",
+    "say": "rap",
+    "forms": [
+      "raps",
+      "rapped",
+      "rapping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To knock quickly on something.",
+          "examples": [
+            "I rap on the door.",
+            "She rapped on the window.",
+            "He rapped the table."
+          ]
+        },
+        "more": {
+          "def": "To hit something quickly and lightly several times.",
+          "examples": [
+            "She rapped on the door and waited.",
+            "He rapped on the window to get my attention.",
+            "The teacher rapped on the desk for quiet."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind of music with words spoken in rhythm.",
+          "examples": [
+            "I like rap.",
+            "The rap has a beat.",
+            "She wrote a rap."
+          ]
+        },
+        "more": {
+          "def": "A style of music in which words are spoken quickly in time with a beat.",
+          "examples": [
+            "She wrote a rap about our school.",
+            "The rap had a strong beat.",
+            "The class made up a rap about the planets."
           ]
         }
       }

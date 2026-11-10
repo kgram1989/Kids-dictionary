@@ -243,6 +243,56 @@
     ]
   },
   {
+    "word": "stamp",
+    "say": "stamp",
+    "emoji": "📮",
+    "forms": [
+      "stamps",
+      "stamped",
+      "stamping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small piece of paper you stick on a letter.",
+          "examples": [
+            "I put a stamp on the letter.",
+            "The stamp has a picture.",
+            "I collect stamps."
+          ]
+        },
+        "more": {
+          "def": "A small label that you put on a letter or package to show that you paid to send it.",
+          "examples": [
+            "I put a stamp on the envelope.",
+            "She collects stamps from other countries.",
+            "The stamp had a picture of a bird."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To bring your foot down hard.",
+          "examples": [
+            "I stamp my foot.",
+            "The child stamped.",
+            "He stamped on the floor."
+          ]
+        },
+        "more": {
+          "def": "To put your foot down hard and loudly.",
+          "examples": [
+            "She stamped her foot in anger.",
+            "The horse stamped in the stall.",
+            "He stamped the snow off his boots."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "stand",
     "say": "stand",
     "forms": [
@@ -803,6 +853,55 @@
     ]
   },
   {
+    "word": "steam",
+    "say": "steem",
+    "forms": [
+      "steams",
+      "steamed",
+      "steaming"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Hot water that has turned to gas.",
+          "examples": [
+            "Steam comes from the kettle.",
+            "The steam is hot.",
+            "A cloud of steam rose."
+          ]
+        },
+        "more": {
+          "def": "The cloud of hot gas that rises from boiling water.",
+          "examples": [
+            "Steam rose from the hot soup.",
+            "The steam fogged up the mirror.",
+            "A cloud of steam came from the kettle."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cook food over boiling water.",
+          "examples": [
+            "I steam the vegetables.",
+            "We steamed the rice.",
+            "She steamed the broccoli."
+          ]
+        },
+        "more": {
+          "def": "To cook food using the hot gas that rises from boiling water.",
+          "examples": [
+            "Mom steamed the vegetables for dinner.",
+            "We steamed the dumplings in a basket.",
+            "The broccoli was steamed until soft."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "steel",
     "say": "steel",
     "senses": [
@@ -1054,6 +1153,56 @@
             "A terrible stink came from the old trash can.",
             "The stink of a skunk can last for days.",
             "We opened the windows to let out the stink."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stitch",
+    "say": "stich",
+    "emoji": "🧵",
+    "forms": [
+      "stitches",
+      "stitched",
+      "stitching"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One small line of thread in cloth.",
+          "examples": [
+            "I made a stitch.",
+            "The stitch is small.",
+            "Each stitch is tiny."
+          ]
+        },
+        "more": {
+          "def": "One complete movement of a needle and thread through cloth.",
+          "examples": [
+            "Grandma made tiny, neat stitches along the hem.",
+            "A loose stitch let the button fall off.",
+            "The doctor put a stitch in the cut."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To join cloth with a needle.",
+          "examples": [
+            "I stitch the hole.",
+            "She stitched the button on.",
+            "Grandma stitched a quilt."
+          ]
+        },
+        "more": {
+          "def": "To sew cloth or a cut together with a needle and thread.",
+          "examples": [
+            "Grandma stitched a patch on my jeans.",
+            "She stitched the pieces of the quilt together.",
+            "The doctor stitched the cut on his knee."
           ]
         }
       }
