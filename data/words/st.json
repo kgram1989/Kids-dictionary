@@ -1512,6 +1512,35 @@
     ]
   },
   {
+    "word": "sticky",
+    "say": "STIK-ee",
+    "forms": [
+      "stickier",
+      "stickiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to stick to things.",
+          "examples": [
+            "The tape is sticky.",
+            "My hands are sticky.",
+            "The candy is sticky."
+          ]
+        },
+        "more": {
+          "def": "Having a surface that sticks to things.",
+          "examples": [
+            "My hands were sticky from the candy.",
+            "The tape is sticky on one side.",
+            "The syrup left a sticky puddle on the table."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "stiff",
     "say": "stif",
     "forms": [
@@ -2792,6 +2821,31 @@
     ]
   },
   {
+    "word": "strictly",
+    "say": "STRIKT-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Firmly.",
+          "examples": [
+            "Running is strictly not allowed.",
+            "The rule is strictly followed.",
+            "It is strictly forbidden."
+          ]
+        },
+        "more": {
+          "def": "In a strict way, or only.",
+          "examples": [
+            "Running in the hall is strictly forbidden.",
+            "The rule was strictly followed.",
+            "This room is strictly for staff."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "strike",
     "say": "stryk",
     "forms": [
@@ -2996,6 +3050,36 @@
             "The artist painted with long strokes of the brush.",
             "The swimmer took a strong stroke.",
             "The backstroke is my favorite swimming stroke."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stroll",
+    "say": "strohl",
+    "forms": [
+      "strolls",
+      "strolled",
+      "strolling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To walk in a slow, easy way.",
+          "examples": [
+            "We stroll in the park.",
+            "She strolled by the lake.",
+            "They strolled home."
+          ]
+        },
+        "more": {
+          "def": "To walk slowly for pleasure, not in a hurry.",
+          "examples": [
+            "We strolled through the park after dinner.",
+            "She strolled along the beach.",
+            "They strolled home in the sunshine."
           ]
         }
       }

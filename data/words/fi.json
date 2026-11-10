@@ -1,5 +1,36 @@
 [
   {
+    "word": "fiction",
+    "say": "FIK-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Stories that are made up.",
+          "examples": [
+            "I read fiction.",
+            "The book is fiction.",
+            "Fiction is not real."
+          ]
+        },
+        "more": {
+          "def": "Stories and books about people and events that are made up.",
+          "examples": [
+            "I like to read fiction about dragons.",
+            "The book is a work of fiction.",
+            "Fiction is stored on different shelves in the library."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "nonfiction",
+        "def": "Books about real things."
+      }
+    ]
+  },
+  {
     "word": "field",
     "say": "feeld",
     "forms": [
@@ -667,6 +698,34 @@
     ]
   },
   {
+    "word": "fingernail",
+    "say": "FING-ger-nayl",
+    "forms": [
+      "fingernails"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The hard part at the end of a finger.",
+          "examples": [
+            "I cut my fingernail.",
+            "The fingernail is long.",
+            "She painted her fingernails."
+          ]
+        },
+        "more": {
+          "def": "The hard, flat covering at the end of each finger.",
+          "examples": [
+            "I clipped my fingernails.",
+            "She painted her fingernails pink.",
+            "The fingernail was broken."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fingerprint",
     "say": "FING-ger-print",
     "forms": [
@@ -773,6 +832,34 @@
             "We roasted marshmallows over the campfire.",
             "The firefighters put out the fire at the old barn.",
             "Fire needs air to keep burning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fireplace",
+    "say": "FYR-plays",
+    "forms": [
+      "fireplaces"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place in a wall where you light a fire.",
+          "examples": [
+            "We sit by the fireplace.",
+            "The fireplace is warm.",
+            "Logs are in the fireplace."
+          ]
+        },
+        "more": {
+          "def": "A space in a wall or room where a fire is made, with a chimney above it.",
+          "examples": [
+            "We sat by the fireplace to get warm.",
+            "Logs crackled in the fireplace.",
+            "Stockings hung over the fireplace."
           ]
         }
       }

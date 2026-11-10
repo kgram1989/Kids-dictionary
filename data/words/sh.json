@@ -190,6 +190,35 @@
     ]
   },
   {
+    "word": "shallow",
+    "say": "SHAL-oh",
+    "forms": [
+      "shallower",
+      "shallowest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not deep.",
+          "examples": [
+            "The pond is shallow.",
+            "A shallow dish.",
+            "The water is shallow here."
+          ]
+        },
+        "more": {
+          "def": "Not deep, with only a short distance from the top to the bottom.",
+          "examples": [
+            "The pond is shallow, so we can wade.",
+            "I put the soup in a shallow bowl.",
+            "The water at the beach is shallow."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shame",
     "say": "shaym",
     "forms": [
@@ -1834,6 +1863,53 @@
             "Please shut the gate so the sheep stay in the field.",
             "He shut the lid on the box.",
             "The shop shuts at six o'clock."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shuttle",
+    "say": "SHUT-ul",
+    "forms": [
+      "shuttles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bus or van that goes back and forth.",
+          "examples": [
+            "The shuttle takes us to the airport.",
+            "We rode the shuttle.",
+            "The shuttle is free."
+          ]
+        },
+        "more": {
+          "def": "A bus, train or plane that travels back and forth over a short distance.",
+          "examples": [
+            "The hotel shuttle takes us to the airport.",
+            "We rode the shuttle between the parking lot and the gate.",
+            "A shuttle runs every ten minutes."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A spacecraft that goes to space and returns.",
+          "examples": [
+            "The space shuttle blasted off.",
+            "We watched the shuttle.",
+            "The shuttle landed."
+          ]
+        },
+        "more": {
+          "def": "A spacecraft with wings that carries astronauts into space and lands like a plane.",
+          "examples": [
+            "The space shuttle blasted off from Florida.",
+            "Astronauts rode the shuttle to the space station.",
+            "The shuttle landed on a long runway."
           ]
         }
       }

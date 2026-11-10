@@ -185,6 +185,31 @@
     ]
   },
   {
+    "word": "trading",
+    "say": "TRAY-ding",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Buying and selling or swapping.",
+          "examples": [
+            "The kids do trading cards.",
+            "Trading is fun.",
+            "The trading post."
+          ]
+        },
+        "more": {
+          "def": "The act of buying, selling or swapping things.",
+          "examples": [
+            "The kids enjoy trading cards at recess.",
+            "Trading with other countries helps both.",
+            "The old trading post sold furs."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tradition",
     "say": "truh-DISH-un",
     "forms": [
@@ -445,6 +470,34 @@
             "She trained her puppy to sit and stay.",
             "The runners train every morning for the big race.",
             "Doctors train for many years before they work."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "trainer",
+    "say": "TRAY-ner",
+    "forms": [
+      "trainers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who teaches an animal or athlete.",
+          "examples": [
+            "The trainer taught the dog.",
+            "A horse trainer works here.",
+            "The trainer helped the team."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to teach or coach people or animals.",
+          "examples": [
+            "The dog trainer taught the puppy to sit.",
+            "The team's trainer helped with exercises.",
+            "The trainer worked with the horse every morning."
           ]
         }
       }
@@ -746,6 +799,31 @@
             "The truck transports fruit to the stores.",
             "Trains transport people across the country.",
             "Ships transport goods across the sea."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "transportation",
+    "say": "trans-per-TAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Ways of getting from place to place.",
+          "examples": [
+            "Buses are transportation.",
+            "Trains are transportation.",
+            "I need transportation."
+          ]
+        },
+        "more": {
+          "def": "The act of moving people or goods from one place to another, or the vehicles used for it.",
+          "examples": [
+            "Buses and trains are public transportation.",
+            "We need transportation to the airport.",
+            "Bikes are cheap transportation."
           ]
         }
       }
@@ -1072,6 +1150,34 @@
     ]
   },
   {
+    "word": "treaty",
+    "say": "TREE-tee",
+    "forms": [
+      "treaties"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A written peace agreement.",
+          "examples": [
+            "The countries signed a treaty.",
+            "The treaty ended the war.",
+            "The treaty is old."
+          ]
+        },
+        "more": {
+          "def": "A written agreement between countries that they promise to keep.",
+          "examples": [
+            "The two countries signed a peace treaty.",
+            "The treaty ended the long war.",
+            "The old treaty is kept in a museum."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tree",
     "say": "tree",
     "emoji": "🌳",
@@ -1159,6 +1265,36 @@
     ]
   },
   {
+    "word": "trespass",
+    "say": "TRES-pus",
+    "forms": [
+      "trespasses",
+      "trespassed",
+      "trespassing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go onto someone's land without permission.",
+          "examples": [
+            "Do not trespass.",
+            "The sign said No Trespassing.",
+            "He trespassed on the farm."
+          ]
+        },
+        "more": {
+          "def": "To enter someone's property without permission.",
+          "examples": [
+            "The sign warned people not to trespass.",
+            "The boys trespassed on the farm.",
+            "Trespassing is not allowed here."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "trial",
     "say": "TRY-ul",
     "forms": [
@@ -1228,6 +1364,34 @@
             "The tribe lived beside the river for hundreds of years.",
             "The tribe held a feast each autumn.",
             "Each tribe had its own chief."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tribute",
+    "say": "TRIB-yoot",
+    "forms": [
+      "tributes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words or gifts that show respect.",
+          "examples": [
+            "They paid tribute to the hero.",
+            "The tribute was moving.",
+            "A tribute to the teacher."
+          ]
+        },
+        "more": {
+          "def": "Something done or said to show thanks or respect.",
+          "examples": [
+            "They paid tribute to the brave firefighter.",
+            "The class made a tribute to their teacher.",
+            "The song was a tribute to the soldiers."
           ]
         }
       }
@@ -1380,6 +1544,42 @@
     ]
   },
   {
+    "word": "trim",
+    "say": "trim",
+    "forms": [
+      "trims",
+      "trimmed",
+      "trimming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cut a little off.",
+          "examples": [
+            "I trim my hair.",
+            "Dad trimmed the hedge.",
+            "She trimmed the paper."
+          ]
+        },
+        "more": {
+          "def": "To cut a small amount off something to make it neat.",
+          "examples": [
+            "The gardener trimmed the rose bushes in spring.",
+            "She trimmed the edges of the paper.",
+            "The barber trimmed his hair."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "trimmer",
+        "def": "A tool for trimming."
+      }
+    ]
+  },
+  {
     "word": "trip",
     "say": "trip",
     "emoji": "🧳",
@@ -1473,6 +1673,62 @@
             "The town's size tripled in ten years.",
             "I tripled the recipe for the party.",
             "The price of tickets tripled."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "triumph",
+    "say": "TRY-umf",
+    "forms": [
+      "triumphs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A great win.",
+          "examples": [
+            "The win was a triumph.",
+            "She shouted in triumph.",
+            "The team had a triumph."
+          ]
+        },
+        "more": {
+          "def": "A great victory or success.",
+          "examples": [
+            "The win was a triumph for the team.",
+            "She raised her arms in triumph.",
+            "Climbing the mountain was a great triumph."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "troop",
+    "say": "troop",
+    "forms": [
+      "troops"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of scouts.",
+          "examples": [
+            "Our scout troop meets on Friday.",
+            "The troop went camping.",
+            "The troop has ten kids."
+          ]
+        },
+        "more": {
+          "def": "A group of scouts or other people who do things together.",
+          "examples": [
+            "Our scout troop meets on Fridays.",
+            "The troop went camping by the lake.",
+            "A troop of monkeys crossed the road."
           ]
         }
       }

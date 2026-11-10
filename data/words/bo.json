@@ -492,6 +492,36 @@
     ]
   },
   {
+    "word": "boost",
+    "say": "boost",
+    "forms": [
+      "boosts",
+      "boosted",
+      "boosting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To lift or help.",
+          "examples": [
+            "I boost my friend up.",
+            "The snack boosted my energy.",
+            "A good sleep boosts your mood."
+          ]
+        },
+        "more": {
+          "def": "To lift or push up something, or to make it stronger.",
+          "examples": [
+            "I boosted my friend up the wall.",
+            "A snack boosted my energy.",
+            "Praise boosted her confidence."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "boot",
     "say": "boot",
     "emoji": "🥾",
@@ -1201,6 +1231,53 @@
             "He packed his books in a cardboard box.",
             "A box of crayons sat on the desk.",
             "The cat curled up in an empty box."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "boxer",
+    "say": "BOK-ser",
+    "forms": [
+      "boxers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who boxes.",
+          "examples": [
+            "The boxer trained hard.",
+            "A boxer wears gloves.",
+            "He is a boxer."
+          ]
+        },
+        "more": {
+          "def": "A person who fights in the sport of boxing.",
+          "examples": [
+            "The boxer trained hard at the gym.",
+            "A boxer wears padded gloves.",
+            "The boxer won the match."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dog with a short, wrinkled face.",
+          "examples": [
+            "A boxer is a type of dog.",
+            "The boxer wagged its tail.",
+            "We have a boxer."
+          ]
+        },
+        "more": {
+          "def": "A strong, muscular dog with a short coat and a flat, wrinkled face.",
+          "examples": [
+            "A boxer is a friendly, playful dog.",
+            "The boxer jumped up to greet us.",
+            "Our boxer loves to play fetch."
           ]
         }
       }

@@ -431,5 +431,33 @@
         }
       }
     ]
+  },
+  {
+    "word": "veteran",
+    "say": "VET-er-un",
+    "forms": [
+      "veterans"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who served in the army.",
+          "examples": [
+            "The veteran told a story.",
+            "My grandpa is a veteran.",
+            "Veterans march in the parade."
+          ]
+        },
+        "more": {
+          "def": "A person who has served in the military, or someone with a lot of experience.",
+          "examples": [
+            "My grandpa is a veteran of the navy.",
+            "Veterans marched in the parade.",
+            "She is a veteran teacher with twenty years of experience."
+          ]
+        }
+      }
+    ]
   }
 ]

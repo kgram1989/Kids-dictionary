@@ -1162,5 +1162,41 @@
         }
       }
     ]
+  },
+  {
+    "word": "clumsy",
+    "say": "KLUM-zee",
+    "forms": [
+      "clumsier",
+      "clumsiest",
+      "clumsily"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not good at moving carefully.",
+          "examples": [
+            "I am clumsy.",
+            "The clumsy puppy fell.",
+            "A clumsy boy tripped."
+          ]
+        },
+        "more": {
+          "def": "Awkward and likely to bump into or break things.",
+          "examples": [
+            "The clumsy puppy tripped over its paws.",
+            "I am clumsy when I carry a lot of plates.",
+            "A clumsy mistake spilled the milk."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "clumsiness",
+        "def": "Being clumsy."
+      }
+    ]
   }
 ]

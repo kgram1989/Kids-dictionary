@@ -808,6 +808,36 @@
     ]
   },
   {
+    "word": "reconsider",
+    "say": "ree-kun-SID-er",
+    "forms": [
+      "reconsiders",
+      "reconsidered",
+      "reconsidering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To think again.",
+          "examples": [
+            "I reconsider my choice.",
+            "She reconsidered.",
+            "Please reconsider."
+          ]
+        },
+        "more": {
+          "def": "To think about something again, to see if you want to change your mind.",
+          "examples": [
+            "I reconsidered my choice and picked red.",
+            "She reconsidered and decided to go.",
+            "Please reconsider the plan."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "record",
     "say": "REK-erd",
     "forms": [
@@ -871,6 +901,53 @@
             "The band recorded a new song in the studio.",
             "She recorded the frogs singing at the pond.",
             "Dad recorded my piano show on his phone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "recorder",
+    "say": "rih-KOR-der",
+    "forms": [
+      "recorders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A simple musical pipe.",
+          "examples": [
+            "I play the recorder.",
+            "The recorder is plastic.",
+            "We play the recorder in music."
+          ]
+        },
+        "more": {
+          "def": "A simple wooden or plastic pipe that you blow into to play music.",
+          "examples": [
+            "I play the recorder in music class.",
+            "The recorder makes a high sound.",
+            "We learned a song on the recorder."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that records sounds.",
+          "examples": [
+            "I used a recorder.",
+            "The recorder is on.",
+            "The tape recorder is old."
+          ]
+        },
+        "more": {
+          "def": "A machine that records sound or pictures so they can be played again.",
+          "examples": [
+            "I used a recorder to tape the bird's song.",
+            "The recorder is on the desk.",
+            "The old tape recorder still works."
           ]
         }
       }
@@ -1243,6 +1320,53 @@
       {
         "word": "reflector",
         "def": "A thing that sends light back."
+      }
+    ]
+  },
+  {
+    "word": "reflection",
+    "say": "rih-FLEK-shun",
+    "forms": [
+      "reflections"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An image you see in a mirror or water.",
+          "examples": [
+            "I see my reflection.",
+            "The reflection in the lake.",
+            "Her reflection smiled."
+          ]
+        },
+        "more": {
+          "def": "The picture of something that you see in a mirror, glass or water.",
+          "examples": [
+            "I saw my reflection in the window.",
+            "The trees made a reflection in the lake.",
+            "Her reflection smiled back at her."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Careful thought.",
+          "examples": [
+            "After reflection, I chose red.",
+            "She spent time in reflection.",
+            "The reflection took an hour."
+          ]
+        },
+        "more": {
+          "def": "Serious thinking about something.",
+          "examples": [
+            "After some reflection, I decided to say sorry.",
+            "She spent a quiet hour in reflection.",
+            "The poem is about reflection."
+          ]
+        }
       }
     ]
   },
@@ -1866,6 +1990,59 @@
     ]
   },
   {
+    "word": "relevant",
+    "say": "REL-uh-vunt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with the subject.",
+          "examples": [
+            "The facts are relevant.",
+            "The question was relevant.",
+            "Her answer was relevant."
+          ]
+        },
+        "more": {
+          "def": "Closely connected to what is being talked about.",
+          "examples": [
+            "The facts are relevant to the case.",
+            "Her question was relevant to the lesson.",
+            "Only relevant details should go in the report."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "reliable",
+    "say": "rih-LY-uh-bul",
+    "forms": [
+      "reliably"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to be trusted.",
+          "examples": [
+            "She is a reliable friend.",
+            "The car is reliable.",
+            "The bus is reliable."
+          ]
+        },
+        "more": {
+          "def": "Able to be counted on to do what is expected.",
+          "examples": [
+            "She is a reliable friend who is always on time.",
+            "The old truck is very reliable.",
+            "The reliable bus always came at eight."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "relief",
     "say": "rih-LEEF",
     "forms": [
@@ -1974,6 +2151,34 @@
             "A church is a religious building.",
             "The family celebrates a religious holiday in the spring.",
             "He is a religious person who prays every day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "reluctant",
+    "say": "rih-LUK-tunt",
+    "forms": [
+      "reluctantly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not wanting to do something.",
+          "examples": [
+            "I am reluctant to go.",
+            "The reluctant boy sat.",
+            "She was reluctant to speak."
+          ]
+        },
+        "more": {
+          "def": "Not eager, because you do not really want to do something.",
+          "examples": [
+            "I was reluctant to jump into the cold water.",
+            "The reluctant boy sat in the back.",
+            "She was reluctant to speak in front of the class."
           ]
         }
       }
@@ -2353,6 +2558,34 @@
             "We pay the rent on the first of the month.",
             "The rent for the apartment is high.",
             "She paid the rent for the cabin."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "rental",
+    "say": "REN-tul",
+    "forms": [
+      "rentals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you pay to use for a while.",
+          "examples": [
+            "We have a rental car.",
+            "The bike rental is cheap.",
+            "The rental costs ten dollars."
+          ]
+        },
+        "more": {
+          "def": "A thing that you pay to use for a short time, or the act of renting.",
+          "examples": [
+            "We drove a rental car on vacation.",
+            "The bike rental costs ten dollars an hour.",
+            "The beach house is a rental."
           ]
         }
       }
@@ -2765,6 +2998,34 @@
             "Snakes, lizards, and crocodiles are all reptiles.",
             "Reptiles warm their bodies in the sun.",
             "The reptile house at the zoo has lizards and turtles."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "republic",
+    "say": "rih-PUB-lik",
+    "forms": [
+      "republics"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A country where people vote for their leaders.",
+          "examples": [
+            "The country is a republic.",
+            "A republic has a president.",
+            "We live in a republic."
+          ]
+        },
+        "more": {
+          "def": "A country that is ruled by leaders chosen by its people, not by a king or queen.",
+          "examples": [
+            "Our country is a republic.",
+            "In a republic, citizens vote for their leaders.",
+            "The Roman Republic was ruled by elected leaders."
           ]
         }
       }
@@ -3257,6 +3518,34 @@
     ]
   },
   {
+    "word": "respectable",
+    "say": "rih-SPEK-tuh-bul",
+    "forms": [
+      "respectably"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Good and proper.",
+          "examples": [
+            "He is a respectable man.",
+            "A respectable job.",
+            "The score was respectable."
+          ]
+        },
+        "more": {
+          "def": "Deserving respect, or good enough.",
+          "examples": [
+            "He is a respectable member of the town.",
+            "A respectable score is anything above fifty.",
+            "She has a respectable job at the bank."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "respond",
     "say": "rih-SPOND",
     "forms": [
@@ -3610,6 +3899,36 @@
             "The army retreated from the hill.",
             "The tide retreated, leaving shells on the sand.",
             "The turtle retreated into its shell."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "retrieve",
+    "say": "rih-TREEV",
+    "forms": [
+      "retrieves",
+      "retrieved",
+      "retrieving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get back.",
+          "examples": [
+            "The dog will retrieve the ball.",
+            "I retrieved my hat.",
+            "She retrieved her bag."
+          ]
+        },
+        "more": {
+          "def": "To go and get something back.",
+          "examples": [
+            "The dog retrieved the ball from the water.",
+            "I retrieved my hat from the bench.",
+            "She retrieved her bag from the car."
           ]
         }
       }

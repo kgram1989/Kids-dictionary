@@ -48,6 +48,32 @@
     ]
   },
   {
+    "word": "spaghetti",
+    "say": "spuh-GET-ee",
+    "emoji": "🍝",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Long, thin noodles.",
+          "examples": [
+            "I eat spaghetti.",
+            "The spaghetti is hot.",
+            "We had spaghetti for dinner."
+          ]
+        },
+        "more": {
+          "def": "Long, thin strings of pasta that are boiled and eaten with sauce.",
+          "examples": [
+            "We had spaghetti and meatballs for dinner.",
+            "She twirled the spaghetti on her fork.",
+            "The spaghetti was covered in red sauce."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "spare",
     "say": "spair",
     "forms": [
@@ -331,6 +357,34 @@
     ]
   },
   {
+    "word": "specialty",
+    "say": "SPESH-ul-tee",
+    "forms": [
+      "specialties"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you are very good at.",
+          "examples": [
+            "Cooking is her specialty.",
+            "The chef's specialty is soup.",
+            "Drawing is my specialty."
+          ]
+        },
+        "more": {
+          "def": "A thing that a person or place is especially good at.",
+          "examples": [
+            "Pizza is the specialty of this restaurant.",
+            "Her specialty is painting horses.",
+            "Soup is the chef's specialty."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "species",
     "say": "SPEE-sheez",
     "senses": [
@@ -378,6 +432,34 @@
             "Please give a specific time for the party.",
             "I need a specific book for my report.",
             "The teacher asked for specific details in the story."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spectacular",
+    "say": "spek-TAK-yuh-ler",
+    "forms": [
+      "spectacularly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Amazing to see.",
+          "examples": [
+            "The fireworks were spectacular.",
+            "A spectacular view.",
+            "The show was spectacular."
+          ]
+        },
+        "more": {
+          "def": "Very impressive and exciting to look at.",
+          "examples": [
+            "The mountain sunrise was spectacular.",
+            "We had a spectacular view from the top.",
+            "The circus show was spectacular."
           ]
         }
       }
@@ -580,6 +662,34 @@
     ]
   },
   {
+    "word": "spice",
+    "say": "spyss",
+    "forms": [
+      "spices"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A powder from plants that flavors food.",
+          "examples": [
+            "I add spice.",
+            "Cinnamon is a spice.",
+            "The soup needs spice."
+          ]
+        },
+        "more": {
+          "def": "A plant product, such as pepper or cinnamon, that is used to give food flavor.",
+          "examples": [
+            "Cinnamon is my favorite spice.",
+            "Mom added spice to the soup.",
+            "The market sold spices from all over the world."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "spider",
     "say": "SPY-der",
     "emoji": "🕷️",
@@ -703,6 +813,59 @@
             "The dancers spun in a circle."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "spine",
+    "say": "spyn",
+    "forms": [
+      "spines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The bones down your back.",
+          "examples": [
+            "I stand tall with a straight spine.",
+            "The spine is a row of bones.",
+            "The doctor checked his spine."
+          ]
+        },
+        "more": {
+          "def": "The row of connected bones down the middle of your back.",
+          "examples": [
+            "Stand up straight and keep your spine tall.",
+            "The spine protects your nerves.",
+            "The doctor checked her spine."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sharp point on a plant or animal.",
+          "examples": [
+            "The cactus has spines.",
+            "A porcupine has spines.",
+            "The spines are sharp."
+          ]
+        },
+        "more": {
+          "def": "A stiff, sharp point on a cactus or on an animal such as a porcupine.",
+          "examples": [
+            "The cactus has sharp spines.",
+            "A hedgehog's spines stick up when it is scared.",
+            "I got a spine in my finger."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "spiny",
+        "def": "Covered with sharp points."
       }
     ]
   },

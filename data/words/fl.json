@@ -58,6 +58,55 @@
     ]
   },
   {
+    "word": "flap",
+    "say": "flap",
+    "forms": [
+      "flaps",
+      "flapped",
+      "flapping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move up and down quickly.",
+          "examples": [
+            "The bird flaps its wings.",
+            "The flag flapped.",
+            "The sail flapped."
+          ]
+        },
+        "more": {
+          "def": "To move something such as wings or cloth up and down or from side to side.",
+          "examples": [
+            "The bird flapped its wings and took off.",
+            "The flag flapped in the wind.",
+            "The sail flapped loudly."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat piece that hangs loose.",
+          "examples": [
+            "Lift the flap.",
+            "The tent has a flap.",
+            "The envelope flap is open."
+          ]
+        },
+        "more": {
+          "def": "A flat piece that is fixed at one edge and hangs or folds over.",
+          "examples": [
+            "Lift the flap to see the picture.",
+            "The tent door is a flap of cloth.",
+            "The flap of the envelope was sticky."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "flash",
     "say": "flash",
     "emoji": "⚡",
@@ -208,6 +257,35 @@
             "Vanilla is my favorite flavor of ice cream.",
             "The soup had a rich flavor.",
             "The gum lost its flavor quickly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flea",
+    "say": "flee",
+    "emoji": "🪰",
+    "forms": [
+      "fleas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny jumping insect that bites animals.",
+          "examples": [
+            "The dog has a flea.",
+            "A flea can jump high.",
+            "The cat scratched at a flea."
+          ]
+        },
+        "more": {
+          "def": "A tiny insect with no wings that jumps and bites the skin of animals.",
+          "examples": [
+            "The dog scratched at a flea.",
+            "A flea can jump far for its size.",
+            "Fleas live in the fur of cats and dogs."
           ]
         }
       }
@@ -460,6 +538,34 @@
             "A leaf floated slowly down the stream.",
             "The balloon floated up over the rooftops.",
             "Ice floats because it is lighter than water."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flock",
+    "say": "flok",
+    "forms": [
+      "flocks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of birds or sheep.",
+          "examples": [
+            "A flock of geese flew by.",
+            "The flock is large.",
+            "The shepherd watched the flock."
+          ]
+        },
+        "more": {
+          "def": "A group of birds, sheep or goats that stay together.",
+          "examples": [
+            "A flock of geese flew south.",
+            "The shepherd watched his flock.",
+            "A flock of sheep grazed on the hill."
           ]
         }
       }
@@ -788,6 +894,34 @@
             "A fly buzzed against the window and could not find the way out.",
             "Frogs catch flies with their long, sticky tongues.",
             "Flies can walk upside down on the ceiling."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flyer",
+    "say": "FLY-er",
+    "forms": [
+      "flyers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A paper that tells about an event.",
+          "examples": [
+            "I got a flyer about the fair.",
+            "The flyer is bright.",
+            "They handed out flyers."
+          ]
+        },
+        "more": {
+          "def": "A single printed page that advertises an event or sale.",
+          "examples": [
+            "I got a flyer about the school fair.",
+            "The flyer had a picture of a clown.",
+            "They handed out flyers in the park."
           ]
         }
       }

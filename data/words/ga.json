@@ -117,6 +117,34 @@
     ]
   },
   {
+    "word": "gallon",
+    "say": "GAL-un",
+    "forms": [
+      "gallons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big unit for measuring liquid.",
+          "examples": [
+            "I bought a gallon of milk.",
+            "The jug holds a gallon.",
+            "A gallon is big."
+          ]
+        },
+        "more": {
+          "def": "A unit for measuring liquid, equal to four quarts.",
+          "examples": [
+            "The tank holds ten gallons of water.",
+            "The jug holds one gallon of water.",
+            "A gallon is four quarts."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "game",
     "say": "gaym",
     "forms": [
@@ -287,6 +315,32 @@
             "We grow tomatoes in our garden.",
             "Bees buzzed around the flower garden.",
             "The school garden has carrots and beans."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "garlic",
+    "say": "GAR-lik",
+    "emoji": "🧄",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A plant with a strong smell used in cooking.",
+          "examples": [
+            "The garlic smells strong.",
+            "Mom added garlic.",
+            "The garlic bulb has cloves."
+          ]
+        },
+        "more": {
+          "def": "A plant with a strong smell and taste that is used to flavor food.",
+          "examples": [
+            "Mom added garlic to the sauce.",
+            "The garlic smelled strong.",
+            "Garlic bread is my favorite."
           ]
         }
       }
