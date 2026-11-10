@@ -125,6 +125,31 @@
     ]
   },
   {
+    "word": "clay",
+    "say": "klay",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Soft, sticky earth that can be shaped.",
+          "examples": [
+            "I made a bowl out of clay.",
+            "The clay is wet.",
+            "We played with clay."
+          ]
+        },
+        "more": {
+          "def": "A soft, sticky kind of earth that hardens when it is baked, used to make pots and bricks.",
+          "examples": [
+            "The potter shaped the clay into a bowl.",
+            "Bricks are made from baked clay.",
+            "We molded animals out of clay."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clean",
     "say": "kleen",
     "emoji": "🧼",
@@ -171,6 +196,53 @@
             "We cleaned the beach by picking up all the trash.",
             "Please clean your hands before you eat.",
             "She cleaned the muddy boots with a brush."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cleaner",
+    "say": "KLEE-ner",
+    "forms": [
+      "cleaners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who cleans.",
+          "examples": [
+            "The cleaner washes windows.",
+            "A cleaner works at the school.",
+            "The cleaner mopped."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to clean buildings or homes.",
+          "examples": [
+            "The cleaner mopped the floors after school.",
+            "A window cleaner stood on a tall ladder.",
+            "The cleaners arrive at night."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A product used to clean things.",
+          "examples": [
+            "The cleaner smells like lemon.",
+            "Use the cleaner on the sink.",
+            "Glass cleaner is blue."
+          ]
+        },
+        "more": {
+          "def": "A liquid or powder that you use to clean something.",
+          "examples": [
+            "The cleaner smelled like lemons.",
+            "Dad sprayed cleaner on the counter.",
+            "The glass cleaner left the window sparkling."
           ]
         }
       }

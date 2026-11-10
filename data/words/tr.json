@@ -267,6 +267,34 @@
     ]
   },
   {
+    "word": "tragic",
+    "say": "TRAJ-ik",
+    "forms": [
+      "tragically"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very sad.",
+          "examples": [
+            "The story had a tragic end.",
+            "A tragic accident happened.",
+            "It was tragic news."
+          ]
+        },
+        "more": {
+          "def": "Causing great sadness because something terrible happened.",
+          "examples": [
+            "The story had a tragic ending.",
+            "The flood was a tragic event for the village.",
+            "We heard the tragic news on the radio."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "trail",
     "say": "trayl",
     "emoji": "🥾",
@@ -292,6 +320,53 @@
             "We followed the trail through the woods.",
             "Hikers walked along a rocky trail up the mountain.",
             "A trail of footprints led to the door."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "trailer",
+    "say": "TRAY-ler",
+    "forms": [
+      "trailers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wagon pulled behind a car or truck.",
+          "examples": [
+            "The truck pulls a trailer.",
+            "The trailer holds the boat.",
+            "We loaded the trailer."
+          ]
+        },
+        "more": {
+          "def": "A wheeled box or cart pulled behind a car or truck.",
+          "examples": [
+            "The truck pulled a trailer with a boat on it.",
+            "We loaded the trailer with camping gear.",
+            "The horse trailer is parked by the barn."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short clip that shows a new movie.",
+          "examples": [
+            "We saw the trailer.",
+            "The trailer was exciting.",
+            "The trailer for the movie was funny."
+          ]
+        },
+        "more": {
+          "def": "A short film that shows parts of a movie to get people to watch it.",
+          "examples": [
+            "We watched the trailer before the movie started.",
+            "The trailer made me want to see the film.",
+            "The trailer for the new cartoon was funny."
           ]
         }
       }

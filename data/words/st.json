@@ -142,6 +142,55 @@
     ]
   },
   {
+    "word": "stain",
+    "say": "stayn",
+    "forms": [
+      "stains",
+      "stained",
+      "staining"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A spot that is hard to wash off.",
+          "examples": [
+            "There is a stain on my shirt.",
+            "The juice made a stain.",
+            "The stain will not come out."
+          ]
+        },
+        "more": {
+          "def": "A mark made by something that has soaked into cloth or other material.",
+          "examples": [
+            "There is a grape juice stain on my shirt.",
+            "The red wine left a stain on the rug.",
+            "A coffee stain spread across the paper."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To leave a spot on something.",
+          "examples": [
+            "The juice will stain my shirt.",
+            "The berries stained my fingers.",
+            "The ink stained the table."
+          ]
+        },
+        "more": {
+          "def": "To leave a mark that is hard to get out.",
+          "examples": [
+            "Berries stained my fingers purple.",
+            "The paint stained my jeans.",
+            "The tea stained the tablecloth."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "stairs",
     "say": "stairz",
     "emoji": "🪜",
@@ -709,6 +758,35 @@
     ]
   },
   {
+    "word": "statue",
+    "say": "STACH-oo",
+    "emoji": "🗽",
+    "forms": [
+      "statues"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A figure made of stone or metal.",
+          "examples": [
+            "The statue stands in the park.",
+            "The statue is big.",
+            "I saw a statue of a horse."
+          ]
+        },
+        "more": {
+          "def": "A figure of a person or animal made from stone, metal or clay.",
+          "examples": [
+            "A statue of a horse stands in the park.",
+            "The Statue of Liberty is a famous statue.",
+            "The artist carved a statue from marble."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "stay",
     "say": "stay",
     "forms": [
@@ -1065,6 +1143,42 @@
     ]
   },
   {
+    "word": "stiff",
+    "say": "stif",
+    "forms": [
+      "stiffer",
+      "stiffest",
+      "stiffly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Hard to bend.",
+          "examples": [
+            "The cardboard is stiff.",
+            "My neck is stiff.",
+            "The brush is stiff."
+          ]
+        },
+        "more": {
+          "def": "Not easy to bend or move.",
+          "examples": [
+            "The new leather shoes are stiff.",
+            "My neck felt stiff after sleeping badly.",
+            "The stiff cardboard would not fold."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "stiffness",
+        "def": "Being stiff."
+      }
+    ]
+  },
+  {
     "word": "still",
     "say": "stil",
     "senses": [
@@ -1153,6 +1267,36 @@
             "A terrible stink came from the old trash can.",
             "The stink of a skunk can last for days.",
             "We opened the windows to let out the stink."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stir",
+    "say": "ster",
+    "forms": [
+      "stirs",
+      "stirred",
+      "stirring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To mix something with a spoon.",
+          "examples": [
+            "I stir the soup.",
+            "She stirred the paint.",
+            "Stir the batter."
+          ]
+        },
+        "more": {
+          "def": "To mix something by moving a spoon around in it.",
+          "examples": [
+            "I stirred the soup with a big spoon.",
+            "Stir the batter until it is smooth.",
+            "She stirred sugar into her tea."
           ]
         }
       }
@@ -1984,6 +2128,53 @@
     ]
   },
   {
+    "word": "structure",
+    "say": "STRUK-cher",
+    "forms": [
+      "structures"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that is built.",
+          "examples": [
+            "The tower is a tall structure.",
+            "The bridge is a strong structure.",
+            "The structure is old."
+          ]
+        },
+        "more": {
+          "def": "Something that has been built, such as a building or a bridge.",
+          "examples": [
+            "The Eiffel Tower is a tall structure.",
+            "The old bridge is a sturdy structure.",
+            "The bird built a neat structure out of twigs."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way the parts of something are put together.",
+          "examples": [
+            "The structure of a leaf is thin.",
+            "The structure of the story was clear.",
+            "The body has a structure."
+          ]
+        },
+        "more": {
+          "def": "The way that the parts of something are arranged.",
+          "examples": [
+            "The structure of a leaf helps it catch sunlight.",
+            "The story has a simple structure with three parts.",
+            "Scientists study the structure of the body."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "struggle",
     "say": "STRUG-ul",
     "forms": [
@@ -2190,6 +2381,34 @@
             "Put all your stuff in your backpack before you leave.",
             "What is that sticky stuff on the table?",
             "There is a lot of old stuff in the attic."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stunt",
+    "say": "stunt",
+    "forms": [
+      "stunts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dangerous or tricky act.",
+          "examples": [
+            "The stunt was amazing.",
+            "He did a stunt on his bike.",
+            "A stunt performer jumped."
+          ]
+        },
+        "more": {
+          "def": "A difficult or daring act that is done to show skill or to be exciting.",
+          "examples": [
+            "The rider did a stunt on his bike.",
+            "A stunt performer jumped over the cars in the movie.",
+            "The circus had a stunt with a flying trapeze."
           ]
         }
       }

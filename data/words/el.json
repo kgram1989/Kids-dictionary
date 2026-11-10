@@ -1,5 +1,52 @@
 [
   {
+    "word": "elder",
+    "say": "EL-der",
+    "forms": [
+      "elders"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Older.",
+          "examples": [
+            "My elder sister is ten.",
+            "He is the elder brother.",
+            "The elder child helped."
+          ]
+        },
+        "more": {
+          "def": "Older than another person, usually in the same family.",
+          "examples": [
+            "My elder sister is in fifth grade.",
+            "The elder of the two brothers cooked dinner.",
+            "She looked after her elder cousin's dog."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An older person who is respected.",
+          "examples": [
+            "The elders told stories.",
+            "We listen to our elders.",
+            "The village elder spoke."
+          ]
+        },
+        "more": {
+          "def": "An older person who is respected by a group.",
+          "examples": [
+            "The village elders told stories by the fire.",
+            "The tribe's elders met to settle the dispute.",
+            "The elders gave advice to the young."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "election",
     "say": "ih-LEK-shun",
     "forms": [
@@ -48,6 +95,32 @@
             "I use an electric toothbrush.",
             "The electric train ran along the track.",
             "Dad bought an electric car."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "electricity",
+    "say": "ih-lek-TRISS-ih-tee",
+    "emoji": "⚡",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind of power that runs lights and machines.",
+          "examples": [
+            "The storm knocked out the electricity.",
+            "Wires carry electricity.",
+            "A lamp needs electricity."
+          ]
+        },
+        "more": {
+          "def": "A form of energy that flows through wires and makes lights and machines work.",
+          "examples": [
+            "The storm knocked out the electricity in our town.",
+            "Wires carry electricity to our homes.",
+            "Solar panels turn sunlight into electricity."
           ]
         }
       }

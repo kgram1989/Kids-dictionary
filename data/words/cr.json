@@ -49,6 +49,34 @@
     ]
   },
   {
+    "word": "cracker",
+    "say": "KRAK-er",
+    "forms": [
+      "crackers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin, dry bread snack.",
+          "examples": [
+            "I eat a cracker.",
+            "The cracker is crunchy.",
+            "We had cheese and crackers."
+          ]
+        },
+        "more": {
+          "def": "A thin, crisp bit of baked bread that is eaten as a snack.",
+          "examples": [
+            "I ate cheese and crackers after school.",
+            "The cracker broke into crumbs.",
+            "She put peanut butter on a cracker."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "crash",
     "say": "krash",
     "forms": [
@@ -350,6 +378,35 @@
     ]
   },
   {
+    "word": "creepy",
+    "say": "KREE-pee",
+    "forms": [
+      "creepier",
+      "creepiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Strange and a little scary.",
+          "examples": [
+            "The old house is creepy.",
+            "The dark forest was creepy.",
+            "A creepy sound came from the attic."
+          ]
+        },
+        "more": {
+          "def": "Strange in a way that makes you feel a little scared.",
+          "examples": [
+            "The empty house looked creepy at night.",
+            "A creepy noise came from the closet.",
+            "The fog made the forest feel creepy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "crew",
     "say": "croo",
     "forms": [
@@ -456,6 +513,53 @@
             "The flood put the town in crisis.",
             "The teacher stayed calm during the crisis.",
             "A crisis can bring neighbors together."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "critical",
+    "say": "KRIT-ih-kul",
+    "forms": [
+      "critically"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very important.",
+          "examples": [
+            "The first step is critical.",
+            "Water is critical for plants.",
+            "Sleep is critical."
+          ]
+        },
+        "more": {
+          "def": "Extremely important, because a lot depends on it.",
+          "examples": [
+            "Water is critical for plants to grow.",
+            "The next few minutes are critical for the team.",
+            "It is critical to wear a seat belt."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Saying what is wrong with something.",
+          "examples": [
+            "He was critical of my drawing.",
+            "The teacher was not critical.",
+            "A critical remark hurt her."
+          ]
+        },
+        "more": {
+          "def": "Pointing out faults or mistakes in something.",
+          "examples": [
+            "He was critical of my drawing and said it was messy.",
+            "A critical remark hurt her feelings.",
+            "The reviewer was critical of the movie."
           ]
         }
       }

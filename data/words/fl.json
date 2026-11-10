@@ -157,6 +157,36 @@
     ]
   },
   {
+    "word": "flee",
+    "say": "flee",
+    "forms": [
+      "flees",
+      "fled",
+      "fleeing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To run away from something.",
+          "examples": [
+            "The rabbit fled.",
+            "The birds flee from the cat.",
+            "The people fled the flood."
+          ]
+        },
+        "more": {
+          "def": "To run away quickly from danger.",
+          "examples": [
+            "The rabbit fled from the fox.",
+            "The birds fled when the cat crept near.",
+            "The villagers fled from the rising flood."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "flesh",
     "say": "flesh",
     "senses": [
@@ -440,6 +470,34 @@
             "A bee landed on the yellow flower.",
             "The garden is full of flowers.",
             "She picked a flower for her teacher."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fluid",
+    "say": "FLOO-id",
+    "forms": [
+      "fluids"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that flows, like water.",
+          "examples": [
+            "Water is a fluid.",
+            "The fluid is thin.",
+            "Drink plenty of fluids."
+          ]
+        },
+        "more": {
+          "def": "A substance such as water or air that can flow.",
+          "examples": [
+            "Water and juice are fluids.",
+            "The doctor said to drink plenty of fluids.",
+            "A fluid takes the shape of its container."
           ]
         }
       }

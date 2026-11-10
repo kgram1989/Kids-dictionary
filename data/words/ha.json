@@ -211,6 +211,62 @@
     ]
   },
   {
+    "word": "halt",
+    "say": "hawlt",
+    "forms": [
+      "halts",
+      "halted",
+      "halting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop.",
+          "examples": [
+            "The bus halted.",
+            "Halt! Do not go on.",
+            "The rain halted the game."
+          ]
+        },
+        "more": {
+          "def": "To stop moving or make something stop.",
+          "examples": [
+            "The train halted at the station.",
+            "The rain halted the game for an hour.",
+            "The guard told us to halt."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ham",
+    "say": "ham",
+    "emoji": "🍖",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Meat from a pig that has been smoked or salted.",
+          "examples": [
+            "We had a ham sandwich.",
+            "The ham is pink.",
+            "Dad sliced the ham."
+          ]
+        },
+        "more": {
+          "def": "Salted or smoked meat from the leg of a pig, eaten cold or hot.",
+          "examples": [
+            "I had a ham and cheese sandwich.",
+            "We cooked a ham for the holiday dinner.",
+            "He sliced the ham for lunch."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hammer",
     "say": "HAM-er",
     "emoji": "🔨",
@@ -399,6 +455,35 @@
             "The handsome prince rode a white horse.",
             "The horse looked handsome in his blanket.",
             "He was a handsome man with a kind smile."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "handy",
+    "say": "HAN-dee",
+    "forms": [
+      "handier",
+      "handiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Easy to reach or use.",
+          "examples": [
+            "A flashlight is handy.",
+            "The map is handy.",
+            "Keep it handy."
+          ]
+        },
+        "more": {
+          "def": "Useful, or close by so that you can use it easily.",
+          "examples": [
+            "A flashlight is handy in a power cut.",
+            "Keep a pencil handy for notes.",
+            "He is handy with a hammer."
           ]
         }
       }

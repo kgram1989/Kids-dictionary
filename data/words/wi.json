@@ -735,5 +735,34 @@
         }
       }
     ]
+  },
+  {
+    "word": "wizard",
+    "say": "WIZ-erd",
+    "emoji": "🧙",
+    "forms": [
+      "wizards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man in stories who does magic.",
+          "examples": [
+            "The wizard waved a wand.",
+            "The wizard wore a tall hat.",
+            "The wizard cast a spell."
+          ]
+        },
+        "more": {
+          "def": "A man in stories who has magic powers.",
+          "examples": [
+            "The wizard waved his wand and the cup flew.",
+            "The old wizard lived in a tower.",
+            "In the story, the wizard helped the lost boy."
+          ]
+        }
+      }
+    ]
   }
 ]

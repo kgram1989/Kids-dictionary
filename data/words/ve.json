@@ -1,5 +1,34 @@
 [
   {
+    "word": "vegetable",
+    "say": "VEJ-tuh-bul",
+    "emoji": "🥕",
+    "forms": [
+      "vegetables"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A plant that you eat, like a carrot.",
+          "examples": [
+            "I eat my vegetables.",
+            "A carrot is a vegetable.",
+            "Vegetables are good for you."
+          ]
+        },
+        "more": {
+          "def": "A plant or part of a plant that people eat, such as a carrot, a bean or a potato.",
+          "examples": [
+            "Carrots and peas are vegetables.",
+            "She grew vegetables in the garden.",
+            "We had soup full of vegetables."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vehicle",
     "say": "VEE-ih-kul",
     "emoji": "🚗",
@@ -76,6 +105,53 @@
             "The whale is a very large animal.",
             "It was a very quiet night in the forest.",
             "He was very proud of his drawing."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vessel",
+    "say": "VES-ul",
+    "forms": [
+      "vessels"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A ship or large boat.",
+          "examples": [
+            "The vessel sailed.",
+            "A vessel is in the bay.",
+            "The vessel was big."
+          ]
+        },
+        "more": {
+          "def": "A ship or large boat.",
+          "examples": [
+            "The vessel sailed out of the harbor.",
+            "A fishing vessel returned at dawn.",
+            "The huge vessel carried goods across the ocean."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bowl or bottle for water.",
+          "examples": [
+            "A vase is a vessel.",
+            "The vessel holds water.",
+            "Put the water in the vessel."
+          ]
+        },
+        "more": {
+          "def": "A container such as a bowl or bottle, used for holding liquid.",
+          "examples": [
+            "A jug is a vessel for carrying water.",
+            "The potter made a clay vessel.",
+            "Pour the milk into a clean vessel."
           ]
         }
       }

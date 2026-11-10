@@ -28,6 +28,34 @@
     ]
   },
   {
+    "word": "bachelor",
+    "say": "BACH-uh-ler",
+    "forms": [
+      "bachelors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man who is not married.",
+          "examples": [
+            "The bachelor lived alone.",
+            "He is a bachelor.",
+            "The bachelor cooked for himself."
+          ]
+        },
+        "more": {
+          "def": "A man who has never been married.",
+          "examples": [
+            "The bachelor lived alone in a small house.",
+            "He remained a bachelor all his life.",
+            "The neighbor is a bachelor who loves gardening."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "back",
     "say": "bak",
     "senses": [
@@ -122,6 +150,32 @@
             "He walked backwards down the hall.",
             "She said the alphabet backwards.",
             "The truck rolled backwards down the hill."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bacon",
+    "say": "BAY-kun",
+    "emoji": "🥓",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Salty strips of pork that are fried.",
+          "examples": [
+            "We had bacon for breakfast.",
+            "The bacon is crispy.",
+            "I smell bacon."
+          ]
+        },
+        "more": {
+          "def": "Thin strips of salted pork that are cooked until crisp.",
+          "examples": [
+            "We had bacon and eggs for breakfast.",
+            "The bacon sizzled in the pan.",
+            "She put bacon on her sandwich."
           ]
         }
       }

@@ -1,5 +1,61 @@
 [
   {
+    "word": "dial",
+    "say": "DY-ul",
+    "forms": [
+      "dials",
+      "dialed",
+      "dialled",
+      "dialing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round face with numbers or a knob you turn.",
+          "examples": [
+            "The clock has a dial.",
+            "Turn the dial on the radio.",
+            "The dial shows the speed."
+          ]
+        },
+        "more": {
+          "def": "A round part with marks or numbers that shows a measurement, or a knob that you turn.",
+          "examples": [
+            "The dial on the oven shows the heat.",
+            "He turned the radio dial to find a song.",
+            "The dial of the old clock was cracked."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To call someone on a phone.",
+          "examples": [
+            "I dial Grandma.",
+            "She dialed the number.",
+            "He dialed his friend."
+          ]
+        },
+        "more": {
+          "def": "To call a number on a telephone.",
+          "examples": [
+            "I dialed the number slowly.",
+            "She dialed her aunt to say hello.",
+            "Dial 911 if there is an emergency."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "redial",
+        "def": "To dial again."
+      }
+    ]
+  },
+  {
     "word": "diamond",
     "say": "DY-mund",
     "emoji": "💎",
@@ -61,6 +117,35 @@
             "The players ran onto the diamond.",
             "The pitcher stood in the middle of the diamond.",
             "Fans watched from behind the diamond."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dice",
+    "say": "dyss",
+    "emoji": "🎲",
+    "forms": [
+      "die"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Small cubes with dots that you roll in a game.",
+          "examples": [
+            "I roll the dice.",
+            "The dice have six sides.",
+            "We lost the dice."
+          ]
+        },
+        "more": {
+          "def": "Small cubes with a different number of dots on each side, used in games.",
+          "examples": [
+            "I rolled the dice and moved six spaces.",
+            "Each of the dice has six sides.",
+            "The game needs two dice."
           ]
         }
       }
@@ -309,6 +394,31 @@
     ]
   },
   {
+    "word": "dining",
+    "say": "DY-ning",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Used for eating meals.",
+          "examples": [
+            "We eat in the dining room.",
+            "The dining table is big.",
+            "The dining hall is full."
+          ]
+        },
+        "more": {
+          "def": "Having to do with eating a meal.",
+          "examples": [
+            "We sat at the dining table for dinner.",
+            "The school has a large dining hall.",
+            "The family ate in the dining room."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dinner",
     "say": "DIN-er",
     "forms": [
@@ -331,6 +441,55 @@
             "We set the table for dinner and sat down together.",
             "Dad cooked a pot of soup for dinner.",
             "My grandparents came over for dinner on Sunday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dip",
+    "say": "dip",
+    "forms": [
+      "dips",
+      "dipped",
+      "dipping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put something in a liquid for a moment.",
+          "examples": [
+            "I dip my bread in soup.",
+            "She dipped a toe in the pool.",
+            "Dip the brush in paint."
+          ]
+        },
+        "more": {
+          "def": "To put something into a liquid and take it out quickly.",
+          "examples": [
+            "I dipped my bread in the soup.",
+            "She dipped her toe in the cold water.",
+            "Dad dipped the brush in paint."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thick sauce for chips.",
+          "examples": [
+            "We ate chips and dip.",
+            "The dip is spicy.",
+            "I like bean dip."
+          ]
+        },
+        "more": {
+          "def": "A soft, thick mix that you scoop up with chips or vegetables.",
+          "examples": [
+            "We ate crackers with cheese dip.",
+            "The dip was creamy and mild.",
+            "Carrot sticks go well with the dip."
           ]
         }
       }
@@ -655,6 +814,36 @@
     ]
   },
   {
+    "word": "discharge",
+    "say": "dis-CHARJ",
+    "forms": [
+      "discharges",
+      "discharged",
+      "discharging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let someone go or send something out.",
+          "examples": [
+            "The hospital will discharge him.",
+            "The pipe discharges water.",
+            "The river discharges into the sea."
+          ]
+        },
+        "more": {
+          "def": "To allow someone to leave, or to let something flow out.",
+          "examples": [
+            "The hospital discharged him after two days.",
+            "The pipe discharges water into the river.",
+            "The battery was discharged."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "discover",
     "say": "dis-KUV-er",
     "emoji": "🔍",
@@ -692,6 +881,34 @@
       {
         "word": "rediscover",
         "def": "To find again."
+      }
+    ]
+  },
+  {
+    "word": "discovery",
+    "say": "dis-KUV-er-ee",
+    "forms": [
+      "discoveries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Finding something new.",
+          "examples": [
+            "The scientist made a discovery.",
+            "The discovery was exciting.",
+            "Fire was a great discovery."
+          ]
+        },
+        "more": {
+          "def": "The act of finding something for the first time, or the thing that is found.",
+          "examples": [
+            "The scientist made an exciting discovery.",
+            "The discovery of a new planet surprised everyone.",
+            "Our discovery of a cave was thrilling."
+          ]
+        }
       }
     ]
   },
@@ -782,6 +999,55 @@
     ]
   },
   {
+    "word": "disguise",
+    "say": "dis-GYZE",
+    "forms": [
+      "disguises",
+      "disguised",
+      "disguising"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Clothes or a look that hides who you are.",
+          "examples": [
+            "I wore a disguise.",
+            "The disguise was funny.",
+            "He wore a fake beard as a disguise."
+          ]
+        },
+        "more": {
+          "def": "Something you wear or do to hide who you are.",
+          "examples": [
+            "She wore a wig and glasses as a disguise.",
+            "The spy's disguise fooled everyone.",
+            "The costume was a perfect disguise."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To change how you look to hide who you are.",
+          "examples": [
+            "I disguised myself as a cat.",
+            "She disguised her voice.",
+            "He disguised himself with a hat."
+          ]
+        },
+        "more": {
+          "def": "To change your look or voice so that people do not know you.",
+          "examples": [
+            "He disguised himself as a pirate for the party.",
+            "The fox disguised its voice to trick the hen.",
+            "She disguised the box with wrapping paper."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "disgusting",
     "say": "dis-GUS-ting",
     "emoji": "🤢",
@@ -861,6 +1127,55 @@
             "The teacher dismissed the class at three o'clock.",
             "The principal dismissed the students for lunch.",
             "He dismissed the idea because it was silly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "display",
+    "say": "dih-SPLAY",
+    "forms": [
+      "displays",
+      "displayed",
+      "displaying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To show something.",
+          "examples": [
+            "I display my art.",
+            "The shop displays toys.",
+            "The museum displays old coins."
+          ]
+        },
+        "more": {
+          "def": "To put something where people can see it.",
+          "examples": [
+            "The shop displayed new toys in the window.",
+            "She displayed her drawings on the wall.",
+            "The museum displays old coins in glass cases."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things that are put out for people to see.",
+          "examples": [
+            "The display is in the window.",
+            "The fireworks display was bright.",
+            "I saw a display of shells."
+          ]
+        },
+        "more": {
+          "def": "A group of things set out for people to look at.",
+          "examples": [
+            "The window display had a toy train.",
+            "The fireworks display lit up the sky.",
+            "The science fair had a display of volcanoes."
           ]
         }
       }
@@ -984,6 +1299,34 @@
     ]
   },
   {
+    "word": "ditch",
+    "say": "dich",
+    "forms": [
+      "ditches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, narrow hole in the ground.",
+          "examples": [
+            "Water ran in the ditch.",
+            "The ball rolled into a ditch.",
+            "We jumped over the ditch."
+          ]
+        },
+        "more": {
+          "def": "A long, narrow channel dug in the ground, often to carry water away.",
+          "examples": [
+            "Rainwater flowed along the ditch beside the road.",
+            "The workers dug a ditch for the pipe.",
+            "The ball rolled into the ditch."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dive",
     "say": "dyve",
     "emoji": "🤿",
@@ -1010,6 +1353,70 @@
             "She dived into the pool with a splash.",
             "The seal dove deep under the waves.",
             "The swimmers dove for coins at the bottom."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "divide",
+    "say": "dih-VYD",
+    "forms": [
+      "divides",
+      "divided",
+      "dividing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To split something into parts.",
+          "examples": [
+            "Divide the cake.",
+            "We divided the candy.",
+            "The river divides the town."
+          ]
+        },
+        "more": {
+          "def": "To split something into parts or groups, or to do division in math.",
+          "examples": [
+            "Divide the pizza into eight slices.",
+            "Ten divided by two is five.",
+            "The river divides the town in two."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "divider",
+        "def": "Something that divides."
+      }
+    ]
+  },
+  {
+    "word": "divine",
+    "say": "dih-VYN",
+    "forms": [
+      "divinely"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Coming from God, or wonderful.",
+          "examples": [
+            "The song was divine.",
+            "The cake tasted divine.",
+            "The temple felt divine."
+          ]
+        },
+        "more": {
+          "def": "Having to do with God or a god, or so wonderful that it seems heavenly.",
+          "examples": [
+            "In the story, the king asked for divine help.",
+            "The cake tasted absolutely divine.",
+            "The singer's voice sounded divine."
           ]
         }
       }

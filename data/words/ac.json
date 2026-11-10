@@ -1,5 +1,33 @@
 [
   {
+    "word": "academy",
+    "say": "uh-KAD-uh-mee",
+    "forms": [
+      "academies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A special school.",
+          "examples": [
+            "She goes to a music academy.",
+            "The academy trains dancers.",
+            "The academy is by the river."
+          ]
+        },
+        "more": {
+          "def": "A school that teaches a special subject or skill.",
+          "examples": [
+            "She goes to a music academy on weekends.",
+            "The soccer academy trains young players.",
+            "He studied at the art academy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "accent",
     "say": "AK-sent",
     "forms": [
@@ -458,6 +486,40 @@
             "He took action and called for help."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "active",
+    "say": "AK-tiv",
+    "forms": [
+      "actively"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Moving around a lot.",
+          "examples": [
+            "The puppy is active.",
+            "I stay active.",
+            "She leads an active life."
+          ]
+        },
+        "more": {
+          "def": "Full of energy and busy doing things.",
+          "examples": [
+            "The puppy is very active and loves to run.",
+            "He stays active by riding his bike every day.",
+            "Active children need lots of sleep."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "overactive",
+        "def": "Too active."
       }
     ]
   },

@@ -55,6 +55,36 @@
     ]
   },
   {
+    "word": "fold",
+    "say": "fohld",
+    "forms": [
+      "folds",
+      "folded",
+      "folding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To bend something over itself.",
+          "examples": [
+            "I fold the paper.",
+            "She folded the shirt.",
+            "Fold the napkin."
+          ]
+        },
+        "more": {
+          "def": "To bend one part of something over another part.",
+          "examples": [
+            "I folded the paper in half.",
+            "She folded the clean shirts and put them away.",
+            "Dad folded the map and put it in the car."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "folk",
     "say": "fohk",
     "forms": [
@@ -582,6 +612,54 @@
       {
         "word": "forgivable",
         "def": "Able to be forgiven."
+      }
+    ]
+  },
+  {
+    "word": "fork",
+    "say": "fork",
+    "emoji": "🍴",
+    "forms": [
+      "forks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool with points for picking up food.",
+          "examples": [
+            "I eat with a fork.",
+            "The fork is silver.",
+            "Put a fork on the table."
+          ]
+        },
+        "more": {
+          "def": "A tool with a handle and thin points that you use to pick up food.",
+          "examples": [
+            "I ate my peas with a fork.",
+            "She set a knife and a fork at each place.",
+            "He twirled the pasta on his fork."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where a road or river splits.",
+          "examples": [
+            "We came to a fork in the road.",
+            "The river has a fork.",
+            "We took the left fork."
+          ]
+        },
+        "more": {
+          "def": "The place where a road, river or path divides into two.",
+          "examples": [
+            "We came to a fork in the road and turned left.",
+            "The river splits at a fork.",
+            "The trail had a fork near the old tree."
+          ]
+        }
       }
     ]
   },

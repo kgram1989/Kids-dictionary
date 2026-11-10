@@ -125,6 +125,85 @@
     ]
   },
   {
+    "word": "boil",
+    "say": "boyl",
+    "forms": [
+      "boils",
+      "boiled",
+      "boiling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To heat water until it bubbles.",
+          "examples": [
+            "I boil water.",
+            "The water is boiling.",
+            "Boil the eggs."
+          ]
+        },
+        "more": {
+          "def": "To heat a liquid until it bubbles and gives off steam.",
+          "examples": [
+            "Mom boiled the water for tea.",
+            "Boil the potatoes until they are soft.",
+            "The water boils at a high heat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bolt",
+    "say": "bohlt",
+    "forms": [
+      "bolts",
+      "bolted",
+      "bolting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A metal pin with a screw thread.",
+          "examples": [
+            "The bolt holds the wheel.",
+            "He tightened the bolt.",
+            "The bolt is rusty."
+          ]
+        },
+        "more": {
+          "def": "A strong metal pin with a screw on it, used to hold things together.",
+          "examples": [
+            "Dad tightened the bolt on the swing.",
+            "A rusty bolt held the gate.",
+            "The mechanic replaced a loose bolt."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flash of lightning.",
+          "examples": [
+            "A bolt of lightning struck.",
+            "I saw a bolt in the sky.",
+            "The bolt lit the night."
+          ]
+        },
+        "more": {
+          "def": "A sudden bright flash of lightning.",
+          "examples": [
+            "A bolt of lightning lit up the sky.",
+            "The bolt struck a tree.",
+            "We counted after the bolt to hear the thunder."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bomb",
     "say": "bom",
     "forms": [
@@ -290,6 +369,35 @@
             "Thunder boomed over the hills.",
             "The big drum boomed in the parade.",
             "The teacher's voice boomed across the gym."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "boot",
+    "say": "boot",
+    "emoji": "🥾",
+    "forms": [
+      "boots"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong shoe that covers your ankle.",
+          "examples": [
+            "I wear rain boots.",
+            "My boot has mud on it.",
+            "The boot is warm."
+          ]
+        },
+        "more": {
+          "def": "A strong shoe that covers the foot and part of the leg.",
+          "examples": [
+            "I wear rain boots when it pours.",
+            "He put on his hiking boots for the trail.",
+            "Mud stuck to my boots."
           ]
         }
       }

@@ -389,5 +389,52 @@
         }
       }
     ]
+  },
+  {
+    "word": "bitter",
+    "say": "BIT-er",
+    "forms": [
+      "bitterly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having a sharp, unpleasant taste.",
+          "examples": [
+            "The medicine tastes bitter.",
+            "The coffee was bitter.",
+            "The seeds are bitter."
+          ]
+        },
+        "more": {
+          "def": "Having a strong, sharp taste that is not sweet.",
+          "examples": [
+            "The medicine tasted bitter.",
+            "Lemon peel can taste bitter.",
+            "The coffee was too bitter for me."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very cold.",
+          "examples": [
+            "The wind is bitter.",
+            "It was a bitter day.",
+            "We felt the bitter cold."
+          ]
+        },
+        "more": {
+          "def": "Extremely cold and sharp.",
+          "examples": [
+            "A bitter wind blew across the lake.",
+            "It was a bitter winter night.",
+            "We wore thick coats against the bitter cold."
+          ]
+        }
+      }
+    ]
   }
 ]
