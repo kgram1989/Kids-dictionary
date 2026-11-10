@@ -172,8 +172,12 @@ Work through `data/wordlist.txt` in order (`npm run next` shows what is next). T
 was built automatically, so it contains words that should not get an entry. Skip a word,
 and record it in `data/skipped.txt` as `word | reason`, when it is:
 
-- **Not suitable for children**: swearing, slurs, sexual words, drug and alcohol slang,
-  graphic violence. Reason: `not suitable for children`.
+- **Not suitable for children**: swearing and crude slang, slurs and demeaning names for
+  groups of people, sexual words, alcohol, tobacco, drugs and gambling, and violent crime
+  or cruelty (murder, torture, kidnapping and the like). Reason: `not suitable for
+  children`. The list was reviewed for these and about 150 words were removed, but if
+  one was missed, skip it. Keep these topics out of definitions and examples for other
+  words too: "smoke" is what a fire makes, and a "bar" is a long piece of something.
 - **Only a form of another word** with no meaning of its own (`dancing` as in "is
   dancing"). Reason: `a form of dance`. Make sure the base word lists it in `forms`.
   But write a full entry when the form is a word in its own right that a child would
