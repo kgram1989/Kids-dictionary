@@ -55,6 +55,37 @@
     ]
   },
   {
+    "word": "fog",
+    "say": "fog",
+    "emoji": "🌫️",
+    "forms": [
+      "fogs",
+      "fogged",
+      "foggy"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Thick cloud near the ground.",
+          "examples": [
+            "The fog is thick.",
+            "I cannot see in the fog.",
+            "Fog covers the town."
+          ]
+        },
+        "more": {
+          "def": "A thick cloud of tiny water drops near the ground, which makes it hard to see.",
+          "examples": [
+            "The fog was so thick we could not see the road.",
+            "Fog covered the town in the morning.",
+            "The ship's horn sounded in the fog."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fold",
     "say": "fohld",
     "forms": [
@@ -365,6 +396,31 @@
     ]
   },
   {
+    "word": "footage",
+    "say": "FUUT-ij",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A film of events.",
+          "examples": [
+            "The news showed footage of the storm.",
+            "We watched the footage.",
+            "The footage was clear."
+          ]
+        },
+        "more": {
+          "def": "Film or video that was recorded of something.",
+          "examples": [
+            "Scientists studied footage of the volcano erupting.",
+            "We watched the footage of the whale.",
+            "The movie had footage of the moon landing."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "football",
     "say": "FUUT-bawl",
     "emoji": "🏈",
@@ -413,6 +469,31 @@
     ]
   },
   {
+    "word": "footsteps",
+    "say": "FUUT-steps",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sound of someone walking.",
+          "examples": [
+            "I heard footsteps.",
+            "The footsteps are loud.",
+            "We followed his footsteps."
+          ]
+        },
+        "more": {
+          "def": "The sound of a person walking, or the marks left by their feet.",
+          "examples": [
+            "I heard footsteps in the hall.",
+            "We followed her footsteps in the snow.",
+            "The footsteps came closer."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "for",
     "say": "for",
     "senses": [
@@ -432,6 +513,37 @@
             "The nurse made a bandage for my scraped knee.",
             "We waited for the bus for ten minutes.",
             "A saw is a tool for cutting wood."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "forbid",
+    "say": "for-BID",
+    "forms": [
+      "forbids",
+      "forbade",
+      "forbidden",
+      "forbidding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say you may not do something.",
+          "examples": [
+            "Mom forbids running.",
+            "The sign forbids parking.",
+            "The rule forbids it."
+          ]
+        },
+        "more": {
+          "def": "To order that something must not be done.",
+          "examples": [
+            "The rule forbids running in the halls.",
+            "The sign forbids swimming.",
+            "My parents forbid me to play near the road."
           ]
         }
       }
@@ -481,6 +593,34 @@
             "The storm forced us to stay inside.",
             "She forced the stuck window open.",
             "Heavy rain forced the game to stop."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "forehead",
+    "say": "FOR-hed",
+    "forms": [
+      "foreheads"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of your face above your eyes.",
+          "examples": [
+            "I wiped my forehead.",
+            "The hat is on my forehead.",
+            "Mom kissed my forehead."
+          ]
+        },
+        "more": {
+          "def": "The part of your face between your eyebrows and your hair.",
+          "examples": [
+            "I wiped the sweat off my forehead.",
+            "Mom felt my forehead to see if I had a fever.",
+            "He bumped his forehead on the shelf."
           ]
         }
       }
@@ -616,6 +756,31 @@
     ]
   },
   {
+    "word": "forgiveness",
+    "say": "fer-GIV-niss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Not being angry anymore after someone said sorry.",
+          "examples": [
+            "She asked for forgiveness.",
+            "He gave his forgiveness.",
+            "Forgiveness feels good."
+          ]
+        },
+        "more": {
+          "def": "Letting go of anger toward someone who has done something wrong.",
+          "examples": [
+            "She asked for forgiveness after breaking the vase.",
+            "His forgiveness made her feel better.",
+            "Forgiveness helps friends stay friends."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fork",
     "say": "fork",
     "emoji": "🍴",
@@ -732,6 +897,34 @@
     ]
   },
   {
+    "word": "formal",
+    "say": "FOR-mul",
+    "forms": [
+      "formally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Proper and for special times.",
+          "examples": [
+            "I wore formal clothes.",
+            "A formal dinner.",
+            "The party was formal."
+          ]
+        },
+        "more": {
+          "def": "Proper and serious, as for an important event.",
+          "examples": [
+            "We wore formal clothes to the wedding.",
+            "The queen gave a formal speech.",
+            "A formal dinner has many courses."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "former",
     "say": "FOR-mer",
     "senses": [
@@ -757,6 +950,34 @@
     ]
   },
   {
+    "word": "formula",
+    "say": "FOR-myuh-luh",
+    "forms": [
+      "formulas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rule written with letters or numbers.",
+          "examples": [
+            "The formula is easy.",
+            "A formula for area.",
+            "Use the formula."
+          ]
+        },
+        "more": {
+          "def": "A rule or recipe made up of numbers, letters or ingredients.",
+          "examples": [
+            "The formula for the area of a rectangle is length times width.",
+            "The scientist wrote the formula on the board.",
+            "The formula for the potion was a secret."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "forth",
     "say": "forth",
     "senses": [
@@ -776,6 +997,34 @@
             "The pendulum swung back and forth.",
             "The knights rode forth into the forest.",
             "She stepped forth to receive her prize."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fortunate",
+    "say": "FOR-chuh-nit",
+    "forms": [
+      "fortunately"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Lucky.",
+          "examples": [
+            "We were fortunate to have sun.",
+            "She is fortunate.",
+            "He was fortunate to win."
+          ]
+        },
+        "more": {
+          "def": "Having good luck.",
+          "examples": [
+            "We were fortunate that the rain held off.",
+            "She is fortunate to have so many friends.",
+            "He was fortunate to find his lost key."
           ]
         }
       }
@@ -823,6 +1072,31 @@
             "We had good fortune on our trip.",
             "Fortune smiled on the team.",
             "Bad fortune kept the ship in port."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "forty",
+    "say": "FOR-tee",
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "The number 40.",
+          "examples": [
+            "I have forty stickers.",
+            "Forty kids came.",
+            "There are forty chairs."
+          ]
+        },
+        "more": {
+          "def": "The number that comes after thirty-nine, written 40.",
+          "examples": [
+            "There are forty students in the gym.",
+            "He counted to forty by fours.",
+            "The trip took forty minutes."
           ]
         }
       }
@@ -954,6 +1228,35 @@
             "The house has a strong foundation of stone.",
             "Workers poured the concrete foundation first.",
             "A good foundation keeps the walls from cracking."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fountain",
+    "say": "FOWN-tin",
+    "emoji": "⛲",
+    "forms": [
+      "fountains"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Water that shoots up in the air.",
+          "examples": [
+            "The fountain is in the park.",
+            "We tossed a penny in the fountain.",
+            "The fountain sprays water."
+          ]
+        },
+        "more": {
+          "def": "A stream of water that shoots up into the air, or a structure that makes it.",
+          "examples": [
+            "We tossed a penny into the fountain.",
+            "The fountain in the square sparkled in the sun.",
+            "Kids splashed in the park fountain."
           ]
         }
       }

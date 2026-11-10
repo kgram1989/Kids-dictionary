@@ -159,6 +159,81 @@
     ]
   },
   {
+    "word": "speaker",
+    "say": "SPEE-ker",
+    "forms": [
+      "speakers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who gives a talk.",
+          "examples": [
+            "The speaker was funny.",
+            "A guest speaker came.",
+            "The speaker told a story."
+          ]
+        },
+        "more": {
+          "def": "A person who talks to a group of people.",
+          "examples": [
+            "The guest speaker told us about her trip.",
+            "The speaker was funny and clear.",
+            "Each speaker had five minutes."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A box that gives out sound.",
+          "examples": [
+            "The speaker is loud.",
+            "Turn up the speaker.",
+            "The speaker plays music."
+          ]
+        },
+        "more": {
+          "def": "The part of a radio or computer that gives out sound.",
+          "examples": [
+            "The speaker is too loud.",
+            "I plugged the speaker into the computer.",
+            "Music came from the small speaker."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spear",
+    "say": "speer",
+    "forms": [
+      "spears"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long pole with a sharp point.",
+          "examples": [
+            "The hunter held a spear.",
+            "The spear is long.",
+            "The museum has an old spear."
+          ]
+        },
+        "more": {
+          "def": "A long pole with a sharp point that was used long ago for hunting.",
+          "examples": [
+            "The museum has an ancient spear.",
+            "The hunter in the story carried a spear.",
+            "The spear was made of wood and stone."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "special",
     "say": "SPESH-ul",
     "senses": [
@@ -197,6 +272,34 @@
             "Astronauts wear special suits in space.",
             "The shop sells special shoes for running.",
             "The bus has a special seat for people who need help."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "specialist",
+    "say": "SPESH-uh-list",
+    "forms": [
+      "specialists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who knows a lot about one subject.",
+          "examples": [
+            "The doctor is a specialist.",
+            "A specialist helped.",
+            "She is a heart specialist."
+          ]
+        },
+        "more": {
+          "def": "A person who has special training and knows a lot about one thing.",
+          "examples": [
+            "The doctor is a heart specialist.",
+            "A specialist in birds visited our class.",
+            "The specialist fixed the machine."
           ]
         }
       }
@@ -626,6 +729,34 @@
     ]
   },
   {
+    "word": "spiritual",
+    "say": "SPIR-ih-choo-ul",
+    "forms": [
+      "spiritually"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with the soul or religion.",
+          "examples": [
+            "Prayer is spiritual.",
+            "She has spiritual beliefs.",
+            "The spiritual leader spoke."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the soul or with religion, not with things you can touch.",
+          "examples": [
+            "Prayer is a spiritual practice.",
+            "The spiritual leader gave a talk.",
+            "She finds peace in her spiritual life."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "spit",
     "say": "spit",
     "forms": [
@@ -652,6 +783,62 @@
             "The cat spit when it got scared."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "splash",
+    "say": "splash",
+    "emoji": "💦",
+    "forms": [
+      "splashes",
+      "splashed",
+      "splashing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make water fly up.",
+          "examples": [
+            "I splash in the puddle.",
+            "The kids splashed in the pool.",
+            "The fish splashed."
+          ]
+        },
+        "more": {
+          "def": "To make water fly about with a sudden movement.",
+          "examples": [
+            "I splashed in the puddle with my boots.",
+            "The waves splashed against the rocks.",
+            "The ducks splashed in the pond."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sound or sight of water flying up.",
+          "examples": [
+            "I heard a splash.",
+            "The splash got me wet.",
+            "The frog jumped with a splash."
+          ]
+        },
+        "more": {
+          "def": "A burst of water thrown up, or the sound it makes.",
+          "examples": [
+            "The frog jumped into the pond with a splash.",
+            "I heard a splash in the lake.",
+            "The splash soaked my shirt."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "splashy",
+        "def": "Making a big splash."
       }
     ]
   },
@@ -765,6 +952,100 @@
       {
         "word": "spoiler",
         "def": "Something that tells how a story ends before you read it."
+      }
+    ]
+  },
+  {
+    "word": "sponge",
+    "say": "spunj",
+    "emoji": "🧽",
+    "forms": [
+      "sponges"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft thing that soaks up water.",
+          "examples": [
+            "I wash with a sponge.",
+            "The sponge is wet.",
+            "She squeezed the sponge."
+          ]
+        },
+        "more": {
+          "def": "A soft, light material full of holes that soaks up water, used for washing.",
+          "examples": [
+            "I wiped the table with a sponge.",
+            "She squeezed the sponge over the sink.",
+            "A sponge soaks up a lot of water."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "spongy",
+        "def": "Soft like a sponge."
+      }
+    ]
+  },
+  {
+    "word": "sponsor",
+    "say": "SPON-ser",
+    "forms": [
+      "sponsors",
+      "sponsored",
+      "sponsoring"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person or business that pays for something.",
+          "examples": [
+            "A store was the sponsor.",
+            "The sponsor paid for the shirts.",
+            "We thanked the sponsor."
+          ]
+        },
+        "more": {
+          "def": "A person or company that pays for a team or event.",
+          "examples": [
+            "A local store was the team's sponsor.",
+            "The sponsor paid for our new shirts.",
+            "We thanked the sponsor of the fair."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spoon",
+    "say": "spoon",
+    "emoji": "🥄",
+    "forms": [
+      "spoons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool for eating soup or cereal.",
+          "examples": [
+            "I eat soup with a spoon.",
+            "The spoon is silver.",
+            "Put a spoon in the bowl."
+          ]
+        },
+        "more": {
+          "def": "A tool with a small bowl on a handle, used for eating, stirring or serving.",
+          "examples": [
+            "I ate my cereal with a spoon.",
+            "Mom stirred the soup with a wooden spoon.",
+            "She put a spoon of sugar in her tea."
+          ]
+        }
       }
     ]
   },

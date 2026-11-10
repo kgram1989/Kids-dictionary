@@ -167,6 +167,31 @@
     ]
   },
   {
+    "word": "wooden",
+    "say": "WUUD-en",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Made of wood.",
+          "examples": [
+            "The wooden chair is old.",
+            "The toy is wooden.",
+            "I sat on a wooden bench."
+          ]
+        },
+        "more": {
+          "def": "Made of wood.",
+          "examples": [
+            "The wooden chair creaked.",
+            "She played with a wooden toy train.",
+            "A wooden fence ran around the yard."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "woods",
     "say": "wuudz",
     "senses": [
@@ -567,6 +592,66 @@
             "Is the museum worth a visit?"
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "worthless",
+    "say": "WERTH-liss",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having no value.",
+          "examples": [
+            "The broken toy is worthless.",
+            "The old paper is worthless.",
+            "The coin was worthless."
+          ]
+        },
+        "more": {
+          "def": "Without any value or use.",
+          "examples": [
+            "The broken toy was worthless.",
+            "The old coin turned out to be worthless.",
+            "A map without names is worthless."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "worthy",
+    "say": "WER-thee",
+    "forms": [
+      "worthier",
+      "worthiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Good enough to deserve something.",
+          "examples": [
+            "She is worthy of the prize.",
+            "It is a worthy cause.",
+            "He is a worthy winner."
+          ]
+        },
+        "more": {
+          "def": "Deserving respect, praise or attention.",
+          "examples": [
+            "The charity does worthy work.",
+            "Helping animals is a worthy cause.",
+            "The knight was worthy of the king's trust."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "worthiness",
+        "def": "Being worthy."
       }
     ]
   },

@@ -1,5 +1,35 @@
 [
   {
+    "word": "fracture",
+    "say": "FRAK-cher",
+    "forms": [
+      "fractures",
+      "fractured",
+      "fracturing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A break in a bone.",
+          "examples": [
+            "He has a fracture in his arm.",
+            "The fracture healed.",
+            "The X-ray showed a fracture."
+          ]
+        },
+        "more": {
+          "def": "A crack or break in a bone.",
+          "examples": [
+            "The doctor put a cast on the fracture.",
+            "The X-ray showed a small fracture.",
+            "The fracture healed after six weeks."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fragile",
     "say": "FRAJ-ul",
     "emoji": "🥚",
@@ -51,6 +81,34 @@
             "She put the photo in a wooden frame.",
             "The window frame was painted white.",
             "The frame of the bike is made of metal."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fraud",
+    "say": "frawd",
+    "forms": [
+      "frauds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A trick used to get money by lying.",
+          "examples": [
+            "The fraud was caught.",
+            "He committed a fraud.",
+            "The fraud fooled many."
+          ]
+        },
+        "more": {
+          "def": "A crime in which someone lies in order to get money.",
+          "examples": [
+            "The company was caught in a fraud.",
+            "He tricked people in a fraud.",
+            "Police found the fraud."
           ]
         }
       }
@@ -251,6 +309,34 @@
     ]
   },
   {
+    "word": "frequency",
+    "say": "FREE-kwen-see",
+    "forms": [
+      "frequencies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How often something happens.",
+          "examples": [
+            "The frequency of buses is every ten minutes.",
+            "The frequency of rain is high.",
+            "The frequency of the bell is loud."
+          ]
+        },
+        "more": {
+          "def": "How often something happens, or the number of times in a certain time.",
+          "examples": [
+            "The frequency of earthquakes in that region is low.",
+            "The frequency of storms here is high in spring.",
+            "The radio is set to a different frequency."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fresh",
     "say": "fresh",
     "forms": [
@@ -299,6 +385,34 @@
     ]
   },
   {
+    "word": "freshman",
+    "say": "FRESH-mun",
+    "forms": [
+      "freshmen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A student in the first year of high school or college.",
+          "examples": [
+            "My brother is a freshman.",
+            "The freshman got lost.",
+            "The freshmen met in the gym."
+          ]
+        },
+        "more": {
+          "def": "A student in the first year of high school or college.",
+          "examples": [
+            "My brother is a freshman in high school.",
+            "The freshmen toured the school on the first day.",
+            "She is a freshman at the university."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "Friday",
     "say": "FRY-day",
     "emoji": "📅",
@@ -322,6 +436,60 @@
             "Friday is the last day of school before the weekend.",
             "We watch a movie in class on Friday afternoon.",
             "She was born on a Friday in June."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fridge",
+    "say": "frij",
+    "emoji": "🧊",
+    "forms": [
+      "fridges"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cold box in the kitchen for food.",
+          "examples": [
+            "The milk is in the fridge.",
+            "Open the fridge.",
+            "The fridge is cold."
+          ]
+        },
+        "more": {
+          "def": "A cold kitchen box that keeps food fresh, short for refrigerator.",
+          "examples": [
+            "Put the milk in the fridge.",
+            "The fridge hummed in the corner.",
+            "We left the leftovers in the fridge."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fried",
+    "say": "fryd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Cooked in hot oil.",
+          "examples": [
+            "I like fried chicken.",
+            "The fried egg is hot.",
+            "Fried potatoes are crunchy."
+          ]
+        },
+        "more": {
+          "def": "Cooked in hot oil or fat in a pan.",
+          "examples": [
+            "We had fried chicken for dinner.",
+            "A fried egg sat on the toast.",
+            "Fried potatoes are crisp and golden."
           ]
         }
       }

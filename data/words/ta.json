@@ -1,5 +1,33 @@
 [
   {
+    "word": "tab",
+    "say": "tab",
+    "forms": [
+      "tabs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small piece that you pull.",
+          "examples": [
+            "Pull the tab.",
+            "The tab on the can opens it.",
+            "The tab is small."
+          ]
+        },
+        "more": {
+          "def": "A small flap or piece that sticks out so you can pull or press it.",
+          "examples": [
+            "Pull the tab to open the can.",
+            "The file folder has a tab with my name.",
+            "I clicked the tab on the screen."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "table",
     "say": "TAY-bul",
     "forms": [
@@ -323,6 +351,55 @@
             "The giraffe is the tallest animal.",
             "A tall tree grows by the gate.",
             "She is taller than her brother."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tan",
+    "say": "tan",
+    "forms": [
+      "tans",
+      "tanned",
+      "tanning"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A light brown color.",
+          "examples": [
+            "The dog is tan.",
+            "She wore a tan coat.",
+            "The sand is tan."
+          ]
+        },
+        "more": {
+          "def": "Having a light yellowish-brown color.",
+          "examples": [
+            "The puppy had a tan coat.",
+            "She wore tan shoes.",
+            "The desert sand was tan."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Brown skin from being in the sun.",
+          "examples": [
+            "I got a tan.",
+            "The tan faded.",
+            "He has a tan."
+          ]
+        },
+        "more": {
+          "def": "The browning of skin from spending time in the sun.",
+          "examples": [
+            "She got a tan at the beach.",
+            "His tan faded by winter.",
+            "The sun gave us a tan."
           ]
         }
       }

@@ -28,6 +28,105 @@
     ]
   },
   {
+    "word": "roar",
+    "say": "ror",
+    "emoji": "🦁",
+    "forms": [
+      "roars",
+      "roared",
+      "roaring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a loud, deep sound.",
+          "examples": [
+            "The lion roars.",
+            "The crowd roared.",
+            "The engine roared."
+          ]
+        },
+        "more": {
+          "def": "To make a very loud, deep sound.",
+          "examples": [
+            "The lion roared loudly in the zoo.",
+            "The crowd roared when we scored.",
+            "The truck roared up the hill."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loud, deep sound.",
+          "examples": [
+            "I heard a roar.",
+            "The lion's roar is loud.",
+            "A roar came from the crowd."
+          ]
+        },
+        "more": {
+          "def": "A long, loud, deep sound like a lion makes.",
+          "examples": [
+            "The lion's roar echoed through the zoo.",
+            "The roar of the crowd filled the stadium.",
+            "We heard the roar of the waterfall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "roast",
+    "say": "rohst",
+    "forms": [
+      "roasts",
+      "roasted",
+      "roasting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cook in an oven or over a fire.",
+          "examples": [
+            "We roast marshmallows.",
+            "Mom roasted a chicken.",
+            "He roasted the corn."
+          ]
+        },
+        "more": {
+          "def": "To cook food in an oven or over a fire, using dry heat.",
+          "examples": [
+            "We roasted marshmallows over the campfire.",
+            "Mom roasted a chicken for dinner.",
+            "The chef roasted the vegetables until brown."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large piece of meat cooked in an oven.",
+          "examples": [
+            "We had a roast for dinner.",
+            "The roast smells good.",
+            "Dad carved the roast."
+          ]
+        },
+        "more": {
+          "def": "A large piece of meat that is cooked in an oven.",
+          "examples": [
+            "We had a beef roast for Sunday dinner.",
+            "The roast smelled wonderful.",
+            "Dad carved the roast at the table."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "rob",
     "say": "rob",
     "forms": [
@@ -58,6 +157,34 @@
     ]
   },
   {
+    "word": "robber",
+    "say": "ROB-er",
+    "forms": [
+      "robbers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who steals.",
+          "examples": [
+            "The robber ran away.",
+            "Police caught the robber.",
+            "The robber took the money."
+          ]
+        },
+        "more": {
+          "def": "A person who steals things from people or places.",
+          "examples": [
+            "The police caught the robber near the bank.",
+            "In the story, a robber stole the gold.",
+            "The robber wore a mask."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "robbery",
     "say": "ROB-er-ee",
     "forms": [
@@ -80,6 +207,34 @@
             "The news told about a robbery at the jewelry shop.",
             "Police solved the robbery and returned the money.",
             "A robbery is a crime, and the robbers can be punished."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "robe",
+    "say": "rohb",
+    "forms": [
+      "robes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, loose piece of clothing.",
+          "examples": [
+            "I wear a robe after my bath.",
+            "The king wore a robe.",
+            "The robe is soft."
+          ]
+        },
+        "more": {
+          "def": "A long, loose piece of clothing that you wear over other clothes or after a bath.",
+          "examples": [
+            "I put on a fuzzy robe after my bath.",
+            "The king wore a velvet robe.",
+            "The judge wore a black robe."
           ]
         }
       }
@@ -340,6 +495,34 @@
       {
         "word": "unroll",
         "def": "To open something that was rolled up."
+      }
+    ]
+  },
+  {
+    "word": "roller",
+    "say": "ROH-ler",
+    "forms": [
+      "rollers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that rolls over a surface.",
+          "examples": [
+            "The painter used a roller.",
+            "The roller is round.",
+            "The roller covered the wall."
+          ]
+        },
+        "more": {
+          "def": "A tube or wheel that rolls over a surface, such as a paint tool.",
+          "examples": [
+            "The painter used a roller on the wall.",
+            "A heavy roller flattened the road.",
+            "The lawn roller smoothed the grass."
+          ]
+        }
       }
     ]
   },

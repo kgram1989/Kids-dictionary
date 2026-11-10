@@ -1,5 +1,54 @@
 [
   {
+    "word": "tick",
+    "say": "tik",
+    "forms": [
+      "ticks",
+      "ticked",
+      "ticking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny bug that bites and sucks blood.",
+          "examples": [
+            "A tick was on the dog.",
+            "Check for ticks.",
+            "The tick is small."
+          ]
+        },
+        "more": {
+          "def": "A tiny bug that sticks to the skin of animals and people and sucks blood.",
+          "examples": [
+            "A tick was on the dog's ear.",
+            "Check yourself for ticks after a hike.",
+            "The tick was as small as a seed."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short, sharp sound.",
+          "examples": [
+            "I heard the tick of the clock.",
+            "The tick was soft.",
+            "The tick went on."
+          ]
+        },
+        "more": {
+          "def": "A light, short sound that a clock makes.",
+          "examples": [
+            "The tick of the kitchen timer counted down.",
+            "The tick of the watch kept time.",
+            "We listened to the tick of the old clock."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ticket",
     "say": "TIK-it",
     "forms": [
@@ -22,6 +71,65 @@
             "We bought tickets to the circus.",
             "She showed her ticket to the bus driver.",
             "The movie ticket cost eight dollars."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tickle",
+    "say": "TIK-ul",
+    "forms": [
+      "tickles",
+      "tickled",
+      "tickling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To touch lightly so that someone laughs.",
+          "examples": [
+            "I tickle the baby.",
+            "The feather tickles.",
+            "Dad tickled my feet."
+          ]
+        },
+        "more": {
+          "def": "To touch someone lightly so that they giggle or squirm.",
+          "examples": [
+            "I tickled the baby's feet and she giggled.",
+            "The feather tickled my nose.",
+            "Dad tickled my side."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tide",
+    "say": "tyd",
+    "emoji": "🌊",
+    "forms": [
+      "tides"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The rise and fall of the sea.",
+          "examples": [
+            "The tide is high.",
+            "We waited for the tide to go out.",
+            "The tide came in."
+          ]
+        },
+        "more": {
+          "def": "The regular rising and falling of the sea along the shore.",
+          "examples": [
+            "The tide came in and covered the sand.",
+            "We found shells when the tide went out.",
+            "The tide is lowest in the early morning."
           ]
         }
       }
@@ -306,6 +414,35 @@
     ]
   },
   {
+    "word": "timer",
+    "say": "TY-mer",
+    "emoji": "⏲️",
+    "forms": [
+      "timers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A clock that counts down.",
+          "examples": [
+            "The timer rings.",
+            "Set the timer.",
+            "The timer is on."
+          ]
+        },
+        "more": {
+          "def": "A clock or device that counts time and often rings when it is done.",
+          "examples": [
+            "Mom set the timer for twenty minutes.",
+            "The timer beeped when the cookies were ready.",
+            "The coach used a timer to time the race."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "timing",
     "say": "TY-ming",
     "senses": [
@@ -325,6 +462,53 @@
             "The dancer's timing was perfect.",
             "Good timing helps a comedian tell a joke.",
             "His timing was bad, since he arrived after the show began."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tin",
+    "say": "tin",
+    "forms": [
+      "tins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft, silver-white metal.",
+          "examples": [
+            "The can is made of tin.",
+            "Tin is a metal.",
+            "The toy is tin."
+          ]
+        },
+        "more": {
+          "def": "A soft, shiny, silver-white metal that is used to coat other metals.",
+          "examples": [
+            "The cans are coated with tin.",
+            "Tin is a soft metal.",
+            "The little toy soldier was made of tin."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small metal box or can.",
+          "examples": [
+            "The cookies are in a tin.",
+            "I opened the tin.",
+            "The tin is round."
+          ]
+        },
+        "more": {
+          "def": "A small metal container with a lid, used for food or small things.",
+          "examples": [
+            "The cookies were kept in a tin.",
+            "She opened a tin of paint.",
+            "He stored his crayons in a tin."
           ]
         }
       }

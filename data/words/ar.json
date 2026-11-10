@@ -1,5 +1,33 @@
 [
   {
+    "word": "architect",
+    "say": "AR-kih-tekt",
+    "forms": [
+      "architects"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who plans buildings.",
+          "examples": [
+            "The architect drew a plan.",
+            "An architect designed the house.",
+            "The architect made a model."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to design buildings.",
+          "examples": [
+            "The architect drew a plan for the new school.",
+            "An architect designed the museum.",
+            "The architect made a small model of the tower."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "area",
     "say": "AIR-ee-uh",
     "forms": [
@@ -184,6 +212,34 @@
     ]
   },
   {
+    "word": "armor",
+    "say": "AR-mer",
+    "forms": [
+      "armour"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Metal clothes that protect a fighter.",
+          "examples": [
+            "The knight wore armor.",
+            "The armor is shiny.",
+            "Armor is heavy."
+          ]
+        },
+        "more": {
+          "def": "A strong covering that protects the body, such as the metal suits that knights wore.",
+          "examples": [
+            "The knight put on his heavy armor.",
+            "The armor was shiny and cold.",
+            "A turtle's shell is like armor."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "army",
     "say": "AR-mee",
     "forms": [
@@ -357,6 +413,34 @@
             "The police arrested the man who stole the bike.",
             "Officers arrest people who break the law.",
             "The sheriff arrested the thief at the train station."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "arrival",
+    "say": "uh-RY-vul",
+    "forms": [
+      "arrivals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Coming to a place.",
+          "examples": [
+            "The arrival of the bus was late.",
+            "We waited for her arrival.",
+            "The arrival of spring is soon."
+          ]
+        },
+        "more": {
+          "def": "The act of reaching a place.",
+          "examples": [
+            "The arrival of the train was five minutes late.",
+            "We waited for the arrival of our guests.",
+            "The arrival of spring brings flowers."
           ]
         }
       }
@@ -547,6 +631,37 @@
             "My aunt is an artist who makes clay pots."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "arts",
+    "say": "arts",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Painting, music, dance and other creative subjects.",
+          "examples": [
+            "I like the arts.",
+            "We study the arts at school.",
+            "The arts are fun."
+          ]
+        },
+        "more": {
+          "def": "Creative subjects and activities such as painting, music, dancing and drama.",
+          "examples": [
+            "I take part in the arts after school.",
+            "The school has a strong program in the arts.",
+            "Music and drama are part of the arts."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "artsy",
+        "def": "Interested in art."
       }
     ]
   }

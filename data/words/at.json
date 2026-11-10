@@ -25,6 +25,81 @@
     ]
   },
   {
+    "word": "athlete",
+    "say": "ATH-leet",
+    "forms": [
+      "athletes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who plays sports very well.",
+          "examples": [
+            "The athlete ran fast.",
+            "She is an athlete.",
+            "The athlete won a medal."
+          ]
+        },
+        "more": {
+          "def": "A person who is trained and skilled at sports or games that need strength and speed.",
+          "examples": [
+            "The athlete trained every day.",
+            "She is an athlete who runs marathons.",
+            "The athletes walked into the stadium."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "atmosphere",
+    "say": "AT-muss-feer",
+    "forms": [
+      "atmospheres"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The air around the earth.",
+          "examples": [
+            "Rockets fly through the atmosphere.",
+            "The atmosphere has oxygen.",
+            "The atmosphere is thin high up."
+          ]
+        },
+        "more": {
+          "def": "The layer of air and gases that surrounds a planet.",
+          "examples": [
+            "The rocket flew up through the atmosphere.",
+            "The earth's atmosphere has the air we breathe.",
+            "The atmosphere gets thinner as you go higher."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The feeling of a place.",
+          "examples": [
+            "The party had a happy atmosphere.",
+            "The atmosphere was calm.",
+            "The restaurant has a cozy atmosphere."
+          ]
+        },
+        "more": {
+          "def": "The mood or feeling that a place has.",
+          "examples": [
+            "The party had a happy, friendly atmosphere.",
+            "The library has a calm atmosphere.",
+            "The cafe has a cozy atmosphere."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "attach",
     "say": "uh-TACH",
     "forms": [
@@ -208,6 +283,34 @@
     ]
   },
   {
+    "word": "attic",
+    "say": "AT-ik",
+    "forms": [
+      "attics"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The space under the roof of a house.",
+          "examples": [
+            "The toys are in the attic.",
+            "The attic is dusty.",
+            "We climbed to the attic."
+          ]
+        },
+        "more": {
+          "def": "The space or room just under the roof of a house.",
+          "examples": [
+            "Old boxes are stored in the attic.",
+            "The attic was dusty and warm.",
+            "We found a trunk in the attic."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "attitude",
     "say": "AT-uh-tood",
     "forms": [
@@ -288,6 +391,53 @@
             "A magnet attracts small pieces of metal.",
             "Bright flowers attract bees and butterflies.",
             "The circus attracted a big crowd."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "attraction",
+    "say": "uh-TRAK-shun",
+    "forms": [
+      "attractions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something people want to see or do.",
+          "examples": [
+            "The zoo is an attraction.",
+            "The park has many attractions.",
+            "The main attraction is the roller coaster."
+          ]
+        },
+        "more": {
+          "def": "Something that people find interesting and want to visit or see.",
+          "examples": [
+            "The zoo is the main attraction in town.",
+            "The park has many attractions for kids.",
+            "The roller coaster is the biggest attraction."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pull toward something.",
+          "examples": [
+            "The magnet has attraction.",
+            "The attraction of the moon pulls the tide.",
+            "The attraction is strong."
+          ]
+        },
+        "more": {
+          "def": "A force that pulls one thing toward another.",
+          "examples": [
+            "A magnet has an attraction for iron.",
+            "The moon's attraction causes the tides.",
+            "The attraction between the two magnets was strong."
           ]
         }
       }

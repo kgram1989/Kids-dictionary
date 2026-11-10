@@ -68,6 +68,31 @@
     ]
   },
   {
+    "word": "boarding",
+    "say": "BOR-ding",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Getting on a plane, bus or ship.",
+          "examples": [
+            "Boarding begins at noon.",
+            "We waited for boarding.",
+            "The boarding line was long."
+          ]
+        },
+        "more": {
+          "def": "The act of getting on a plane, train or ship.",
+          "examples": [
+            "Boarding begins at gate five.",
+            "The families waited for boarding to start.",
+            "A boarding pass lets you get on the plane."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "boat",
     "say": "boht",
     "emoji": "⛵",
@@ -125,6 +150,34 @@
     ]
   },
   {
+    "word": "bodyguard",
+    "say": "BOD-ee-gard",
+    "forms": [
+      "bodyguards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who protects someone important.",
+          "examples": [
+            "The bodyguard stood by the door.",
+            "The singer has a bodyguard.",
+            "The bodyguard watched the crowd."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to protect someone who may be in danger.",
+          "examples": [
+            "The bodyguard stood beside the president.",
+            "The singer arrived with a bodyguard.",
+            "The bodyguard watched the crowd closely."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "boil",
     "say": "boyl",
     "forms": [
@@ -151,6 +204,42 @@
             "The water boils at a high heat."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "bold",
+    "say": "bohld",
+    "forms": [
+      "bolder",
+      "boldest",
+      "boldly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Brave and not shy.",
+          "examples": [
+            "The bold girl spoke up.",
+            "He is a bold boy.",
+            "The bold knight rode in."
+          ]
+        },
+        "more": {
+          "def": "Not afraid, or very strong and clear.",
+          "examples": [
+            "The bold girl spoke up in front of everyone.",
+            "He made a bold move in the game.",
+            "The poster used bold letters."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "boldness",
+        "def": "Being bold."
       }
     ]
   },
@@ -263,6 +352,34 @@
       {
         "word": "boneless",
         "def": "Without bones."
+      }
+    ]
+  },
+  {
+    "word": "bonus",
+    "say": "BOH-nus",
+    "forms": [
+      "bonuses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An extra thing you get.",
+          "examples": [
+            "We got a bonus.",
+            "The bonus was a free toy.",
+            "Dad got a bonus at work."
+          ]
+        },
+        "more": {
+          "def": "Something extra that you get in addition to what you expected.",
+          "examples": [
+            "We got a bonus point for good teamwork.",
+            "The free toy was a bonus.",
+            "Finding a coin on the path was a nice bonus."
+          ]
+        }
       }
     ]
   },
@@ -454,6 +571,55 @@
             "The picture has a red border around it.",
             "The river forms the border between the two countries.",
             "We showed our passports when we crossed the border."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bore",
+    "say": "bor",
+    "forms": [
+      "bores",
+      "bored",
+      "boring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone tired of something.",
+          "examples": [
+            "The long story bored me.",
+            "Homework bores him.",
+            "The speech bored the class."
+          ]
+        },
+        "more": {
+          "def": "To make someone feel tired and not interested.",
+          "examples": [
+            "The long talk bored the whole class.",
+            "Waiting in line can bore anyone.",
+            "The same game every day bores me."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a hole.",
+          "examples": [
+            "The worm bores into the apple.",
+            "The drill bored a hole.",
+            "Workers bored a tunnel."
+          ]
+        },
+        "more": {
+          "def": "To make a hole by cutting or turning a tool through something.",
+          "examples": [
+            "The beetle bores into the tree.",
+            "Workers bored a tunnel through the mountain.",
+            "The drill bored a hole in the wood."
           ]
         }
       }
@@ -859,6 +1025,53 @@
     ]
   },
   {
+    "word": "bounty",
+    "say": "BOWN-tee",
+    "forms": [
+      "bounties"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A reward for catching something.",
+          "examples": [
+            "A bounty was offered.",
+            "The bounty was one hundred dollars.",
+            "They offered a bounty."
+          ]
+        },
+        "more": {
+          "def": "A reward that is offered for finding or catching something or someone.",
+          "examples": [
+            "A bounty was offered for the lost dog.",
+            "The town offered a bounty for the rats.",
+            "A large bounty was offered for the missing treasure."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large amount of something good.",
+          "examples": [
+            "The garden gave a bounty of tomatoes.",
+            "The farm's bounty was great.",
+            "A bounty of fruit."
+          ]
+        },
+        "more": {
+          "def": "A rich supply of something good.",
+          "examples": [
+            "The garden gave us a bounty of tomatoes.",
+            "The harvest was a bounty.",
+            "The orchard offered a bounty of apples."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bow",
     "say": "bow",
     "emoji": "🙇",
@@ -939,6 +1152,32 @@
     ]
   },
   {
+    "word": "bowling",
+    "say": "BOH-ling",
+    "emoji": "🎳",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A game where you roll a ball to knock down pins.",
+          "examples": [
+            "I like bowling.",
+            "We went bowling.",
+            "Bowling is fun."
+          ]
+        },
+        "more": {
+          "def": "A game in which you roll a heavy ball down a lane to knock over pins.",
+          "examples": [
+            "We went bowling on Friday night.",
+            "Bowling shoes are rented at the alley.",
+            "She scored a strike in bowling."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "box",
     "say": "boks",
     "emoji": "📦",
@@ -962,6 +1201,32 @@
             "He packed his books in a cardboard box.",
             "A box of crayons sat on the desk.",
             "The cat curled up in an empty box."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "boxing",
+    "say": "BOK-sing",
+    "emoji": "🥊",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sport where two people punch each other with big gloves.",
+          "examples": [
+            "He likes boxing.",
+            "Boxing uses big gloves.",
+            "She watched boxing on TV."
+          ]
+        },
+        "more": {
+          "def": "A sport in which two fighters wearing padded gloves hit each other, following rules.",
+          "examples": [
+            "He trains in boxing at the gym.",
+            "Boxing takes strength and speed.",
+            "Boxing gloves are big and padded."
           ]
         }
       }

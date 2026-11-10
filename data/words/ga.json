@@ -1,5 +1,35 @@
 [
   {
+    "word": "gag",
+    "say": "gag",
+    "forms": [
+      "gags",
+      "gagged",
+      "gagging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A joke.",
+          "examples": [
+            "He told a funny gag.",
+            "The gag made us laugh.",
+            "That is an old gag."
+          ]
+        },
+        "more": {
+          "def": "A joke or a funny trick, especially in a show.",
+          "examples": [
+            "The clown told a funny gag.",
+            "The movie had many silly gags.",
+            "The old gag still made us laugh."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "gain",
     "say": "gayn",
     "forms": [
@@ -24,6 +54,63 @@
             "The team gained speed as it ran downhill.",
             "He gained a new friend at camp.",
             "The puppy gained weight and grew bigger."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "galaxy",
+    "say": "GAL-ak-see",
+    "emoji": "🌌",
+    "forms": [
+      "galaxies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A huge group of stars.",
+          "examples": [
+            "Our galaxy has many stars.",
+            "The galaxy is big.",
+            "The galaxy is far away."
+          ]
+        },
+        "more": {
+          "def": "A giant group of stars, gas and dust held together in space.",
+          "examples": [
+            "Our galaxy is called the Milky Way.",
+            "A galaxy can contain billions of stars.",
+            "The galaxy looked like a swirl of light."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gallery",
+    "say": "GAL-er-ee",
+    "forms": [
+      "galleries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where art is shown.",
+          "examples": [
+            "We went to an art gallery.",
+            "The gallery has paintings.",
+            "The gallery is open today."
+          ]
+        },
+        "more": {
+          "def": "A room or building where paintings and other art are shown.",
+          "examples": [
+            "We went to an art gallery on Saturday.",
+            "The gallery has paintings by local artists.",
+            "The photo gallery is down the hall."
           ]
         }
       }
@@ -217,6 +304,31 @@
             "Dad stopped to buy gas.",
             "The truck ran out of gas.",
             "The price of gas went up."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gasoline",
+    "say": "GAS-uh-leen",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The liquid fuel that makes cars go.",
+          "examples": [
+            "The car needs gasoline.",
+            "Gasoline is a fuel.",
+            "We bought gasoline."
+          ]
+        },
+        "more": {
+          "def": "A liquid fuel that is burned in the engines of cars and trucks.",
+          "examples": [
+            "The car needed gasoline.",
+            "Gasoline is made from oil.",
+            "Dad filled the tank with gasoline."
           ]
         }
       }

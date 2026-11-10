@@ -29,6 +29,104 @@
     ]
   },
   {
+    "word": "vacuum",
+    "say": "VAK-yoom",
+    "forms": [
+      "vacuums",
+      "vacuumed",
+      "vacuuming"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that cleans floors.",
+          "examples": [
+            "Dad uses the vacuum.",
+            "The vacuum is loud.",
+            "I turned on the vacuum."
+          ]
+        },
+        "more": {
+          "def": "A machine that cleans by sucking up dust and dirt.",
+          "examples": [
+            "Dad pushed the vacuum across the carpet.",
+            "The vacuum cleaner picked up the crumbs.",
+            "I put the vacuum away."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A space with no air in it.",
+          "examples": [
+            "Space is a vacuum.",
+            "There is no sound in a vacuum.",
+            "A vacuum has no air."
+          ]
+        },
+        "more": {
+          "def": "A space that has no air or other matter in it.",
+          "examples": [
+            "Space is nearly a vacuum.",
+            "Sound cannot travel in a vacuum.",
+            "The jar was a vacuum with the air pumped out."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vain",
+    "say": "vayn",
+    "forms": [
+      "vainer",
+      "vainest",
+      "vainly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Too proud of how you look.",
+          "examples": [
+            "The vain prince looked in the mirror.",
+            "She is vain.",
+            "A vain peacock."
+          ]
+        },
+        "more": {
+          "def": "Having too high an opinion of yourself, especially of how you look.",
+          "examples": [
+            "The vain prince looked in the mirror all day.",
+            "The vain peacock showed off its tail.",
+            "He was too vain to wear a hat."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Without success.",
+          "examples": [
+            "Their efforts were in vain.",
+            "The vain attempt failed.",
+            "We tried in vain."
+          ]
+        },
+        "more": {
+          "def": "Having no result, or failing to work.",
+          "examples": [
+            "They tried in vain to open the stuck door.",
+            "Her vain attempt to reach the shelf failed.",
+            "The effort was in vain."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "valley",
     "say": "VAL-ee",
     "emoji": "🏞️",
@@ -131,6 +229,34 @@
     ]
   },
   {
+    "word": "valve",
+    "say": "valv",
+    "forms": [
+      "valves"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part that opens and shuts to let water through.",
+          "examples": [
+            "Turn the valve.",
+            "The valve is closed.",
+            "The valve controls the water."
+          ]
+        },
+        "more": {
+          "def": "A part that opens and shuts to control the flow of water, air or gas.",
+          "examples": [
+            "Dad turned the valve to turn off the water.",
+            "The valve on the tire lets air in.",
+            "The heart has valves that keep blood moving."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vampire",
     "say": "VAM-pyr",
     "emoji": "🧛",
@@ -185,6 +311,34 @@
             "The deer vanished into the forest before I could take a picture.",
             "The rainbow vanished when the sun went behind a cloud.",
             "Her smile vanished when she heard the news."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "variety",
+    "say": "vuh-RY-uh-tee",
+    "forms": [
+      "varieties"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Many different kinds.",
+          "examples": [
+            "The store has a variety of toys.",
+            "I like variety.",
+            "A variety of fruits."
+          ]
+        },
+        "more": {
+          "def": "A mix of many different kinds of things.",
+          "examples": [
+            "The pet shop sells a variety of birds.",
+            "We ate a variety of fruits at the picnic.",
+            "The garden had a great variety of flowers."
           ]
         }
       }

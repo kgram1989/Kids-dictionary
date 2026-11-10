@@ -25,6 +25,63 @@
     ]
   },
   {
+    "word": "deadline",
+    "say": "DED-lyn",
+    "forms": [
+      "deadlines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The last time to finish something.",
+          "examples": [
+            "The deadline is Friday.",
+            "I met the deadline.",
+            "The deadline is close."
+          ]
+        },
+        "more": {
+          "def": "The time or day by which something must be finished.",
+          "examples": [
+            "The deadline for the project is Friday.",
+            "I finished before the deadline.",
+            "The reporter hurried to meet the deadline."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deadly",
+    "say": "DED-lee",
+    "forms": [
+      "deadlier",
+      "deadliest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to cause death.",
+          "examples": [
+            "The poison is deadly.",
+            "The snake is deadly.",
+            "A deadly storm."
+          ]
+        },
+        "more": {
+          "def": "Likely to kill, or very dangerous.",
+          "examples": [
+            "Some mushrooms are deadly, so never eat wild ones.",
+            "The snake's bite is deadly.",
+            "A deadly storm hit the coast."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "deaf",
     "say": "def",
     "forms": [
@@ -295,6 +352,90 @@
     ]
   },
   {
+    "word": "decade",
+    "say": "DEK-ayd",
+    "forms": [
+      "decades"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Ten years.",
+          "examples": [
+            "A decade is ten years.",
+            "The house is a decade old.",
+            "It was a decade ago."
+          ]
+        },
+        "more": {
+          "def": "A period of ten years.",
+          "examples": [
+            "The movie was filmed a decade ago.",
+            "The school was built a decade ago.",
+            "My grandfather has lived here for three decades."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deceive",
+    "say": "dih-SEEV",
+    "forms": [
+      "deceives",
+      "deceived",
+      "deceiving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To trick someone.",
+          "examples": [
+            "Do not deceive your friends.",
+            "The fox deceived the crow.",
+            "He deceived us."
+          ]
+        },
+        "more": {
+          "def": "To make someone believe something that is not true.",
+          "examples": [
+            "The fox deceived the crow with sweet words.",
+            "It is wrong to deceive your friends.",
+            "He deceived them by hiding the truth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "December",
+    "say": "dih-SEM-ber",
+    "emoji": "❄️",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The last month of the year.",
+          "examples": [
+            "Christmas is in December.",
+            "December has snow.",
+            "My birthday is in December."
+          ]
+        },
+        "more": {
+          "def": "The twelfth and last month of the year, after November.",
+          "examples": [
+            "The first day of winter is in December.",
+            "We decorate the tree in December.",
+            "December has thirty-one days."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "decent",
     "say": "DEE-sent",
     "forms": [
@@ -445,6 +586,36 @@
     ]
   },
   {
+    "word": "dedicate",
+    "say": "DED-ih-kayt",
+    "forms": [
+      "dedicates",
+      "dedicated",
+      "dedicating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give your time and effort to something.",
+          "examples": [
+            "She dedicated herself to music.",
+            "I dedicate this song to Mom.",
+            "He dedicates an hour to practice."
+          ]
+        },
+        "more": {
+          "def": "To give your time, effort or a work to a person or purpose.",
+          "examples": [
+            "She dedicated her life to helping animals.",
+            "The author dedicated the book to her grandmother.",
+            "He dedicates an hour each day to piano practice."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "deed",
     "say": "deed",
     "forms": [
@@ -534,6 +705,32 @@
             "Deep in the forest stood an old cabin.",
             "The tunnel runs deep under the mountain.",
             "Roots grow deep into the soil."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deer",
+    "say": "deer",
+    "emoji": "🦌",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wild animal with long legs that runs fast.",
+          "examples": [
+            "A deer ran by.",
+            "The deer has antlers.",
+            "We saw a deer."
+          ]
+        },
+        "more": {
+          "def": "A graceful wild animal with long legs, and the male has antlers.",
+          "examples": [
+            "A deer bounded across the road.",
+            "The male deer had large antlers.",
+            "A baby deer is called a fawn."
           ]
         }
       }
@@ -647,6 +844,36 @@
     ]
   },
   {
+    "word": "define",
+    "say": "dih-FYN",
+    "forms": [
+      "defines",
+      "defined",
+      "defining"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell what a word means.",
+          "examples": [
+            "Define the word.",
+            "The dictionary defines it.",
+            "Can you define this?"
+          ]
+        },
+        "more": {
+          "def": "To give the meaning of a word or idea.",
+          "examples": [
+            "Can you define the word \"brave\"?",
+            "The dictionary defines each word.",
+            "The teacher defined the new word for the class."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "definitely",
     "say": "DEF-uh-nit-lee",
     "senses": [
@@ -666,6 +893,34 @@
             "I will definitely be there on time.",
             "That is definitely my jacket.",
             "It is definitely going to rain."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "definition",
+    "say": "def-ih-NISH-un",
+    "forms": [
+      "definitions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What a word means.",
+          "examples": [
+            "Look up the definition.",
+            "The definition is short.",
+            "I read the definition."
+          ]
+        },
+        "more": {
+          "def": "A statement that tells what a word or phrase means.",
+          "examples": [
+            "Look up the definition in the dictionary.",
+            "The definition of \"brave\" is on this page.",
+            "She wrote the definition on the board."
           ]
         }
       }
@@ -826,6 +1081,36 @@
     ]
   },
   {
+    "word": "delight",
+    "say": "dih-LYT",
+    "forms": [
+      "delights",
+      "delighted",
+      "delighting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Great joy.",
+          "examples": [
+            "The children squealed with delight.",
+            "The gift was a delight.",
+            "He clapped his hands in delight."
+          ]
+        },
+        "more": {
+          "def": "A feeling of great happiness and pleasure.",
+          "examples": [
+            "The magician's trick filled the audience with delight.",
+            "The puppy was a delight to us all.",
+            "She clapped her hands in delight."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "delighted",
     "say": "dih-LY-tid",
     "emoji": "😄",
@@ -846,6 +1131,34 @@
             "I was delighted with my new puppy.",
             "She was delighted to see her friends.",
             "The children were delighted by the clown's tricks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "delightful",
+    "say": "dih-LYT-ful",
+    "forms": [
+      "delightfully"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very nice and pleasing.",
+          "examples": [
+            "We had a delightful day.",
+            "The garden is delightful.",
+            "She is delightful."
+          ]
+        },
+        "more": {
+          "def": "Giving great pleasure, very nice.",
+          "examples": [
+            "We spent a delightful afternoon at the beach.",
+            "The garden was delightful in spring.",
+            "She wrote a delightful story."
           ]
         }
       }
@@ -960,6 +1273,34 @@
     ]
   },
   {
+    "word": "democracy",
+    "say": "dih-MOK-ruh-see",
+    "forms": [
+      "democracies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind of government where people vote.",
+          "examples": [
+            "The country is a democracy.",
+            "In a democracy, people vote.",
+            "Democracy gives everyone a voice."
+          ]
+        },
+        "more": {
+          "def": "A system of government in which people choose their leaders by voting.",
+          "examples": [
+            "Our country is a democracy.",
+            "In a democracy, citizens vote for their leaders.",
+            "Democracy gives people a voice."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "demon",
     "say": "DEE-mun",
     "forms": [
@@ -982,6 +1323,136 @@
             "The demon in the story scared the village.",
             "The knight fought a demon in the old legend.",
             "Some people dress as demons at Halloween."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "demonstrate",
+    "say": "DEM-un-strayt",
+    "forms": [
+      "demonstrates",
+      "demonstrated",
+      "demonstrating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To show how something works.",
+          "examples": [
+            "I demonstrate the trick.",
+            "The teacher demonstrated a magnet.",
+            "She demonstrated how to tie a knot."
+          ]
+        },
+        "more": {
+          "def": "To show or explain how something is done.",
+          "examples": [
+            "The teacher demonstrated how a magnet works.",
+            "The coach demonstrated a perfect swing.",
+            "He demonstrated the new toy to the class."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "demonstration",
+    "say": "dem-un-STRAY-shun",
+    "forms": [
+      "demonstrations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Showing how something works.",
+          "examples": [
+            "The teacher gave a demonstration.",
+            "The demonstration was clear.",
+            "We watched a demonstration."
+          ]
+        },
+        "more": {
+          "def": "A showing of how to do something, or a public gathering to support a cause.",
+          "examples": [
+            "The teacher gave a demonstration of how a magnet works.",
+            "We watched a cooking demonstration.",
+            "A demonstration was held in front of the town hall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "den",
+    "say": "den",
+    "forms": [
+      "dens"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A home of a wild animal.",
+          "examples": [
+            "The bear sleeps in a den.",
+            "The fox has a den.",
+            "The den is warm."
+          ]
+        },
+        "more": {
+          "def": "The hidden home of a wild animal such as a bear, a fox or a lion.",
+          "examples": [
+            "The bear slept in its den all winter.",
+            "The fox had a den under the tree roots.",
+            "A cave served as the lion's den."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, comfy room in a house.",
+          "examples": [
+            "We watch TV in the den.",
+            "The den has a couch.",
+            "Dad reads in the den."
+          ]
+        },
+        "more": {
+          "def": "A small, comfortable room in a house where people relax.",
+          "examples": [
+            "We watched a movie in the den.",
+            "The den has a couch and a fireplace.",
+            "Dad reads in the den after dinner."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dental",
+    "say": "DEN-tul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with teeth.",
+          "examples": [
+            "I have a dental checkup.",
+            "The dental office is clean.",
+            "Dental care is important."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the teeth.",
+          "examples": [
+            "I have a dental checkup next week.",
+            "The dental office is clean and bright.",
+            "Brushing is good dental care."
           ]
         }
       }
@@ -1041,6 +1512,36 @@
             "He denied breaking the vase.",
             "She denied that she took the cookie.",
             "The mayor denied the rumor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "depart",
+    "say": "dih-PART",
+    "forms": [
+      "departs",
+      "departed",
+      "departing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To leave.",
+          "examples": [
+            "The train departs at noon.",
+            "We depart tomorrow.",
+            "The bus departed."
+          ]
+        },
+        "more": {
+          "def": "To go away from a place, especially to start a trip.",
+          "examples": [
+            "The ferry departs from the pier every hour.",
+            "We depart for the beach tomorrow.",
+            "The plane departed on time."
           ]
         }
       }
@@ -1173,6 +1674,53 @@
             "He felt depressed after the move.",
             "The depressed girl stayed inside all day.",
             "Talking with a doctor can help someone who is depressed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "depression",
+    "say": "dih-PRESH-un",
+    "forms": [
+      "depressions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very sad feeling that lasts a long time.",
+          "examples": [
+            "He had depression.",
+            "Depression makes you sad.",
+            "The doctor treats depression."
+          ]
+        },
+        "more": {
+          "def": "A condition in which a person feels very sad and hopeless for a long time.",
+          "examples": [
+            "A doctor helped her through her depression.",
+            "Depression can make it hard to enjoy things.",
+            "He talked to a counselor about his depression."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A low place in the ground.",
+          "examples": [
+            "There is a depression in the field.",
+            "Water fills the depression.",
+            "A depression in the sand."
+          ]
+        },
+        "more": {
+          "def": "A low, dip-shaped place in a surface.",
+          "examples": [
+            "Rain filled the depression in the field.",
+            "The pillow left a depression in the sand.",
+            "A small depression in the lawn held water."
           ]
         }
       }
@@ -1401,6 +1949,34 @@
     ]
   },
   {
+    "word": "designer",
+    "say": "dih-ZY-ner",
+    "forms": [
+      "designers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who plans how things look.",
+          "examples": [
+            "The designer drew a dress.",
+            "A designer plans the house.",
+            "The designer picked the colors."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to plan how things such as clothes or buildings will look.",
+          "examples": [
+            "The designer drew a plan for the dress.",
+            "A toy designer made a new robot.",
+            "The designer chose the colors."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "desire",
     "say": "dih-ZYR",
     "forms": [
@@ -1567,6 +2143,34 @@
     ]
   },
   {
+    "word": "destination",
+    "say": "des-tih-NAY-shun",
+    "forms": [
+      "destinations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The place you are going.",
+          "examples": [
+            "Our destination is the beach.",
+            "We reached our destination.",
+            "The destination is far."
+          ]
+        },
+        "more": {
+          "def": "The place to which someone or something is going.",
+          "examples": [
+            "The final destination of the train is the capital.",
+            "We reached our destination just after dark.",
+            "The package arrived at its destination."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "destiny",
     "say": "DES-tuh-nee",
     "forms": [
@@ -1678,6 +2282,42 @@
     ]
   },
   {
+    "word": "detect",
+    "say": "dih-TEKT",
+    "forms": [
+      "detects",
+      "detected",
+      "detecting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To find or notice something.",
+          "examples": [
+            "The dog can detect a smell.",
+            "The alarm detects smoke.",
+            "I detected a sound."
+          ]
+        },
+        "more": {
+          "def": "To notice or find something that is hard to see or sense.",
+          "examples": [
+            "The smoke alarm detects smoke.",
+            "The dog detected a faint smell.",
+            "I detected a hint of lemon in the tea."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "detectable",
+        "def": "Able to be found."
+      }
+    ]
+  },
+  {
     "word": "detective",
     "say": "dih-TEK-tiv",
     "forms": [
@@ -1700,6 +2340,34 @@
             "The detective searched the room for clues.",
             "In the book, a young detective solves a mystery.",
             "The detective questioned the neighbors."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "detention",
+    "say": "dih-TEN-shun",
+    "forms": [
+      "detentions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being kept after school as a punishment.",
+          "examples": [
+            "He got detention.",
+            "Detention is after school.",
+            "She had detention."
+          ]
+        },
+        "more": {
+          "def": "A punishment in which a student must stay at school after the others have gone home.",
+          "examples": [
+            "He got detention for talking in class.",
+            "Detention lasts an hour after school.",
+            "She did her homework in detention."
           ]
         }
       }
@@ -1864,6 +2532,31 @@
             "The story had a devil with a pointed tail.",
             "In the old tale, a devil tricks a farmer.",
             "Some people dress as devils for a costume party."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "devoted",
+    "say": "dih-VOH-tid",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very loving and loyal.",
+          "examples": [
+            "She is a devoted friend.",
+            "The devoted dog waited.",
+            "He is devoted to his family."
+          ]
+        },
+        "more": {
+          "def": "Very loving, loyal and ready to give your time.",
+          "examples": [
+            "She is a devoted friend who never forgets a birthday.",
+            "The devoted dog waited for its owner.",
+            "He is devoted to his music."
           ]
         }
       }

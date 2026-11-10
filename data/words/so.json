@@ -44,6 +44,36 @@
     ]
   },
   {
+    "word": "soak",
+    "say": "sohk",
+    "forms": [
+      "soaks",
+      "soaked",
+      "soaking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let something sit in water.",
+          "examples": [
+            "I soak the beans.",
+            "The rain soaked me.",
+            "Soak your feet."
+          ]
+        },
+        "more": {
+          "def": "To leave something in a liquid so that it gets very wet.",
+          "examples": [
+            "I soaked the beans overnight.",
+            "The rain soaked my coat.",
+            "She soaked her sore feet in warm water."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "soap",
     "say": "sohp",
     "emoji": "🧼",
@@ -67,6 +97,36 @@
             "Wash your hands with soap and water.",
             "The soap made a lot of bubbles.",
             "The bar of soap is on the sink."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sob",
+    "say": "sob",
+    "forms": [
+      "sobs",
+      "sobbed",
+      "sobbing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cry hard with deep breaths.",
+          "examples": [
+            "The child sobbed.",
+            "I sob when I am sad.",
+            "She sobbed on the bed."
+          ]
+        },
+        "more": {
+          "def": "To cry loudly and with sharp breaths.",
+          "examples": [
+            "The little girl sobbed when she lost her toy.",
+            "He sobbed into his pillow.",
+            "She sobbed with joy when she saw her dog."
           ]
         }
       }
@@ -277,6 +337,36 @@
     ]
   },
   {
+    "word": "soil",
+    "say": "soyl",
+    "forms": [
+      "soils",
+      "soiled",
+      "soiling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The dirt that plants grow in.",
+          "examples": [
+            "Plants grow in soil.",
+            "The soil is wet.",
+            "I dug in the soil."
+          ]
+        },
+        "more": {
+          "def": "The top layer of the ground in which plants grow.",
+          "examples": [
+            "The seeds grew in rich soil.",
+            "Worms make the soil healthy.",
+            "She pressed the soil around the plant."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "soldier",
     "say": "SOHL-jer",
     "forms": [
@@ -346,6 +436,53 @@
             "Ice is a solid, and water is a liquid.",
             "Rocks, wood and metal are solids.",
             "Solids keep their shape when you move them."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "solo",
+    "say": "SOH-loh",
+    "forms": [
+      "solos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A song or dance by one person.",
+          "examples": [
+            "She sang a solo.",
+            "The solo was beautiful.",
+            "He played a trumpet solo."
+          ]
+        },
+        "more": {
+          "def": "A piece of music or a dance that is performed by one person alone.",
+          "examples": [
+            "She sang a solo in the school concert.",
+            "The drum solo was loud.",
+            "His violin solo made everyone clap."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Done alone.",
+          "examples": [
+            "It was a solo flight.",
+            "She made a solo trip.",
+            "He is a solo singer."
+          ]
+        },
+        "more": {
+          "def": "Done by one person alone.",
+          "examples": [
+            "The pilot made a solo flight.",
+            "He took a solo trip across the lake.",
+            "She is a solo singer who also plays guitar."
           ]
         }
       }
@@ -778,6 +915,40 @@
     ]
   },
   {
+    "word": "sorrow",
+    "say": "SOR-oh",
+    "forms": [
+      "sorrows"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A deep sadness.",
+          "examples": [
+            "She felt sorrow.",
+            "The sorrow passed.",
+            "He felt sorrow when his friend moved."
+          ]
+        },
+        "more": {
+          "def": "A very sad feeling, caused by a loss or a disappointment.",
+          "examples": [
+            "She felt sorrow when her friend moved away.",
+            "The town shared its sorrow after the storm.",
+            "His sorrow faded as time went by."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "sorrowful",
+        "def": "Full of sorrow."
+      }
+    ]
+  },
+  {
     "word": "sorry",
     "say": "SOR-ee",
     "senses": [
@@ -970,6 +1141,35 @@
     ]
   },
   {
+    "word": "sour",
+    "say": "sowr",
+    "forms": [
+      "sourer",
+      "sourest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having a sharp taste like a lemon.",
+          "examples": [
+            "The lemon is sour.",
+            "The milk is sour.",
+            "Sour candy is tart."
+          ]
+        },
+        "more": {
+          "def": "Having a sharp, tangy taste like a lemon, or having gone bad.",
+          "examples": [
+            "The lemon tasted very sour.",
+            "The milk had gone sour.",
+            "Sour candy makes your lips pucker."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "source",
     "say": "sorss",
     "forms": [
@@ -1042,6 +1242,34 @@
             "The southern part of the country is warmer.",
             "Many birds fly to the southern coast for winter.",
             "A warm southern breeze blew over the hills."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "souvenir",
+    "say": "soo-vuh-NEER",
+    "forms": [
+      "souvenirs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you keep to remember a trip.",
+          "examples": [
+            "I bought a souvenir.",
+            "The souvenir is a shell.",
+            "She has a souvenir from Paris."
+          ]
+        },
+        "more": {
+          "def": "A small thing that you buy or keep to remind you of a place or a trip.",
+          "examples": [
+            "I bought a souvenir at the museum.",
+            "A shell was my souvenir from the beach.",
+            "She keeps a souvenir from every trip."
           ]
         }
       }

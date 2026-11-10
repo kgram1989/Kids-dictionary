@@ -58,6 +58,170 @@
     ]
   },
   {
+    "word": "vein",
+    "say": "vayn",
+    "forms": [
+      "veins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tube that carries blood to your heart.",
+          "examples": [
+            "A vein carries blood.",
+            "I can see a vein in my arm.",
+            "Blood flows in a vein."
+          ]
+        },
+        "more": {
+          "def": "One of the tubes in the body that carry blood back to the heart.",
+          "examples": [
+            "A vein in my arm is blue.",
+            "Blood flows through your veins to your heart.",
+            "The nurse found a vein to take blood."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A line on a leaf.",
+          "examples": [
+            "The leaf has a vein.",
+            "Veins are on the leaf.",
+            "The vein is green."
+          ]
+        },
+        "more": {
+          "def": "One of the thin lines that you can see on a leaf.",
+          "examples": [
+            "The leaf had green veins on its back.",
+            "I traced the vein with my finger.",
+            "Water moves through the veins of the leaf."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "velvet",
+    "say": "VEL-vit",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very soft material.",
+          "examples": [
+            "The couch is velvet.",
+            "Velvet is soft.",
+            "The dress is velvet."
+          ]
+        },
+        "more": {
+          "def": "A thick, soft cloth that is smooth on one side.",
+          "examples": [
+            "The couch was covered in red velvet.",
+            "Velvet feels soft against your skin.",
+            "The queen wore a velvet robe."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "velvety",
+        "def": "Soft like velvet."
+      }
+    ]
+  },
+  {
+    "word": "vent",
+    "say": "vent",
+    "forms": [
+      "vents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An opening that lets air or smoke out.",
+          "examples": [
+            "The air comes out of the vent.",
+            "A vent is on the wall.",
+            "The vent is warm."
+          ]
+        },
+        "more": {
+          "def": "An opening that lets air, gas or smoke pass through.",
+          "examples": [
+            "Warm air blew out of the vent.",
+            "The kitchen has a vent over the stove.",
+            "Steam rose from the vent in the street."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "verify",
+    "say": "VAIR-ih-fy",
+    "forms": [
+      "verifies",
+      "verified",
+      "verifying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To check that something is true.",
+          "examples": [
+            "I verify the answer.",
+            "She verified the facts.",
+            "He verified the time."
+          ]
+        },
+        "more": {
+          "def": "To make sure that something is true or correct.",
+          "examples": [
+            "I verified my answer by checking the book.",
+            "She verified the facts before writing.",
+            "He verified the time on the clock."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "verse",
+    "say": "vers",
+    "forms": [
+      "verses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of lines in a poem or song.",
+          "examples": [
+            "The song has three verses.",
+            "I read a verse.",
+            "The verse rhymes."
+          ]
+        },
+        "more": {
+          "def": "A group of lines in a poem or song, or a poem.",
+          "examples": [
+            "The poem's last verse made everyone smile.",
+            "She read the first verse aloud.",
+            "I memorized a verse of the poem."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "version",
     "say": "VER-zhun",
     "forms": [
@@ -80,6 +244,31 @@
             "The movie is a new version of an old fairy tale.",
             "The new version of the game has better graphics.",
             "Each person told a different version of what happened."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "versus",
+    "say": "VER-sus",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Against.",
+          "examples": [
+            "It is cats versus dogs.",
+            "The game is red versus blue.",
+            "Our team versus theirs."
+          ]
+        },
+        "more": {
+          "def": "Used to show two sides in a game or choice.",
+          "examples": [
+            "Tonight is the game of our school versus yours.",
+            "The vote was cats versus dogs.",
+            "The contest was speed versus skill."
           ]
         }
       }
@@ -152,6 +341,62 @@
             "A jug is a vessel for carrying water.",
             "The potter made a clay vessel.",
             "Pour the milk into a clean vessel."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vest",
+    "say": "vest",
+    "forms": [
+      "vests"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short top with no sleeves.",
+          "examples": [
+            "He wears a vest.",
+            "The vest is warm.",
+            "I put on a vest."
+          ]
+        },
+        "more": {
+          "def": "A piece of clothing with no sleeves that is worn over a shirt.",
+          "examples": [
+            "He wore a warm vest over his shirt.",
+            "The workers wear a bright vest.",
+            "I zipped up my life vest."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vet",
+    "say": "vet",
+    "forms": [
+      "vets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A doctor for animals.",
+          "examples": [
+            "The vet checked my dog.",
+            "The vet is kind.",
+            "We took the cat to the vet."
+          ]
+        },
+        "more": {
+          "def": "A short word for veterinarian, a doctor who treats animals.",
+          "examples": [
+            "The vet checked my dog's ears.",
+            "We took the cat to the vet for a shot.",
+            "The vet fixed the bird's wing."
           ]
         }
       }

@@ -346,5 +346,58 @@
         "def": "Not new; copied from something else."
       }
     ]
+  },
+  {
+    "word": "originally",
+    "say": "uh-RIJ-uh-nuh-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "At first.",
+          "examples": [
+            "The house was originally red.",
+            "I was originally from Texas.",
+            "It was originally a barn."
+          ]
+        },
+        "more": {
+          "def": "At the beginning, before things changed.",
+          "examples": [
+            "The house was originally painted red.",
+            "My family is originally from Texas.",
+            "The building was originally a barn."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "orphan",
+    "say": "OR-fun",
+    "forms": [
+      "orphans"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A child whose parents have died.",
+          "examples": [
+            "The orphan lived with her aunt.",
+            "The orphan was adopted.",
+            "The book is about an orphan."
+          ]
+        },
+        "more": {
+          "def": "A child whose mother and father have both died.",
+          "examples": [
+            "The orphan lived with her aunt and uncle.",
+            "The story is about an orphan who finds a home.",
+            "The kind family adopted the orphan."
+          ]
+        }
+      }
+    ]
   }
 ]

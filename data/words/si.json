@@ -30,6 +30,34 @@
     ]
   },
   {
+    "word": "sickness",
+    "say": "SIK-niss",
+    "forms": [
+      "sicknesses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being sick.",
+          "examples": [
+            "The sickness kept her home.",
+            "Sickness is no fun.",
+            "The sickness went away."
+          ]
+        },
+        "more": {
+          "def": "The state of being ill, or a particular illness.",
+          "examples": [
+            "A sickness kept her home from school.",
+            "The nurse gave advice on how to avoid sickness.",
+            "The sickness lasted a week."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "side",
     "say": "syd",
     "forms": [
@@ -307,6 +335,34 @@
     ]
   },
   {
+    "word": "significant",
+    "say": "sig-NIF-ih-kunt",
+    "forms": [
+      "significantly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Important.",
+          "examples": [
+            "It was a significant day.",
+            "The change is significant.",
+            "A significant discovery."
+          ]
+        },
+        "more": {
+          "def": "Important or large enough to be noticed.",
+          "examples": [
+            "It was a significant day in our town's history.",
+            "The change in the weather was significant.",
+            "The scientist made a significant discovery."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "silence",
     "say": "SY-lunss",
     "emoji": "🤫",
@@ -357,6 +413,34 @@
             "The forest was silent after the snowfall.",
             "The crowd fell silent when the music began.",
             "She stayed silent because she did not know the answer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "silk",
+    "say": "silk",
+    "forms": [
+      "silks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A smooth, shiny cloth.",
+          "examples": [
+            "The scarf is silk.",
+            "Silk is soft.",
+            "The dress is made of silk."
+          ]
+        },
+        "more": {
+          "def": "A very smooth, soft, shiny cloth made from threads that silkworms spin.",
+          "examples": [
+            "The scarf was made of silk.",
+            "Silk feels smooth on the skin.",
+            "Silkworms spin the thread for silk."
           ]
         }
       }
@@ -600,6 +684,34 @@
     ]
   },
   {
+    "word": "sincere",
+    "say": "sin-SEER",
+    "forms": [
+      "sincerely"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Honest and meaning what you say.",
+          "examples": [
+            "Her thanks were sincere.",
+            "He gave a sincere apology.",
+            "A sincere smile."
+          ]
+        },
+        "more": {
+          "def": "Meaning what you say and feeling what you show.",
+          "examples": [
+            "He wrote a sincere letter of thanks.",
+            "He gave a sincere apology for being late.",
+            "She gave a sincere smile."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sing",
     "say": "sing",
     "emoji": "🎤",
@@ -768,6 +880,36 @@
             "The heavy rock sank to the bottom of the pond.",
             "The boat began to sink.",
             "Metal coins sink in water."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sip",
+    "say": "sip",
+    "forms": [
+      "sips",
+      "sipped",
+      "sipping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To drink in small amounts.",
+          "examples": [
+            "I sip my juice.",
+            "She sipped her tea.",
+            "He sipped the hot soup."
+          ]
+        },
+        "more": {
+          "def": "To drink slowly, taking a little at a time.",
+          "examples": [
+            "I sipped my hot chocolate slowly.",
+            "She sipped the tea carefully.",
+            "He sipped from the water bottle."
           ]
         }
       }
@@ -968,6 +1110,103 @@
             "A cube has six faces, one on each side.",
             "The bus leaves at six o'clock every morning.",
             "She scored six points in the basketball game."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sixteen",
+    "say": "siks-TEEN",
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "The number 16.",
+          "examples": [
+            "I am sixteen.",
+            "There are sixteen crayons.",
+            "Sixteen kids came."
+          ]
+        },
+        "more": {
+          "def": "The number that comes after fifteen, written 16.",
+          "examples": [
+            "My cousin is sixteen years old.",
+            "There are sixteen ounces in a pound.",
+            "The team has sixteen players."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sixth",
+    "say": "siksth",
+    "forms": [
+      "sixths"
+    ],
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "Number six in a line.",
+          "examples": [
+            "I am sixth in line.",
+            "She came in sixth.",
+            "It is the sixth day."
+          ]
+        },
+        "more": {
+          "def": "Coming after the fifth one and before the seventh one.",
+          "examples": [
+            "He finished sixth in the race.",
+            "My sister is in sixth grade.",
+            "The sixth chapter is the longest."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One of six equal parts.",
+          "examples": [
+            "I ate a sixth of the pizza.",
+            "A sixth is a small part.",
+            "Cut it in sixths."
+          ]
+        },
+        "more": {
+          "def": "One of six equal parts that make a whole.",
+          "examples": [
+            "Each of us got a sixth of the pie.",
+            "A sixth of the class is absent.",
+            "Add a sixth of a cup of milk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sixty",
+    "say": "SIK-stee",
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "The number 60.",
+          "examples": [
+            "There are sixty minutes in an hour.",
+            "I counted to sixty.",
+            "The pool is sixty feet long."
+          ]
+        },
+        "more": {
+          "def": "The number that comes after fifty-nine, written 60.",
+          "examples": [
+            "A minute has sixty seconds.",
+            "I counted to sixty by tens.",
+            "The bus holds sixty students."
           ]
         }
       }

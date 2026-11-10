@@ -138,6 +138,34 @@
     ]
   },
   {
+    "word": "global",
+    "say": "GLOH-bul",
+    "forms": [
+      "globally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "All over the world.",
+          "examples": [
+            "It is a global problem.",
+            "The global trip.",
+            "A global company."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the whole world.",
+          "examples": [
+            "Pollution is a global problem.",
+            "The company has global offices.",
+            "They took part in a global event."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "gloomy",
     "say": "GLOO-mee",
     "emoji": "🌧️",
@@ -162,6 +190,34 @@
             "The gloomy old house had not seen sunlight in years.",
             "Everyone felt gloomy after the team lost the final game.",
             "The sky was gloomy all week, with no sign of the sun."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "glorious",
+    "say": "GLOR-ee-us",
+    "forms": [
+      "gloriously"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wonderful and bright.",
+          "examples": [
+            "It was a glorious day.",
+            "The sunset was glorious.",
+            "We had a glorious time."
+          ]
+        },
+        "more": {
+          "def": "Very beautiful, bright or splendid.",
+          "examples": [
+            "It was a glorious sunny day for the picnic.",
+            "The sunset was a glorious red.",
+            "The team celebrated a glorious win."
           ]
         }
       }
@@ -250,6 +306,55 @@
             "The campfire glowed long after the flames died down.",
             "Fireflies glowed in the dark field.",
             "Her face glowed with happiness."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "glue",
+    "say": "gloo",
+    "forms": [
+      "glues",
+      "glued",
+      "gluing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sticky stuff that holds things together.",
+          "examples": [
+            "I use glue on my paper.",
+            "The glue is sticky.",
+            "I need glue."
+          ]
+        },
+        "more": {
+          "def": "A sticky substance used to stick things together.",
+          "examples": [
+            "I used glue to stick the paper onto the card.",
+            "The glue dried quickly.",
+            "He repaired the cup with glue."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stick things together.",
+          "examples": [
+            "I glue the pieces.",
+            "She glued the cup.",
+            "He glued the paper."
+          ]
+        },
+        "more": {
+          "def": "To fasten things together using something sticky.",
+          "examples": [
+            "I glued the pieces of the puzzle together.",
+            "She glued the handle back on the cup.",
+            "He glued pictures onto the board."
           ]
         }
       }

@@ -1,5 +1,84 @@
 [
   {
+    "word": "encounter",
+    "say": "en-KOWN-ter",
+    "forms": [
+      "encounters",
+      "encountered",
+      "encountering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To meet something, often by chance.",
+          "examples": [
+            "We encountered a deer.",
+            "I encountered a problem.",
+            "They encountered a bear."
+          ]
+        },
+        "more": {
+          "def": "To meet someone or something, often without expecting to.",
+          "examples": [
+            "We encountered a deer on the trail.",
+            "I encountered a hard word in the book.",
+            "The hikers encountered a rushing stream."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A meeting that you did not plan.",
+          "examples": [
+            "We had an encounter with a fox.",
+            "It was a short encounter.",
+            "The encounter was a surprise."
+          ]
+        },
+        "more": {
+          "def": "An unplanned meeting with someone or something.",
+          "examples": [
+            "We had a close encounter with a fox.",
+            "It was a brief encounter in the hall.",
+            "The encounter surprised them both."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "encourage",
+    "say": "en-KER-ij",
+    "forms": [
+      "encourages",
+      "encouraged",
+      "encouraging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give someone hope to keep trying.",
+          "examples": [
+            "I encourage my friend.",
+            "The coach encouraged us.",
+            "She encouraged him to try."
+          ]
+        },
+        "more": {
+          "def": "To give someone support and hope so that they keep trying.",
+          "examples": [
+            "The coach encouraged us to keep trying.",
+            "She encouraged her friend to enter the contest.",
+            "Praise can encourage a child to work hard."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "end",
     "say": "end",
     "forms": [
@@ -77,6 +156,64 @@
     ]
   },
   {
+    "word": "endless",
+    "say": "END-liss",
+    "forms": [
+      "endlessly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Never stopping.",
+          "examples": [
+            "The road seemed endless.",
+            "The endless rain fell.",
+            "It was an endless line."
+          ]
+        },
+        "more": {
+          "def": "Seeming to go on and on, without an end.",
+          "examples": [
+            "The road seemed endless in the hot sun.",
+            "The endless rain made us stay inside.",
+            "We waited in an endless line."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "endure",
+    "say": "en-DUR",
+    "forms": [
+      "endures",
+      "endured",
+      "enduring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stand something hard.",
+          "examples": [
+            "I endure the cold.",
+            "They endured a long storm.",
+            "She endured the pain."
+          ]
+        },
+        "more": {
+          "def": "To stay strong through something hard or painful, or to last a long time.",
+          "examples": [
+            "We endured the cold on the long hike.",
+            "The hikers endured a long storm.",
+            "The old castle has endured for centuries."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "enemy",
     "say": "EN-uh-mee",
     "forms": [
@@ -125,6 +262,31 @@
             "Solar panels turn energy from the sun into electricity.",
             "The puppy has so much energy that it never sits still.",
             "Wind turbines turn moving air into energy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "enforcement",
+    "say": "en-FORSS-munt",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Making sure rules are followed.",
+          "examples": [
+            "Law enforcement keeps us safe.",
+            "The enforcement of the rule is strict.",
+            "The enforcement began today."
+          ]
+        },
+        "more": {
+          "def": "The act of making sure that people obey a rule or law.",
+          "examples": [
+            "Police officers work in law enforcement.",
+            "The enforcement of the speed limit keeps us safe.",
+            "The school increased enforcement of the rules."
           ]
         }
       }
@@ -409,6 +571,36 @@
     ]
   },
   {
+    "word": "ensure",
+    "say": "in-SHUR",
+    "forms": [
+      "ensures",
+      "ensured",
+      "ensuring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make sure.",
+          "examples": [
+            "I ensure the door is locked.",
+            "Check to ensure it is safe.",
+            "She ensured we had enough food."
+          ]
+        },
+        "more": {
+          "def": "To make certain that something will happen.",
+          "examples": [
+            "I locked the gate to ensure that the dog could not get out.",
+            "Check the ice to ensure it is safe.",
+            "She packed extra food to ensure we had enough."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "enter",
     "say": "EN-ter",
     "forms": [
@@ -479,6 +671,36 @@
       {
         "word": "reenter",
         "def": "To go in again."
+      }
+    ]
+  },
+  {
+    "word": "entertain",
+    "say": "en-ter-TAYN",
+    "forms": [
+      "entertains",
+      "entertained",
+      "entertaining"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To keep people amused.",
+          "examples": [
+            "The clown entertained the kids.",
+            "The band entertains the crowd.",
+            "She entertains us with jokes."
+          ]
+        },
+        "more": {
+          "def": "To keep people interested and amused, or to welcome guests.",
+          "examples": [
+            "The magician entertained the children with tricks.",
+            "We entertained our cousins for the weekend.",
+            "The singer entertained the crowd for an hour."
+          ]
+        }
       }
     ]
   },
@@ -661,6 +883,36 @@
             "Planting trees is one way to help the environment.",
             "Riding a bike instead of driving is better for the environment.",
             "Oil spills cause great harm to the ocean environment."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "envy",
+    "say": "EN-vee",
+    "forms": [
+      "envies",
+      "envied",
+      "envying"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Wanting what someone else has.",
+          "examples": [
+            "She felt envy.",
+            "He looked at the bike with envy.",
+            "Envy is a strong feeling."
+          ]
+        },
+        "more": {
+          "def": "A feeling of wanting something that another person has.",
+          "examples": [
+            "She felt a flash of envy when she saw his new bike.",
+            "He looked at the cake with envy.",
+            "The sisters were green with envy."
           ]
         }
       }

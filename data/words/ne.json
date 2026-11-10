@@ -48,6 +48,50 @@
     ]
   },
   {
+    "word": "nearby",
+    "say": "NEER-by",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Close by.",
+          "examples": [
+            "A nearby store is open.",
+            "The nearby park is big.",
+            "We live in a nearby town."
+          ]
+        },
+        "more": {
+          "def": "Not far away.",
+          "examples": [
+            "A nearby store sells milk.",
+            "The nearby park has a playground.",
+            "We stayed at a nearby hotel."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Close to where you are.",
+          "examples": [
+            "The store is nearby.",
+            "We live nearby.",
+            "A bird sat nearby."
+          ]
+        },
+        "more": {
+          "def": "In a place that is not far away.",
+          "examples": [
+            "A friend lives nearby.",
+            "There is a stream nearby.",
+            "A cat sat nearby and watched."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nearly",
     "say": "NEER-lee",
     "senses": [
@@ -163,6 +207,35 @@
     ]
   },
   {
+    "word": "necklace",
+    "say": "NEK-liss",
+    "emoji": "📿",
+    "forms": [
+      "necklaces"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Jewelry that you wear around your neck.",
+          "examples": [
+            "She wore a necklace.",
+            "The necklace is gold.",
+            "I made a necklace."
+          ]
+        },
+        "more": {
+          "def": "A piece of jewelry that you wear around your neck.",
+          "examples": [
+            "She wore a gold necklace.",
+            "I made a necklace out of beads.",
+            "The necklace sparkled in the light."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "need",
     "say": "need",
     "forms": [
@@ -263,6 +336,42 @@
             "On a number line, negative numbers are on the left of zero."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "neglect",
+    "say": "nih-GLEKT",
+    "forms": [
+      "neglects",
+      "neglected",
+      "neglecting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not take care of something.",
+          "examples": [
+            "Do not neglect your pet.",
+            "The garden was neglected.",
+            "He neglected his homework."
+          ]
+        },
+        "more": {
+          "def": "To fail to look after something that needs care.",
+          "examples": [
+            "Farmers must not neglect their animals.",
+            "The garden was neglected and full of weeds.",
+            "He neglected his homework and fell behind."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "neglectful",
+        "def": "Not taking care."
       }
     ]
   },

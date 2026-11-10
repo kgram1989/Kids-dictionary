@@ -1,5 +1,69 @@
 [
   {
+    "word": "cease",
+    "say": "seess",
+    "forms": [
+      "ceases",
+      "ceased",
+      "ceasing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop.",
+          "examples": [
+            "The rain ceased.",
+            "The noise will cease.",
+            "The music ceased."
+          ]
+        },
+        "more": {
+          "def": "To come to an end, or to stop doing something.",
+          "examples": [
+            "The rain ceased at noon.",
+            "The noise ceased when the bell rang.",
+            "The factory ceased making toys."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "ceaseless",
+        "def": "Never stopping."
+      }
+    ]
+  },
+  {
+    "word": "ceiling",
+    "say": "SEE-ling",
+    "forms": [
+      "ceilings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The top of a room.",
+          "examples": [
+            "The lamp hangs from the ceiling.",
+            "The ceiling is white.",
+            "A fly is on the ceiling."
+          ]
+        },
+        "more": {
+          "def": "The flat surface that is the top of the inside of a room.",
+          "examples": [
+            "A fan hung from the ceiling.",
+            "The ceiling of the church was painted blue.",
+            "The balloon floated up to the ceiling."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "celebrate",
     "say": "SEL-uh-brayt",
     "emoji": "🎉",
@@ -31,6 +95,63 @@
     ]
   },
   {
+    "word": "celebration",
+    "say": "sel-uh-BRAY-shun",
+    "emoji": "🎉",
+    "forms": [
+      "celebrations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A party for a special day.",
+          "examples": [
+            "We had a celebration.",
+            "The celebration was fun.",
+            "The birthday celebration was big."
+          ]
+        },
+        "more": {
+          "def": "An event or party that marks something special.",
+          "examples": [
+            "We had a celebration for her birthday.",
+            "The town held a celebration after the big game.",
+            "The celebration ended with fireworks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "celebrity",
+    "say": "suh-LEB-rih-tee",
+    "forms": [
+      "celebrities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A famous person.",
+          "examples": [
+            "A celebrity visited.",
+            "The celebrity signed autographs.",
+            "She is a celebrity."
+          ]
+        },
+        "more": {
+          "def": "A person who is famous and known by many people.",
+          "examples": [
+            "A celebrity visited our school.",
+            "The celebrity waved to the crowd.",
+            "Fans waited to see the celebrity."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cell",
     "say": "sel",
     "forms": [
@@ -53,6 +174,62 @@
             "Your body is made of billions of cells.",
             "We looked at an onion cell under the microscope.",
             "A plant cell has a hard outer wall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cellar",
+    "say": "SEL-er",
+    "forms": [
+      "cellars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A room under a house.",
+          "examples": [
+            "The jam is in the cellar.",
+            "The cellar is cool.",
+            "We went down to the cellar."
+          ]
+        },
+        "more": {
+          "def": "An underground room below a house, often used to store things.",
+          "examples": [
+            "Mom keeps jars of jam in the cellar.",
+            "The cellar is cool and dark.",
+            "We went down the stairs to the cellar."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cemetery",
+    "say": "SEM-ih-tair-ee",
+    "forms": [
+      "cemeteries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where people who have died are buried.",
+          "examples": [
+            "The cemetery is quiet.",
+            "Flowers are in the cemetery.",
+            "The cemetery has stones."
+          ]
+        },
+        "more": {
+          "def": "A place where the bodies of dead people are buried, with stones to mark each grave.",
+          "examples": [
+            "The cemetery was quiet and peaceful.",
+            "We left flowers at the cemetery.",
+            "The old cemetery had stone markers."
           ]
         }
       }
@@ -191,6 +368,35 @@
     ]
   },
   {
+    "word": "cereal",
+    "say": "SEER-ee-ul",
+    "emoji": "🥣",
+    "forms": [
+      "cereals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A breakfast food that you eat with milk.",
+          "examples": [
+            "I eat cereal for breakfast.",
+            "The cereal is crunchy.",
+            "I poured milk on my cereal."
+          ]
+        },
+        "more": {
+          "def": "A food made from grains such as corn or wheat that is eaten with milk.",
+          "examples": [
+            "A bowl of cereal and fruit is my usual breakfast.",
+            "She poured milk on her cereal.",
+            "The cereal was crunchy and sweet."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ceremony",
     "say": "SAIR-uh-moh-nee",
     "forms": [
@@ -282,6 +488,34 @@
             "That is certainly the biggest pumpkin I have ever seen.",
             "I will certainly be there on time.",
             "It was certainly a surprise to see snow in May."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "certificate",
+    "say": "ser-TIF-ih-kit",
+    "forms": [
+      "certificates"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A paper that proves something.",
+          "examples": [
+            "I got a certificate for reading.",
+            "The certificate is framed.",
+            "My certificate has my name."
+          ]
+        },
+        "more": {
+          "def": "An official paper that shows that something is true or that you have done something.",
+          "examples": [
+            "I got a certificate for reading ten books.",
+            "Her birth certificate has the date she was born.",
+            "The swimmers received a certificate."
           ]
         }
       }

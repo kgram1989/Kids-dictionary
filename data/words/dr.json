@@ -1,5 +1,52 @@
 [
   {
+    "word": "draft",
+    "say": "draft",
+    "forms": [
+      "drafts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A first try at writing something.",
+          "examples": [
+            "I wrote a draft of my story.",
+            "The first draft is rough.",
+            "My draft is on the desk."
+          ]
+        },
+        "more": {
+          "def": "A first version of a piece of writing that you will change and improve.",
+          "examples": [
+            "I wrote a rough draft of my story.",
+            "The teacher read my first draft.",
+            "The final story was better than the draft."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cool stream of air inside a room.",
+          "examples": [
+            "I feel a draft.",
+            "The draft came in the window.",
+            "A cold draft blew in."
+          ]
+        },
+        "more": {
+          "def": "A stream of cold air that moves through a room.",
+          "examples": [
+            "I felt a draft from the open window.",
+            "A cold draft blew under the door.",
+            "He put a towel at the door to stop the draft."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drag",
     "say": "drag",
     "forms": [
@@ -137,6 +184,40 @@
     ]
   },
   {
+    "word": "dramatic",
+    "say": "druh-MAT-ik",
+    "forms": [
+      "dramatically"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Exciting and surprising.",
+          "examples": [
+            "It was a dramatic rescue.",
+            "The dramatic storm hit.",
+            "The ending was dramatic."
+          ]
+        },
+        "more": {
+          "def": "Full of excitement or strong feeling, or sudden and striking.",
+          "examples": [
+            "The firefighter made a dramatic rescue.",
+            "There was a dramatic change in the weather.",
+            "The story had a dramatic ending."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "overdramatic",
+        "def": "Too dramatic."
+      }
+    ]
+  },
+  {
     "word": "draw",
     "say": "draw",
     "forms": [
@@ -244,6 +325,34 @@
             "The artist's drawing showed the old barn in great detail.",
             "Her drawing of the horse hangs on the wall.",
             "The class put their drawings up in the hall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dreadful",
+    "say": "DRED-ful",
+    "forms": [
+      "dreadfully"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very bad.",
+          "examples": [
+            "The weather was dreadful.",
+            "The smell is dreadful.",
+            "We had a dreadful day."
+          ]
+        },
+        "more": {
+          "def": "Very bad or unpleasant.",
+          "examples": [
+            "The weather was dreadful, so we stayed in.",
+            "A dreadful smell came from the fridge.",
+            "We had a dreadful time with the broken car."
           ]
         }
       }
@@ -570,6 +679,42 @@
     ]
   },
   {
+    "word": "drip",
+    "say": "drip",
+    "forms": [
+      "drips",
+      "dripped",
+      "dripping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To fall in small drops.",
+          "examples": [
+            "The tap drips.",
+            "Water dripped from the roof.",
+            "The ice cream dripped."
+          ]
+        },
+        "more": {
+          "def": "To fall in small drops of liquid.",
+          "examples": [
+            "The tap drips all night.",
+            "Rain dripped off the leaves after the storm.",
+            "Ice cream dripped down my arm."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "drippy",
+        "def": "Dripping a lot."
+      }
+    ]
+  },
+  {
     "word": "drive",
     "say": "dryv",
     "forms": [
@@ -643,6 +788,34 @@
             "The bus driver greets every child by name.",
             "A race car driver must react very fast.",
             "The truck driver delivered boxes of apples."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "driveway",
+    "say": "DRYV-way",
+    "forms": [
+      "driveways"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short road from the street to a house.",
+          "examples": [
+            "The car is in the driveway.",
+            "I play in the driveway.",
+            "The driveway is long."
+          ]
+        },
+        "more": {
+          "def": "A short private road that leads from the street to a house or garage.",
+          "examples": [
+            "The car is parked in the driveway.",
+            "We shoveled snow off the driveway.",
+            "I shot baskets in the driveway."
           ]
         }
       }

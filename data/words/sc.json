@@ -1,5 +1,107 @@
 [
   {
+    "word": "scale",
+    "say": "skayl",
+    "forms": [
+      "scales",
+      "scaled",
+      "scaling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool that tells how heavy something is.",
+          "examples": [
+            "I stand on the scale.",
+            "The scale shows my weight.",
+            "The scale says five pounds."
+          ]
+        },
+        "more": {
+          "def": "A tool for measuring how heavy something is.",
+          "examples": [
+            "I stood on the scale at the doctor.",
+            "The scale showed that the melon weighed five pounds.",
+            "She put the fruit on the scale."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin, hard plate on a fish or snake.",
+          "examples": [
+            "The fish has scales.",
+            "A snake has scales.",
+            "The scale is shiny."
+          ]
+        },
+        "more": {
+          "def": "One of the small, hard, flat plates that cover the skin of a fish, snake or lizard.",
+          "examples": [
+            "The fish's scales shone in the sun.",
+            "A snake is covered in dry scales.",
+            "The dragon in the story had green scales."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A set of musical notes that go up or down.",
+          "examples": [
+            "I practice the scale.",
+            "The piano scale is hard.",
+            "She sang a scale."
+          ]
+        },
+        "more": {
+          "def": "A series of musical notes that go up or down in order.",
+          "examples": [
+            "I practiced the C scale on the piano.",
+            "She sang a scale from low to high.",
+            "The teacher had us play a scale."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "scaly",
+        "def": "Covered in scales."
+      }
+    ]
+  },
+  {
+    "word": "scam",
+    "say": "skam",
+    "forms": [
+      "scams"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A trick to steal money.",
+          "examples": [
+            "The scam fooled people.",
+            "It was a scam.",
+            "Do not fall for the scam."
+          ]
+        },
+        "more": {
+          "def": "A dishonest plan to trick people and take their money.",
+          "examples": [
+            "The email was a scam to steal money.",
+            "Do not fall for a scam.",
+            "Police warned people about the scam."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scan",
     "say": "skan",
     "forms": [
@@ -32,6 +134,34 @@
       {
         "word": "scanner",
         "def": "A machine that scans."
+      }
+    ]
+  },
+  {
+    "word": "scandal",
+    "say": "SKAN-dul",
+    "forms": [
+      "scandals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shocking event that makes people angry.",
+          "examples": [
+            "The scandal was in the news.",
+            "The scandal upset the town.",
+            "The scandal ended his job."
+          ]
+        },
+        "more": {
+          "def": "An event in which someone does something wrong that shocks the public.",
+          "examples": [
+            "The scandal was in the news for weeks.",
+            "A scandal at the bank upset the town.",
+            "The mayor left her job after the scandal."
+          ]
+        }
       }
     ]
   },
@@ -180,6 +310,34 @@
     ]
   },
   {
+    "word": "scenario",
+    "say": "suh-NAIR-ee-oh",
+    "forms": [
+      "scenarios"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An imagined set of events.",
+          "examples": [
+            "We acted out a scenario.",
+            "The scenario is pretend.",
+            "Think of a scenario."
+          ]
+        },
+        "more": {
+          "def": "A description of events that might happen.",
+          "examples": [
+            "We acted out a scenario where we got lost.",
+            "In the best scenario, it will not rain.",
+            "The teacher gave us a scenario to solve."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scene",
     "say": "seen",
     "forms": [
@@ -227,6 +385,34 @@
     ]
   },
   {
+    "word": "scent",
+    "say": "sent",
+    "forms": [
+      "scents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A smell.",
+          "examples": [
+            "I like the scent of roses.",
+            "The dog follows a scent.",
+            "The scent of pine."
+          ]
+        },
+        "more": {
+          "def": "A smell, especially a pleasant one.",
+          "examples": [
+            "I love the scent of fresh bread.",
+            "The dog followed the scent of a rabbit.",
+            "The scent of pine filled the cabin."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "schedule",
     "say": "SKEJ-ool",
     "forms": [
@@ -249,6 +435,34 @@
             "The bus schedule shows when the next bus comes.",
             "Check the schedule to see when the game starts.",
             "Our class has a busy schedule on Fridays."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scheme",
+    "say": "skeem",
+    "forms": [
+      "schemes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A plan, often a clever or secret one.",
+          "examples": [
+            "The villain had a scheme.",
+            "They made a scheme.",
+            "The scheme worked."
+          ]
+        },
+        "more": {
+          "def": "A plan for doing something, especially one that is clever or secret.",
+          "examples": [
+            "The villain in the story had a sneaky scheme.",
+            "The friends made a scheme to surprise their teacher.",
+            "The color scheme of the room is blue and white."
           ]
         }
       }
@@ -371,6 +585,115 @@
     ]
   },
   {
+    "word": "scissors",
+    "say": "SIZ-erz",
+    "emoji": "✂️",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool with two blades for cutting paper.",
+          "examples": [
+            "I cut with scissors.",
+            "The scissors are sharp.",
+            "Hand me the scissors."
+          ]
+        },
+        "more": {
+          "def": "A tool with two sharp blades joined in the middle that you use to cut paper or cloth.",
+          "examples": [
+            "I cut the paper with scissors.",
+            "The scissors are sharp, so be careful.",
+            "She trimmed the thread with the scissors."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scoop",
+    "say": "skoop",
+    "forms": [
+      "scoops",
+      "scooped",
+      "scooping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool or amount that you lift up.",
+          "examples": [
+            "I want a scoop of ice cream.",
+            "The scoop is big.",
+            "I used a scoop."
+          ]
+        },
+        "more": {
+          "def": "A tool like a deep spoon for lifting things, or the amount it holds.",
+          "examples": [
+            "I ordered two scoops of ice cream.",
+            "She used a scoop to measure the flour.",
+            "He filled the bucket with a scoop of sand."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To lift something up with a tool or your hand.",
+          "examples": [
+            "I scoop the ice cream.",
+            "She scooped up the sand.",
+            "He scooped the water."
+          ]
+        },
+        "more": {
+          "def": "To pick up or dig out something using a curved tool or your hand.",
+          "examples": [
+            "I scooped the ice cream into a bowl.",
+            "She scooped up the sand with her hands.",
+            "He scooped the soup into bowls."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "scooper",
+        "def": "A tool for scooping."
+      }
+    ]
+  },
+  {
+    "word": "scope",
+    "say": "skohp",
+    "forms": [
+      "scopes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How far something reaches.",
+          "examples": [
+            "The scope of the project is large.",
+            "That is beyond my scope.",
+            "The scope of the job is small."
+          ]
+        },
+        "more": {
+          "def": "The size or range of something that is covered.",
+          "examples": [
+            "The scope of the project is very large.",
+            "That job is outside the scope of my work.",
+            "The scope of the test includes all of chapter one."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "score",
     "say": "skor",
     "forms": [
@@ -475,6 +798,110 @@
     ]
   },
   {
+    "word": "scrambled",
+    "say": "SKRAM-buld",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Mixed up.",
+          "examples": [
+            "I like scrambled eggs.",
+            "The letters are scrambled.",
+            "The scrambled eggs are hot."
+          ]
+        },
+        "more": {
+          "def": "Mixed together, as eggs that are stirred while they cook.",
+          "examples": [
+            "I like scrambled eggs for breakfast.",
+            "The letters on the board were scrambled.",
+            "Mom served scrambled eggs and toast."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scrap",
+    "say": "skrap",
+    "forms": [
+      "scraps",
+      "scrapped",
+      "scrapping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small piece.",
+          "examples": [
+            "I found a scrap of paper.",
+            "The dog got scraps.",
+            "The scrap of cloth is red."
+          ]
+        },
+        "more": {
+          "def": "A small piece or bit that is left over.",
+          "examples": [
+            "I wrote the number on a scrap of paper.",
+            "The dog ate the scraps from dinner.",
+            "She sewed a quilt from scraps of cloth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scrape",
+    "say": "skrayp",
+    "forms": [
+      "scrapes",
+      "scraped",
+      "scraping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rub against something rough.",
+          "examples": [
+            "I scraped my knee.",
+            "She scraped the paint.",
+            "He scraped the mud off his shoes."
+          ]
+        },
+        "more": {
+          "def": "To rub something along a rough surface, or to remove something by rubbing.",
+          "examples": [
+            "I scraped my knee on the sidewalk.",
+            "She scraped the old paint off the wall.",
+            "He scraped the mud off his boots."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small hurt where skin was rubbed.",
+          "examples": [
+            "I have a scrape on my knee.",
+            "The scrape is small.",
+            "A scrape stung."
+          ]
+        },
+        "more": {
+          "def": "A small injury on the skin from rubbing against something rough.",
+          "examples": [
+            "I have a scrape on my knee from falling.",
+            "The scrape healed in a few days.",
+            "Mom put a bandage on my scrape."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scratch",
     "say": "skrach",
     "forms": [
@@ -567,6 +994,36 @@
             "A scream came from the roller coaster.",
             "We heard a scream from the haunted house.",
             "She let out a scream of joy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "screech",
+    "say": "skreech",
+    "forms": [
+      "screeches",
+      "screeched",
+      "screeching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a high, harsh sound.",
+          "examples": [
+            "The tires screeched.",
+            "The owl screeched.",
+            "The brakes screech."
+          ]
+        },
+        "more": {
+          "def": "To make a loud, high, harsh noise.",
+          "examples": [
+            "The tires screeched as the car stopped.",
+            "An owl screeched in the night.",
+            "The chalk screeched on the board."
           ]
         }
       }
@@ -694,6 +1151,42 @@
             "The director gave everyone a copy of the script."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "scrub",
+    "say": "skrub",
+    "forms": [
+      "scrubs",
+      "scrubbed",
+      "scrubbing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rub hard to clean.",
+          "examples": [
+            "I scrub the pot.",
+            "She scrubbed the floor.",
+            "Scrub your hands."
+          ]
+        },
+        "more": {
+          "def": "To rub something hard with a brush to get it clean.",
+          "examples": [
+            "I scrubbed the muddy boots.",
+            "She scrubbed the pot until it shone.",
+            "Scrub your hands with soap before dinner."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "scrubber",
+        "def": "A brush or pad for scrubbing."
       }
     ]
   }

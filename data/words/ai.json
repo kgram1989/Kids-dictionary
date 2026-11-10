@@ -137,6 +137,59 @@
     ]
   },
   {
+    "word": "aircraft",
+    "say": "AIR-kraft",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that flies, such as a plane.",
+          "examples": [
+            "The aircraft landed.",
+            "An aircraft flew over.",
+            "The aircraft is big."
+          ]
+        },
+        "more": {
+          "def": "Any machine that can fly, such as an airplane or helicopter.",
+          "examples": [
+            "The aircraft landed on the runway.",
+            "A small aircraft flew over the field.",
+            "The museum has many old aircraft."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "airline",
+    "say": "AIR-lyn",
+    "forms": [
+      "airlines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A company that flies passengers in airplanes.",
+          "examples": [
+            "We flew on an airline.",
+            "The airline lost my bag.",
+            "The airline has many planes."
+          ]
+        },
+        "more": {
+          "def": "A company that runs airplanes to carry people and goods.",
+          "examples": [
+            "We flew on a big airline.",
+            "The airline gave us snacks.",
+            "The airline has flights to many cities."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "airplane",
     "say": "AIR-playn",
     "emoji": "✈️",
@@ -188,6 +241,34 @@
             "We waited at the airport for our plane.",
             "The airport is busy during the holidays.",
             "Planes line up at the airport to take off."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "aisle",
+    "say": "yle",
+    "forms": [
+      "aisles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A path between rows of seats or shelves.",
+          "examples": [
+            "We walked down the aisle.",
+            "The aisle is narrow.",
+            "The cereal is in aisle five."
+          ]
+        },
+        "more": {
+          "def": "A narrow passage between rows of seats or shelves.",
+          "examples": [
+            "We walked down the aisle of the grocery store.",
+            "Please keep the aisle clear.",
+            "The bride walked down the aisle."
           ]
         }
       }

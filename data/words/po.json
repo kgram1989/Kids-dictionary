@@ -34,6 +34,34 @@
     ]
   },
   {
+    "word": "pod",
+    "say": "pod",
+    "forms": [
+      "pods"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long case that holds seeds.",
+          "examples": [
+            "Peas grow in a pod.",
+            "The pod is green.",
+            "The pod is full of seeds."
+          ]
+        },
+        "more": {
+          "def": "A long case on a plant such as a pea or bean that holds the seeds.",
+          "examples": [
+            "Peas grow inside a green pod.",
+            "The bean pod split open.",
+            "The pods dry up in autumn."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "poem",
     "say": "POH-um",
     "emoji": "📜",
@@ -473,6 +501,34 @@
     ]
   },
   {
+    "word": "politician",
+    "say": "pol-ih-TISH-un",
+    "forms": [
+      "politicians"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who works in government.",
+          "examples": [
+            "The politician gave a speech.",
+            "A politician visited the school.",
+            "The politician shook hands."
+          ]
+        },
+        "more": {
+          "def": "A person who is in a job in government or who runs for one.",
+          "examples": [
+            "The politician gave a speech to the town.",
+            "A politician visited our school to talk about voting.",
+            "The politicians met in the capital."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "politics",
     "say": "POL-uh-tiks",
     "senses": [
@@ -518,6 +574,64 @@
             "Pollution in the river made it unsafe for the fish.",
             "Factories must work to cut down on pollution.",
             "Noise pollution from the airport bothers the neighbors."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pond",
+    "say": "pond",
+    "emoji": "🦆",
+    "forms": [
+      "ponds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small lake.",
+          "examples": [
+            "The ducks swim in the pond.",
+            "The pond is cold.",
+            "A frog sat by the pond."
+          ]
+        },
+        "more": {
+          "def": "A small body of still water, smaller than a lake.",
+          "examples": [
+            "Ducks swam on the pond.",
+            "A frog croaked by the pond.",
+            "The pond froze over in winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pony",
+    "say": "POH-nee",
+    "emoji": "🐴",
+    "forms": [
+      "ponies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small horse.",
+          "examples": [
+            "I rode a pony.",
+            "The pony is brown.",
+            "The pony has a short mane."
+          ]
+        },
+        "more": {
+          "def": "A kind of small horse.",
+          "examples": [
+            "The children took turns riding the pony.",
+            "A pony is smaller than a horse.",
+            "The pony trotted around the ring."
           ]
         }
       }
@@ -688,6 +802,60 @@
     ]
   },
   {
+    "word": "popcorn",
+    "say": "POP-korn",
+    "emoji": "🍿",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Corn that puffs up when it is heated.",
+          "examples": [
+            "I eat popcorn at the movies.",
+            "The popcorn is hot.",
+            "We made popcorn."
+          ]
+        },
+        "more": {
+          "def": "A snack made from corn kernels that burst open and puff up when heated.",
+          "examples": [
+            "We ate popcorn at the movies.",
+            "The popcorn popped in the pan.",
+            "I put butter on my popcorn."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pope",
+    "say": "pohp",
+    "forms": [
+      "popes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The leader of the Catholic Church.",
+          "examples": [
+            "The Pope lives in Rome.",
+            "The pope gave a speech.",
+            "The people waved at the pope."
+          ]
+        },
+        "more": {
+          "def": "The leader of the Catholic Church, who lives in Rome.",
+          "examples": [
+            "The pope lives in a small country inside Rome.",
+            "Crowds gathered to see the pope.",
+            "The pope spoke to people from many countries."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "popular",
     "say": "POP-yuh-ler",
     "senses": [
@@ -707,6 +875,88 @@
             "That song is so popular that everyone knows the words.",
             "The beach is popular with tourists in summer.",
             "She is popular because she is friendly to everyone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "population",
+    "say": "pop-yuh-LAY-shun",
+    "forms": [
+      "populations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The number of people in a place.",
+          "examples": [
+            "The town has a small population.",
+            "The population is big.",
+            "The population grows."
+          ]
+        },
+        "more": {
+          "def": "The total number of people or animals that live in a place.",
+          "examples": [
+            "The town has a population of five hundred.",
+            "The city's population has grown.",
+            "The population of the whales is rising."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "porch",
+    "say": "porch",
+    "forms": [
+      "porches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A covered area at the front of a house.",
+          "examples": [
+            "We sat on the porch.",
+            "The porch has a swing.",
+            "The cat is on the porch."
+          ]
+        },
+        "more": {
+          "def": "A covered area built onto the front or back of a house.",
+          "examples": [
+            "We sat on the porch and watched the rain.",
+            "The porch had a swing.",
+            "The mail was left on the front porch."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pork",
+    "say": "pork",
+    "emoji": "🐖",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Meat from a pig.",
+          "examples": [
+            "We had pork for dinner.",
+            "The pork is cooked.",
+            "I like pork chops."
+          ]
+        },
+        "more": {
+          "def": "The meat of a pig, eaten as food.",
+          "examples": [
+            "We had roast pork for dinner.",
+            "The pork was tender.",
+            "She served pork with rice."
           ]
         }
       }
@@ -736,6 +986,34 @@
             "The ship stayed in port for two days.",
             "Cranes unloaded boxes at the busy port.",
             "We visited a port on the coast."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "portrait",
+    "say": "POR-trit",
+    "forms": [
+      "portraits"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture of a person.",
+          "examples": [
+            "The portrait hangs on the wall.",
+            "She painted a portrait.",
+            "The portrait is of my mom."
+          ]
+        },
+        "more": {
+          "def": "A painting, drawing or photograph of a person.",
+          "examples": [
+            "A portrait of the queen hung on the wall.",
+            "The artist painted a portrait of her mother.",
+            "The school takes a class portrait."
           ]
         }
       }
@@ -1037,6 +1315,92 @@
     ]
   },
   {
+    "word": "postcard",
+    "say": "POHST-kard",
+    "forms": [
+      "postcards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A card with a picture that you mail.",
+          "examples": [
+            "I got a postcard.",
+            "The postcard has a beach.",
+            "She sent a postcard."
+          ]
+        },
+        "more": {
+          "def": "A card with a picture on one side that is sent through the mail without an envelope.",
+          "examples": [
+            "I got a postcard from my aunt.",
+            "The postcard showed a beach.",
+            "She sent us a postcard from Paris."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "poster",
+    "say": "POH-ster",
+    "forms": [
+      "posters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big picture or sign on a wall.",
+          "examples": [
+            "I hung a poster.",
+            "The poster is of a tiger.",
+            "The poster is on my wall."
+          ]
+        },
+        "more": {
+          "def": "A large printed picture or notice that is put on a wall.",
+          "examples": [
+            "I hung a poster of a tiger on my wall.",
+            "A poster at school told about the fair.",
+            "The movie poster was bright and colorful."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "postpone",
+    "say": "pohst-POHN",
+    "forms": [
+      "postpones",
+      "postponed",
+      "postponing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put off until later.",
+          "examples": [
+            "We postponed the game.",
+            "The picnic was postponed.",
+            "They postponed the trip."
+          ]
+        },
+        "more": {
+          "def": "To move something to a later time.",
+          "examples": [
+            "We postponed the game because of rain.",
+            "The picnic was postponed until Saturday.",
+            "They postponed the trip for a week."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pot",
     "say": "pot",
     "emoji": "🍲",
@@ -1117,6 +1481,34 @@
             "The coach saw great potential in the young player.",
             "The seed has the potential to become a tall tree.",
             "She has the potential to be a good writer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "potion",
+    "say": "POH-shun",
+    "forms": [
+      "potions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A magic drink in a story.",
+          "examples": [
+            "The witch made a potion.",
+            "The potion was green.",
+            "She drank the potion."
+          ]
+        },
+        "more": {
+          "def": "A liquid in stories that is said to have magic powers.",
+          "examples": [
+            "The witch stirred a bubbling potion.",
+            "In the story, a potion made him invisible.",
+            "The wizard mixed a potion in a cauldron."
           ]
         }
       }

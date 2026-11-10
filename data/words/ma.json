@@ -83,6 +83,31 @@
     ]
   },
   {
+    "word": "madness",
+    "say": "MAD-niss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Wild, crazy behavior.",
+          "examples": [
+            "The party was madness.",
+            "It was pure madness.",
+            "The shop was madness before the holiday."
+          ]
+        },
+        "more": {
+          "def": "Behavior that is wild and out of control.",
+          "examples": [
+            "It was pure madness in the store before the holiday.",
+            "The traffic jam was madness.",
+            "The crowd's madness made the game loud."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "magazine",
     "say": "MAG-uh-zeen",
     "forms": [
@@ -150,6 +175,63 @@
             "The fairy waved her magic wand.",
             "In the tale, a magic mirror speaks.",
             "He planted a magic bean that grew into a huge tree."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "magical",
+    "say": "MAJ-ih-kul",
+    "forms": [
+      "magically"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Full of magic.",
+          "examples": [
+            "The forest is magical.",
+            "She has a magical wand.",
+            "It was a magical night."
+          ]
+        },
+        "more": {
+          "def": "Having to do with magic, or very wonderful in a way that seems like magic.",
+          "examples": [
+            "The wizard had a magical wand.",
+            "The forest looked magical in the snow.",
+            "It was a magical night under the stars."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "magician",
+    "say": "muh-JISH-un",
+    "emoji": "🎩",
+    "forms": [
+      "magicians"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who does magic tricks.",
+          "examples": [
+            "The magician pulled a rabbit from a hat.",
+            "The magician did a trick.",
+            "A magician came to the party."
+          ]
+        },
+        "more": {
+          "def": "A person who performs tricks that seem like magic.",
+          "examples": [
+            "The magician made a coin vanish from his palm.",
+            "A magician made the coin disappear.",
+            "The kids clapped for the magician."
           ]
         }
       }
@@ -344,6 +426,31 @@
     ]
   },
   {
+    "word": "maintenance",
+    "say": "MAYN-tuh-nunss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Keeping things in good shape.",
+          "examples": [
+            "The car needs maintenance.",
+            "Maintenance keeps the school clean.",
+            "The maintenance worker fixed the light."
+          ]
+        },
+        "more": {
+          "def": "The work of keeping something in good condition.",
+          "examples": [
+            "The car needs regular maintenance.",
+            "The maintenance worker fixed the broken light.",
+            "Maintenance keeps the building safe."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "majesty",
     "say": "MAJ-uh-stee",
     "forms": [
@@ -440,6 +547,34 @@
             "The loud thunder made the baby cry.",
             "Good exercise makes your body strong.",
             "Sunlight makes the plants grow tall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "maker",
+    "say": "MAY-ker",
+    "forms": [
+      "makers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person or company that makes things.",
+          "examples": [
+            "The toy maker made a doll.",
+            "The maker of the car is famous.",
+            "A cheese maker."
+          ]
+        },
+        "more": {
+          "def": "A person or company that makes something.",
+          "examples": [
+            "The toy maker carved a wooden doll.",
+            "The maker of the violin signed it inside.",
+            "A cheese maker visited our class."
           ]
         }
       }
@@ -734,6 +869,31 @@
     ]
   },
   {
+    "word": "mankind",
+    "say": "man-KYND",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "All people.",
+          "examples": [
+            "Mankind has learned to fly.",
+            "The invention helped mankind.",
+            "Mankind has lived on earth a long time."
+          ]
+        },
+        "more": {
+          "def": "All the people in the world thought of together.",
+          "examples": [
+            "The invention of fire helped mankind.",
+            "Mankind has explored space.",
+            "The scientist wanted to help all mankind."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "manner",
     "say": "MAN-er",
     "forms": [
@@ -787,6 +947,81 @@
     ]
   },
   {
+    "word": "mansion",
+    "say": "MAN-shun",
+    "forms": [
+      "mansions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very big, fancy house.",
+          "examples": [
+            "The mansion has many rooms.",
+            "A rich family lives in the mansion.",
+            "The mansion is on a hill."
+          ]
+        },
+        "more": {
+          "def": "A very large, grand house.",
+          "examples": [
+            "The mansion had twenty rooms and a huge garden.",
+            "A rich family lived in the mansion on the hill.",
+            "We toured the old mansion."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "manual",
+    "say": "MAN-yoo-ul",
+    "forms": [
+      "manuals"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Done by hand.",
+          "examples": [
+            "Digging is manual work.",
+            "The manual machine needs no power.",
+            "It is a manual job."
+          ]
+        },
+        "more": {
+          "def": "Done with the hands rather than by a machine.",
+          "examples": [
+            "Digging with a spade is manual work.",
+            "The farmer did the job by manual labor.",
+            "A manual can opener works without electricity."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A book of instructions.",
+          "examples": [
+            "Read the manual.",
+            "The manual tells how to use it.",
+            "I lost the manual."
+          ]
+        },
+        "more": {
+          "def": "A book that tells you how to use or fix something.",
+          "examples": [
+            "I read the manual for the new game.",
+            "The manual showed how to set up the tent.",
+            "The car's manual is in the glove box."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "many",
     "say": "MEN-ee",
     "senses": [
@@ -834,6 +1069,53 @@
             "The map shows where our school is.",
             "We used a map to find the trail.",
             "The map of the world has seven continents."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "marble",
+    "say": "MAR-bul",
+    "forms": [
+      "marbles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small glass ball used in games.",
+          "examples": [
+            "I play with a marble.",
+            "The marble rolled.",
+            "My marble is blue."
+          ]
+        },
+        "more": {
+          "def": "A small, smooth glass ball that is used in a children's game.",
+          "examples": [
+            "I rolled a marble across the floor.",
+            "She won three marbles in the game.",
+            "The blue marble rolled under the couch."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hard, smooth stone used for statues and floors.",
+          "examples": [
+            "The statue is made of marble.",
+            "The floor is marble.",
+            "The marble is cool."
+          ]
+        },
+        "more": {
+          "def": "A hard, smooth, shiny stone that is often used for statues, floors and buildings.",
+          "examples": [
+            "The statue was carved from white marble.",
+            "The floor of the hall was marble.",
+            "The marble was cool to the touch."
           ]
         }
       }
@@ -910,6 +1192,54 @@
             "Whales and dolphins are marine mammals.",
             "The marine park is home to sharks and sea turtles.",
             "A marine biologist studies life in the ocean."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "marker",
+    "say": "MAR-ker",
+    "emoji": "🖍️",
+    "forms": [
+      "markers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pen with a thick tip.",
+          "examples": [
+            "I draw with a marker.",
+            "The marker is red.",
+            "The cap is on the marker."
+          ]
+        },
+        "more": {
+          "def": "A pen with a soft, thick tip that is used for coloring and writing.",
+          "examples": [
+            "I colored the poster with a marker.",
+            "The red marker ran out of ink.",
+            "The teacher wrote on the board with a marker."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sign that shows a place.",
+          "examples": [
+            "The marker shows the trail.",
+            "A marker was by the road.",
+            "The marker has a name."
+          ]
+        },
+        "more": {
+          "def": "A sign, stone or post that shows where something is.",
+          "examples": [
+            "A marker showed where the trail began.",
+            "A small stone marker stood in the field.",
+            "The marker told us the distance to town."
           ]
         }
       }
@@ -1190,6 +1520,34 @@
     ]
   },
   {
+    "word": "massive",
+    "say": "MAS-iv",
+    "forms": [
+      "massively"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very big and heavy.",
+          "examples": [
+            "The elephant is massive.",
+            "The rock is massive.",
+            "A massive tree fell."
+          ]
+        },
+        "more": {
+          "def": "Very large, heavy and solid.",
+          "examples": [
+            "The massive rock blocked the road.",
+            "A massive tree stood in the park.",
+            "The elephant is a massive animal."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "master",
     "say": "MAS-ter",
     "forms": [
@@ -1463,6 +1821,92 @@
             "Rocks, water, and air are all kinds of matter.",
             "Matter can change from ice to water to steam.",
             "Scientists study how matter behaves when it is heated."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mattress",
+    "say": "MAT-ris",
+    "forms": [
+      "mattresses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The soft part of a bed.",
+          "examples": [
+            "The mattress is soft.",
+            "I jumped on the mattress.",
+            "The mattress is new."
+          ]
+        },
+        "more": {
+          "def": "The thick, soft pad that you lie on in a bed.",
+          "examples": [
+            "The mattress is soft and thick.",
+            "We flipped the mattress over.",
+            "The cat slept on the mattress."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mature",
+    "say": "muh-CHUR",
+    "forms": [
+      "matures",
+      "matured",
+      "maturing"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Fully grown.",
+          "examples": [
+            "The mature tree is tall.",
+            "A mature dog is calm.",
+            "The mature fruit is ripe."
+          ]
+        },
+        "more": {
+          "def": "Fully grown or developed, and acting in a sensible way.",
+          "examples": [
+            "The mature oak tree gave a lot of shade.",
+            "She is mature for her age.",
+            "A mature cat usually sleeps more than a kitten."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "maximum",
+    "say": "MAK-sih-mum",
+    "forms": [
+      "maximums"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The most you can have.",
+          "examples": [
+            "The maximum is ten.",
+            "The maximum speed is fifty.",
+            "The elevator has a maximum of eight people."
+          ]
+        },
+        "more": {
+          "def": "The greatest amount or number that is allowed or possible.",
+          "examples": [
+            "The bag can hold a maximum of ten pounds.",
+            "The maximum speed here is thirty miles per hour.",
+            "The jar holds a maximum of one quart."
           ]
         }
       }

@@ -108,6 +108,35 @@
     ]
   },
   {
+    "word": "flashlight",
+    "say": "FLASH-lyt",
+    "emoji": "🔦",
+    "forms": [
+      "flashlights"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small light you hold in your hand.",
+          "examples": [
+            "I use a flashlight at night.",
+            "The flashlight is bright.",
+            "Turn on the flashlight."
+          ]
+        },
+        "more": {
+          "def": "A small, battery-powered light that you carry in your hand.",
+          "examples": [
+            "We used a flashlight to see in the dark.",
+            "The flashlight needs new batteries.",
+            "He shone the flashlight under the bed."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "flat",
     "say": "flat",
     "forms": [
@@ -157,6 +186,34 @@
     ]
   },
   {
+    "word": "flavor",
+    "say": "FLAY-ver",
+    "forms": [
+      "flavors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The taste of food.",
+          "examples": [
+            "The flavor is sweet.",
+            "I like the flavor.",
+            "Vanilla is my favorite flavor."
+          ]
+        },
+        "more": {
+          "def": "The taste of a food or drink.",
+          "examples": [
+            "Vanilla is my favorite flavor of ice cream.",
+            "The soup had a rich flavor.",
+            "The gum lost its flavor quickly."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "flee",
     "say": "flee",
     "forms": [
@@ -181,6 +238,34 @@
             "The rabbit fled from the fox.",
             "The birds fled when the cat crept near.",
             "The villagers fled from the rising flood."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fleet",
+    "say": "fleet",
+    "forms": [
+      "fleets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of ships or vehicles.",
+          "examples": [
+            "A fleet of ships sailed.",
+            "The fleet is in the harbor.",
+            "The bus fleet is big."
+          ]
+        },
+        "more": {
+          "def": "A group of ships, or vehicles such as buses, that travel or work together.",
+          "examples": [
+            "A fleet of ships sailed into the harbor.",
+            "The city owns a fleet of buses.",
+            "The taxi company has a fleet of fifty cars."
           ]
         }
       }
@@ -231,6 +316,36 @@
             "Gymnasts stretch every day to stay flexible.",
             "The flexible branch bent but did not snap.",
             "Our plans are flexible, so we can go on either day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flick",
+    "say": "flik",
+    "forms": [
+      "flicks",
+      "flicked",
+      "flicking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit with a quick movement.",
+          "examples": [
+            "I flick the light switch.",
+            "She flicked the crumbs.",
+            "He flicked the dust off."
+          ]
+        },
+        "more": {
+          "def": "To move or hit something with a quick, light motion.",
+          "examples": [
+            "I flicked the switch to turn on the light.",
+            "She flicked the crumbs off the table.",
+            "The cat flicked its tail."
           ]
         }
       }
@@ -345,6 +460,55 @@
             "A leaf floated slowly down the stream.",
             "The balloon floated up over the rooftops.",
             "Ice floats because it is lighter than water."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flood",
+    "say": "flud",
+    "forms": [
+      "floods",
+      "flooded",
+      "flooding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A lot of water that covers dry land.",
+          "examples": [
+            "The flood covered the street.",
+            "The river caused a flood.",
+            "The flood was high."
+          ]
+        },
+        "more": {
+          "def": "A large amount of water that covers land that is usually dry.",
+          "examples": [
+            "The flood covered the whole street.",
+            "Heavy rain caused the river to flood.",
+            "The town was cleaned up after the flood."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cover with water.",
+          "examples": [
+            "The river flooded the field.",
+            "The pipe flooded the kitchen.",
+            "The rain will flood the road."
+          ]
+        },
+        "more": {
+          "def": "To cover dry land with water, or to fill something with too much.",
+          "examples": [
+            "The river flooded the fields.",
+            "A burst pipe flooded the basement.",
+            "Letters flooded the office."
           ]
         }
       }
@@ -470,6 +634,32 @@
             "A bee landed on the yellow flower.",
             "The garden is full of flowers.",
             "She picked a flower for her teacher."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flu",
+    "say": "floo",
+    "emoji": "🤒",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sickness that gives you a fever and makes you ache.",
+          "examples": [
+            "I have the flu.",
+            "The flu makes you sick.",
+            "She stayed home with the flu."
+          ]
+        },
+        "more": {
+          "def": "An illness that spreads easily and causes fever, aches and coughing.",
+          "examples": [
+            "I stayed home with the flu for a week.",
+            "Many kids caught the flu this winter.",
+            "A flu shot can help protect you."
           ]
         }
       }

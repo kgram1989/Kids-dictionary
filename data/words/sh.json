@@ -1,5 +1,82 @@
 [
   {
+    "word": "shack",
+    "say": "shak",
+    "forms": [
+      "shacks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, rough hut.",
+          "examples": [
+            "The shack is old.",
+            "We found a shack in the woods.",
+            "The shack had one room."
+          ]
+        },
+        "more": {
+          "def": "A small, simple building that is roughly made.",
+          "examples": [
+            "A fisherman lived in a tiny shack beside the lake.",
+            "The fishing shack stood on the ice.",
+            "The old shack leaned to one side."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shade",
+    "say": "shayd",
+    "forms": [
+      "shades",
+      "shaded",
+      "shading"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cool, dark place away from the sun.",
+          "examples": [
+            "We sat in the shade.",
+            "The shade is cool.",
+            "The tree gives shade."
+          ]
+        },
+        "more": {
+          "def": "An area that is darker and cooler because something blocks the sun.",
+          "examples": [
+            "We sat in the shade of a big tree.",
+            "The shade was cool on the hot day.",
+            "The dog lay in the shade."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cover for a lamp or window.",
+          "examples": [
+            "The lamp has a shade.",
+            "Pull down the shade.",
+            "The shade is blue."
+          ]
+        },
+        "more": {
+          "def": "A cover that is used to block or soften light, for a lamp or window.",
+          "examples": [
+            "The lamp had a yellow shade.",
+            "She pulled the shade down to keep out the sun.",
+            "The window shade rolled up."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shadow",
     "say": "SHAD-oh",
     "emoji": "👤",
@@ -23,6 +100,34 @@
             "In the evening, the trees cast long shadows across the lawn.",
             "The tall building cast a shadow over the park.",
             "We made shadow animals on the wall with our hands."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shaft",
+    "say": "shaft",
+    "forms": [
+      "shafts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, narrow hole going down.",
+          "examples": [
+            "The elevator shaft is dark.",
+            "The mine has a deep shaft.",
+            "A shaft of light came in."
+          ]
+        },
+        "more": {
+          "def": "A long, narrow space going up or down, or a long thin beam of light.",
+          "examples": [
+            "The elevator shaft was dark.",
+            "The miners went down the shaft.",
+            "A shaft of light came through the window."
           ]
         }
       }
@@ -281,6 +386,36 @@
     ]
   },
   {
+    "word": "shatter",
+    "say": "SHAT-er",
+    "forms": [
+      "shatters",
+      "shattered",
+      "shattering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To break into many pieces.",
+          "examples": [
+            "The glass will shatter.",
+            "The window shattered.",
+            "The vase shattered."
+          ]
+        },
+        "more": {
+          "def": "To break suddenly into many small pieces.",
+          "examples": [
+            "The glass shattered on the floor.",
+            "The ball shattered the window.",
+            "The ice shattered when it hit the ground."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shave",
     "say": "shayv",
     "forms": [
@@ -462,6 +597,34 @@
     ]
   },
   {
+    "word": "shelf",
+    "say": "shelf",
+    "forms": [
+      "shelves"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat board on a wall for holding things.",
+          "examples": [
+            "The books are on the shelf.",
+            "The shelf is high.",
+            "I put the toy on the shelf."
+          ]
+        },
+        "more": {
+          "def": "A flat board fixed to a wall or in a cupboard for holding things.",
+          "examples": [
+            "The books are on the top shelf.",
+            "She put the vase on a shelf.",
+            "The shelf was too high to reach."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shell",
     "say": "shel",
     "emoji": "🐚",
@@ -514,6 +677,35 @@
             "The hikers built a shelter out of branches before the storm.",
             "The barn gave the cows shelter from the snow.",
             "People who lost their homes stayed at a shelter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shepherd",
+    "say": "SHEP-erd",
+    "emoji": "🐑",
+    "forms": [
+      "shepherds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who takes care of sheep.",
+          "examples": [
+            "The shepherd watched the sheep.",
+            "A shepherd has a staff.",
+            "The shepherd called his dog."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to look after a flock of sheep.",
+          "examples": [
+            "The shepherd watched the flock on the hill.",
+            "A shepherd sleeps near the sheep at night.",
+            "The shepherd whistled to his dog."
           ]
         }
       }
@@ -679,6 +871,61 @@
     ]
   },
   {
+    "word": "shining",
+    "say": "SHY-ning",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Bright and sparkling.",
+          "examples": [
+            "The shining sun is warm.",
+            "A shining star.",
+            "The shining car looked new."
+          ]
+        },
+        "more": {
+          "def": "Giving off light, or looking bright and polished.",
+          "examples": [
+            "The shining sun warmed the beach.",
+            "A shining star appeared over the barn.",
+            "The shining floor reflected the lights."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shiny",
+    "say": "SHY-nee",
+    "emoji": "✨",
+    "forms": [
+      "shinier",
+      "shiniest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Bright and smooth.",
+          "examples": [
+            "The new coin is shiny.",
+            "My shoes are shiny.",
+            "The shiny car looked clean."
+          ]
+        },
+        "more": {
+          "def": "Giving off light because it is smooth and polished.",
+          "examples": [
+            "The shiny coin sparkled in the sun.",
+            "He polished his shoes until they were shiny.",
+            "The new car was bright and shiny."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ship",
     "say": "ship",
     "emoji": "🚢",
@@ -723,6 +970,34 @@
             "The company ships apples to stores all over the country.",
             "We shipped a box of cookies to my cousin.",
             "Farmers ship their corn by train."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shipment",
+    "say": "SHIP-munt",
+    "forms": [
+      "shipments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Goods sent to a place.",
+          "examples": [
+            "The shipment arrived.",
+            "A shipment of toys came.",
+            "The shipment is late."
+          ]
+        },
+        "more": {
+          "def": "A load of goods that is sent from one place to another.",
+          "examples": [
+            "A shipment of toys arrived at the store.",
+            "The shipment was late because of the storm.",
+            "The farmer sent a shipment of apples."
           ]
         }
       }
@@ -838,6 +1113,31 @@
             "The loud crash shocked everyone.",
             "The news shocked the whole town.",
             "His quick answer shocked the teacher."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shocking",
+    "say": "SHOK-ing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very surprising and upsetting.",
+          "examples": [
+            "The news was shocking.",
+            "A shocking sight.",
+            "It was shocking to see."
+          ]
+        },
+        "more": {
+          "def": "Causing a sudden, strong feeling of surprise and upset.",
+          "examples": [
+            "The news was shocking, and we gasped.",
+            "The messy room was a shocking sight.",
+            "It was shocking to see the broken window."
           ]
         }
       }
@@ -1083,6 +1383,32 @@
     ]
   },
   {
+    "word": "shorts",
+    "say": "shorts",
+    "emoji": "🩳",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Short pants that end above the knee.",
+          "examples": [
+            "I wear shorts in summer.",
+            "My shorts are blue.",
+            "The shorts are comfy."
+          ]
+        },
+        "more": {
+          "def": "Pants that end above the knees.",
+          "examples": [
+            "I wear shorts when it is hot.",
+            "He changed into swim shorts.",
+            "The soccer shorts are blue."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shot",
     "say": "shot",
     "forms": [
@@ -1218,6 +1544,55 @@
     ]
   },
   {
+    "word": "shovel",
+    "say": "SHUV-ul",
+    "forms": [
+      "shovels",
+      "shoveled",
+      "shoveling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool for digging.",
+          "examples": [
+            "I dig with a shovel.",
+            "The shovel is heavy.",
+            "Dad has a shovel."
+          ]
+        },
+        "more": {
+          "def": "A tool with a long handle and a wide, flat blade that is used to dig or lift.",
+          "examples": [
+            "I dug a hole with a shovel.",
+            "Dad cleared the snow with a big shovel.",
+            "The gardener put the shovel in the shed."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move snow or dirt with a tool.",
+          "examples": [
+            "I shovel snow.",
+            "Dad shoveled the path.",
+            "We shoveled the sand."
+          ]
+        },
+        "more": {
+          "def": "To move snow or dirt using a wide, flat tool on a long handle.",
+          "examples": [
+            "Dad shoveled the snow off the driveway.",
+            "We shoveled sand into the bucket.",
+            "She shoveled the dirt into the hole."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "show",
     "say": "shoh",
     "forms": [
@@ -1316,6 +1691,35 @@
             "A quick shower passed over the town.",
             "April showers bring flowers.",
             "We ran inside during the shower."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shrimp",
+    "say": "shrimp",
+    "emoji": "🍤",
+    "forms": [
+      "shrimps"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small sea animal with a curved body that people eat.",
+          "examples": [
+            "I ate a shrimp.",
+            "The shrimp is pink.",
+            "Shrimp live in the sea."
+          ]
+        },
+        "more": {
+          "def": "A small sea animal with a thin shell and a bent body that is eaten as food.",
+          "examples": [
+            "We had shrimp for dinner.",
+            "The shrimp turned pink when it was cooked.",
+            "Tiny shrimp swim in the ocean."
           ]
         }
       }

@@ -112,6 +112,53 @@
     ]
   },
   {
+    "word": "factor",
+    "say": "FAK-ter",
+    "forms": [
+      "factors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that helps cause a result.",
+          "examples": [
+            "Weather was a factor.",
+            "Time is a factor.",
+            "Cost is a factor."
+          ]
+        },
+        "more": {
+          "def": "One of the things that affects or helps cause a result.",
+          "examples": [
+            "Weather was a factor in our decision.",
+            "Cost is an important factor when you buy a bike.",
+            "Practice is a factor in learning to play."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A number that divides into another evenly.",
+          "examples": [
+            "Two is a factor of ten.",
+            "Three is a factor of nine.",
+            "A factor divides evenly."
+          ]
+        },
+        "more": {
+          "def": "A whole number that can divide another number exactly.",
+          "examples": [
+            "Four is a factor of sixteen.",
+            "The factors of six are one, two, three and six.",
+            "Three is a factor of twelve."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "factory",
     "say": "FAK-ter-ee",
     "emoji": "🏭",
@@ -439,6 +486,40 @@
     ]
   },
   {
+    "word": "faithful",
+    "say": "FAYTH-ful",
+    "forms": [
+      "faithfully"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Staying loyal to someone.",
+          "examples": [
+            "The dog is faithful.",
+            "She is a faithful friend.",
+            "The faithful horse waited."
+          ]
+        },
+        "more": {
+          "def": "Loyal and true to a person or promise.",
+          "examples": [
+            "The faithful dog waited by the door.",
+            "She is a faithful friend who always helps.",
+            "He was a faithful reader of the paper."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "faithfulness",
+        "def": "Being faithful."
+      }
+    ]
+  },
+  {
     "word": "fake",
     "say": "fayk",
     "forms": [
@@ -569,6 +650,31 @@
       {
         "word": "falsehood",
         "def": "Something false that is said as true."
+      }
+    ]
+  },
+  {
+    "word": "fame",
+    "say": "faym",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being known by many people.",
+          "examples": [
+            "The singer has fame.",
+            "The fame went to his head.",
+            "She became famous."
+          ]
+        },
+        "more": {
+          "def": "The state of being known and talked about by many people.",
+          "examples": [
+            "The singer found fame at a young age.",
+            "The fame of the town spread far and wide.",
+            "She won fame for her paintings."
+          ]
+        }
       }
     ]
   },
@@ -833,6 +939,62 @@
     ]
   },
   {
+    "word": "fare",
+    "say": "fair",
+    "forms": [
+      "fares"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The money you pay for a bus or train ride.",
+          "examples": [
+            "The bus fare is two dollars.",
+            "I paid the fare.",
+            "The fare is cheap."
+          ]
+        },
+        "more": {
+          "def": "The price that you pay to ride a bus, train, plane or taxi.",
+          "examples": [
+            "The train fare rose by a dollar this year.",
+            "He paid the taxi fare.",
+            "The fare to the city is cheap."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "farewell",
+    "say": "fair-WEL",
+    "forms": [
+      "farewells"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word or act of saying goodbye.",
+          "examples": [
+            "We said farewell.",
+            "The farewell was sad.",
+            "She waved farewell."
+          ]
+        },
+        "more": {
+          "def": "The act of saying goodbye, or the words you say.",
+          "examples": [
+            "We said farewell at the airport.",
+            "The farewell party was held on Friday.",
+            "She waved a last farewell from the train."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "farm",
     "say": "farm",
     "emoji": "🚜",
@@ -1037,6 +1199,34 @@
     ]
   },
   {
+    "word": "fatal",
+    "say": "FAY-tul",
+    "forms": [
+      "fatally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Causing death.",
+          "examples": [
+            "The fall was fatal.",
+            "The disease was fatal.",
+            "The mushroom was fatal."
+          ]
+        },
+        "more": {
+          "def": "Causing someone to die, or having very bad results.",
+          "examples": [
+            "Some wild mushrooms are fatal.",
+            "The disease was once fatal.",
+            "A fatal mistake cost them the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fate",
     "say": "fayt",
     "forms": [
@@ -1197,6 +1387,36 @@
             "My favorite part of the book is the surprise ending.",
             "Her favorite subject in school is science.",
             "We went to our favorite park for the picnic."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fax",
+    "say": "faks",
+    "forms": [
+      "faxes",
+      "faxed",
+      "faxing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A paper copy that is sent through a phone line.",
+          "examples": [
+            "I sent a fax.",
+            "The fax came to the office.",
+            "The fax is on the desk."
+          ]
+        },
+        "more": {
+          "def": "A copy of a page that is sent over a telephone line by a machine.",
+          "examples": [
+            "The office sent a fax to the bank.",
+            "The fax came in this morning.",
+            "Dad sent a fax of the form."
           ]
         }
       }

@@ -1,5 +1,33 @@
 [
   {
+    "word": "pea",
+    "say": "pee",
+    "forms": [
+      "peas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, round, green vegetable.",
+          "examples": [
+            "I eat peas.",
+            "The pea is green.",
+            "Peas grow in a pod."
+          ]
+        },
+        "more": {
+          "def": "A small, round, green seed that grows in a pod and is eaten as a vegetable.",
+          "examples": [
+            "I ate peas with my dinner.",
+            "Peas grow in a long pod.",
+            "She rolled a pea across her plate."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "peace",
     "say": "peess",
     "senses": [
@@ -76,6 +104,63 @@
     ]
   },
   {
+    "word": "peach",
+    "say": "peech",
+    "emoji": "🍑",
+    "forms": [
+      "peaches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft, juicy fruit with a fuzzy skin.",
+          "examples": [
+            "I eat a peach.",
+            "The peach is sweet.",
+            "A peach has a pit."
+          ]
+        },
+        "more": {
+          "def": "A round, juicy fruit with soft yellow-orange flesh and fuzzy skin.",
+          "examples": [
+            "I ate a ripe peach for a snack.",
+            "Juice dripped from the peach.",
+            "The peach tree is full of fruit."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "peak",
+    "say": "peek",
+    "forms": [
+      "peaks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The pointed top of a mountain.",
+          "examples": [
+            "We climbed to the peak.",
+            "The peak is snowy.",
+            "The mountain has two peaks."
+          ]
+        },
+        "more": {
+          "def": "The highest point of a mountain, or the highest point of anything.",
+          "examples": [
+            "The hikers reached the peak at noon.",
+            "The snowy peak shone in the sun.",
+            "The crowd was at its peak at noon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "peanut",
     "say": "PEE-nut",
     "emoji": "🥜",
@@ -105,6 +190,34 @@
     ]
   },
   {
+    "word": "peasant",
+    "say": "PEZ-unt",
+    "forms": [
+      "peasants"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A poor farm worker in the past.",
+          "examples": [
+            "The peasant worked in the field.",
+            "Peasants lived in small huts.",
+            "The peasant grew wheat."
+          ]
+        },
+        "more": {
+          "def": "A poor person who worked on the land in the past, often for a lord.",
+          "examples": [
+            "The peasant worked the field from dawn to dusk.",
+            "Long ago, peasants grew wheat for the lord.",
+            "The peasant lived in a small hut."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "peculiar",
     "say": "pih-KYOOL-yer",
     "senses": [
@@ -124,6 +237,141 @@
             "There was a peculiar smell coming from the science room.",
             "It was peculiar that the shop was closed on a Monday.",
             "The bird had a peculiar way of hopping sideways."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "peek",
+    "say": "peek",
+    "forms": [
+      "peeks",
+      "peeked",
+      "peeking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look quickly or secretly.",
+          "examples": [
+            "I peek at the gift.",
+            "She peeked out the window.",
+            "Do not peek."
+          ]
+        },
+        "more": {
+          "def": "To take a quick, sneaky look at something.",
+          "examples": [
+            "I peeked at my birthday gift.",
+            "The cat peeked through the fence.",
+            "The child peeked around the corner."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "peel",
+    "say": "peel",
+    "emoji": "🍌",
+    "forms": [
+      "peels",
+      "peeled",
+      "peeling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take the skin off.",
+          "examples": [
+            "I peel a banana.",
+            "She peeled the apple.",
+            "Peel the orange."
+          ]
+        },
+        "more": {
+          "def": "To remove the outer skin of a fruit or vegetable.",
+          "examples": [
+            "I peeled the banana.",
+            "She peeled the apples for the pie.",
+            "Dad peeled the potatoes."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The skin of a fruit.",
+          "examples": [
+            "The banana peel is yellow.",
+            "I threw away the peel.",
+            "An orange peel smells sweet."
+          ]
+        },
+        "more": {
+          "def": "The thin outer skin of a fruit or vegetable.",
+          "examples": [
+            "She saved the lemon peel for the cake.",
+            "I slipped on a banana peel in the cartoon.",
+            "She grated lemon peel into the cake."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "peeler",
+        "def": "A tool for peeling."
+      }
+    ]
+  },
+  {
+    "word": "peep",
+    "say": "peep",
+    "forms": [
+      "peeps",
+      "peeped",
+      "peeping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look quickly or secretly.",
+          "examples": [
+            "I peep out the window.",
+            "She peeped around the door.",
+            "The child peeped."
+          ]
+        },
+        "more": {
+          "def": "To look quickly or in secret through a small opening.",
+          "examples": [
+            "I peeped out the window to see the snow.",
+            "She peeped around the door at the surprise.",
+            "The kitten peeped from the box."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny, high sound.",
+          "examples": [
+            "The chick made a peep.",
+            "I heard a peep.",
+            "Not a peep was heard."
+          ]
+        },
+        "more": {
+          "def": "A very small, high sound like a young bird makes.",
+          "examples": [
+            "The chick gave a tiny peep.",
+            "I did not hear a peep from the baby.",
+            "Not a peep came from the nest."
           ]
         }
       }
@@ -173,6 +421,34 @@
             "The farmer fed the pigs in their pen.",
             "A gate kept the lambs safe inside the pen.",
             "We cleaned the pen where the baby goats sleep."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "penalty",
+    "say": "PEN-ul-tee",
+    "forms": [
+      "penalties"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A punishment for breaking a rule.",
+          "examples": [
+            "The penalty was a fine.",
+            "The team got a penalty.",
+            "The penalty is five minutes."
+          ]
+        },
+        "more": {
+          "def": "A punishment or loss that you get for breaking a rule.",
+          "examples": [
+            "The penalty for being late is a fine.",
+            "The player got a penalty for pushing.",
+            "The team scored on a penalty kick."
           ]
         }
       }
@@ -543,6 +819,34 @@
     ]
   },
   {
+    "word": "perimeter",
+    "say": "puh-RIM-ih-ter",
+    "forms": [
+      "perimeters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The distance around the edge of a shape.",
+          "examples": [
+            "The perimeter of the square is eight.",
+            "Measure the perimeter.",
+            "The perimeter is the outside."
+          ]
+        },
+        "more": {
+          "def": "The total distance around the outside of a shape.",
+          "examples": [
+            "The perimeter of the square is eight inches.",
+            "We measured the perimeter of the garden.",
+            "The fence runs along the perimeter of the yard."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "period",
     "say": "PEER-ee-ud",
     "forms": [
@@ -799,6 +1103,64 @@
     ]
   },
   {
+    "word": "perspective",
+    "say": "per-SPEK-tiv",
+    "forms": [
+      "perspectives"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way of looking at something.",
+          "examples": [
+            "From my perspective, it is fair.",
+            "See it from her perspective.",
+            "Each person has a perspective."
+          ]
+        },
+        "more": {
+          "def": "A point of view, or a way of thinking about something.",
+          "examples": [
+            "From my perspective, the rule is fair.",
+            "Try to see the problem from her perspective.",
+            "Each of the three friends had a different perspective."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "persuade",
+    "say": "per-SWAYD",
+    "forms": [
+      "persuades",
+      "persuaded",
+      "persuading"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get someone to agree by giving reasons.",
+          "examples": [
+            "I persuaded Mom to say yes.",
+            "She persuaded him to come.",
+            "They persuaded the teacher."
+          ]
+        },
+        "more": {
+          "def": "To convince someone to do something by giving good reasons.",
+          "examples": [
+            "I persuaded Mom to let us get a dog.",
+            "She persuaded her friend to join the team.",
+            "The ad tries to persuade you to buy the toy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pet",
     "say": "pet",
     "emoji": "🐶",
@@ -843,6 +1205,35 @@
             "The children petted the soft lambs at the farm.",
             "He petted the horse's nose.",
             "Cats purr when you pet them."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "petty",
+    "say": "PET-ee",
+    "forms": [
+      "pettier",
+      "pettiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Small and not important.",
+          "examples": [
+            "It was a petty argument.",
+            "The petty problem was solved.",
+            "He got upset over petty things."
+          ]
+        },
+        "more": {
+          "def": "Small and not important, or mean about small things.",
+          "examples": [
+            "They had a petty argument over a pencil.",
+            "Petty quarrels wasted their afternoon.",
+            "Do not waste time on petty problems."
           ]
         }
       }

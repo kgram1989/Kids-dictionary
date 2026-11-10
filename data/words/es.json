@@ -30,6 +30,34 @@
     ]
   },
   {
+    "word": "essay",
+    "say": "ES-ay",
+    "forms": [
+      "essays"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short piece of writing about one subject.",
+          "examples": [
+            "I wrote an essay.",
+            "The essay is about dogs.",
+            "The essay has five paragraphs."
+          ]
+        },
+        "more": {
+          "def": "A short piece of writing in which you give your ideas about a subject.",
+          "examples": [
+            "I wrote an essay about my pet dog.",
+            "The essay had five paragraphs.",
+            "The teacher graded our essays."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "establish",
     "say": "ih-STAB-lish",
     "forms": [
@@ -84,6 +112,62 @@
             "Peacocks walked around the estate."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "estimate",
+    "say": "ES-tuh-mayt",
+    "forms": [
+      "estimates",
+      "estimated",
+      "estimating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To guess how much.",
+          "examples": [
+            "I estimate ten.",
+            "She estimated the weight.",
+            "Estimate the time."
+          ]
+        },
+        "more": {
+          "def": "To make a careful guess about the size or amount of something.",
+          "examples": [
+            "I estimated the jar had a hundred beans.",
+            "She estimated the trip would take an hour.",
+            "The teacher asked us to estimate the length."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A careful guess.",
+          "examples": [
+            "My estimate is twenty.",
+            "The estimate was close.",
+            "He made an estimate."
+          ]
+        },
+        "more": {
+          "def": "A careful guess about the size, amount or cost of something.",
+          "examples": [
+            "My estimate is twenty minutes.",
+            "The estimate for the repairs was low.",
+            "His estimate was close to the real number."
+          ]
+        },
+        "say": "ES-tuh-mit"
+      }
+    ],
+    "related": [
+      {
+        "word": "overestimate",
+        "def": "To guess too much."
       }
     ]
   }

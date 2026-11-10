@@ -1,5 +1,54 @@
 [
   {
+    "word": "rhyme",
+    "say": "rym",
+    "forms": [
+      "rhymes",
+      "rhymed",
+      "rhyming"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words that end with the same sound.",
+          "examples": [
+            "\"Cat\" and \"hat\" are a rhyme.",
+            "I like a rhyme.",
+            "The poem has a rhyme."
+          ]
+        },
+        "more": {
+          "def": "Words that have the same sound at the end, or a short poem that uses them.",
+          "examples": [
+            "\"Cat\" and \"hat\" make a rhyme.",
+            "The nursery rhyme was easy to remember.",
+            "She wrote a rhyme about her dog."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To end with the same sound.",
+          "examples": [
+            "\"Bear\" and \"chair\" rhyme.",
+            "The words rhyme.",
+            "Does \"tree\" rhyme with \"bee\"?"
+          ]
+        },
+        "more": {
+          "def": "To have the same sound at the end, as two words do.",
+          "examples": [
+            "\"Moon\" and \"spoon\" rhyme.",
+            "Poets often choose words that rhyme at the ends of their lines.",
+            "The last words in each line of the poem rhyme."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "rhythm",
     "say": "RITH-um",
     "emoji": "🥁",

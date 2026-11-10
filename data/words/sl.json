@@ -1,5 +1,34 @@
 [
   {
+    "word": "slack",
+    "say": "slak",
+    "forms": [
+      "slacker",
+      "slackest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Loose, not tight.",
+          "examples": [
+            "The rope is slack.",
+            "The sail was slack.",
+            "The line went slack."
+          ]
+        },
+        "more": {
+          "def": "Not pulled tight, or loose.",
+          "examples": [
+            "The rope hung slack between the posts.",
+            "The sail was slack with no wind.",
+            "The fishing line went slack."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "slam",
     "say": "slam",
     "forms": [
@@ -137,6 +166,64 @@
     ]
   },
   {
+    "word": "sleepy",
+    "say": "SLEE-pee",
+    "emoji": "😴",
+    "forms": [
+      "sleepier",
+      "sleepiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Needing to sleep.",
+          "examples": [
+            "I am sleepy.",
+            "The sleepy baby yawned.",
+            "She felt sleepy."
+          ]
+        },
+        "more": {
+          "def": "Feeling tired and ready to go to sleep.",
+          "examples": [
+            "The baby was sleepy after her bath.",
+            "I felt sleepy after the long car ride.",
+            "The sleepy puppy curled up in its bed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sleeve",
+    "say": "sleev",
+    "forms": [
+      "sleeves"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of a shirt that covers your arm.",
+          "examples": [
+            "The sleeve is long.",
+            "I rolled up my sleeve.",
+            "My sleeve is torn."
+          ]
+        },
+        "more": {
+          "def": "The part of a piece of clothing that covers your arm.",
+          "examples": [
+            "I rolled up my sleeves to wash dishes.",
+            "The sleeve of his coat was torn.",
+            "She wiped her nose on her sleeve."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "slice",
     "say": "slyss",
     "forms": [
@@ -188,6 +275,35 @@
       {
         "word": "slicer",
         "def": "A tool that slices."
+      }
+    ]
+  },
+  {
+    "word": "slick",
+    "say": "slik",
+    "forms": [
+      "slicker",
+      "slickest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Smooth and wet.",
+          "examples": [
+            "The road is slick.",
+            "The ice is slick.",
+            "The floor was slick."
+          ]
+        },
+        "more": {
+          "def": "Smooth and wet so that it is slippery.",
+          "examples": [
+            "The road was slick with rain.",
+            "The floor was slick, so I walked carefully.",
+            "Slick ice covered the steps."
+          ]
+        }
       }
     ]
   },
@@ -375,6 +491,34 @@
     ]
   },
   {
+    "word": "slipper",
+    "say": "SLIP-er",
+    "forms": [
+      "slippers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft shoe you wear indoors.",
+          "examples": [
+            "I wear slippers at home.",
+            "The slipper is warm.",
+            "My slippers are fuzzy."
+          ]
+        },
+        "more": {
+          "def": "A soft, light shoe that is worn indoors.",
+          "examples": [
+            "I wear my slippers around the house.",
+            "Her slippers were warm and fuzzy.",
+            "The dog chewed my slipper."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "slippery",
     "say": "SLIP-uh-ree",
     "emoji": "🧊",
@@ -395,6 +539,34 @@
             "Be careful, because the floor is slippery when it is wet.",
             "The soap was too slippery to hold.",
             "Wet leaves made the sidewalk slippery."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "slot",
+    "say": "slot",
+    "forms": [
+      "slots"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A narrow opening.",
+          "examples": [
+            "Put a coin in the slot.",
+            "The slot is thin.",
+            "Drop the letter in the slot."
+          ]
+        },
+        "more": {
+          "def": "A narrow opening or space that something fits into.",
+          "examples": [
+            "Slide your ticket into the slot at the gate.",
+            "The mail drops through a slot in the door.",
+            "The card fits into the slot."
           ]
         }
       }
@@ -472,6 +644,34 @@
             "The snail crept slowly across the path.",
             "He slowly opened the door so it would not squeak.",
             "Read the directions slowly and carefully."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "slug",
+    "say": "slug",
+    "forms": [
+      "slugs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A slimy animal with no shell.",
+          "examples": [
+            "A slug is on the leaf.",
+            "The slug is slow.",
+            "Slugs leave a trail."
+          ]
+        },
+        "more": {
+          "def": "A soft, slimy, crawling animal like a snail but with no shell.",
+          "examples": [
+            "A slug left a shiny trail on the leaf.",
+            "Slugs eat plants in the garden.",
+            "The slug was gray and slimy."
           ]
         }
       }

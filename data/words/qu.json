@@ -1,5 +1,36 @@
 [
   {
+    "word": "qualified",
+    "say": "KWOL-ih-fyd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having the right skills.",
+          "examples": [
+            "She is a qualified nurse.",
+            "The teacher is qualified.",
+            "He is qualified for the job."
+          ]
+        },
+        "more": {
+          "def": "Having the right training or skills for a job.",
+          "examples": [
+            "Only a qualified electrician should fix the wiring.",
+            "The teacher is well qualified to teach math.",
+            "He is qualified to drive a bus."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unqualified",
+        "def": "Not qualified."
+      }
+    ]
+  },
+  {
     "word": "quality",
     "say": "KWOL-uh-tee",
     "forms": [
@@ -165,6 +196,34 @@
             "Each hive has one queen that lays thousands of eggs.",
             "Worker bees feed the queen.",
             "The queen ant stays in the nest."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "quest",
+    "say": "kwest",
+    "forms": [
+      "quests"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long search for something.",
+          "examples": [
+            "The knight went on a quest.",
+            "The quest was long.",
+            "The hero's quest for gold."
+          ]
+        },
+        "more": {
+          "def": "A long search for something, as in stories.",
+          "examples": [
+            "The knight went on a quest for a magic sword.",
+            "The hero's quest took many months.",
+            "Their quest was to find the lost treasure."
           ]
         }
       }

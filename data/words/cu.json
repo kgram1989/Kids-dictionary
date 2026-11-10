@@ -1,5 +1,52 @@
 [
   {
+    "word": "cue",
+    "say": "kyoo",
+    "forms": [
+      "cues"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A signal to start.",
+          "examples": [
+            "The actor waited for her cue.",
+            "The nod was my cue.",
+            "The music is the cue."
+          ]
+        },
+        "more": {
+          "def": "A signal for someone to begin doing something, such as speaking in a play.",
+          "examples": [
+            "The actor waited for her cue to enter.",
+            "Her nod was my cue to start singing.",
+            "The bell was the cue for lunch."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long stick used in pool.",
+          "examples": [
+            "He chalked the cue.",
+            "The cue is long.",
+            "He hit the ball with the cue."
+          ]
+        },
+        "more": {
+          "def": "A long, thin stick that is used to hit the ball in a game such as pool.",
+          "examples": [
+            "He chalked the tip of the cue.",
+            "She aimed the cue at the ball.",
+            "The cue hung on the wall."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cuff",
     "say": "kuf",
     "forms": [
@@ -159,6 +206,35 @@
     ]
   },
   {
+    "word": "curiosity",
+    "say": "kyur-ee-OSS-ih-tee",
+    "emoji": "🔍",
+    "forms": [
+      "curiosities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Wanting to know or learn about things.",
+          "examples": [
+            "The cat's curiosity got it into trouble.",
+            "Curiosity helped her learn.",
+            "Her curiosity grew."
+          ]
+        },
+        "more": {
+          "def": "A strong wish to learn or know about something.",
+          "examples": [
+            "Curiosity led her to open the box.",
+            "The scientist's curiosity made her ask many questions.",
+            "The kitten's curiosity got it into trouble."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "curious",
     "say": "KYUR-ee-us",
     "emoji": "🤔",
@@ -226,6 +302,31 @@
             "The current mayor has held the job for six years.",
             "She told us about the current weather.",
             "What is your current address?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "currently",
+    "say": "KER-unt-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Right now.",
+          "examples": [
+            "I am currently reading a book.",
+            "She is currently at school.",
+            "The store is currently closed."
+          ]
+        },
+        "more": {
+          "def": "At the present time.",
+          "examples": [
+            "I am currently reading a book about space.",
+            "The store is currently closed for repairs.",
+            "He is currently in third grade."
           ]
         }
       }
@@ -309,6 +410,34 @@
     ]
   },
   {
+    "word": "custom",
+    "say": "KUS-tum",
+    "forms": [
+      "customs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A usual way of doing something.",
+          "examples": [
+            "It is a custom to shake hands.",
+            "That is a family custom.",
+            "The custom is old."
+          ]
+        },
+        "more": {
+          "def": "A way of doing something that people have done for a long time.",
+          "examples": [
+            "It is a custom to give flowers on birthdays.",
+            "We have a family custom of walking on Sundays.",
+            "The custom began long ago."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "customer",
     "say": "KUS-tuh-mer",
     "forms": [
@@ -331,6 +460,50 @@
             "The customer paid for the loaf of bread.",
             "A customer asked the clerk a question.",
             "The bakery has many customers every morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "customs",
+    "say": "KUS-tumz",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Special ways of doing things that a group follows.",
+          "examples": [
+            "Every land has its own customs.",
+            "We learn about customs.",
+            "A custom of the holiday."
+          ]
+        },
+        "more": {
+          "def": "The traditional ways that a group of people do things.",
+          "examples": [
+            "Every country has its own customs.",
+            "We learned about the customs of Japan.",
+            "Giving gifts is a custom on birthdays."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The place where officials check bags at a border.",
+          "examples": [
+            "We went through customs.",
+            "The customs officer looked at the bag.",
+            "The customs line was long."
+          ]
+        },
+        "more": {
+          "def": "The place at an airport or border where officials check what people bring into a country.",
+          "examples": [
+            "We went through customs at the airport.",
+            "The customs officer checked our bags.",
+            "Officials at customs asked where we had traveled."
           ]
         }
       }

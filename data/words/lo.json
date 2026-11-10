@@ -126,6 +126,35 @@
     ]
   },
   {
+    "word": "lobster",
+    "say": "LOB-ster",
+    "emoji": "🦞",
+    "forms": [
+      "lobsters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sea animal with a hard shell and big claws.",
+          "examples": [
+            "The lobster is red.",
+            "A lobster has claws.",
+            "We saw a lobster."
+          ]
+        },
+        "more": {
+          "def": "A sea animal with a hard shell, ten legs and two large claws, eaten as food.",
+          "examples": [
+            "The lobster crawled across the sea floor.",
+            "A lobster turns red when it is cooked.",
+            "The fisherman pulled up a trap full of lobsters."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "local",
     "say": "LOH-kul",
     "senses": [
@@ -288,6 +317,42 @@
     ]
   },
   {
+    "word": "lodge",
+    "say": "loj",
+    "forms": [
+      "lodges",
+      "lodged",
+      "lodging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small house or hotel in the woods or mountains.",
+          "examples": [
+            "We stayed in a lodge.",
+            "The lodge has a fireplace.",
+            "The lodge is in the mountains."
+          ]
+        },
+        "more": {
+          "def": "A small house or hotel in the country, for hunters, skiers or travelers.",
+          "examples": [
+            "We stayed at a ski lodge in the mountains.",
+            "The lodge had a big stone fireplace.",
+            "The hikers rested at the lodge."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "dislodge",
+        "def": "To knock something loose."
+      }
+    ]
+  },
+  {
     "word": "log",
     "say": "log",
     "emoji": "🪵",
@@ -344,6 +409,59 @@
     ]
   },
   {
+    "word": "logic",
+    "say": "LOJ-ik",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Clear thinking where each step makes sense.",
+          "examples": [
+            "Use logic to solve it.",
+            "The puzzle needs logic.",
+            "His logic is clear."
+          ]
+        },
+        "more": {
+          "def": "Careful, sensible thinking in which each step follows from the one before.",
+          "examples": [
+            "Use logic to solve the puzzle.",
+            "His logic was easy to follow.",
+            "Math and science depend on logic."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "logical",
+    "say": "LOJ-ih-kul",
+    "forms": [
+      "logically"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making sense.",
+          "examples": [
+            "The answer is logical.",
+            "It is logical to wear a coat.",
+            "His plan is logical."
+          ]
+        },
+        "more": {
+          "def": "Following a clear and sensible way of thinking.",
+          "examples": [
+            "It is logical to wear a coat when it is cold.",
+            "Her plan was logical and easy to follow.",
+            "The detective used a logical way of thinking."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lonely",
     "say": "LOHN-lee",
     "forms": [
@@ -367,6 +485,31 @@
             "He felt lonely after his best friend moved away.",
             "The lighthouse stood on a lonely stretch of coast.",
             "She was lonely at first, but soon made new friends."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lonesome",
+    "say": "LOHN-sum",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sad because you are alone.",
+          "examples": [
+            "The puppy was lonesome.",
+            "I felt lonesome.",
+            "The lonesome road was empty."
+          ]
+        },
+        "more": {
+          "def": "Feeling sad because you are alone, or looking empty and alone.",
+          "examples": [
+            "The puppy felt lonesome when we left.",
+            "She was lonesome in the new town.",
+            "A lonesome road stretched across the plain."
           ]
         }
       }
@@ -447,6 +590,36 @@
     ]
   },
   {
+    "word": "loop",
+    "say": "loop",
+    "forms": [
+      "loops",
+      "looped",
+      "looping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shape like a circle made with a line.",
+          "examples": [
+            "I made a loop with the string.",
+            "The rope has a loop.",
+            "The road has a loop."
+          ]
+        },
+        "more": {
+          "def": "A shape formed when a line curves and crosses itself or joins at the end.",
+          "examples": [
+            "I tied a loop in the rope.",
+            "The roller coaster has a loop.",
+            "The bike path makes a loop around the lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "loose",
     "say": "looss",
     "forms": [
@@ -489,6 +662,36 @@
             "The dog got loose and ran down the street.",
             "Chickens were loose in the yard.",
             "A loose horse ran across the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "loosen",
+    "say": "LOO-sun",
+    "forms": [
+      "loosens",
+      "loosened",
+      "loosening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make less tight.",
+          "examples": [
+            "I loosen my belt.",
+            "She loosened the lid.",
+            "Loosen the knot."
+          ]
+        },
+        "more": {
+          "def": "To make something less tight or firm.",
+          "examples": [
+            "I loosened my belt after dinner.",
+            "She loosened the lid on the jar.",
+            "He loosened his tie."
           ]
         }
       }
@@ -689,6 +892,55 @@
             "The thunder was so loud that it shook the windows.",
             "The loud music filled the gym.",
             "The baby gave a loud cry."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lounge",
+    "say": "lownj",
+    "forms": [
+      "lounges",
+      "lounged",
+      "lounging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A room for relaxing.",
+          "examples": [
+            "We sat in the lounge.",
+            "The hotel has a lounge.",
+            "The lounge is comfy."
+          ]
+        },
+        "more": {
+          "def": "A comfortable room where people can sit and relax.",
+          "examples": [
+            "We waited in the airport lounge.",
+            "The teachers had coffee in the lounge.",
+            "The hotel lounge had soft chairs."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To lie around lazily.",
+          "examples": [
+            "We lounged on the beach.",
+            "The cat lounges in the sun.",
+            "He lounged on the couch."
+          ]
+        },
+        "more": {
+          "def": "To sit or lie in a relaxed, lazy way.",
+          "examples": [
+            "We lounged by the pool all afternoon.",
+            "The cat lounged in the sun.",
+            "He lounged on the sofa with a book."
           ]
         }
       }
