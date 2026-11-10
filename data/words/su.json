@@ -75,6 +75,35 @@
     ]
   },
   {
+    "word": "subway",
+    "say": "SUB-way",
+    "emoji": "🚇",
+    "forms": [
+      "subways"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A train that runs underground in a city.",
+          "examples": [
+            "We ride the subway.",
+            "The subway is fast.",
+            "The subway is under the street."
+          ]
+        },
+        "more": {
+          "def": "An underground railway in a city.",
+          "examples": [
+            "We rode the subway to the museum.",
+            "The subway runs beneath the busy street.",
+            "He waited on the platform for the subway."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "succeed",
     "say": "suk-SEED",
     "forms": [
@@ -550,6 +579,34 @@
     ]
   },
   {
+    "word": "sum",
+    "say": "sum",
+    "forms": [
+      "sums"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The answer when you add numbers.",
+          "examples": [
+            "The sum of two and three is five.",
+            "What is the sum?",
+            "The sum is ten."
+          ]
+        },
+        "more": {
+          "def": "The total that you get when you add two or more numbers.",
+          "examples": [
+            "The sum of four and five is nine.",
+            "Add the numbers and write the sum.",
+            "The sum of the coins was one dollar."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "summer",
     "say": "SUM-er",
     "emoji": "☀️",
@@ -656,6 +713,61 @@
             "We have pancakes every Sunday.",
             "There is no school on Sunday.",
             "My cousins visit on Sunday afternoon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sunset",
+    "say": "SUN-set",
+    "emoji": "🌇",
+    "forms": [
+      "sunsets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The time when the sun goes down.",
+          "examples": [
+            "We watched the sunset.",
+            "The sunset is red.",
+            "We eat at sunset."
+          ]
+        },
+        "more": {
+          "def": "The time each evening when the sun goes below the horizon, or the colors in the sky then.",
+          "examples": [
+            "We watched the sunset from the beach.",
+            "The sky was pink and orange at sunset.",
+            "The sunset painted the clouds red."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sunshine",
+    "say": "SUN-shyn",
+    "emoji": "☀️",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Light from the sun.",
+          "examples": [
+            "We played in the sunshine.",
+            "The sunshine is warm.",
+            "I love sunshine."
+          ]
+        },
+        "more": {
+          "def": "The light and heat that come from the sun.",
+          "examples": [
+            "We played in the warm sunshine.",
+            "Sunshine streamed through the window.",
+            "Plants need water and sunshine to grow."
           ]
         }
       }
@@ -936,6 +1048,56 @@
             "I am sure that I left my backpack by the door.",
             "Are you sure this is the right way to the beach?",
             "Our team is sure to win after practicing so hard."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "surf",
+    "say": "serf",
+    "emoji": "🏄",
+    "forms": [
+      "surfs",
+      "surfed",
+      "surfing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To ride a wave on a board.",
+          "examples": [
+            "I surf in the summer.",
+            "She surfed the wave.",
+            "He learned to surf."
+          ]
+        },
+        "more": {
+          "def": "To ride on a wave using a board.",
+          "examples": [
+            "I learned to surf in the summer.",
+            "She surfed a big wave to the shore.",
+            "He surfs every weekend."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Waves that crash on the shore.",
+          "examples": [
+            "The surf is high.",
+            "We played in the surf.",
+            "The surf crashed on the rocks."
+          ]
+        },
+        "more": {
+          "def": "The waves that break on the beach.",
+          "examples": [
+            "We played in the surf at the beach.",
+            "The loud surf crashed on the rocks.",
+            "The surf was too strong to swim."
           ]
         }
       }

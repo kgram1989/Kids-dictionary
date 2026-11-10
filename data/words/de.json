@@ -212,6 +212,61 @@
     ]
   },
   {
+    "word": "debate",
+    "say": "dih-BAYT",
+    "forms": [
+      "debates",
+      "debated",
+      "debating"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A talk where people give different sides of an idea.",
+          "examples": [
+            "We had a class debate.",
+            "The debate was about recess.",
+            "The debate lasted an hour."
+          ]
+        },
+        "more": {
+          "def": "A discussion in which people give reasons for and against something.",
+          "examples": [
+            "Our class had a debate about school uniforms.",
+            "The two leaders held a debate on television.",
+            "The debate got loud, but everyone listened."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To talk about different sides of an idea.",
+          "examples": [
+            "We debate the rule.",
+            "The class debated about recess.",
+            "They debated all night."
+          ]
+        },
+        "more": {
+          "def": "To discuss a subject in which people have different opinions.",
+          "examples": [
+            "The students debated whether homework helps.",
+            "The town debated building a new park.",
+            "We debated which game to play."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "debatable",
+        "def": "Able to be argued about."
+      }
+    ]
+  },
+  {
     "word": "debt",
     "say": "det",
     "forms": [
@@ -933,6 +988,35 @@
     ]
   },
   {
+    "word": "dentist",
+    "say": "DEN-tist",
+    "emoji": "🦷",
+    "forms": [
+      "dentists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A doctor who takes care of your teeth.",
+          "examples": [
+            "I go to the dentist.",
+            "The dentist cleaned my teeth.",
+            "A dentist checks your teeth."
+          ]
+        },
+        "more": {
+          "def": "A person trained to take care of your teeth and gums.",
+          "examples": [
+            "I go to the dentist twice a year.",
+            "The dentist told her to floss every night.",
+            "My dentist said I had no cavities."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "deny",
     "say": "dih-NY",
     "forms": [
@@ -1089,6 +1173,34 @@
             "He felt depressed after the move.",
             "The depressed girl stayed inside all day.",
             "Talking with a doctor can help someone who is depressed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "depth",
+    "say": "depth",
+    "forms": [
+      "depths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How deep something is.",
+          "examples": [
+            "The depth of the pool is five feet.",
+            "What is the depth?",
+            "We measured the depth."
+          ]
+        },
+        "more": {
+          "def": "The distance from the top of something down to the bottom.",
+          "examples": [
+            "The depth of the lake near the dock is ten feet.",
+            "Divers measured the depth of the lake.",
+            "The well was twenty feet in depth."
           ]
         }
       }
@@ -1507,6 +1619,31 @@
             "The storm destroyed the old barn.",
             "Waves destroyed our sandcastle.",
             "Rust can destroy a metal bridge."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "destruction",
+    "say": "dih-STRUK-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Breaking something so that it cannot be used.",
+          "examples": [
+            "The storm caused destruction.",
+            "The destruction was awful.",
+            "The fire caused destruction."
+          ]
+        },
+        "more": {
+          "def": "Great damage that ruins something completely.",
+          "examples": [
+            "The storm caused great destruction in the town.",
+            "We saw the destruction left by the flood.",
+            "The destruction of the forest hurt the animals."
           ]
         }
       }

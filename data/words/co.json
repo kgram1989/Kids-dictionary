@@ -368,6 +368,53 @@
     ]
   },
   {
+    "word": "collar",
+    "say": "KOL-er",
+    "forms": [
+      "collars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of a shirt that goes around your neck.",
+          "examples": [
+            "My shirt has a collar.",
+            "Fold the collar down.",
+            "The collar is white."
+          ]
+        },
+        "more": {
+          "def": "The part of a shirt or coat that fits around the neck.",
+          "examples": [
+            "My shirt has a stiff white collar.",
+            "He turned up his collar against the wind.",
+            "The coat's collar was made of fur."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A band around the neck of a pet.",
+          "examples": [
+            "The dog has a collar.",
+            "The collar has a tag.",
+            "The cat wears a collar."
+          ]
+        },
+        "more": {
+          "def": "A strap or band that goes around the neck of a dog or cat.",
+          "examples": [
+            "The dog's collar has a name tag.",
+            "The cat wore a red collar with a bell.",
+            "I put the collar on the puppy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "collect",
     "say": "kuh-LEKT",
     "forms": [
@@ -585,6 +632,34 @@
     ]
   },
   {
+    "word": "coma",
+    "say": "KOH-muh",
+    "forms": [
+      "comas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very long, deep sleep from being badly hurt or sick.",
+          "examples": [
+            "The patient was in a coma.",
+            "She woke up from a coma.",
+            "The doctors cared for him in his coma."
+          ]
+        },
+        "more": {
+          "def": "A long, deep unconsciousness caused by serious illness or injury, from which a person cannot be woken.",
+          "examples": [
+            "The doctors watched the patient who was in a coma.",
+            "After weeks in a coma, she opened her eyes.",
+            "A bad fall put him in a coma."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "combat",
     "say": "KOM-bat",
     "forms": [
@@ -665,6 +740,35 @@
             "Please come to the front of the class and show your drawing.",
             "The mail carrier comes to our street every morning.",
             "Our cousins came all the way from Texas for the holiday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "comedy",
+    "say": "KOM-uh-dee",
+    "emoji": "😂",
+    "forms": [
+      "comedies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A funny movie or play.",
+          "examples": [
+            "We watched a comedy.",
+            "The comedy made me laugh.",
+            "The comedy is funny."
+          ]
+        },
+        "more": {
+          "def": "A funny play, show or movie that is meant to make people laugh.",
+          "examples": [
+            "We watched a comedy about a clumsy clown.",
+            "The comedy had everyone laughing.",
+            "The school play was a comedy."
           ]
         }
       }
@@ -977,6 +1081,34 @@
     ]
   },
   {
+    "word": "commitment",
+    "say": "kuh-MIT-munt",
+    "forms": [
+      "commitments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A promise to do something.",
+          "examples": [
+            "I made a commitment to help.",
+            "The commitment is serious.",
+            "She kept her commitment."
+          ]
+        },
+        "more": {
+          "def": "A serious promise to do something or stay loyal to something.",
+          "examples": [
+            "I made a commitment to feed the dog every day.",
+            "She kept her commitment to the team.",
+            "Playing in the band takes real commitment."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "committee",
     "say": "kuh-MIT-ee",
     "forms": [
@@ -1028,6 +1160,36 @@
             "Robins are common birds in our town.",
             "Colds are common in the winter.",
             "Smith is a common last name."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "communicate",
+    "say": "kuh-MYOO-nih-kayt",
+    "forms": [
+      "communicates",
+      "communicated",
+      "communicating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To share news or ideas with someone.",
+          "examples": [
+            "Dolphins communicate with clicks.",
+            "We communicate by phone.",
+            "Bees communicate by dancing."
+          ]
+        },
+        "more": {
+          "def": "To share information, ideas or feelings with others by talking, writing or signs.",
+          "examples": [
+            "Dolphins communicate with clicks and whistles.",
+            "We communicated by sending letters.",
+            "Sailors communicate across the sea with flags."
           ]
         }
       }
@@ -1936,6 +2098,34 @@
     ]
   },
   {
+    "word": "conflict",
+    "say": "KON-flikt",
+    "forms": [
+      "conflicts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fight or strong disagreement.",
+          "examples": [
+            "The two friends had a conflict.",
+            "The conflict was over a toy.",
+            "The conflict ended."
+          ]
+        },
+        "more": {
+          "def": "A serious disagreement or fight between people or groups.",
+          "examples": [
+            "The two friends had a conflict over a toy.",
+            "The conflict between the countries lasted years.",
+            "The teacher helped end the conflict."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "confused",
     "say": "kun-FYOOZD",
     "senses": [
@@ -2657,6 +2847,46 @@
     ]
   },
   {
+    "word": "coordinate",
+    "say": "koh-OR-dih-nayt",
+    "forms": [
+      "coordinates",
+      "coordinated",
+      "coordinating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make people or things work well together.",
+          "examples": [
+            "We coordinate the party.",
+            "She coordinated the team.",
+            "They coordinated their plans."
+          ]
+        },
+        "more": {
+          "def": "To organize people or things so that they work together well.",
+          "examples": [
+            "The teacher coordinated the school play.",
+            "We coordinated our plans for the picnic.",
+            "The captain coordinated the team's moves."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "coordination",
+        "def": "Working well together."
+      },
+      {
+        "word": "coordinator",
+        "def": "A person who coordinates."
+      }
+    ]
+  },
+  {
     "word": "cop",
     "say": "kop",
     "emoji": "👮",
@@ -3083,6 +3313,34 @@
             "The king asked his wise friend for counsel.",
             "She gave good counsel about what to do.",
             "He took his teacher's counsel and studied more."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "counselor",
+    "say": "KOWN-sel-er",
+    "forms": [
+      "counselors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who gives advice.",
+          "examples": [
+            "The school counselor helps kids.",
+            "The counselor listened.",
+            "I talked to a counselor."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to listen to people and give advice.",
+          "examples": [
+            "The school counselor helped me with a problem.",
+            "My camp counselor led our hike.",
+            "The counselor listened to each child."
           ]
         }
       }

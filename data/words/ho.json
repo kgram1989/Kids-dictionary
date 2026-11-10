@@ -1,5 +1,31 @@
 [
   {
+    "word": "hockey",
+    "say": "HOK-ee",
+    "emoji": "🏒",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A game where players hit a puck or ball with a stick.",
+          "examples": [
+            "I play hockey.",
+            "We watched hockey.",
+            "The hockey stick is long."
+          ]
+        },
+        "more": {
+          "def": "A sport in which two teams use sticks to hit a puck or ball into a goal.",
+          "examples": [
+            "I play ice hockey in winter.",
+            "The hockey game ended three to two.",
+            "He scored a goal in hockey."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hold",
     "say": "hohld",
     "forms": [
@@ -608,6 +634,34 @@
             "The horrible smell came from the trash.",
             "We had horrible weather on our trip.",
             "It was a horrible mistake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "horror",
+    "say": "HOR-er",
+    "forms": [
+      "horrors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A feeling of great fear.",
+          "examples": [
+            "She screamed in horror.",
+            "The horror made him shake.",
+            "They looked in horror."
+          ]
+        },
+        "more": {
+          "def": "A strong feeling of fear or shock.",
+          "examples": [
+            "She gasped in horror when she saw the spider.",
+            "The villagers watched in horror as the storm came.",
+            "He felt horror at the sight of the broken window."
           ]
         }
       }

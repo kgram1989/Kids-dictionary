@@ -648,5 +648,54 @@
         "def": "A little bit blue."
       }
     ]
+  },
+  {
+    "word": "bluff",
+    "say": "bluf",
+    "forms": [
+      "bluffs",
+      "bluffed",
+      "bluffing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A high hill with a straight side.",
+          "examples": [
+            "We stood on the bluff.",
+            "The bluff overlooked the sea.",
+            "The bluff is tall."
+          ]
+        },
+        "more": {
+          "def": "A high, steep cliff or hillside, often by the sea or a river.",
+          "examples": [
+            "We stood on the bluff and watched the waves.",
+            "A tall bluff rose above the river.",
+            "The house sits on a bluff above the sea."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pretend so that others believe you.",
+          "examples": [
+            "He bluffed in the game.",
+            "She tried to bluff her way through.",
+            "I bluffed that I knew."
+          ]
+        },
+        "more": {
+          "def": "To trick people by pretending to be stronger or to know more than you do.",
+          "examples": [
+            "She bluffed during the card game.",
+            "He tried to bluff his way out of trouble.",
+            "I bluffed when I did not know the answer."
+          ]
+        }
+      }
+    ]
   }
 ]

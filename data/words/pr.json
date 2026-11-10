@@ -1,5 +1,33 @@
 [
   {
+    "word": "practical",
+    "say": "PRAK-tih-kul",
+    "forms": [
+      "practically"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Useful in real life.",
+          "examples": [
+            "A coat is practical in winter.",
+            "Boots are practical shoes.",
+            "That is a practical idea."
+          ]
+        },
+        "more": {
+          "def": "Useful and sensible, not just for show.",
+          "examples": [
+            "Boots are practical shoes for a rainy day.",
+            "She gave me a practical gift, a warm scarf.",
+            "It is practical to carry an umbrella in April."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "practice",
     "say": "PRAK-tiss",
     "forms": [
@@ -43,6 +71,56 @@
             "Soccer practice starts at four.",
             "It takes lots of practice to learn to juggle.",
             "She does piano practice before dinner."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "praise",
+    "say": "prayz",
+    "emoji": "👏",
+    "forms": [
+      "praises",
+      "praised",
+      "praising"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Kind words about something good that someone did.",
+          "examples": [
+            "The teacher gave me praise.",
+            "She smiled at the praise.",
+            "My drawing won praise."
+          ]
+        },
+        "more": {
+          "def": "Words that show you think someone did something well.",
+          "examples": [
+            "The coach gave the team praise for working hard.",
+            "The chef received praise for the soup.",
+            "Her story won praise from everyone in the class."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say that someone did well.",
+          "examples": [
+            "I praise my dog.",
+            "The teacher praised her work.",
+            "We praised the cook."
+          ]
+        },
+        "more": {
+          "def": "To say good things about someone or something.",
+          "examples": [
+            "The teacher praised him for helping a new student.",
+            "Everyone praised the singer after the show.",
+            "Dad praised us for cleaning the kitchen."
           ]
         }
       }
@@ -1793,6 +1871,42 @@
     ]
   },
   {
+    "word": "promote",
+    "say": "pruh-MOHT",
+    "forms": [
+      "promotes",
+      "promoted",
+      "promoting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move someone up to a better job.",
+          "examples": [
+            "The boss promoted her.",
+            "He was promoted to captain.",
+            "They promoted the worker."
+          ]
+        },
+        "more": {
+          "def": "To raise someone to a higher job or rank.",
+          "examples": [
+            "The boss promoted her to manager.",
+            "He was promoted to captain of the team.",
+            "The school promoted him to the next grade."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "promotion",
+        "def": "Moving up to a better job."
+      }
+    ]
+  },
+  {
     "word": "proof",
     "say": "proof",
     "senses": [
@@ -1975,6 +2089,61 @@
             "Rangers work for the protection of wild animals."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "protest",
+    "say": "PROH-test",
+    "forms": [
+      "protests",
+      "protested",
+      "protesting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words or actions that show you do not agree with something.",
+          "examples": [
+            "The kids made a protest.",
+            "The protest was peaceful.",
+            "They held a protest at the park."
+          ]
+        },
+        "more": {
+          "def": "A strong way of showing that you do not agree with something.",
+          "examples": [
+            "The students held a protest about the school lunch.",
+            "People marched in a peaceful protest.",
+            "His protest was heard by the whole town."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say that you do not agree.",
+          "examples": [
+            "We protest the rule.",
+            "They protested the noise.",
+            "She protested loudly."
+          ]
+        },
+        "more": {
+          "def": "To say or show that you strongly disagree with something.",
+          "examples": [
+            "The neighbors protested against the new road.",
+            "The kids protested when bedtime came early.",
+            "She protested that it was not fair."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "protester",
+        "def": "A person who protests."
       }
     ]
   },

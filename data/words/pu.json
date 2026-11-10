@@ -188,6 +188,35 @@
     ]
   },
   {
+    "word": "pumpkin",
+    "say": "PUMP-kin",
+    "emoji": "🎃",
+    "forms": [
+      "pumpkins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big, round, orange vegetable.",
+          "examples": [
+            "We carved a pumpkin.",
+            "The pumpkin is orange.",
+            "I grew a pumpkin."
+          ]
+        },
+        "more": {
+          "def": "A large, round, orange fruit that grows on a vine and is used for pies and Halloween lanterns.",
+          "examples": [
+            "We carved a pumpkin for Halloween.",
+            "Mom made a pie from the pumpkin.",
+            "The pumpkins ripen in the fall."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "punch",
     "say": "punch",
     "forms": [
@@ -343,6 +372,55 @@
     ]
   },
   {
+    "word": "purchase",
+    "say": "PER-chiss",
+    "forms": [
+      "purchases",
+      "purchased",
+      "purchasing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To buy something.",
+          "examples": [
+            "I will purchase a ticket.",
+            "She purchased a book.",
+            "They purchased a car."
+          ]
+        },
+        "more": {
+          "def": "To buy something, usually something that costs a lot.",
+          "examples": [
+            "I purchased two tickets for the show.",
+            "Dad purchased a new bike for my birthday.",
+            "She purchased a book at the store."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you buy.",
+          "examples": [
+            "I made a purchase.",
+            "The purchase was small.",
+            "The purchase was a hat."
+          ]
+        },
+        "more": {
+          "def": "Something that you have bought, or the act of buying it.",
+          "examples": [
+            "The purchase of a new computer cost a lot.",
+            "She carried her purchases home in a bag.",
+            "Keep the receipt for your purchase."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pure",
     "say": "pyoor",
     "forms": [
@@ -367,6 +445,51 @@
             "The pure white snow sparkled in the sun.",
             "The ring was made of pure gold.",
             "The spring gives pure water."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "purple",
+    "say": "PER-pul",
+    "emoji": "🟣",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "The color you get by mixing red and blue.",
+          "examples": [
+            "The grapes are purple.",
+            "She wore a purple coat.",
+            "The flower is purple."
+          ]
+        },
+        "more": {
+          "def": "Having the color made by mixing red and blue.",
+          "examples": [
+            "Purple grapes grew on the vine.",
+            "She painted the door purple.",
+            "The sunset turned the sky purple."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A color between red and blue.",
+          "examples": [
+            "Purple is my favorite color.",
+            "I like purple.",
+            "She chose purple."
+          ]
+        },
+        "more": {
+          "def": "The color that is made by mixing red and blue.",
+          "examples": [
+            "The king wore purple on special days.",
+            "The artist mixed red and blue to make purple.",
+            "The robe was dyed a deep purple."
           ]
         }
       }
@@ -430,6 +553,36 @@
             "She tucked her wallet and her phone into her purse.",
             "The girl kept her coins in a tiny purse.",
             "She found a tissue in her purse."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pursue",
+    "say": "per-SOO",
+    "forms": [
+      "pursues",
+      "pursued",
+      "pursuing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To chase after something.",
+          "examples": [
+            "The dog pursued the ball.",
+            "The cat pursues a mouse.",
+            "We pursued the kite down the hill."
+          ]
+        },
+        "more": {
+          "def": "To follow or chase something in order to catch it, or to work toward a goal.",
+          "examples": [
+            "The police car pursued the speeding truck.",
+            "She pursued her dream of becoming a doctor.",
+            "The lion pursued the zebra across the plain."
           ]
         }
       }

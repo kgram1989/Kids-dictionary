@@ -213,6 +213,34 @@
     ]
   },
   {
+    "word": "rod",
+    "say": "rod",
+    "forms": [
+      "rods"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, thin pole.",
+          "examples": [
+            "I use a fishing rod.",
+            "The rod is metal.",
+            "The curtain hangs on a rod."
+          ]
+        },
+        "more": {
+          "def": "A long, thin stick or bar made of wood or metal.",
+          "examples": [
+            "He cast the fishing rod into the lake.",
+            "The curtain hangs from a metal rod.",
+            "A steel rod held up the sign."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "role",
     "say": "rohl",
     "emoji": "🎭",
@@ -580,6 +608,36 @@
             "A red rose grew by the gate.",
             "Roses have sharp thorns.",
             "She smelled the pink rose."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "rot",
+    "say": "rot",
+    "forms": [
+      "rots",
+      "rotted",
+      "rotting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go bad slowly, like old food.",
+          "examples": [
+            "The apple will rot.",
+            "Wood rots in water.",
+            "The leaves rotted."
+          ]
+        },
+        "more": {
+          "def": "To slowly go bad and fall apart, usually because of damp or age.",
+          "examples": [
+            "The fruit began to rot in the heat.",
+            "Wood can rot if it stays wet.",
+            "The fallen leaves rotted on the ground."
           ]
         }
       }

@@ -55,6 +55,36 @@
     ]
   },
   {
+    "word": "react",
+    "say": "ree-AKT",
+    "forms": [
+      "reacts",
+      "reacted",
+      "reacting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To do something because of something that happened.",
+          "examples": [
+            "How did she react?",
+            "The dog reacts to loud sounds.",
+            "I reacted fast."
+          ]
+        },
+        "more": {
+          "def": "To act or feel in a certain way because of something that has happened.",
+          "examples": [
+            "How did you react when you heard the news?",
+            "The cat reacted to the noise by jumping.",
+            "She reacted quickly and caught the glass."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "reaction",
     "say": "ree-AK-shun",
     "forms": [
@@ -464,6 +494,53 @@
             "The recent snow is still on the ground.",
             "I read a recent book about whales.",
             "She told us about her recent trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "reception",
+    "say": "rih-SEP-shun",
+    "forms": [
+      "receptions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A party after a wedding.",
+          "examples": [
+            "The wedding reception was fun.",
+            "The reception was in a big hall.",
+            "We danced at the reception."
+          ]
+        },
+        "more": {
+          "def": "A party that is held to welcome people, especially after a wedding.",
+          "examples": [
+            "The wedding reception had music and dancing.",
+            "We ate cake at the reception.",
+            "A reception was held for the new principal."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way a signal is received on a phone or TV.",
+          "examples": [
+            "I have bad reception.",
+            "The radio reception is poor.",
+            "The phone has good reception."
+          ]
+        },
+        "more": {
+          "def": "How well a phone, radio or TV picks up its signal.",
+          "examples": [
+            "The reception on my phone is poor in the woods.",
+            "The radio had clear reception.",
+            "Bad weather can spoil TV reception."
           ]
         }
       }
@@ -1486,6 +1563,40 @@
     ]
   },
   {
+    "word": "remarkable",
+    "say": "rih-MAR-kuh-bul",
+    "forms": [
+      "remarkably"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Amazing and worth noticing.",
+          "examples": [
+            "She is a remarkable runner.",
+            "The view was remarkable.",
+            "It was a remarkable day."
+          ]
+        },
+        "more": {
+          "def": "So unusual or good that people notice and talk about it.",
+          "examples": [
+            "She is a remarkable runner for her age.",
+            "The view from the tower was remarkable.",
+            "The dog made a remarkable escape from the yard."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unremarkable",
+        "def": "Not remarkable."
+      }
+    ]
+  },
+  {
     "word": "remember",
     "say": "rih-MEM-ber",
     "forms": [
@@ -2234,6 +2345,34 @@
     ]
   },
   {
+    "word": "resident",
+    "say": "REZ-ih-dent",
+    "forms": [
+      "residents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who lives in a place.",
+          "examples": [
+            "He is a resident of this town.",
+            "The residents like the park.",
+            "A resident helped us."
+          ]
+        },
+        "more": {
+          "def": "A person who lives in a certain place.",
+          "examples": [
+            "She is a resident of this town.",
+            "The residents voted to build a park.",
+            "Residents of the building share a garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "resist",
     "say": "rih-ZIST",
     "forms": [
@@ -2551,6 +2690,36 @@
             "My grandfather retired after forty years as a mail carrier.",
             "The famous baseball player will retire at the end of the season.",
             "She retired and now spends her days gardening."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "retreat",
+    "say": "rih-TREET",
+    "forms": [
+      "retreats",
+      "retreated",
+      "retreating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go back or move away.",
+          "examples": [
+            "The crab retreated into its shell.",
+            "The waves retreat from the beach.",
+            "The cat retreated under the bed."
+          ]
+        },
+        "more": {
+          "def": "To move back or away from danger or a hard place.",
+          "examples": [
+            "The army retreated from the hill.",
+            "The tide retreated, leaving shells on the sand.",
+            "The turtle retreated into its shell."
           ]
         }
       }

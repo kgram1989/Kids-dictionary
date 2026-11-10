@@ -63,6 +63,55 @@
     ]
   },
   {
+    "word": "beam",
+    "say": "beem",
+    "forms": [
+      "beams",
+      "beamed",
+      "beaming"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A line of light.",
+          "examples": [
+            "A beam of sunlight came in.",
+            "The flashlight beam was bright.",
+            "The lighthouse sent a beam."
+          ]
+        },
+        "more": {
+          "def": "A line of light shining from something.",
+          "examples": [
+            "A beam of sunlight came through the window.",
+            "The flashlight beam lit up the path.",
+            "The lighthouse sent a beam across the water."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, heavy piece of wood or metal in a building.",
+          "examples": [
+            "The roof has a beam.",
+            "The beam is wood.",
+            "A big beam holds up the ceiling."
+          ]
+        },
+        "more": {
+          "def": "A long, strong piece of wood or metal that holds up part of a building.",
+          "examples": [
+            "Wooden beams held up the barn roof.",
+            "The workers lifted a steel beam into place.",
+            "The old house has beams across the ceiling."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bean",
     "say": "been",
     "emoji": "🫘",
@@ -696,6 +745,31 @@
     ]
   },
   {
+    "word": "behalf",
+    "say": "bih-HAF",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word used to say who you speak or act for.",
+          "examples": [
+            "I speak on behalf of the class.",
+            "She accepted the prize on behalf of the team.",
+            "He did it on my behalf."
+          ]
+        },
+        "more": {
+          "def": "A word in a special phrase that means for someone or in their place.",
+          "examples": [
+            "She accepted the award on behalf of the whole team.",
+            "I am writing on behalf of my class.",
+            "He said thank you on my behalf."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "behave",
     "say": "bih-HAYV",
     "forms": [
@@ -792,6 +866,34 @@
             "The hikers at the back of the group fell behind on the steep trail.",
             "She was behind at halftime, but she scored three times and won.",
             "I am a little behind in math because I was sick."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "belief",
+    "say": "bih-LEEF",
+    "forms": [
+      "beliefs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you think is true.",
+          "examples": [
+            "It is my belief that she is kind.",
+            "He has a strong belief.",
+            "That is a common belief."
+          ]
+        },
+        "more": {
+          "def": "A strong feeling that something is true or right.",
+          "examples": [
+            "It is my belief that dogs are friendly.",
+            "Their beliefs came from their family.",
+            "She has a strong belief in being kind."
           ]
         }
       }

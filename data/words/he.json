@@ -558,6 +558,35 @@
     ]
   },
   {
+    "word": "helmet",
+    "say": "HEL-mit",
+    "emoji": "⛑️",
+    "forms": [
+      "helmets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hard hat that protects your head.",
+          "examples": [
+            "I wear a helmet on my bike.",
+            "The helmet is blue.",
+            "Put on your helmet."
+          ]
+        },
+        "more": {
+          "def": "A strong, hard hat that protects your head.",
+          "examples": [
+            "I wear a helmet when I ride my bike.",
+            "The football player buckled his helmet.",
+            "Workers wear a helmet on the building site."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "help",
     "say": "help",
     "forms": [
@@ -603,6 +632,74 @@
             "A map is a great help when you are traveling."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "helpful",
+    "say": "HELP-ful",
+    "forms": [
+      "helpfully"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Ready to help.",
+          "examples": [
+            "She is a helpful girl.",
+            "The map was helpful.",
+            "He is always helpful."
+          ]
+        },
+        "more": {
+          "def": "Giving help, or useful.",
+          "examples": [
+            "The librarian was very helpful.",
+            "The map was helpful on our hike.",
+            "He is a helpful neighbor."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unhelpful",
+        "def": "Not helpful."
+      }
+    ]
+  },
+  {
+    "word": "helpless",
+    "say": "HELP-liss",
+    "forms": [
+      "helplessly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not able to help yourself.",
+          "examples": [
+            "The baby is helpless.",
+            "A helpless kitten cried.",
+            "The turtle on its back was helpless."
+          ]
+        },
+        "more": {
+          "def": "Not able to take care of yourself or to do anything.",
+          "examples": [
+            "A newborn baby is helpless.",
+            "The kitten was helpless in the tree.",
+            "The turtle felt helpless on its back."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "helplessness",
+        "def": "Being helpless."
       }
     ]
   },
