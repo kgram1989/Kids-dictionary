@@ -9,6 +9,8 @@ no server or database.
 - `data/words/*.json` — the dictionary entries, in files named after each word's first two letters (`camouflage` → `ca.json`).
 - `data/wordlist.txt` — the master list of about 10,500 words to add, most-used first. Do not reorder it.
 - `data/skipped.txt` — words from the list that were deliberately left out, with reasons.
+- `data/derived.txt` — words built from a root word (`unjust`, `sugarless`) that get a one-line `related` entry under their root, not a full entry.
+- `data/blocked.txt` — words removed as unsuitable for children. They must never get an entry, a related line or a hint; the check enforces this. Only the owner changes this file.
 - `data/unsure.txt` — entries that were added but need a second look, as `word | what to check`. Add to it every session; only delete a line after review.
 - `docs/WRITING_GUIDE.md` — the rules for writing entries, and the step-by-step workflow.
 - `scripts/` — `check-words.mjs` (validation and search index), `next-words.mjs`, `add-words.mjs`.
@@ -20,6 +22,8 @@ no server or database.
 - `npm run next -- 200` — show progress and the next 200 words to write.
 - `npm run add -- <batch.json> --dry-run` — validate a batch and print style warnings without changing anything.
 - `npm run add -- <batch.json>` — merge a batch into `data/words/`.
+- `npm run related` — list one-line related entries that are due (their root word is already written).
+- `npm run add-related -- <related.json>` — add related entries to roots that are already written (`--dry-run` to check first).
 - `npm run check` — validate all word data.
 - `npm run build` — validate and build the site. Must pass before every commit.
 

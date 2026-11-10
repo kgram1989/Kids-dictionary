@@ -25,6 +25,17 @@ export function validateEntry(e) {
   if (e.emoji !== undefined && !isText(e.emoji)) errors.push(`${at}: "emoji" must be text`);
   if (e.forms !== undefined && !(Array.isArray(e.forms) && e.forms.every(isText))) errors.push(`${at}: "forms" must be a list of words`);
   if (!Array.isArray(e.senses) || e.senses.length === 0) return [...errors, `${at}: needs at least one sense`];
+  if (e.related !== undefined) {
+    if (!Array.isArray(e.related)) errors.push(`${at}: "related" must be a list`);
+    else {
+      const seenRelated = new Set();
+      for (const r of e.related) {
+        if (!isText(r?.word) || !isText(r?.def)) { errors.push(`${at}: each related word needs "word" and "def"`); continue; }
+        if (r.word === e.word || seenRelated.has(r.word)) errors.push(`${at}: related word "${r.word}" is repeated`);
+        seenRelated.add(r.word);
+      }
+    }
+  }
   e.senses.forEach((s, i) => {
     const where = `${at} sense ${i + 1}`;
     if (!POS.includes(s.pos)) errors.push(`${where}: unknown part of speech "${s.pos}"`);
@@ -62,4 +73,36 @@ function readList(file) {
 }
 
 export const readWordlist = () => readList('wordlist.txt');
+export const readBlocked = () => new Set(readList('blocked.txt').map((w) => w.toLowerCase()));
+
+// data/derived.txt: "derived word | root word | affix". Returns Map(root -> [{ word, affix }]).
+export function readDerived() {
+  const byRoot = new Map();
+  for (const line of readList('derived.txt')) {
+    const [word, root, affix] = line.split('|').map((x) => x.trim());
+    if (!word || !root) continue;
+    if (!byRoot.has(root)) byRoot.set(root, []);
+    byRoot.get(root).push({ word, affix });
+  }
+  return byRoot;
+}
+
+// Checks that apply across the whole dictionary. `entries` is every entry.
+export function crossCheck(entries) {
+  const errors = [];
+  const blocked = readBlocked();
+  const headwords = new Set(entries.map((e) => e.word.toLowerCase()));
+  const relatedOwner = new Map();
+  for (const e of entries) {
+    if (blocked.has(e.word.toLowerCase())) errors.push(`"${e.word}": is on the blocked list (data/blocked.txt)`);
+    for (const r of e.related ?? []) {
+      const w = String(r.word).toLowerCase();
+      if (blocked.has(w)) errors.push(`"${e.word}": related word "${r.word}" is on the blocked list`);
+      if (headwords.has(w)) errors.push(`"${e.word}": related word "${r.word}" already has its own full entry; remove one of them`);
+      if (relatedOwner.has(w)) errors.push(`"${e.word}": related word "${r.word}" is also listed under "${relatedOwner.get(w)}"`);
+      relatedOwner.set(w, e.word);
+    }
+  }
+  return errors;
+}
 export const readSkipped = () => readList('skipped.txt').map((l) => l.split('|')[0].trim().toLowerCase());

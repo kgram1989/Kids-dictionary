@@ -49,6 +49,7 @@ Read the whole guide before writing your first entry. The workflow is at the end
 | `senses[].say` | no | Only when this meaning is said differently from the headword's `say` (for example "wind" the verb: `wynd`). |
 | `senses[].easy` | yes | Definition and three examples for Grades K–2. |
 | `senses[].more` | yes | Definition and three examples for Grades 3–5. |
+| `related` | no | One-line entries for words built from this word (see "Related words" below). |
 
 ## The two reading levels
 
@@ -166,14 +167,55 @@ If a word is said in two ways with different meanings (wind, read, tear, bow, cl
 put the first meaning's pronunciation in the entry's `say` and add `say` to the sense
 that differs.
 
+## Related words (one-line entries)
+
+Some words are built from a root word with a prefix or suffix and mean just what their
+parts say: *unjust* is "not just", *sugarless* is "without sugar". The ones children
+are likely to meet but that are too rare for a full entry are listed in
+`data/derived.txt`. They get a single line under their root word instead:
+
+```json
+{
+  "word": "sugar",
+  "say": "SHUUG-er",
+  "senses": [ ... ],
+  "related": [
+    { "word": "sugarless", "def": "Without sugar." },
+    { "word": "sugary", "def": "Full of sugar; very sweet." }
+  ]
+}
+```
+
+The app shows them under "Words made from sugar", and search finds them.
+
+- `npm run next` marks a word that has related words due, for example
+  `sugar   + related: sugarless, sugary`. Write them in the root's entry as you write it.
+- **One short definition for both reading levels**: 12 words at most, in words a
+  6-year-old knows. Using the root word is fine and usually best ("Not tidy.", "To heat again.").
+- No examples, pronunciation or forms.
+- **Check that the simple meaning is true.** If the word does not mean what its parts
+  suggest, leave it out of `related` and say so in your report.
+- A word that already has a full entry must not also be a related word; the check rejects it.
+- To add related words to roots that are already written, put them in a JSON list of
+  `{ "root": ..., "word": ..., "def": ... }` and run `npm run add-related -- <file>`
+  (with `--dry-run` first). `npm run related` lists the ones that are due.
+
+Words a child types that are in neither list may still get an automatic "may be made
+from" hint in the app (for example *unkindly* → un- + kind + -ly). That needs no
+writing. Words in `data/blocked.txt` never get an entry, a related line or a hint.
+
 ## Which words to write, and which to skip
 
 Work through `data/wordlist.txt` in order (`npm run next` shows what is next). The list
 was built automatically, so it contains words that should not get an entry. Skip a word,
 and record it in `data/skipped.txt` as `word | reason`, when it is:
 
-- **Not suitable for children**: swearing, slurs, sexual words, drug and alcohol slang,
-  graphic violence. Reason: `not suitable for children`.
+- **Not suitable for children**: swearing and crude slang, slurs and demeaning names for
+  groups of people, sexual words, nudity and private body parts, alcohol, tobacco, drugs and gambling, and violent crime
+  or cruelty (murder, torture, kidnapping and the like). Reason: `not suitable for
+  children`. The list was reviewed for these and about 175 words were removed, but if
+  one was missed, skip it. Keep these topics out of definitions and examples for other
+  words too: "smoke" is what a fire makes, and a "bar" is a long piece of something.
 - **Only a form of another word** with no meaning of its own (`dancing` as in "is
   dancing"). Reason: `a form of dance`. Make sure the base word lists it in `forms`.
   But write a full entry when the form is a word in its own right that a child would
@@ -189,7 +231,8 @@ If the list gives a word in lower case that should be capitalised (`monday`,
 
 ## Workflow for adding a batch
 
-1. `npm ci` if `node_modules` is missing, then `npm run next -- 200` to see the next words.
+1. `npm ci` if `node_modules` is missing, then `npm run next -- 200` to see the next words
+   (and any related words to write with them).
 2. Decide which of them to skip and add those lines to `data/skipped.txt`.
 3. Write the entries about 40 at a time, as a JSON list in a temporary file **outside
    the repository** (a scratch or temp directory).

@@ -1,8 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import {
-  index, LETTERS, POS_LABELS, canSpeak, letterOf, loadWord, search, speak,
+  index, LETTERS, POS_LABELS, canSpeak, letterOf, loadWord, madeFrom, search, speak,
   useHashRoute, useStored, wordOfTheDay,
 } from './lib.js';
+import { PREFIXES, SUFFIXES } from './wordparts.js';
+
+const wordLink = (word, focus) => `#/word/${encodeURIComponent(word)}${focus ? '/' + encodeURIComponent(focus) : ''}`;
 
 const byWord = new Map(index.map((i) => [i.w, i]));
 
@@ -14,10 +17,10 @@ export default function App() {
   const toggleStar = (word) =>
     setStars((s) => (s.includes(word) ? s.filter((w) => w !== word) : [...s, word]));
 
-  const [page, arg] = route.split('/');
+  const [page, arg, focus] = route.split('/');
   let content;
   if (page === 'word' && arg) {
-    content = <WordPage key={arg} word={arg} level={level} starred={stars.includes(arg)} onStar={toggleStar} />;
+    content = <WordPage key={arg} word={arg} focus={focus} level={level} starred={stars.includes(arg)} onStar={toggleStar} />;
   } else if (page === 'letter' && arg) {
     content = <LetterPage letter={arg} />;
   } else if (page === 'stars') {
@@ -53,17 +56,29 @@ export default function App() {
 function SearchBox() {
   const [q, setQ] = useState('');
   const results = search(q);
-  const go = (word) => {
+  const exact = results.some((r) => r.score === 0);
+  const hint = q.trim() && !exact ? madeFrom(q) : null;
+  // A near-miss spelling of a word we have ("redish") is more likely than a built-up word.
+  const hintFirst = hint && !results.some((r) => r.score <= 3);
+  const go = (word, focus) => {
     setQ('');
-    window.location.hash = `#/word/${encodeURIComponent(word)}`;
+    window.location.hash = wordLink(word, focus);
   };
+  const hintRow = hint && (
+            <li>
+              <button type="button" className="hint-result" onClick={() => go(hint.item.w, q.trim().toLowerCase())}>
+                <strong>{q.trim().toLowerCase()}</strong> may be made from <strong>{hint.item.w}</strong>
+              </button>
+            </li>
+  );
   return (
     <form
       className="search"
       role="search"
       onSubmit={(e) => {
         e.preventDefault();
-        if (results[0]) go(results[0].w);
+        if (hintFirst) go(hint.item.w, q.trim().toLowerCase());
+        else if (results[0]) go(results[0].item.w, results[0].via);
       }}
     >
       <label htmlFor="q" className="sr-only">Type a word</label>
@@ -79,14 +94,16 @@ function SearchBox() {
       />
       {q.trim() && (
         <ul className="results">
-          {results.length === 0 && <li className="none">We don't have that word yet. Check the spelling, or try another word.</li>}
+          {hintFirst && hintRow}
+          {results.length === 0 && !hint && <li className="none">We don't have that word yet. Check the spelling, or try another word.</li>}
           {results.map((r) => (
-            <li key={r.w}>
-              <button type="button" onClick={() => go(r.w)}>
-                <span aria-hidden="true">{r.e}</span> {r.w}
+            <li key={`${r.item.w}/${r.via ?? ''}`}>
+              <button type="button" onClick={() => go(r.item.w, r.via)}>
+                <span aria-hidden="true">{r.item.e}</span> {r.via ? <>{r.via} <span className="see">(see {r.item.w})</span></> : r.item.w}
               </button>
             </li>
           ))}
+          {hint && !hintFirst && hintRow}
         </ul>
       )}
     </form>
@@ -154,7 +171,24 @@ function LetterPage({ letter }) {
   );
 }
 
-function WordPage({ word, level, starred, onStar }) {
+// Explains a word we have no entry for by the parts it seems to be built from.
+function MadeFromHint({ word, showLink }) {  // showLink: used on the 'no such word' page
+  const parts = madeFrom(word);
+  if (!parts) return null;
+  return (
+    <aside className="made-from">
+      <p>{!showLink && <>We don't have <strong>{word}</strong> yet. </>}It may be made from these parts:</p>
+      <ul>
+        {parts.prefix && <li><strong>{parts.prefix}-</strong> {PREFIXES[parts.prefix]}</li>}
+        <li><strong>{parts.item.w}</strong>{showLink && <> (<a href={wordLink(parts.item.w, word)}>see this word</a>)</>}</li>
+        {parts.suffixes.map((s) => <li key={s}><strong>-{s}</strong> {SUFFIXES[s]}</li>)}
+      </ul>
+      <p className="small">Words built like this usually mean something close to their parts, but not always.</p>
+    </aside>
+  );
+}
+
+function WordPage({ word, focus, level, starred, onStar }) {
   const [entry, setEntry] = useState(undefined);
   useEffect(() => {
     let live = true;
@@ -167,12 +201,16 @@ function WordPage({ word, level, starred, onStar }) {
     return (
       <section>
         <h1>We don't have “{word}” yet.</h1>
+        <MadeFromHint word={word} showLink />
         <p><a href="#/">Go back home</a></p>
       </section>
     );
   }
+  const related = entry.related ?? [];
+  const focusIsRelated = related.some((r) => r.word === focus);
   return (
     <article className="entry">
+      {focus && !focusIsRelated && <MadeFromHint word={focus} />}
       <div className="entry-head">
         <h1>{entry.emoji && <span aria-hidden="true">{entry.emoji} </span>}{entry.word}</h1>
         <button className="star" aria-pressed={starred} onClick={() => onStar(entry.word)}>
@@ -211,6 +249,21 @@ function WordPage({ word, level, starred, onStar }) {
           </li>
         ))}
       </ol>
+      {related.length > 0 && (
+        <section className="related">
+          <h2>Words made from {entry.word}</h2>
+          <ul>
+            {related.map((r) => (
+              <li key={r.word} className={r.word === focus ? 'focus' : undefined}>
+                <span><strong>{r.word}</strong> {r.def}</span>
+                {canSpeak && (
+                  <button className="speak small" onClick={() => speak(`${r.word}. ${r.def}`)} aria-label={`Hear ${r.word}`}>🔊</button>
+                )}
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
     </article>
   );
 }
