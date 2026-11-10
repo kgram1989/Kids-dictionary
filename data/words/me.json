@@ -54,6 +54,34 @@
     ]
   },
   {
+    "word": "meal",
+    "say": "meel",
+    "forms": [
+      "meals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The food you eat at one time.",
+          "examples": [
+            "Breakfast is the first meal.",
+            "We eat three meals a day.",
+            "Dinner is my favorite meal."
+          ]
+        },
+        "more": {
+          "def": "The food that you eat at one time, such as breakfast, lunch or dinner.",
+          "examples": [
+            "Breakfast is the first meal of the day.",
+            "Mom cooked a big meal for the family.",
+            "We eat our evening meal at six."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mean",
     "say": "meen",
     "forms": [
@@ -122,6 +150,34 @@
     ]
   },
   {
+    "word": "meaning",
+    "say": "MEE-ning",
+    "forms": [
+      "meanings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What a word or idea says.",
+          "examples": [
+            "What is the meaning of this word?",
+            "The meaning of the sign.",
+            "The word has two meanings."
+          ]
+        },
+        "more": {
+          "def": "What a word, sign or idea tells or stands for.",
+          "examples": [
+            "What is the meaning of that sign?",
+            "The sign has a clear meaning.",
+            "The word \"bat\" has two meanings."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "measure",
     "say": "MEZH-er",
     "emoji": "📐",
@@ -153,6 +209,32 @@
     ]
   },
   {
+    "word": "meat",
+    "say": "meet",
+    "emoji": "🍖",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Food that comes from animals.",
+          "examples": [
+            "We eat meat.",
+            "Meat is cooked.",
+            "The dog loves meat."
+          ]
+        },
+        "more": {
+          "def": "The part of an animal that is eaten as food.",
+          "examples": [
+            "Chicken and beef are kinds of meat.",
+            "Dad cooked the meat on the grill.",
+            "Some people do not eat meat."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "medical",
     "say": "MED-ih-kul",
     "senses": [
@@ -172,6 +254,81 @@
             "The nurse brought the medical kit.",
             "The doctor needed medical supplies.",
             "She studied medical science for many years."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "medicine",
+    "say": "MED-uh-sin",
+    "forms": [
+      "medicines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you take to feel better.",
+          "examples": [
+            "Take your medicine.",
+            "The medicine tastes bad.",
+            "The doctor gave me medicine."
+          ]
+        },
+        "more": {
+          "def": "A substance taken to cure or prevent an illness.",
+          "examples": [
+            "I take medicine when I have a cold.",
+            "The medicine tasted sweet.",
+            "The doctor gave me medicine for my cough."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The study of keeping people well.",
+          "examples": [
+            "She studies medicine.",
+            "He works in medicine.",
+            "Medicine helps people."
+          ]
+        },
+        "more": {
+          "def": "The science of treating sick people and keeping them well.",
+          "examples": [
+            "She studied medicine to become a doctor.",
+            "Modern medicine saves many lives.",
+            "She works in medicine at the hospital."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "medium",
+    "say": "MEE-dee-um",
+    "forms": [
+      "mediums"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "In the middle.",
+          "examples": [
+            "A medium shirt.",
+            "The medium bowl.",
+            "A medium size."
+          ]
+        },
+        "more": {
+          "def": "In the middle between small and large.",
+          "examples": [
+            "I wear a medium shirt.",
+            "She chose the medium bowl.",
+            "A medium dog fits well in the car."
           ]
         }
       }
@@ -230,6 +387,34 @@
             "The club held a meeting to plan the bake sale.",
             "Town leaders had a meeting about the new playground.",
             "Our meeting ended when the bell rang."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "member",
+    "say": "MEM-ber",
+    "forms": [
+      "members"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who belongs to a group.",
+          "examples": [
+            "I am a member of the club.",
+            "Each member gets a badge.",
+            "A new member joined."
+          ]
+        },
+        "more": {
+          "def": "A person who belongs to a group or club.",
+          "examples": [
+            "She is a member of the school choir.",
+            "Each member of the team wears a blue shirt.",
+            "A new member joined the chess club."
           ]
         }
       }
@@ -307,6 +492,35 @@
             "She mentioned that the library would be closed on Monday.",
             "The book mentions a secret tunnel under the castle.",
             "He forgot to mention that he would be late."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "merry",
+    "say": "MAIR-ee",
+    "forms": [
+      "merrier",
+      "merriest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happy and cheerful.",
+          "examples": [
+            "Merry Christmas!",
+            "The merry crowd sang.",
+            "A merry time."
+          ]
+        },
+        "more": {
+          "def": "Cheerful, joyful and full of fun.",
+          "examples": [
+            "The merry crowd sang along with the band.",
+            "We had a merry time at the party.",
+            "The merry elves danced."
           ]
         }
       }

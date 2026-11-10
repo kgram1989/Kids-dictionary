@@ -248,6 +248,35 @@
     ]
   },
   {
+    "word": "handsome",
+    "say": "HAN-sum",
+    "forms": [
+      "handsomer",
+      "handsomest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Nice to look at.",
+          "examples": [
+            "A handsome prince.",
+            "The dog is handsome.",
+            "He looks handsome."
+          ]
+        },
+        "more": {
+          "def": "Good-looking, a word used mostly for men and boys.",
+          "examples": [
+            "The handsome prince rode a white horse.",
+            "The horse looked handsome in his blanket.",
+            "He was a handsome man with a kind smile."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hang",
     "say": "hang",
     "forms": [
@@ -402,6 +431,80 @@
             "The puzzle was so hard that it took us all day.",
             "It is hard to be quiet when you are excited.",
             "Learning to ride a bike was hard at first."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hardly",
+    "say": "HARD-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Almost not.",
+          "examples": [
+            "I can hardly see.",
+            "It hardly rains here.",
+            "She hardly ate."
+          ]
+        },
+        "more": {
+          "def": "Almost not at all.",
+          "examples": [
+            "I could hardly hear the teacher over the noise.",
+            "It hardly ever snows in this city.",
+            "He hardly slept because of the thunder."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "harm",
+    "say": "harm",
+    "forms": [
+      "harms",
+      "harmed",
+      "harming"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Damage or hurt.",
+          "examples": [
+            "The storm did harm.",
+            "No harm done.",
+            "Smoke can cause harm."
+          ]
+        },
+        "more": {
+          "def": "Hurt, damage or injury.",
+          "examples": [
+            "The storm did a lot of harm to the garden.",
+            "No harm was done by the spill.",
+            "Too much sun can cause harm to your skin."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hurt or damage.",
+          "examples": [
+            "Do not harm the bird.",
+            "The frost harmed the plants.",
+            "It will not harm you."
+          ]
+        },
+        "more": {
+          "def": "To hurt or damage someone or something.",
+          "examples": [
+            "Do not harm the animals.",
+            "The frost harmed the young plants.",
+            "Gentle play will not harm the puppy."
           ]
         }
       }

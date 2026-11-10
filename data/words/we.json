@@ -25,6 +25,35 @@
     ]
   },
   {
+    "word": "weak",
+    "say": "week",
+    "forms": [
+      "weaker",
+      "weakest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not strong.",
+          "examples": [
+            "The baby is weak.",
+            "The rope was weak.",
+            "A weak branch."
+          ]
+        },
+        "more": {
+          "def": "Not having much strength.",
+          "examples": [
+            "The weak branch snapped in the wind.",
+            "He felt weak after being sick.",
+            "The tea was weak and watery."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wealthy",
     "say": "WEL-thee",
     "emoji": "💰",
@@ -283,6 +312,53 @@
     ]
   },
   {
+    "word": "weight",
+    "say": "wayt",
+    "forms": [
+      "weights"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How heavy something is.",
+          "examples": [
+            "The weight of the box is ten pounds.",
+            "The baby's weight is up.",
+            "Check your weight."
+          ]
+        },
+        "more": {
+          "def": "A measure of how heavy something is.",
+          "examples": [
+            "The weight of the suitcase was twenty pounds.",
+            "The bridge can hold a lot of weight.",
+            "The baby's weight went up."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A heavy object.",
+          "examples": [
+            "He lifts weights.",
+            "The weight dropped.",
+            "A weight on the scale."
+          ]
+        },
+        "more": {
+          "def": "A heavy object used for exercise or to hold things down.",
+          "examples": [
+            "He lifts weights at the gym.",
+            "A weight held the paper down.",
+            "The scale uses a small weight."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "weird",
     "say": "weerd",
     "forms": [
@@ -463,6 +539,35 @@
             "Storms often roll in from the west.",
             "We drove west toward the mountains.",
             "Pioneers traveled west in wagons."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wet",
+    "say": "wet",
+    "forms": [
+      "wetter",
+      "wettest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Covered with water.",
+          "examples": [
+            "The towel is wet.",
+            "My hair is wet.",
+            "The grass is wet."
+          ]
+        },
+        "more": {
+          "def": "Covered with or soaked in water or another liquid.",
+          "examples": [
+            "Her wet hair dripped on the towel.",
+            "The grass was wet with dew.",
+            "The wet dog shook itself dry."
           ]
         }
       }

@@ -208,6 +208,34 @@
     ]
   },
   {
+    "word": "beauty",
+    "say": "BYOO-tee",
+    "forms": [
+      "beauties"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being very nice to look at.",
+          "examples": [
+            "I love the beauty of the sunset.",
+            "The beauty of the garden.",
+            "She admired the beauty of the lake."
+          ]
+        },
+        "more": {
+          "def": "The quality of being very pleasing to look at or hear.",
+          "examples": [
+            "We admired the beauty of the mountains.",
+            "The beauty of the song made her smile.",
+            "The garden was full of beauty in spring."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "because",
     "say": "bih-KAWZ",
     "senses": [
@@ -305,6 +333,34 @@
             "Dad dug a new bed for the tomato plants.",
             "Heavy rain washed the seeds out of the flower bed.",
             "Weeds had grown in the vegetable bed all summer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bedroom",
+    "say": "BED-room",
+    "forms": [
+      "bedrooms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A room where you sleep.",
+          "examples": [
+            "My bedroom is upstairs.",
+            "I read in my bedroom.",
+            "The bedroom has a bed."
+          ]
+        },
+        "more": {
+          "def": "A room in a home where people sleep.",
+          "examples": [
+            "My bedroom is at the top of the stairs.",
+            "She decorated her bedroom with posters.",
+            "The house has three bedrooms."
           ]
         }
       }
@@ -546,6 +602,35 @@
     ]
   },
   {
+    "word": "bell",
+    "say": "bel",
+    "emoji": "🔔",
+    "forms": [
+      "bells"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A metal cup that rings when it is hit.",
+          "examples": [
+            "The bell rings.",
+            "Ring the bell.",
+            "The school bell is loud."
+          ]
+        },
+        "more": {
+          "def": "A hollow metal object that makes a ringing sound when it is struck.",
+          "examples": [
+            "The school bell rings at the end of the day.",
+            "A bell hung from the church tower.",
+            "The cat wore a tiny bell on its collar."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "belong",
     "say": "bih-LONG",
     "forms": [
@@ -589,6 +674,53 @@
             "Pencils belong in the desk, not on the floor.",
             "A penguin belongs in cold places.",
             "You belong on our team."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "belt",
+    "say": "belt",
+    "forms": [
+      "belts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strip you wear around your waist.",
+          "examples": [
+            "My belt holds up my pants.",
+            "He wears a belt.",
+            "The belt is brown."
+          ]
+        },
+        "more": {
+          "def": "A strip of leather or cloth worn around the waist.",
+          "examples": [
+            "His belt had a shiny buckle.",
+            "He fastened his belt tight.",
+            "A brown leather belt held the tools."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loop that moves things.",
+          "examples": [
+            "The belt carries bags.",
+            "The fan belt.",
+            "The belt moves boxes."
+          ]
+        },
+        "more": {
+          "def": "A loop of material that moves around wheels to carry or turn things.",
+          "examples": [
+            "The belt carries bags at the airport.",
+            "A belt turns the wheels in the machine.",
+            "Boxes ride along the conveyor belt."
           ]
         }
       }
@@ -795,6 +927,31 @@
             "The twins split the pizza between them.",
             "There is a strong friendship between the two dogs.",
             "What is the difference between a frog and a toad?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "beyond",
+    "say": "bih-YOND",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "On the far side of something.",
+          "examples": [
+            "The farm is beyond the hill.",
+            "Look beyond the trees.",
+            "The lake is beyond the woods."
+          ]
+        },
+        "more": {
+          "def": "On or to the far side of something.",
+          "examples": [
+            "The farm is just beyond the hill.",
+            "A lake lies beyond the trees.",
+            "The path goes beyond the fence."
           ]
         }
       }

@@ -58,6 +58,104 @@
     ]
   },
   {
+    "word": "madam",
+    "say": "MAD-um",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A polite way to speak to a woman.",
+          "examples": [
+            "Yes, madam.",
+            "Can I help you, madam?",
+            "Welcome, madam."
+          ]
+        },
+        "more": {
+          "def": "A polite word used when speaking to a woman.",
+          "examples": [
+            "\"May I help you, madam?\" asked the clerk.",
+            "The waiter said, \"Right this way, madam.\"",
+            "\"Thank you, madam,\" said the boy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "magazine",
+    "say": "MAG-uh-zeen",
+    "forms": [
+      "magazines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A book with pictures and stories that comes out each week or month.",
+          "examples": [
+            "I read a magazine.",
+            "The magazine has pictures.",
+            "A new magazine came."
+          ]
+        },
+        "more": {
+          "def": "A thin book with articles and pictures that is printed every week or month.",
+          "examples": [
+            "Mom reads a cooking magazine.",
+            "The magazine has a story about owls.",
+            "A new issue of my magazine came in the mail."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "magic",
+    "say": "MAJ-ik",
+    "emoji": "🪄",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Tricks or powers that seem impossible.",
+          "examples": [
+            "The wizard used magic.",
+            "The magician did magic.",
+            "The story has magic in it."
+          ]
+        },
+        "more": {
+          "def": "Special powers or clever tricks that seem to break the rules of nature.",
+          "examples": [
+            "In the story, the wizard uses magic to make a castle.",
+            "The magician amazed us with card magic.",
+            "There is a touch of magic in the winter woods."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having special powers.",
+          "examples": [
+            "She has a magic wand.",
+            "The magic hat made a rabbit appear.",
+            "They found a magic bean."
+          ]
+        },
+        "more": {
+          "def": "Having special powers that seem impossible.",
+          "examples": [
+            "The fairy waved her magic wand.",
+            "In the tale, a magic mirror speaks.",
+            "He planted a magic bean that grew into a huge tree."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "magnet",
     "say": "MAG-nit",
     "emoji": "🧲",
@@ -107,6 +205,109 @@
             "From the top of the mountain, the view was magnificent.",
             "The peacock spread its magnificent tail.",
             "The palace has a magnificent hall with gold walls."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mail",
+    "say": "mayl",
+    "emoji": "📬",
+    "forms": [
+      "mails",
+      "mailed",
+      "mailing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Letters and packages that are sent.",
+          "examples": [
+            "The mail came.",
+            "I got mail.",
+            "Check the mail."
+          ]
+        },
+        "more": {
+          "def": "Letters, cards and packages that are sent through the post office.",
+          "examples": [
+            "The mail came before lunch.",
+            "I got a card in the mail.",
+            "We check the mail every afternoon."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To send by mail.",
+          "examples": [
+            "Mail the letter.",
+            "I mailed a card.",
+            "She mails packages."
+          ]
+        },
+        "more": {
+          "def": "To send a letter or package through the post office.",
+          "examples": [
+            "I mailed a card to my grandmother.",
+            "Dad mailed the package on Monday.",
+            "She mails letters every week."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "main",
+    "say": "mayn",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Most important.",
+          "examples": [
+            "The main road is busy.",
+            "The main part of the story.",
+            "The main door."
+          ]
+        },
+        "more": {
+          "def": "Most important or largest of its kind.",
+          "examples": [
+            "The main road goes through the middle of town.",
+            "The main character of the book is a dog.",
+            "Use the main door at the front of the school."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "majesty",
+    "say": "MAJ-uh-stee",
+    "forms": [
+      "majesties"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A title used for a king or queen.",
+          "examples": [
+            "Your Majesty.",
+            "His Majesty the king.",
+            "Her Majesty the queen."
+          ]
+        },
+        "more": {
+          "def": "A title of respect for a king or queen.",
+          "examples": [
+            "\"Your Majesty,\" said the knight, \"the dragon is gone.\"",
+            "The people bowed before Her Majesty.",
+            "His Majesty welcomed the visitors."
           ]
         }
       }
@@ -181,6 +382,53 @@
             "The loud thunder made the baby cry.",
             "Good exercise makes your body strong.",
             "Sunlight makes the plants grow tall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "male",
+    "say": "mayl",
+    "forms": [
+      "males"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Of the sex that does not lay eggs or give birth.",
+          "examples": [
+            "A male lion has a mane.",
+            "The male bird has bright feathers.",
+            "A male dog."
+          ]
+        },
+        "more": {
+          "def": "Of the kind of animal or person that does not have babies.",
+          "examples": [
+            "A male lion has a thick mane.",
+            "The male peacock has bright tail feathers.",
+            "A male and a female dog played together."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man, boy or he-animal.",
+          "examples": [
+            "The male has stripes.",
+            "A male was in the cage.",
+            "The male is larger."
+          ]
+        },
+        "more": {
+          "def": "A man, a boy or an animal that is not able to have babies.",
+          "examples": [
+            "The male of the species is bigger.",
+            "Two males fought over the food.",
+            "The male guards the nest."
           ]
         }
       }
@@ -272,6 +520,83 @@
     ]
   },
   {
+    "word": "manage",
+    "say": "MAN-ij",
+    "forms": [
+      "manages",
+      "managed",
+      "managing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be able to do something hard.",
+          "examples": [
+            "I managed to climb the hill.",
+            "She managed to lift the box.",
+            "We managed to finish."
+          ]
+        },
+        "more": {
+          "def": "To succeed in doing something that is hard.",
+          "examples": [
+            "I managed to climb to the top of the hill.",
+            "She managed to lift the heavy box.",
+            "We managed to finish before dark."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be in charge of.",
+          "examples": [
+            "She manages the shop.",
+            "He manages the team.",
+            "Mom manages the office."
+          ]
+        },
+        "more": {
+          "def": "To be in charge of a business, place or group.",
+          "examples": [
+            "She manages the bookshop on Main Street.",
+            "He manages the swim team.",
+            "Mom manages a busy office."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "manager",
+    "say": "MAN-ij-er",
+    "forms": [
+      "managers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person in charge of a shop or team.",
+          "examples": [
+            "The manager of the shop is nice.",
+            "The manager helped us.",
+            "The team manager spoke."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to be in charge of a shop, team or business.",
+          "examples": [
+            "The manager of the toy store helped us find a gift.",
+            "The baseball manager chose the team.",
+            "The manager told the workers to take a break."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "many",
     "say": "MEN-ee",
     "senses": [
@@ -291,6 +616,34 @@
             "Many students ride the bus to school.",
             "There are too many stars in the sky to count.",
             "How many apples are in the basket?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "map",
+    "say": "map",
+    "forms": [
+      "maps"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A drawing that shows places.",
+          "examples": [
+            "The map shows the way.",
+            "I read the map.",
+            "The map has roads."
+          ]
+        },
+        "more": {
+          "def": "A drawing that shows where places are.",
+          "examples": [
+            "The map shows where our school is.",
+            "We used a map to find the trail.",
+            "The map of the world has seven continents."
           ]
         }
       }
@@ -341,6 +694,34 @@
             "The band marched through the town during the parade.",
             "Hundreds of penguins march across the ice together.",
             "The kindergarten class marched around the playground."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "market",
+    "say": "MAR-kit",
+    "forms": [
+      "markets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where people buy and sell things.",
+          "examples": [
+            "We went to the market.",
+            "The market sells fruit.",
+            "The farmers' market is busy."
+          ]
+        },
+        "more": {
+          "def": "A place where people buy and sell goods, often outdoors.",
+          "examples": [
+            "We buy vegetables at the farmers' market.",
+            "The market was full of colorful fruit.",
+            "Fish are sold at the market by the harbor."
           ]
         }
       }
@@ -547,6 +928,53 @@
     ]
   },
   {
+    "word": "mate",
+    "say": "mayt",
+    "forms": [
+      "mates"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A friend or partner.",
+          "examples": [
+            "My mate and I play.",
+            "The ship's mate.",
+            "A classmate."
+          ]
+        },
+        "more": {
+          "def": "A friend or a partner, or a person you share something with.",
+          "examples": [
+            "My teammate and I passed the ball.",
+            "The ship's mate told the crew what to do.",
+            "My roommate and I share a room."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal's partner.",
+          "examples": [
+            "The bird found a mate.",
+            "Wolves have one mate.",
+            "The swan stays with its mate."
+          ]
+        },
+        "more": {
+          "def": "One of a pair of animals that come together to have young.",
+          "examples": [
+            "The bird sang to find a mate.",
+            "Swans stay with the same mate for life.",
+            "The wolf stayed close to its mate."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "matter",
     "say": "MAT-er",
     "forms": [
@@ -640,6 +1068,34 @@
             "Maybe we can go to the park if the rain stops.",
             "I am not sure, but maybe my sister took it.",
             "Maybe the answer is on the next page."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mayor",
+    "say": "MAY-er",
+    "forms": [
+      "mayors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The leader of a city or town.",
+          "examples": [
+            "The mayor spoke.",
+            "Our mayor is kind.",
+            "The mayor cut the ribbon."
+          ]
+        },
+        "more": {
+          "def": "The leader of a city or town, chosen by the people who live there.",
+          "examples": [
+            "The mayor cut the ribbon at the new park.",
+            "Our mayor visited the school.",
+            "The mayor gave a speech at the parade."
           ]
         }
       }

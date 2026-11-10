@@ -1,5 +1,54 @@
 [
   {
+    "word": "add",
+    "say": "ad",
+    "forms": [
+      "adds",
+      "added",
+      "adding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put one thing with another.",
+          "examples": [
+            "Add milk to the cereal.",
+            "She added sugar.",
+            "He adds a block."
+          ]
+        },
+        "more": {
+          "def": "To put one thing together with another.",
+          "examples": [
+            "Add two cups of flour to the bowl.",
+            "She added a picture to her poster.",
+            "Please add your name to the list."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To find the total of numbers.",
+          "examples": [
+            "Add two and three.",
+            "We add numbers in math.",
+            "She adds the prices."
+          ]
+        },
+        "more": {
+          "def": "To find the total of two or more numbers.",
+          "examples": [
+            "If you add four and five, you get nine.",
+            "We learned to add in first grade.",
+            "She added up the prices to see the cost."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "address",
     "say": "uh-DRESS",
     "emoji": "✉️",
@@ -133,6 +182,31 @@
             "Sailing across the lake was the biggest adventure of her summer.",
             "Their first plane ride felt like a great adventure.",
             "The story follows a mouse on an adventure through the city."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "advice",
+    "say": "ad-VYSS",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words that help someone decide what to do.",
+          "examples": [
+            "I need your advice.",
+            "Her advice helped me.",
+            "Take my advice."
+          ]
+        },
+        "more": {
+          "def": "Words or ideas that help someone decide what to do.",
+          "examples": [
+            "The coach gave me good advice.",
+            "I asked my teacher for advice.",
+            "Grandpa's advice helped me solve the problem."
           ]
         }
       }

@@ -328,6 +328,34 @@
     ]
   },
   {
+    "word": "warning",
+    "say": "WOR-ning",
+    "forms": [
+      "warnings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sign that danger is near.",
+          "examples": [
+            "The sign is a warning.",
+            "He gave me a warning.",
+            "The storm warning."
+          ]
+        },
+        "more": {
+          "def": "A sign or message that tells you of a danger.",
+          "examples": [
+            "The sign gave a warning about thin ice.",
+            "The storm warning came on the radio.",
+            "The coach gave us a warning to stop talking."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wash",
     "say": "wosh",
     "forms": [
@@ -499,6 +527,56 @@
             "We water the tomato plants every morning.",
             "He watered the flowers with a green can.",
             "The farmer waters the crops during the dry summer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wave",
+    "say": "wayv",
+    "emoji": "🌊",
+    "forms": [
+      "waves",
+      "waved",
+      "waving"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A moving hill of water.",
+          "examples": [
+            "The wave hit the shore.",
+            "Big waves splash.",
+            "We jumped over the waves."
+          ]
+        },
+        "more": {
+          "def": "A moving ridge of water on the sea or a lake.",
+          "examples": [
+            "The wave crashed against the rocks.",
+            "We jumped over the small waves.",
+            "Big waves pull the surfers out to sea."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move your hand to say hello or goodbye.",
+          "examples": [
+            "I wave to my friend.",
+            "She waved goodbye.",
+            "He waves at the bus."
+          ]
+        },
+        "more": {
+          "def": "To move your hand back and forth to greet someone or say goodbye.",
+          "examples": [
+            "The children waved to the bus driver.",
+            "She waved goodbye from the window.",
+            "He waved a flag at the parade."
           ]
         }
       }

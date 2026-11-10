@@ -56,6 +56,31 @@
     ]
   },
   {
+    "word": "health",
+    "say": "helth",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How well your body is.",
+          "examples": [
+            "Good food helps your health.",
+            "My health is good.",
+            "Exercise is good for health."
+          ]
+        },
+        "more": {
+          "def": "The condition of your body, and how well it works.",
+          "examples": [
+            "Exercise is good for your health.",
+            "She is in good health.",
+            "Fresh fruit is good for your health."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "healthy",
     "say": "HEL-thee",
     "emoji": "🥦",
@@ -116,6 +141,31 @@
     ]
   },
   {
+    "word": "hearing",
+    "say": "HEER-ing",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The ability to hear.",
+          "examples": [
+            "Dogs have good hearing.",
+            "My hearing is good.",
+            "Bats have sharp hearing."
+          ]
+        },
+        "more": {
+          "def": "The sense that lets you hear sounds.",
+          "examples": [
+            "Dogs have much better hearing than people.",
+            "Her hearing improved with a hearing aid.",
+            "Owls have sharp hearing."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "heart",
     "say": "hart",
     "forms": [
@@ -157,6 +207,55 @@
             "She drew a big red heart on the card.",
             "The cookie was cut into the shape of a heart.",
             "He gave his mother a paper heart."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "heat",
+    "say": "heet",
+    "forms": [
+      "heats",
+      "heated",
+      "heating"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Warmth.",
+          "examples": [
+            "The heat of the sun.",
+            "I feel the heat.",
+            "The heat is on."
+          ]
+        },
+        "more": {
+          "def": "The quality of being hot, or the warmth from something hot.",
+          "examples": [
+            "The heat from the fire warmed the room.",
+            "We felt the heat of the sun on our faces.",
+            "The summer heat made us thirsty."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make hot.",
+          "examples": [
+            "Heat the soup.",
+            "Mom heated the milk.",
+            "The sun heats the sand."
+          ]
+        },
+        "more": {
+          "def": "To make something warm or hot.",
+          "examples": [
+            "Heat the soup on the stove.",
+            "The sun heated the sand.",
+            "Mom heated the milk for hot chocolate."
           ]
         }
       }
@@ -368,6 +467,31 @@
             "She became a hero when she saved the child from the river.",
             "The dog was called a hero for waking the family during the fire.",
             "My hero is the scientist who found the cure."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "herself",
+    "say": "her-SELF",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "She, and not someone else.",
+          "examples": [
+            "She made lunch herself.",
+            "She hurt herself.",
+            "Mia sees herself in the mirror."
+          ]
+        },
+        "more": {
+          "def": "Used to talk about a girl or woman who has just been named, as the one who does or gets the action.",
+          "examples": [
+            "She taught herself to play the guitar.",
+            "Maria made a cake all by herself.",
+            "The little girl dressed herself."
           ]
         }
       }

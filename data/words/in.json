@@ -55,6 +55,56 @@
     ]
   },
   {
+    "word": "incredible",
+    "say": "in-KRED-uh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very hard to believe; amazing.",
+          "examples": [
+            "The view was incredible.",
+            "It was an incredible jump.",
+            "What an incredible story!"
+          ]
+        },
+        "more": {
+          "def": "So amazing or surprising that it is hard to believe.",
+          "examples": [
+            "The view from the mountain was incredible.",
+            "She made an incredible jump.",
+            "The magician did an incredible trick."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "indeed",
+    "say": "in-DEED",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Really; for sure.",
+          "examples": [
+            "It is indeed cold.",
+            "Yes, indeed!",
+            "Indeed, I am hungry."
+          ]
+        },
+        "more": {
+          "def": "Used to show that something is really true.",
+          "examples": [
+            "It was indeed the best day of my life.",
+            "The test was hard indeed.",
+            "Yes, indeed, we are ready to go."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "information",
     "say": "in-fer-MAY-shun",
     "senses": [
@@ -99,6 +149,31 @@
             "The detective proved that the boy was innocent.",
             "I am innocent because I did not touch the cookies.",
             "The innocent dog sat quietly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "insane",
+    "say": "in-SAYN",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very silly or wild.",
+          "examples": [
+            "That idea is insane.",
+            "An insane amount of snow.",
+            "The ride was insane."
+          ]
+        },
+        "more": {
+          "def": "Very wild or extreme. In its medical meaning, it should be used carefully.",
+          "examples": [
+            "The amount of snow was insane.",
+            "That roller coaster is insane.",
+            "It is an insane plan to cross the river on a log."
           ]
         }
       }
@@ -178,6 +253,36 @@
     ]
   },
   {
+    "word": "insist",
+    "say": "in-SIST",
+    "forms": [
+      "insists",
+      "insisted",
+      "insisting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say something strongly.",
+          "examples": [
+            "I insist on helping.",
+            "She insisted on paying.",
+            "He insists he is right."
+          ]
+        },
+        "more": {
+          "def": "To say firmly that something must be done or is true.",
+          "examples": [
+            "I insist that you take the last piece.",
+            "She insisted on helping with the dishes.",
+            "He insists that he saw a fox."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "instead",
     "say": "in-STED",
     "senses": [
@@ -226,6 +331,61 @@
             "The violin is her favorite instrument to play.",
             "Every instrument in the band plays a different part.",
             "The dentist used a small instrument to check my teeth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "insurance",
+    "say": "in-SHUUR-unss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money you pay so that you get help if something bad happens.",
+          "examples": [
+            "We have car insurance.",
+            "Insurance paid for the damage.",
+            "The house has insurance."
+          ]
+        },
+        "more": {
+          "def": "An agreement in which you pay money so that you will be paid if something bad happens.",
+          "examples": [
+            "Dad pays for car insurance each month.",
+            "Insurance covered the cost of the repairs.",
+            "The family has insurance for their house."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "intend",
+    "say": "in-TEND",
+    "forms": [
+      "intends",
+      "intended",
+      "intending"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To plan to do something.",
+          "examples": [
+            "I intend to go.",
+            "She intends to win.",
+            "He intended to call."
+          ]
+        },
+        "more": {
+          "def": "To have something in mind to do.",
+          "examples": [
+            "I intend to finish my homework before dinner.",
+            "She intended to surprise her mother.",
+            "He intended to call but forgot."
           ]
         }
       }
@@ -359,6 +519,55 @@
     ]
   },
   {
+    "word": "interview",
+    "say": "IN-ter-vyoo",
+    "forms": [
+      "interviews",
+      "interviewed",
+      "interviewing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A talk where someone asks questions.",
+          "examples": [
+            "The reporter did an interview.",
+            "Mom had a job interview.",
+            "The interview was short."
+          ]
+        },
+        "more": {
+          "def": "A meeting in which someone asks a person questions.",
+          "examples": [
+            "The reporter did an interview with the winner.",
+            "Mom has a job interview on Monday.",
+            "The interview was on the radio."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To ask someone questions.",
+          "examples": [
+            "I interviewed my grandpa.",
+            "She interviews the winner.",
+            "He interviewed the mayor."
+          ]
+        },
+        "more": {
+          "def": "To ask someone questions in order to learn about them.",
+          "examples": [
+            "I interviewed my grandfather for a school project.",
+            "The reporter interviewed the winner.",
+            "She interviews people for a magazine."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "into",
     "say": "IN-too",
     "senses": [
@@ -378,6 +587,36 @@
             "The frog leaped into the pond with a splash.",
             "A caterpillar turns into a butterfly.",
             "Pour the batter into the pan and bake it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "introduce",
+    "say": "in-truh-DOOSS",
+    "forms": [
+      "introduces",
+      "introduced",
+      "introducing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell people each other's names.",
+          "examples": [
+            "Let me introduce my friend.",
+            "She introduced me to her mom.",
+            "He introduced himself."
+          ]
+        },
+        "more": {
+          "def": "To tell people each other's names when they meet for the first time.",
+          "examples": [
+            "Let me introduce you to my cousin.",
+            "The teacher introduced the new student to the class.",
+            "He introduced himself to the neighbors."
           ]
         }
       }
@@ -409,6 +648,34 @@
             "People invented the wheel thousands of years ago.",
             "He invented a machine that feeds the cat.",
             "The children invented a secret code for their notes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "investigation",
+    "say": "in-ves-tuh-GAY-shun",
+    "forms": [
+      "investigations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Looking carefully to find out the facts.",
+          "examples": [
+            "The police began an investigation.",
+            "The investigation took days.",
+            "A careful investigation."
+          ]
+        },
+        "more": {
+          "def": "A careful search to find out the facts about something.",
+          "examples": [
+            "The police began an investigation of the lost bike.",
+            "Scientists carried out an investigation of the old tree.",
+            "The investigation took three days."
           ]
         }
       }

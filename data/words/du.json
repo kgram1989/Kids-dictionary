@@ -1,5 +1,55 @@
 [
   {
+    "word": "duck",
+    "say": "duk",
+    "emoji": "🦆",
+    "forms": [
+      "ducks",
+      "ducked",
+      "ducking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bird that swims and quacks.",
+          "examples": [
+            "The duck swims.",
+            "Ducks quack.",
+            "A duck has webbed feet."
+          ]
+        },
+        "more": {
+          "def": "A water bird with a flat beak, webbed feet and a quack.",
+          "examples": [
+            "The duck paddled across the pond.",
+            "Baby ducks follow their mother.",
+            "A duck dipped its head under the water."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To bend down quickly.",
+          "examples": [
+            "Duck under the branch.",
+            "He ducked his head.",
+            "She ducked under the rope."
+          ]
+        },
+        "more": {
+          "def": "To bend or move down quickly to get out of the way.",
+          "examples": [
+            "She ducked under the low branch.",
+            "He ducked when the ball flew by.",
+            "We ducked under the table."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dude",
     "say": "dood",
     "forms": [
@@ -22,6 +72,109 @@
             "Hey dude, wait for me!",
             "That dude on the skateboard is really good.",
             "Some people call their friends dude."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "due",
+    "say": "doo",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Expected or needed by a time.",
+          "examples": [
+            "The paper is due Friday.",
+            "The bus is due at three.",
+            "My book is due."
+          ]
+        },
+        "more": {
+          "def": "Expected or needing to be done by a certain time.",
+          "examples": [
+            "My library book is due on Friday.",
+            "The train is due at four o'clock.",
+            "The report is due next week."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dumb",
+    "say": "dum",
+    "forms": [
+      "dumber",
+      "dumbest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Silly or not smart.",
+          "examples": [
+            "That was a dumb mistake.",
+            "It was a dumb joke.",
+            "I felt dumb when I forgot my name."
+          ]
+        },
+        "more": {
+          "def": "Showing poor thinking; silly. It can hurt when used to name-call someone.",
+          "examples": [
+            "Leaving the gate open was a dumb mistake.",
+            "He made a dumb joke that no one laughed at.",
+            "She felt dumb when she forgot her lines."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dump",
+    "say": "dump",
+    "forms": [
+      "dumps",
+      "dumped",
+      "dumping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To drop or pour out a lot of something.",
+          "examples": [
+            "Dump the sand out.",
+            "He dumped the toys on the floor.",
+            "The truck dumped the dirt."
+          ]
+        },
+        "more": {
+          "def": "To drop or pour out a heap of something.",
+          "examples": [
+            "The truck dumped a pile of gravel on the road.",
+            "She dumped the puzzle pieces onto the table.",
+            "Do not dump trash in the river."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where trash is taken.",
+          "examples": [
+            "We took the trash to the dump.",
+            "The dump is outside town.",
+            "The truck drove to the dump."
+          ]
+        },
+        "more": {
+          "def": "A place where garbage is taken and left.",
+          "examples": [
+            "The garbage truck drove to the dump.",
+            "Seagulls fly over the town dump.",
+            "We took the old couch to the dump."
           ]
         }
       }

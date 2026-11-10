@@ -155,6 +155,55 @@
     ]
   },
   {
+    "word": "hunt",
+    "say": "hunt",
+    "forms": [
+      "hunts",
+      "hunted",
+      "hunting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look for something.",
+          "examples": [
+            "We hunt for shells.",
+            "She hunted for her shoe.",
+            "I hunt for eggs."
+          ]
+        },
+        "more": {
+          "def": "To search for something.",
+          "examples": [
+            "We hunted for seashells on the beach.",
+            "She hunted for her missing shoe.",
+            "The kids hunt for eggs at Easter."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To chase and catch animals for food.",
+          "examples": [
+            "Owls hunt at night.",
+            "Lions hunt for food.",
+            "Wolves hunt in packs."
+          ]
+        },
+        "more": {
+          "def": "To chase and kill wild animals for food or sport.",
+          "examples": [
+            "Owls hunt mice at night.",
+            "Lions hunt together to catch zebras.",
+            "Long ago, people hunted to feed their families."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hurricane",
     "say": "HER-ih-kayn",
     "emoji": "🌀",

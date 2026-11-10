@@ -138,6 +138,64 @@
     ]
   },
   {
+    "word": "breath",
+    "say": "breth",
+    "forms": [
+      "breaths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The air you take in and let out.",
+          "examples": [
+            "Take a deep breath.",
+            "I held my breath.",
+            "I lost my breath."
+          ]
+        },
+        "more": {
+          "def": "The air that goes in and out of your lungs.",
+          "examples": [
+            "Take a deep breath and count to ten.",
+            "He held his breath under water.",
+            "She ran so fast she lost her breath."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "breathe",
+    "say": "breeth",
+    "forms": [
+      "breathes",
+      "breathed",
+      "breathing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take air in and let it out.",
+          "examples": [
+            "We breathe air.",
+            "Breathe in slowly.",
+            "Fish do not breathe air."
+          ]
+        },
+        "more": {
+          "def": "To take air into the body and send it out again.",
+          "examples": [
+            "Take a deep breath and breathe out slowly.",
+            "Whales breathe through a hole on top of their heads.",
+            "It was hard to breathe at the top of the mountain."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "breeze",
     "say": "breez",
     "emoji": "🍃",
@@ -161,6 +219,35 @@
             "A breeze from the sea kept us cool on the hot beach.",
             "The flags waved gently in the morning breeze.",
             "We opened the windows to let the breeze in."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bridge",
+    "say": "brij",
+    "emoji": "🌉",
+    "forms": [
+      "bridges"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A road over water or a gap.",
+          "examples": [
+            "We drove over the bridge.",
+            "The bridge is high.",
+            "A train crossed the bridge."
+          ]
+        },
+        "more": {
+          "def": "A structure built over a river, road or gap so people can cross it.",
+          "examples": [
+            "We walked across the bridge over the river.",
+            "A long bridge connects the island to the land.",
+            "The old bridge was made of wood."
           ]
         }
       }
@@ -191,6 +278,50 @@
             "The bright moon lit up the whole field.",
             "Bright stars filled the sky on the clear night.",
             "She painted her room a bright shade of green."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "brilliant",
+    "say": "BRIL-yunt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very bright.",
+          "examples": [
+            "The sun is brilliant.",
+            "A brilliant light.",
+            "The brilliant colors."
+          ]
+        },
+        "more": {
+          "def": "Very bright and shining.",
+          "examples": [
+            "The brilliant sun made me squint.",
+            "Fireworks lit the sky with brilliant colors.",
+            "The diamond sparkled with brilliant light."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very smart.",
+          "examples": [
+            "A brilliant idea.",
+            "She is brilliant.",
+            "He had a brilliant plan."
+          ]
+        },
+        "more": {
+          "def": "Extremely clever or smart.",
+          "examples": [
+            "She came up with a brilliant idea.",
+            "He is a brilliant scientist.",
+            "The detective had a brilliant plan."
           ]
         }
       }

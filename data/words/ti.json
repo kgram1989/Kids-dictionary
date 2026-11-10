@@ -295,6 +295,74 @@
     ]
   },
   {
+    "word": "tip",
+    "say": "tip",
+    "forms": [
+      "tips",
+      "tipped",
+      "tipping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The pointed end of something.",
+          "examples": [
+            "The tip of the pencil is sharp.",
+            "The tip of my nose is cold.",
+            "The tip of the iceberg."
+          ]
+        },
+        "more": {
+          "def": "The end part of something long or pointed.",
+          "examples": [
+            "The tip of the pencil broke.",
+            "The cat's tail has a white tip.",
+            "The tip of the mountain was covered in snow."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A helpful idea.",
+          "examples": [
+            "I have a tip for you.",
+            "Here is a tip.",
+            "Cooking tips."
+          ]
+        },
+        "more": {
+          "def": "A small piece of helpful advice.",
+          "examples": [
+            "She gave me a tip for tying my shoes.",
+            "The coach shared a tip about passing.",
+            "Here is a tip: read the directions first."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Extra money for a helper.",
+          "examples": [
+            "We left a tip.",
+            "Dad gave the waiter a tip.",
+            "The driver got a tip."
+          ]
+        },
+        "more": {
+          "def": "A small amount of money given to someone who has helped you.",
+          "examples": [
+            "We left a tip for the waiter.",
+            "Dad gave the driver a tip.",
+            "The delivery person got a big tip."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tired",
     "say": "tyrd",
     "emoji": "😴",

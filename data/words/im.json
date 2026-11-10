@@ -1,5 +1,52 @@
 [
   {
+    "word": "image",
+    "say": "IM-ij",
+    "forms": [
+      "images"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture.",
+          "examples": [
+            "The image is clear.",
+            "I saw an image.",
+            "The image shows a bird."
+          ]
+        },
+        "more": {
+          "def": "A picture or likeness of something.",
+          "examples": [
+            "The image on the screen was clear.",
+            "The telescope took an image of the moon.",
+            "She saw her image in the mirror."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture in your mind.",
+          "examples": [
+            "I have an image of home.",
+            "The image stayed in my mind.",
+            "She had an image of the beach."
+          ]
+        },
+        "more": {
+          "def": "A picture of something that you form in your mind.",
+          "examples": [
+            "I have an image of my house in my mind.",
+            "The image of the sunset stayed with her.",
+            "He tried to form an image of the new city."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "imagine",
     "say": "ih-MAJ-in",
     "emoji": "💭",
@@ -25,6 +72,31 @@
             "Try to imagine what our town looked like one hundred years ago.",
             "Imagine how cold it must be at the North Pole.",
             "I cannot imagine life without music."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "immediately",
+    "say": "ih-MEE-dee-it-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Right now; with no waiting.",
+          "examples": [
+            "Come immediately.",
+            "She answered immediately.",
+            "He left immediately."
+          ]
+        },
+        "more": {
+          "def": "At once; with no delay.",
+          "examples": [
+            "Come here immediately.",
+            "The firefighters arrived immediately.",
+            "She answered the phone immediately."
           ]
         }
       }
@@ -75,6 +147,36 @@
             "It seemed impossible to finish the puzzle, but we did it.",
             "The heavy snow made it impossible to drive.",
             "Nothing is impossible if you keep trying, said the coach."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "impress",
+    "say": "im-PRESS",
+    "forms": [
+      "impresses",
+      "impressed",
+      "impressing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone think well of you.",
+          "examples": [
+            "The trick impressed us.",
+            "She impressed the teacher.",
+            "His jump impressed everyone."
+          ]
+        },
+        "more": {
+          "def": "To make someone feel respect or admiration.",
+          "examples": [
+            "The magic trick impressed the whole class.",
+            "She impressed the teacher with her story.",
+            "His high jump impressed the crowd."
           ]
         }
       }

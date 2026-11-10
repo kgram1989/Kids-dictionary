@@ -1,5 +1,35 @@
 [
   {
+    "word": "drag",
+    "say": "drag",
+    "forms": [
+      "drags",
+      "dragged",
+      "dragging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pull something along the ground.",
+          "examples": [
+            "Drag the box.",
+            "He dragged his bag.",
+            "The dog drags the toy."
+          ]
+        },
+        "more": {
+          "def": "To pull something heavy along the ground.",
+          "examples": [
+            "They dragged the heavy sled up the hill.",
+            "He dragged his suitcase across the floor.",
+            "The dog dragged a stick through the yard."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "draw",
     "say": "draw",
     "forms": [
@@ -269,6 +299,35 @@
     ]
   },
   {
+    "word": "driver",
+    "say": "DRY-ver",
+    "emoji": "🚗",
+    "forms": [
+      "drivers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who drives a car, bus or truck.",
+          "examples": [
+            "The bus driver waved to us.",
+            "My mom is a good driver.",
+            "The driver stopped at the red light."
+          ]
+        },
+        "more": {
+          "def": "A person whose job or task is to drive a vehicle.",
+          "examples": [
+            "The bus driver greets every child by name.",
+            "A race car driver must react very fast.",
+            "The truck driver delivered boxes of apples."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drop",
     "say": "drop",
     "forms": [
@@ -369,6 +428,57 @@
             "The doctor prescribed a drug to fight the infection.",
             "Scientists are testing a new drug for allergies.",
             "Some drugs come as pills and others as liquids."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dry",
+    "say": "dry",
+    "forms": [
+      "drier",
+      "driest",
+      "dries",
+      "dried",
+      "drying"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not wet.",
+          "examples": [
+            "The towel is dry.",
+            "My hair is dry.",
+            "The ground is dry."
+          ]
+        },
+        "more": {
+          "def": "Not wet, with no water on it.",
+          "examples": [
+            "The towel was dry by the afternoon.",
+            "The dry ground was cracked.",
+            "Desert plants live where it is dry."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take away water.",
+          "examples": [
+            "Dry your hands.",
+            "The sun dries the clothes.",
+            "I dried the dishes."
+          ]
+        },
+        "more": {
+          "def": "To take water away from something, or to lose its water.",
+          "examples": [
+            "Dry your hands on the towel.",
+            "The sun dried the laundry on the line.",
+            "I dried the dishes after dinner."
           ]
         }
       }

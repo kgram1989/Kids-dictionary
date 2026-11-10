@@ -28,6 +28,36 @@
     ]
   },
   {
+    "word": "rob",
+    "say": "rob",
+    "forms": [
+      "robs",
+      "robbed",
+      "robbing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To steal from a place or person.",
+          "examples": [
+            "The thief robbed the bank.",
+            "They robbed the shop.",
+            "A robber robs a store."
+          ]
+        },
+        "more": {
+          "def": "To take things that do not belong to you, often by force.",
+          "examples": [
+            "In the story, the thief robbed the bank.",
+            "The pirates robbed the ship.",
+            "The fox robbed the henhouse."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "rock",
     "say": "rok",
     "emoji": "🪨",
@@ -159,6 +189,59 @@
             "I need a new roll of tape.",
             "She bought a roll of wrapping paper.",
             "A roll of paper towels sat by the sink."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "romantic",
+    "say": "roh-MAN-tik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About love between two people.",
+          "examples": [
+            "A romantic story.",
+            "They had a romantic dinner.",
+            "It was a romantic song."
+          ]
+        },
+        "more": {
+          "def": "Having to do with love between two people.",
+          "examples": [
+            "The movie was a romantic story.",
+            "They had a romantic dinner by the sea.",
+            "The song had a romantic tune."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "roof",
+    "say": "roof",
+    "forms": [
+      "roofs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The top of a building.",
+          "examples": [
+            "Snow is on the roof.",
+            "The roof is red.",
+            "A bird sat on the roof."
+          ]
+        },
+        "more": {
+          "def": "The covering on top of a building.",
+          "examples": [
+            "Snow piled up on the roof.",
+            "Workers fixed the leak in the roof.",
+            "A cat walked across the roof."
           ]
         }
       }

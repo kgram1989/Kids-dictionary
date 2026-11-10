@@ -145,6 +145,80 @@
     ]
   },
   {
+    "word": "perfectly",
+    "say": "PER-fikt-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that is just right.",
+          "examples": [
+            "She sang perfectly.",
+            "It fits perfectly.",
+            "The cake is perfectly round."
+          ]
+        },
+        "more": {
+          "def": "In a way that has no mistakes or flaws.",
+          "examples": [
+            "She sang the song perfectly.",
+            "The key fits the lock perfectly.",
+            "The cake was perfectly round."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "perform",
+    "say": "per-FORM",
+    "forms": [
+      "performs",
+      "performed",
+      "performing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To do something in front of people.",
+          "examples": [
+            "The band will perform.",
+            "She performed a song.",
+            "They perform a play."
+          ]
+        },
+        "more": {
+          "def": "To do something, such as sing, dance or act, in front of an audience.",
+          "examples": [
+            "The band will perform on Friday.",
+            "She performed a song for the class.",
+            "The students performed a play."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To do a job or task.",
+          "examples": [
+            "The machine performs well.",
+            "The doctor performed surgery.",
+            "She performs the task."
+          ]
+        },
+        "more": {
+          "def": "To do a job or a piece of work.",
+          "examples": [
+            "The machine performs its job well.",
+            "The doctor performed the operation.",
+            "The robot performs simple tasks."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "perhaps",
     "say": "per-HAPS",
     "senses": [
@@ -164,6 +238,53 @@
             "Perhaps we could take a walk after dinner.",
             "The package is late, perhaps because of the snow.",
             "Perhaps the birds left because it got too cold."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "period",
+    "say": "PEER-ee-ud",
+    "forms": [
+      "periods"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dot at the end of a sentence.",
+          "examples": [
+            "Put a period at the end.",
+            "A period is a dot.",
+            "The sentence ends with a period."
+          ]
+        },
+        "more": {
+          "def": "A small dot used at the end of a sentence.",
+          "examples": [
+            "Put a period at the end of the sentence.",
+            "A period shows where a sentence stops.",
+            "The teacher circled the missing period."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A length of time.",
+          "examples": [
+            "A long period of time.",
+            "The period before lunch.",
+            "It was a quiet period."
+          ]
+        },
+        "more": {
+          "def": "A length of time during which something happens.",
+          "examples": [
+            "The ice age was a long period of cold weather.",
+            "Math is the first period of the day.",
+            "There was a quiet period after the storm."
           ]
         }
       }
@@ -242,6 +363,31 @@
             "My diary is personal, so please do not read it.",
             "He asked a very personal question.",
             "Each camper has a personal locker."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "personally",
+    "say": "PER-suh-nuh-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "As one person; you yourself.",
+          "examples": [
+            "I will do it personally.",
+            "Personally, I like pizza.",
+            "He thanked her personally."
+          ]
+        },
+        "more": {
+          "def": "In person; or as far as you yourself are concerned.",
+          "examples": [
+            "I will thank her personally.",
+            "Personally, I think pizza is the best food.",
+            "The mayor greeted each guest personally."
           ]
         }
       }

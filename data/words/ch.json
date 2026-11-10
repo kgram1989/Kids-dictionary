@@ -1,5 +1,52 @@
 [
   {
+    "word": "chain",
+    "say": "chayn",
+    "forms": [
+      "chains"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A line of rings joined together.",
+          "examples": [
+            "The dog is on a chain.",
+            "A gold chain.",
+            "The bike chain broke."
+          ]
+        },
+        "more": {
+          "def": "A line of metal rings joined together in a row.",
+          "examples": [
+            "The bike chain slipped off.",
+            "She wore a gold chain around her neck.",
+            "The gate was locked with a chain."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A line of things connected.",
+          "examples": [
+            "A chain of stores.",
+            "A chain of islands.",
+            "A chain of events."
+          ]
+        },
+        "more": {
+          "def": "A group of things that are connected one after another.",
+          "examples": [
+            "A chain of islands lies off the coast.",
+            "The food chain starts with plants.",
+            "A chain of events led to the surprise."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chair",
     "say": "chair",
     "emoji": "🪑",
@@ -52,6 +99,31 @@
             "Climbing the steep hill was a real challenge.",
             "Learning a new language can be a challenge.",
             "The long math problem was a challenge for the whole class."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "champagne",
+    "say": "sham-PAYN",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fizzy wine for special days.",
+          "examples": [
+            "They toasted with champagne.",
+            "The champagne fizzed.",
+            "Grown-ups drink champagne."
+          ]
+        },
+        "more": {
+          "def": "A bubbly wine that adults drink, often to celebrate.",
+          "examples": [
+            "They toasted the new year with champagne.",
+            "The champagne fizzed when the cork popped.",
+            "Adults sometimes drink champagne at weddings."
           ]
         }
       }
@@ -167,6 +239,100 @@
             "The cashier gave me change after I paid with a ten-dollar bill.",
             "I found some change in the couch cushions.",
             "He kept his change in a small jar."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "channel",
+    "say": "CHAN-ul",
+    "forms": [
+      "channels"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A TV or radio station.",
+          "examples": [
+            "Change the channel.",
+            "My favorite channel is on.",
+            "The channel shows cartoons."
+          ]
+        },
+        "more": {
+          "def": "A station on a TV or radio that shows or plays programs.",
+          "examples": [
+            "Change the channel to the cartoons.",
+            "The news channel reported on the storm.",
+            "Which channel plays your favorite show?"
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A narrow strip of water.",
+          "examples": [
+            "The ship sailed through the channel.",
+            "A channel between the islands.",
+            "The channel is deep."
+          ]
+        },
+        "more": {
+          "def": "A narrow body of water that joins two larger bodies of water.",
+          "examples": [
+            "The ship sailed through the narrow channel.",
+            "A channel runs between the two islands.",
+            "The English Channel separates England from France."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "character",
+    "say": "KAIR-ik-ter",
+    "forms": [
+      "characters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person in a story.",
+          "examples": [
+            "The main character is a dog.",
+            "My favorite character is funny.",
+            "The characters in the book are kind."
+          ]
+        },
+        "more": {
+          "def": "A person, animal or creature in a story, play or movie.",
+          "examples": [
+            "The main character of the book is a brave girl.",
+            "My favorite character in the play is the clown.",
+            "The characters in the cartoon are animals."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What a person is like inside.",
+          "examples": [
+            "He has a kind character.",
+            "Her character is strong.",
+            "She showed good character."
+          ]
+        },
+        "more": {
+          "def": "The special qualities that make up how a person thinks and acts.",
+          "examples": [
+            "He showed good character by telling the truth.",
+            "Her strong character helped her through hard times.",
+            "The character of a person is shown by what they do."
           ]
         }
       }
@@ -309,6 +475,84 @@
     ]
   },
   {
+    "word": "cheap",
+    "say": "cheep",
+    "forms": [
+      "cheaper",
+      "cheapest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not costing much money.",
+          "examples": [
+            "The pencil is cheap.",
+            "A cheap toy.",
+            "The shirt was cheap."
+          ]
+        },
+        "more": {
+          "def": "Costing little money.",
+          "examples": [
+            "The cheap pencil cost only one coin.",
+            "We found a cheap ticket to the zoo.",
+            "Apples are cheap this week."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cheat",
+    "say": "cheet",
+    "forms": [
+      "cheats",
+      "cheated",
+      "cheating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To break the rules to win.",
+          "examples": [
+            "Do not cheat at games.",
+            "He cheated at cards.",
+            "She cheated on the test."
+          ]
+        },
+        "more": {
+          "def": "To break the rules or be dishonest in order to win or get ahead.",
+          "examples": [
+            "It is not fair to cheat on a test.",
+            "He cheated at the board game by moving the pieces.",
+            "The players agreed not to cheat."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who breaks the rules to win.",
+          "examples": [
+            "The cheat lost the game.",
+            "No one likes a cheat.",
+            "He was a cheat in the game."
+          ]
+        },
+        "more": {
+          "def": "Someone who is dishonest in order to win.",
+          "examples": [
+            "Nobody wanted to play with the cheat.",
+            "The cheat was caught moving the pieces.",
+            "A cheat spoils the game for everyone."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "check",
     "say": "chek",
     "forms": [
@@ -339,6 +583,55 @@
     ]
   },
   {
+    "word": "cheer",
+    "say": "cheer",
+    "forms": [
+      "cheers",
+      "cheered",
+      "cheering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shout to show you are happy.",
+          "examples": [
+            "The crowd cheered.",
+            "We cheer for our team.",
+            "They cheered loudly."
+          ]
+        },
+        "more": {
+          "def": "To shout loudly to show happiness or to encourage someone.",
+          "examples": [
+            "The crowd cheered when our team scored.",
+            "We cheer for the runners.",
+            "Everyone cheered for the birthday girl."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shout of joy.",
+          "examples": [
+            "The crowd gave a cheer.",
+            "We heard a loud cheer.",
+            "A cheer rose up."
+          ]
+        },
+        "more": {
+          "def": "A loud shout of joy or support.",
+          "examples": [
+            "The crowd gave a loud cheer.",
+            "A cheer rose when the team came out.",
+            "We gave three cheers for the winner."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cheerful",
     "say": "CHEER-ful",
     "emoji": "😊",
@@ -359,6 +652,111 @@
             "The cheerful bus driver greeted every child by name.",
             "He stayed cheerful even though it rained on his birthday.",
             "The nurse's cheerful voice made the patients feel better."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cheese",
+    "say": "cheez",
+    "emoji": "🧀",
+    "forms": [
+      "cheeses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A food made from milk.",
+          "examples": [
+            "I like cheese.",
+            "Mice love cheese.",
+            "Pizza has cheese."
+          ]
+        },
+        "more": {
+          "def": "A food made from milk that can be soft or hard.",
+          "examples": [
+            "The sandwich had a slice of cheese.",
+            "Mice love cheese in cartoons.",
+            "Pizza is topped with melted cheese."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chest",
+    "say": "chest",
+    "forms": [
+      "chests"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The front of your body between neck and stomach.",
+          "examples": [
+            "My chest hurts.",
+            "The heart is in the chest.",
+            "He puffed out his chest."
+          ]
+        },
+        "more": {
+          "def": "The upper front part of the body, where the heart and lungs are.",
+          "examples": [
+            "The heart and lungs are inside the chest.",
+            "He puffed out his chest with pride.",
+            "A bird has red feathers on its chest."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big strong box.",
+          "examples": [
+            "The treasure chest is full.",
+            "The pirate chest was locked.",
+            "Toys are in the chest."
+          ]
+        },
+        "more": {
+          "def": "A large, strong box with a lid, used for storing things.",
+          "examples": [
+            "The pirate buried a treasure chest.",
+            "Blankets are kept in the cedar chest.",
+            "The old chest at the foot of the bed holds toys."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chick",
+    "say": "chik",
+    "emoji": "🐥",
+    "forms": [
+      "chicks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A baby chicken.",
+          "examples": [
+            "The chick is yellow.",
+            "A chick hatched.",
+            "The chick peeps."
+          ]
+        },
+        "more": {
+          "def": "A baby chicken or other young bird.",
+          "examples": [
+            "The chick hatched from its egg this morning.",
+            "A fluffy yellow chick followed the hen.",
+            "Each chick peeped for food."
           ]
         }
       }
@@ -502,6 +900,122 @@
             "My grandmother's children are my mom and my two uncles.",
             "Even as an adult, she is still her parents' child.",
             "The bear led her two children across the stream."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chip",
+    "say": "chip",
+    "forms": [
+      "chips",
+      "chipped",
+      "chipping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin crisp piece of food.",
+          "examples": [
+            "I eat potato chips.",
+            "Chips are crunchy.",
+            "He ate a corn chip."
+          ]
+        },
+        "more": {
+          "def": "A thin, crisp slice of food that has been fried or baked.",
+          "examples": [
+            "She ate a bag of potato chips.",
+            "Corn chips and salsa made a good snack.",
+            "The chips were crunchy and salty."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small broken piece.",
+          "examples": [
+            "There is a chip in the cup.",
+            "A chip of wood fell.",
+            "A paint chip."
+          ]
+        },
+        "more": {
+          "def": "A small piece that has broken off something.",
+          "examples": [
+            "There is a chip in the edge of the cup.",
+            "A chip of paint fell from the wall.",
+            "The sculptor swept away the stone chips."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To break off a small piece.",
+          "examples": [
+            "Do not chip the plate.",
+            "The cup chipped.",
+            "The paint chipped."
+          ]
+        },
+        "more": {
+          "def": "To break a small piece off something.",
+          "examples": [
+            "Don't chip the plate when you wash it.",
+            "The paint chipped off the old fence.",
+            "He chipped his tooth on a hard candy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chocolate",
+    "say": "CHOK-lit",
+    "emoji": "🍫",
+    "forms": [
+      "chocolates"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet brown food.",
+          "examples": [
+            "I love chocolate.",
+            "Chocolate is sweet.",
+            "The chocolate melted."
+          ]
+        },
+        "more": {
+          "def": "A sweet brown food made from cocoa beans.",
+          "examples": [
+            "I ate a piece of chocolate.",
+            "The chocolate melted in the sun.",
+            "Chocolate cake was served at the party."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Made with the sweet brown food.",
+          "examples": [
+            "Chocolate milk.",
+            "Chocolate cake.",
+            "A chocolate bar."
+          ]
+        },
+        "more": {
+          "def": "Flavored with or made from cocoa.",
+          "examples": [
+            "We drank chocolate milk.",
+            "She baked a chocolate cake.",
+            "He ate a chocolate bar."
           ]
         }
       }

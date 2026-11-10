@@ -1,5 +1,33 @@
 [
   {
+    "word": "lab",
+    "say": "lab",
+    "forms": [
+      "labs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A room where scientists work.",
+          "examples": [
+            "The scientist is in the lab.",
+            "We visited a lab.",
+            "The lab has tools."
+          ]
+        },
+        "more": {
+          "def": "A room or building where scientists do experiments.",
+          "examples": [
+            "The scientist mixed chemicals in the lab.",
+            "Our class visited a science lab.",
+            "The lab has microscopes and tubes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lady",
     "say": "LAY-dee",
     "forms": [
@@ -22,6 +50,35 @@
             "The lady at the bakery gave us each a free cookie.",
             "An old lady held the door for the children.",
             "Ladies and gentlemen, the show is about to begin."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lake",
+    "say": "layk",
+    "emoji": "🏞️",
+    "forms": [
+      "lakes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big body of water with land around it.",
+          "examples": [
+            "We swim in the lake.",
+            "The lake is blue.",
+            "Ducks live on the lake."
+          ]
+        },
+        "more": {
+          "def": "A large body of fresh water with land all around it.",
+          "examples": [
+            "We swam in the cool lake.",
+            "Ducks paddled across the lake.",
+            "The lake froze over in winter."
           ]
         }
       }
@@ -71,6 +128,53 @@
             "The plane landed safely at the airport.",
             "A butterfly landed on my finger.",
             "The geese landed on the lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lane",
+    "say": "layn",
+    "forms": [
+      "lanes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A narrow road.",
+          "examples": [
+            "We walked down the lane.",
+            "A country lane.",
+            "The lane is quiet."
+          ]
+        },
+        "more": {
+          "def": "A narrow road or path.",
+          "examples": [
+            "We walked down a quiet country lane.",
+            "A dirt lane led to the farm.",
+            "The lane was lined with trees."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strip for one line of cars or swimmers.",
+          "examples": [
+            "Stay in your lane.",
+            "The pool has six lanes.",
+            "The road has two lanes."
+          ]
+        },
+        "more": {
+          "def": "A strip of road, track or pool for one line of cars, runners or swimmers.",
+          "examples": [
+            "Stay in your lane when you swim.",
+            "The highway has three lanes.",
+            "Each runner had a lane on the track."
           ]
         }
       }

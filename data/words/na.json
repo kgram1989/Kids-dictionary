@@ -1,5 +1,77 @@
 [
   {
+    "word": "nail",
+    "say": "nayl",
+    "forms": [
+      "nails"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin metal pin that you hit with a hammer.",
+          "examples": [
+            "Dad hit the nail.",
+            "A nail holds the board.",
+            "The nail is sharp."
+          ]
+        },
+        "more": {
+          "def": "A thin metal spike that is hit with a hammer to hold pieces of wood together.",
+          "examples": [
+            "Dad hit the nail with a hammer.",
+            "A rusty nail was stuck in the board.",
+            "The picture hangs from a small nail."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The hard part at the end of a finger.",
+          "examples": [
+            "I cut my nails.",
+            "Her nail is long.",
+            "He bit his nail."
+          ]
+        },
+        "more": {
+          "def": "The hard, thin layer at the tip of a finger or toe.",
+          "examples": [
+            "I need to cut my nails.",
+            "She painted her nails blue.",
+            "He broke a nail."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "naked",
+    "say": "NAY-kid",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not wearing clothes.",
+          "examples": [
+            "The baby was naked in the bath.",
+            "The tree was naked in winter.",
+            "A naked mole rat."
+          ]
+        },
+        "more": {
+          "def": "Wearing no clothes, or having no covering.",
+          "examples": [
+            "The baby played naked in the bath.",
+            "The tree stood naked after the leaves fell.",
+            "Naked mole rats have no fur."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "name",
     "say": "naym",
     "forms": [
@@ -72,6 +144,75 @@
             "The street was so narrow that only one car could pass.",
             "The bridge is too narrow for trucks.",
             "A narrow stream ran through the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "national",
+    "say": "NASH-uh-nul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Of a whole country.",
+          "examples": [
+            "The national flag.",
+            "A national holiday.",
+            "The national park."
+          ]
+        },
+        "more": {
+          "def": "Of or belonging to a whole country.",
+          "examples": [
+            "The national flag flew over the building.",
+            "Yellowstone is a national park.",
+            "Thanksgiving is a national holiday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "natural",
+    "say": "NACH-er-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "From nature, not made by people.",
+          "examples": [
+            "A lake is natural.",
+            "Wool is a natural fabric.",
+            "She has natural curls."
+          ]
+        },
+        "more": {
+          "def": "Found in nature and not made or changed by people.",
+          "examples": [
+            "A lake is a natural body of water.",
+            "Cotton is a natural fiber.",
+            "The cave is a natural wonder."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Normal or expected.",
+          "examples": [
+            "It is natural to be shy.",
+            "It is natural to be tired.",
+            "That is a natural reaction."
+          ]
+        },
+        "more": {
+          "def": "Normal or what you would expect.",
+          "examples": [
+            "It is natural to feel nervous on the first day of school.",
+            "It was natural for the puppy to chew things.",
+            "His shy answer was a natural reaction."
           ]
         }
       }

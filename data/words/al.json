@@ -1,5 +1,33 @@
 [
   {
+    "word": "alarm",
+    "say": "uh-LARM",
+    "forms": [
+      "alarms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loud sound that warns you.",
+          "examples": [
+            "The fire alarm rang.",
+            "An alarm woke me.",
+            "The alarm is loud."
+          ]
+        },
+        "more": {
+          "def": "A loud sound or signal that warns of danger or wakes you up.",
+          "examples": [
+            "The fire alarm rang in the school.",
+            "My alarm woke me at seven.",
+            "The car alarm went off."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "alive",
     "say": "uh-LYV",
     "senses": [
@@ -74,6 +102,34 @@
             "The museum does not allow visitors to touch the paintings.",
             "Our teacher allows us to read quietly after a test.",
             "Dogs are not allowed inside the bakery."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ally",
+    "say": "AL-eye",
+    "forms": [
+      "allies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A friend or partner who helps you.",
+          "examples": [
+            "The two countries are allies.",
+            "He was my ally in the game.",
+            "Allies help each other."
+          ]
+        },
+        "more": {
+          "def": "A person or country that joins with another to help.",
+          "examples": [
+            "The two countries were allies in the war.",
+            "My brother was my ally when I needed help.",
+            "Bees are allies of the garden."
           ]
         }
       }
@@ -212,6 +268,31 @@
             "Frogs live in water, and they also live on land.",
             "She plays the violin and also sings in the choir.",
             "The park has swings, and there is also a pond."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "although",
+    "say": "awl-THOH",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "Even though.",
+          "examples": [
+            "Although it rained, we played.",
+            "He ran, although he was tired.",
+            "I like pie, although I am full."
+          ]
+        },
+        "more": {
+          "def": "In spite of the fact that; even though.",
+          "examples": [
+            "Although it was cold, we went outside.",
+            "She smiled, although she was nervous.",
+            "We stayed, although the movie was long."
           ]
         }
       }

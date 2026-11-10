@@ -49,6 +49,34 @@
     ]
   },
   {
+    "word": "radar",
+    "say": "RAY-dar",
+    "forms": [
+      "radars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that finds things by sending out waves.",
+          "examples": [
+            "The radar showed the storm.",
+            "Planes use radar.",
+            "The radar found the plane."
+          ]
+        },
+        "more": {
+          "def": "A machine that uses radio waves to find where things are.",
+          "examples": [
+            "The radar showed a storm coming.",
+            "Airplanes use radar to avoid hills.",
+            "The radar spotted the flock of birds."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "radio",
     "say": "RAY-dee-oh",
     "emoji": "📻",
@@ -245,6 +273,82 @@
             "The zoo has a rare white tiger.",
             "Pandas are rare animals.",
             "It is rare for him to be late."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "rat",
+    "say": "rat",
+    "emoji": "🐀",
+    "forms": [
+      "rats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small animal with a long tail, like a big mouse.",
+          "examples": [
+            "A rat ran across the road.",
+            "The rat has a long tail.",
+            "Rats can swim."
+          ]
+        },
+        "more": {
+          "def": "A small furry animal with a pointed nose and a long tail, bigger than a mouse.",
+          "examples": [
+            "A rat scurried along the wall.",
+            "Some people keep rats as pets.",
+            "Rats are good at finding their way through mazes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "rate",
+    "say": "rayt",
+    "forms": [
+      "rates"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How fast something goes.",
+          "examples": [
+            "The car moves at a fast rate.",
+            "The rate of growth.",
+            "The heart's rate."
+          ]
+        },
+        "more": {
+          "def": "How fast something happens or moves.",
+          "examples": [
+            "The car traveled at a rate of sixty miles an hour.",
+            "Her heart rate rose when she ran.",
+            "Plants grow at different rates."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A price for something.",
+          "examples": [
+            "The rate is ten dollars.",
+            "The hotel rate.",
+            "A low rate."
+          ]
+        },
+        "more": {
+          "def": "The price charged for something, usually by the hour or day.",
+          "examples": [
+            "The hotel's rate is ninety dollars a night.",
+            "The rate for the bike was five dollars an hour.",
+            "We got a low rate for the cabin."
           ]
         }
       }

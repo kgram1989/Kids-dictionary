@@ -50,6 +50,54 @@
     ]
   },
   {
+    "word": "wheel",
+    "say": "weel",
+    "emoji": "🛞",
+    "forms": [
+      "wheels"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round thing that turns.",
+          "examples": [
+            "The bike has two wheels.",
+            "The wheel spins.",
+            "A car has four wheels."
+          ]
+        },
+        "more": {
+          "def": "A round object that turns around its center and helps things roll.",
+          "examples": [
+            "A bike has two wheels.",
+            "The wheel on the wagon came loose.",
+            "The car has four wheels."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The round thing you steer with.",
+          "examples": [
+            "The driver turned the wheel.",
+            "The ship's wheel is big.",
+            "Dad holds the wheel."
+          ]
+        },
+        "more": {
+          "def": "A round part that a driver uses to steer a car or boat.",
+          "examples": [
+            "Dad held the wheel with both hands.",
+            "The captain turned the ship's wheel.",
+            "She learned to drive by gripping the wheel."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "when",
     "say": "wen",
     "senses": [
@@ -94,6 +142,31 @@
     ]
   },
   {
+    "word": "whenever",
+    "say": "wen-EV-er",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "Any time that.",
+          "examples": [
+            "Call me whenever you want.",
+            "Whenever it rains, I stay in.",
+            "Come whenever you can."
+          ]
+        },
+        "more": {
+          "def": "At any time that; every time that.",
+          "examples": [
+            "Call me whenever you need help.",
+            "Whenever it rains, the frogs come out.",
+            "Come over whenever you like."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "where",
     "say": "wair",
     "senses": [
@@ -113,6 +186,31 @@
             "Where does the river begin?",
             "This is the spot where we found the old coin.",
             "Do you know where the library is?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wherever",
+    "say": "wair-EV-er",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "In any place.",
+          "examples": [
+            "Sit wherever you like.",
+            "Go wherever you want.",
+            "The dog follows me wherever I go."
+          ]
+        },
+        "more": {
+          "def": "In or to any place at all.",
+          "examples": [
+            "Camp wherever there is flat ground.",
+            "The cat naps wherever the sun shines.",
+            "Put the box wherever it fits."
           ]
         }
       }
@@ -322,6 +420,31 @@
     ]
   },
   {
+    "word": "whoever",
+    "say": "hoo-EV-er",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "Any person who.",
+          "examples": [
+            "Whoever wants a turn can come.",
+            "Take whoever you like.",
+            "Whoever finds it wins."
+          ]
+        },
+        "more": {
+          "def": "Any person at all who; it does not matter which person.",
+          "examples": [
+            "Whoever finishes first gets a prize.",
+            "Give the book to whoever asks for it.",
+            "Whoever left the door open, please close it."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "whole",
     "say": "hohl",
     "senses": [
@@ -341,6 +464,31 @@
             "He ate the whole sandwich and was still hungry.",
             "The whole class went on the trip to the zoo.",
             "We looked for the whole afternoon but could not find the key."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "whom",
+    "say": "hoom",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "Which person.",
+          "examples": [
+            "To whom did you give it?",
+            "Whom did you see?",
+            "With whom are you going?"
+          ]
+        },
+        "more": {
+          "def": "Used to ask or tell which person is the object of an action.",
+          "examples": [
+            "To whom should I give this note?",
+            "Whom did you invite to the party?",
+            "She is the girl with whom I work."
           ]
         }
       }

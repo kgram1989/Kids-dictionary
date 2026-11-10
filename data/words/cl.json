@@ -1,5 +1,35 @@
 [
   {
+    "word": "claim",
+    "say": "klaym",
+    "forms": [
+      "claims",
+      "claimed",
+      "claiming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say something is true.",
+          "examples": [
+            "He claims he saw a fox.",
+            "She claimed it was hers.",
+            "I claim this seat."
+          ]
+        },
+        "more": {
+          "def": "To say that something is true, often without proof.",
+          "examples": [
+            "He claimed that he saw a fox in the yard.",
+            "She claimed the last seat on the bus.",
+            "The brothers both claimed the red bike."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "class",
     "say": "klas",
     "emoji": "🏫",
@@ -180,6 +210,36 @@
     ]
   },
   {
+    "word": "climb",
+    "say": "klym",
+    "forms": [
+      "climbs",
+      "climbed",
+      "climbing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go up.",
+          "examples": [
+            "Climb the tree.",
+            "We climbed the hill.",
+            "Monkeys climb."
+          ]
+        },
+        "more": {
+          "def": "To go up something using your hands and feet.",
+          "examples": [
+            "The children climbed the tree.",
+            "We climbed to the top of the hill.",
+            "Monkeys climb trees to find fruit."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clock",
     "say": "klok",
     "emoji": "🕒",
@@ -253,6 +313,34 @@
             "Our house is close to the school, so we walk there.",
             "Winter is close, and the leaves are almost gone.",
             "Stand close together so everyone fits in the picture."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "closet",
+    "say": "KLOZ-it",
+    "forms": [
+      "closets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small room for clothes.",
+          "examples": [
+            "Hang your coat in the closet.",
+            "The closet is full.",
+            "My clothes are in the closet."
+          ]
+        },
+        "more": {
+          "def": "A small room or space where clothes and other things are kept.",
+          "examples": [
+            "The vacuum is kept in the closet.",
+            "The cat hid in the closet.",
+            "Winter boots are stored in the hall closet."
           ]
         }
       }

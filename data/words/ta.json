@@ -47,6 +47,53 @@
     ]
   },
   {
+    "word": "tail",
+    "say": "tayl",
+    "forms": [
+      "tails"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part at the back of an animal.",
+          "examples": [
+            "The dog wags its tail.",
+            "A cat has a long tail.",
+            "The monkey's tail curled."
+          ]
+        },
+        "more": {
+          "def": "The long part that sticks out from the back of an animal.",
+          "examples": [
+            "The dog wagged its tail.",
+            "A fox has a bushy tail.",
+            "The monkey wrapped its tail around the branch."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The back part of something.",
+          "examples": [
+            "The tail of the plane.",
+            "The tail of the kite.",
+            "The tail of the comet."
+          ]
+        },
+        "more": {
+          "def": "The back end of something, such as a plane or a kite.",
+          "examples": [
+            "The kite's long tail fluttered.",
+            "The tail of the plane was painted red.",
+            "The comet's bright tail stretched across the sky."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "take",
     "say": "tayk",
     "forms": [
@@ -137,6 +184,82 @@
     ]
   },
   {
+    "word": "tall",
+    "say": "tawl",
+    "forms": [
+      "taller",
+      "tallest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "High from bottom to top.",
+          "examples": [
+            "The tree is tall.",
+            "My dad is tall.",
+            "A tall building."
+          ]
+        },
+        "more": {
+          "def": "Having a great height from bottom to top.",
+          "examples": [
+            "The giraffe is the tallest animal.",
+            "A tall tree grows by the gate.",
+            "She is taller than her brother."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tank",
+    "say": "tank",
+    "forms": [
+      "tanks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big container for liquid or gas.",
+          "examples": [
+            "The water tank is full.",
+            "The gas tank is empty.",
+            "The fish tank."
+          ]
+        },
+        "more": {
+          "def": "A large container that holds liquid or gas.",
+          "examples": [
+            "The gas tank was nearly empty.",
+            "A water tank sits on top of the building.",
+            "The fish swam in the big tank."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A heavy military vehicle.",
+          "examples": [
+            "The tank has a big gun.",
+            "A tank rolled by.",
+            "A tank moves on tracks."
+          ]
+        },
+        "more": {
+          "def": "A heavy military vehicle with a large gun that moves on metal tracks.",
+          "examples": [
+            "A tank rolled down the road.",
+            "The museum has an old war tank.",
+            "Soldiers rode in the tank."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tape",
     "say": "tayp",
     "forms": [
@@ -180,6 +303,53 @@
             "Tape the poster to the wall.",
             "She taped the box shut.",
             "He taped the map to the window."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "target",
+    "say": "TAR-git",
+    "forms": [
+      "targets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing you aim at.",
+          "examples": [
+            "He hit the target.",
+            "The arrow hit the target.",
+            "The target is round."
+          ]
+        },
+        "more": {
+          "def": "An object or mark that you try to hit.",
+          "examples": [
+            "She aimed the ball at the target.",
+            "The arrow hit the center of the target.",
+            "Players threw bean bags at the target."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A goal you want to reach.",
+          "examples": [
+            "Our target is ten books.",
+            "Her target was a perfect score.",
+            "We met our target."
+          ]
+        },
+        "more": {
+          "def": "A goal that you are trying to reach.",
+          "examples": [
+            "Our class has a target of reading fifty books.",
+            "She set a target of running a mile.",
+            "The team met its target."
           ]
         }
       }

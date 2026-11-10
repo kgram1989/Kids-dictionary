@@ -48,6 +48,56 @@
     ]
   },
   {
+    "word": "nearly",
+    "say": "NEER-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Almost.",
+          "examples": [
+            "I am nearly done.",
+            "It is nearly noon.",
+            "We nearly missed the bus."
+          ]
+        },
+        "more": {
+          "def": "Almost, but not completely.",
+          "examples": [
+            "I am nearly finished with my book.",
+            "It is nearly time for lunch.",
+            "She nearly dropped the full glass."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "necessary",
+    "say": "NESS-uh-sair-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Needed.",
+          "examples": [
+            "Water is necessary for life.",
+            "A coat is necessary in winter.",
+            "It is necessary to rest."
+          ]
+        },
+        "more": {
+          "def": "Needed in order for something to happen.",
+          "examples": [
+            "Water is necessary for plants to grow.",
+            "A coat is necessary in the snow.",
+            "It is necessary to wear a helmet on a bike."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "neck",
     "say": "nek",
     "emoji": "🦒",
@@ -138,6 +188,34 @@
     ]
   },
   {
+    "word": "neighborhood",
+    "say": "NAY-ber-huud",
+    "forms": [
+      "neighborhoods"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The area around your home.",
+          "examples": [
+            "I know my neighborhood.",
+            "The neighborhood is quiet.",
+            "Our neighborhood has a park."
+          ]
+        },
+        "more": {
+          "def": "The area near where you live, and the people who live there.",
+          "examples": [
+            "Our neighborhood has a park and a library.",
+            "The whole neighborhood came to the picnic.",
+            "She walks her dog around the neighborhood."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "neither",
     "say": "NEE-ther",
     "senses": [
@@ -176,6 +254,53 @@
             "Neither the red bike nor the blue one has a bell.",
             "We saw neither deer nor bears on our walk.",
             "It is neither too hot nor too cold."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "nerve",
+    "say": "nerv",
+    "forms": [
+      "nerves"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin thread in your body that carries messages.",
+          "examples": [
+            "A nerve sends a message to the brain.",
+            "The nerve in my tooth hurt.",
+            "Nerves help you feel."
+          ]
+        },
+        "more": {
+          "def": "A thin fiber in the body that carries messages between the brain and other parts.",
+          "examples": [
+            "A nerve in your finger tells your brain that something is hot.",
+            "The dentist said the nerve in my tooth was sore.",
+            "Nerves help us feel pain and touch."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Bravery.",
+          "examples": [
+            "It took nerve to jump.",
+            "She had the nerve to ask.",
+            "He lost his nerve."
+          ]
+        },
+        "more": {
+          "def": "The courage to do something hard or scary.",
+          "examples": [
+            "It took nerve to jump off the high diving board.",
+            "She had the nerve to speak in front of the class.",
+            "He lost his nerve at the top of the slide."
           ]
         }
       }
@@ -278,6 +403,35 @@
             "I have good news; we are going to the beach!",
             "Mom reads the news on her phone every morning.",
             "The news that school was closed made everyone cheer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "newspaper",
+    "say": "NOOZ-pay-per",
+    "emoji": "📰",
+    "forms": [
+      "newspapers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Printed pages of news that come out each day.",
+          "examples": [
+            "Dad reads the newspaper.",
+            "The newspaper came.",
+            "The newspaper has pictures."
+          ]
+        },
+        "more": {
+          "def": "Large printed sheets with news, pictures and advertisements.",
+          "examples": [
+            "Grandpa reads the newspaper every morning.",
+            "Our school was in the newspaper.",
+            "The newspaper arrives on our porch each day."
           ]
         }
       }

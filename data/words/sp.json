@@ -48,6 +48,55 @@
     ]
   },
   {
+    "word": "spare",
+    "say": "spair",
+    "forms": [
+      "spares",
+      "spared",
+      "sparing"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Extra.",
+          "examples": [
+            "I have a spare key.",
+            "We have a spare tire.",
+            "Take a spare pencil."
+          ]
+        },
+        "more": {
+          "def": "Kept in case it is needed; extra.",
+          "examples": [
+            "I keep a spare key under the mat.",
+            "The car has a spare tire.",
+            "Bring a spare pencil to the test."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To save from harm.",
+          "examples": [
+            "Spare the flowers.",
+            "The storm spared our house.",
+            "He spared the bug."
+          ]
+        },
+        "more": {
+          "def": "To keep someone or something from being hurt.",
+          "examples": [
+            "The flood spared the old barn.",
+            "She spared the tiny spider and put it outside.",
+            "The king spared the prisoner."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "speak",
     "say": "speek",
     "forms": [
@@ -123,6 +172,152 @@
     ]
   },
   {
+    "word": "speech",
+    "say": "speech",
+    "forms": [
+      "speeches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Talking.",
+          "examples": [
+            "Speech lets us share ideas.",
+            "Her speech is clear.",
+            "Birds do not have speech."
+          ]
+        },
+        "more": {
+          "def": "The ability to speak, or the way a person talks.",
+          "examples": [
+            "Speech lets people share ideas.",
+            "The baby's speech improved.",
+            "His speech was clear and slow."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A talk given to a group.",
+          "examples": [
+            "The mayor gave a speech.",
+            "I gave a speech in class.",
+            "Her speech was short."
+          ]
+        },
+        "more": {
+          "def": "A talk that someone gives to a group of people.",
+          "examples": [
+            "The principal gave a speech at assembly.",
+            "I practiced my speech in front of the mirror.",
+            "The mayor's speech lasted ten minutes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "speed",
+    "say": "speed",
+    "emoji": "⚡",
+    "forms": [
+      "speeds",
+      "sped",
+      "speeding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How fast something goes.",
+          "examples": [
+            "The car has great speed.",
+            "A cheetah has great speed.",
+            "Speed matters in a race."
+          ]
+        },
+        "more": {
+          "def": "How fast something moves.",
+          "examples": [
+            "The cheetah is known for its speed.",
+            "The train slowed its speed near the station.",
+            "Wind speed can change quickly."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go very fast.",
+          "examples": [
+            "The car sped by.",
+            "We speed down the hill.",
+            "The train speeds along."
+          ]
+        },
+        "more": {
+          "def": "To move very fast.",
+          "examples": [
+            "The race car sped around the track.",
+            "We sped down the hill on our sleds.",
+            "The train speeds across the country."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spell",
+    "say": "spel",
+    "forms": [
+      "spells",
+      "spelled",
+      "spelling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say or write the letters of a word.",
+          "examples": [
+            "Spell your name.",
+            "I can spell cat.",
+            "She spelled the word."
+          ]
+        },
+        "more": {
+          "def": "To name or write the letters of a word in order.",
+          "examples": [
+            "Can you spell your last name?",
+            "She spelled the word correctly.",
+            "We practice how to spell new words each week."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Magic words in stories.",
+          "examples": [
+            "The witch cast a spell.",
+            "The wizard said a spell.",
+            "The spell broke."
+          ]
+        },
+        "more": {
+          "def": "Magic words that make something happen in stories.",
+          "examples": [
+            "The wizard cast a spell on the castle.",
+            "The witch said a spell and the frog turned into a prince.",
+            "The spell broke at midnight."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "spend",
     "say": "spend",
     "emoji": "💰",
@@ -167,6 +362,129 @@
             "We spent the whole summer at my grandparents' farm.",
             "He spends an hour each night reading.",
             "The owl spends the daytime sleeping in a hollow tree."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spirit",
+    "say": "SPIR-it",
+    "forms": [
+      "spirits"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of a person that feels and thinks.",
+          "examples": [
+            "She has a happy spirit.",
+            "The team had spirit.",
+            "He has a kind spirit."
+          ]
+        },
+        "more": {
+          "def": "The part of a person that is not the body, which feels and thinks.",
+          "examples": [
+            "She has a cheerful spirit.",
+            "The team showed great spirit.",
+            "The spirit of the holiday is giving."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A ghost or make-believe being.",
+          "examples": [
+            "The spirit lived in the woods.",
+            "The story has a friendly spirit.",
+            "The spirit of the forest."
+          ]
+        },
+        "more": {
+          "def": "A make-believe being, such as a ghost.",
+          "examples": [
+            "The spirit of the old house moved the curtains.",
+            "In the legend, a spirit lived in the lake.",
+            "The story has a kind spirit that helps a lost child."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "split",
+    "say": "split",
+    "forms": [
+      "splits",
+      "splitting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To break into parts.",
+          "examples": [
+            "The log split.",
+            "We split the pizza.",
+            "The ice split."
+          ]
+        },
+        "more": {
+          "def": "To break or divide into parts.",
+          "examples": [
+            "The log split in two.",
+            "We split the pizza between us.",
+            "The ice began to split in the spring."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long crack or tear.",
+          "examples": [
+            "There is a split in my pants.",
+            "The wood has a split.",
+            "The split in the board is long."
+          ]
+        },
+        "more": {
+          "def": "A long crack or opening where something has divided.",
+          "examples": [
+            "There is a split in the old log.",
+            "A split in the seam let the stuffing out.",
+            "The ice had a long split down the middle."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sport",
+    "say": "sport",
+    "forms": [
+      "sports"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A game that uses your body.",
+          "examples": [
+            "Soccer is my favorite sport.",
+            "Swimming is a sport.",
+            "He plays a sport."
+          ]
+        },
+        "more": {
+          "def": "A game or activity in which people use their bodies and often compete.",
+          "examples": [
+            "Soccer is the most popular sport in the world.",
+            "Swimming is her favorite sport.",
+            "He plays a different sport every season."
           ]
         }
       }
@@ -235,6 +553,172 @@
             "I spotted a deer at the edge of the woods.",
             "Can you spot the hidden picture?",
             "She spotted her friend in the crowd."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spread",
+    "say": "spred",
+    "forms": [
+      "spreads",
+      "spreading"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put on in a thin layer.",
+          "examples": [
+            "Spread jam on the bread.",
+            "He spread butter.",
+            "She spread paint on the paper."
+          ]
+        },
+        "more": {
+          "def": "To cover a surface with a thin layer of something.",
+          "examples": [
+            "Spread jam on your toast.",
+            "She spread paint across the paper.",
+            "Dad spread butter on the corn."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get bigger or reach more places.",
+          "examples": [
+            "The news spread.",
+            "The fire spread.",
+            "The flowers spread across the field."
+          ]
+        },
+        "more": {
+          "def": "To reach or cover more space.",
+          "examples": [
+            "The news spread fast.",
+            "Weeds spread across the garden.",
+            "The flowers spread across the hillside."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spring",
+    "say": "spring",
+    "emoji": "🌷",
+    "forms": [
+      "springs",
+      "sprang",
+      "sprung",
+      "springing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The season after winter.",
+          "examples": [
+            "Flowers bloom in spring.",
+            "Spring is warm.",
+            "Birds sing in spring."
+          ]
+        },
+        "more": {
+          "def": "The season between winter and summer, when plants begin to grow.",
+          "examples": [
+            "Flowers bloom in the spring.",
+            "Spring brings warmer days and longer light.",
+            "We plant our garden in the spring."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A coil of metal that bounces back.",
+          "examples": [
+            "The toy has a spring.",
+            "The bed has springs.",
+            "A spring makes it bounce."
+          ]
+        },
+        "more": {
+          "def": "A twisty piece of metal that returns to its shape after it is pressed or pulled.",
+          "examples": [
+            "The toy jumped on a spring.",
+            "The old mattress had a broken spring.",
+            "A spring inside the pen makes it click."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To jump suddenly.",
+          "examples": [
+            "The cat sprang onto the couch.",
+            "He springs up.",
+            "The frog sprang away."
+          ]
+        },
+        "more": {
+          "def": "To jump or move suddenly and quickly.",
+          "examples": [
+            "The cat sprang onto the table.",
+            "The runner sprang from the starting line.",
+            "The frog sprang into the pond."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spy",
+    "say": "spy",
+    "emoji": "🕵️",
+    "forms": [
+      "spies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who secretly gets information.",
+          "examples": [
+            "The spy listened.",
+            "The spy wore a hat.",
+            "A spy hides."
+          ]
+        },
+        "more": {
+          "def": "A person who secretly watches others to get information.",
+          "examples": [
+            "The spy hid behind the curtain.",
+            "In the story, a spy sent secret messages.",
+            "The spy wore a hat to hide his face."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To see.",
+          "examples": [
+            "I spy a bird.",
+            "She spied a frog.",
+            "He spies the cat."
+          ]
+        },
+        "more": {
+          "def": "To catch sight of something.",
+          "examples": [
+            "I spy a bird in the tree.",
+            "She spied a frog by the pond.",
+            "He spied his friend in the crowd."
           ]
         }
       }

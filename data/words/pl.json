@@ -156,6 +156,104 @@
     ]
   },
   {
+    "word": "plant",
+    "say": "plant",
+    "emoji": "🌱",
+    "forms": [
+      "plants",
+      "planted",
+      "planting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A living thing that grows in the ground.",
+          "examples": [
+            "The plant needs water.",
+            "Trees are plants.",
+            "I water the plant."
+          ]
+        },
+        "more": {
+          "def": "A living thing that grows in soil or water and makes its own food from light.",
+          "examples": [
+            "The plant grew toward the window.",
+            "Trees, grass and flowers are plants.",
+            "Cactus plants store water in their stems."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put seeds in the ground.",
+          "examples": [
+            "We plant seeds.",
+            "She planted a flower.",
+            "Dad planted a tree."
+          ]
+        },
+        "more": {
+          "def": "To put seeds or young growing things in the ground so they will grow.",
+          "examples": [
+            "We plant tomatoes every spring.",
+            "She planted a row of beans.",
+            "Dad planted a tree in the backyard."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A building where things are made.",
+          "examples": [
+            "The car plant is big.",
+            "He works at a plant.",
+            "The plant makes toys."
+          ]
+        },
+        "more": {
+          "def": "A large building where things are made or power is produced.",
+          "examples": [
+            "The power plant makes electricity.",
+            "My uncle works at a car plant.",
+            "The plant makes thousands of tires a day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "plate",
+    "say": "playt",
+    "emoji": "🍽️",
+    "forms": [
+      "plates"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat dish that you eat from.",
+          "examples": [
+            "Put the food on the plate.",
+            "My plate is empty.",
+            "The plate is round."
+          ]
+        },
+        "more": {
+          "def": "A flat dish used for serving and eating food.",
+          "examples": [
+            "She put a sandwich on her plate.",
+            "The plate fell and broke.",
+            "Please set the plates on the table."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "play",
     "say": "play",
     "forms": [
@@ -324,6 +422,50 @@
             "There is plenty of food for everyone.",
             "We have plenty of time before the bus.",
             "The pond has plenty of fish."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "plus",
+    "say": "plus",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Added to.",
+          "examples": [
+            "Two plus two is four.",
+            "Three plus one is four.",
+            "Add five plus five."
+          ]
+        },
+        "more": {
+          "def": "Used when you add numbers together.",
+          "examples": [
+            "Two plus three equals five.",
+            "Ten plus ten is twenty.",
+            "Add four plus six to get ten."
+          ]
+        }
+      },
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "And also.",
+          "examples": [
+            "I need a pencil plus an eraser.",
+            "We saw lions plus tigers.",
+            "Buy milk plus bread."
+          ]
+        },
+        "more": {
+          "def": "And also, or in addition.",
+          "examples": [
+            "Pack your swimsuit plus a towel.",
+            "We packed sandwiches, plus apples and juice.",
+            "She plays piano, plus she sings."
           ]
         }
       }

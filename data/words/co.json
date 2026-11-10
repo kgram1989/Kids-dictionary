@@ -1,5 +1,102 @@
 [
   {
+    "word": "coach",
+    "say": "kohch",
+    "forms": [
+      "coaches",
+      "coached",
+      "coaching"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who trains a team.",
+          "examples": [
+            "Our coach is nice.",
+            "The coach blew the whistle.",
+            "The coach helps us."
+          ]
+        },
+        "more": {
+          "def": "A person who trains and teaches a team or a player.",
+          "examples": [
+            "Our soccer coach teaches us how to pass.",
+            "The coach gave the team a pep talk.",
+            "She is the coach of the swim team."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To train and teach a team.",
+          "examples": [
+            "Dad coaches my team.",
+            "She coached the swimmers.",
+            "He coaches soccer."
+          ]
+        },
+        "more": {
+          "def": "To train and teach a person or team to get better at a sport or skill.",
+          "examples": [
+            "Dad coaches my soccer team.",
+            "She coached the swimmers for the big meet.",
+            "He coaches the school chess club."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "coat",
+    "say": "koht",
+    "emoji": "🧥",
+    "forms": [
+      "coats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Clothing you wear outside when it is cold.",
+          "examples": [
+            "Put on your coat.",
+            "My coat is warm.",
+            "It is cold, so wear a coat."
+          ]
+        },
+        "more": {
+          "def": "A warm piece of clothing with sleeves that you wear over your other clothes.",
+          "examples": [
+            "She zipped up her winter coat.",
+            "He hung his wet coat by the door.",
+            "A thick coat keeps you warm in the snow."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A layer of fur or paint.",
+          "examples": [
+            "The dog has a thick coat.",
+            "The wall needs a coat of paint.",
+            "Dad put on a coat of paint."
+          ]
+        },
+        "more": {
+          "def": "A layer of fur on an animal, or a layer of paint on a surface.",
+          "examples": [
+            "The dog's thick coat keeps it warm in winter.",
+            "The wall needs two coats of paint.",
+            "A coat of snow covered the roof."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "code",
     "say": "kohd",
     "forms": [
@@ -227,6 +324,56 @@
     ]
   },
   {
+    "word": "color",
+    "say": "KUL-er",
+    "emoji": "🎨",
+    "forms": [
+      "colors",
+      "colored",
+      "coloring"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Red, blue, green and so on.",
+          "examples": [
+            "Red is my favorite color.",
+            "What color is your coat?",
+            "The sky is a pretty color."
+          ]
+        },
+        "more": {
+          "def": "Something like red, blue or yellow that you see in things.",
+          "examples": [
+            "Her favorite color is purple.",
+            "The leaves change color in the fall.",
+            "The rainbow has seven colors."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To fill in with crayons or paint.",
+          "examples": [
+            "I color the picture.",
+            "She colored the sun yellow.",
+            "We color in class."
+          ]
+        },
+        "more": {
+          "def": "To fill in a picture or surface with crayons, pencils or paint.",
+          "examples": [
+            "I colored the picture with crayons.",
+            "She colored the sky blue.",
+            "We colored eggs in the spring."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "come",
     "say": "kum",
     "forms": [
@@ -277,6 +424,161 @@
             "These shoes are comfortable enough to wear all day.",
             "She felt comfortable talking to her grandmother about anything.",
             "The hotel room was small but comfortable."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "command",
+    "say": "kuh-MAND",
+    "forms": [
+      "commands",
+      "commanded",
+      "commanding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell someone what they must do.",
+          "examples": [
+            "The captain commanded the crew.",
+            "The king commanded the guards.",
+            "He commands the dog."
+          ]
+        },
+        "more": {
+          "def": "To give an order that must be followed.",
+          "examples": [
+            "The captain commanded the crew to raise the sails.",
+            "The queen commanded her guards to open the gate.",
+            "The trainer commands the dog to sit."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An order.",
+          "examples": [
+            "The dog obeyed the command.",
+            "The captain gave a command.",
+            "Sit is a command."
+          ]
+        },
+        "more": {
+          "def": "An order that tells someone what to do.",
+          "examples": [
+            "The dog followed the command to sit.",
+            "The captain gave the command to start.",
+            "Type a command to make the computer work."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "commander",
+    "say": "kuh-MAN-der",
+    "forms": [
+      "commanders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person in charge of soldiers or a ship.",
+          "examples": [
+            "The commander gave orders.",
+            "The ship's commander.",
+            "The commander saluted."
+          ]
+        },
+        "more": {
+          "def": "A person in charge of soldiers, a ship or a mission.",
+          "examples": [
+            "The commander gave the order to sail.",
+            "The space commander led the crew.",
+            "The army commander met with the leaders."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "commit",
+    "say": "kuh-MIT",
+    "forms": [
+      "commits",
+      "committed",
+      "committing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To do something wrong or bad.",
+          "examples": [
+            "He committed a crime.",
+            "They committed a mistake.",
+            "She committed to the plan."
+          ]
+        },
+        "more": {
+          "def": "To do something that is wrong or against the law.",
+          "examples": [
+            "The thief committed a crime.",
+            "He committed the same mistake twice.",
+            "It is wrong to commit a crime."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To promise to do something.",
+          "examples": [
+            "I commit to practice.",
+            "She committed to the team.",
+            "He committed to coming."
+          ]
+        },
+        "more": {
+          "def": "To promise to do something or to stick with it.",
+          "examples": [
+            "I commit to practicing every day.",
+            "She committed to the team for the whole season.",
+            "He committed to helping with the garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "common",
+    "say": "KOM-un",
+    "forms": [
+      "commoner",
+      "commonest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Seen or found often.",
+          "examples": [
+            "Robins are common birds.",
+            "Colds are common in winter.",
+            "This is a common name."
+          ]
+        },
+        "more": {
+          "def": "Found or happening often, not rare.",
+          "examples": [
+            "Robins are common birds in our town.",
+            "Colds are common in the winter.",
+            "Smith is a common last name."
           ]
         }
       }
@@ -389,6 +691,36 @@
     ]
   },
   {
+    "word": "complain",
+    "say": "kum-PLAYN",
+    "forms": [
+      "complains",
+      "complained",
+      "complaining"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say that you are not happy.",
+          "examples": [
+            "Do not complain.",
+            "He complained about the cold.",
+            "She complains that it is loud."
+          ]
+        },
+        "more": {
+          "def": "To say that you are unhappy or upset about something.",
+          "examples": [
+            "He complained that the soup was cold.",
+            "The neighbors complained about the noise.",
+            "Please don't complain about the long walk."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "complete",
     "say": "kum-PLEET",
     "forms": [
@@ -467,6 +799,182 @@
     ]
   },
   {
+    "word": "concern",
+    "say": "kun-SERN",
+    "forms": [
+      "concerns",
+      "concerned",
+      "concerning"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A worry.",
+          "examples": [
+            "I have a concern.",
+            "There is no cause for concern.",
+            "Her concern is the storm."
+          ]
+        },
+        "more": {
+          "def": "A feeling of worry about something.",
+          "examples": [
+            "She felt concern about her sick friend.",
+            "The doctor said there was no cause for concern.",
+            "His main concern was the weather."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be about something.",
+          "examples": [
+            "The story concerns a dog.",
+            "This note concerns the field trip.",
+            "The book concerns space."
+          ]
+        },
+        "more": {
+          "def": "To be about or to involve someone or something.",
+          "examples": [
+            "The story concerns a lost dog.",
+            "The letter concerns the school picnic.",
+            "The rule concerns everyone in the school."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "concerned",
+    "say": "kun-SERND",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Worried.",
+          "examples": [
+            "Mom was concerned.",
+            "I am concerned about the storm.",
+            "She looked concerned."
+          ]
+        },
+        "more": {
+          "def": "Worried about something.",
+          "examples": [
+            "Mom was concerned when I was late.",
+            "We are concerned about the stray cat in the cold.",
+            "The teacher looked concerned."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "condition",
+    "say": "kun-DISH-un",
+    "forms": [
+      "conditions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How something is.",
+          "examples": [
+            "The bike is in good condition.",
+            "The road is in bad condition.",
+            "My toy is in good condition."
+          ]
+        },
+        "more": {
+          "def": "The state that someone or something is in.",
+          "examples": [
+            "The old book is in good condition.",
+            "The condition of the road was poor after the storm.",
+            "Check the condition of your shoes."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Weather or surroundings.",
+          "examples": [
+            "The weather conditions are bad.",
+            "The conditions were icy.",
+            "Driving conditions are poor."
+          ]
+        },
+        "more": {
+          "def": "The weather or other surroundings at a time.",
+          "examples": [
+            "Snowy conditions closed the school.",
+            "Plants grow best in sunny conditions.",
+            "The conditions on the mountain were windy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "confirm",
+    "say": "kun-FERM",
+    "forms": [
+      "confirms",
+      "confirmed",
+      "confirming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say that something is true.",
+          "examples": [
+            "Confirm the time.",
+            "The teacher confirmed the date.",
+            "He confirmed the news."
+          ]
+        },
+        "more": {
+          "def": "To show or say that something is true or certain.",
+          "examples": [
+            "Please confirm the time of the game.",
+            "The teacher confirmed the date of the test.",
+            "The photo confirmed that the bird was a hawk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "confused",
+    "say": "kun-FYOOZD",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not sure what to think.",
+          "examples": [
+            "I am confused.",
+            "The game confused me.",
+            "She looked confused."
+          ]
+        },
+        "more": {
+          "def": "Not able to think clearly or understand something.",
+          "examples": [
+            "I was confused by the directions.",
+            "The confused puppy ran in circles.",
+            "She looked confused when the lights went out."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "congratulations",
     "say": "kun-grach-uh-LAY-shunz",
     "senses": [
@@ -486,6 +994,64 @@
             "Congratulations on winning the spelling bee!",
             "Congratulations to the graduating class!",
             "Congratulations on your new puppy!"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "connect",
+    "say": "kuh-NEKT",
+    "forms": [
+      "connects",
+      "connected",
+      "connecting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To join together.",
+          "examples": [
+            "Connect the pieces.",
+            "A bridge connects the towns.",
+            "She connected the hose."
+          ]
+        },
+        "more": {
+          "def": "To join two or more things together.",
+          "examples": [
+            "Connect the dots to make a picture.",
+            "A bridge connects the two towns.",
+            "He connected the speaker to the computer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "connection",
+    "say": "kuh-NEK-shun",
+    "forms": [
+      "connections"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A link between things.",
+          "examples": [
+            "There is a connection between the two.",
+            "The connection is loose.",
+            "A connection between us."
+          ]
+        },
+        "more": {
+          "def": "A link or join between two things.",
+          "examples": [
+            "The connection between the wires was loose.",
+            "There is a connection between sleep and learning.",
+            "She felt a connection with the new girl."
           ]
         }
       }
@@ -595,6 +1161,34 @@
             "The rain continued all through the night.",
             "The road continues past the farm and into the hills.",
             "After lunch, we continued our hike."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "contract",
+    "say": "KON-trakt",
+    "forms": [
+      "contracts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A written agreement.",
+          "examples": [
+            "They signed a contract.",
+            "The contract is for one year.",
+            "He read the contract."
+          ]
+        },
+        "more": {
+          "def": "A written promise or agreement that two sides sign.",
+          "examples": [
+            "The players signed a contract.",
+            "She read the contract before signing.",
+            "The builder and the family made a contract."
           ]
         }
       }
@@ -722,6 +1316,35 @@
             "The cook at the camp made pancakes.",
             "My uncle is a cook at a restaurant.",
             "The cook chopped the carrots."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cookie",
+    "say": "KUUK-ee",
+    "emoji": "🍪",
+    "forms": [
+      "cookies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, sweet, flat cake.",
+          "examples": [
+            "I ate a cookie.",
+            "The cookie is sweet.",
+            "We bake cookies."
+          ]
+        },
+        "more": {
+          "def": "A small, flat, sweet baked treat.",
+          "examples": [
+            "She ate a chocolate chip cookie.",
+            "Dad baked oatmeal cookies for the party.",
+            "The cookie jar was empty."
           ]
         }
       }
@@ -905,6 +1528,55 @@
     ]
   },
   {
+    "word": "correct",
+    "say": "kuh-REKT",
+    "forms": [
+      "corrects",
+      "corrected",
+      "correcting"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Right; with no mistakes.",
+          "examples": [
+            "Your answer is correct.",
+            "Is this the correct page?",
+            "That is the correct way."
+          ]
+        },
+        "more": {
+          "def": "Right, with no mistakes.",
+          "examples": [
+            "Your answer to the math problem is correct.",
+            "Make sure you have the correct address.",
+            "Is this the correct bus for the zoo?"
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To fix a mistake.",
+          "examples": [
+            "Correct your spelling.",
+            "The teacher corrected my paper.",
+            "I corrected the mistake."
+          ]
+        },
+        "more": {
+          "def": "To change something so that it is right.",
+          "examples": [
+            "Please correct the mistakes in your story.",
+            "The teacher corrected our spelling tests.",
+            "He corrected the date on his paper."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cost",
     "say": "kost",
     "forms": [
@@ -1045,6 +1717,34 @@
             "Grandpa's farm is deep in the country, far from any city.",
             "We love hearing the crickets in the country at night.",
             "A country road wound between the hills."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "county",
+    "say": "KOWN-tee",
+    "forms": [
+      "counties"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of a state.",
+          "examples": [
+            "Our county has a fair.",
+            "I live in this county.",
+            "The county road."
+          ]
+        },
+        "more": {
+          "def": "A section of a state or country that has its own local government.",
+          "examples": [
+            "Our county holds a fair each summer.",
+            "The county road runs past the farm.",
+            "There are fifty counties in the state."
           ]
         }
       }
@@ -1270,6 +1970,35 @@
             "The cover of the book shows a dragon.",
             "Put the cover back on the pool at night.",
             "I pulled the cover up to my chin."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cow",
+    "say": "kow",
+    "emoji": "🐄",
+    "forms": [
+      "cows"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big farm animal that gives milk.",
+          "examples": [
+            "The cow says moo.",
+            "Cows eat grass.",
+            "The cow gives milk."
+          ]
+        },
+        "more": {
+          "def": "A large farm animal that gives milk and is raised for meat.",
+          "examples": [
+            "The cow grazed in the green pasture.",
+            "Farmers milk the cows every morning.",
+            "A cow can eat grass all day."
           ]
         }
       }

@@ -44,6 +44,155 @@
     ]
   },
   {
+    "word": "social",
+    "say": "SOH-shul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About being with other people.",
+          "examples": [
+            "A social club.",
+            "Dogs are social animals.",
+            "Kids are social."
+          ]
+        },
+        "more": {
+          "def": "Having to do with spending time with other people.",
+          "examples": [
+            "Dogs are social animals that like company.",
+            "The school held a social event.",
+            "She joined a social club."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "society",
+    "say": "suh-SY-uh-tee",
+    "forms": [
+      "societies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "People living together.",
+          "examples": [
+            "Society needs rules.",
+            "A kind society.",
+            "People in society help each other."
+          ]
+        },
+        "more": {
+          "def": "All the people who live together in a country or community.",
+          "examples": [
+            "Society needs rules to keep people safe.",
+            "In a kind society, people help each other.",
+            "Libraries are important to society."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A club or group.",
+          "examples": [
+            "He joined a bird society.",
+            "The society meets monthly.",
+            "A reading society."
+          ]
+        },
+        "more": {
+          "def": "A group of people who share an interest and meet together.",
+          "examples": [
+            "She joined the local bird society.",
+            "The history society meets each month.",
+            "The science society hosted a talk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sock",
+    "say": "sok",
+    "emoji": "🧦",
+    "forms": [
+      "socks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft covering for your foot.",
+          "examples": [
+            "Put on your socks.",
+            "I lost a sock.",
+            "My socks are warm."
+          ]
+        },
+        "more": {
+          "def": "A soft piece of clothing worn on the foot inside a shoe.",
+          "examples": [
+            "I put on warm wool socks.",
+            "One of my socks has a hole.",
+            "She pulled the socks over her toes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "soft",
+    "say": "soft",
+    "forms": [
+      "softer",
+      "softest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not hard.",
+          "examples": [
+            "The pillow is soft.",
+            "The kitten is soft.",
+            "The bed is soft."
+          ]
+        },
+        "more": {
+          "def": "Pleasant to touch and not hard.",
+          "examples": [
+            "The kitten's fur is soft.",
+            "The pillow was soft and warm.",
+            "She wrapped the baby in a soft blanket."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Quiet.",
+          "examples": [
+            "She spoke in a soft voice.",
+            "The music is soft.",
+            "A soft sound."
+          ]
+        },
+        "more": {
+          "def": "Not loud; gentle in sound.",
+          "examples": [
+            "The nurse spoke in a soft voice.",
+            "Soft music played in the background.",
+            "A soft knock came at the door."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "soldier",
     "say": "SOHL-jer",
     "forms": [
@@ -101,6 +250,36 @@
     ]
   },
   {
+    "word": "solve",
+    "say": "solv",
+    "forms": [
+      "solves",
+      "solved",
+      "solving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To find the answer.",
+          "examples": [
+            "Solve the puzzle.",
+            "I solved the problem.",
+            "She solves riddles."
+          ]
+        },
+        "more": {
+          "def": "To find the answer to a problem or puzzle.",
+          "examples": [
+            "Solve the puzzle by finding the missing piece.",
+            "I solved the math problem.",
+            "The detective solved the mystery."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "some",
     "say": "sum",
     "senses": [
@@ -151,6 +330,56 @@
     ]
   },
   {
+    "word": "someday",
+    "say": "SUM-day",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "At some time in the future.",
+          "examples": [
+            "I will fly someday.",
+            "Someday I will be a nurse.",
+            "We'll visit Mars someday."
+          ]
+        },
+        "more": {
+          "def": "At a time in the future that is not yet known.",
+          "examples": [
+            "Someday I want to travel to Japan.",
+            "She hopes to be a doctor someday.",
+            "People will walk on Mars someday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "somehow",
+    "say": "SUM-how",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that is not known.",
+          "examples": [
+            "Somehow the cat got in.",
+            "We will fix it somehow.",
+            "Somehow I lost my hat."
+          ]
+        },
+        "more": {
+          "def": "In some way that you do not know or understand.",
+          "examples": [
+            "Somehow the cat got into the closet.",
+            "We will get across the creek somehow.",
+            "She somehow knew it was a surprise party."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "someone",
     "say": "SUM-wun",
     "senses": [
@@ -176,6 +405,31 @@
     ]
   },
   {
+    "word": "someplace",
+    "say": "SUM-plays",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In some place.",
+          "examples": [
+            "I left it someplace.",
+            "Let us go someplace fun.",
+            "Someplace quiet."
+          ]
+        },
+        "more": {
+          "def": "In or to a place that is not named or known.",
+          "examples": [
+            "I left my hat someplace in the house.",
+            "Let's go someplace quiet to read.",
+            "They want to live someplace warm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "something",
     "say": "SUM-thing",
     "senses": [
@@ -195,6 +449,31 @@
             "There is something under the bed, and I think it is the cat.",
             "I would like to learn something new about space.",
             "She whispered something to her friend."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sometime",
+    "say": "SUM-tym",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "At a time that is not named.",
+          "examples": [
+            "Call me sometime.",
+            "Come visit sometime.",
+            "We'll go sometime."
+          ]
+        },
+        "more": {
+          "def": "At a time that is not known or not decided.",
+          "examples": [
+            "Come visit us sometime this summer.",
+            "I lost my glove sometime yesterday.",
+            "We should go to the zoo sometime."
           ]
         }
       }
@@ -478,6 +757,34 @@
             "That plan sounds like a lot of fun.",
             "Your voice sounds hoarse, so you should rest.",
             "The idea sounded silly at first."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "source",
+    "say": "sorss",
+    "forms": [
+      "sources"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Where something comes from.",
+          "examples": [
+            "The sun is the source of light.",
+            "The source of the river.",
+            "The source of the noise."
+          ]
+        },
+        "more": {
+          "def": "The place where something begins or comes from.",
+          "examples": [
+            "The sun is the source of heat and light.",
+            "A spring in the hills is the source of the river.",
+            "We tracked the source of the noise to the attic."
           ]
         }
       }

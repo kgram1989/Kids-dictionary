@@ -25,6 +25,56 @@
     ]
   },
   {
+    "word": "toast",
+    "say": "tohst",
+    "emoji": "🍞",
+    "forms": [
+      "toasts",
+      "toasted",
+      "toasting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Bread cooked until it is brown and crisp.",
+          "examples": [
+            "I eat toast for breakfast.",
+            "Toast with jam.",
+            "The toast popped up."
+          ]
+        },
+        "more": {
+          "def": "Bread that has been heated until it is brown and crisp.",
+          "examples": [
+            "I eat toast with jam for breakfast.",
+            "The toast popped up from the toaster.",
+            "Dad spread butter on the toast."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cook bread until it is brown.",
+          "examples": [
+            "Toast the bread.",
+            "She toasted a bagel.",
+            "He toasts marshmallows."
+          ]
+        },
+        "more": {
+          "def": "To heat bread or other food until it is brown and crisp.",
+          "examples": [
+            "Toast the bread for two minutes.",
+            "We toasted marshmallows over the fire.",
+            "He toasted two slices of bread."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "today",
     "say": "tuh-DAY",
     "senses": [
@@ -75,6 +125,34 @@
     ]
   },
   {
+    "word": "toilet",
+    "say": "TOY-lit",
+    "forms": [
+      "toilets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bowl in the bathroom.",
+          "examples": [
+            "Flush the toilet.",
+            "The toilet is in the bathroom.",
+            "I use the toilet."
+          ]
+        },
+        "more": {
+          "def": "A bowl in the bathroom that people use to get rid of waste.",
+          "examples": [
+            "Please flush the toilet.",
+            "The toilet is down the hall.",
+            "The plumber fixed the toilet."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tomorrow",
     "say": "tuh-MOR-oh",
     "senses": [
@@ -94,6 +172,53 @@
             "Our class is going to the zoo tomorrow.",
             "I will return the library book tomorrow.",
             "Tomorrow will be warm and sunny."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tongue",
+    "say": "tung",
+    "forms": [
+      "tongues"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part in your mouth that helps you taste.",
+          "examples": [
+            "I stuck out my tongue.",
+            "The tongue tastes food.",
+            "My tongue is red."
+          ]
+        },
+        "more": {
+          "def": "The soft part inside the mouth that helps you taste, swallow and speak.",
+          "examples": [
+            "I burned my tongue on the soup.",
+            "A frog catches flies with its long tongue.",
+            "She stuck out her tongue at the doctor."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A language.",
+          "examples": [
+            "She speaks her mother tongue.",
+            "English is his tongue.",
+            "They speak a different tongue."
+          ]
+        },
+        "more": {
+          "def": "The words and speech of a particular people or country.",
+          "examples": [
+            "Spanish is her native tongue.",
+            "He speaks a tongue that few people know.",
+            "They speak the same tongue."
           ]
         }
       }
@@ -295,6 +420,53 @@
     ]
   },
   {
+    "word": "total",
+    "say": "TOH-tul",
+    "forms": [
+      "totals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "All of the numbers added up.",
+          "examples": [
+            "The total is ten.",
+            "What is the total?",
+            "The total was high."
+          ]
+        },
+        "more": {
+          "def": "The whole amount when everything is added together.",
+          "examples": [
+            "The total came to twelve dollars.",
+            "What is the total of five plus seven?",
+            "Our class's total was fifty books."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Whole; complete.",
+          "examples": [
+            "The total cost is ten dollars.",
+            "It was a total surprise.",
+            "There was a total mess."
+          ]
+        },
+        "more": {
+          "def": "Whole, or complete.",
+          "examples": [
+            "The total cost of the trip was fifty dollars.",
+            "The party was a total surprise.",
+            "A total eclipse blocked the sun."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "touch",
     "say": "tuch",
     "emoji": "✋",
@@ -393,6 +565,55 @@
     ]
   },
   {
+    "word": "tour",
+    "say": "toor",
+    "forms": [
+      "tours",
+      "toured",
+      "touring"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A trip to see places.",
+          "examples": [
+            "We took a tour.",
+            "The tour of the museum was fun.",
+            "A tour of the farm."
+          ]
+        },
+        "more": {
+          "def": "A trip in which you visit places and learn about them.",
+          "examples": [
+            "We took a tour of the museum.",
+            "The guide led a tour of the old castle.",
+            "The band went on tour."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To visit places and look around.",
+          "examples": [
+            "We toured the castle.",
+            "She tours the zoo.",
+            "They toured the city."
+          ]
+        },
+        "more": {
+          "def": "To visit and look around a place.",
+          "examples": [
+            "We toured the castle with a guide.",
+            "The class toured the fire station.",
+            "They toured the city by bus."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "town",
     "say": "town",
     "forms": [
@@ -415,6 +636,35 @@
             "Our town has a library, a bakery, and a park.",
             "The whole town came to watch the parade.",
             "We drove into town to buy groceries."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "toy",
+    "say": "toy",
+    "emoji": "🧸",
+    "forms": [
+      "toys"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you play with.",
+          "examples": [
+            "My toy is fun.",
+            "I have a toy car.",
+            "The toy is on the floor."
+          ]
+        },
+        "more": {
+          "def": "An object that children play with.",
+          "examples": [
+            "My favorite toy is a stuffed bear.",
+            "The toy train rolled around the track.",
+            "She put her toys away."
           ]
         }
       }

@@ -83,6 +83,31 @@
     ]
   },
   {
+    "word": "willing",
+    "say": "WIL-ing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Ready to do something.",
+          "examples": [
+            "I am willing to help.",
+            "She is willing to share.",
+            "Are you willing to try?"
+          ]
+        },
+        "more": {
+          "def": "Ready and happy to do something if asked.",
+          "examples": [
+            "I am willing to help with the dishes.",
+            "Are you willing to share your snack?",
+            "She was willing to walk the dog in the rain."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "win",
     "say": "win",
     "forms": [
@@ -222,6 +247,110 @@
     ]
   },
   {
+    "word": "wing",
+    "say": "wing",
+    "emoji": "🪽",
+    "forms": [
+      "wings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of a bird that it flies with.",
+          "examples": [
+            "The bird flapped its wing.",
+            "Bats have wings.",
+            "A bird has two wings."
+          ]
+        },
+        "more": {
+          "def": "A part of a bird, bat or insect that it uses to fly.",
+          "examples": [
+            "The bird flapped its wings and took off.",
+            "Butterflies have colorful wings.",
+            "A bat folds its wings when it rests."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of an airplane.",
+          "examples": [
+            "The plane's wing is long.",
+            "A wing holds the plane up.",
+            "The plane has two wings."
+          ]
+        },
+        "more": {
+          "def": "A flat part that sticks out from the side of an airplane and helps it fly.",
+          "examples": [
+            "The plane's wing glinted in the sun.",
+            "Each wing holds a fuel tank.",
+            "The wings of a jet are long and strong."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "winner",
+    "say": "WIN-er",
+    "forms": [
+      "winners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who wins.",
+          "examples": [
+            "The winner got a prize.",
+            "She is the winner.",
+            "Cheer for the winner."
+          ]
+        },
+        "more": {
+          "def": "A person or team that wins a game or contest.",
+          "examples": [
+            "The winner of the race got a gold medal.",
+            "Our class was the winner of the spelling bee.",
+            "The crowd cheered for the winner."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wire",
+    "say": "wyr",
+    "forms": [
+      "wires"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin metal thread.",
+          "examples": [
+            "The wire is thin.",
+            "A wire runs to the lamp.",
+            "Birds sat on the wire."
+          ]
+        },
+        "more": {
+          "def": "A thin, bendable piece of metal like a thread.",
+          "examples": [
+            "A wire runs from the plug to the lamp.",
+            "Birds sat in a row on the wire.",
+            "The fence was made of wire."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wisdom",
     "say": "WIZ-dum",
     "emoji": "🦉",
@@ -321,6 +450,34 @@
             "Blow out the candles and make a wish.",
             "His wish was to see the ocean one day.",
             "They did their best to grant her wish."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "witch",
+    "say": "wich",
+    "forms": [
+      "witches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A woman in stories who has magic powers.",
+          "examples": [
+            "The witch rode a broom.",
+            "The witch stirred her pot.",
+            "The witch cast a spell."
+          ]
+        },
+        "more": {
+          "def": "In stories, a woman who uses magic spells.",
+          "examples": [
+            "The witch in the story stirred a bubbling pot.",
+            "She dressed as a witch for Halloween.",
+            "The witch flew on her broom."
           ]
         }
       }

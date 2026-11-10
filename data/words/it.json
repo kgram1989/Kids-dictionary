@@ -26,5 +26,30 @@
         }
       }
     ]
+  },
+  {
+    "word": "itself",
+    "say": "it-SELF",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "It, and not something else.",
+          "examples": [
+            "The cat cleans itself.",
+            "The door closed by itself.",
+            "The dog chased itself."
+          ]
+        },
+        "more": {
+          "def": "Used when \"it\" is the one that does something and also gets the action.",
+          "examples": [
+            "The cat licked itself clean.",
+            "The robot vacuum turned itself on.",
+            "The machine turns itself off."
+          ]
+        }
+      }
+    ]
   }
 ]

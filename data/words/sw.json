@@ -50,6 +50,55 @@
     ]
   },
   {
+    "word": "sweat",
+    "say": "swet",
+    "forms": [
+      "sweats",
+      "sweated",
+      "sweating"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Water that comes out of your skin when you are hot.",
+          "examples": [
+            "Sweat ran down my face.",
+            "Sweat keeps you cool.",
+            "He wiped the sweat."
+          ]
+        },
+        "more": {
+          "def": "Salty water that comes out of the skin when you are hot or working hard.",
+          "examples": [
+            "Sweat dripped from the runner's face.",
+            "Sweat helps your body cool down.",
+            "He wiped the sweat from his forehead."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have water come out of your skin.",
+          "examples": [
+            "I sweat when I run.",
+            "He sweated in the sun.",
+            "Dogs do not sweat."
+          ]
+        },
+        "more": {
+          "def": "To give off salty water through the skin when you are hot.",
+          "examples": [
+            "I sweat when I run on a hot day.",
+            "He sweated in the summer sun.",
+            "Runners sweat during a race."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sweet",
     "say": "sweet",
     "emoji": "🍬",
@@ -121,6 +170,194 @@
             "\"Time for bed, sweetheart,\" said Dad.",
             "Grandma calls me sweetheart.",
             "\"Thank you, sweetheart; that was kind,\" said Grandpa."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sweetie",
+    "say": "SWEE-tee",
+    "forms": [
+      "sweeties"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loving name for a child or someone you like.",
+          "examples": [
+            "Time for bed, sweetie.",
+            "Thank you, sweetie.",
+            "Come here, sweetie."
+          ]
+        },
+        "more": {
+          "def": "A loving name for a child or someone you care about.",
+          "examples": [
+            "\"Time for bed, sweetie,\" said Dad.",
+            "Grandma called me sweetie and gave me a hug.",
+            "\"Thank you, sweetie,\" said the neighbor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "swim",
+    "say": "swim",
+    "emoji": "🏊",
+    "forms": [
+      "swims",
+      "swam",
+      "swum",
+      "swimming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move through water using your body.",
+          "examples": [
+            "Fish swim.",
+            "I swim in the pool.",
+            "We swam in the lake."
+          ]
+        },
+        "more": {
+          "def": "To move through water by using your arms, legs or fins.",
+          "examples": [
+            "Fish swim with their fins.",
+            "She learned to swim at the pool.",
+            "We swam across the lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "swing",
+    "say": "swing",
+    "emoji": "🛝",
+    "forms": [
+      "swings",
+      "swung",
+      "swinging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A seat that hangs from ropes.",
+          "examples": [
+            "I love the swing.",
+            "Push me on the swing.",
+            "The swing goes high."
+          ]
+        },
+        "more": {
+          "def": "A seat that hangs from ropes or chains and moves back and forth.",
+          "examples": [
+            "The kids waited their turn on the swing.",
+            "Dad pushed me on the swing.",
+            "A rope swing hung from the tree."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move back and forth.",
+          "examples": [
+            "The door swings.",
+            "I swing on the swing.",
+            "The monkey swings."
+          ]
+        },
+        "more": {
+          "def": "To move back and forth or in a curve while hanging.",
+          "examples": [
+            "The monkey swung from branch to branch.",
+            "The door swung open in the wind.",
+            "She swung the bat and hit the ball."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "switch",
+    "say": "swich",
+    "forms": [
+      "switches",
+      "switched",
+      "switching"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A button that turns something on or off.",
+          "examples": [
+            "Flip the light switch.",
+            "The switch is on the wall.",
+            "Turn the switch."
+          ]
+        },
+        "more": {
+          "def": "A small control that turns a machine or light on or off.",
+          "examples": [
+            "Flip the switch to turn on the lamp.",
+            "The switch on the wall is broken.",
+            "He pressed the switch and the fan started."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To change from one to another.",
+          "examples": [
+            "Let us switch seats.",
+            "She switched hands.",
+            "I switched to blue."
+          ]
+        },
+        "more": {
+          "def": "To change from one thing to another.",
+          "examples": [
+            "Let's switch seats so I can see.",
+            "She switched hands to hold the bag.",
+            "The team switched to a new plan."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sword",
+    "say": "sord",
+    "emoji": "⚔️",
+    "forms": [
+      "swords"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A weapon with a long, sharp blade.",
+          "examples": [
+            "The knight held a sword.",
+            "The sword is sharp.",
+            "He drew his sword."
+          ]
+        },
+        "more": {
+          "def": "A weapon with a long metal blade and a handle.",
+          "examples": [
+            "The knight held up his sword.",
+            "A sword hung on the castle wall.",
+            "Long ago, soldiers fought with swords."
           ]
         }
       }

@@ -30,6 +30,53 @@
     ]
   },
   {
+    "word": "grade",
+    "say": "grayd",
+    "forms": [
+      "grades"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A year of school.",
+          "examples": [
+            "I am in third grade.",
+            "She is in fifth grade.",
+            "My brother is in first grade."
+          ]
+        },
+        "more": {
+          "def": "A level or year in school.",
+          "examples": [
+            "I am in the third grade.",
+            "My sister is in fifth grade.",
+            "Our school has grades one through five."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mark on schoolwork.",
+          "examples": [
+            "I got a good grade.",
+            "He got an A grade.",
+            "Her grade was high."
+          ]
+        },
+        "more": {
+          "def": "A letter or number that shows how well you did.",
+          "examples": [
+            "She got a good grade on the spelling test.",
+            "He worked hard to raise his grade.",
+            "A grade of A is the best."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "grand",
     "say": "grand",
     "forms": [
@@ -53,6 +100,62 @@
             "The king lived in a grand castle.",
             "They held a grand party for the whole town.",
             "The theater has a grand staircase."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grandma",
+    "say": "GRAN-mah",
+    "forms": [
+      "grandmas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Your mother's or father's mother.",
+          "examples": [
+            "Grandma bakes cookies.",
+            "I visit my grandma.",
+            "Grandma reads to me."
+          ]
+        },
+        "more": {
+          "def": "The mother of your mother or father.",
+          "examples": [
+            "My grandma tells great stories.",
+            "We spent the weekend at Grandma's house.",
+            "Both of my grandmas live nearby."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grandpa",
+    "say": "GRAN-pah",
+    "forms": [
+      "grandpas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Your mother's or father's father.",
+          "examples": [
+            "Grandpa fishes with me.",
+            "I visit my grandpa.",
+            "Grandpa tells jokes."
+          ]
+        },
+        "more": {
+          "def": "The father of your mother or father.",
+          "examples": [
+            "My grandpa taught me to fish.",
+            "We spent the weekend at Grandpa's house.",
+            "Both of my grandpas live nearby."
           ]
         }
       }
@@ -85,6 +188,53 @@
     ]
   },
   {
+    "word": "grave",
+    "say": "grayv",
+    "forms": [
+      "graves"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place in the ground where someone is buried.",
+          "examples": [
+            "The grave is quiet.",
+            "We put flowers on the grave.",
+            "She visited her great-grandfather's grave."
+          ]
+        },
+        "more": {
+          "def": "A hole in the ground, or a place, where a dead person is buried.",
+          "examples": [
+            "Children placed flowers at the grave.",
+            "The old graves were marked with stones.",
+            "She visited her grandfather's grave."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very serious.",
+          "examples": [
+            "The news was grave.",
+            "He gave a grave look.",
+            "The doctor looked grave."
+          ]
+        },
+        "more": {
+          "def": "Very serious or important.",
+          "examples": [
+            "The news of the storm was grave.",
+            "The captain gave a grave look.",
+            "The doctor spoke in a grave voice."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "gravity",
     "say": "GRAV-ih-tee",
     "emoji": "🍎",
@@ -105,6 +255,55 @@
             "Because of gravity, a dropped pencil always falls to the floor.",
             "Gravity pulls the rain down from the clouds.",
             "There is less gravity on the moon than on Earth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gray",
+    "say": "gray",
+    "emoji": "🩶",
+    "forms": [
+      "grayer",
+      "grayest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "The color between black and white.",
+          "examples": [
+            "The cloud is gray.",
+            "My cat is gray.",
+            "The elephant is gray."
+          ]
+        },
+        "more": {
+          "def": "Having the color between black and white, like a rain cloud.",
+          "examples": [
+            "The sky was gray before the storm.",
+            "A gray squirrel ran up the tree.",
+            "Grandpa has gray hair."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The color between black and white.",
+          "examples": [
+            "Gray is a dull color.",
+            "Mix black and white to make gray.",
+            "The sky turned to gray."
+          ]
+        },
+        "more": {
+          "def": "The color that is made by mixing black and white.",
+          "examples": [
+            "Gray is what you get when black meets white.",
+            "The artist painted the storm clouds in gray.",
+            "The sea was a flat gray."
           ]
         }
       }

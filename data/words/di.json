@@ -1,5 +1,72 @@
 [
   {
+    "word": "diamond",
+    "say": "DY-mund",
+    "emoji": "💎",
+    "forms": [
+      "diamonds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A clear, hard jewel.",
+          "examples": [
+            "The ring has a diamond.",
+            "A diamond sparkles.",
+            "The diamond is clear."
+          ]
+        },
+        "more": {
+          "def": "A very hard, clear jewel that sparkles in light.",
+          "examples": [
+            "His ring was set with a diamond.",
+            "A diamond is the hardest natural material.",
+            "The crown was covered in diamonds."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shape with four sides like a tilted square.",
+          "examples": [
+            "Draw a diamond.",
+            "The kite is a diamond.",
+            "The sign is a diamond."
+          ]
+        },
+        "more": {
+          "def": "A shape with four equal sides that looks like a tilted square.",
+          "examples": [
+            "The kite was shaped like a diamond.",
+            "Draw a diamond on your paper.",
+            "The road sign was a yellow diamond."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The field in baseball.",
+          "examples": [
+            "Players ran onto the diamond.",
+            "The diamond has four bases.",
+            "The pitcher stands on the diamond."
+          ]
+        },
+        "more": {
+          "def": "The inside part of a baseball field, marked by four bases.",
+          "examples": [
+            "The players ran onto the diamond.",
+            "The pitcher stood in the middle of the diamond.",
+            "Fans watched from behind the diamond."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "die",
     "say": "dy",
     "forms": [
@@ -166,6 +233,149 @@
     ]
   },
   {
+    "word": "direct",
+    "say": "dih-REKT",
+    "forms": [
+      "directs",
+      "directed",
+      "directing"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Straight, with no stops.",
+          "examples": [
+            "We took a direct route.",
+            "A direct flight.",
+            "It is a direct line."
+          ]
+        },
+        "more": {
+          "def": "Going straight without turns or stops.",
+          "examples": [
+            "We took the direct road to the beach.",
+            "There is a direct flight to Texas.",
+            "The path is direct and flat."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To show the way.",
+          "examples": [
+            "The guard directed us.",
+            "Direct traffic.",
+            "She directs the play."
+          ]
+        },
+        "more": {
+          "def": "To show the way or tell people what to do.",
+          "examples": [
+            "The police officer directed traffic.",
+            "She directed the play.",
+            "He directed us to the library."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "direction",
+    "say": "dih-REK-shun",
+    "forms": [
+      "directions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way something goes.",
+          "examples": [
+            "Which direction is the park?",
+            "Go in that direction.",
+            "The wind changed direction."
+          ]
+        },
+        "more": {
+          "def": "The path or way that something goes or faces.",
+          "examples": [
+            "Which direction should we hike?",
+            "The wind changed direction during the storm.",
+            "We walked in the direction of the lake."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Instructions.",
+          "examples": [
+            "Read the directions.",
+            "Follow the directions.",
+            "She gave me directions."
+          ]
+        },
+        "more": {
+          "def": "Words that tell you how to do something or how to get somewhere.",
+          "examples": [
+            "Read the directions before you begin.",
+            "She gave us directions to the library.",
+            "Follow the directions on the box."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "director",
+    "say": "dih-REK-ter",
+    "forms": [
+      "directors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who leads a play or movie.",
+          "examples": [
+            "The director told the actors what to do.",
+            "The director shouted, \"Action!\"",
+            "The play director smiled."
+          ]
+        },
+        "more": {
+          "def": "A person who guides actors and makes a play or movie.",
+          "examples": [
+            "The director told the actors where to stand.",
+            "The film director yelled, \"Cut!\"",
+            "Our play director gave us notes."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person in charge of a group.",
+          "examples": [
+            "The museum director gave a talk.",
+            "The camp director welcomed us.",
+            "The director is kind."
+          ]
+        },
+        "more": {
+          "def": "A person who is in charge of a group, school or organization.",
+          "examples": [
+            "The director of the museum gave a tour.",
+            "The camp director welcomed all the kids.",
+            "The orchestra director raised her baton."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dirty",
     "say": "DER-tee",
     "forms": [
@@ -317,6 +527,34 @@
     ]
   },
   {
+    "word": "disease",
+    "say": "dih-ZEEZ",
+    "forms": [
+      "diseases"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An illness.",
+          "examples": [
+            "The disease spread.",
+            "Measles is a disease.",
+            "The doctor treats disease."
+          ]
+        },
+        "more": {
+          "def": "An illness that makes a person, animal or plant sick.",
+          "examples": [
+            "Measles is a disease that spreads easily.",
+            "Washing your hands helps stop disease.",
+            "The tree died of a disease."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "distance",
     "say": "DIS-tunss",
     "emoji": "📏",
@@ -340,6 +578,34 @@
             "The distance between our town and the ocean is two hundred miles.",
             "The runners trained to race a distance of five miles.",
             "From a distance, the two houses look exactly the same."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "divorce",
+    "say": "dih-VORSS",
+    "forms": [
+      "divorces"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When two married people end their marriage.",
+          "examples": [
+            "His parents got a divorce.",
+            "A divorce can be hard.",
+            "Her parents had a divorce."
+          ]
+        },
+        "more": {
+          "def": "The legal ending of a marriage.",
+          "examples": [
+            "His parents got a divorce last year.",
+            "A divorce can be hard for a family.",
+            "The judge granted the divorce."
           ]
         }
       }

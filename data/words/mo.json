@@ -1,5 +1,52 @@
 [
   {
+    "word": "model",
+    "say": "MOD-ul",
+    "forms": [
+      "models"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small copy of something.",
+          "examples": [
+            "I built a model of a ship.",
+            "The model car is small.",
+            "He made a model airplane."
+          ]
+        },
+        "more": {
+          "def": "A small copy of a real thing, often to show how it looks or works.",
+          "examples": [
+            "The model house had a tiny door.",
+            "The class made a model of the solar system.",
+            "He glued a model airplane together."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who shows clothes.",
+          "examples": [
+            "The model wore a dress.",
+            "Models walk on the stage.",
+            "She is a model."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to wear clothes to show them to others.",
+          "examples": [
+            "The model wore a bright red coat.",
+            "Models walked down the long stage.",
+            "She worked as a model for a clothing store."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "moist",
     "say": "moyst",
     "senses": [
@@ -163,6 +210,64 @@
     ]
   },
   {
+    "word": "monkey",
+    "say": "MUNG-kee",
+    "emoji": "🐒",
+    "forms": [
+      "monkeys"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal with long arms and a tail that climbs.",
+          "examples": [
+            "The monkey climbed the tree.",
+            "A monkey ate a banana.",
+            "Monkeys swing from branches."
+          ]
+        },
+        "more": {
+          "def": "A furry animal with long arms and a tail that climbs trees.",
+          "examples": [
+            "The monkey swung from branch to branch.",
+            "Monkeys live in warm forests.",
+            "A monkey peeled a banana at the zoo."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "monster",
+    "say": "MON-ster",
+    "emoji": "👹",
+    "forms": [
+      "monsters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A scary make-believe creature.",
+          "examples": [
+            "The monster in the book was funny.",
+            "He drew a monster.",
+            "The monster had three eyes."
+          ]
+        },
+        "more": {
+          "def": "A large, scary creature in stories.",
+          "examples": [
+            "The monster in the story turned out to be friendly.",
+            "She drew a purple monster with three eyes.",
+            "The children dressed as monsters for the party."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "month",
     "say": "munth",
     "forms": [
@@ -185,6 +290,82 @@
             "June is the first month of summer.",
             "My grandparents visit once a month.",
             "It rained almost every day this month."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mood",
+    "say": "mood",
+    "forms": [
+      "moods"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way you feel at a time.",
+          "examples": [
+            "I am in a good mood.",
+            "Dad is in a happy mood.",
+            "She was in a bad mood."
+          ]
+        },
+        "more": {
+          "def": "The way a person feels at a certain time.",
+          "examples": [
+            "I'm in a cheerful mood today.",
+            "Dad was in a good mood after the game.",
+            "The rainy day put her in a quiet mood."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "moon",
+    "say": "moon",
+    "emoji": "🌙",
+    "forms": [
+      "moons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The big round light in the night sky.",
+          "examples": [
+            "The moon is bright.",
+            "I see the moon.",
+            "The moon goes around the Earth."
+          ]
+        },
+        "more": {
+          "def": "The large ball of rock that travels around the Earth and shines at night.",
+          "examples": [
+            "The full moon lit up the whole yard.",
+            "Astronauts have walked on the moon.",
+            "The moon takes about a month to go around the Earth."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A smaller body that circles a planet.",
+          "examples": [
+            "Jupiter has many moons.",
+            "Mars has two moons.",
+            "A moon goes around a planet."
+          ]
+        },
+        "more": {
+          "def": "A natural body that travels around a planet.",
+          "examples": [
+            "Jupiter has dozens of moons.",
+            "Mars has two small moons.",
+            "Scientists study the moons of Saturn."
           ]
         }
       }

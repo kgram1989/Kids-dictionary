@@ -49,6 +49,55 @@
     ]
   },
   {
+    "word": "slip",
+    "say": "slip",
+    "forms": [
+      "slips",
+      "slipped",
+      "slipping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To slide by accident.",
+          "examples": [
+            "Do not slip on the ice.",
+            "He slipped on the wet floor.",
+            "The soap slipped from my hand."
+          ]
+        },
+        "more": {
+          "def": "To slide by accident and almost fall, or to slide out of place.",
+          "examples": [
+            "Be careful not to slip on the icy steps.",
+            "The cup slipped out of my wet hands.",
+            "She slipped on a banana peel in the cartoon."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move quietly.",
+          "examples": [
+            "She slipped out the door.",
+            "The cat slipped into the room.",
+            "He slipped away."
+          ]
+        },
+        "more": {
+          "def": "To move quietly or without being noticed.",
+          "examples": [
+            "The cat slipped through the open door.",
+            "She slipped a note into his bag.",
+            "We slipped out of the room as the baby slept."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "slippery",
     "say": "SLIP-uh-ree",
     "emoji": "🧊",

@@ -78,6 +78,31 @@
     ]
   },
   {
+    "word": "safety",
+    "say": "SAYF-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being safe from harm.",
+          "examples": [
+            "Wear a helmet for safety.",
+            "Safety first!",
+            "The safety of children."
+          ]
+        },
+        "more": {
+          "def": "The state of being safe from danger or harm.",
+          "examples": [
+            "A helmet is important for safety.",
+            "The lifeguard checks the safety of swimmers.",
+            "The firefighters led us to safety."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sake",
     "say": "sayk",
     "senses": [
@@ -103,6 +128,53 @@
     ]
   },
   {
+    "word": "sale",
+    "say": "sayl",
+    "forms": [
+      "sales"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Selling something.",
+          "examples": [
+            "The sale of the house.",
+            "The store made a sale.",
+            "The sale of the toy."
+          ]
+        },
+        "more": {
+          "def": "The act of selling something.",
+          "examples": [
+            "The sale of the old house took a month.",
+            "The store made a big sale today.",
+            "We held a bake sale."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A time when things cost less.",
+          "examples": [
+            "There is a sale at the shoe store.",
+            "The toys are on sale.",
+            "Coats are on sale."
+          ]
+        },
+        "more": {
+          "def": "A time when a shop sells things at lower prices.",
+          "examples": [
+            "There is a sale at the shoe store this weekend.",
+            "Winter boots are on sale this week.",
+            "Winter coats go on sale in March."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "same",
     "say": "saym",
     "senses": [
@@ -122,6 +194,64 @@
             "The twins wore the same coat to school.",
             "Two plus two is the same as one plus three.",
             "We go to the same park every Saturday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sandwich",
+    "say": "SAND-wich",
+    "emoji": "🥪",
+    "forms": [
+      "sandwiches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Two slices of bread with food in between.",
+          "examples": [
+            "I ate a sandwich.",
+            "Peanut butter sandwich.",
+            "Mom made a sandwich."
+          ]
+        },
+        "more": {
+          "def": "Two slices of bread with food such as meat, cheese or jam between them.",
+          "examples": [
+            "I packed a cheese sandwich for lunch.",
+            "She made a peanut butter sandwich.",
+            "Dad cut the sandwich in half."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "Saturday",
+    "say": "SAT-er-day",
+    "emoji": "📅",
+    "forms": [
+      "Saturdays"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The day after Friday.",
+          "examples": [
+            "We play on Saturday.",
+            "Saturday is the weekend.",
+            "I sleep late on Saturday."
+          ]
+        },
+        "more": {
+          "def": "The day of the week that comes after Friday and before Sunday.",
+          "examples": [
+            "We go to the market on Saturday.",
+            "There is no school on Saturday.",
+            "My soccer game is on Saturday morning."
           ]
         }
       }

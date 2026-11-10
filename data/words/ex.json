@@ -56,6 +56,59 @@
     ]
   },
   {
+    "word": "example",
+    "say": "ig-ZAM-pul",
+    "forms": [
+      "examples"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One thing that shows what others are like.",
+          "examples": [
+            "Give me an example.",
+            "A dog is an example of a pet.",
+            "This is a good example."
+          ]
+        },
+        "more": {
+          "def": "One thing that shows what a group of things is like.",
+          "examples": [
+            "A cat is an example of a pet.",
+            "Can you give an example of a mammal?",
+            "The teacher showed an example of a good story."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "excellent",
+    "say": "EK-suh-lunt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very, very good.",
+          "examples": [
+            "You did an excellent job.",
+            "The food was excellent.",
+            "She is an excellent swimmer."
+          ]
+        },
+        "more": {
+          "def": "Extremely good; better than most.",
+          "examples": [
+            "You did an excellent job on your project.",
+            "The restaurant has excellent soup.",
+            "He is an excellent chess player."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "except",
     "say": "ik-SEPT",
     "senses": [
@@ -75,6 +128,56 @@
             "Everyone in the class went on the trip except Jo, who was sick.",
             "All of the animals, except the lions, were awake.",
             "The library is open every day except Sunday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "excited",
+    "say": "ik-SY-tid",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very happy and full of energy.",
+          "examples": [
+            "I am excited for my birthday.",
+            "The kids were excited.",
+            "She felt excited."
+          ]
+        },
+        "more": {
+          "def": "Feeling very happy and eager about something.",
+          "examples": [
+            "We were excited about the trip to the zoo.",
+            "The excited puppy wagged its tail.",
+            "She was excited to start school."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "exciting",
+    "say": "ik-SY-ting",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making you feel very happy and eager.",
+          "examples": [
+            "The game was exciting.",
+            "An exciting day.",
+            "What an exciting story!"
+          ]
+        },
+        "more": {
+          "def": "Causing strong feelings of interest or joy.",
+          "examples": [
+            "The last minute of the game was exciting.",
+            "We went on an exciting trip.",
+            "She read an exciting story about a pirate."
           ]
         }
       }
@@ -151,6 +254,36 @@
             "After the race, the exhausted runners lay down on the grass.",
             "The exhausted hikers finally reached their camp.",
             "I was exhausted from staying up too late."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "exist",
+    "say": "ig-ZIST",
+    "forms": [
+      "exists",
+      "existed",
+      "existing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be real.",
+          "examples": [
+            "Dinosaurs existed long ago.",
+            "Dragons do not exist.",
+            "Unicorns do not exist."
+          ]
+        },
+        "more": {
+          "def": "To be real, or to be alive.",
+          "examples": [
+            "Dinosaurs existed millions of years ago.",
+            "Dragons do not exist outside of stories.",
+            "Life exists on Earth."
           ]
         }
       }
@@ -259,6 +392,34 @@
             "Our science experiment showed that plants grow toward light.",
             "The scientist repeated the experiment to check her results.",
             "As an experiment, we tried baking the bread without sugar."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "expert",
+    "say": "EK-spert",
+    "forms": [
+      "experts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who knows a lot about something.",
+          "examples": [
+            "He is a bird expert.",
+            "The expert fixed it.",
+            "She is a math expert."
+          ]
+        },
+        "more": {
+          "def": "A person who has special skill or knows a lot about a subject.",
+          "examples": [
+            "The bird expert identified the song.",
+            "An expert fixed the broken clock.",
+            "She is an expert at chess."
           ]
         }
       }

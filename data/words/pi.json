@@ -99,6 +99,35 @@
     ]
   },
   {
+    "word": "pie",
+    "say": "py",
+    "emoji": "🥧",
+    "forms": [
+      "pies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A baked treat with a crust and filling.",
+          "examples": [
+            "I ate apple pie.",
+            "We bake a pie.",
+            "The pie is hot."
+          ]
+        },
+        "more": {
+          "def": "A baked food with a pastry crust and a sweet or salty filling.",
+          "examples": [
+            "Grandma baked an apple pie.",
+            "We had pumpkin pie after dinner.",
+            "The pie cooled on the windowsill."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "piece",
     "say": "peess",
     "emoji": "🧩",
@@ -141,6 +170,169 @@
             "The orchestra played a lovely piece by a famous composer.",
             "The student read a short piece of her writing to the class.",
             "He painted a piece for the school gallery."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pig",
+    "say": "pig",
+    "emoji": "🐷",
+    "forms": [
+      "pigs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A farm animal with a curly tail.",
+          "examples": [
+            "The pig rolled in mud.",
+            "Pigs oink.",
+            "A pig lives on the farm."
+          ]
+        },
+        "more": {
+          "def": "A farm animal with a round body, short legs, a curly tail and a flat nose.",
+          "examples": [
+            "The pig rolled in the mud to keep cool.",
+            "Farmers raise pigs for food.",
+            "A pig can run faster than you might think."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pill",
+    "say": "pil",
+    "forms": [
+      "pills"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small tablet of medicine.",
+          "examples": [
+            "He took a pill.",
+            "The pill is small.",
+            "Swallow the pill with water."
+          ]
+        },
+        "more": {
+          "def": "A small, hard piece of medicine that you swallow.",
+          "examples": [
+            "He took a pill with a glass of water.",
+            "The pill helped stop her headache.",
+            "The doctor gave me a pill for my cough."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pilot",
+    "say": "PY-lut",
+    "forms": [
+      "pilots"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who flies a plane.",
+          "examples": [
+            "The pilot flew the plane.",
+            "My uncle is a pilot.",
+            "The pilot said hello."
+          ]
+        },
+        "more": {
+          "def": "A person who flies an airplane or other aircraft.",
+          "examples": [
+            "The pilot announced the weather.",
+            "My uncle is a pilot for an airline.",
+            "The pilot landed the plane safely."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pink",
+    "say": "pink",
+    "emoji": "🩷",
+    "forms": [
+      "pinker",
+      "pinkest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Light red.",
+          "examples": [
+            "The flower is pink.",
+            "She wears a pink dress.",
+            "A pink balloon."
+          ]
+        },
+        "more": {
+          "def": "Having a light red color, like cotton candy.",
+          "examples": [
+            "The sunset turned the sky pink.",
+            "She wore a pink ribbon in her hair.",
+            "The pink flowers bloomed in spring."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The color light red.",
+          "examples": [
+            "Pink is my favorite color.",
+            "Mix red and white for pink.",
+            "The walls are painted pink."
+          ]
+        },
+        "more": {
+          "def": "A light red color made by mixing red and white.",
+          "examples": [
+            "Mix red and white to make pink.",
+            "The sky glowed in shades of pink.",
+            "Pink is a soft color."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pizza",
+    "say": "PEET-suh",
+    "emoji": "🍕",
+    "forms": [
+      "pizzas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round, flat bread with cheese and tomato.",
+          "examples": [
+            "I love pizza.",
+            "We ate pizza for dinner.",
+            "The pizza is hot."
+          ]
+        },
+        "more": {
+          "def": "A flat, round bread baked with tomato sauce, cheese and other toppings.",
+          "examples": [
+            "We ordered a pizza with cheese.",
+            "Pizza is baked in a hot oven.",
+            "She added mushrooms to her pizza."
           ]
         }
       }

@@ -1,5 +1,30 @@
 [
   {
+    "word": "apart",
+    "say": "uh-PART",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Away from each other.",
+          "examples": [
+            "The two houses are far apart.",
+            "Pull the pieces apart.",
+            "The dogs were kept apart."
+          ]
+        },
+        "more": {
+          "def": "In pieces or away from each other.",
+          "examples": [
+            "The farms on this road are miles apart.",
+            "The toy fell apart when I picked it up.",
+            "The twins sat apart on the bench."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "apartment",
     "say": "uh-PART-munt",
     "forms": [
@@ -107,6 +132,63 @@
     ]
   },
   {
+    "word": "apple",
+    "say": "AP-ul",
+    "emoji": "🍎",
+    "forms": [
+      "apples"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round fruit that is red, green or yellow.",
+          "examples": [
+            "I ate an apple.",
+            "The apple is red.",
+            "Apples grow on trees."
+          ]
+        },
+        "more": {
+          "def": "A round, crisp fruit that grows on trees.",
+          "examples": [
+            "She picked a red apple from the tree.",
+            "Apple pie is my favorite dessert.",
+            "A worm crawled out of the apple."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "appointment",
+    "say": "uh-POYNT-munt",
+    "forms": [
+      "appointments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A set time to meet someone.",
+          "examples": [
+            "I have a dentist appointment.",
+            "Mom has an appointment at two.",
+            "We made an appointment."
+          ]
+        },
+        "more": {
+          "def": "A planned time to meet someone, especially a doctor or other worker.",
+          "examples": [
+            "I have a dentist appointment on Monday.",
+            "Mom made an appointment at the hair salon.",
+            "The vet could see us at our appointment."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "appreciate",
     "say": "uh-PREE-shee-ayt",
     "forms": [
@@ -131,6 +213,55 @@
             "I really appreciate your help with my homework.",
             "She appreciated the cool shade on the hot day.",
             "We appreciate the hard work of the volunteers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "approach",
+    "say": "uh-PROHCH",
+    "forms": [
+      "approaches",
+      "approached",
+      "approaching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To come close.",
+          "examples": [
+            "The train approaches.",
+            "Do not approach the horse.",
+            "He approached the door."
+          ]
+        },
+        "more": {
+          "def": "To come near to someone or something.",
+          "examples": [
+            "The train approached the station.",
+            "The deer slowly approached the stream.",
+            "Do not approach a strange dog."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way of doing something.",
+          "examples": [
+            "I have a new approach.",
+            "Her approach to math is fun.",
+            "A good approach is to ask."
+          ]
+        },
+        "more": {
+          "def": "A way of dealing with something.",
+          "examples": [
+            "She has a fun approach to teaching math.",
+            "A good approach is to ask for help.",
+            "We tried a new approach to the puzzle."
           ]
         }
       }

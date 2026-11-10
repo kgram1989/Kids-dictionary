@@ -1,5 +1,35 @@
 [
   {
+    "word": "scare",
+    "say": "skair",
+    "forms": [
+      "scares",
+      "scared",
+      "scaring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone afraid.",
+          "examples": [
+            "The loud noise scared me.",
+            "Do not scare the cat.",
+            "The ghost story scares him."
+          ]
+        },
+        "more": {
+          "def": "To make a person or animal feel afraid.",
+          "examples": [
+            "The thunder scared the puppy.",
+            "Don't scare the birds away.",
+            "The movie scared the little kids."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scared",
     "say": "skaird",
     "emoji": "😨",
@@ -103,6 +133,34 @@
     ]
   },
   {
+    "word": "schedule",
+    "say": "SKEJ-ool",
+    "forms": [
+      "schedules"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A list of times for things.",
+          "examples": [
+            "The bus schedule is here.",
+            "Check the schedule.",
+            "Our schedule is busy."
+          ]
+        },
+        "more": {
+          "def": "A list that shows when things will happen.",
+          "examples": [
+            "The bus schedule shows when the next bus comes.",
+            "Check the schedule to see when the game starts.",
+            "Our class has a busy schedule on Fridays."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "school",
     "say": "skool",
     "forms": [
@@ -125,6 +183,129 @@
             "Our school has a library, a gym, and a garden.",
             "The school bus picks us up at the corner.",
             "She goes to school five days a week."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "science",
+    "say": "SY-unss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Learning about the world by testing ideas.",
+          "examples": [
+            "I like science class.",
+            "Science is fun.",
+            "We do science tests."
+          ]
+        },
+        "more": {
+          "def": "The study of how the world works, using careful tests and observation.",
+          "examples": [
+            "We learned about volcanoes in science class.",
+            "Science helps us understand weather.",
+            "She wants to study science when she grows up."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "score",
+    "say": "skor",
+    "forms": [
+      "scores",
+      "scored",
+      "scoring"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The number of points in a game.",
+          "examples": [
+            "The score is two to one.",
+            "What is the score?",
+            "Our team has a high score."
+          ]
+        },
+        "more": {
+          "def": "The number of points a person or team has in a game.",
+          "examples": [
+            "The score was tied at three.",
+            "What was the score of the game?",
+            "She got a perfect score on the test."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get a point.",
+          "examples": [
+            "I scored a goal.",
+            "She scores in every game.",
+            "He scored a run."
+          ]
+        },
+        "more": {
+          "def": "To get a point or points in a game.",
+          "examples": [
+            "She scored two goals in the soccer game.",
+            "He scored the winning run.",
+            "Our team scored in the last minute."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scratch",
+    "say": "skrach",
+    "forms": [
+      "scratches",
+      "scratched",
+      "scratching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rub with your nails.",
+          "examples": [
+            "I scratch my arm.",
+            "The cat scratched the chair.",
+            "The dog scratches its ear."
+          ]
+        },
+        "more": {
+          "def": "To rub or scrape something with fingernails or claws.",
+          "examples": [
+            "The cat scratched the couch.",
+            "The dog scratched its ear.",
+            "I scratched the itchy bite."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin mark or small cut.",
+          "examples": [
+            "There is a scratch on the car.",
+            "I have a scratch on my arm.",
+            "The cat left a scratch."
+          ]
+        },
+        "more": {
+          "def": "A thin mark or shallow cut made by something sharp.",
+          "examples": [
+            "There is a scratch on the car door.",
+            "The thorn left a scratch on my arm.",
+            "The cat left a scratch on the table."
           ]
         }
       }

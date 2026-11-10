@@ -172,6 +172,99 @@
     ]
   },
   {
+    "word": "faith",
+    "say": "fayth",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Trust in someone or something.",
+          "examples": [
+            "I have faith in you.",
+            "She has faith in her friend.",
+            "He has faith it will work."
+          ]
+        },
+        "more": {
+          "def": "A strong trust or belief in someone or something.",
+          "examples": [
+            "I have faith that you can do it.",
+            "She has faith in her team.",
+            "He lost faith in the old map."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A religion.",
+          "examples": [
+            "Many faiths are in the world.",
+            "They share the same faith.",
+            "People of all faiths came."
+          ]
+        },
+        "more": {
+          "def": "A religion, or a strong belief in God.",
+          "examples": [
+            "People of many faiths live in our city.",
+            "Her faith is important to her.",
+            "The festival is part of her faith."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fake",
+    "say": "fayk",
+    "forms": [
+      "fakes",
+      "faked",
+      "faking"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not real.",
+          "examples": [
+            "The snake is fake.",
+            "She wore a fake mustache.",
+            "The flowers are fake."
+          ]
+        },
+        "more": {
+          "def": "Made to look real, but not real.",
+          "examples": [
+            "The fake flowers never need water.",
+            "He wore a fake mustache for the play.",
+            "The snake in the box was fake."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pretend.",
+          "examples": [
+            "He faked a cough.",
+            "She fakes a smile.",
+            "I faked being asleep."
+          ]
+        },
+        "more": {
+          "def": "To pretend that something is real or true.",
+          "examples": [
+            "He faked a cough to get out of the test.",
+            "The player faked a pass and ran the other way.",
+            "She faked a smile so no one would worry."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fall",
     "say": "fawl",
     "emoji": "🍂",
@@ -302,6 +395,108 @@
     ]
   },
   {
+    "word": "fan",
+    "say": "fan",
+    "emoji": "🪭",
+    "forms": [
+      "fans"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that moves air.",
+          "examples": [
+            "The fan keeps me cool.",
+            "Turn on the fan.",
+            "The fan is loud."
+          ]
+        },
+        "more": {
+          "def": "A machine or object that moves the air to make a breeze.",
+          "examples": [
+            "A fan cooled the stuffy room.",
+            "She waved a paper fan on the hot day.",
+            "The ceiling fan spun slowly."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who loves a team or a star.",
+          "examples": [
+            "I am a fan of that team.",
+            "He is a big fan of pizza.",
+            "The fans cheered."
+          ]
+        },
+        "more": {
+          "def": "A person who likes a sport, a team or a performer very much.",
+          "examples": [
+            "The fans cheered when our team scored.",
+            "She is a big fan of that singer.",
+            "My brother is a fan of dinosaurs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fancy",
+    "say": "FAN-see",
+    "forms": [
+      "fancier",
+      "fanciest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Special and not plain.",
+          "examples": [
+            "She wore a fancy dress.",
+            "The cake looks fancy.",
+            "A fancy hat."
+          ]
+        },
+        "more": {
+          "def": "Special and decorated, not plain.",
+          "examples": [
+            "She wore a fancy dress to the party.",
+            "The cake had fancy sugar flowers.",
+            "The fancy restaurant had gold chairs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fantastic",
+    "say": "fan-TAS-tik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very, very good.",
+          "examples": [
+            "We had a fantastic day.",
+            "The show was fantastic.",
+            "A fantastic idea."
+          ]
+        },
+        "more": {
+          "def": "Wonderful or amazing.",
+          "examples": [
+            "We had a fantastic time at the beach.",
+            "The magic show was fantastic.",
+            "She came up with a fantastic idea."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "far",
     "say": "far",
     "senses": [
@@ -340,6 +535,56 @@
             "We could see a boat on the far side of the lake.",
             "The explorers traveled to a far country.",
             "The shop is at the far end of the street."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "farm",
+    "say": "farm",
+    "emoji": "🚜",
+    "forms": [
+      "farms",
+      "farmed",
+      "farming"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Land where animals and crops are raised.",
+          "examples": [
+            "Cows live on the farm.",
+            "The farm grows corn.",
+            "We visited a farm."
+          ]
+        },
+        "more": {
+          "def": "Land where people grow crops or raise animals for food.",
+          "examples": [
+            "Cows and chickens live on the farm.",
+            "The farm grows corn and beans.",
+            "Our class visited a farm in the fall."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To grow crops or raise animals.",
+          "examples": [
+            "They farm the land.",
+            "He farms corn.",
+            "She farmed for years."
+          ]
+        },
+        "more": {
+          "def": "To work the land growing crops or raising animals.",
+          "examples": [
+            "They farm the land in the valley.",
+            "He farms corn and wheat.",
+            "Her family has farmed here for generations."
           ]
         }
       }
