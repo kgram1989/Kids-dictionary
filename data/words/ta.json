@@ -1,5 +1,36 @@
 [
   {
+    "word": "take",
+    "say": "tayk",
+    "forms": [
+      "takes",
+      "took",
+      "taken",
+      "taking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get hold of something and bring it along.",
+          "examples": [
+            "Take your hat.",
+            "I took my book to school.",
+            "She takes the dog out."
+          ]
+        },
+        "more": {
+          "def": "To carry something with you, or to grab or accept something.",
+          "examples": [
+            "Please take an umbrella because it might rain.",
+            "He took a cookie from the plate on the counter.",
+            "I will take you to the museum on Saturday."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "talent",
     "say": "TAL-unt",
     "emoji": "🎤",
@@ -23,6 +54,36 @@
             "His talent for drawing was clear even when he was little.",
             "She showed her talent at the piano concert.",
             "He has a real talent for making people laugh."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "talk",
+    "say": "tawk",
+    "forms": [
+      "talks",
+      "talked",
+      "talking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say words to someone.",
+          "examples": [
+            "I talk to my friend.",
+            "She talks a lot.",
+            "We talked on the phone."
+          ]
+        },
+        "more": {
+          "def": "To speak with someone and share thoughts or ideas.",
+          "examples": [
+            "The two neighbors talked over the fence about the garden.",
+            "Please do not talk while the teacher is reading.",
+            "He talked to the class about his trip to Mexico."
           ]
         }
       }

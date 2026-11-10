@@ -1,5 +1,30 @@
 [
   {
+    "word": "all",
+    "say": "awl",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Every one of something.",
+          "examples": [
+            "All the kids can play.",
+            "I ate all my peas.",
+            "She read all the books."
+          ]
+        },
+        "more": {
+          "def": "The whole amount of something, or every one of a group.",
+          "examples": [
+            "All the students lined up for the fire drill.",
+            "We stayed inside all day because of the rain.",
+            "The squirrel hid all of the acorns before winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "allow",
     "say": "uh-LOW",
     "forms": [
@@ -24,6 +49,31 @@
             "The museum does not allow visitors to touch the paintings.",
             "Our teacher allows us to read quietly after a test.",
             "Dogs are not allowed inside the bakery."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "always",
+    "say": "AWL-wayz",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "All the time, or every time.",
+          "examples": [
+            "I always brush my teeth.",
+            "The sun always rises.",
+            "She is always happy."
+          ]
+        },
+        "more": {
+          "def": "At all times, or every time, without change.",
+          "examples": [
+            "The sun always rises in the east.",
+            "My grandmother always sings when she cooks.",
+            "He is always the first one to arrive at school."
           ]
         }
       }

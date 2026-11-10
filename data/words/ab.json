@@ -1,5 +1,49 @@
 [
   {
+    "word": "about",
+    "say": "uh-BOWT",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "On the subject of something.",
+          "examples": [
+            "This book is about frogs.",
+            "Tell me about your day.",
+            "We talked about the trip."
+          ]
+        },
+        "more": {
+          "def": "On the subject of something, or having to do with it.",
+          "examples": [
+            "We read a story about a boy who builds a boat.",
+            "The scientist gave a talk about volcanoes.",
+            "What are you thinking about?"
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Not exactly, but close to.",
+          "examples": [
+            "It is about noon.",
+            "I have about five stickers.",
+            "She is about as tall as me."
+          ]
+        },
+        "more": {
+          "def": "Close to a number or amount, but not exact.",
+          "examples": [
+            "The walk to the park takes about ten minutes.",
+            "About twenty children came to the picnic.",
+            "The pond is about three feet deep."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "absorb",
     "say": "ub-ZORB",
     "emoji": "🧽",

@@ -1,5 +1,33 @@
 [
   {
+    "word": "woman",
+    "say": "WUUM-un",
+    "forms": [
+      "women"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A female person who is not a child.",
+          "examples": [
+            "The woman waved.",
+            "A woman fixed the roof.",
+            "That woman is my aunt."
+          ]
+        },
+        "more": {
+          "def": "An adult female person.",
+          "examples": [
+            "The woman at the desk helped us find a book about space.",
+            "Many women work as doctors, pilots, and teachers.",
+            "She grew up to be a kind and brave woman."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wonder",
     "say": "WUN-der",
     "forms": [
@@ -30,6 +58,74 @@
     ]
   },
   {
+    "word": "work",
+    "say": "werk",
+    "forms": [
+      "works",
+      "worked",
+      "working"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To do a job or a task.",
+          "examples": [
+            "Dad works at a store.",
+            "I work on my homework.",
+            "They worked all day."
+          ]
+        },
+        "more": {
+          "def": "To do a job or put effort into a task.",
+          "examples": [
+            "My aunt works at the hospital and helps sick children.",
+            "We worked together to clean the park.",
+            "The farmer works hard in the fields all summer."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go or run the right way.",
+          "examples": [
+            "The clock works.",
+            "My pen does not work.",
+            "The plan worked."
+          ]
+        },
+        "more": {
+          "def": "To function properly, or to have the result that was hoped for.",
+          "examples": [
+            "The flashlight does not work because the batteries are dead.",
+            "Our plan worked, and we got to the show on time.",
+            "This machine works by using the wind."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A job or a task.",
+          "examples": [
+            "I have work to do.",
+            "Dad goes to work.",
+            "This is hard work."
+          ]
+        },
+        "more": {
+          "def": "A job, or effort that is put into doing something.",
+          "examples": [
+            "Building the treehouse was a lot of work.",
+            "My mother goes to work at a bakery.",
+            "The teacher praised the good work in my notebook."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "worried",
     "say": "WER-eed",
     "emoji": "😟",
@@ -50,6 +146,31 @@
             "He was worried that he would miss the bus.",
             "The farmer is worried about the lack of rain.",
             "She gave me a worried look."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "would",
+    "say": "wuud",
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "A word used to talk about something that may happen.",
+          "examples": [
+            "I would like some milk.",
+            "She said she would come.",
+            "He would run if he could."
+          ]
+        },
+        "more": {
+          "def": "A word used to talk about something that might happen, or to ask politely.",
+          "examples": [
+            "I would visit the moon if I could ride a rocket.",
+            "Would you please pass the salt?",
+            "He said he would call us after dinner."
           ]
         }
       }

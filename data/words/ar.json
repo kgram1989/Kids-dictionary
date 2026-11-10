@@ -28,5 +28,49 @@
         }
       }
     ]
+  },
+  {
+    "word": "around",
+    "say": "uh-ROWND",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "On all sides of something, or in a circle.",
+          "examples": [
+            "We sat around the fire.",
+            "The dog ran around the tree.",
+            "A fence is around the yard."
+          ]
+        },
+        "more": {
+          "def": "On every side of something, in a circle, or in different parts of a place.",
+          "examples": [
+            "The planets travel around the sun.",
+            "We walked around the lake before lunch.",
+            "She looked around the room for her lost sock."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Close by.",
+          "examples": [
+            "Is anyone around?",
+            "Look around.",
+            "There are many birds around."
+          ]
+        },
+        "more": {
+          "def": "In the area nearby, or about a certain amount.",
+          "examples": [
+            "There are not many people around early in the morning.",
+            "The class turned around when the door opened.",
+            "The game will begin at around noon."
+          ]
+        }
+      }
+    ]
   }
 ]

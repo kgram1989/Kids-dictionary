@@ -1,5 +1,33 @@
 [
   {
+    "word": "he",
+    "say": "hee",
+    "forms": [
+      "his"
+    ],
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A word for a boy or a man.",
+          "examples": [
+            "He is my brother.",
+            "He plays the drums.",
+            "My dad said he is hungry."
+          ]
+        },
+        "more": {
+          "def": "A word used for a boy, a man, or a male animal that has already been talked about.",
+          "examples": [
+            "My uncle lives far away, but he visits every summer.",
+            "The rooster crowed because he woke up early.",
+            "Ben said he would bring the soccer ball."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "healthy",
     "say": "HEL-thee",
     "emoji": "🥦",
@@ -30,6 +58,36 @@
     ]
   },
   {
+    "word": "hear",
+    "say": "heer",
+    "forms": [
+      "hears",
+      "heard",
+      "hearing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take in sounds with your ears.",
+          "examples": [
+            "I hear a bell.",
+            "She heard a bird.",
+            "Can you hear me?"
+          ]
+        },
+        "more": {
+          "def": "To notice a sound with your ears, or to be told about something.",
+          "examples": [
+            "We could hear the waves crashing from our tent.",
+            "Did you hear that our school won the contest?",
+            "I heard a strange noise coming from the attic."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "heavy",
     "say": "HEV-ee",
     "emoji": "🏋️",
@@ -54,6 +112,130 @@
             "The heavy backpack made his shoulders ache.",
             "The truck carried a heavy load of bricks.",
             "This winter coat is thick and heavy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hello",
+    "say": "he-LOH",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A word you say when you meet someone.",
+          "examples": [
+            "Hello, Mom!",
+            "Say hello to Grandpa.",
+            "Hello, my name is Ben."
+          ]
+        },
+        "more": {
+          "def": "A word used to greet someone or to start a phone call.",
+          "examples": [
+            "Hello, how are you today?",
+            "She said hello to the new student with a smile.",
+            "I picked up the phone and said hello."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "help",
+    "say": "help",
+    "forms": [
+      "helps",
+      "helped",
+      "helping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To do something for someone to make it easier.",
+          "examples": [
+            "I help my mom.",
+            "She helped him up.",
+            "Can you help me?"
+          ]
+        },
+        "more": {
+          "def": "To make something easier or better for someone by doing part of the work.",
+          "examples": [
+            "The children helped the teacher carry the boxes of books.",
+            "Rain helps the flowers grow in spring.",
+            "Neighbors came to help after the storm."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you do to make things easier for someone.",
+          "examples": [
+            "Thank you for your help.",
+            "I need help.",
+            "He asked for help."
+          ]
+        },
+        "more": {
+          "def": "The act of giving someone support, or anything that is useful to someone.",
+          "examples": [
+            "The lost hiker called for help and the rangers came quickly.",
+            "My brother's help made cleaning the garage much faster.",
+            "A map is a great help when you are traveling."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "her",
+    "say": "her",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A word for a girl or a woman.",
+          "examples": [
+            "I gave her a card.",
+            "Mom has her coat.",
+            "Tell her the news."
+          ]
+        },
+        "more": {
+          "def": "A word used for a girl, a woman, or a female animal, either as the one receiving an action or as the owner of something.",
+          "examples": [
+            "We threw a party to thank her for the help.",
+            "Her bicycle has a bell and a basket.",
+            "The teacher asked her to read the poem aloud."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "here",
+    "say": "heer",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In this place.",
+          "examples": [
+            "Come here, please.",
+            "I live here.",
+            "Put the box here."
+          ]
+        },
+        "more": {
+          "def": "In or to the place where you are, or at this point in time.",
+          "examples": [
+            "Our class has been here at the museum all morning.",
+            "Please bring your chair over here, next to the window.",
+            "Spring is here, and the flowers are blooming."
           ]
         }
       }

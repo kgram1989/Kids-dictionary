@@ -24,5 +24,64 @@
         }
       }
     ]
+  },
+  {
+    "word": "girl",
+    "say": "gerl",
+    "forms": [
+      "girls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A female child.",
+          "examples": [
+            "The girl is my sister.",
+            "A girl rode a bike.",
+            "That girl is in my class."
+          ]
+        },
+        "more": {
+          "def": "A female child or young woman.",
+          "examples": [
+            "The girl next door taught me how to play chess.",
+            "A group of girls was singing in the school choir.",
+            "She was a shy girl who loved to read."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "give",
+    "say": "giv",
+    "forms": [
+      "gives",
+      "gave",
+      "given",
+      "giving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hand something to someone.",
+          "examples": [
+            "Give me the ball.",
+            "She gave him a gift.",
+            "I will give you a hug."
+          ]
+        },
+        "more": {
+          "def": "To hand something to someone, or to let them have it.",
+          "examples": [
+            "Please give your paper to the teacher.",
+            "My grandmother gave me a scarf that she knitted.",
+            "We give water to the plants every morning."
+          ]
+        }
+      }
+    ]
   }
 ]

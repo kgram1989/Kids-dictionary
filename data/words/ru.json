@@ -27,5 +27,54 @@
         }
       }
     ]
+  },
+  {
+    "word": "run",
+    "say": "run",
+    "forms": [
+      "runs",
+      "ran",
+      "running"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move fast on your legs.",
+          "examples": [
+            "I run fast.",
+            "The dog ran home.",
+            "Do not run in the hall."
+          ]
+        },
+        "more": {
+          "def": "To move quickly on foot, faster than walking.",
+          "examples": [
+            "The children ran across the field to catch the kite.",
+            "Cheetahs run faster than any other animal.",
+            "He runs around the track every morning."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To work the way it needs to.",
+          "examples": [
+            "The car runs well.",
+            "Water runs from the tap.",
+            "The clock is running."
+          ]
+        },
+        "more": {
+          "def": "To work or operate, or to flow.",
+          "examples": [
+            "The toy train runs on batteries.",
+            "A small stream runs through the meadow.",
+            "Do not let the water run while you brush your teeth."
+          ]
+        }
+      }
+    ]
   }
 ]

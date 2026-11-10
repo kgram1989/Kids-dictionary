@@ -56,5 +56,33 @@
         }
       }
     ]
+  },
+  {
+    "word": "boy",
+    "say": "boy",
+    "forms": [
+      "boys"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A male child.",
+          "examples": [
+            "The boy is my brother.",
+            "A boy kicked the ball.",
+            "That boy is in my class."
+          ]
+        },
+        "more": {
+          "def": "A male child or young man.",
+          "examples": [
+            "The boy on the bus gave his seat to an older lady.",
+            "A group of boys was building a sandcastle at the beach.",
+            "He was a curious boy who asked questions about everything."
+          ]
+        }
+      }
+    ]
   }
 ]

@@ -25,6 +25,56 @@
     ]
   },
   {
+    "word": "money",
+    "say": "MUN-ee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Coins and paper you use to pay for things.",
+          "examples": [
+            "I have money for a toy.",
+            "She saved her money.",
+            "Dad has no more money."
+          ]
+        },
+        "more": {
+          "def": "Coins and paper bills that people use to buy things or to pay for work.",
+          "examples": [
+            "He saved his money for months to buy a new bike.",
+            "The class raised money for the animal shelter.",
+            "People use money to pay for food, clothes, and homes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "more",
+    "say": "mor",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A larger amount.",
+          "examples": [
+            "I want more milk.",
+            "She has more toys.",
+            "Can I have more?"
+          ]
+        },
+        "more": {
+          "def": "A greater number or amount of something, or an extra amount.",
+          "examples": [
+            "There are more stars in the sky than anyone can count.",
+            "Add a little more water to the paint.",
+            "We need two more players to start the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mountain",
     "say": "MOWN-tun",
     "emoji": "⛰️",
@@ -48,6 +98,55 @@
             "It took the climbers three days to reach the top of the mountain.",
             "The mountain was hidden in clouds.",
             "A cold stream runs down the side of the mountain."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "move",
+    "say": "moov",
+    "forms": [
+      "moves",
+      "moved",
+      "moving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go from one place to another.",
+          "examples": [
+            "Do not move.",
+            "The snail moves slowly.",
+            "She moved her chair."
+          ]
+        },
+        "more": {
+          "def": "To change position or place, or to make something change its position.",
+          "examples": [
+            "The clouds move across the sky in the wind.",
+            "Please move your bag so I can sit down.",
+            "The dancers moved in time with the music."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go live in a new home.",
+          "examples": [
+            "We move next week.",
+            "They moved to a new town.",
+            "She moved away."
+          ]
+        },
+        "more": {
+          "def": "To leave your home and go to live in a new place.",
+          "examples": [
+            "My family moved to a new town last summer.",
+            "They are moving to a bigger house near the park.",
+            "Our neighbors moved away, and new ones came."
           ]
         }
       }

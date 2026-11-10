@@ -29,6 +29,34 @@
     ]
   },
   {
+    "word": "life",
+    "say": "lyf",
+    "forms": [
+      "lives"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The time from when you are born until you die.",
+          "examples": [
+            "My grandpa had a long life.",
+            "A pet's life is short.",
+            "She has a happy life."
+          ]
+        },
+        "more": {
+          "def": "The state of being alive, or the time that a person or animal is alive.",
+          "examples": [
+            "Plants and animals are living things, and they all have life.",
+            "A tortoise can have a very long life.",
+            "Scientists study life in the ocean."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lightning",
     "say": "LYT-ning",
     "emoji": "⚡",
@@ -49,6 +77,55 @@
             "Lightning lit up the whole sky for a second.",
             "Never stand under a tree when there is lightning.",
             "We counted the seconds between the lightning and the thunder."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "like",
+    "say": "lyk",
+    "forms": [
+      "likes",
+      "liked",
+      "liking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To think something is nice and enjoy it.",
+          "examples": [
+            "I like apples.",
+            "She likes to dance.",
+            "We liked the movie."
+          ]
+        },
+        "more": {
+          "def": "To enjoy something or to think well of someone or something.",
+          "examples": [
+            "My brother likes to build models of airplanes.",
+            "Do you like the new teacher?",
+            "We liked the zoo so much that we visited again."
+          ]
+        }
+      },
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "The same as, or almost the same as.",
+          "examples": [
+            "He runs like the wind.",
+            "You look like your mom.",
+            "It feels like silk."
+          ]
+        },
+        "more": {
+          "def": "Similar to something, or in the same way as something.",
+          "examples": [
+            "The clouds looked like cotton balls floating in the sky.",
+            "She sings like a bird, with a clear and sweet voice.",
+            "A zebra looks like a horse with stripes."
           ]
         }
       }
@@ -109,6 +186,80 @@
             "If you listen closely, you can hear the ocean from here.",
             "We listened to the rain on the roof.",
             "A good friend listens when you have a problem."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "little",
+    "say": "LIT-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not big.",
+          "examples": [
+            "I have a little dog.",
+            "A little bird sat there.",
+            "She is a little girl."
+          ]
+        },
+        "more": {
+          "def": "Small in size or amount, or young.",
+          "examples": [
+            "A little mouse squeezed through the tiny hole in the wall.",
+            "There is only a little milk left in the jug.",
+            "When I was little, I loved to play in the sandbox."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "live",
+    "say": "liv",
+    "forms": [
+      "lives",
+      "lived",
+      "living"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have your home in a place.",
+          "examples": [
+            "I live in a house.",
+            "Fish live in water.",
+            "She lives near me."
+          ]
+        },
+        "more": {
+          "def": "To have your home in a place, or to make your home there.",
+          "examples": [
+            "My grandparents live in a small town by the sea.",
+            "Polar bears live in the cold Arctic.",
+            "We lived in an apartment before we got a house."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be alive.",
+          "examples": [
+            "Plants live and grow.",
+            "A turtle can live a long time.",
+            "We live and learn."
+          ]
+        },
+        "more": {
+          "def": "To be alive, or to stay alive.",
+          "examples": [
+            "Some turtles live for more than a hundred years.",
+            "Plants need light and water to live.",
+            "He lived a long and happy life."
           ]
         }
       }

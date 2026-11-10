@@ -1,5 +1,49 @@
 [
   {
+    "word": "no",
+    "say": "noh",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A word you say to mean not yes.",
+          "examples": [
+            "No, I do not want any.",
+            "No, thank you.",
+            "No, it is not time yet."
+          ]
+        },
+        "more": {
+          "def": "A word used to give a negative answer, to refuse, or to say that something is not true.",
+          "examples": [
+            "No, I have not finished my homework yet.",
+            "The sign said no, so we did not go in.",
+            "No, a spider is not an insect."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not any.",
+          "examples": [
+            "I have no pencil.",
+            "There is no milk left.",
+            "No one is home."
+          ]
+        },
+        "more": {
+          "def": "Not any, or not even one.",
+          "examples": [
+            "There were no clouds in the sky all day.",
+            "The new puppy has no idea how to sit yet.",
+            "We had no school because of the snowstorm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nocturnal",
     "say": "nok-TER-nul",
     "emoji": "🦉",
@@ -82,6 +126,56 @@
     ]
   },
   {
+    "word": "not",
+    "say": "not",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "A word that makes a word mean the other way.",
+          "examples": [
+            "I am not sad.",
+            "The soup is not hot.",
+            "He did not come."
+          ]
+        },
+        "more": {
+          "def": "A word used to say that something is false or fails to happen, or to turn a word into its opposite.",
+          "examples": [
+            "Penguins can swim, but they cannot fly, and that is not a mistake.",
+            "Please do not run in the hallway.",
+            "The test was not as hard as I thought."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "nothing",
+    "say": "NUTH-ing",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "Not one thing.",
+          "examples": [
+            "There is nothing in the box.",
+            "I have nothing to eat.",
+            "She said nothing."
+          ]
+        },
+        "more": {
+          "def": "Not anything, or no thing at all.",
+          "examples": [
+            "There was nothing left in the bowl except a few crumbs.",
+            "He did nothing wrong, so he was not in trouble.",
+            "Nothing is faster than light."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "notice",
     "say": "NOH-tiss",
     "emoji": "👀",
@@ -107,6 +201,31 @@
             "He noticed a small crack in the window.",
             "Nobody noticed that the door was open.",
             "I noticed that the days are getting shorter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "now",
+    "say": "now",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "At this time.",
+          "examples": [
+            "I am eating now.",
+            "Please come now.",
+            "It is snowing now."
+          ]
+        },
+        "more": {
+          "def": "At this moment, or very soon.",
+          "examples": [
+            "The movie is starting now, so please be quiet.",
+            "I used to be afraid of the dark, but now I am not.",
+            "We must leave now if we want to catch the train."
           ]
         }
       }

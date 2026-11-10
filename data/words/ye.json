@@ -1,5 +1,33 @@
 [
   {
+    "word": "year",
+    "say": "yeer",
+    "forms": [
+      "years"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Twelve months, or all the seasons in a row.",
+          "examples": [
+            "A year has four seasons.",
+            "I am eight years old.",
+            "It snows once a year."
+          ]
+        },
+        "more": {
+          "def": "A period of twelve months, or the time it takes the Earth to travel once around the sun.",
+          "examples": [
+            "My cousin has lived in Canada for a year.",
+            "The Earth takes one year to go around the sun.",
+            "This school year, we are learning about the planets."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "yell",
     "say": "yel",
     "emoji": "📣",
@@ -25,6 +53,31 @@
             "The fans yelled when their team scored.",
             "She yelled for help when she saw the smoke.",
             "The coach had to yell over the noise of the crowd."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "yes",
+    "say": "yes",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A word you say to mean it is so.",
+          "examples": [
+            "Yes, I want some.",
+            "Yes, I can swim.",
+            "Yes, that is right."
+          ]
+        },
+        "more": {
+          "def": "A word used to agree, to accept an offer, or to say that something is true.",
+          "examples": [
+            "Yes, I would love to come to your party.",
+            "Yes, the museum is open every day except Monday.",
+            "The teacher asked if we were ready, and we all said yes."
           ]
         }
       }

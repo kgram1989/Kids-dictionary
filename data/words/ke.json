@@ -27,5 +27,54 @@
         }
       }
     ]
+  },
+  {
+    "word": "keep",
+    "say": "keep",
+    "forms": [
+      "keeps",
+      "kept",
+      "keeping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have something and not give it away.",
+          "examples": [
+            "You can keep the book.",
+            "She keeps her toys here.",
+            "I kept the ticket."
+          ]
+        },
+        "more": {
+          "def": "To have something and not lose it or give it away, or to store it somewhere.",
+          "examples": [
+            "You can keep the pencil, because I have another one.",
+            "We keep the flour in a jar in the cupboard.",
+            "He kept every card his friends gave him."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stay in the same way.",
+          "examples": [
+            "Keep warm.",
+            "Please keep still.",
+            "She keeps smiling."
+          ]
+        },
+        "more": {
+          "def": "To stay in a certain state, or to continue doing something.",
+          "examples": [
+            "A thick coat will keep you warm on the snowy hike.",
+            "The little bird kept singing all morning long.",
+            "Please keep quiet while the baby sleeps."
+          ]
+        }
+      }
+    ]
   }
 ]

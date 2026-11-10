@@ -54,5 +54,33 @@
         }
       }
     ]
+  },
+  {
+    "word": "day",
+    "say": "day",
+    "forms": [
+      "days"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The time from morning to night.",
+          "examples": [
+            "We played all day.",
+            "It was a sunny day.",
+            "What a fun day!"
+          ]
+        },
+        "more": {
+          "def": "The time when it is light outside, or a period of twenty-four hours.",
+          "examples": [
+            "The sun shines during the day, and the moon shines at night.",
+            "There are seven days in a week.",
+            "Our trip to the zoo was the best day of the summer."
+          ]
+        }
+      }
+    ]
   }
 ]

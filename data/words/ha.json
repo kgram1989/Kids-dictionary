@@ -29,6 +29,83 @@
     ]
   },
   {
+    "word": "hand",
+    "say": "hand",
+    "forms": [
+      "hands"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part at the end of your arm.",
+          "examples": [
+            "Wash your hands.",
+            "I raise my hand.",
+            "She held my hand."
+          ]
+        },
+        "more": {
+          "def": "The part of the body at the end of the arm, with fingers and a thumb that is used for holding things.",
+          "examples": [
+            "He held a small frog in his hand.",
+            "Raise your hand if you know the answer.",
+            "The clock has two hands, one for hours and one for minutes."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pass something to someone.",
+          "examples": [
+            "Hand me the cup.",
+            "She handed me a pencil.",
+            "Please hand it over."
+          ]
+        },
+        "more": {
+          "def": "To give something to someone by passing it straight to them.",
+          "examples": [
+            "Please hand the scissors to your sister.",
+            "The teacher handed out a worksheet to each student.",
+            "He handed her the umbrella as she left."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "happen",
+    "say": "HAP-un",
+    "forms": [
+      "happens",
+      "happened",
+      "happening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take place.",
+          "examples": [
+            "What will happen next?",
+            "It happened last night.",
+            "Rainbows happen after rain."
+          ]
+        },
+        "more": {
+          "def": "To take place, often without being planned.",
+          "examples": [
+            "A strange thing happened on the way to school today.",
+            "Do you know what happens to ice when it gets warm?",
+            "The accident happened so quickly that nobody saw it."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "harbor",
     "say": "HAR-ber",
     "emoji": "⚓",
@@ -84,6 +161,36 @@
             "Farmers harvest apples in the fall.",
             "We harvested tomatoes from our garden all summer.",
             "Workers harvest the grapes by hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "have",
+    "say": "hav",
+    "forms": [
+      "has",
+      "had",
+      "having"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To own or hold something.",
+          "examples": [
+            "I have a red ball.",
+            "She has two cats.",
+            "We had a nice time."
+          ]
+        },
+        "more": {
+          "def": "To own something, to hold it, or to be given or filled with something.",
+          "examples": [
+            "My cousin has a telescope for looking at the stars.",
+            "Spiders have eight legs.",
+            "We had pancakes for breakfast on Saturday."
           ]
         }
       }

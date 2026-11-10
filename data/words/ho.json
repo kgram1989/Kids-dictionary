@@ -1,5 +1,63 @@
 [
   {
+    "word": "hold",
+    "say": "hohld",
+    "forms": [
+      "holds",
+      "held",
+      "holding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have something in your hands.",
+          "examples": [
+            "Hold my hand.",
+            "She holds a cup.",
+            "He held the baby."
+          ]
+        },
+        "more": {
+          "def": "To have something in your hands or arms, or to keep it in place.",
+          "examples": [
+            "Hold the rope tightly so that you do not fall.",
+            "She held the kitten gently in her arms.",
+            "The shelf holds all of our heavy books."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "home",
+    "say": "hohm",
+    "forms": [
+      "homes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The place where you live.",
+          "examples": [
+            "I go home after school.",
+            "Our home is warm.",
+            "Birds make a home in the tree."
+          ]
+        },
+        "more": {
+          "def": "The place where a person or family lives, or where an animal lives.",
+          "examples": [
+            "My grandmother's home is full of old photographs.",
+            "A hollow log is a good home for small animals.",
+            "We were glad to get home after the long trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "honest",
     "say": "ON-ist",
     "senses": [
@@ -48,6 +106,59 @@
             "A ship appeared as a tiny dot on the horizon.",
             "Dark clouds gathered on the horizon.",
             "The road stretched all the way to the horizon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "house",
+    "say": "howss",
+    "forms": [
+      "houses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A building where people live.",
+          "examples": [
+            "We have a red house.",
+            "The house has a big yard.",
+            "I walk to my friend's house."
+          ]
+        },
+        "more": {
+          "def": "A building where one family or a few people live.",
+          "examples": [
+            "Our house has a front porch and a small garden.",
+            "The old house at the end of the street has been empty for years.",
+            "The builders worked all summer to finish the house."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "how",
+    "say": "how",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "A word used to ask in what way.",
+          "examples": [
+            "How do you do it?",
+            "How are you?",
+            "How old are you?"
+          ]
+        },
+        "more": {
+          "def": "A word used to ask about the way something is done, an amount, or a feeling.",
+          "examples": [
+            "How does a caterpillar turn into a butterfly?",
+            "How tall is the tree in the front yard?",
+            "Tell me how you made this paper airplane."
           ]
         }
       }

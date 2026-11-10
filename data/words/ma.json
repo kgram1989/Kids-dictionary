@@ -84,6 +84,55 @@
     ]
   },
   {
+    "word": "make",
+    "say": "mayk",
+    "forms": [
+      "makes",
+      "made",
+      "making"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put things together to get something new.",
+          "examples": [
+            "I make a card.",
+            "She made a cake.",
+            "We make a fort."
+          ]
+        },
+        "more": {
+          "def": "To build, create, or prepare something by putting parts together.",
+          "examples": [
+            "Bees make honey from the nectar of flowers.",
+            "We made a poster for the school play.",
+            "He is making a sandwich for his lunch."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cause something to happen.",
+          "examples": [
+            "The joke made me laugh.",
+            "Rain makes puddles.",
+            "She made him smile."
+          ]
+        },
+        "more": {
+          "def": "To cause something to happen or to be a certain way.",
+          "examples": [
+            "The loud thunder made the baby cry.",
+            "Good exercise makes your body strong.",
+            "Sunlight makes the plants grow tall."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mammal",
     "say": "MAM-ul",
     "emoji": "🐄",
@@ -107,6 +156,84 @@
             "Whales are mammals, even though they live in the sea.",
             "Bats are the only mammals that can fly.",
             "Like all mammals, a baby elephant drinks its mother's milk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "man",
+    "say": "man",
+    "forms": [
+      "men"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A male person who is not a child.",
+          "examples": [
+            "The man waved to us.",
+            "A man fixed our car.",
+            "That man is my uncle."
+          ]
+        },
+        "more": {
+          "def": "An adult male person.",
+          "examples": [
+            "The man at the bakery gave us warm bread.",
+            "Two men carried the piano up the stairs.",
+            "He grew from a small boy into a tall man."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "may",
+    "say": "may",
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "A word used to ask or say what is allowed.",
+          "examples": [
+            "May I go out?",
+            "You may sit here.",
+            "May I have some?"
+          ]
+        },
+        "more": {
+          "def": "A word used to ask for permission, or to say that something is possible.",
+          "examples": [
+            "May I borrow your ruler for a minute?",
+            "It may rain later, so take an umbrella.",
+            "You may leave the table when you have finished eating."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "maybe",
+    "say": "MAY-bee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Not sure, but it may be.",
+          "examples": [
+            "Maybe it will rain.",
+            "Maybe I can come.",
+            "Maybe she is home."
+          ]
+        },
+        "more": {
+          "def": "Possibly, or perhaps, when you are not sure.",
+          "examples": [
+            "Maybe we can go to the park if the rain stops.",
+            "I am not sure, but maybe my sister took it.",
+            "Maybe the answer is on the next page."
           ]
         }
       }

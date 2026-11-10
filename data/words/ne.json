@@ -1,5 +1,35 @@
 [
   {
+    "word": "need",
+    "say": "need",
+    "forms": [
+      "needs",
+      "needed",
+      "needing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have to have something.",
+          "examples": [
+            "I need water.",
+            "Plants need sun.",
+            "She needs a coat."
+          ]
+        },
+        "more": {
+          "def": "To require something because you cannot do well without it.",
+          "examples": [
+            "Fish need clean water to stay healthy.",
+            "We needed more time to finish the puzzle.",
+            "Do you need any help with your backpack?"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "neighbor",
     "say": "NAY-ber",
     "emoji": "🏠",
@@ -51,6 +81,56 @@
             "She felt nervous before her piano recital.",
             "He was nervous about meeting his new teacher.",
             "The nervous horse jumped at every sound."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "never",
+    "say": "NEV-er",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Not ever, at no time.",
+          "examples": [
+            "I never eat fish.",
+            "He has never seen snow.",
+            "The sun never stops shining."
+          ]
+        },
+        "more": {
+          "def": "At no time, or not even once.",
+          "examples": [
+            "Penguins never fly, but they are excellent swimmers.",
+            "I have never been on an airplane before.",
+            "She never forgets to feed the fish."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "new",
+    "say": "noo",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Just made, or never used before.",
+          "examples": [
+            "I have new shoes.",
+            "This is a new book.",
+            "The baby is new."
+          ]
+        },
+        "more": {
+          "def": "Recently made or found, or not seen or used before.",
+          "examples": [
+            "The school has a new playground with a long slide.",
+            "We moved to a new town last year.",
+            "Scientists found a new kind of frog in the rain forest."
           ]
         }
       }

@@ -174,5 +174,35 @@
         }
       }
     ]
+  },
+  {
+    "word": "try",
+    "say": "try",
+    "forms": [
+      "tries",
+      "tried",
+      "trying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To work to do something.",
+          "examples": [
+            "I try to jump high.",
+            "She tried again.",
+            "Try to be quiet."
+          ]
+        },
+        "more": {
+          "def": "To make an effort to do something, or to test something to see if you like it.",
+          "examples": [
+            "I will try to finish my book before the weekend.",
+            "He tried a new kind of fruit at the market.",
+            "The baby is trying to take her first steps."
+          ]
+        }
+      }
+    ]
   }
 ]

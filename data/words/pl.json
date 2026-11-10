@@ -1,5 +1,54 @@
 [
   {
+    "word": "place",
+    "say": "playss",
+    "forms": [
+      "places",
+      "placed",
+      "placing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A spot where something is or happens.",
+          "examples": [
+            "This is a quiet place.",
+            "Put it back in its place.",
+            "The park is my favorite place."
+          ]
+        },
+        "more": {
+          "def": "A particular spot, area, or building where something is or happens.",
+          "examples": [
+            "The library is a quiet place to read.",
+            "Penguins live in some of the coldest places on Earth.",
+            "Find a good place to set up the tent."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put something somewhere with care.",
+          "examples": [
+            "Place the cup here.",
+            "She placed the book on the shelf.",
+            "I placed my hat down."
+          ]
+        },
+        "more": {
+          "def": "To put something in a particular spot, usually with care.",
+          "examples": [
+            "Please place your lunch box on the shelf.",
+            "He placed the candles on the cake one by one.",
+            "The artist placed each tile carefully on the floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "planet",
     "say": "PLAN-it",
     "emoji": "🪐",
@@ -23,6 +72,99 @@
             "Jupiter is the largest planet in our solar system.",
             "Saturn is the planet with bright rings.",
             "We must take care of our planet."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "play",
+    "say": "play",
+    "forms": [
+      "plays",
+      "played",
+      "playing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To do things for fun.",
+          "examples": [
+            "I play with my dog.",
+            "The kids play outside.",
+            "We played a game."
+          ]
+        },
+        "more": {
+          "def": "To take part in a game or activity for fun.",
+          "examples": [
+            "The children played tag in the yard after lunch.",
+            "My sister plays soccer on Saturdays.",
+            "We played a board game when it rained."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make music with an instrument.",
+          "examples": [
+            "I play the drum.",
+            "She plays the piano.",
+            "He played a song."
+          ]
+        },
+        "more": {
+          "def": "To make music with an instrument, or to make a recording start.",
+          "examples": [
+            "My brother plays the trumpet in the school band.",
+            "Please play that song again.",
+            "She played a tune on the violin for her grandfather."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A story that people act out on a stage.",
+          "examples": [
+            "We saw a play.",
+            "Our class has a play.",
+            "The play was funny."
+          ]
+        },
+        "more": {
+          "def": "A story written to be acted out on a stage.",
+          "examples": [
+            "Our class put on a play about the three little pigs.",
+            "The play had a happy ending and the audience clapped.",
+            "She had the lead part in the school play."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "please",
+    "say": "pleez",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A polite word you say when you ask for something.",
+          "examples": [
+            "Please pass the milk.",
+            "Can I have a cookie, please?",
+            "Please help me."
+          ]
+        },
+        "more": {
+          "def": "A polite word used when asking for something or telling someone to do something.",
+          "examples": [
+            "Please close the door quietly when you leave.",
+            "Could I have some more water, please?",
+            "Please be careful with the glass."
           ]
         }
       }

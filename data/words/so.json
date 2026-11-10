@@ -1,5 +1,49 @@
 [
   {
+    "word": "so",
+    "say": "soh",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Very, or to a great amount.",
+          "examples": [
+            "I am so happy.",
+            "The soup is so hot.",
+            "She is so tall."
+          ]
+        },
+        "more": {
+          "def": "To a great degree, or very much.",
+          "examples": [
+            "The night sky was so clear that we could see thousands of stars.",
+            "I was so tired after the hike that I fell asleep in the car.",
+            "Thank you so much for the lovely gift."
+          ]
+        }
+      },
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "A word that tells what happened because of something.",
+          "examples": [
+            "It rained, so we stayed in.",
+            "I was hungry, so I ate.",
+            "He is sick, so he is home."
+          ]
+        },
+        "more": {
+          "def": "A word used to show that something happened as a result of what was just said.",
+          "examples": [
+            "The bridge was closed, so we took a different road.",
+            "I forgot my lunch, so my friend shared hers with me.",
+            "The batteries were dead, so the toy stopped moving."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "solution",
     "say": "suh-LOO-shun",
     "emoji": "🧩",
@@ -23,6 +67,81 @@
             "The solution to the puzzle was hidden in the last clue.",
             "There is no easy solution to the traffic problem.",
             "The class worked together to find a solution."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "some",
+    "say": "sum",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "An amount that is not all and not none.",
+          "examples": [
+            "I want some milk.",
+            "Some kids are late.",
+            "She ate some of the cake."
+          ]
+        },
+        "more": {
+          "def": "An amount or number of something that is not stated exactly, or only part of a group.",
+          "examples": [
+            "Some birds can fly very long distances without stopping.",
+            "I need some paper for my drawing.",
+            "We saw some deer near the river this morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "something",
+    "say": "SUM-thing",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A thing that you do not know or name.",
+          "examples": [
+            "I hear something.",
+            "She wants something to eat.",
+            "He found something shiny."
+          ]
+        },
+        "more": {
+          "def": "A thing that is not named or not known exactly.",
+          "examples": [
+            "There is something under the bed, and I think it is the cat.",
+            "I would like to learn something new about space.",
+            "She whispered something to her friend."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sorry",
+    "say": "SOR-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sad about something you did.",
+          "examples": [
+            "I am sorry I was late.",
+            "She said sorry to me.",
+            "He felt sorry."
+          ]
+        },
+        "more": {
+          "def": "Feeling sad or ashamed about something you did, or sad for someone else.",
+          "examples": [
+            "I am sorry that I broke your pencil.",
+            "We felt sorry for the lost puppy.",
+            "He said he was sorry for being rude."
           ]
         }
       }

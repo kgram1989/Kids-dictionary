@@ -1,5 +1,49 @@
 [
   {
+    "word": "much",
+    "say": "much",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A big amount of something.",
+          "examples": [
+            "I do not have much milk.",
+            "How much is it?",
+            "Too much sun can burn you."
+          ]
+        },
+        "more": {
+          "def": "A large amount of something that cannot be counted.",
+          "examples": [
+            "There was not much snow, so we could not go sledding.",
+            "How much water does a camel drink?",
+            "We did not have much time to finish the test."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "A lot.",
+          "examples": [
+            "I like it very much.",
+            "Thank you very much.",
+            "She did not sleep much."
+          ]
+        },
+        "more": {
+          "def": "To a great degree, or often.",
+          "examples": [
+            "I miss my old school very much.",
+            "The baby does not cry much at night.",
+            "Her room is much bigger than mine."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "museum",
     "say": "myoo-ZEE-um",
     "emoji": "🖼️",
@@ -23,6 +67,31 @@
             "The museum has a real rocket hanging from the ceiling.",
             "The science museum lets you touch the displays.",
             "The town's museum tells the story of its first settlers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "must",
+    "say": "must",
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "A word used to say you have to do something.",
+          "examples": [
+            "I must go home.",
+            "You must wear a helmet.",
+            "We must be quiet."
+          ]
+        },
+        "more": {
+          "def": "A word used to say that something is needed or required, or that something is very likely.",
+          "examples": [
+            "You must wear a seat belt when you ride in a car.",
+            "She must be tired after the long hike.",
+            "All visitors must sign in at the front desk."
           ]
         }
       }

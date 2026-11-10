@@ -28,5 +28,123 @@
         }
       }
     ]
+  },
+  {
+    "word": "find",
+    "say": "fynd",
+    "forms": [
+      "finds",
+      "found",
+      "finding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To see or get something that was lost.",
+          "examples": [
+            "I find my shoe.",
+            "She found a coin.",
+            "Can you find the cat?"
+          ]
+        },
+        "more": {
+          "def": "To discover something, or to get something back that was lost.",
+          "examples": [
+            "We found a bird's nest in the tall grass.",
+            "I could not find my glasses anywhere in the house.",
+            "The explorers found a hidden cave behind the waterfall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fine",
+    "say": "fyn",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Good, or all right.",
+          "examples": [
+            "I feel fine.",
+            "The weather is fine.",
+            "That is a fine idea."
+          ]
+        },
+        "more": {
+          "def": "Very good, or healthy and well enough.",
+          "examples": [
+            "It was a fine day for a picnic by the lake.",
+            "I fell off my bike, but I am fine.",
+            "The artist did a fine job on the painting."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very thin or very small.",
+          "examples": [
+            "The thread is fine.",
+            "She has fine hair.",
+            "The sand is fine."
+          ]
+        },
+        "more": {
+          "def": "Very thin, small, or delicate.",
+          "examples": [
+            "The spider spun a fine web between the two branches.",
+            "The beach had fine white sand that felt soft under our feet.",
+            "He drew the lines with a fine pen."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "first",
+    "say": "ferst",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Coming before all the others.",
+          "examples": [
+            "I was the first in line.",
+            "This is my first day.",
+            "She won first prize."
+          ]
+        },
+        "more": {
+          "def": "Coming before all others in time, order, or importance.",
+          "examples": [
+            "The first snow of the year fell last night.",
+            "Read the first chapter before the next class.",
+            "Who was the first person to fly an airplane?"
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Before anything else.",
+          "examples": [
+            "Wash your hands first.",
+            "I will go first.",
+            "First, mix the eggs."
+          ]
+        },
+        "more": {
+          "def": "Before anything else, or at the very start.",
+          "examples": [
+            "First, crack the eggs into a bowl.",
+            "She arrived first and saved us all a seat.",
+            "We first met when I was six."
+          ]
+        }
+      }
+    ]
   }
 ]

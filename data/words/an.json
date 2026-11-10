@@ -24,5 +24,80 @@
         }
       }
     ]
+  },
+  {
+    "word": "and",
+    "say": "and",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "A word that joins things together.",
+          "examples": [
+            "I like milk and cookies.",
+            "Mom and Dad are here.",
+            "We ran and jumped."
+          ]
+        },
+        "more": {
+          "def": "A word used to join words, groups of words, or sentences, showing that they go together or that one thing comes after another.",
+          "examples": [
+            "We packed sandwiches, apples, and juice for the hike.",
+            "The sun set, and the stars slowly came out.",
+            "He studied hard and passed the spelling test."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "any",
+    "say": "EN-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "One or some, it does not matter which.",
+          "examples": [
+            "Do you have any gum?",
+            "Pick any card.",
+            "I do not see any bugs."
+          ]
+        },
+        "more": {
+          "def": "Some, or one of a group when it does not matter which one.",
+          "examples": [
+            "Do you have any questions about the story?",
+            "You can choose any book from the shelf.",
+            "We could not find any mud, so we went inside."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "anything",
+    "say": "EN-ee-thing",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "Any thing at all.",
+          "examples": [
+            "I will eat anything.",
+            "Do you see anything?",
+            "She can do anything."
+          ]
+        },
+        "more": {
+          "def": "Any thing at all, no matter which one.",
+          "examples": [
+            "You can ask me anything about dinosaurs.",
+            "I could not find anything to eat in the cupboard.",
+            "He is brave and will try anything once."
+          ]
+        }
+      }
+    ]
   }
 ]

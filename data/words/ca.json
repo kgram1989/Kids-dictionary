@@ -1,5 +1,73 @@
 [
   {
+    "word": "call",
+    "say": "kawl",
+    "forms": [
+      "calls",
+      "called",
+      "calling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say something in a loud voice.",
+          "examples": [
+            "I call to my dog.",
+            "Mom called us for dinner.",
+            "She calls from the yard."
+          ]
+        },
+        "more": {
+          "def": "To shout or speak loudly to get someone's attention.",
+          "examples": [
+            "The coach called to the players from the sideline.",
+            "I heard someone calling my name across the field.",
+            "Please call the children inside when it starts to rain."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To use a phone to talk to someone.",
+          "examples": [
+            "I will call Grandma.",
+            "He called me last night.",
+            "Call me later."
+          ]
+        },
+        "more": {
+          "def": "To telephone someone.",
+          "examples": [
+            "I will call my cousin to wish her a happy birthday.",
+            "She called the library to ask when it closes.",
+            "Please call us when you get to the airport."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give a name to someone or something.",
+          "examples": [
+            "We call our cat Mittens.",
+            "They called the baby Leo.",
+            "What do you call this plant?"
+          ]
+        },
+        "more": {
+          "def": "To give a name to someone or something, or to describe it with a certain word.",
+          "examples": [
+            "People call that big yellow flower a sunflower.",
+            "We called our new puppy Biscuit.",
+            "Scientists call baby frogs tadpoles."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "calm",
     "say": "kahm",
     "emoji": "😌",
@@ -56,6 +124,50 @@
     ]
   },
   {
+    "word": "can",
+    "say": "kan",
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "Able to do something.",
+          "examples": [
+            "I can tie my shoes.",
+            "Birds can fly.",
+            "Can you swim?"
+          ]
+        },
+        "more": {
+          "def": "Used to show that someone is able to do something or is allowed to do it.",
+          "examples": [
+            "Cheetahs can run faster than any other land animal.",
+            "You can borrow my pencil if you give it back.",
+            "Can I help you carry those books?"
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round metal container for food or drinks.",
+          "examples": [
+            "I opened a can of soup.",
+            "Put the can in the bin.",
+            "The can was empty."
+          ]
+        },
+        "more": {
+          "def": "A metal container, often shaped like a tube, that is used to hold food, drinks, or paint.",
+          "examples": [
+            "He used a can of paint to color the fence.",
+            "The class collected cans of food for families in need.",
+            "She rinsed the soup can before putting it in the recycling."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "capture",
     "say": "KAP-cher",
     "forms": [
@@ -80,6 +192,55 @@
             "The photographer captured a picture of the eagle in flight.",
             "The scientists captured the bird, tagged it, and let it go.",
             "In the game, you capture the other team's flag to win."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "care",
+    "say": "kair",
+    "forms": [
+      "cares",
+      "cared",
+      "caring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To feel that someone or something matters.",
+          "examples": [
+            "I care about my friend.",
+            "She cares for her pet.",
+            "He cared a lot."
+          ]
+        },
+        "more": {
+          "def": "To feel that something is important, or to look after someone or something.",
+          "examples": [
+            "I care about my friends, and I listen when they are upset.",
+            "She cares for the class hamster on weekends.",
+            "Do you care which game we play?"
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being careful or looking after someone.",
+          "examples": [
+            "Take care.",
+            "The baby needs care.",
+            "Handle it with care."
+          ]
+        },
+        "more": {
+          "def": "Close attention to avoid mistakes or harm, or the act of looking after someone or something.",
+          "examples": [
+            "Carry the eggs with care so that they do not break.",
+            "The nurse gave the patient good care.",
+            "A garden needs a lot of care in the summer."
           ]
         }
       }

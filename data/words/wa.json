@@ -1,5 +1,35 @@
 [
   {
+    "word": "wait",
+    "say": "wayt",
+    "forms": [
+      "waits",
+      "waited",
+      "waiting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stay until something happens.",
+          "examples": [
+            "Wait for me.",
+            "I waited at the door.",
+            "We wait for the bus."
+          ]
+        },
+        "more": {
+          "def": "To stay in a place or do nothing until something happens or someone comes.",
+          "examples": [
+            "Please wait here until the teacher comes back.",
+            "We waited in line for an hour to ride the roller coaster.",
+            "I cannot wait for summer to come."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wander",
     "say": "WON-der",
     "forms": [
@@ -24,6 +54,36 @@
             "The lost puppy wandered through the streets.",
             "We wandered around the market looking at the stalls.",
             "His mind wandered during the long speech."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "want",
+    "say": "wont",
+    "forms": [
+      "wants",
+      "wanted",
+      "wanting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To wish to have or do something.",
+          "examples": [
+            "I want a drink.",
+            "She wants to play.",
+            "We wanted to see the show."
+          ]
+        },
+        "more": {
+          "def": "To feel that you would like to have, do, or be something.",
+          "examples": [
+            "I want to be a vet when I grow up.",
+            "My little brother wants a story before bed.",
+            "They wanted a bigger garden, so they dug up the lawn."
           ]
         }
       }
@@ -55,6 +115,53 @@
             "The lifeguard warned the swimmers about the strong waves.",
             "Dark clouds warned us that a storm was coming.",
             "The sign warns drivers of a sharp turn ahead."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "way",
+    "say": "way",
+    "forms": [
+      "ways"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A path or road to get somewhere.",
+          "examples": [
+            "This is the way to school.",
+            "Which way did the cat go?",
+            "The way home is short."
+          ]
+        },
+        "more": {
+          "def": "A road or path that leads somewhere, or the direction you go to get there.",
+          "examples": [
+            "Can you tell me the way to the library?",
+            "The sign pointed the other way, so we turned around.",
+            "It is a long way to the top of the mountain."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How you do something.",
+          "examples": [
+            "I like your way of drawing.",
+            "Mom showed me a new way to tie shoes.",
+            "There is a way to fix it."
+          ]
+        },
+        "more": {
+          "def": "The method or manner in which something is done.",
+          "examples": [
+            "There is more than one way to solve this math problem.",
+            "My grandfather has a funny way of laughing.",
+            "Birds find their way home by using the sun and the stars."
           ]
         }
       }

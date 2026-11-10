@@ -1,5 +1,30 @@
 [
   {
+    "word": "we",
+    "say": "wee",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A word for you and other people together.",
+          "examples": [
+            "We are friends.",
+            "We play ball after school.",
+            "Today we sing a song."
+          ]
+        },
+        "more": {
+          "def": "A word a speaker or writer uses for themselves and one or more other people.",
+          "examples": [
+            "We planted tomatoes in the garden last spring.",
+            "In our town, we celebrate with a parade every summer.",
+            "If we work together, we can finish this faster."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wealthy",
     "say": "WEL-thee",
     "emoji": "💰",
@@ -79,6 +104,69 @@
             "We checked the weather before planning our picnic.",
             "The game was called off because of bad weather.",
             "The weather in the mountains can change quickly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "well",
+    "say": "wel",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a good way.",
+          "examples": [
+            "She sings well.",
+            "He did well on the test.",
+            "I slept well."
+          ]
+        },
+        "more": {
+          "def": "In a good or successful way, or in a thorough way.",
+          "examples": [
+            "The team played well and won the game.",
+            "Mix the paint well before you use it.",
+            "Our dog listens well when we call her."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not sick.",
+          "examples": [
+            "I feel well today.",
+            "Are you well now?",
+            "Grandma is well again."
+          ]
+        },
+        "more": {
+          "def": "In good health.",
+          "examples": [
+            "I stayed home from school until I was well again.",
+            "The doctor said the baby is well and growing fast.",
+            "You do not look well, so you should rest."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A deep hole in the ground with water in it.",
+          "examples": [
+            "We got water from the well.",
+            "A bucket hangs in the well.",
+            "The well is very deep."
+          ]
+        },
+        "more": {
+          "def": "A deep hole dug into the ground to reach water, oil, or gas.",
+          "examples": [
+            "Long ago, villagers carried buckets of water from the well.",
+            "The farmer dug a new well near the barn.",
+            "Oil comes from a deep well that goes far under the ground."
           ]
         }
       }

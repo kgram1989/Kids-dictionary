@@ -31,6 +31,34 @@
     ]
   },
   {
+    "word": "minute",
+    "say": "MIN-it",
+    "forms": [
+      "minutes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Sixty seconds of time.",
+          "examples": [
+            "Wait one minute.",
+            "It takes a minute.",
+            "I will be there in a minute."
+          ]
+        },
+        "more": {
+          "def": "A short period of time that is sixty seconds, or one sixtieth of an hour.",
+          "examples": [
+            "An hour has sixty minutes.",
+            "Please wait a minute while I find my coat.",
+            "The bus will come in about ten minutes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mischief",
     "say": "MISS-chif",
     "emoji": "😈",
@@ -51,6 +79,55 @@
             "The twins were always up to some kind of mischief.",
             "The monkey's mischief made the zookeeper laugh.",
             "There was a look of mischief in her eyes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "miss",
+    "say": "miss",
+    "forms": [
+      "misses",
+      "missed",
+      "missing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To feel sad that someone is not here.",
+          "examples": [
+            "I miss my friend.",
+            "She misses her mom.",
+            "We miss the old house."
+          ]
+        },
+        "more": {
+          "def": "To feel sad because someone or something is not with you.",
+          "examples": [
+            "I miss my cousins when they go home after the holidays.",
+            "He missed his dog while he was at camp.",
+            "The children miss summer when winter comes."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not catch, hit, or get something.",
+          "examples": [
+            "I miss the ball.",
+            "She missed the bus.",
+            "He missed a day of school."
+          ]
+        },
+        "more": {
+          "def": "To fail to hit, catch, reach, or be present for something.",
+          "examples": [
+            "I missed the bus, so my dad drove me to school.",
+            "The player missed the ball and ran to get it.",
+            "Do not miss the show about space tonight."
           ]
         }
       }
