@@ -57,6 +57,35 @@
     ]
   },
   {
+    "word": "quick",
+    "say": "kwik",
+    "forms": [
+      "quicker",
+      "quickest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Moving fast; not slow.",
+          "examples": [
+            "A rabbit is quick.",
+            "Take a quick look.",
+            "She gave a quick wave."
+          ]
+        },
+        "more": {
+          "def": "Moving fast, or taking only a short time.",
+          "examples": [
+            "The fox is quick and hard to catch.",
+            "Let's take a quick break and then keep going.",
+            "She gave him a quick hug before running to class."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "quickly",
     "say": "KWIK-lee",
     "emoji": "💨",
@@ -136,6 +165,31 @@
             "He wanted to quit the puzzle, but his sister helped him finish.",
             "She quit the team to have more time for music.",
             "The old car quit running halfway up the hill."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "quite",
+    "say": "kwyt",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "More than a little bit.",
+          "examples": [
+            "It is quite cold today.",
+            "The cake was quite big.",
+            "She runs quite fast."
+          ]
+        },
+        "more": {
+          "def": "To a fairly large degree; more than a little.",
+          "examples": [
+            "The museum was quite crowded on Saturday afternoon.",
+            "It took quite a long time to walk up the mountain.",
+            "He was quite sure that he had seen a fox in the garden."
           ]
         }
       }

@@ -99,6 +99,36 @@
     ]
   },
   {
+    "word": "realize",
+    "say": "REE-uh-lyz",
+    "forms": [
+      "realizes",
+      "realized",
+      "realizing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To suddenly understand something.",
+          "examples": [
+            "I realized I forgot my hat.",
+            "She realized it was Friday.",
+            "He realizes his mistake."
+          ]
+        },
+        "more": {
+          "def": "To understand something clearly, often suddenly.",
+          "examples": [
+            "I realized I had left my lunch at home.",
+            "She realized the dog had been hiding under the table all along.",
+            "Do you realize how late it is?"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "really",
     "say": "REE-lee",
     "senses": [
@@ -183,6 +213,75 @@
     ]
   },
   {
+    "word": "record",
+    "say": "REK-erd",
+    "forms": [
+      "records",
+      "recorded",
+      "recording"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The best result so far.",
+          "examples": [
+            "She set a new record in the race.",
+            "The tall tower broke the record.",
+            "He holds the swimming record."
+          ]
+        },
+        "more": {
+          "def": "The best score or result that anyone has reached, such as the fastest time.",
+          "examples": [
+            "She set a new school record in the long jump.",
+            "The tower holds the record for the tallest building in the city.",
+            "He broke the swimming record by one second."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Notes that tell what happened.",
+          "examples": [
+            "The nurse keeps a record of my height.",
+            "The teacher keeps a record of homework.",
+            "Keep a record of what you read."
+          ]
+        },
+        "more": {
+          "def": "A written account of facts or events that is kept so people can look at it later.",
+          "examples": [
+            "The school keeps a record of every student's height.",
+            "Scientists keep a careful record of the weather.",
+            "My grandmother has a record of our family's history."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "say": "rih-KORD",
+        "easy": {
+          "def": "To save sound or video.",
+          "examples": [
+            "I record my voice.",
+            "Let's record a song.",
+            "Dad recorded the game."
+          ]
+        },
+        "more": {
+          "def": "To save sound or pictures so that they can be heard or seen again.",
+          "examples": [
+            "The band recorded a new song in the studio.",
+            "She recorded the frogs singing at the pond.",
+            "Dad recorded my piano show on his phone."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "recycle",
     "say": "ree-SY-kul",
     "emoji": "♻️",
@@ -208,6 +307,55 @@
             "Our school recycles plastic bottles to help keep the Earth clean.",
             "The factory recycles old tires into playground mats.",
             "Remember to recycle the newspaper when you finish it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "red",
+    "say": "red",
+    "emoji": "🔴",
+    "forms": [
+      "redder",
+      "reddest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having the color of an apple or a fire truck.",
+          "examples": [
+            "The apple is red.",
+            "A fire truck is red.",
+            "She wore a red hat."
+          ]
+        },
+        "more": {
+          "def": "Having the color of blood, ripe tomatoes or fire trucks.",
+          "examples": [
+            "A red cardinal sat in the snowy tree.",
+            "The sunset turned the sky red and orange.",
+            "His cheeks were red from the cold wind."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The color of an apple or a fire truck.",
+          "examples": [
+            "Red is my favorite color.",
+            "Mix red and yellow to make orange.",
+            "The leaves turned to red."
+          ]
+        },
+        "more": {
+          "def": "The color of ripe tomatoes, strawberries and fire trucks.",
+          "examples": [
+            "The artist painted the barn in bright red.",
+            "Red means stop on a traffic light.",
+            "The flag has stripes of red and white."
           ]
         }
       }
@@ -300,6 +448,56 @@
             "Remember to bring your lunch on the field trip.",
             "I cannot remember where I put my keys.",
             "She still remembers the song her grandmother taught her."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "report",
+    "say": "rih-PORT",
+    "emoji": "📝",
+    "forms": [
+      "reports",
+      "reported",
+      "reporting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Writing or talking that tells about something.",
+          "examples": [
+            "I wrote a report on whales.",
+            "The weather report says rain.",
+            "She gave a report to the class."
+          ]
+        },
+        "more": {
+          "def": "A written or spoken description of a subject, an event or something you have studied.",
+          "examples": [
+            "I wrote a report about the planets for science class.",
+            "The weather report says it will snow tonight.",
+            "A report from the park said that the bridge was open."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell people about something.",
+          "examples": [
+            "The paper reports the score.",
+            "Please report a lost jacket to the office.",
+            "She reported the news to her class."
+          ]
+        },
+        "more": {
+          "def": "To give information about something, especially what you have seen, heard or studied.",
+          "examples": [
+            "Scientists reported that the ice is melting slowly.",
+            "Please report any broken equipment to your coach.",
+            "The newspaper reported on the parade."
           ]
         }
       }
@@ -459,6 +657,74 @@
             "I ate one cookie and saved the rest for later.",
             "The rest of the class is outside.",
             "He finished half the book and will read the rest tomorrow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "return",
+    "say": "rih-TERN",
+    "forms": [
+      "returns",
+      "returned",
+      "returning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go back to a place.",
+          "examples": [
+            "We return home at five.",
+            "The birds returned in spring.",
+            "She returned to her seat."
+          ]
+        },
+        "more": {
+          "def": "To go or come back to a place.",
+          "examples": [
+            "The birds return to the north every spring.",
+            "We returned to the campsite before dark.",
+            "He returned to his seat after the break."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give something back.",
+          "examples": [
+            "Return the book to the library.",
+            "I returned her pencil.",
+            "Please return my ball."
+          ]
+        },
+        "more": {
+          "def": "To give, send or put something back where it came from.",
+          "examples": [
+            "I returned my library books on Saturday.",
+            "She returned the borrowed jacket to her friend.",
+            "Please return the scissors to the drawer."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A coming back to a place.",
+          "examples": [
+            "We cheered for her return.",
+            "The bus ride on the return was quiet.",
+            "The return of the geese means spring is here."
+          ]
+        },
+        "more": {
+          "def": "The act of coming or going back.",
+          "examples": [
+            "The return of the swallows is a sign of spring.",
+            "On our return, Grandma had dinner ready.",
+            "The explorers' return was celebrated with a parade."
           ]
         }
       }

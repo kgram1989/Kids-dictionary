@@ -1,5 +1,30 @@
 [
   {
+    "word": "alive",
+    "say": "uh-LYV",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Living, not dead.",
+          "examples": [
+            "The fish is alive.",
+            "Plants are alive.",
+            "Is the bug still alive?"
+          ]
+        },
+        "more": {
+          "def": "Living, and not dead.",
+          "examples": [
+            "The scientists found a tiny animal that was still alive.",
+            "Plants are alive even though they do not move around.",
+            "The old tree is still alive and grows new leaves each spring."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "all",
     "say": "awl",
     "senses": [
@@ -55,6 +80,31 @@
     ]
   },
   {
+    "word": "almost",
+    "say": "AWL-mohst",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Nearly, but not quite.",
+          "examples": [
+            "I am almost done.",
+            "It is almost bedtime.",
+            "We almost missed the bus."
+          ]
+        },
+        "more": {
+          "def": "Very nearly, but not completely.",
+          "examples": [
+            "The glass was almost full, so I poured slowly.",
+            "It was almost midnight when the train arrived.",
+            "She almost won the race, but another runner passed her at the end."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "alone",
     "say": "uh-LOHN",
     "senses": [
@@ -93,6 +143,50 @@
             "I made the whole model airplane alone.",
             "He walked home alone after school.",
             "Wolves often hunt together, but a bear usually hunts alone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "along",
+    "say": "uh-LONG",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Next to or following a path.",
+          "examples": [
+            "We walked along the river.",
+            "Trees grow along the road.",
+            "A line of ducks swam along the shore."
+          ]
+        },
+        "more": {
+          "def": "Following the length of something, such as a road, river or wall.",
+          "examples": [
+            "Bicycle riders pedaled along the path beside the lake.",
+            "Pretty flowers grew along the garden wall.",
+            "The train rolled slowly along the tracks."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "With you or with someone.",
+          "examples": [
+            "Come along!",
+            "Bring your dog along.",
+            "Can I come along?"
+          ]
+        },
+        "more": {
+          "def": "Together with someone else.",
+          "examples": [
+            "We are going to the zoo, and you can come along.",
+            "She brought her little sister along to the swimming pool.",
+            "Can you bring a snack along for the trip?"
           ]
         }
       }

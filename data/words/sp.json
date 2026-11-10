@@ -29,5 +29,99 @@
         }
       }
     ]
+  },
+  {
+    "word": "special",
+    "say": "SPESH-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Different and better than usual.",
+          "examples": [
+            "Today is a special day.",
+            "Grandma made a special cake.",
+            "You are special to me."
+          ]
+        },
+        "more": {
+          "def": "Better, different or more important than usual.",
+          "examples": [
+            "We eat a special meal on the last day of school.",
+            "The museum has a special show about space.",
+            "The toy was special because my grandpa made it."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Meant for one job.",
+          "examples": [
+            "Firefighters wear special coats.",
+            "The cat has a special bed.",
+            "This special paper is for painting."
+          ]
+        },
+        "more": {
+          "def": "Made or meant for one particular use or person.",
+          "examples": [
+            "Astronauts wear special suits in space.",
+            "The shop sells special shoes for running.",
+            "The bus has a special seat for people who need help."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spend",
+    "say": "spend",
+    "emoji": "💰",
+    "forms": [
+      "spends",
+      "spent",
+      "spending"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To use money to buy things.",
+          "examples": [
+            "I spend my coins on stickers.",
+            "I spent a dollar on a toy.",
+            "He spent his allowance on a book."
+          ]
+        },
+        "more": {
+          "def": "To pay money for things.",
+          "examples": [
+            "She spent all her birthday money on art supplies.",
+            "Families spend a lot on food each week.",
+            "The town spent money fixing the old bridge."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To use time doing something.",
+          "examples": [
+            "We spent the day at the beach.",
+            "She spends time with her dog.",
+            "I spend my mornings at school."
+          ]
+        },
+        "more": {
+          "def": "To pass time doing something or being somewhere.",
+          "examples": [
+            "We spent the whole summer at my grandparents' farm.",
+            "He spends an hour each night reading.",
+            "The owl spends the daytime sleeping in a hollow tree."
+          ]
+        }
+      }
+    ]
   }
 ]

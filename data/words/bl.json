@@ -1,5 +1,79 @@
 [
   {
+    "word": "black",
+    "say": "blak",
+    "emoji": "⚫",
+    "forms": [
+      "blacker",
+      "blackest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having the color of the night sky.",
+          "examples": [
+            "Coal is black.",
+            "My cat is black.",
+            "The night sky is black."
+          ]
+        },
+        "more": {
+          "def": "Having the darkest color, like the night sky with no light.",
+          "examples": [
+            "A black crow sat on the fence.",
+            "The cave was so black that we needed flashlights.",
+            "She wore a black coat in the snow."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The darkest color.",
+          "examples": [
+            "Black is the color of night.",
+            "I painted the shadows with black.",
+            "I used black to color the cat."
+          ]
+        },
+        "more": {
+          "def": "The darkest color there is, which you see where there is no light.",
+          "examples": [
+            "The artist used black for the shadows.",
+            "A tuxedo is usually black and white.",
+            "The sky turned to black as the sun set."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blood",
+    "say": "blud",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The red stuff inside your body.",
+          "examples": [
+            "Your heart pushes blood around your body.",
+            "A tiny cut had a drop of blood.",
+            "The nurse took a little blood from my arm."
+          ]
+        },
+        "more": {
+          "def": "The red liquid that your heart pumps around your body, carrying air and food to every part.",
+          "examples": [
+            "Blood carries oxygen from your lungs to the rest of your body.",
+            "Exercise makes your heart pump blood faster.",
+            "A scab forms when blood dries over a cut."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "blossom",
     "say": "BLOSS-um",
     "emoji": "🌼",
@@ -23,6 +97,106 @@
             "In spring, the apple trees are covered in white blossoms.",
             "Cherry blossoms cover the park in pink every April.",
             "Each blossom on the pear tree may turn into a fruit."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blow",
+    "say": "bloh",
+    "emoji": "💨",
+    "forms": [
+      "blows",
+      "blew",
+      "blown",
+      "blowing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To push air out of your mouth.",
+          "examples": [
+            "Blow out the candles.",
+            "I blow bubbles.",
+            "She blew on her hot soup."
+          ]
+        },
+        "more": {
+          "def": "To send a stream of air out of your mouth, often to move or make something.",
+          "examples": [
+            "Blow gently on the dandelion and watch the seeds fly.",
+            "He blew up the balloon until it was nearly round.",
+            "The glassmaker blew into the tube to shape the glowing glass."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move with the wind.",
+          "examples": [
+            "The wind blows hard.",
+            "Leaves blew across the yard.",
+            "My hat blew away."
+          ]
+        },
+        "more": {
+          "def": "To move through the air, or to be carried by moving air.",
+          "examples": [
+            "A cold wind blew across the empty field.",
+            "The paper blew out of my hand and landed in a puddle.",
+            "Dust blew through the open window in the desert."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blue",
+    "say": "bloo",
+    "emoji": "🔵",
+    "forms": [
+      "bluer",
+      "bluest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having the color of the sky.",
+          "examples": [
+            "The sky is blue.",
+            "She has blue eyes.",
+            "My coat is blue."
+          ]
+        },
+        "more": {
+          "def": "Having the color of a clear sky or the sea.",
+          "examples": [
+            "He painted the walls bright blue.",
+            "She wore a blue dress to the party.",
+            "The blue water sparkled in the sun."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The color of the sky.",
+          "examples": [
+            "Blue is my favorite color.",
+            "The sea is a deep blue.",
+            "Mix blue and yellow to make green."
+          ]
+        },
+        "more": {
+          "def": "The color of a clear sky or the deep sea.",
+          "examples": [
+            "The artist mixed blue and white for the sky.",
+            "The sea was a deep blue.",
+            "Blue looks nice with yellow."
           ]
         }
       }

@@ -83,5 +83,55 @@
         }
       }
     ]
+  },
+  {
+    "word": "cry",
+    "say": "kry",
+    "emoji": "😢",
+    "forms": [
+      "cries",
+      "cried",
+      "crying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have tears come from your eyes.",
+          "examples": [
+            "The baby cries.",
+            "I cried when I fell.",
+            "She cried at the sad movie."
+          ]
+        },
+        "more": {
+          "def": "To let tears fall from your eyes because you are sad, hurt or very happy.",
+          "examples": [
+            "The baby cried until Mom picked her up.",
+            "She cried happy tears when her dog came home.",
+            "I cried when I scraped my knee on the sidewalk."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To call out loudly.",
+          "examples": [
+            "\"Help!\" she cried.",
+            "\"Look!\" he cried.",
+            "The gull cried over the sea."
+          ]
+        },
+        "more": {
+          "def": "To shout something out loudly.",
+          "examples": [
+            "\"Look out!\" cried the lifeguard.",
+            "\"Hooray!\" cried the children as the circus began.",
+            "Gulls cried overhead as the boat came to shore."
+          ]
+        }
+      }
+    ]
   }
 ]

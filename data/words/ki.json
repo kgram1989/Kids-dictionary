@@ -1,5 +1,55 @@
 [
   {
+    "word": "kick",
+    "say": "kik",
+    "emoji": "🦵",
+    "forms": [
+      "kicks",
+      "kicked",
+      "kicking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit something with your foot.",
+          "examples": [
+            "Kick the ball.",
+            "He kicked the can.",
+            "I kick my feet in the pool."
+          ]
+        },
+        "more": {
+          "def": "To hit or push something with your foot.",
+          "examples": [
+            "She kicked the ball into the net.",
+            "Swimmers kick their feet to move through water.",
+            "He kicked off his muddy boots."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hit with your foot.",
+          "examples": [
+            "The kick was strong.",
+            "He gave the ball a kick.",
+            "A kick sent the ball over the fence."
+          ]
+        },
+        "more": {
+          "def": "A strike with the foot.",
+          "examples": [
+            "A strong kick sent the ball over the fence.",
+            "The goalie stopped the penalty kick.",
+            "Her swimming kick is strong and steady."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "kid",
     "say": "kid",
     "forms": [
@@ -107,6 +157,54 @@
     ]
   },
   {
+    "word": "king",
+    "say": "king",
+    "emoji": "👑",
+    "forms": [
+      "kings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man who rules a country.",
+          "examples": [
+            "The king lives in a castle.",
+            "The king wore a gold crown.",
+            "Long ago, a king ruled the land."
+          ]
+        },
+        "more": {
+          "def": "A man who rules a country and usually comes from a royal family.",
+          "examples": [
+            "The king and queen waved from the castle balcony.",
+            "In many old stories, the king has a magic sword.",
+            "Kings used to wear heavy gold crowns."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The main piece in chess.",
+          "examples": [
+            "The king can move one square.",
+            "Keep your king safe.",
+            "He moved the king."
+          ]
+        },
+        "more": {
+          "def": "In chess, the piece that must be protected; if it is trapped, the game is lost.",
+          "examples": [
+            "In chess, you win when you trap the other player's king.",
+            "A king can move only one square at a time.",
+            "She moved her king out of danger."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "kingdom",
     "say": "KING-dum",
     "emoji": "🏰",
@@ -130,6 +228,56 @@
             "Everyone in the kingdom came to the castle for the feast.",
             "The news spread across the whole kingdom.",
             "The young prince would one day rule the kingdom."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "kiss",
+    "say": "kiss",
+    "emoji": "😘",
+    "forms": [
+      "kisses",
+      "kissed",
+      "kissing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To touch with your lips to show love.",
+          "examples": [
+            "Mom kissed my cheek.",
+            "I kiss my dog on the nose.",
+            "Grandpa kisses us goodnight."
+          ]
+        },
+        "more": {
+          "def": "To touch someone or something with your lips to show love or care.",
+          "examples": [
+            "She kissed her baby brother on the forehead.",
+            "The little girl kissed her teddy bear.",
+            "He kissed the bruise on his sister's knee to make it feel better."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A touch with your lips to show love.",
+          "examples": [
+            "Give Grandma a kiss.",
+            "Dad blew me a kiss.",
+            "The baby gave the puppy a kiss."
+          ]
+        },
+        "more": {
+          "def": "A gentle touch of the lips to show love or to say hello or goodbye.",
+          "examples": [
+            "She gave her mother a kiss before the bus came.",
+            "He waved and blew a kiss from the train window.",
+            "The toddler planted a wet kiss on my cheek."
           ]
         }
       }

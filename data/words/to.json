@@ -169,6 +169,73 @@
     ]
   },
   {
+    "word": "top",
+    "say": "top",
+    "emoji": "🔝",
+    "forms": [
+      "tops"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The highest part of something.",
+          "examples": [
+            "The cat sat on top of the fence.",
+            "Climb to the top of the hill.",
+            "The star is at the top of the tree."
+          ]
+        },
+        "more": {
+          "def": "The highest part of something.",
+          "examples": [
+            "We hiked to the top of the mountain.",
+            "The top of the cake was covered with berries.",
+            "Snow covered the top of the roof."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A lid or cover.",
+          "examples": [
+            "Put the top on the jar.",
+            "The pen lost its top.",
+            "Screw on the top."
+          ]
+        },
+        "more": {
+          "def": "A lid or cap that closes a container.",
+          "examples": [
+            "I could not twist the top off the jar.",
+            "He put the top back on the marker so it would not dry out.",
+            "Where is the top for this bottle?"
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Highest or best.",
+          "examples": [
+            "She is in the top group.",
+            "He lives on the top floor.",
+            "Sam got top marks."
+          ]
+        },
+        "more": {
+          "def": "Highest in place or rank, or best.",
+          "examples": [
+            "The top shelf of the closet is too high for me to reach.",
+            "She won top prize in the art show.",
+            "He lives on the top floor of the building."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tornado",
     "say": "tor-NAY-doh",
     "emoji": "🌪️",
@@ -193,6 +260,56 @@
             "The family hid in the basement until the tornado passed.",
             "The tornado tore the roof off the barn.",
             "A siren warns the town when a tornado is near."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "touch",
+    "say": "tuch",
+    "emoji": "✋",
+    "forms": [
+      "touches",
+      "touched",
+      "touching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put your hand on something.",
+          "examples": [
+            "Do not touch the hot stove.",
+            "I touched the soft kitten.",
+            "She touches the cold glass."
+          ]
+        },
+        "more": {
+          "def": "To put a hand or finger on something so that you can feel it.",
+          "examples": [
+            "Please do not touch the paintings in the museum.",
+            "He touched the frozen pond with one toe.",
+            "Dogs love it when you touch their ears gently."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way you feel things with your skin.",
+          "examples": [
+            "Sand is rough to the touch.",
+            "I can find my socks by touch in the dark.",
+            "Her touch was light as a feather."
+          ]
+        },
+        "more": {
+          "def": "The sense that lets you feel things through your skin.",
+          "examples": [
+            "The bark felt rough to the touch.",
+            "People who cannot see can read Braille by touch.",
+            "A gentle touch on the shoulder told him it was time to go."
           ]
         }
       }

@@ -1,5 +1,81 @@
 [
   {
+    "word": "paper",
+    "say": "PAY-per",
+    "emoji": "📄",
+    "forms": [
+      "papers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Thin, flat sheets for writing and drawing.",
+          "examples": [
+            "I draw pictures on paper.",
+            "Fold the paper in half.",
+            "We recycle old paper."
+          ]
+        },
+        "more": {
+          "def": "Thin, flat material made from wood or plants, used for writing, printing and wrapping.",
+          "examples": [
+            "Paper is made from wood that is crushed and pressed flat.",
+            "She folded a sheet of paper into a bird.",
+            "Put the used paper in the recycling bin."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A newspaper.",
+          "examples": [
+            "Dad reads the paper.",
+            "The paper came this morning.",
+            "The paper had a picture of our school."
+          ]
+        },
+        "more": {
+          "def": "A set of printed pages of news that comes out each day or week.",
+          "examples": [
+            "Grandpa reads the paper while he drinks his tea.",
+            "The local paper wrote about our school fair.",
+            "Our neighbor delivers the paper every morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "parent",
+    "say": "PAIR-unt",
+    "forms": [
+      "parents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mother or father.",
+          "examples": [
+            "My parent drives me to school.",
+            "Both parents came to the show.",
+            "Ask your parent first."
+          ]
+        },
+        "more": {
+          "def": "A mother or father, or someone who takes care of a child as they would.",
+          "examples": [
+            "Each parent signed the permission slip.",
+            "The parent bird brought worms to its chicks.",
+            "A parent or guardian must come with young swimmers."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "part",
     "say": "part",
     "forms": [
@@ -50,6 +126,121 @@
             "We had a birthday party with games and a big cake.",
             "The class held a party at the end of the year.",
             "My neighbors invited everyone to a block party."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pass",
+    "say": "pas",
+    "forms": [
+      "passes",
+      "passed",
+      "passing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go past something.",
+          "examples": [
+            "Cars pass our house all day.",
+            "We passed the park on the way.",
+            "A butterfly passed by my nose."
+          ]
+        },
+        "more": {
+          "def": "To go by or move past something without stopping.",
+          "examples": [
+            "The train passed through the small town without slowing down.",
+            "We passed three farms before we reached the lake.",
+            "Please let the ambulance pass."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hand something to someone.",
+          "examples": [
+            "Please pass the salt.",
+            "He passed me the ball.",
+            "Pass the book to Mia."
+          ]
+        },
+        "more": {
+          "def": "To give something to another person by hand or by throwing it.",
+          "examples": [
+            "Could you pass the bread down to the end of the table?",
+            "The player passed the ball to her teammate near the goal.",
+            "The note was passed from desk to desk."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To do well enough on a test.",
+          "examples": [
+            "I passed my spelling test.",
+            "Did you pass the quiz?",
+            "She will pass her swimming test."
+          ]
+        },
+        "more": {
+          "def": "To do well enough on a test to move on to the next step.",
+          "examples": [
+            "He studied hard so he would pass the math test.",
+            "Everyone in the class passed the reading quiz.",
+            "She passed her swimming test and earned a new badge."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "past",
+    "say": "past",
+    "forms": [
+      "pasts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Time that is over.",
+          "examples": [
+            "In the past, people rode horses.",
+            "My grandpa tells stories about the past.",
+            "We read about the past."
+          ]
+        },
+        "more": {
+          "def": "The time before now.",
+          "examples": [
+            "In the past, people wrote letters by hand.",
+            "Grandpa told us stories about the past.",
+            "Museums teach us about the past."
+          ]
+        }
+      },
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Going by something.",
+          "examples": [
+            "Walk past the school.",
+            "The car drove past our house.",
+            "Go past the park."
+          ]
+        },
+        "more": {
+          "def": "Farther than, or on the other side of something.",
+          "examples": [
+            "Go past the bakery and turn left.",
+            "The bus drove past our house without stopping.",
+            "She ran past the finish line."
           ]
         }
       }

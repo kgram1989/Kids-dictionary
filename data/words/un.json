@@ -1,5 +1,34 @@
 [
   {
+    "word": "uncle",
+    "say": "UNG-kul",
+    "emoji": "👨",
+    "forms": [
+      "uncles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The brother of your mom or dad.",
+          "examples": [
+            "My uncle makes me laugh.",
+            "Uncle Joe lives far away.",
+            "I visit my uncle in summer."
+          ]
+        },
+        "more": {
+          "def": "The brother of your mother or father, or the husband of your aunt.",
+          "examples": [
+            "My uncle taught me how to fish at the lake.",
+            "Uncle Raj plays the drums in a band.",
+            "Both of my uncles came to my birthday party."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "uncomfortable",
     "say": "un-KUMF-ter-bul",
     "senses": [
@@ -151,6 +180,31 @@
             "Scientists use telescopes to study faraway parts of the universe.",
             "No one knows how big the universe really is.",
             "There are billions of galaxies in the universe."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "unless",
+    "say": "un-LESS",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "Except if.",
+          "examples": [
+            "We will walk unless it rains.",
+            "Take a coat unless it is warm.",
+            "Do not open it unless I say so."
+          ]
+        },
+        "more": {
+          "def": "Except if something happens or is true.",
+          "examples": [
+            "We will have the picnic unless it rains.",
+            "You cannot go outside unless you wear a coat.",
+            "I will wait here unless you need me inside."
           ]
         }
       }

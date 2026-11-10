@@ -53,5 +53,49 @@
         }
       }
     ]
+  },
+  {
+    "word": "rather",
+    "say": "RATH-er",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "A little bit.",
+          "examples": [
+            "It is rather cold.",
+            "She was rather sad.",
+            "The test was rather hard."
+          ]
+        },
+        "more": {
+          "def": "To some degree; fairly.",
+          "examples": [
+            "It was rather cold, so we wore our coats.",
+            "The box was rather heavy for a small child.",
+            "He was rather tired after the long hike."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Used to show that you like one thing better.",
+          "examples": [
+            "I would rather play outside.",
+            "She would rather have tea.",
+            "I would rather read."
+          ]
+        },
+        "more": {
+          "def": "Used to say that you like one choice more than another.",
+          "examples": [
+            "I would rather walk than ride the bus.",
+            "She would rather have juice than milk.",
+            "Would you rather swim or fish?"
+          ]
+        }
+      }
+    ]
   }
 ]

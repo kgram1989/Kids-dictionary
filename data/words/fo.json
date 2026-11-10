@@ -1,5 +1,199 @@
 [
   {
+    "word": "follow",
+    "say": "FOL-oh",
+    "forms": [
+      "follows",
+      "followed",
+      "following"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go after someone or something.",
+          "examples": [
+            "The ducklings follow their mom.",
+            "My dog follows me everywhere.",
+            "Follow me to the door."
+          ]
+        },
+        "more": {
+          "def": "To go or come after someone or something.",
+          "examples": [
+            "The baby ducks follow their mother in a straight line.",
+            "A police car followed the ambulance down the road.",
+            "Follow the path to the lake."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To do what a rule or directions say.",
+          "examples": [
+            "Follow the rules.",
+            "We followed the recipe.",
+            "Follow the map."
+          ]
+        },
+        "more": {
+          "def": "To do what directions, rules or advice say.",
+          "examples": [
+            "Please follow the directions on the box carefully.",
+            "She followed the recipe to bake the cake.",
+            "Cars must follow the traffic signs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "food",
+    "say": "food",
+    "emoji": "🍎",
+    "forms": [
+      "foods"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things that you eat.",
+          "examples": [
+            "Pizza is my favorite food.",
+            "The cat eats cat food.",
+            "Birds look for food in the snow."
+          ]
+        },
+        "more": {
+          "def": "What people and animals eat to live and grow.",
+          "examples": [
+            "Farmers grow food for the whole town.",
+            "Bears eat a lot of food in the fall before winter.",
+            "Plants make their own food using sunlight."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fool",
+    "say": "fool",
+    "forms": [
+      "fools",
+      "fooled",
+      "fooling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who does silly things.",
+          "examples": [
+            "I felt like a fool when I fell.",
+            "Only a fool would walk on thin ice.",
+            "The fool in the story danced on the table."
+          ]
+        },
+        "more": {
+          "def": "A person who acts without thinking or does something silly.",
+          "examples": [
+            "He felt like a fool when he put his shirt on backward.",
+            "The clown played the fool to make us laugh.",
+            "Only a fool would go out in the storm without a coat."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To trick someone.",
+          "examples": [
+            "You can't fool me.",
+            "The magician fooled us.",
+            "The fake spider fooled my sister."
+          ]
+        },
+        "more": {
+          "def": "To trick someone into believing something that is not true.",
+          "examples": [
+            "The magician fooled the whole audience with his card trick.",
+            "The bird's song fooled the cat into looking up.",
+            "You cannot fool me because I saw you hide it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "foot",
+    "say": "fuut",
+    "emoji": "🦶",
+    "forms": [
+      "feet"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part you stand on, at the end of your leg.",
+          "examples": [
+            "My foot hurts.",
+            "Put your left foot in the shoe.",
+            "A baby's foot is tiny."
+          ]
+        },
+        "more": {
+          "def": "The part of the body at the end of the leg, which you stand and walk on.",
+          "examples": [
+            "She stubbed her foot on the leg of the table.",
+            "A duck's webbed foot helps it paddle through the water.",
+            "The soccer player kicked the ball with the side of her foot."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way to measure how long something is.",
+          "examples": [
+            "My bed is six feet long.",
+            "The fish was one foot long.",
+            "The fence is four feet tall."
+          ]
+        },
+        "more": {
+          "def": "A unit of length equal to 12 inches, used to measure how long or tall something is.",
+          "examples": [
+            "The snowman was about five feet tall.",
+            "A baseball diamond is ninety feet from base to base.",
+            "The pool is three feet deep at one end."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The bottom part of something.",
+          "examples": [
+            "The shop is at the foot of the hill.",
+            "Put a blanket at the foot of the bed.",
+            "The cabin sits at the foot of the mountain."
+          ]
+        },
+        "more": {
+          "def": "The lowest part of something, such as a hill, a bed or a set of stairs.",
+          "examples": [
+            "A small village lay at the foot of the mountain.",
+            "The cat curled up at the foot of my bed.",
+            "Wait for me at the foot of the stairs."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "for",
     "say": "for",
     "senses": [
@@ -133,6 +327,31 @@
             "A year has four seasons.",
             "We saw four deer by the road.",
             "The clock struck four."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fourteen",
+    "say": "for-TEEN",
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "One more than thirteen.",
+          "examples": [
+            "She has fourteen pencils.",
+            "My brother is fourteen.",
+            "Fourteen ducks swam by."
+          ]
+        },
+        "more": {
+          "def": "The number 14, which comes after thirteen and before fifteen.",
+          "examples": [
+            "Two weeks is fourteen days.",
+            "The bus has fourteen rows of seats.",
+            "He read fourteen books this summer."
           ]
         }
       }

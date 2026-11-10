@@ -112,6 +112,56 @@
     ]
   },
   {
+    "word": "ship",
+    "say": "ship",
+    "emoji": "🚢",
+    "forms": [
+      "ships",
+      "shipped",
+      "shipping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very big boat.",
+          "examples": [
+            "The ship sailed across the sea.",
+            "We saw a ship at the port.",
+            "The ship carried cars."
+          ]
+        },
+        "more": {
+          "def": "A large boat that carries people or goods across the sea.",
+          "examples": [
+            "The ship sailed across the ocean for a week.",
+            "Cargo ships bring toys from faraway factories.",
+            "Dolphins swam alongside the ship."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To send something far away.",
+          "examples": [
+            "Please ship the package.",
+            "They ship toys by train.",
+            "We shipped it to Grandma."
+          ]
+        },
+        "more": {
+          "def": "To send goods from one place to another, often by truck, train or boat.",
+          "examples": [
+            "The company ships apples to stores all over the country.",
+            "We shipped a box of cookies to my cousin.",
+            "Farmers ship their corn by train."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shiver",
     "say": "SHIV-er",
     "emoji": "🥶",
@@ -137,6 +187,35 @@
             "We shivered at the bus stop in the icy wind.",
             "The swimmers shivered as they climbed out of the lake.",
             "He shivered when the cold wind blew down his neck."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shoe",
+    "say": "shoo",
+    "emoji": "👟",
+    "forms": [
+      "shoes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you wear on your foot.",
+          "examples": [
+            "Tie your shoe.",
+            "I lost a shoe.",
+            "My shoes are muddy."
+          ]
+        },
+        "more": {
+          "def": "A covering for the foot, usually with a hard bottom and a place for laces.",
+          "examples": [
+            "She tied her shoe and ran outside.",
+            "A pebble got into my shoe.",
+            "He bought new running shoes."
           ]
         }
       }

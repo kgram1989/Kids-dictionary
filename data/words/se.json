@@ -29,6 +29,35 @@
     ]
   },
   {
+    "word": "seat",
+    "say": "seet",
+    "emoji": "💺",
+    "forms": [
+      "seats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing you sit on.",
+          "examples": [
+            "Take a seat.",
+            "The bus has soft seats.",
+            "I found my seat."
+          ]
+        },
+        "more": {
+          "def": "A place where you can sit, such as a chair or bench.",
+          "examples": [
+            "The movie theater has a thousand seats.",
+            "Please take your seat and open your book.",
+            "The back seat of the car was crowded."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "second",
     "say": "SEK-und",
     "forms": [
@@ -191,6 +220,37 @@
     ]
   },
   {
+    "word": "sell",
+    "say": "sel",
+    "emoji": "🏷️",
+    "forms": [
+      "sells",
+      "sold",
+      "selling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give something and get money for it.",
+          "examples": [
+            "We sell lemonade.",
+            "Mom sold her old bike.",
+            "The shop sells toys."
+          ]
+        },
+        "more": {
+          "def": "To give something to a person who pays you money for it.",
+          "examples": [
+            "The bakery sells fresh bread every morning.",
+            "Our class sold cookies to raise money for the library.",
+            "He sold his old skateboard to a neighbor."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "send",
     "say": "send",
     "forms": [
@@ -215,6 +275,144 @@
             "I will send a postcard to my grandmother from the beach.",
             "The teacher sent a note home with each student.",
             "The coach sent the players onto the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sense",
+    "say": "senss",
+    "forms": [
+      "senses",
+      "sensed",
+      "sensing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One of the ways your body tells you what is around you.",
+          "examples": [
+            "Smell is a sense.",
+            "Dogs have a strong sense of smell.",
+            "Sight is one of your five senses."
+          ]
+        },
+        "more": {
+          "def": "One of the five powers of seeing, hearing, smelling, tasting and touching.",
+          "examples": [
+            "Bats use their sense of hearing to find insects in the dark.",
+            "Your sense of taste works together with your sense of smell.",
+            "Humans have five senses."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Good, careful thinking.",
+          "examples": [
+            "It makes sense to wear boots in the snow.",
+            "She had the sense to ask for help.",
+            "That does not make sense to me."
+          ]
+        },
+        "more": {
+          "def": "Good judgment about what is wise to do.",
+          "examples": [
+            "He had the sense to stay inside when the storm began.",
+            "It makes sense to save some of your money.",
+            "Her story did not make sense, so we asked more questions."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To feel something without being told.",
+          "examples": [
+            "I sense that you are upset.",
+            "The dog sensed that I was sad.",
+            "I sensed someone behind me."
+          ]
+        },
+        "more": {
+          "def": "To feel or become aware of something without seeing it or being told.",
+          "examples": [
+            "Sharks can sense tiny movements in the water.",
+            "She sensed that her friend was upset.",
+            "Animals can sense when a storm is coming."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "September",
+    "say": "sep-TEM-ber",
+    "emoji": "📅",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The month after August.",
+          "examples": [
+            "School starts in September.",
+            "Leaves begin to fall in September.",
+            "My sister was born in September."
+          ]
+        },
+        "more": {
+          "def": "The ninth month of the year, when autumn begins in the north.",
+          "examples": [
+            "Autumn begins in September in the northern half of the world.",
+            "Apples are ready to pick in September.",
+            "The first day of fall comes in September."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "serious",
+    "say": "SEER-ee-us",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not joking.",
+          "examples": [
+            "Be serious, please.",
+            "She had a serious face.",
+            "This is a serious talk."
+          ]
+        },
+        "more": {
+          "def": "Not joking or silly; thinking carefully about something important.",
+          "examples": [
+            "He had a serious look on his face when he told us the news.",
+            "Dad wanted to have a serious talk about the broken window.",
+            "The scientist was serious about protecting the rainforest."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very bad or very important.",
+          "examples": [
+            "A big storm is serious.",
+            "This is a serious problem.",
+            "A bad cut is serious."
+          ]
+        },
+        "more": {
+          "def": "Important and needing careful thought, or bad enough to cause worry.",
+          "examples": [
+            "A serious storm closed the roads for two days.",
+            "Forgetting to lock the gate is a serious problem for the farmer.",
+            "The doctor said the cut was not serious."
           ]
         }
       }
@@ -263,6 +461,82 @@
             "I got a set of paints for my birthday.",
             "The library has a whole set of books about space.",
             "He keeps a set of tools in the garage."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "seven",
+    "say": "SEV-un",
+    "emoji": "7️⃣",
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "The number after six.",
+          "examples": [
+            "I have seven crayons.",
+            "There are seven days in a week.",
+            "My sister is seven."
+          ]
+        },
+        "more": {
+          "def": "The number 7, which comes after six and before eight.",
+          "examples": [
+            "A week has seven days.",
+            "Seven kids played on the swings.",
+            "The bus arrives at seven in the morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "seventeen",
+    "say": "sev-un-TEEN",
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "One more than sixteen.",
+          "examples": [
+            "Seventeen kids are in my class.",
+            "My cousin is seventeen.",
+            "I counted seventeen stars."
+          ]
+        },
+        "more": {
+          "def": "The number 17, which comes after sixteen and before eighteen.",
+          "examples": [
+            "My neighbor will be seventeen on her next birthday.",
+            "The team scored seventeen points in the first half.",
+            "Seventeen cars waited at the red light."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "seventy",
+    "say": "SEV-un-tee",
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "Seven tens.",
+          "examples": [
+            "Grandpa is seventy years old.",
+            "There are seventy books on the shelf.",
+            "Count to seventy."
+          ]
+        },
+        "more": {
+          "def": "The number 70, which is seven tens.",
+          "examples": [
+            "The old oak tree is over seventy feet tall.",
+            "A turtle can live to be more than seventy years old.",
+            "The bus held seventy passengers."
           ]
         }
       }

@@ -144,6 +144,93 @@
     ]
   },
   {
+    "word": "charge",
+    "say": "charj",
+    "forms": [
+      "charges",
+      "charged",
+      "charging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To ask someone to pay money.",
+          "examples": [
+            "The shop charges two dollars for juice.",
+            "The bus charges a dollar for kids.",
+            "They charged us nothing."
+          ]
+        },
+        "more": {
+          "def": "To ask a certain amount of money for something.",
+          "examples": [
+            "The farm charges five dollars to pick a basket of berries.",
+            "The museum does not charge children under five.",
+            "How much do they charge for a pony ride?"
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put power into a battery.",
+          "examples": [
+            "I charge my tablet each night.",
+            "The toy car needs to be charged.",
+            "Mom charged the battery."
+          ]
+        },
+        "more": {
+          "def": "To fill a battery with electricity so it can work.",
+          "examples": [
+            "Plug in the tablet to charge the battery.",
+            "The electric car charges overnight in the garage.",
+            "My watch charges in about an hour."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To run forward fast.",
+          "examples": [
+            "The kids charged out of the door.",
+            "The puppy charged across the yard.",
+            "He charged down the hill on his sled."
+          ]
+        },
+        "more": {
+          "def": "To rush forward quickly.",
+          "examples": [
+            "The kids charged out the door when the bell rang.",
+            "The puppy charged across the yard to greet us.",
+            "A rhino can charge at high speed when it is startled."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The job of looking after something.",
+          "examples": [
+            "Maya is in charge of the plants.",
+            "The teacher is in charge of the class.",
+            "Who is in charge here?"
+          ]
+        },
+        "more": {
+          "def": "The responsibility for looking after or leading something.",
+          "examples": [
+            "Our coach put Dani in charge of the water bottles.",
+            "The captain is in charge of the whole ship.",
+            "Who is in charge of the library today?"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "check",
     "say": "chek",
     "forms": [
@@ -194,6 +281,111 @@
             "The cheerful bus driver greeted every child by name.",
             "He stayed cheerful even though it rained on his birthday.",
             "The nurse's cheerful voice made the patients feel better."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "child",
+    "say": "chyld",
+    "emoji": "🧒",
+    "forms": [
+      "children"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A young boy or girl.",
+          "examples": [
+            "The child ran to the park.",
+            "Each child gets a book.",
+            "A child is small and young."
+          ]
+        },
+        "more": {
+          "def": "A young person who is not yet an adult.",
+          "examples": [
+            "Every child in the class got a turn on the swing.",
+            "The child found a tiny frog under a rock.",
+            "Museums often have special programs for each child."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A son or daughter.",
+          "examples": [
+            "Grandma has three children.",
+            "Their child is in my class.",
+            "She is their only child."
+          ]
+        },
+        "more": {
+          "def": "A person's son or daughter, no matter how old they are.",
+          "examples": [
+            "My grandmother's children are my mom and my two uncles.",
+            "Even as an adult, she is still her parents' child.",
+            "The bear led her two children across the stream."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "choice",
+    "say": "choys",
+    "forms": [
+      "choices"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When you pick one thing.",
+          "examples": [
+            "It was a hard choice.",
+            "You have a choice of two toys.",
+            "Make your choice."
+          ]
+        },
+        "more": {
+          "def": "The act of picking one thing from two or more things.",
+          "examples": [
+            "It was a hard choice between the red and blue shirts.",
+            "You have a choice of milk or juice.",
+            "Her choice was to take the shorter path."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "Christmas",
+    "say": "KRISS-mus",
+    "emoji": "🎄",
+    "forms": [
+      "Christmases"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A holiday on December 25 when many people give gifts.",
+          "examples": [
+            "We decorate a tree at Christmas.",
+            "Christmas is in winter.",
+            "I sang songs at Christmas."
+          ]
+        },
+        "more": {
+          "def": "A holiday on December 25 that Christians celebrate for the birth of Jesus, when many families also give gifts.",
+          "examples": [
+            "Our family bakes cookies and gives gifts at Christmas.",
+            "Lights and wreaths decorate the town before Christmas.",
+            "We sang carols at the school concert near Christmas."
           ]
         }
       }

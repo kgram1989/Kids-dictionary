@@ -25,6 +25,55 @@
     ]
   },
   {
+    "word": "attack",
+    "say": "uh-TAK",
+    "forms": [
+      "attacks",
+      "attacked",
+      "attacking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To start a fight against someone.",
+          "examples": [
+            "The soldiers attacked the fort.",
+            "A bee may attack if it is afraid.",
+            "The fox attacked the henhouse."
+          ]
+        },
+        "more": {
+          "def": "To use force to hurt or fight against a person, animal or place.",
+          "examples": [
+            "Bees may attack if you disturb their nest.",
+            "The knights attacked the castle in the old story.",
+            "Some sharks attack only when they are scared."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A try to hurt someone with force.",
+          "examples": [
+            "The attack on the castle failed.",
+            "A bee's attack can hurt.",
+            "The fox ran away after the attack."
+          ]
+        },
+        "more": {
+          "def": "An act of using force to hurt or fight against someone.",
+          "examples": [
+            "The castle held out against the attack.",
+            "The fox made an attack on the henhouse, but the dog barked.",
+            "Wasps may make an attack if you bump their nest."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "attention",
     "say": "uh-TEN-shun",
     "senses": [

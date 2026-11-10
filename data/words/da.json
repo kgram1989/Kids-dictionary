@@ -28,6 +28,34 @@
     ]
   },
   {
+    "word": "daddy",
+    "say": "DAD-ee",
+    "forms": [
+      "daddies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A name for your father.",
+          "examples": [
+            "My daddy reads me stories.",
+            "Daddy took us to the park.",
+            "I hugged my daddy."
+          ]
+        },
+        "more": {
+          "def": "A word that young children use for their father.",
+          "examples": [
+            "The little boy ran to the door and shouted, \"Daddy's home!\"",
+            "Her daddy taught her how to ride a bike.",
+            "My daddy and I baked pancakes on Sunday."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "damage",
     "say": "DAM-ij",
     "forms": [
@@ -58,6 +86,56 @@
     ]
   },
   {
+    "word": "dance",
+    "say": "dans",
+    "emoji": "💃",
+    "forms": [
+      "dances",
+      "danced",
+      "dancing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move your body to music.",
+          "examples": [
+            "We dance at parties.",
+            "She danced to the song.",
+            "The kids danced in the rain."
+          ]
+        },
+        "more": {
+          "def": "To move your body in time to music.",
+          "examples": [
+            "The class learned to dance for the school show.",
+            "Bees dance to tell other bees where the flowers are.",
+            "They danced in the kitchen while the cookies baked."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Steps that you do to music.",
+          "examples": [
+            "I learned a new dance.",
+            "We did a silly dance.",
+            "The dance was fun to watch."
+          ]
+        },
+        "more": {
+          "def": "A set of steps and movements done to music.",
+          "examples": [
+            "The class practiced a folk dance for the school show.",
+            "Her dance told a story without any words.",
+            "The honeybee does a special dance to show where flowers are."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dangerous",
     "say": "DAYN-jer-us",
     "emoji": "⚠️",
@@ -78,6 +156,53 @@
             "Swimming in the river is dangerous when the water is high.",
             "It is dangerous to ride a bike without a helmet.",
             "Some wild mushrooms are dangerous to eat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "darling",
+    "say": "DAR-ling",
+    "forms": [
+      "darlings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A name you call someone you love.",
+          "examples": [
+            "Come here, darling.",
+            "Goodnight, darling.",
+            "Thank you, darling."
+          ]
+        },
+        "more": {
+          "def": "A word used to speak lovingly to someone.",
+          "examples": [
+            "Grandma said, \"Come here, darling, and give me a hug.\"",
+            "It is time for bed, darling.",
+            "Thank you, darling; that was kind of you."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sweet and nice to look at.",
+          "examples": [
+            "What a darling puppy!",
+            "She wore a darling hat.",
+            "The baby has a darling smile."
+          ]
+        },
+        "more": {
+          "def": "Very sweet and charming.",
+          "examples": [
+            "The kitten looked darling in its tiny sweater.",
+            "What a darling little cottage with a flower garden!",
+            "The twins wore darling matching hats."
           ]
         }
       }
@@ -125,6 +250,35 @@
             "Dates grow on tall palm trees in hot places.",
             "She put a chopped date in the muffin batter.",
             "A date is a sweet snack that is full of energy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "daughter",
+    "say": "DAW-ter",
+    "emoji": "👧",
+    "forms": [
+      "daughters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A girl who is someone's child.",
+          "examples": [
+            "My mom is Grandpa's daughter.",
+            "She has a son and a daughter.",
+            "The farmer's daughter fed the hens."
+          ]
+        },
+        "more": {
+          "def": "A girl or woman, when you are talking about her parents.",
+          "examples": [
+            "The farmer's daughter fed the chickens every morning.",
+            "Their daughter was born in the spring.",
+            "Aunt Jo's daughters are my cousins."
           ]
         }
       }

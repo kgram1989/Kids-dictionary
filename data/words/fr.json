@@ -26,6 +26,95 @@
     ]
   },
   {
+    "word": "free",
+    "say": "free",
+    "forms": [
+      "freer",
+      "freest",
+      "frees",
+      "freed",
+      "freeing"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Costing no money.",
+          "examples": [
+            "Borrowing books at the library is free.",
+            "I got a free ticket.",
+            "We got a free sample of cheese."
+          ]
+        },
+        "more": {
+          "def": "Not costing anything; given without payment.",
+          "examples": [
+            "The museum has free tickets for children on Sundays.",
+            "Everyone at the school fair got a free balloon.",
+            "Water from the fountain is free."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not locked up or tied.",
+          "examples": [
+            "The bird flew away, free at last.",
+            "After the cage opened, the rabbit was free.",
+            "Let the dog run free."
+          ]
+        },
+        "more": {
+          "def": "Not held, tied or locked up; able to move or act as you like.",
+          "examples": [
+            "The kitten was finally free of the tangled yarn.",
+            "People in a free country can say what they think.",
+            "Once the gate opened, the horses were free to run across the field."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not busy.",
+          "examples": [
+            "Are you free on Saturday?",
+            "I am free after lunch.",
+            "The bathroom is free now."
+          ]
+        },
+        "more": {
+          "def": "Not busy, so there is time to do something.",
+          "examples": [
+            "Are you free to play after school today?",
+            "Dad will be free after he finishes his work.",
+            "I have a free hour before dinner."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let someone or something go.",
+          "examples": [
+            "We freed the butterfly.",
+            "The farmer freed the lamb from the fence.",
+            "Mom freed my kite from the tree."
+          ]
+        },
+        "more": {
+          "def": "To let a person or animal go from something that holds them.",
+          "examples": [
+            "The rescuers freed the whale from the fishing net.",
+            "The gardener freed the vine from the tangled wire.",
+            "She freed the puppy from its leash at the park."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "freedom",
     "say": "FREE-dum",
     "emoji": "🕊️",
@@ -49,6 +138,35 @@
             "The people fought for their freedom.",
             "Summer vacation gives kids the freedom to play all day.",
             "The zoo released the healed eagle back to freedom."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "Friday",
+    "say": "FRY-day",
+    "emoji": "📅",
+    "forms": [
+      "Fridays"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The last school day of the week.",
+          "examples": [
+            "Friday is pizza day.",
+            "We have a spelling test on Friday.",
+            "Dad gets home early on Friday."
+          ]
+        },
+        "more": {
+          "def": "The day of the week that comes after Thursday and before Saturday.",
+          "examples": [
+            "Friday is the last day of school before the weekend.",
+            "We watch a movie in class on Friday afternoon.",
+            "She was born on a Friday in June."
           ]
         }
       }
@@ -132,6 +250,53 @@
             "The train travels from the city to the mountains.",
             "Maple syrup comes from the sap of maple trees.",
             "Our school is open from eight in the morning until three."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "front",
+    "say": "frunt",
+    "forms": [
+      "fronts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part that faces forward.",
+          "examples": [
+            "Sit in the front of the car.",
+            "The front of the house is blue.",
+            "The teacher stands at the front of the class."
+          ]
+        },
+        "more": {
+          "def": "The side or part of something that faces forward or is seen first.",
+          "examples": [
+            "The front of the card has a picture of a bear.",
+            "A bell hung on the front of the old bus.",
+            "Please come to the front of the room and read your poem."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Facing forward or near the start.",
+          "examples": [
+            "Knock on the front door.",
+            "She sat in the front seat.",
+            "We sat in the front row."
+          ]
+        },
+        "more": {
+          "def": "Located at the part of something that faces forward or is seen first.",
+          "examples": [
+            "We painted the front door bright red.",
+            "The front page of the newspaper had a picture of the parade.",
+            "Students in the front row had the best view of the stage."
           ]
         }
       }

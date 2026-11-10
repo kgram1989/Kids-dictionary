@@ -202,6 +202,56 @@
     ]
   },
   {
+    "word": "finish",
+    "say": "FIN-ish",
+    "emoji": "🏁",
+    "forms": [
+      "finishes",
+      "finished",
+      "finishing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To come to the end of something.",
+          "examples": [
+            "I finish my homework first.",
+            "She finished her lunch.",
+            "Let me finish my story."
+          ]
+        },
+        "more": {
+          "def": "To reach the end of something you were doing, so that nothing is left to do.",
+          "examples": [
+            "Please finish your breakfast before you get dressed.",
+            "The runners finished the race in under ten minutes.",
+            "He finished painting the fence just before the rain came."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The end of a race or a story.",
+          "examples": [
+            "It was a close finish.",
+            "The book has a happy finish.",
+            "The runners raced to the finish."
+          ]
+        },
+        "more": {
+          "def": "The end part of something, such as a race or a story.",
+          "examples": [
+            "The two swimmers touched the wall together at a very close finish.",
+            "The movie had an exciting finish that made everyone cheer.",
+            "The cyclists sprinted toward the finish."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fire",
     "say": "fyr",
     "forms": [
@@ -293,6 +343,56 @@
             "A starfish usually has five arms.",
             "We counted five ducks on the pond.",
             "The bell rings at five minutes to three."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fix",
+    "say": "fiks",
+    "emoji": "🔧",
+    "forms": [
+      "fixes",
+      "fixed",
+      "fixing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something work again.",
+          "examples": [
+            "Dad will fix my bike.",
+            "She fixed the toy.",
+            "Can you fix this?"
+          ]
+        },
+        "more": {
+          "def": "To repair something that is broken or not working.",
+          "examples": [
+            "Dad fixed the leak under the sink.",
+            "She fixed the tear in her jacket.",
+            "The mechanic fixes cars at the shop."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make food or a drink.",
+          "examples": [
+            "Mom fixes lunch.",
+            "I will fix a snack.",
+            "Dad fixed dinner."
+          ]
+        },
+        "more": {
+          "def": "To prepare food or a drink.",
+          "examples": [
+            "Dad fixed pancakes for breakfast.",
+            "Can I fix you a cup of tea?",
+            "She fixed sandwiches for the picnic."
           ]
         }
       }

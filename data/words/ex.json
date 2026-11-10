@@ -56,6 +56,31 @@
     ]
   },
   {
+    "word": "except",
+    "say": "ik-SEPT",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "But not.",
+          "examples": [
+            "Everyone came except Sam.",
+            "I like all fruit except pears.",
+            "The store is open every day except Sunday."
+          ]
+        },
+        "more": {
+          "def": "Not including; leaving out.",
+          "examples": [
+            "Everyone in the class went on the trip except Jo, who was sick.",
+            "All of the animals, except the lions, were awake.",
+            "The library is open every day except Sunday."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "excuse",
     "say": "ik-SKYOOZ",
     "forms": [
@@ -132,6 +157,36 @@
     ]
   },
   {
+    "word": "expect",
+    "say": "ik-SPEKT",
+    "forms": [
+      "expects",
+      "expected",
+      "expecting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To think something will happen.",
+          "examples": [
+            "I expect it will rain.",
+            "We expect Grandma at noon.",
+            "She expected a gift."
+          ]
+        },
+        "more": {
+          "def": "To believe that something will happen or that someone will arrive.",
+          "examples": [
+            "We expect the first snow to fall sometime next week.",
+            "The teacher expects everyone to bring a pencil.",
+            "I was expecting a letter, but nothing came today."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "experiment",
     "say": "ek-SPAIR-uh-munt",
     "emoji": "🧪",
@@ -155,6 +210,36 @@
             "Our science experiment showed that plants grow toward light.",
             "The scientist repeated the experiment to check her results.",
             "As an experiment, we tried baking the bread without sugar."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "explain",
+    "say": "ik-SPLAYN",
+    "forms": [
+      "explains",
+      "explained",
+      "explaining"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell how or why.",
+          "examples": [
+            "Please explain the game.",
+            "She explained the rules.",
+            "He explains how it works."
+          ]
+        },
+        "more": {
+          "def": "To make something clear by giving details or reasons.",
+          "examples": [
+            "The teacher explained how plants make food from sunlight.",
+            "Can you explain why the sky is blue?",
+            "She explained the rules of the game to the new player."
           ]
         }
       }

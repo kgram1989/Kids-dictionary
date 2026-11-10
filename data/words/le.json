@@ -1,5 +1,74 @@
 [
   {
+    "word": "lead",
+    "say": "leed",
+    "forms": [
+      "leads",
+      "led",
+      "leading"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go in front to show the way.",
+          "examples": [
+            "I lead the way to the door.",
+            "The guide led us through the cave.",
+            "A duck leads her ducklings."
+          ]
+        },
+        "more": {
+          "def": "To go first and show others where to go.",
+          "examples": [
+            "The scout leader led the hikers up the trail.",
+            "A mother duck leads her ducklings across the road.",
+            "The guide led us through the old castle."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be in charge of a group.",
+          "examples": [
+            "Who will lead the team?",
+            "She leads our club.",
+            "He led the class in song."
+          ]
+        },
+        "more": {
+          "def": "To be in charge of a group of people.",
+          "examples": [
+            "Maya will lead the school band this year.",
+            "The queen led her people with kindness.",
+            "Who wants to lead the meeting?"
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "say": "led",
+        "easy": {
+          "def": "A soft, heavy, gray metal.",
+          "examples": [
+            "Old pipes were made of lead.",
+            "Lead is very heavy.",
+            "Fishing weights are made of lead."
+          ]
+        },
+        "more": {
+          "def": "A soft, heavy, bluish-gray metal used to make weights and some batteries.",
+          "examples": [
+            "Fishers use small weights made of lead.",
+            "Lead is very heavy for its size.",
+            "Long ago, many water pipes were made of lead."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "leader",
     "say": "LEE-der",
     "forms": [
@@ -22,6 +91,38 @@
             "A good leader listens to everyone on the team.",
             "The team chose her as leader because she is fair.",
             "The scout leader showed us how to build a fire."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "learn",
+    "say": "lern",
+    "emoji": "📚",
+    "forms": [
+      "learns",
+      "learned",
+      "learnt",
+      "learning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To find out how to do something.",
+          "examples": [
+            "I learn new words at school.",
+            "She learned to ride a bike.",
+            "We are learning to swim."
+          ]
+        },
+        "more": {
+          "def": "To get new knowledge or a new skill by studying, practicing or being taught.",
+          "examples": [
+            "Children learn to read by sounding out letters and words.",
+            "He learned how to play the piano by practicing every day.",
+            "Scientists are always learning new things about space."
           ]
         }
       }
@@ -102,6 +203,54 @@
     ]
   },
   {
+    "word": "leg",
+    "say": "leg",
+    "emoji": "🦵",
+    "forms": [
+      "legs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of your body you walk on.",
+          "examples": [
+            "My leg hurts.",
+            "A dog has four legs.",
+            "She crossed her legs."
+          ]
+        },
+        "more": {
+          "def": "One of the long body parts that people and animals use to stand and walk.",
+          "examples": [
+            "A spider has eight legs.",
+            "The horse stood on its strong legs.",
+            "She stretched her legs after the long drive."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part that holds something up.",
+          "examples": [
+            "The table has four legs.",
+            "One chair leg is loose.",
+            "The leg of the bed is wobbly."
+          ]
+        },
+        "more": {
+          "def": "A long, thin part that holds up a piece of furniture.",
+          "examples": [
+            "The table leg is wobbly.",
+            "The chair has four wooden legs.",
+            "The stool's third leg was shorter than the other two."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "legend",
     "say": "LEJ-und",
     "emoji": "🐉",
@@ -154,6 +303,54 @@
             "My dad let me pick the movie on Friday night.",
             "She opened the window to let fresh air into the room.",
             "Do not let the cat get out of the house."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "letter",
+    "say": "LET-er",
+    "emoji": "✉️",
+    "forms": [
+      "letters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A note you write and mail to someone.",
+          "examples": [
+            "I wrote a letter to Grandma.",
+            "The mail carrier brought a letter.",
+            "She mailed the letter."
+          ]
+        },
+        "more": {
+          "def": "A written message that is put in an envelope and sent to someone.",
+          "examples": [
+            "She wrote a letter to her pen pal in Spain.",
+            "The mail carrier dropped a letter in our box.",
+            "He opened the letter and read it twice."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sign used in writing words.",
+          "examples": [
+            "A is a letter.",
+            "Say the letter B.",
+            "Which letter comes next?"
+          ]
+        },
+        "more": {
+          "def": "One of the symbols, such as A or B, that are used to write words.",
+          "examples": [
+            "There are twenty-six letters in the alphabet.",
+            "Her name starts with the letter M.",
+            "He learned to write each letter."
           ]
         }
       }

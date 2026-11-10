@@ -1,5 +1,55 @@
 [
   {
+    "word": "lock",
+    "say": "lok",
+    "emoji": "🔒",
+    "forms": [
+      "locks",
+      "locked",
+      "locking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing that keeps a door shut.",
+          "examples": [
+            "The lock is on the door.",
+            "Put the key in the lock.",
+            "Dad checked the lock."
+          ]
+        },
+        "more": {
+          "def": "A device that keeps a door, box or gate shut until you use a key or code.",
+          "examples": [
+            "He turned the key in the lock.",
+            "The bike has a strong lock.",
+            "The old chest had a rusty lock."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shut a door with a key.",
+          "examples": [
+            "Lock the door.",
+            "Mom locked the car.",
+            "I lock my bike."
+          ]
+        },
+        "more": {
+          "def": "To fasten a door, gate or box with a key or code so that it cannot be opened.",
+          "examples": [
+            "Please lock the gate when you leave.",
+            "She locked her bike to the rack.",
+            "He locked the box and hid the key."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lonely",
     "say": "LOHN-lee",
     "forms": [
@@ -97,6 +147,53 @@
             "The old house looks scary at night.",
             "You look tired, so maybe you should rest.",
             "Those clouds look like they will bring a storm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lord",
+    "say": "lord",
+    "forms": [
+      "lords"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man with a high rank in some countries.",
+          "examples": [
+            "The lord lived in a big castle.",
+            "The king spoke to a lord.",
+            "A lord owned the land."
+          ]
+        },
+        "more": {
+          "def": "A man of high rank, especially in old stories and in some countries.",
+          "examples": [
+            "The lord of the castle held a feast for the town.",
+            "In the story, the lord rode out on a white horse.",
+            "The lords and ladies danced in the great hall."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A name that some people use for God.",
+          "examples": [
+            "They sang a song to the Lord.",
+            "Some families say a prayer to the Lord before dinner.",
+            "The church choir sang about the Lord."
+          ]
+        },
+        "more": {
+          "def": "A name for God that is used in some religions.",
+          "examples": [
+            "People in church sang a song to praise the Lord.",
+            "Many people pray to the Lord each day.",
+            "The choir sang a hymn about the Lord."
           ]
         }
       }

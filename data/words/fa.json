@@ -28,6 +28,85 @@
     ]
   },
   {
+    "word": "fact",
+    "say": "fakt",
+    "forms": [
+      "facts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that is true.",
+          "examples": [
+            "It is a fact that cats purr.",
+            "A spider has eight legs; that is a fact.",
+            "Here is a fun fact about frogs."
+          ]
+        },
+        "more": {
+          "def": "Something that is known to be true and can be checked.",
+          "examples": [
+            "It is a fact that the Earth goes around the sun.",
+            "Check your facts before you share a story.",
+            "The librarian told us an amazing fact about octopuses."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fall",
+    "say": "fawl",
+    "emoji": "🍂",
+    "forms": [
+      "falls",
+      "fell",
+      "fallen",
+      "falling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To drop down to the ground.",
+          "examples": [
+            "Leaves fall from the trees.",
+            "Rain falls from the sky.",
+            "Be careful not to fall."
+          ]
+        },
+        "more": {
+          "def": "To drop down from a higher place, often by accident.",
+          "examples": [
+            "Snow began to fall softly outside the classroom window.",
+            "The toddler tripped and fell onto the soft rug.",
+            "Apples fall from the tree when they are ripe."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The season after summer.",
+          "examples": [
+            "Leaves change color in the fall.",
+            "School starts in the fall.",
+            "We pick apples in the fall."
+          ]
+        },
+        "more": {
+          "def": "The season between summer and winter, when leaves change color and the days get shorter.",
+          "examples": [
+            "In the fall, geese fly south in big V shapes.",
+            "We carve pumpkins every fall.",
+            "The air gets crisp and cool during the fall."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "familiar",
     "say": "fuh-MIL-yer",
     "senses": [
@@ -151,6 +230,55 @@
     ]
   },
   {
+    "word": "fast",
+    "say": "fast",
+    "emoji": "⚡",
+    "forms": [
+      "faster",
+      "fastest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Moving with great speed.",
+          "examples": [
+            "A cheetah is fast.",
+            "My sister is a fast runner.",
+            "We took the fast train."
+          ]
+        },
+        "more": {
+          "def": "Moving at a high speed, or taking only a short time.",
+          "examples": [
+            "The fast river swept the leaves downstream.",
+            "She is the fastest swimmer on our team.",
+            "A fast train can travel across the country in a day."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a quick way.",
+          "examples": [
+            "Run fast!",
+            "The car went fast.",
+            "She talks fast."
+          ]
+        },
+        "more": {
+          "def": "At a high speed or in a short time.",
+          "examples": [
+            "The snow was falling so fast that we could hardly see.",
+            "Please do not talk so fast because I cannot write it down.",
+            "He rode his bike as fast as he could down the hill."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "father",
     "say": "FAH-ther",
     "forms": [
@@ -173,6 +301,53 @@
             "My father reads me a story every night.",
             "The father bird brought a worm to the nest.",
             "She helped her father plant tomatoes in the garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fault",
+    "say": "fawlt",
+    "forms": [
+      "faults"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The reason something bad happened.",
+          "examples": [
+            "It was my fault.",
+            "The mess is not his fault.",
+            "It is nobody's fault."
+          ]
+        },
+        "more": {
+          "def": "The blame or responsibility for something that went wrong.",
+          "examples": [
+            "It was my fault that the cup broke.",
+            "Whose fault was it that we were late?",
+            "The accident was nobody's fault."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that is not good about a person or thing.",
+          "examples": [
+            "His only fault is being late.",
+            "She has few faults.",
+            "One fault of the toy is its weak wheel."
+          ]
+        },
+        "more": {
+          "def": "A weakness or flaw in a person or thing.",
+          "examples": [
+            "One fault in the design was a loose handle.",
+            "Being late is his only fault.",
+            "The inspector looked for faults in the bridge."
           ]
         }
       }

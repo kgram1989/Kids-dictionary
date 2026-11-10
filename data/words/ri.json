@@ -1,5 +1,75 @@
 [
   {
+    "word": "ride",
+    "say": "ryd",
+    "emoji": "🚲",
+    "forms": [
+      "rides",
+      "rode",
+      "ridden",
+      "riding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To sit on something and be carried along.",
+          "examples": [
+            "I ride my bike.",
+            "We ride the bus to school.",
+            "She rode a horse."
+          ]
+        },
+        "more": {
+          "def": "To sit on or in something, such as a bike, a horse or a vehicle, as it carries you along.",
+          "examples": [
+            "We rode the ferry across the bay to the island.",
+            "He rides his bike to the library on Saturdays.",
+            "Cowboys used to ride horses across the plains."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A trip in a car or on a bike.",
+          "examples": [
+            "Can I have a ride to school?",
+            "The bus ride was long.",
+            "We took a ride on the train."
+          ]
+        },
+        "more": {
+          "def": "A trip in a vehicle or on an animal.",
+          "examples": [
+            "The ride to the airport took about forty minutes.",
+            "Dad gave my friend a ride home after practice.",
+            "The kids waited in line for a ride on the pony."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fun machine at a fair that carries you around.",
+          "examples": [
+            "The Ferris wheel is my favorite ride.",
+            "I was too short for that ride.",
+            "This ride goes up very high."
+          ]
+        },
+        "more": {
+          "def": "A machine at a fair or amusement park that carries people around for fun.",
+          "examples": [
+            "The roller coaster was the tallest ride in the park.",
+            "Tickets for each ride cost two coins.",
+            "She was too small to go on the spinning ride."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "right",
     "say": "ryt",
     "senses": [
@@ -38,6 +108,76 @@
             "Drivers in this country stay on the right side of the road.",
             "She held the paintbrush in her right hand.",
             "The library is on your right as you walk in."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ring",
+    "say": "ring",
+    "emoji": "💍",
+    "forms": [
+      "rings",
+      "rang",
+      "rung",
+      "ringing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round band you wear on your finger.",
+          "examples": [
+            "She wears a gold ring.",
+            "The ring is too big.",
+            "He found a ring in the sand."
+          ]
+        },
+        "more": {
+          "def": "A small circle of metal worn as jewelry on a finger.",
+          "examples": [
+            "She wore a silver ring on her finger.",
+            "The ring had a tiny blue stone.",
+            "He lost the ring in the grass."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A circle.",
+          "examples": [
+            "The kids sat in a ring.",
+            "A ring of mushrooms grew here.",
+            "Saturn has rings."
+          ]
+        },
+        "more": {
+          "def": "A shape like a circle, or a group standing in a circle.",
+          "examples": [
+            "Saturn is surrounded by rings of ice and dust.",
+            "The children stood in a ring and held hands.",
+            "A ring of tall trees circled the pond."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make the sound of a bell.",
+          "examples": [
+            "The bell rings at noon.",
+            "The phone rang.",
+            "I ring the doorbell."
+          ]
+        },
+        "more": {
+          "def": "To make a clear sound like a bell.",
+          "examples": [
+            "The school bell rings at the end of the day.",
+            "The phone rang three times before I answered.",
+            "Church bells rang across the town."
           ]
         }
       }

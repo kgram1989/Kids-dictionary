@@ -1,5 +1,65 @@
 [
   {
+    "word": "teach",
+    "say": "teech",
+    "emoji": "👩‍🏫",
+    "forms": [
+      "teaches",
+      "taught",
+      "teaching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To help someone learn.",
+          "examples": [
+            "Mom teaches me to cook.",
+            "She taught us a song.",
+            "He teaches art."
+          ]
+        },
+        "more": {
+          "def": "To show someone how to do something or give lessons in a subject.",
+          "examples": [
+            "My grandfather taught me how to play chess.",
+            "She teaches music at the elementary school.",
+            "Parents teach their children to share."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "team",
+    "say": "teem",
+    "emoji": "🏅",
+    "forms": [
+      "teams"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group that works or plays together.",
+          "examples": [
+            "Our team won the game.",
+            "I am on a soccer team.",
+            "The team shared the trophy."
+          ]
+        },
+        "more": {
+          "def": "A group of people who play a sport or work together toward the same goal.",
+          "examples": [
+            "Our soccer team practices twice a week.",
+            "A team of scientists studied the volcano for years.",
+            "The two teams shook hands after the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "telescope",
     "say": "TEL-uh-skohp",
     "emoji": "🔭",
@@ -88,6 +148,32 @@
     ]
   },
   {
+    "word": "ten",
+    "say": "ten",
+    "emoji": "🔟",
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "The number after nine.",
+          "examples": [
+            "I have ten fingers.",
+            "Count to ten.",
+            "Ten kids are in line."
+          ]
+        },
+        "more": {
+          "def": "The number 10, which is one more than nine.",
+          "examples": [
+            "A dime is worth ten cents.",
+            "She counted by tens up to a hundred.",
+            "The cookies bake for ten minutes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "terrible",
     "say": "TAIR-uh-bul",
     "senses": [
@@ -107,6 +193,56 @@
             "A terrible storm knocked out the power for two days.",
             "The roads were in terrible shape after the flood.",
             "He felt terrible about forgetting her birthday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "test",
+    "say": "test",
+    "emoji": "📝",
+    "forms": [
+      "tests",
+      "tested",
+      "testing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Questions that show what you know.",
+          "examples": [
+            "We have a spelling test.",
+            "I got every answer right on the test.",
+            "The math test was easy."
+          ]
+        },
+        "more": {
+          "def": "A set of questions or tasks that shows how much you know or can do.",
+          "examples": [
+            "I studied hard for my science test.",
+            "The vision test at school was easy.",
+            "Each student took a spelling test on Friday."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To try something to see how it works.",
+          "examples": [
+            "We test the boat in the tub.",
+            "She tested the water with her toe.",
+            "Dad tests the smoke alarm."
+          ]
+        },
+        "more": {
+          "def": "To try something out to find out how well it works or what it is.",
+          "examples": [
+            "Scientists tested the new robot in the lab.",
+            "She tested the water with her toe before jumping in.",
+            "We tested which paper towel soaks up the most water."
           ]
         }
       }

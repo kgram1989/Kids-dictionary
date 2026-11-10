@@ -254,6 +254,54 @@
     ]
   },
   {
+    "word": "card",
+    "say": "kard",
+    "emoji": "🃏",
+    "forms": [
+      "cards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece of stiff paper with a message.",
+          "examples": [
+            "I made a card for Mom.",
+            "She sent a birthday card.",
+            "We got a card in the mail."
+          ]
+        },
+        "more": {
+          "def": "A piece of stiff paper with a picture or message, sent for a special day.",
+          "examples": [
+            "We made a card for Grandma's birthday.",
+            "She sent a thank-you card to her teacher.",
+            "A get-well card arrived in the mail."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One of a set used in games.",
+          "examples": [
+            "Pick a card.",
+            "We play a card game.",
+            "A card fell on the floor."
+          ]
+        },
+        "more": {
+          "def": "One of a set of small pieces of stiff paper used to play games.",
+          "examples": [
+            "She dealt seven cards to each player.",
+            "A deck of cards has fifty-two cards.",
+            "He drew a card and smiled."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "care",
     "say": "kair",
     "forms": [
@@ -322,6 +370,36 @@
             "She was careful not to step on the wet paint.",
             "He made a careful drawing of the bird's feathers.",
             "Be careful to check your answers before you turn in the test."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "carry",
+    "say": "KAIR-ee",
+    "forms": [
+      "carries",
+      "carried",
+      "carrying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hold something and take it somewhere.",
+          "examples": [
+            "I carry my bag.",
+            "Dad carried me upstairs.",
+            "Ants carry crumbs."
+          ]
+        },
+        "more": {
+          "def": "To hold something while you move it from one place to another.",
+          "examples": [
+            "She carried a tray of cups to the table.",
+            "Ants can carry food many times their own weight.",
+            "Please carry the groceries into the kitchen."
           ]
         }
       }

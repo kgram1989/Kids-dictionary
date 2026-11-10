@@ -28,6 +28,56 @@
     ]
   },
   {
+    "word": "train",
+    "say": "trayn",
+    "emoji": "🚆",
+    "forms": [
+      "trains",
+      "trained",
+      "training"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A line of cars that runs on tracks.",
+          "examples": [
+            "We rode a train.",
+            "The train is long.",
+            "A train goes through the town."
+          ]
+        },
+        "more": {
+          "def": "A line of connected cars pulled along a track, carrying people or goods.",
+          "examples": [
+            "The train rolled slowly out of the station.",
+            "A freight train carries coal and grain across the country.",
+            "We took the train to see the city."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To teach someone a skill by practicing.",
+          "examples": [
+            "I train my dog.",
+            "She trains for the race.",
+            "He is training to swim."
+          ]
+        },
+        "more": {
+          "def": "To teach a person or animal a skill, or to practice to get better.",
+          "examples": [
+            "She trained her puppy to sit and stay.",
+            "The runners train every morning for the big race.",
+            "Doctors train for many years before they work."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "transparent",
     "say": "trans-PAIR-unt",
     "emoji": "🪟",
@@ -223,6 +273,34 @@
             "You can trust her to keep a promise.",
             "Do you trust the weather report?",
             "It takes time to trust someone new."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "truth",
+    "say": "trooth",
+    "forms": [
+      "truths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What is real and not pretend.",
+          "examples": [
+            "Tell the truth, please.",
+            "The truth is that I forgot my lunch.",
+            "He told the truth about the broken cup."
+          ]
+        },
+        "more": {
+          "def": "The facts about something as they really are, not made up or false.",
+          "examples": [
+            "The scientist looked for the truth by doing careful tests.",
+            "She told the truth about how the vase got broken.",
+            "There is a lot of truth in that old story."
           ]
         }
       }

@@ -47,5 +47,103 @@
         }
       }
     ]
+  },
+  {
+    "word": "picture",
+    "say": "PIK-cher",
+    "emoji": "🖼️",
+    "forms": [
+      "pictures",
+      "pictured",
+      "picturing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A drawing, a painting or a photo.",
+          "examples": [
+            "I drew a picture of my dog.",
+            "There is a picture on the wall.",
+            "Mom took a picture of us."
+          ]
+        },
+        "more": {
+          "def": "A drawing, painting or photograph that shows how something looks.",
+          "examples": [
+            "She painted a picture of the mountains.",
+            "Dad took a picture of us at the beach.",
+            "A picture of a dragon is on the book's cover."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To see something in your mind.",
+          "examples": [
+            "Picture a big red balloon.",
+            "I can picture my house.",
+            "Can you picture the beach?"
+          ]
+        },
+        "more": {
+          "def": "To form an image of something in your mind.",
+          "examples": [
+            "Close your eyes and picture a quiet forest.",
+            "He pictured himself winning the race.",
+            "I can picture the whole room, with the red couch."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "piece",
+    "say": "peess",
+    "emoji": "🧩",
+    "forms": [
+      "pieces"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of something bigger.",
+          "examples": [
+            "I ate a piece of pie.",
+            "A piece fell off the toy.",
+            "Give me a piece of paper."
+          ]
+        },
+        "more": {
+          "def": "A part that has been cut, broken or taken from a whole thing.",
+          "examples": [
+            "She cut the cake into twelve equal pieces.",
+            "One piece of the puzzle was missing.",
+            "He tore a piece of tape off the roll."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One work of music, writing or art.",
+          "examples": [
+            "She played a piece on the piano.",
+            "That piece of music is slow.",
+            "The art show has a piece by every child."
+          ]
+        },
+        "more": {
+          "def": "A single work of music, writing or art.",
+          "examples": [
+            "The orchestra played a lovely piece by a famous composer.",
+            "The student read a short piece of her writing to the class.",
+            "He painted a piece for the school gallery."
+          ]
+        }
+      }
+    ]
   }
 ]

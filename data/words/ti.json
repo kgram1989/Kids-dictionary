@@ -30,6 +30,50 @@
     ]
   },
   {
+    "word": "till",
+    "say": "til",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Up to a time.",
+          "examples": [
+            "Wait till noon.",
+            "I played till dinner.",
+            "School is open till three."
+          ]
+        },
+        "more": {
+          "def": "Up to a certain time; until.",
+          "examples": [
+            "The store is open till nine at night.",
+            "We stayed up till midnight on New Year's Eve.",
+            "The pool is open from morning till sunset."
+          ]
+        }
+      },
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "Up to the time when.",
+          "examples": [
+            "Stay here till Mom comes.",
+            "Keep stirring till it is smooth.",
+            "I will wait till you finish."
+          ]
+        },
+        "more": {
+          "def": "Up to the time when something happens.",
+          "examples": [
+            "Stir the batter till it is smooth.",
+            "We kept playing till it got dark.",
+            "Please wait till the light turns green."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "time",
     "say": "tym",
     "forms": [
@@ -101,6 +145,51 @@
             "A tiny seed can grow into a giant tree.",
             "There was a tiny crack in the glass.",
             "The kitten was so tiny that it fit in my hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tired",
+    "say": "tyrd",
+    "emoji": "😴",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Needing rest or sleep.",
+          "examples": [
+            "I am tired after the race.",
+            "The baby is tired.",
+            "She felt tired at bedtime."
+          ]
+        },
+        "more": {
+          "def": "Feeling that you need to rest or sleep.",
+          "examples": [
+            "He was tired after climbing the steep hill.",
+            "The tired puppy fell asleep on the rug.",
+            "I felt tired after staying up late."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Bored with something.",
+          "examples": [
+            "I am tired of rain.",
+            "She is tired of waiting.",
+            "He got tired of the game."
+          ]
+        },
+        "more": {
+          "def": "Having had enough of something because it has gone on too long.",
+          "examples": [
+            "I am tired of eating the same lunch every day.",
+            "They got tired of waiting in the long line.",
+            "She grew tired of the noisy game."
           ]
         }
       }

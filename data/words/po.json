@@ -144,6 +144,73 @@
     ]
   },
   {
+    "word": "poor",
+    "say": "puur",
+    "forms": [
+      "poorer",
+      "poorest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having very little money.",
+          "examples": [
+            "The poor family needed food.",
+            "They were poor, but happy.",
+            "The poor village had one school."
+          ]
+        },
+        "more": {
+          "def": "Having little money or few things.",
+          "examples": [
+            "Long ago, a poor farmer found a magic bean.",
+            "Some poor families get help buying food.",
+            "The poor town had one old school."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Used when you feel sorry for someone.",
+          "examples": [
+            "Poor kitten, you are wet!",
+            "Poor baby is tired.",
+            "The poor bird hurt its wing."
+          ]
+        },
+        "more": {
+          "def": "Used to show that you feel sorry for someone.",
+          "examples": [
+            "The poor puppy is shivering in the rain.",
+            "Poor Max had to stay home with a cold.",
+            "The poor kitten was stuck in the tree."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not good.",
+          "examples": [
+            "His writing is poor.",
+            "The poor light made it hard to read.",
+            "Poor weather ruined the picnic."
+          ]
+        },
+        "more": {
+          "def": "Of low quality or not good enough.",
+          "examples": [
+            "The sound in the old theater was poor.",
+            "She got a poor grade because she did not study.",
+            "A poor harvest meant less food for the winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "popular",
     "say": "POP-yuh-ler",
     "senses": [
@@ -163,6 +230,79 @@
             "That song is so popular that everyone knows the words.",
             "The beach is popular with tourists in summer.",
             "She is popular because she is friendly to everyone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "possible",
+    "say": "POS-uh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to happen.",
+          "examples": [
+            "It is possible to fly.",
+            "Is it possible to go?",
+            "Rain is possible."
+          ]
+        },
+        "more": {
+          "def": "Able to happen, be done or be true.",
+          "examples": [
+            "It is possible to see the stars from here on a clear night.",
+            "Is it possible to finish before lunch?",
+            "Snow is possible tomorrow, but it may rain instead."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "power",
+    "say": "POW-er",
+    "emoji": "⚡",
+    "forms": [
+      "powers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The strength to make things happen.",
+          "examples": [
+            "The wave had great power.",
+            "I used all my power to push.",
+            "Superheroes have special powers."
+          ]
+        },
+        "more": {
+          "def": "The ability or strength to do something or to make something happen.",
+          "examples": [
+            "A hurricane has enough power to knock down trees.",
+            "Whales have great power in their tails.",
+            "The king had the power to make new laws."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Energy that makes machines work.",
+          "examples": [
+            "The storm cut the power to our street.",
+            "Solar panels make power from sunlight.",
+            "We lost power, so I used a flashlight."
+          ]
+        },
+        "more": {
+          "def": "Energy, especially electricity, that is used to run machines and light buildings.",
+          "examples": [
+            "The power went out in the whole city during the storm.",
+            "Windmills turn wind into power for homes.",
+            "A small battery gives power to the toy car."
           ]
         }
       }

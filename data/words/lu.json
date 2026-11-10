@@ -1,5 +1,31 @@
 [
   {
+    "word": "luck",
+    "say": "luk",
+    "emoji": "🍀",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Good things that happen by chance.",
+          "examples": [
+            "Good luck on your test!",
+            "It was luck that we found it.",
+            "I have bad luck today."
+          ]
+        },
+        "more": {
+          "def": "Things that happen by chance, good or bad, which you do not control.",
+          "examples": [
+            "It was pure luck that we found the key in the grass.",
+            "Good luck with your science project!",
+            "With a little luck, the rain will stop before the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lucky",
     "say": "LUK-ee",
     "emoji": "🍀",
@@ -24,6 +50,35 @@
             "We were lucky that the rain stopped just before the game.",
             "He felt lucky to have such kind grandparents.",
             "It was a lucky guess, but it was right."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lunch",
+    "say": "lunch",
+    "emoji": "🥪",
+    "forms": [
+      "lunches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The meal you eat in the middle of the day.",
+          "examples": [
+            "I eat lunch at noon.",
+            "My lunch is in my bag.",
+            "We have lunch at school."
+          ]
+        },
+        "more": {
+          "def": "The meal that people eat in the middle of the day.",
+          "examples": [
+            "We ate lunch on the grass in the park.",
+            "She packed a sandwich and fruit for lunch.",
+            "The bell rang for lunch."
           ]
         }
       }
