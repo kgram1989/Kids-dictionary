@@ -1,5 +1,33 @@
 [
   {
+    "word": "exact",
+    "say": "ig-ZAKT",
+    "forms": [
+      "exactly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Just right, with nothing wrong.",
+          "examples": [
+            "What is the exact time?",
+            "This is the exact spot.",
+            "Give me the exact number."
+          ]
+        },
+        "more": {
+          "def": "Completely correct, with no mistakes.",
+          "examples": [
+            "The exact time is four fifteen.",
+            "She counted out the exact change for the bus.",
+            "Scientists need exact measurements for the experiment."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "exactly",
     "say": "ig-ZAKT-lee",
     "senses": [
@@ -19,6 +47,34 @@
             "The two pieces fit together exactly.",
             "It is exactly three o'clock.",
             "I knew exactly where I had put my keys."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "exam",
+    "say": "ig-ZAM",
+    "forms": [
+      "exams"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A test.",
+          "examples": [
+            "I have an exam.",
+            "The exam is on math.",
+            "I passed the exam."
+          ]
+        },
+        "more": {
+          "def": "A test that shows how much you know.",
+          "examples": [
+            "I studied for my math exam.",
+            "The exam had twenty questions.",
+            "She was glad to pass the exam."
           ]
         }
       }
@@ -144,6 +200,55 @@
     ]
   },
   {
+    "word": "exchange",
+    "say": "iks-CHAYNJ",
+    "forms": [
+      "exchanges",
+      "exchanged",
+      "exchanging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give one thing and get another.",
+          "examples": [
+            "We exchange cards.",
+            "I will exchange this shirt for a bigger one.",
+            "They exchanged gifts."
+          ]
+        },
+        "more": {
+          "def": "To give something and get something else in return.",
+          "examples": [
+            "The kids exchanged stickers at lunch.",
+            "Dad exchanged the shirt for a larger size.",
+            "The two teams exchanged gifts after the game."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Trading one thing for another.",
+          "examples": [
+            "A swap is an exchange.",
+            "The exchange of cards was fun.",
+            "We made an exchange."
+          ]
+        },
+        "more": {
+          "def": "The act of giving one thing and getting another in its place.",
+          "examples": [
+            "The class held a book exchange in the library.",
+            "We made an exchange: my apple for his cookie.",
+            "An exchange of letters kept the two friends close."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "excited",
     "say": "ik-SY-tid",
     "senses": [
@@ -244,6 +349,105 @@
     ]
   },
   {
+    "word": "execute",
+    "say": "EK-sih-kyoot",
+    "forms": [
+      "executes",
+      "executed",
+      "executing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To carry out a plan or order.",
+          "examples": [
+            "The team executed the plan.",
+            "She executed a perfect jump.",
+            "He executed the order."
+          ]
+        },
+        "more": {
+          "def": "To do or carry out something, such as a plan or a movement.",
+          "examples": [
+            "The team executed the plan perfectly.",
+            "The gymnast executed a perfect jump.",
+            "The workers executed the orders they were given."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "exercise",
+    "say": "EK-ser-syz",
+    "emoji": "🏃",
+    "forms": [
+      "exercises",
+      "exercised",
+      "exercising"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Moving your body to stay strong and healthy.",
+          "examples": [
+            "I get exercise at recess.",
+            "Walking is good exercise.",
+            "Dogs need exercise."
+          ]
+        },
+        "more": {
+          "def": "Activity that makes your body stronger, such as running or swimming.",
+          "examples": [
+            "Running around the playground is good exercise.",
+            "The doctor said exercise helps our hearts stay healthy.",
+            "The dog gets exercise on long walks."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A task you do to practice something.",
+          "examples": [
+            "The math exercise was easy.",
+            "We did a spelling exercise.",
+            "Do the first exercise."
+          ]
+        },
+        "more": {
+          "def": "A set of questions or tasks that you do to practice a skill.",
+          "examples": [
+            "The teacher gave us a reading exercise.",
+            "Each exercise on the page has five questions.",
+            "We did a math exercise on fractions."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move your body to stay strong.",
+          "examples": [
+            "I exercise every day.",
+            "We exercised in the gym.",
+            "They exercise their dogs."
+          ]
+        },
+        "more": {
+          "def": "To do activities that make your body strong and healthy.",
+          "examples": [
+            "She exercises by riding her bike.",
+            "We exercised in gym class by running laps.",
+            "Cats and dogs both need to exercise."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "exhausted",
     "say": "eg-ZAW-stid",
     "emoji": "😴",
@@ -300,6 +504,56 @@
     ]
   },
   {
+    "word": "exit",
+    "say": "EG-zit",
+    "emoji": "🚪",
+    "forms": [
+      "exits",
+      "exited",
+      "exiting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way out of a place.",
+          "examples": [
+            "The exit is on the left.",
+            "We left through the exit.",
+            "The sign points to the exit."
+          ]
+        },
+        "more": {
+          "def": "A door or passage that you use to leave a place.",
+          "examples": [
+            "Follow the green sign to the exit.",
+            "The theater has an exit on each side.",
+            "We took the next exit off the highway."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go out of a place.",
+          "examples": [
+            "Please exit the bus.",
+            "We exited the building.",
+            "She exited through the back door."
+          ]
+        },
+        "more": {
+          "def": "To leave a place.",
+          "examples": [
+            "Please exit the bus through the back door.",
+            "The actors exited the stage.",
+            "We exited the highway to find lunch."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "expect",
     "say": "ik-SPEKT",
     "forms": [
@@ -324,6 +578,60 @@
             "We expect the first snow to fall sometime next week.",
             "The teacher expects everyone to bring a pencil.",
             "I was expecting a letter, but nothing came today."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "expense",
+    "say": "ik-SPENSS",
+    "forms": [
+      "expenses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money you spend.",
+          "examples": [
+            "The trip was an expense.",
+            "The expense was high.",
+            "We counted the expense."
+          ]
+        },
+        "more": {
+          "def": "Money that you spend on something, or the cost of something.",
+          "examples": [
+            "The trip was a big expense for the family.",
+            "Dad wrote down every expense.",
+            "A new roof is a large expense."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "expensive",
+    "say": "ik-SPEN-siv",
+    "emoji": "💰",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Costing a lot of money.",
+          "examples": [
+            "The big toy is expensive.",
+            "That coat is too expensive.",
+            "Gold is expensive."
+          ]
+        },
+        "more": {
+          "def": "Costing more money than most people want to spend.",
+          "examples": [
+            "The new computer was too expensive for us to buy.",
+            "Diamonds are expensive because they are rare.",
+            "An expensive meal at a fancy place can cost a lot."
           ]
         }
       }
@@ -472,6 +780,65 @@
     ]
   },
   {
+    "word": "explanation",
+    "say": "ek-spluh-NAY-shun",
+    "forms": [
+      "explanations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words that tell why or how something happens.",
+          "examples": [
+            "The teacher gave an explanation.",
+            "I asked for an explanation.",
+            "Her explanation was clear."
+          ]
+        },
+        "more": {
+          "def": "A statement that tells how something works or why something happened.",
+          "examples": [
+            "The teacher gave a clear explanation of how plants grow.",
+            "He had a good explanation for being late.",
+            "The book's explanation of the water cycle had a diagram."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "explode",
+    "say": "ik-SPLOHD",
+    "emoji": "💥",
+    "forms": [
+      "explodes",
+      "exploded",
+      "exploding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To burst with a loud bang.",
+          "examples": [
+            "The balloon will explode.",
+            "The firework exploded.",
+            "The popcorn exploded in the pan."
+          ]
+        },
+        "more": {
+          "def": "To burst apart suddenly and loudly.",
+          "examples": [
+            "The balloon exploded with a loud pop.",
+            "The firework exploded in the sky.",
+            "The volcano exploded and sent ash into the air."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "explore",
     "say": "ek-SPLOR",
     "emoji": "🗺️",
@@ -497,6 +864,142 @@
             "The divers explored a cave deep under the sea.",
             "Robots explore the surface of Mars.",
             "On vacation, we explored the old part of the city."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "explosion",
+    "say": "ik-SPLOH-zhun",
+    "emoji": "💥",
+    "forms": [
+      "explosions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sudden, loud burst.",
+          "examples": [
+            "We heard an explosion.",
+            "The firework made an explosion.",
+            "The explosion was loud."
+          ]
+        },
+        "more": {
+          "def": "A sudden, very loud burst that sends things flying.",
+          "examples": [
+            "A loud explosion came from the old factory.",
+            "Fireworks make bright explosions in the sky.",
+            "A volcano can cause a huge explosion."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "expose",
+    "say": "ik-SPOHZ",
+    "forms": [
+      "exposes",
+      "exposed",
+      "exposing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let something be seen or touched.",
+          "examples": [
+            "Do not expose the film to light.",
+            "The wind exposed the rocks.",
+            "The low tide exposes the sand."
+          ]
+        },
+        "more": {
+          "def": "To uncover something so it can be seen, or to leave something open to weather or danger.",
+          "examples": [
+            "The low tide exposed the rocks along the shore.",
+            "Do not expose the paint to too much sun.",
+            "The fox's cover was exposed when the snow melted."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "express",
+    "say": "ik-SPRESS",
+    "forms": [
+      "expresses",
+      "expressed",
+      "expressing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To show how you feel or what you think.",
+          "examples": [
+            "I express my feelings.",
+            "She expressed her thanks.",
+            "He expressed his idea in words."
+          ]
+        },
+        "more": {
+          "def": "To let others know what you think or feel, in words, art or actions.",
+          "examples": [
+            "She expressed her thanks with a card.",
+            "Painting helps him express his feelings.",
+            "The children expressed their ideas in drawings."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "expression",
+    "say": "ik-SPRESH-un",
+    "forms": [
+      "expressions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The look on someone's face.",
+          "examples": [
+            "She had a happy expression.",
+            "His expression was sad.",
+            "I saw a surprised expression."
+          ]
+        },
+        "more": {
+          "def": "A look on a person's face that shows what they feel.",
+          "examples": [
+            "She had a happy expression on her face.",
+            "His expression changed when he heard the news.",
+            "The baby's funny expression made us laugh."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of words with a special meaning.",
+          "examples": [
+            "\"Piece of cake\" is an expression.",
+            "He used a funny expression.",
+            "That is a common expression."
+          ]
+        },
+        "more": {
+          "def": "A word or group of words that people use to say something.",
+          "examples": [
+            "\"Piece of cake\" is an expression that means easy.",
+            "She used a funny expression I had never heard.",
+            "\"It's raining cats and dogs\" is a well-known expression."
           ]
         }
       }
@@ -548,6 +1051,34 @@
             "Bring an extra sweater in case it gets cold.",
             "We had extra time before the bus came.",
             "Add an extra spoon of sugar."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "extraordinary",
+    "say": "ik-STROR-duh-nair-ee",
+    "forms": [
+      "extraordinarily"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very special and not usual.",
+          "examples": [
+            "The view was extraordinary.",
+            "She has an extraordinary gift.",
+            "It was an extraordinary day."
+          ]
+        },
+        "more": {
+          "def": "Far beyond what is usual, amazing.",
+          "examples": [
+            "The view from the mountain was extraordinary.",
+            "She has an extraordinary talent for music.",
+            "It was an extraordinary day I will never forget."
           ]
         }
       }

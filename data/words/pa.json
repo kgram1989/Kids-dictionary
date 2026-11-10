@@ -1,5 +1,54 @@
 [
   {
+    "word": "pace",
+    "say": "payss",
+    "forms": [
+      "paces",
+      "paced",
+      "pacing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How fast you move.",
+          "examples": [
+            "We walked at a fast pace.",
+            "The pace is slow.",
+            "Keep the same pace."
+          ]
+        },
+        "more": {
+          "def": "The speed at which you walk, run or do something.",
+          "examples": [
+            "We walked at a quick pace to catch the bus.",
+            "The runner kept a steady pace.",
+            "The teacher slowed the pace of the lesson."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To walk back and forth.",
+          "examples": [
+            "He paces the floor.",
+            "She paced when she was nervous.",
+            "The lion paced in its cage."
+          ]
+        },
+        "more": {
+          "def": "To walk back and forth in a small space, often because you are nervous.",
+          "examples": [
+            "He paced the floor while waiting for the phone call.",
+            "The tiger paced back and forth in its pen.",
+            "She paced the hall before her speech."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pack",
     "say": "pak",
     "forms": [
@@ -74,6 +123,35 @@
     ]
   },
   {
+    "word": "package",
+    "say": "PAK-ij",
+    "emoji": "📦",
+    "forms": [
+      "packages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A box or bag with things wrapped up inside.",
+          "examples": [
+            "The mailman brought a package.",
+            "I opened the package.",
+            "The package is for you."
+          ]
+        },
+        "more": {
+          "def": "Something that is wrapped or put in a box so that it can be carried or mailed.",
+          "examples": [
+            "A package arrived from my aunt on my birthday.",
+            "She tied string around the package before mailing it.",
+            "The package of crackers is on the shelf."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "page",
     "say": "payj",
     "emoji": "📄",
@@ -144,6 +222,34 @@
             "I felt a sharp pain in my foot.",
             "The medicine took away the pain.",
             "She had a pain in her tooth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "painful",
+    "say": "PAYN-ful",
+    "forms": [
+      "painfully"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Hurting.",
+          "examples": [
+            "My sore toe is painful.",
+            "The shot was painful.",
+            "It is painful to walk."
+          ]
+        },
+        "more": {
+          "def": "Causing pain or hurting a lot.",
+          "examples": [
+            "The splinter in my finger was painful.",
+            "Walking on the hot sand was painful.",
+            "A sunburn can be painful."
           ]
         }
       }
@@ -278,6 +384,141 @@
             "My pal and I walk to school together.",
             "He is a loyal pal who always helps.",
             "She wrote to her pen pal."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "palace",
+    "say": "PAL-iss",
+    "emoji": "🏰",
+    "forms": [
+      "palaces"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big home of a king or queen.",
+          "examples": [
+            "The queen lives in a palace.",
+            "The palace is huge.",
+            "We visited a palace."
+          ]
+        },
+        "more": {
+          "def": "A very large and grand home of a king, queen or other ruler.",
+          "examples": [
+            "The king lived in a golden palace.",
+            "We toured the palace and saw the royal rooms.",
+            "The palace had hundreds of rooms and a huge garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "palm",
+    "say": "pahm",
+    "emoji": "🌴",
+    "forms": [
+      "palms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The inside part of your hand.",
+          "examples": [
+            "I held the coin in my palm.",
+            "My palm is sweaty.",
+            "She put a seed in her palm."
+          ]
+        },
+        "more": {
+          "def": "The flat inside part of your hand, between your wrist and fingers.",
+          "examples": [
+            "He held the coin in the palm of his hand.",
+            "A tiny frog sat in her palm.",
+            "I clapped my palms together."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tall tree with big leaves at the top.",
+          "examples": [
+            "A palm grows on the beach.",
+            "The palm tree is tall.",
+            "Coconuts grow on a palm."
+          ]
+        },
+        "more": {
+          "def": "A tall tree that grows in warm places and has a bunch of large leaves at the top.",
+          "examples": [
+            "Palm trees waved in the breeze at the beach.",
+            "A palm tree gave shade to the whole picnic.",
+            "We sat in the shade of a palm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pan",
+    "say": "pan",
+    "emoji": "🍳",
+    "forms": [
+      "pans"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat dish for cooking.",
+          "examples": [
+            "Mom cooked eggs in a pan.",
+            "The pan is hot.",
+            "I washed the pan."
+          ]
+        },
+        "more": {
+          "def": "A flat, wide container with a handle that is used for cooking.",
+          "examples": [
+            "Mom cooked pancakes in a pan.",
+            "The pan was too hot to touch.",
+            "He washed the frying pan."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pancake",
+    "say": "PAN-kayk",
+    "emoji": "🥞",
+    "forms": [
+      "pancakes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat, round cake that you cook in a pan.",
+          "examples": [
+            "I eat pancakes.",
+            "The pancake is round.",
+            "Dad flipped a pancake."
+          ]
+        },
+        "more": {
+          "def": "A thin, flat cake made of batter and cooked in a pan, often eaten at breakfast.",
+          "examples": [
+            "We had pancakes and syrup for breakfast.",
+            "Dad flipped the pancake in the air.",
+            "She stacked three pancakes on her plate."
           ]
         }
       }
@@ -435,6 +676,64 @@
     ]
   },
   {
+    "word": "parade",
+    "say": "puh-RAYD",
+    "emoji": "🎉",
+    "forms": [
+      "parades"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A line of people, bands or floats that moves along a street.",
+          "examples": [
+            "We watched the parade.",
+            "The parade has a band.",
+            "The parade is long."
+          ]
+        },
+        "more": {
+          "def": "A show in which bands, floats and people move along a street for people to watch.",
+          "examples": [
+            "We watched the parade on the Fourth of July.",
+            "The band marched in the parade.",
+            "A float with a giant dragon led the parade."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "paradise",
+    "say": "PAIR-uh-dyss",
+    "emoji": "🏝️",
+    "forms": [
+      "paradises"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A perfect place.",
+          "examples": [
+            "The island is a paradise.",
+            "The beach was paradise.",
+            "A garden paradise."
+          ]
+        },
+        "more": {
+          "def": "A place that is as beautiful and perfect as you could wish.",
+          "examples": [
+            "The island felt like a paradise.",
+            "The beach was a paradise for the kids.",
+            "Her garden was a paradise of flowers."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pardon",
     "say": "PAR-dun",
     "forms": [
@@ -562,6 +861,32 @@
     ]
   },
   {
+    "word": "parking",
+    "say": "PAR-king",
+    "emoji": "🅿️",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place or time when you leave a car.",
+          "examples": [
+            "We found parking near the park.",
+            "Parking is free.",
+            "The parking lot is full."
+          ]
+        },
+        "more": {
+          "def": "The act of leaving a car in a place, or space for doing so.",
+          "examples": [
+            "There is no parking in front of the school.",
+            "We looked for parking for ten minutes.",
+            "Parking is free on Sundays."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "part",
     "say": "part",
     "forms": [
@@ -584,6 +909,34 @@
             "The wheel is one part of the bicycle.",
             "Which part of the story did you like best?",
             "He ate a small part of the cake and saved the rest."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "particular",
+    "say": "per-TIK-yuh-ler",
+    "forms": [
+      "particularly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "One special thing and not any other.",
+          "examples": [
+            "I want this particular book.",
+            "Is there a particular color you like?",
+            "She sat in one particular chair."
+          ]
+        },
+        "more": {
+          "def": "Being one single thing or person, and not any other.",
+          "examples": [
+            "He wanted that particular toy and no other.",
+            "Is there a particular reason you are laughing?",
+            "Each bird has a particular call that tells others who it is."
           ]
         }
       }
@@ -720,6 +1073,92 @@
     ]
   },
   {
+    "word": "passenger",
+    "say": "PASS-in-jer",
+    "emoji": "🚌",
+    "forms": [
+      "passengers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who rides but does not drive.",
+          "examples": [
+            "The passenger looked out the window.",
+            "A bus passenger sat by me.",
+            "Each passenger has a seat."
+          ]
+        },
+        "more": {
+          "def": "A person who travels in a vehicle without driving or working on it.",
+          "examples": [
+            "Every passenger on the plane buckled a seat belt.",
+            "The bus passengers got off at the next stop.",
+            "The train carried hundreds of passengers to the city."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "passion",
+    "say": "PASH-un",
+    "forms": [
+      "passions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very strong liking for something.",
+          "examples": [
+            "He has a passion for music.",
+            "She has a passion for soccer.",
+            "My passion is drawing."
+          ]
+        },
+        "more": {
+          "def": "A very strong feeling of liking or caring about something.",
+          "examples": [
+            "She has a passion for painting and draws every day.",
+            "His passion for animals made him want to be a vet.",
+            "Cooking is her passion."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "passport",
+    "say": "PASS-port",
+    "emoji": "🛂",
+    "forms": [
+      "passports"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small book that lets you travel to other countries.",
+          "examples": [
+            "I need a passport.",
+            "The passport has my picture.",
+            "The passport is blue."
+          ]
+        },
+        "more": {
+          "def": "A small official book that shows who you are and lets you travel between countries.",
+          "examples": [
+            "I showed my passport at the airport.",
+            "The passport has my photo and name.",
+            "We got stamps in our passports."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "past",
     "say": "past",
     "forms": [
@@ -767,6 +1206,144 @@
     ]
   },
   {
+    "word": "patch",
+    "say": "pach",
+    "emoji": "🧵",
+    "forms": [
+      "patches",
+      "patched",
+      "patching"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece put over a hole to fix it.",
+          "examples": [
+            "Mom put a patch on my jeans.",
+            "The patch is blue.",
+            "A patch covers the hole."
+          ]
+        },
+        "more": {
+          "def": "A small piece of material used to cover a hole or a worn place.",
+          "examples": [
+            "Grandma sewed a patch on the knee of my jeans.",
+            "A rubber patch fixed the hole in the tire.",
+            "The old quilt was made from many colorful patches."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small area that is different from the rest.",
+          "examples": [
+            "A patch of grass was brown.",
+            "There is a patch of ice.",
+            "A patch of flowers grew by the fence."
+          ]
+        },
+        "more": {
+          "def": "A small area that is different from what is around it.",
+          "examples": [
+            "A patch of ice made the road slippery.",
+            "We picked pumpkins from the pumpkin patch.",
+            "A patch of blue sky showed between the clouds."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "patchy",
+        "def": "Having patches."
+      }
+    ]
+  },
+  {
+    "word": "path",
+    "say": "path",
+    "emoji": "🛤️",
+    "forms": [
+      "paths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A narrow way to walk along.",
+          "examples": [
+            "We walked on a path in the woods.",
+            "The path leads to the lake.",
+            "A path of stones led to the door."
+          ]
+        },
+        "more": {
+          "def": "A narrow track for people or animals to walk along.",
+          "examples": [
+            "The hikers followed a muddy path up the hill.",
+            "Deer made a path through the tall grass.",
+            "A garden path winds between the flower beds."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pathetic",
+    "say": "puh-THET-ik",
+    "forms": [
+      "pathetically"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "So weak or sad that it makes you feel sorry.",
+          "examples": [
+            "The kitten was wet and pathetic.",
+            "A pathetic little cry came from the box.",
+            "The old toy looked pathetic."
+          ]
+        },
+        "more": {
+          "def": "Sad and weak in a way that makes people feel sorry.",
+          "examples": [
+            "The soaked puppy looked pathetic in the rain.",
+            "The fire gave only a pathetic little flame.",
+            "He made a pathetic try to lift the heavy box."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "patience",
+    "say": "PAY-shunss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being able to wait without getting upset.",
+          "examples": [
+            "She has a lot of patience.",
+            "Learning takes patience.",
+            "I lost my patience."
+          ]
+        },
+        "more": {
+          "def": "The ability to stay calm while waiting or when something is hard.",
+          "examples": [
+            "Teaching a puppy to sit takes patience.",
+            "She waited with patience for her turn.",
+            "Fishing takes a lot of patience."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "patient",
     "say": "PAY-shunt",
     "senses": [
@@ -786,6 +1363,55 @@
             "The patient teacher explained the problem again until everyone understood.",
             "You must be patient when you are fishing.",
             "She is patient with her little brother when he learns new games."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "patrol",
+    "say": "puh-TROHL",
+    "forms": [
+      "patrols",
+      "patrolled",
+      "patrolling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To walk or drive around to keep a place safe.",
+          "examples": [
+            "The guard patrols the building.",
+            "The officer patrols the street.",
+            "The ranger patrols the park."
+          ]
+        },
+        "more": {
+          "def": "To go around an area to watch it and keep it safe.",
+          "examples": [
+            "The ranger patrols the park every morning.",
+            "Guards patrolled the museum at night.",
+            "The police patrol our neighborhood."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group that goes around to keep a place safe.",
+          "examples": [
+            "A patrol came by.",
+            "The patrol checked the park.",
+            "The sea patrol saved the boat."
+          ]
+        },
+        "more": {
+          "def": "A person or group sent around an area to watch over it.",
+          "examples": [
+            "The park patrol checked the trail.",
+            "A police patrol drove down the street.",
+            "The ship sent out a patrol."
           ]
         }
       }
@@ -845,6 +1471,34 @@
             "We paid for our tickets at the door.",
             "The bakery pays its workers every Friday.",
             "I used my savings to pay for the new bike."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "payment",
+    "say": "PAY-munt",
+    "forms": [
+      "payments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money you give for something.",
+          "examples": [
+            "Make a payment.",
+            "The payment was due.",
+            "He made a payment on the car."
+          ]
+        },
+        "more": {
+          "def": "An amount of money that you give to pay for something.",
+          "examples": [
+            "Dad made a payment on the car.",
+            "We got the bill and sent a payment.",
+            "The shop takes cash as payment."
           ]
         }
       }

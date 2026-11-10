@@ -47,6 +47,56 @@
     ]
   },
   {
+    "word": "tag",
+    "say": "tag",
+    "emoji": "🏷️",
+    "forms": [
+      "tags",
+      "tagged",
+      "tagging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small label.",
+          "examples": [
+            "The tag shows the price.",
+            "My coat has a name tag.",
+            "The dog has a tag."
+          ]
+        },
+        "more": {
+          "def": "A small piece of paper or cloth that has information on it, fixed to something.",
+          "examples": [
+            "The tag on the shirt shows the size.",
+            "My dog wears a tag with its name on it.",
+            "Dad checked the price tag."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A running game where one person chases the others.",
+          "examples": [
+            "We play tag at recess.",
+            "I am it in tag.",
+            "The kids played tag."
+          ]
+        },
+        "more": {
+          "def": "A game in which one player chases the others and tries to touch them.",
+          "examples": [
+            "We play tag on the playground.",
+            "She was it in the game of tag.",
+            "The kids ran in circles during tag."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tail",
     "say": "tayl",
     "forms": [
@@ -119,6 +169,35 @@
             "Please take an umbrella because it might rain.",
             "He took a cookie from the plate on the counter.",
             "I will take you to the museum on Saturday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tale",
+    "say": "tayl",
+    "emoji": "📖",
+    "forms": [
+      "tales"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A story.",
+          "examples": [
+            "I read a tale about a fox.",
+            "The tale was funny.",
+            "Grandpa told a tale."
+          ]
+        },
+        "more": {
+          "def": "A story, especially one that is made up or told aloud.",
+          "examples": [
+            "Grandpa told us a tale about a clever fox.",
+            "The fairy tale ended happily.",
+            "She wrote a tale about a dragon."
           ]
         }
       }
@@ -266,6 +345,55 @@
     ]
   },
   {
+    "word": "tap",
+    "say": "tap",
+    "forms": [
+      "taps",
+      "tapped",
+      "tapping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit lightly.",
+          "examples": [
+            "Tap me on the shoulder.",
+            "She tapped on the door.",
+            "I tap my foot."
+          ]
+        },
+        "more": {
+          "def": "To touch or hit something lightly, again and again.",
+          "examples": [
+            "He tapped on the window to get our attention.",
+            "She tapped her foot to the music.",
+            "The woodpecker tapped on the tree."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing that you turn to let water out.",
+          "examples": [
+            "Turn the tap off.",
+            "The tap is dripping.",
+            "Water came out of the tap."
+          ]
+        },
+        "more": {
+          "def": "A device that you turn or press to make water or other liquid flow out of a pipe.",
+          "examples": [
+            "She turned off the tap after washing her hands.",
+            "The tap in the kitchen dripped all night.",
+            "He filled the glass from the tap."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tape",
     "say": "tayp",
     "forms": [
@@ -362,6 +490,34 @@
     ]
   },
   {
+    "word": "task",
+    "say": "task",
+    "forms": [
+      "tasks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A job to do.",
+          "examples": [
+            "My task is to feed the cat.",
+            "The task is hard.",
+            "I finished the task."
+          ]
+        },
+        "more": {
+          "def": "A piece of work that has to be done.",
+          "examples": [
+            "My task is to set the table.",
+            "Cleaning the garage was a big task.",
+            "The teacher gave us a reading task."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "taste",
     "say": "tayst",
     "forms": [
@@ -445,6 +601,93 @@
             "Grandpa makes a tasty vegetable stew.",
             "The market sells tasty fresh bread.",
             "Add some herbs to make the sauce more tasty."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tattoo",
+    "say": "ta-TOO",
+    "forms": [
+      "tattoos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture on skin that does not wash off.",
+          "examples": [
+            "He has a tattoo on his arm.",
+            "The tattoo is a bird.",
+            "She has a small tattoo."
+          ]
+        },
+        "more": {
+          "def": "A picture or design that is put into the skin with ink and stays there forever.",
+          "examples": [
+            "The sailor had a tattoo of an anchor on his arm.",
+            "She got a tattoo of a rose on her shoulder.",
+            "The tattoo will never wash off."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tax",
+    "say": "taks",
+    "forms": [
+      "taxes",
+      "taxed",
+      "taxing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money that people pay to the government.",
+          "examples": [
+            "We pay a tax when we buy things.",
+            "Taxes pay for roads.",
+            "Taxes help build schools."
+          ]
+        },
+        "more": {
+          "def": "Money that people and businesses pay to the government to pay for things like roads and schools.",
+          "examples": [
+            "Taxes pay for roads, parks and schools.",
+            "The tax on a toy makes it cost a little more.",
+            "Families pay taxes every year."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "taxi",
+    "say": "TAK-see",
+    "emoji": "🚕",
+    "forms": [
+      "taxis"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A car with a driver that you pay to take you places.",
+          "examples": [
+            "We took a taxi to the airport.",
+            "The taxi is yellow.",
+            "The taxi stopped for us."
+          ]
+        },
+        "more": {
+          "def": "A car with a driver that takes people where they want to go for money.",
+          "examples": [
+            "We hailed a taxi in the rain.",
+            "The taxi driver knew the quickest way to the station.",
+            "A taxi took us from the hotel to the train station."
           ]
         }
       }

@@ -1,5 +1,110 @@
 [
   {
+    "word": "aid",
+    "say": "ayd",
+    "forms": [
+      "aids",
+      "aided",
+      "aiding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Help.",
+          "examples": [
+            "They sent aid to the town.",
+            "I called for aid.",
+            "The aid arrived fast."
+          ]
+        },
+        "more": {
+          "def": "Help that is given to people who need it.",
+          "examples": [
+            "Food and blankets were sent as aid after the flood.",
+            "She called for aid when she fell.",
+            "The nurse gave first aid."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To help.",
+          "examples": [
+            "The nurse aids the doctor.",
+            "He aided the injured man.",
+            "Maps aid travelers."
+          ]
+        },
+        "more": {
+          "def": "To give help to someone or something.",
+          "examples": [
+            "The nurse aided the doctor.",
+            "A map can aid hikers on a long trail.",
+            "Neighbors aided the family after the storm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "aim",
+    "say": "aym",
+    "emoji": "🎯",
+    "forms": [
+      "aims",
+      "aimed",
+      "aiming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To point something at a target.",
+          "examples": [
+            "I aim at the target.",
+            "She aimed the ball at the hoop.",
+            "He aimed the arrow."
+          ]
+        },
+        "more": {
+          "def": "To point something at the place you want it to go.",
+          "examples": [
+            "She aimed the ball at the basket and shot.",
+            "He aimed the hose at the flowers.",
+            "The archer aimed at the target."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A goal that you are trying to reach.",
+          "examples": [
+            "My aim is to finish.",
+            "His aim is to win.",
+            "Her aim is to read ten books."
+          ]
+        },
+        "more": {
+          "def": "The thing you are trying to do or reach.",
+          "examples": [
+            "My aim is to learn to swim this summer.",
+            "The aim of the club is to clean up the park.",
+            "Her aim was to get an A in math."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "aimless",
+        "def": "Without a goal."
+      }
+    ]
+  },
+  {
     "word": "air",
     "say": "air",
     "emoji": "💨",
@@ -28,6 +133,35 @@
       {
         "word": "airy",
         "def": "Full of fresh air; open and light."
+      }
+    ]
+  },
+  {
+    "word": "airplane",
+    "say": "AIR-playn",
+    "emoji": "✈️",
+    "forms": [
+      "airplanes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flying machine with wings.",
+          "examples": [
+            "The airplane is in the sky.",
+            "We rode on an airplane.",
+            "The airplane landed."
+          ]
+        },
+        "more": {
+          "def": "A machine with wings and engines that flies through the air carrying people or goods.",
+          "examples": [
+            "The airplane took off from the runway.",
+            "We flew on an airplane to see Grandma.",
+            "The airplane soared above the clouds."
+          ]
+        }
       }
     ]
   },

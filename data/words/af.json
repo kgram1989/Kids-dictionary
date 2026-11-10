@@ -28,6 +28,36 @@
     ]
   },
   {
+    "word": "affect",
+    "say": "uh-FEKT",
+    "forms": [
+      "affects",
+      "affected",
+      "affecting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To change something or have an effect on it.",
+          "examples": [
+            "The rain will affect our picnic.",
+            "Sleep affects how you feel.",
+            "The cold affected the plants."
+          ]
+        },
+        "more": {
+          "def": "To cause a change in someone or something.",
+          "examples": [
+            "The storm affected the whole town.",
+            "Too little sleep can affect how well you do at school.",
+            "Pollution can affect the fish in a river."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "afford",
     "say": "uh-FORD",
     "forms": [
@@ -131,6 +161,34 @@
             "We went swimming on a sunny afternoon.",
             "The bus comes at three in the afternoon.",
             "She naps every afternoon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "afterwards",
+    "say": "AF-ter-werdz",
+    "forms": [
+      "afterward"
+    ],
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "At a later time.",
+          "examples": [
+            "We ate, and afterwards we played.",
+            "Afterwards, we went home.",
+            "I will call you afterwards."
+          ]
+        },
+        "more": {
+          "def": "At a later time, after something else has happened.",
+          "examples": [
+            "We ate lunch and played outside afterwards.",
+            "The movie was fun, and afterwards we got ice cream.",
+            "Do your chores first and rest afterwards."
           ]
         }
       }

@@ -1,5 +1,34 @@
 [
   {
+    "word": "piano",
+    "say": "pee-AN-oh",
+    "emoji": "🎹",
+    "forms": [
+      "pianos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big musical instrument with black and white keys.",
+          "examples": [
+            "I play the piano.",
+            "The piano is in the living room.",
+            "She sat at the piano."
+          ]
+        },
+        "more": {
+          "def": "A large musical instrument with black and white keys that make sounds when you press them.",
+          "examples": [
+            "She practices the piano for twenty minutes every day.",
+            "The piano player pressed the keys softly.",
+            "A grand piano filled the center of the stage."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pick",
     "say": "pik",
     "forms": [
@@ -205,6 +234,55 @@
     ]
   },
   {
+    "word": "pile",
+    "say": "pyl",
+    "forms": [
+      "piles",
+      "piled",
+      "piling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A lot of things on top of each other.",
+          "examples": [
+            "I made a pile of leaves.",
+            "A pile of books is on the desk.",
+            "The pile of laundry is big."
+          ]
+        },
+        "more": {
+          "def": "A group of things lying one on top of another.",
+          "examples": [
+            "The kids jumped into a pile of leaves.",
+            "A pile of books sat on the desk.",
+            "She put the dirty clothes in a pile."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put things on top of each other.",
+          "examples": [
+            "Pile the books on the table.",
+            "She piled the toys.",
+            "Snow piled up."
+          ]
+        },
+        "more": {
+          "def": "To make a heap of things.",
+          "examples": [
+            "He piled the wood next to the fireplace.",
+            "Snow piled up against the door.",
+            "She piled all the cushions on the floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pill",
     "say": "pil",
     "forms": [
@@ -233,6 +311,35 @@
     ]
   },
   {
+    "word": "pillow",
+    "say": "PIL-oh",
+    "emoji": "🛏️",
+    "forms": [
+      "pillows"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft cushion for your head in bed.",
+          "examples": [
+            "I sleep on a pillow.",
+            "The pillow is soft.",
+            "I hugged my pillow."
+          ]
+        },
+        "more": {
+          "def": "A soft bag filled with feathers or foam that you rest your head on.",
+          "examples": [
+            "I put my head on a soft pillow.",
+            "The kids had a pillow fight.",
+            "She hugged her pillow and fell asleep."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pilot",
     "say": "PY-lut",
     "forms": [
@@ -255,6 +362,56 @@
             "The pilot announced the weather.",
             "My uncle is a pilot for an airline.",
             "The pilot landed the plane safely."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pin",
+    "say": "pin",
+    "emoji": "📌",
+    "forms": [
+      "pins",
+      "pinned",
+      "pinning"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin, short piece of metal with a sharp point.",
+          "examples": [
+            "Mom used a pin to hold the cloth.",
+            "I found a pin on the floor.",
+            "Put a pin in the map."
+          ]
+        },
+        "more": {
+          "def": "A small, thin piece of metal with a sharp point, used to hold things together.",
+          "examples": [
+            "The tailor held the cloth with a pin.",
+            "She put a pin in the map to show where we went.",
+            "A pin on the corkboard held up the notice."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stick something on a wall.",
+          "examples": [
+            "She pinned the paper to the board.",
+            "I pin my name tag on.",
+            "Pin the card to the wall."
+          ]
+        },
+        "more": {
+          "def": "To fasten something in place using a small, sharp piece of metal.",
+          "examples": [
+            "The teacher pinned our drawings to the board.",
+            "He pinned a ribbon on his shirt.",
+            "Mom pinned up the hem of my pants."
           ]
         }
       }
@@ -306,6 +463,235 @@
             "Pink is a soft color."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "pipe",
+    "say": "pype",
+    "forms": [
+      "pipes",
+      "piped"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tube that water or gas moves through.",
+          "examples": [
+            "Water runs through the pipe.",
+            "The pipe is leaking.",
+            "A pipe is under the sink."
+          ]
+        },
+        "more": {
+          "def": "A long, hollow tube that carries water, gas or other things from one place to another.",
+          "examples": [
+            "The plumber fixed the broken pipe under the sink.",
+            "Pipes bring clean water to every house in town.",
+            "A frozen pipe burst in the cold winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pirate",
+    "say": "PY-rit",
+    "emoji": "🏴‍☠️",
+    "forms": [
+      "pirates"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A robber who sails the sea in a ship.",
+          "examples": [
+            "The pirate had a patch on his eye.",
+            "Pirates hide treasure.",
+            "I dressed as a pirate."
+          ]
+        },
+        "more": {
+          "def": "A person who sails on the sea and steals from other ships, in stories and in the past.",
+          "examples": [
+            "The pirate buried his treasure on the island.",
+            "Pirates sailed the seas in tall ships.",
+            "The pirate in the story had a parrot on his shoulder."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pit",
+    "say": "pit",
+    "forms": [
+      "pits"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big hole in the ground.",
+          "examples": [
+            "We dug a pit.",
+            "The pit is deep.",
+            "They fell into the pit."
+          ]
+        },
+        "more": {
+          "def": "A large hole in the ground.",
+          "examples": [
+            "We dug a pit for the campfire.",
+            "The workers dug a deep pit.",
+            "A cat fell into the muddy pit."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The hard seed in a fruit like a peach.",
+          "examples": [
+            "I spit out the pit.",
+            "The cherry has a pit.",
+            "The peach pit is hard."
+          ]
+        },
+        "more": {
+          "def": "The large, hard seed in the middle of some fruits, such as a peach or cherry.",
+          "examples": [
+            "Be careful, there is a pit in the cherry.",
+            "He planted a peach pit in the garden.",
+            "The olive has a small pit."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pitch",
+    "say": "pich",
+    "forms": [
+      "pitches",
+      "pitched",
+      "pitching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To throw a ball to the batter.",
+          "examples": [
+            "He will pitch the ball.",
+            "The pitcher pitched fast.",
+            "She pitched the ball."
+          ]
+        },
+        "more": {
+          "def": "To throw the ball in baseball toward the batter.",
+          "examples": [
+            "He pitched the ball right over the plate.",
+            "The coach pitched to each player during practice.",
+            "She pitched all nine innings."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To set up a tent.",
+          "examples": [
+            "We pitch the tent.",
+            "They pitched camp by the lake.",
+            "Dad pitched our tent."
+          ]
+        },
+        "more": {
+          "def": "To put up a tent and fix it in place.",
+          "examples": [
+            "We pitched our tent beside the river.",
+            "They pitched camp at the edge of the woods.",
+            "Dad pitched the tent before it got dark."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How high or low a sound is.",
+          "examples": [
+            "The bird sang at a high pitch.",
+            "Her voice has a low pitch.",
+            "The pitch of the note went up."
+          ]
+        },
+        "more": {
+          "def": "How high or low a musical note or sound is.",
+          "examples": [
+            "A violin plays a high pitch, and a tuba a low one.",
+            "The pitch of her voice rose when she got excited.",
+            "The tuner checks the pitch of each piano string."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pity",
+    "say": "PIT-ee",
+    "emoji": "😢",
+    "forms": [
+      "pities",
+      "pitied",
+      "pitying"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sad feeling for someone who is having a hard time.",
+          "examples": [
+            "I felt pity for the lost puppy.",
+            "She felt pity for him.",
+            "The story filled me with pity."
+          ]
+        },
+        "more": {
+          "def": "A feeling of sorrow for someone who is in trouble or pain.",
+          "examples": [
+            "He felt pity for the lost kitten shivering in the rain.",
+            "She looked at the old man with pity.",
+            "The children showed pity for the hurt bird."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that makes you sad or sorry.",
+          "examples": [
+            "It is a pity you cannot come.",
+            "What a pity it rained!",
+            "It's a pity the game ended."
+          ]
+        },
+        "more": {
+          "def": "A cause for sadness or disappointment.",
+          "examples": [
+            "It is a pity that you missed the show.",
+            "What a pity the picnic was canceled.",
+            "It would be a pity to waste this good food."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "pitiless",
+        "def": "Without pity."
       }
     ]
   },

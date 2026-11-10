@@ -1,5 +1,33 @@
 [
   {
+    "word": "mob",
+    "say": "mob",
+    "forms": [
+      "mobs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large, wild crowd.",
+          "examples": [
+            "A mob of people ran.",
+            "The mob was loud.",
+            "The crowd turned into a mob."
+          ]
+        },
+        "more": {
+          "def": "A large crowd of people that is noisy and hard to control.",
+          "examples": [
+            "A mob of fans rushed toward the singer.",
+            "The angry mob shouted outside the building.",
+            "Shoppers formed a mob at the door of the store."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "model",
     "say": "MOD-ul",
     "forms": [
@@ -41,6 +69,31 @@
             "The model wore a bright red coat.",
             "Models walked down the long stage.",
             "She worked as a model for a clothing store."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "modern",
+    "say": "MOD-ern",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Of the present time.",
+          "examples": [
+            "We live in a modern house.",
+            "Modern cars are fast.",
+            "The modern world is busy."
+          ]
+        },
+        "more": {
+          "def": "Of the present or recent time, not of long ago.",
+          "examples": [
+            "Modern phones can take pictures.",
+            "The new school is a modern building.",
+            "Modern doctors have many new tools."
           ]
         }
       }
@@ -210,6 +263,75 @@
     ]
   },
   {
+    "word": "monitor",
+    "say": "MON-ih-ter",
+    "emoji": "🖥️",
+    "forms": [
+      "monitors",
+      "monitored",
+      "monitoring"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A screen that shows pictures from a computer.",
+          "examples": [
+            "The monitor is on the desk.",
+            "She looked at the monitor.",
+            "The monitor is bright."
+          ]
+        },
+        "more": {
+          "def": "The screen of a computer, which shows words and pictures.",
+          "examples": [
+            "The computer monitor showed my game.",
+            "Dad bought a bigger monitor for his office.",
+            "The monitor went dark when the power went out."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A student who helps the teacher.",
+          "examples": [
+            "I am a hall monitor.",
+            "The monitor passed out papers.",
+            "The lunch monitor helped us."
+          ]
+        },
+        "more": {
+          "def": "A student or other person who has the job of watching over something.",
+          "examples": [
+            "The hall monitor reminded us to walk.",
+            "The class monitor took the plates to the cafeteria.",
+            "A lunch monitor helped the little kids."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To watch something over time.",
+          "examples": [
+            "The nurse monitors my temperature.",
+            "The class monitored the plant's growth.",
+            "We monitor the weather."
+          ]
+        },
+        "more": {
+          "def": "To watch and check something over time.",
+          "examples": [
+            "Scientists monitor the weather every day.",
+            "The nurse monitored the patient's heartbeat.",
+            "Our class monitored the growth of the bean plant."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "monkey",
     "say": "MUNG-kee",
     "emoji": "🐒",
@@ -372,6 +494,53 @@
     ]
   },
   {
+    "word": "moral",
+    "say": "MOR-ul",
+    "forms": [
+      "morals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The lesson that a story teaches.",
+          "examples": [
+            "The moral of the story is to be kind.",
+            "What is the moral?",
+            "The moral is to work hard."
+          ]
+        },
+        "more": {
+          "def": "The lesson about right and wrong that you learn from a story.",
+          "examples": [
+            "The moral of the fable is that slow and steady wins.",
+            "The fable's moral was to work together.",
+            "Can you tell me the moral of the tale?"
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with right and wrong.",
+          "examples": [
+            "It is a moral choice.",
+            "Telling the truth is a moral act.",
+            "A moral person tells the truth."
+          ]
+        },
+        "more": {
+          "def": "Having to do with what is right and wrong, or being good and fair.",
+          "examples": [
+            "Telling the truth is the moral thing to do.",
+            "She made a moral choice to return the money.",
+            "A moral person treats others with respect."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "more",
     "say": "mor",
     "senses": [
@@ -425,6 +594,35 @@
     ]
   },
   {
+    "word": "motel",
+    "say": "moh-TEL",
+    "emoji": "🏨",
+    "forms": [
+      "motels"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place to sleep for a night when you travel by car.",
+          "examples": [
+            "We stayed at a motel.",
+            "The motel has a pool.",
+            "The motel is by the road."
+          ]
+        },
+        "more": {
+          "def": "A hotel by the road where people who travel by car can stay and park.",
+          "examples": [
+            "We stopped at a motel for the night.",
+            "The motel had a pool and a parking lot.",
+            "The family stayed at a small motel on the way to the beach."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mother",
     "say": "MUTH-er",
     "forms": [
@@ -447,6 +645,117 @@
             "My mother reads to me before bed.",
             "The mother duck led her ducklings across the road.",
             "He made a card for his mother on her birthday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "motion",
+    "say": "MOH-shun",
+    "forms": [
+      "motions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Moving from one place to another.",
+          "examples": [
+            "The wheel is in motion.",
+            "The motion of the waves is calm.",
+            "The car was in motion."
+          ]
+        },
+        "more": {
+          "def": "The act or state of moving.",
+          "examples": [
+            "The gentle rocking motion put the baby to sleep.",
+            "The gentle motion of the boat made me sleepy.",
+            "Scientists study the motion of the planets."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "motionless",
+        "def": "Not moving."
+      }
+    ]
+  },
+  {
+    "word": "motor",
+    "say": "MOH-ter",
+    "forms": [
+      "motors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that makes things move.",
+          "examples": [
+            "The boat has a motor.",
+            "The toy has a small motor.",
+            "The motor is loud."
+          ]
+        },
+        "more": {
+          "def": "A machine that uses power to make something move.",
+          "examples": [
+            "The boat has a motor that pushes it across the lake.",
+            "The toy car has a small motor.",
+            "The motor hummed when I turned on the fan."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mount",
+    "say": "mownt",
+    "forms": [
+      "mounts",
+      "mounted",
+      "mounting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To climb up onto something.",
+          "examples": [
+            "He mounted the horse.",
+            "I mounted the stairs.",
+            "She mounted the bike."
+          ]
+        },
+        "more": {
+          "def": "To get up on something, such as a horse or a bike.",
+          "examples": [
+            "The rider mounted the horse.",
+            "She mounted the steps to the stage.",
+            "He mounted the bike and rode away."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mountain.",
+          "examples": [
+            "Mount Everest is tall.",
+            "We saw Mount Rainier.",
+            "The mount is snowy."
+          ]
+        },
+        "more": {
+          "def": "A word for a mountain, often used before a name.",
+          "examples": [
+            "Mount Everest is the tallest mountain on Earth.",
+            "The climbers hiked up Mount Washington.",
+            "Mount Rushmore has four faces carved in stone."
           ]
         }
       }
@@ -484,6 +793,54 @@
       {
         "word": "mountainous",
         "def": "Having many mountains."
+      }
+    ]
+  },
+  {
+    "word": "mouse",
+    "say": "mowss",
+    "emoji": "🐭",
+    "forms": [
+      "mice"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small animal with a long tail.",
+          "examples": [
+            "A mouse ran under the bed.",
+            "The cat chased the mouse.",
+            "The mouse ate the cheese."
+          ]
+        },
+        "more": {
+          "def": "A small furry animal with a pointed nose, small ears and a long thin tail.",
+          "examples": [
+            "A tiny mouse nibbled on seeds in the barn.",
+            "Mice can squeeze through very small holes.",
+            "The owl swooped down to catch a mouse."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small tool you move with your hand to use a computer.",
+          "examples": [
+            "Click the mouse.",
+            "I move the mouse.",
+            "The mouse is by the computer."
+          ]
+        },
+        "more": {
+          "def": "A small device that you move by hand to point and click on a computer screen.",
+          "examples": [
+            "I clicked the mouse to open the game.",
+            "He moved the mouse to the button on the screen.",
+            "A wireless mouse has no cord."
+          ]
+        }
       }
     ]
   },
@@ -579,6 +936,53 @@
             "My family moved to a new town last summer.",
             "They are moving to a bigger house near the park.",
             "Our neighbors moved away, and new ones came."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "movement",
+    "say": "MOOV-munt",
+    "forms": [
+      "movements"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Moving from one place to another.",
+          "examples": [
+            "I saw movement in the grass.",
+            "The movement of the clock hands is slow.",
+            "Dancers use graceful movements."
+          ]
+        },
+        "more": {
+          "def": "The act of moving, or a way in which a person or thing moves.",
+          "examples": [
+            "We saw some movement in the bushes.",
+            "The dancer's movements were smooth and graceful.",
+            "The movement of the planets is very slow."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of people working together for a cause.",
+          "examples": [
+            "The movement helped clean the river.",
+            "They joined the movement.",
+            "A big movement for kindness."
+          ]
+        },
+        "more": {
+          "def": "A group of people who work together to change something.",
+          "examples": [
+            "The movement for clean air began many years ago.",
+            "Many people joined the movement to protect the forests.",
+            "The students started a movement to recycle more."
           ]
         }
       }

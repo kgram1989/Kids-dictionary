@@ -63,5 +63,33 @@
         "def": "Able to be named or known."
       }
     ]
+  },
+  {
+    "word": "identity",
+    "say": "eye-DEN-tuh-tee",
+    "forms": [
+      "identities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Who someone is.",
+          "examples": [
+            "The mask hid his identity.",
+            "She showed proof of her identity.",
+            "The identity of the winner is a secret."
+          ]
+        },
+        "more": {
+          "def": "Who a person is, or the name and facts that show it.",
+          "examples": [
+            "The mask hid the actor's identity.",
+            "The police checked her identity.",
+            "The identity of the winner is still a secret."
+          ]
+        }
+      }
+    ]
   }
 ]

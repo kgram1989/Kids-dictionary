@@ -1,5 +1,69 @@
 [
   {
+    "word": "scan",
+    "say": "skan",
+    "forms": [
+      "scans",
+      "scanned",
+      "scanning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look quickly over something.",
+          "examples": [
+            "I scan the page.",
+            "She scanned the room for her friend.",
+            "He scanned the list."
+          ]
+        },
+        "more": {
+          "def": "To look quickly over something to find a certain thing, or to copy it with a machine.",
+          "examples": [
+            "He scanned the menu for something he liked.",
+            "He scanned the page for his name.",
+            "The clerk scanned the bar code at the store."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "scanner",
+        "def": "A machine that scans."
+      }
+    ]
+  },
+  {
+    "word": "scar",
+    "say": "skar",
+    "forms": [
+      "scars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mark left on skin after a cut heals.",
+          "examples": [
+            "I have a scar on my knee.",
+            "The scar is small.",
+            "He got a scar from falling."
+          ]
+        },
+        "more": {
+          "def": "A mark that stays on the skin after an injury has healed.",
+          "examples": [
+            "I have a scar on my knee from falling off my bike.",
+            "The old scar looked like a thin line.",
+            "The tree had a scar where a branch broke off."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scare",
     "say": "skair",
     "forms": [
@@ -50,6 +114,36 @@
             "He felt scared when the lights went out.",
             "The kitten was scared by the loud noise.",
             "She was scared to jump into the deep end."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scary",
+    "say": "SKAIR-ee",
+    "emoji": "😱",
+    "forms": [
+      "scarier",
+      "scariest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making you feel afraid.",
+          "examples": [
+            "The dark cave was scary.",
+            "I told a scary story.",
+            "The thunder is scary."
+          ]
+        },
+        "more": {
+          "def": "Causing fear, so that you feel nervous or frightened.",
+          "examples": [
+            "The old haunted house looked scary at night.",
+            "The roller coaster was scary but fun.",
+            "Some kids find big dogs scary until they get to know them."
           ]
         }
       }
@@ -214,6 +308,35 @@
     ]
   },
   {
+    "word": "scientist",
+    "say": "SY-un-tist",
+    "emoji": "🔬",
+    "forms": [
+      "scientists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who studies how the world works.",
+          "examples": [
+            "The scientist looked in a microscope.",
+            "Scientists study space.",
+            "I want to be a scientist."
+          ]
+        },
+        "more": {
+          "def": "A person who studies nature and the world through careful tests and observations.",
+          "examples": [
+            "The scientist put the water under the microscope.",
+            "Scientists study volcanoes to learn how they work.",
+            "She became a scientist who studies whales."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "score",
     "say": "skor",
     "forms": [
@@ -265,6 +388,55 @@
       {
         "word": "scoreless",
         "def": "With no points scored."
+      }
+    ]
+  },
+  {
+    "word": "scout",
+    "say": "skowt",
+    "forms": [
+      "scouts",
+      "scouted",
+      "scouting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person sent ahead to find things out.",
+          "examples": [
+            "The scout looked for a path.",
+            "The scout rode ahead.",
+            "A scout watched for danger."
+          ]
+        },
+        "more": {
+          "def": "A person who goes ahead of a group to find out what is there.",
+          "examples": [
+            "The scout rode ahead to find a safe path.",
+            "A scout climbed the hill to look around.",
+            "The explorers sent a scout to find water."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A member of a youth group that learns outdoor skills.",
+          "examples": [
+            "I am in the scouts.",
+            "The scouts went camping.",
+            "She is a scout."
+          ]
+        },
+        "more": {
+          "def": "A young person in a group that teaches outdoor skills and helping others.",
+          "examples": [
+            "The scouts went camping by the lake.",
+            "My brother is a scout and earned a badge.",
+            "The scouts picked up trash in the park."
+          ]
+        }
       }
     ]
   },
@@ -367,6 +539,54 @@
     ]
   },
   {
+    "word": "screen",
+    "say": "skreen",
+    "emoji": "🖥️",
+    "forms": [
+      "screens"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The flat part of a TV or computer that shows pictures.",
+          "examples": [
+            "I looked at the screen.",
+            "The TV screen is big.",
+            "The screen is bright."
+          ]
+        },
+        "more": {
+          "def": "The flat part of a television, phone or computer that shows pictures and words.",
+          "examples": [
+            "The movie played on a huge screen.",
+            "Too much time in front of a screen can make your eyes tired.",
+            "The screen showed a picture of the moon."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A net on a window that keeps bugs out.",
+          "examples": [
+            "Close the screen door.",
+            "A bug is on the screen.",
+            "The screen has a hole."
+          ]
+        },
+        "more": {
+          "def": "A frame with a fine net in it that covers a window or door to keep out insects.",
+          "examples": [
+            "The screen on the window kept the mosquitoes out.",
+            "Dad patched a hole in the porch screen.",
+            "A moth rested on the screen door."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "screw",
     "say": "skroo",
     "forms": [
@@ -410,6 +630,34 @@
             "Screw the lid on tightly so the jam does not spill.",
             "Dad screwed the hook into the beam.",
             "She screwed the bulb into the lamp."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "script",
+    "say": "skript",
+    "forms": [
+      "scripts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The words that actors say in a play or movie.",
+          "examples": [
+            "The actors read the script.",
+            "I forgot my lines in the script.",
+            "The script has the words."
+          ]
+        },
+        "more": {
+          "def": "The written words of a play, movie or show, telling the actors what to say and do.",
+          "examples": [
+            "The actors learned their lines from the script.",
+            "She wrote a script for a puppet show.",
+            "The director gave everyone a copy of the script."
           ]
         }
       }

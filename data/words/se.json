@@ -29,6 +29,56 @@
     ]
   },
   {
+    "word": "seal",
+    "say": "seel",
+    "emoji": "🦭",
+    "forms": [
+      "seals",
+      "sealed",
+      "sealing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sea animal that swims and eats fish.",
+          "examples": [
+            "The seal swam in the cold water.",
+            "A seal clapped for the fish.",
+            "We saw a seal on the rocks."
+          ]
+        },
+        "more": {
+          "def": "A mammal with a smooth body and flippers that lives in the sea and catches fish.",
+          "examples": [
+            "The seal slid off the rocks and dived into the waves.",
+            "A baby seal is called a pup.",
+            "Seals can hold their breath for a long time underwater."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To close something tightly.",
+          "examples": [
+            "Seal the box with tape.",
+            "Please seal the bag.",
+            "Mom sealed the jar."
+          ]
+        },
+        "more": {
+          "def": "To close something so tightly that nothing can get in or out.",
+          "examples": [
+            "He sealed the envelope and put a stamp on it.",
+            "Sealing the lid keeps the soup from spilling.",
+            "We sealed the leftovers in a plastic box."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "search",
     "say": "serch",
     "forms": [
@@ -464,6 +514,34 @@
     ]
   },
   {
+    "word": "self",
+    "say": "self",
+    "forms": [
+      "selves"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The person that you really are.",
+          "examples": [
+            "She was her old self again after a nap.",
+            "Be your true self.",
+            "The kids were back to their usual selves."
+          ]
+        },
+        "more": {
+          "def": "A person as they truly are, or the way they usually act.",
+          "examples": [
+            "After a good night's sleep, he felt like his old self again.",
+            "Just be your true self and do not pretend.",
+            "The twins were their usual selves, laughing and joking."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "selfish",
     "say": "SEL-fish",
     "senses": [
@@ -584,6 +662,53 @@
     ]
   },
   {
+    "word": "senior",
+    "say": "SEEN-yer",
+    "forms": [
+      "seniors"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Older, or higher in rank.",
+          "examples": [
+            "My brother is a senior student.",
+            "The senior players helped the new ones.",
+            "She is a senior helper at the library."
+          ]
+        },
+        "more": {
+          "def": "Older in age or higher in rank or position than others.",
+          "examples": [
+            "A senior pilot trained the new crew.",
+            "The senior class put on a play for the school.",
+            "He became a senior member of the team after ten years."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is older, or in the last year of school.",
+          "examples": [
+            "My neighbor is a senior at the high school.",
+            "The seniors sat at the front.",
+            "Grandpa gets a discount as a senior."
+          ]
+        },
+        "more": {
+          "def": "A person in the final year of high school, or an older adult.",
+          "examples": [
+            "The seniors led the parade on the last day of school.",
+            "A group of seniors goes walking at the park each morning.",
+            "Every senior wore a cap and gown at graduation."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sense",
     "say": "senss",
     "forms": [
@@ -654,6 +779,69 @@
       {
         "word": "sensor",
         "def": "A tool that notices heat, light, or movement."
+      }
+    ]
+  },
+  {
+    "word": "sensitive",
+    "say": "SEN-sih-tiv",
+    "forms": [
+      "sensitively"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling things easily.",
+          "examples": [
+            "My skin is sensitive.",
+            "She is a sensitive girl.",
+            "Sensitive ears hear small sounds."
+          ]
+        },
+        "more": {
+          "def": "Quick to feel or notice something, such as a touch, sound or feeling.",
+          "examples": [
+            "The baby has sensitive skin that burns easily in the sun.",
+            "Bats have very sensitive hearing.",
+            "He is a sensitive boy who cries when others are sad."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "oversensitive",
+        "def": "Too sensitive."
+      }
+    ]
+  },
+  {
+    "word": "sentence",
+    "say": "SEN-tunss",
+    "emoji": "✍️",
+    "forms": [
+      "sentences"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of words that tells a whole idea.",
+          "examples": [
+            "Write a sentence about your dog.",
+            "Each sentence starts with a capital letter.",
+            "I read one sentence aloud."
+          ]
+        },
+        "more": {
+          "def": "A group of words that makes complete sense, starting with a capital letter and usually ending with a period or other mark.",
+          "examples": [
+            "The teacher asked us to write a sentence using the new word.",
+            "A sentence has to have a subject and a verb.",
+            "He read the first sentence of the story slowly."
+          ]
+        }
       }
     ]
   },
@@ -761,6 +949,31 @@
     ]
   },
   {
+    "word": "series",
+    "say": "SEER-eez",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of things that come one after another.",
+          "examples": [
+            "We read a series of books.",
+            "A series of numbers is on the board.",
+            "The show is a series."
+          ]
+        },
+        "more": {
+          "def": "A number of similar things that come one after the other.",
+          "examples": [
+            "The author wrote a series of books about a dragon.",
+            "A series of storms hit the coast.",
+            "The team won the series by winning four games."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "serious",
     "say": "SEER-ee-us",
     "senses": [
@@ -799,6 +1012,34 @@
             "A serious storm closed the roads for two days.",
             "Forgetting to lock the gate is a serious problem for the farmer.",
             "The doctor said the cut was not serious."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "servant",
+    "say": "SER-vunt",
+    "forms": [
+      "servants"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who works in someone's home.",
+          "examples": [
+            "The servant brought tea.",
+            "The king had many servants.",
+            "The servant cleaned the room."
+          ]
+        },
+        "more": {
+          "def": "A person who works in someone else's home, doing jobs for them.",
+          "examples": [
+            "The servant brought tea to the queen.",
+            "In the story, the servants polished the silver.",
+            "The rich family had a cook and two servants."
           ]
         }
       }
@@ -895,6 +1136,34 @@
             "The waiter gave us friendly service.",
             "Bus service stops at midnight in our town.",
             "The library offers a free service for borrowing books."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "session",
+    "say": "SESH-un",
+    "forms": [
+      "sessions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A period of time spent doing one thing.",
+          "examples": [
+            "We had a practice session.",
+            "The class is in session.",
+            "The first session was fun."
+          ]
+        },
+        "more": {
+          "def": "A period of time used for a particular activity.",
+          "examples": [
+            "We had a long practice session on Saturday.",
+            "The art session lasted an hour.",
+            "The class is in session until three."
           ]
         }
       }

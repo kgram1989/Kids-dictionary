@@ -1,5 +1,53 @@
 [
   {
+    "word": "gear",
+    "say": "geer",
+    "emoji": "⚙️",
+    "forms": [
+      "gears"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The tools and clothes you need for something.",
+          "examples": [
+            "I packed my camping gear.",
+            "Put on your gear.",
+            "She has all her swim gear."
+          ]
+        },
+        "more": {
+          "def": "The equipment and clothes you need for an activity.",
+          "examples": [
+            "We packed our camping gear in the car.",
+            "The hockey players put on their gear.",
+            "He carried his fishing gear to the lake."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wheel with bumps that turns another wheel.",
+          "examples": [
+            "The gears turn the wheel.",
+            "The clock has small gears.",
+            "A bike has gears."
+          ]
+        },
+        "more": {
+          "def": "A wheel with teeth around the edge that fits into other wheels to make machines work.",
+          "examples": [
+            "The gears inside the clock turn together.",
+            "A bike has gears that make it easier to go uphill.",
+            "The small gear turns the big one."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "general",
     "say": "JEN-er-ul",
     "forms": [
@@ -41,6 +89,34 @@
             "The general planned the march across the mountains.",
             "Soldiers saluted the general.",
             "The general met with leaders from other countries."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "generation",
+    "say": "jen-uh-RAY-shun",
+    "forms": [
+      "generations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "All the people who are about the same age.",
+          "examples": [
+            "My grandparents are an older generation.",
+            "The younger generation.",
+            "Three generations live in this house."
+          ]
+        },
+        "more": {
+          "def": "All the people born and living around the same time, or the time between a parent and child.",
+          "examples": [
+            "Three generations of our family live in this house.",
+            "My grandfather's generation grew up without computers.",
+            "Each new generation learns from the last."
           ]
         }
       }

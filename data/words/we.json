@@ -318,6 +318,37 @@
     ]
   },
   {
+    "word": "weigh",
+    "say": "way",
+    "emoji": "⚖️",
+    "forms": [
+      "weighs",
+      "weighed",
+      "weighing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To find how heavy something is.",
+          "examples": [
+            "I weigh the apples.",
+            "She weighed the box.",
+            "The scale weighs me."
+          ]
+        },
+        "more": {
+          "def": "To measure how heavy something is, or to be a certain heaviness.",
+          "examples": [
+            "The cashier weighed the apples.",
+            "I weigh about sixty pounds.",
+            "The baby weighs eight pounds."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "weight",
     "say": "wayt",
     "forms": [
@@ -561,6 +592,31 @@
             "Storms often roll in from the west.",
             "We drove west toward the mountains.",
             "Pioneers traveled west in wagons."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "western",
+    "say": "WES-tern",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with the west.",
+          "examples": [
+            "The western sky was red.",
+            "The western side of the town is quiet.",
+            "She lives in the western part of the state."
+          ]
+        },
+        "more": {
+          "def": "Facing or coming from the west, the direction where the sun sets.",
+          "examples": [
+            "The sky in the western part of the country was clear.",
+            "The western side of the house gets the evening sun.",
+            "A western wind blew in from the sea."
           ]
         }
       }

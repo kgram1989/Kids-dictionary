@@ -79,6 +79,61 @@
     ]
   },
   {
+    "word": "prayer",
+    "say": "prair",
+    "emoji": "🙏",
+    "forms": [
+      "prayers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words that people say to talk to God.",
+          "examples": [
+            "They said a prayer before dinner.",
+            "Grandma says a prayer every night.",
+            "We bowed our heads in prayer."
+          ]
+        },
+        "more": {
+          "def": "Words spoken to God, or the act of speaking them, often to give thanks or ask for help.",
+          "examples": [
+            "Families often say a prayer before a meal.",
+            "The people gathered for prayer on Sunday morning.",
+            "He said a quiet prayer for his sick friend."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "precious",
+    "say": "PRESH-us",
+    "emoji": "💎",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Worth a lot, or loved very much.",
+          "examples": [
+            "My baby sister is precious.",
+            "The ring is precious.",
+            "Gold is a precious metal."
+          ]
+        },
+        "more": {
+          "def": "Very valuable, or dearly loved.",
+          "examples": [
+            "The ring was a precious gift from her grandmother.",
+            "Gold and silver are precious metals.",
+            "Fresh water is precious in the desert."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "predator",
     "say": "PRED-uh-ter",
     "emoji": "🦈",
@@ -218,6 +273,31 @@
             "The class prepared for the play by practicing every day.",
             "The chef prepared a special meal.",
             "The town prepared for the storm by stacking sandbags."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "presence",
+    "say": "PREZ-unss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being in a place.",
+          "examples": [
+            "Her presence made us happy.",
+            "Your presence is needed.",
+            "The presence of the teacher calmed us."
+          ]
+        },
+        "more": {
+          "def": "The fact of being in a certain place at a certain time.",
+          "examples": [
+            "The teacher's presence kept the class quiet.",
+            "Your presence at the party made it special.",
+            "We felt the presence of someone in the room."
           ]
         }
       }
@@ -527,6 +607,36 @@
     ]
   },
   {
+    "word": "prevent",
+    "say": "prih-VENT",
+    "forms": [
+      "prevents",
+      "prevented",
+      "preventing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop something from happening.",
+          "examples": [
+            "A helmet prevents injury.",
+            "The fence prevents the dog from running out.",
+            "Wash your hands to prevent germs."
+          ]
+        },
+        "more": {
+          "def": "To keep something from happening.",
+          "examples": [
+            "A helmet can prevent a head injury.",
+            "The fence prevents the dog from running into the road.",
+            "Washing your hands can prevent colds."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "price",
     "say": "pryss",
     "forms": [
@@ -555,6 +665,53 @@
     ]
   },
   {
+    "word": "pride",
+    "say": "pryd",
+    "forms": [
+      "prides"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A good feeling about something you did well.",
+          "examples": [
+            "She felt pride when she finished the race.",
+            "I take pride in my work.",
+            "Dad looked at me with pride."
+          ]
+        },
+        "more": {
+          "def": "A happy feeling of being pleased with yourself or with people close to you.",
+          "examples": [
+            "He felt great pride as his sister received her prize.",
+            "The whole town took pride in its new library.",
+            "She showed her painting with pride."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of lions that live together.",
+          "examples": [
+            "A pride of lions slept in the shade.",
+            "The cubs play in the pride.",
+            "The pride rests on the rocks."
+          ]
+        },
+        "more": {
+          "def": "A family group of lions that live and hunt together.",
+          "examples": [
+            "A pride of lions can have more than ten members.",
+            "The mother lions in the pride hunt together at dusk.",
+            "We watched a pride of lions walk across the plain."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "priest",
     "say": "preest",
     "forms": [
@@ -577,6 +734,53 @@
             "The priest led the service at the church.",
             "The priest blessed the new building.",
             "The priest visited the sick."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prime",
+    "say": "prym",
+    "forms": [
+      "primes"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Most important or best.",
+          "examples": [
+            "This is the prime spot for the picnic.",
+            "It is a prime example.",
+            "The prime reason is safety."
+          ]
+        },
+        "more": {
+          "def": "Main, first in importance, or of the highest quality.",
+          "examples": [
+            "The prime reason for the rule is safety.",
+            "This is a prime spot for fishing.",
+            "The farm grew prime beef."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Describing a number that can be divided only by itself and one.",
+          "examples": [
+            "Seven is a prime number.",
+            "Two is a prime number.",
+            "Five is prime."
+          ]
+        },
+        "more": {
+          "def": "Describing a number greater than one that can be divided evenly only by one and itself.",
+          "examples": [
+            "Thirteen is prime because only one and thirteen divide it evenly.",
+            "The prime numbers start with two, three and five.",
+            "Nine is not prime because three goes into it."
           ]
         }
       }
@@ -633,6 +837,53 @@
             "The princess lived in a tall castle.",
             "In the story, the princess saves the village.",
             "The little girl dressed as a princess."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "principal",
+    "say": "PRIN-suh-pul",
+    "forms": [
+      "principals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The leader of a school.",
+          "examples": [
+            "The principal is nice.",
+            "We met the principal.",
+            "The principal read to us."
+          ]
+        },
+        "more": {
+          "def": "The person in charge of a school.",
+          "examples": [
+            "The principal spoke at the assembly.",
+            "We were sent to the principal's office.",
+            "The principal knows all the students' names."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Most important.",
+          "examples": [
+            "The principal reason was safety.",
+            "His principal job is teaching.",
+            "The principal part is done."
+          ]
+        },
+        "more": {
+          "def": "Main, first in importance.",
+          "examples": [
+            "The principal reason for the rule is safety.",
+            "The principal ingredient in bread is flour.",
+            "The principal city of the state is by the river."
           ]
         }
       }
@@ -698,6 +949,34 @@
     ]
   },
   {
+    "word": "priority",
+    "say": "pry-OR-ih-tee",
+    "forms": [
+      "priorities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that is most important.",
+          "examples": [
+            "Safety is a priority.",
+            "My priority is homework.",
+            "The main priority is to be safe."
+          ]
+        },
+        "more": {
+          "def": "Something that is more important than other things and should be done first.",
+          "examples": [
+            "Safety is our first priority on the trip.",
+            "Homework is a priority before video games.",
+            "The team's priority is to win the next game."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "prison",
     "say": "PRIZ-un",
     "forms": [
@@ -754,6 +1033,31 @@
     ]
   },
   {
+    "word": "privacy",
+    "say": "PRY-vuh-see",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being alone, away from others.",
+          "examples": [
+            "I want privacy.",
+            "She likes her privacy.",
+            "The curtain gives us privacy."
+          ]
+        },
+        "more": {
+          "def": "The state of being alone or away from other people's eyes.",
+          "examples": [
+            "I like my privacy when I change my clothes.",
+            "The curtain gave her some privacy.",
+            "Everyone needs a little privacy sometimes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "private",
     "say": "PRY-vit",
     "senses": [
@@ -773,6 +1077,63 @@
             "This is a private beach for hotel guests only.",
             "She wrote in her private diary.",
             "He asked for a private talk with the teacher."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "privilege",
+    "say": "PRIV-uh-lij",
+    "forms": [
+      "privileges"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A special right that not everyone has.",
+          "examples": [
+            "It is a privilege to meet her.",
+            "Staying up late is a privilege.",
+            "The students lost their privileges."
+          ]
+        },
+        "more": {
+          "def": "A special right or benefit that is given to someone.",
+          "examples": [
+            "It was a privilege to meet the famous author.",
+            "Older students have the privilege of eating lunch outside.",
+            "Having clean water is a privilege that not everyone has."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prize",
+    "say": "pryz",
+    "emoji": "🎁",
+    "forms": [
+      "prizes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you get for winning.",
+          "examples": [
+            "I won first prize.",
+            "The prize was a gold star.",
+            "He got a prize for his picture."
+          ]
+        },
+        "more": {
+          "def": "A reward that is given to the winner of a contest or for doing something well.",
+          "examples": [
+            "The winner of the race got a shiny prize.",
+            "First prize at the fair was a blue ribbon.",
+            "She won a prize for the best costume."
           ]
         }
       }
@@ -826,6 +1187,64 @@
     ]
   },
   {
+    "word": "procedure",
+    "say": "pruh-SEE-jer",
+    "forms": [
+      "procedures"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The steps to do something.",
+          "examples": [
+            "The fire drill procedure is simple.",
+            "Follow the procedure.",
+            "The procedure has five steps."
+          ]
+        },
+        "more": {
+          "def": "A set of steps that you follow in a certain order to do something.",
+          "examples": [
+            "The teacher explained the procedure for the experiment.",
+            "Follow the fire drill procedure and walk quietly outside.",
+            "The procedure for baking bread has several steps."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "proceed",
+    "say": "pruh-SEED",
+    "forms": [
+      "proceeds",
+      "proceeded",
+      "proceeding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go on with something.",
+          "examples": [
+            "Please proceed to the gym.",
+            "Let us proceed with the lesson.",
+            "The class proceeded to the library."
+          ]
+        },
+        "more": {
+          "def": "To continue or go forward after stopping, or to begin the next step.",
+          "examples": [
+            "The bus driver proceeded down the road after the light turned green.",
+            "After the speech, the guests proceeded to the dining room.",
+            "Please proceed to the front of the line."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "process",
     "say": "PROSS-es",
     "forms": [
@@ -869,6 +1288,178 @@
             "The factory processes milk into cheese.",
             "The machine processed the paper.",
             "Workers process the fruit before packing it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "produce",
+    "say": "pruh-DOOS",
+    "forms": [
+      "produces",
+      "produced",
+      "producing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something.",
+          "examples": [
+            "Cows produce milk.",
+            "The factory produces toys.",
+            "Bees produce honey."
+          ]
+        },
+        "more": {
+          "def": "To make or bring something into being.",
+          "examples": [
+            "Cows produce milk for us to drink.",
+            "The factory produced thousands of toys each week.",
+            "Apple trees produce fruit in the fall."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Fresh fruit and vegetables.",
+          "examples": [
+            "We buy produce at the market.",
+            "The produce is fresh.",
+            "The farm sells produce."
+          ]
+        },
+        "more": {
+          "def": "Fresh fruits and vegetables that are grown on a farm and sold as food.",
+          "examples": [
+            "We buy fresh produce at the farmers' market.",
+            "The produce section is full of apples and carrots.",
+            "The farm stand sells fresh produce all summer."
+          ]
+        },
+        "say": "PROD-oos"
+      }
+    ]
+  },
+  {
+    "word": "producer",
+    "say": "pruh-DOO-ser",
+    "forms": [
+      "producers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who gets a movie or show made.",
+          "examples": [
+            "The producer made the movie.",
+            "The producer of the show was happy.",
+            "The producer found the actors."
+          ]
+        },
+        "more": {
+          "def": "A person who is in charge of making a movie, play or TV show.",
+          "examples": [
+            "The producer found the actors for the movie.",
+            "The show's producer planned the budget.",
+            "Farmers are producers of food."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "product",
+    "say": "PROD-ukt",
+    "forms": [
+      "products"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that is made to be sold.",
+          "examples": [
+            "This product is new.",
+            "The store sells many products.",
+            "Milk is a dairy product."
+          ]
+        },
+        "more": {
+          "def": "Something that is made or grown to be sold or used.",
+          "examples": [
+            "The factory makes a new product every year.",
+            "Cheese is a dairy product.",
+            "The store sells cleaning products."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The number you get when you multiply.",
+          "examples": [
+            "The product of two and three is six.",
+            "What is the product?",
+            "Six is the product of two times three."
+          ]
+        },
+        "more": {
+          "def": "The answer you get when you multiply two or more numbers together.",
+          "examples": [
+            "The product of four and five is twenty.",
+            "The product of any number and zero is zero.",
+            "She found the product by multiplying."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "production",
+    "say": "pruh-DUK-shun",
+    "forms": [
+      "productions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Making something.",
+          "examples": [
+            "The production of cars is fast.",
+            "The farm's production of milk is high.",
+            "The factory started the production."
+          ]
+        },
+        "more": {
+          "def": "The act of making something, or the amount that is made.",
+          "examples": [
+            "The factory increased its production of toys.",
+            "The production of honey takes many bees.",
+            "The farm's milk production grew this year."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A play or movie that is put on.",
+          "examples": [
+            "The school put on a production of a play.",
+            "The production was great.",
+            "We saw a production of a musical."
+          ]
+        },
+        "more": {
+          "def": "A show such as a play, film or TV program that is put on for an audience.",
+          "examples": [
+            "Our school put on a production of a play.",
+            "The production had great costumes.",
+            "We saw a production of a musical in town."
           ]
         }
       }
@@ -927,6 +1518,69 @@
             "The professors met in the library."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "profile",
+    "say": "PROH-fyl",
+    "forms": [
+      "profiles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A side view of a face.",
+          "examples": [
+            "The picture shows his profile.",
+            "I drew her profile.",
+            "The coin shows a profile."
+          ]
+        },
+        "more": {
+          "def": "A view of a person's face from the side.",
+          "examples": [
+            "The artist drew a profile of the girl.",
+            "The coin shows the profile of a president.",
+            "His profile showed a straight nose."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "profit",
+    "say": "PROF-it",
+    "emoji": "💵",
+    "forms": [
+      "profits"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money you make after paying for what you used.",
+          "examples": [
+            "The lemonade stand made a profit.",
+            "The shop made a profit.",
+            "We kept the profit."
+          ]
+        },
+        "more": {
+          "def": "The money left over after the cost of making or buying something has been paid.",
+          "examples": [
+            "The lemonade stand made a profit of ten dollars.",
+            "The shop owner was happy with the profit.",
+            "We earned a profit by selling the cookies for more than they cost."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "profitable",
+        "def": "Making money."
       }
     ]
   },
@@ -1003,6 +1657,55 @@
     ]
   },
   {
+    "word": "progress",
+    "say": "PROG-ress",
+    "forms": [
+      "progresses",
+      "progressed",
+      "progressing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Getting better or getting closer to a goal.",
+          "examples": [
+            "I made progress in reading.",
+            "We made progress.",
+            "Her progress was good."
+          ]
+        },
+        "more": {
+          "def": "Movement forward, or improvement as time goes on.",
+          "examples": [
+            "He made good progress with his piano lessons.",
+            "The builders are making progress on the new bridge.",
+            "I can see your progress in the way you read now."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move forward or get better.",
+          "examples": [
+            "The story progresses.",
+            "I am progressing in math.",
+            "The work progressed."
+          ]
+        },
+        "more": {
+          "def": "To go forward, or to get better as time goes on.",
+          "examples": [
+            "The building progressed quickly in the spring.",
+            "Her reading progressed all year.",
+            "The story progresses from a quiet start to a thrilling end."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "project",
     "say": "PROJ-ekt",
     "forms": [
@@ -1025,6 +1728,34 @@
             "I am doing a science project on plants.",
             "Our class did a project about the ocean.",
             "The town started a project to build a new library."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prom",
+    "say": "prom",
+    "forms": [
+      "proms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big dance at a high school.",
+          "examples": [
+            "My sister went to the prom.",
+            "The prom is in May.",
+            "The prom was in the gym."
+          ]
+        },
+        "more": {
+          "def": "A formal dance held at the end of the school year for high school students.",
+          "examples": [
+            "My cousin wore a blue dress to the prom.",
+            "The prom is held in the school gym.",
+            "They danced all night at the prom."
           ]
         }
       }
@@ -1087,6 +1818,34 @@
     ]
   },
   {
+    "word": "proper",
+    "say": "PROP-er",
+    "forms": [
+      "properly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Right and correct.",
+          "examples": [
+            "Use the proper tool.",
+            "Wear proper shoes for hiking.",
+            "This is the proper way to hold a pencil."
+          ]
+        },
+        "more": {
+          "def": "Right for a certain purpose, or the way that is expected.",
+          "examples": [
+            "Wear proper shoes for a long hike.",
+            "Wash your hands in the proper way, with soap and water.",
+            "The proper way to hold a bat is with both hands."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "property",
     "say": "PROP-er-tee",
     "forms": [
@@ -1134,6 +1893,36 @@
     ]
   },
   {
+    "word": "propose",
+    "say": "pruh-POHZ",
+    "forms": [
+      "proposes",
+      "proposed",
+      "proposing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To suggest an idea or plan.",
+          "examples": [
+            "I propose a picnic.",
+            "She proposed a new game.",
+            "He proposed that we go home."
+          ]
+        },
+        "more": {
+          "def": "To put forward an idea or plan for others to think about.",
+          "examples": [
+            "The class proposed a trip to the zoo.",
+            "I propose that we take a vote.",
+            "She proposed a new rule for the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "protect",
     "say": "pruh-TEKT",
     "emoji": "🛡️",
@@ -1159,6 +1948,31 @@
             "The mother bird protected her eggs from the cold.",
             "Laws protect rare animals from hunters.",
             "A shell protects the turtle's soft body."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "protection",
+    "say": "pruh-TEK-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that keeps you safe.",
+          "examples": [
+            "The hat gave protection from the sun.",
+            "The fence gives the sheep protection.",
+            "A helmet gives protection."
+          ]
+        },
+        "more": {
+          "def": "The act of keeping someone or something safe from harm.",
+          "examples": [
+            "A helmet gives protection to your head.",
+            "The thick coat offers protection from the cold.",
+            "Rangers work for the protection of wild animals."
           ]
         }
       }

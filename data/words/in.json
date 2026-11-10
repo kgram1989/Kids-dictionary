@@ -25,6 +25,63 @@
     ]
   },
   {
+    "word": "inch",
+    "say": "inch",
+    "emoji": "📏",
+    "forms": [
+      "inches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small unit for measuring how long something is.",
+          "examples": [
+            "The bug is one inch long.",
+            "My pencil is six inches.",
+            "The snow was an inch deep."
+          ]
+        },
+        "more": {
+          "def": "A small unit of length. Twelve of them make a foot.",
+          "examples": [
+            "The beetle was about an inch long.",
+            "A ruler is twelve inches long.",
+            "Three inches of snow fell overnight."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "incident",
+    "say": "IN-sih-dunt",
+    "forms": [
+      "incidents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that happens.",
+          "examples": [
+            "The incident was short.",
+            "An odd incident happened at school.",
+            "He told us about the incident."
+          ]
+        },
+        "more": {
+          "def": "Something that happens, especially something unusual or surprising.",
+          "examples": [
+            "A strange incident happened at lunch when the cat walked in.",
+            "The teacher wrote down the incident in her notes.",
+            "There was a small incident on the bus."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "include",
     "say": "in-KLOOD",
     "forms": [
@@ -105,6 +162,143 @@
     ]
   },
   {
+    "word": "indicate",
+    "say": "IN-dih-kayt",
+    "forms": [
+      "indicates",
+      "indicated",
+      "indicating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To show or point to something.",
+          "examples": [
+            "The arrow indicates the way.",
+            "The sign indicates the exit.",
+            "The light indicates that it is ready."
+          ]
+        },
+        "more": {
+          "def": "To show or point out something, or to be a sign of it.",
+          "examples": [
+            "The arrow on the sign indicates which way to go.",
+            "Dark clouds indicate that rain may fall.",
+            "The light on the oven indicates that it is hot."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "individual",
+    "say": "in-dih-VIJ-oo-ul",
+    "forms": [
+      "individuals"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "One alone.",
+          "examples": [
+            "Each individual cup has a lid.",
+            "The individual pieces fit together.",
+            "We got individual pizzas."
+          ]
+        },
+        "more": {
+          "def": "Single and separate from others, or meant for one person.",
+          "examples": [
+            "Each child got an individual cup of juice.",
+            "The teacher gave individual help to each student.",
+            "Each snowflake has an individual shape."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One person.",
+          "examples": [
+            "Each individual has a name.",
+            "An individual can make a difference.",
+            "She is a strong individual."
+          ]
+        },
+        "more": {
+          "def": "One single person, as different from a group.",
+          "examples": [
+            "Every individual has a different fingerprint.",
+            "One individual can make a difference.",
+            "She is a kind and thoughtful individual."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "influence",
+    "say": "IN-floo-unss",
+    "forms": [
+      "influences",
+      "influenced",
+      "influencing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The power to change someone or something.",
+          "examples": [
+            "Friends have an influence on us.",
+            "The moon has an influence on the tides.",
+            "Her teacher was a good influence."
+          ]
+        },
+        "more": {
+          "def": "The power to change how someone thinks or acts, or to change how something happens.",
+          "examples": [
+            "Friends can have a big influence on you.",
+            "The moon's influence causes the tides.",
+            "He was a good influence on his little brother."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "inform",
+    "say": "in-FORM",
+    "forms": [
+      "informs",
+      "informed",
+      "informing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell someone something.",
+          "examples": [
+            "Please inform me when it is done.",
+            "The sign informs us of the rules.",
+            "She informed the teacher."
+          ]
+        },
+        "more": {
+          "def": "To tell someone a fact or a piece of news that they need or want to know.",
+          "examples": [
+            "The coach informed the team that practice was canceled.",
+            "A bell informs the class that it is time for lunch.",
+            "Please inform us if you cannot come to the party."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "information",
     "say": "in-fer-MAY-shun",
     "senses": [
@@ -132,6 +326,35 @@
       {
         "word": "misinformation",
         "def": "Information that is wrong."
+      }
+    ]
+  },
+  {
+    "word": "injury",
+    "say": "IN-juh-ree",
+    "emoji": "🩹",
+    "forms": [
+      "injuries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hurt to the body.",
+          "examples": [
+            "I have an injury.",
+            "His leg injury hurts.",
+            "The injury healed."
+          ]
+        },
+        "more": {
+          "def": "Damage to a part of the body, such as a cut or a broken bone.",
+          "examples": [
+            "He had an injury to his ankle.",
+            "The nurse looked at my knee injury.",
+            "The injury healed after a few weeks."
+          ]
+        }
       }
     ]
   },
@@ -289,6 +512,92 @@
     ]
   },
   {
+    "word": "inspector",
+    "say": "in-SPEK-ter",
+    "forms": [
+      "inspectors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who checks that things are safe.",
+          "examples": [
+            "The inspector checked the building.",
+            "The inspector looked at the bridge.",
+            "An inspector came to the school."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to look closely at something to see that it is safe or right.",
+          "examples": [
+            "The inspector checked that the new bridge was safe.",
+            "A health inspector visited the restaurant kitchen.",
+            "The building inspector looked at the wiring."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "inspire",
+    "say": "in-SPYR",
+    "forms": [
+      "inspires",
+      "inspired",
+      "inspiring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone want to do something good.",
+          "examples": [
+            "The story inspired me.",
+            "The teacher inspires us.",
+            "Her kindness inspires me."
+          ]
+        },
+        "more": {
+          "def": "To make someone feel excited about doing something.",
+          "examples": [
+            "The story of the brave girl inspired me to try.",
+            "The coach inspired the team to work hard.",
+            "Her kindness inspires everyone around her."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "instance",
+    "say": "IN-stunss",
+    "forms": [
+      "instances"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An example of something.",
+          "examples": [
+            "Give me an instance.",
+            "In this instance, we waited.",
+            "For instance, a dog is a pet."
+          ]
+        },
+        "more": {
+          "def": "One example of something that happens or exists.",
+          "examples": [
+            "Can you give me an instance of a mammal?",
+            "In this instance, the bus was late.",
+            "Cats, for instance, like to sleep in warm places."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "instead",
     "say": "in-STED",
     "senses": [
@@ -308,6 +617,81 @@
             "It was raining, so we played inside instead.",
             "I wanted pizza, but we had soup instead.",
             "He walked instead of taking the bus."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "instinct",
+    "say": "IN-stinkt",
+    "forms": [
+      "instincts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something an animal does without being taught.",
+          "examples": [
+            "Birds fly by instinct.",
+            "A baby turtle goes to the sea by instinct.",
+            "The instinct is strong."
+          ]
+        },
+        "more": {
+          "def": "A natural way of acting that an animal or person is born with and does not have to learn.",
+          "examples": [
+            "Baby turtles head for the sea by instinct.",
+            "A mother bird's instinct is to protect her eggs.",
+            "His instinct told him to step back."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "instruction",
+    "say": "in-STRUK-shun",
+    "forms": [
+      "instructions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words that tell you how to do something.",
+          "examples": [
+            "Follow the instructions.",
+            "Read the instruction.",
+            "The box has instructions."
+          ]
+        },
+        "more": {
+          "def": "A direction that tells you how to do something.",
+          "examples": [
+            "Read the instructions before you build the model.",
+            "The teacher gave us clear instructions.",
+            "The instruction told us to stir slowly."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Teaching.",
+          "examples": [
+            "She gives swimming instruction.",
+            "The class received instruction in art.",
+            "He takes music instruction."
+          ]
+        },
+        "more": {
+          "def": "The act of teaching someone a skill or subject.",
+          "examples": [
+            "She gives swimming instruction at the pool.",
+            "The students receive instruction in reading every day.",
+            "He took violin instruction on Saturdays."
           ]
         }
       }
@@ -343,6 +727,56 @@
     ]
   },
   {
+    "word": "insult",
+    "say": "in-SULT",
+    "forms": [
+      "insults",
+      "insulted",
+      "insulting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say something mean to someone.",
+          "examples": [
+            "Do not insult your friends.",
+            "He insulted me.",
+            "That insults her."
+          ]
+        },
+        "more": {
+          "def": "To say or do something rude that hurts someone's feelings.",
+          "examples": [
+            "It is wrong to insult people.",
+            "He insulted her by laughing at her drawing.",
+            "She felt insulted when they ignored her."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rude thing said to hurt someone.",
+          "examples": [
+            "That was an insult.",
+            "He gave an insult.",
+            "I did not like the insult."
+          ]
+        },
+        "more": {
+          "def": "Something rude said or done that hurts someone's feelings.",
+          "examples": [
+            "Calling someone a name is an insult.",
+            "She took his words as an insult.",
+            "He apologized for his insult."
+          ]
+        },
+        "say": "IN-sult"
+      }
+    ]
+  },
+  {
     "word": "insurance",
     "say": "in-SHUUR-unss",
     "senses": [
@@ -364,6 +798,65 @@
             "The family has insurance for their house."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "intelligence",
+    "say": "in-TEL-uh-junss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The ability to learn and think.",
+          "examples": [
+            "Dolphins have great intelligence.",
+            "Her intelligence is clear.",
+            "Intelligence helps you solve problems."
+          ]
+        },
+        "more": {
+          "def": "The ability to learn, understand and think about things.",
+          "examples": [
+            "Dolphins are known for their intelligence.",
+            "It takes intelligence to solve a hard puzzle.",
+            "Crows show great intelligence by using tools."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "intelligent",
+    "say": "in-TEL-uh-jent",
+    "forms": [
+      "intelligently"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Smart and able to learn.",
+          "examples": [
+            "The dog is intelligent.",
+            "She is an intelligent girl.",
+            "Dolphins are intelligent."
+          ]
+        },
+        "more": {
+          "def": "Able to learn, understand and think about things well.",
+          "examples": [
+            "Crows are intelligent birds that can solve puzzles.",
+            "She is an intelligent student who asks good questions.",
+            "The intelligent dog learned new tricks quickly."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unintelligent",
+        "def": "Not intelligent."
       }
     ]
   },
@@ -392,6 +885,34 @@
             "I intend to finish my homework before dinner.",
             "She intended to surprise her mother.",
             "He intended to call but forgot."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "intention",
+    "say": "in-TEN-shun",
+    "forms": [
+      "intentions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What you plan to do.",
+          "examples": [
+            "My intention is to help.",
+            "She had no intention of leaving.",
+            "It was my intention to be kind."
+          ]
+        },
+        "more": {
+          "def": "An idea or plan that you mean to carry out.",
+          "examples": [
+            "My intention was to clean my room before dinner.",
+            "She had no intention of quitting.",
+            "He had good intentions, but he spilled the milk."
           ]
         }
       }
@@ -497,6 +1018,64 @@
       {
         "word": "uninteresting",
         "def": "Not interesting."
+      }
+    ]
+  },
+  {
+    "word": "interfere",
+    "say": "in-ter-FEER",
+    "forms": [
+      "interferes",
+      "interfered",
+      "interfering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get in the way.",
+          "examples": [
+            "Do not interfere.",
+            "The noise interferes with my reading.",
+            "The rain interfered with our picnic."
+          ]
+        },
+        "more": {
+          "def": "To get in the way of something or to step into a matter that is not yours.",
+          "examples": [
+            "The noise interfered with my reading.",
+            "Loud music can interfere with studying.",
+            "Please do not interfere when I am helping my brother."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "international",
+    "say": "in-ter-NASH-uh-nul",
+    "forms": [
+      "internationally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Between or among countries.",
+          "examples": [
+            "The games are international.",
+            "We went to an international fair.",
+            "She speaks an international language."
+          ]
+        },
+        "more": {
+          "def": "Involving two or more countries.",
+          "examples": [
+            "The Olympics is an international event.",
+            "We went to an international food fair.",
+            "She is an international star known around the world."
+          ]
+        }
       }
     ]
   },
@@ -678,6 +1257,36 @@
     ]
   },
   {
+    "word": "investigate",
+    "say": "in-VES-tih-gayt",
+    "forms": [
+      "investigates",
+      "investigated",
+      "investigating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look for facts to learn what happened.",
+          "examples": [
+            "The detective will investigate.",
+            "We investigate the strange noise.",
+            "Police investigated."
+          ]
+        },
+        "more": {
+          "def": "To look carefully for facts in order to find out the truth.",
+          "examples": [
+            "The class investigated why the plant died.",
+            "The police investigated the lost bike.",
+            "Scientists investigate how animals find their way home."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "investigation",
     "say": "in-ves-tuh-GAY-shun",
     "forms": [
@@ -700,6 +1309,35 @@
             "The police began an investigation of the lost bike.",
             "Scientists carried out an investigation of the old tree.",
             "The investigation took three days."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "invitation",
+    "say": "in-vih-TAY-shun",
+    "emoji": "✉️",
+    "forms": [
+      "invitations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A note asking you to come to something.",
+          "examples": [
+            "I got an invitation to a party.",
+            "The invitation says to come at two.",
+            "She wrote the invitation."
+          ]
+        },
+        "more": {
+          "def": "A message that asks someone to come to a party or event.",
+          "examples": [
+            "I got an invitation to her birthday party.",
+            "The invitation said to come at two o'clock.",
+            "He made an invitation with paper and markers."
           ]
         }
       }

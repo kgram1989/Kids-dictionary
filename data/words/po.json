@@ -34,6 +34,60 @@
     ]
   },
   {
+    "word": "poem",
+    "say": "POH-um",
+    "emoji": "📜",
+    "forms": [
+      "poems"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short piece of writing in lines.",
+          "examples": [
+            "I wrote a poem.",
+            "The poem rhymes.",
+            "Mom read me a poem."
+          ]
+        },
+        "more": {
+          "def": "A piece of writing that uses lines, rhythm and often rhyme to share feelings or ideas.",
+          "examples": [
+            "I wrote a poem about my cat.",
+            "The poem has four lines that rhyme.",
+            "She read a poem about the moon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "poetry",
+    "say": "POH-uh-tree",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Poems.",
+          "examples": [
+            "I like poetry.",
+            "We read poetry in class.",
+            "The book is full of poetry."
+          ]
+        },
+        "more": {
+          "def": "Poems as a kind of writing, with lines that often rhyme and share feelings in a special way.",
+          "examples": [
+            "We read poetry every Friday in class.",
+            "She writes poetry about nature.",
+            "The book is full of poetry about the sea."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "point",
     "say": "point",
     "forms": [
@@ -130,6 +184,53 @@
     ]
   },
   {
+    "word": "pole",
+    "say": "pohl",
+    "forms": [
+      "poles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, thin stick.",
+          "examples": [
+            "The tent has a pole.",
+            "A flag is on a pole.",
+            "He held the pole."
+          ]
+        },
+        "more": {
+          "def": "A long, thin piece of wood or metal, usually standing up.",
+          "examples": [
+            "The flag hung from a tall pole.",
+            "He held a fishing pole.",
+            "The tent stood up on two poles."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One end of the earth, far north or far south.",
+          "examples": [
+            "The North Pole is cold.",
+            "Penguins live near the South Pole.",
+            "The pole is covered in ice."
+          ]
+        },
+        "more": {
+          "def": "The very top or the very bottom of the earth, which are covered in ice.",
+          "examples": [
+            "The North Pole is covered with snow and ice.",
+            "The compass needle points toward the North Pole.",
+            "Explorers traveled to the pole by dog sled."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "police",
     "say": "puh-LEESS",
     "senses": [
@@ -149,6 +250,35 @@
             "The police helped the lost boy find his parents.",
             "A police officer stopped the traffic so the children could cross.",
             "The police station is next to the library."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "policeman",
+    "say": "puh-LEES-mun",
+    "emoji": "👮",
+    "forms": [
+      "policemen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man who works for the police.",
+          "examples": [
+            "The policeman helped us cross.",
+            "A policeman is at the corner.",
+            "The policeman wore a badge."
+          ]
+        },
+        "more": {
+          "def": "A man who works for the police, keeping people and places safe.",
+          "examples": [
+            "The policeman helped us cross the street.",
+            "A policeman directed the traffic.",
+            "The policeman gave directions to the lost tourist."
           ]
         }
       }
@@ -183,6 +313,55 @@
     ]
   },
   {
+    "word": "polish",
+    "say": "POL-ish",
+    "forms": [
+      "polishes",
+      "polished",
+      "polishing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rub something to make it shiny.",
+          "examples": [
+            "I polish my shoes.",
+            "She polished the table.",
+            "He polished the silver."
+          ]
+        },
+        "more": {
+          "def": "To rub something until it is smooth and shiny.",
+          "examples": [
+            "I polished my shoes until they shone.",
+            "Dad polished the car on Sunday.",
+            "She polished the silver spoons."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you rub on to make things shiny.",
+          "examples": [
+            "I used shoe polish.",
+            "The polish is shiny.",
+            "The wood polish smells nice."
+          ]
+        },
+        "more": {
+          "def": "A cream or liquid that you rub on something to make it shiny.",
+          "examples": [
+            "Dad rubbed polish on his boots.",
+            "The furniture polish smelled like lemons.",
+            "She painted her nails with red polish."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "polite",
     "say": "puh-LYT",
     "senses": [
@@ -202,6 +381,59 @@
             "The polite boy held the door open for everyone.",
             "It is polite to wait until everyone is served before eating.",
             "He wrote a polite letter to thank his aunt."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "political",
+    "say": "puh-LIT-ih-kul",
+    "forms": [
+      "politically"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with the government and how a country is run.",
+          "examples": [
+            "Voting is a political act.",
+            "The mayor is a political leader.",
+            "We learned about political parties."
+          ]
+        },
+        "more": {
+          "def": "Having to do with government, leaders and the way a country or city is run.",
+          "examples": [
+            "The class learned about political leaders in our country.",
+            "A political party chooses people to run in the election.",
+            "The mayor gave a political speech."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "politics",
+    "say": "POL-uh-tiks",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The work of running a country or town.",
+          "examples": [
+            "Politics is about government.",
+            "My uncle works in politics.",
+            "She is interested in politics."
+          ]
+        },
+        "more": {
+          "def": "The activities of choosing leaders and making the rules for a place.",
+          "examples": [
+            "My aunt works in politics.",
+            "The class talked about politics and voting.",
+            "The mayor has been in politics for ten years."
           ]
         }
       }
@@ -423,6 +655,84 @@
     ]
   },
   {
+    "word": "port",
+    "say": "port",
+    "emoji": "⚓",
+    "forms": [
+      "ports"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place by the water where ships stop.",
+          "examples": [
+            "The ship is in port.",
+            "The port is busy.",
+            "We saw ships at the port."
+          ]
+        },
+        "more": {
+          "def": "A town or harbor where ships come to load and unload goods.",
+          "examples": [
+            "The ship stayed in port for two days.",
+            "Cranes unloaded boxes at the busy port.",
+            "We visited a port on the coast."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pose",
+    "say": "pohz",
+    "forms": [
+      "poses",
+      "posed",
+      "posing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hold your body still, for a picture.",
+          "examples": [
+            "We pose for a photo.",
+            "She posed for the painter.",
+            "The cat posed by the window."
+          ]
+        },
+        "more": {
+          "def": "To hold a position so that someone can take a picture or draw you.",
+          "examples": [
+            "The family posed for a photo.",
+            "She posed for the painter in a blue dress.",
+            "The cat posed by the window like a statue."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way you hold your body.",
+          "examples": [
+            "She struck a pose.",
+            "The yoga pose is hard.",
+            "The dancer held a pose."
+          ]
+        },
+        "more": {
+          "def": "A position that you hold your body in.",
+          "examples": [
+            "The dancer held a graceful pose.",
+            "She struck a silly pose for the camera.",
+            "Tree pose is a yoga position."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "position",
     "say": "puh-ZISH-un",
     "forms": [
@@ -514,6 +824,62 @@
             "I am positive that I locked the door.",
             "He was positive about the answer.",
             "She was positive the bus was late."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "possession",
+    "say": "puh-ZESH-un",
+    "forms": [
+      "possessions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that you own.",
+          "examples": [
+            "This book is my possession.",
+            "He packed his possessions.",
+            "Her favorite possession is a doll."
+          ]
+        },
+        "more": {
+          "def": "Something that belongs to you.",
+          "examples": [
+            "This bike is my favorite possession.",
+            "He packed all his possessions into a box.",
+            "The family lost most of its possessions in the flood."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "possibility",
+    "say": "poss-uh-BIL-uh-tee",
+    "forms": [
+      "possibilities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that may happen.",
+          "examples": [
+            "There is a possibility of rain.",
+            "A snow day is a possibility.",
+            "Winning is a possibility."
+          ]
+        },
+        "more": {
+          "def": "A thing that might happen or might be true.",
+          "examples": [
+            "There is a possibility that the game will be canceled.",
+            "Scientists studied the possibility of life on other planets.",
+            "We talked about every possibility before choosing a name."
           ]
         }
       }
@@ -613,6 +979,92 @@
     ]
   },
   {
+    "word": "pot",
+    "say": "pot",
+    "emoji": "🍲",
+    "forms": [
+      "pots"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A deep round dish for cooking.",
+          "examples": [
+            "Mom cooked soup in a big pot.",
+            "The pot is hot.",
+            "Put the pasta in the pot."
+          ]
+        },
+        "more": {
+          "def": "A deep, round container used for cooking or for holding plants.",
+          "examples": [
+            "The soup simmered in a big pot on the stove.",
+            "She planted a seed in a small clay pot.",
+            "He stirred the pot of chili with a wooden spoon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "potato",
+    "say": "puh-TAY-toh",
+    "emoji": "🥔",
+    "forms": [
+      "potatoes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round vegetable that grows in the ground.",
+          "examples": [
+            "I eat a baked potato.",
+            "Potatoes grow underground.",
+            "Mom mashed the potato."
+          ]
+        },
+        "more": {
+          "def": "A round vegetable with brown skin that grows under the ground.",
+          "examples": [
+            "Dad baked a potato for dinner.",
+            "Potatoes grow underground, and farmers dig them up.",
+            "She made French fries from a potato."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "potential",
+    "say": "puh-TEN-shul",
+    "forms": [
+      "potentially"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What someone could become.",
+          "examples": [
+            "She has potential.",
+            "He has great potential as a swimmer.",
+            "The potential is there."
+          ]
+        },
+        "more": {
+          "def": "The ability to grow, develop or become something in the future.",
+          "examples": [
+            "The coach saw great potential in the young player.",
+            "The seed has the potential to become a tall tree.",
+            "She has the potential to be a good writer."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pound",
     "say": "pownd",
     "forms": [
@@ -656,6 +1108,64 @@
             "Rain pounded on the roof all night.",
             "He pounded the nail into the board.",
             "Waves pound the shore during a storm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pour",
+    "say": "por",
+    "forms": [
+      "pours",
+      "poured",
+      "pouring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make water flow out of something.",
+          "examples": [
+            "Pour the milk into the cup.",
+            "I pour water on the plant.",
+            "She poured the juice."
+          ]
+        },
+        "more": {
+          "def": "To tip a container so that a liquid flows out.",
+          "examples": [
+            "Dad poured the batter into the pan.",
+            "Rain began to pour down all at once.",
+            "He poured water from the pitcher into each glass."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "powder",
+    "say": "POW-der",
+    "forms": [
+      "powders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Very tiny bits of something dry.",
+          "examples": [
+            "The powder is soft.",
+            "I put powder on.",
+            "Flour is a powder."
+          ]
+        },
+        "more": {
+          "def": "A dry material made of very tiny pieces, like dust.",
+          "examples": [
+            "Flour is a white powder.",
+            "The chalk crumbled into powder.",
+            "She put a spoonful of cocoa powder in the milk."
           ]
         }
       }

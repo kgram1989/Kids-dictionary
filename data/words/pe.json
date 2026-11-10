@@ -101,6 +101,113 @@
     ]
   },
   {
+    "word": "pen",
+    "say": "pen",
+    "emoji": "🖊️",
+    "forms": [
+      "pens",
+      "penned"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing you use to write with.",
+          "examples": [
+            "I write with a blue pen.",
+            "My pen ran out of ink.",
+            "Please lend me a pen."
+          ]
+        },
+        "more": {
+          "def": "A tool with ink inside that you use to write or draw.",
+          "examples": [
+            "She signed her name with a black pen.",
+            "The teacher marked our papers with a red pen.",
+            "I always keep a pen in my backpack."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small fenced place for animals.",
+          "examples": [
+            "The pigs are in the pen.",
+            "The farmer put the sheep in a pen.",
+            "We built a pen for the rabbits."
+          ]
+        },
+        "more": {
+          "def": "A small area with a fence around it, used to keep animals in.",
+          "examples": [
+            "The farmer fed the pigs in their pen.",
+            "A gate kept the lambs safe inside the pen.",
+            "We cleaned the pen where the baby goats sleep."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pencil",
+    "say": "PEN-sul",
+    "emoji": "✏️",
+    "forms": [
+      "pencils"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin stick you write with.",
+          "examples": [
+            "I write with a pencil.",
+            "The pencil is sharp.",
+            "I lost my pencil."
+          ]
+        },
+        "more": {
+          "def": "A thin tool for writing or drawing, with a center of lead or color.",
+          "examples": [
+            "I wrote my name with a pencil.",
+            "She sharpened her pencil.",
+            "The teacher gave out new pencils."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "penny",
+    "say": "PEN-ee",
+    "emoji": "🪙",
+    "forms": [
+      "pennies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small coin worth one cent.",
+          "examples": [
+            "I found a penny on the ground.",
+            "She put a penny in the jar.",
+            "A penny is brown."
+          ]
+        },
+        "more": {
+          "def": "A coin worth one cent, which is one hundredth of a dollar.",
+          "examples": [
+            "Abraham Lincoln's face is on the penny.",
+            "He saved every penny to buy the kite.",
+            "A hundred pennies make one dollar."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "people",
     "say": "PEE-pul",
     "senses": [
@@ -120,6 +227,59 @@
             "A lot of people were waiting in line at the museum.",
             "The people of the village built a new school together.",
             "People all over the world celebrate the new year."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "per",
+    "say": "per",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "For each.",
+          "examples": [
+            "The apples cost two dollars per bag.",
+            "The speed limit is thirty miles per hour.",
+            "I eat three meals per day."
+          ]
+        },
+        "more": {
+          "def": "For each one, or in each.",
+          "examples": [
+            "The bus goes forty miles per hour.",
+            "The apples cost two dollars per pound.",
+            "Each student gets two pencils per week."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "percent",
+    "say": "per-SENT",
+    "forms": [
+      "percents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of one hundred.",
+          "examples": [
+            "Fifty percent is half.",
+            "I got ninety percent on the test.",
+            "Ten percent of the class is absent."
+          ]
+        },
+        "more": {
+          "def": "One part in every hundred, written with the sign %.",
+          "examples": [
+            "Half of the class is fifty percent.",
+            "She got ninety percent of the answers right.",
+            "The store took twenty percent off the price of the shirt."
           ]
         }
       }
@@ -225,6 +385,34 @@
     ]
   },
   {
+    "word": "performance",
+    "say": "per-FOR-munss",
+    "forms": [
+      "performances"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A show for an audience.",
+          "examples": [
+            "The dance performance was fun.",
+            "We went to a performance.",
+            "Her performance was great."
+          ]
+        },
+        "more": {
+          "def": "A show in which people sing, act, dance or play music for others.",
+          "examples": [
+            "The school held a performance of the spring play.",
+            "The band's performance made everyone clap.",
+            "The dancers practiced for weeks before the performance."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "perhaps",
     "say": "per-HAPS",
     "senses": [
@@ -322,6 +510,56 @@
     ]
   },
   {
+    "word": "permit",
+    "say": "per-MIT",
+    "forms": [
+      "permits",
+      "permitted",
+      "permitting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let someone do something.",
+          "examples": [
+            "The sign does not permit dogs.",
+            "The teacher will permit it.",
+            "We will not permit running."
+          ]
+        },
+        "more": {
+          "def": "To say that someone may do something, or to make something possible.",
+          "examples": [
+            "The rules do not permit dogs in the pool.",
+            "The teacher permitted us to go outside.",
+            "Good weather will permit us to play outside."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A paper that gives you permission.",
+          "examples": [
+            "We need a permit to fish.",
+            "The permit is for parking.",
+            "He has a fishing permit."
+          ]
+        },
+        "more": {
+          "def": "An official paper that says you are allowed to do something.",
+          "examples": [
+            "You need a permit to fish in the lake.",
+            "Dad bought a parking permit.",
+            "The builder showed the permit to the city."
+          ]
+        },
+        "say": "PER-mit"
+      }
+    ]
+  },
+  {
     "word": "person",
     "say": "PER-sun",
     "forms": [
@@ -375,6 +613,34 @@
     ]
   },
   {
+    "word": "personality",
+    "say": "per-suh-NAL-uh-tee",
+    "forms": [
+      "personalities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way a person acts and feels that makes them different.",
+          "examples": [
+            "She has a friendly personality.",
+            "My dog has a funny personality.",
+            "He has a big personality."
+          ]
+        },
+        "more": {
+          "def": "All the qualities that make a person different from other people.",
+          "examples": [
+            "She has a friendly, outgoing personality.",
+            "My cat has a shy personality.",
+            "Each twin has a different personality."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "personally",
     "say": "PER-suh-nuh-lee",
     "senses": [
@@ -394,6 +660,56 @@
             "I will thank her personally.",
             "Personally, I think pizza is the best food.",
             "The mayor greeted each guest personally."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pet",
+    "say": "pet",
+    "emoji": "🐶",
+    "forms": [
+      "pets",
+      "petted",
+      "petting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal you keep at home.",
+          "examples": [
+            "My pet is a cat.",
+            "Do you have a pet?",
+            "The dog is a good pet."
+          ]
+        },
+        "more": {
+          "def": "An animal that lives with people and is cared for by them.",
+          "examples": [
+            "A hamster can be a good pet for a small apartment.",
+            "She feeds her pet fish every morning.",
+            "The class pet is a gentle guinea pig."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stroke an animal gently.",
+          "examples": [
+            "I pet the dog.",
+            "She petted the cat.",
+            "Please pet the rabbit softly."
+          ]
+        },
+        "more": {
+          "def": "To touch an animal gently with your hand.",
+          "examples": [
+            "The children petted the soft lambs at the farm.",
+            "He petted the horse's nose.",
+            "Cats purr when you pet them."
           ]
         }
       }

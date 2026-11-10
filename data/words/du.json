@@ -103,6 +103,70 @@
     ]
   },
   {
+    "word": "duke",
+    "say": "dook",
+    "forms": [
+      "dukes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man with a very high rank in some countries.",
+          "examples": [
+            "The duke lived in a castle.",
+            "The king spoke to the duke.",
+            "A duke is a kind of lord."
+          ]
+        },
+        "more": {
+          "def": "A man of very high rank, just below a prince or a king.",
+          "examples": [
+            "The duke lived in a huge castle on a hill.",
+            "In the story, the duke gave a grand party for the whole town.",
+            "A duke often owned a lot of land long ago."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dull",
+    "say": "dul",
+    "forms": [
+      "duller",
+      "dullest",
+      "dully"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not sharp.",
+          "examples": [
+            "The knife is dull.",
+            "The scissors are dull.",
+            "My pencil is dull."
+          ]
+        },
+        "more": {
+          "def": "Not sharp, or not shiny or interesting.",
+          "examples": [
+            "The knife was too dull to cut the bread.",
+            "The old penny was dull and brown.",
+            "The long talk was dull."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "dullness",
+        "def": "Being dull."
+      }
+    ]
+  },
+  {
     "word": "dumb",
     "say": "dum",
     "forms": [
@@ -200,6 +264,55 @@
             "The bears sleep during the winter.",
             "It rained several times during the night.",
             "Please stay quiet during the show."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dust",
+    "say": "dust",
+    "forms": [
+      "dusts",
+      "dusted",
+      "dusting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Tiny bits of dry dirt in the air or on things.",
+          "examples": [
+            "Dust is on the shelf.",
+            "The wind blew dust.",
+            "I sneezed from the dust."
+          ]
+        },
+        "more": {
+          "def": "Very small bits of dry dirt or other stuff that collect on things or float in the air.",
+          "examples": [
+            "A thick layer of dust covered the old books.",
+            "The truck kicked up a cloud of dust on the dirt road.",
+            "A sunbeam showed the dust floating in the air."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To wipe the tiny bits of dirt off things.",
+          "examples": [
+            "I dust the table.",
+            "She dusted the shelf.",
+            "Please dust your room."
+          ]
+        },
+        "more": {
+          "def": "To clean a shelf or table by wiping off the fine powder that settles on it.",
+          "examples": [
+            "He dusted the bookshelves every Saturday.",
+            "Mom asked me to dust the furniture.",
+            "I dusted the piano with a soft cloth."
           ]
         }
       }

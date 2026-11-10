@@ -172,6 +172,59 @@
     ]
   },
   {
+    "word": "species",
+    "say": "SPEE-sheez",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind of animal or plant.",
+          "examples": [
+            "A lion is a species of cat.",
+            "This species is rare.",
+            "There are many species of birds."
+          ]
+        },
+        "more": {
+          "def": "A group of animals or plants that are alike and can have young together.",
+          "examples": [
+            "The panda is an endangered species.",
+            "This rare species lives only on one island.",
+            "Scientists have found thousands of new species."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "specific",
+    "say": "spuh-SIF-ik",
+    "forms": [
+      "specifically"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Exact and clear.",
+          "examples": [
+            "Be specific about what you want.",
+            "I need a specific book.",
+            "She gave a specific answer."
+          ]
+        },
+        "more": {
+          "def": "Clear and exact, about one particular thing and not just any.",
+          "examples": [
+            "Please give a specific time for the party.",
+            "I need a specific book for my report.",
+            "The teacher asked for specific details in the story."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "speech",
     "say": "speech",
     "forms": [
@@ -368,6 +421,133 @@
     ]
   },
   {
+    "word": "spider",
+    "say": "SPY-der",
+    "emoji": "🕷️",
+    "forms": [
+      "spiders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small animal with eight legs that makes a web.",
+          "examples": [
+            "A spider made a web.",
+            "The spider has eight legs.",
+            "I saw a spider."
+          ]
+        },
+        "more": {
+          "def": "A small creature with eight legs that spins webs to catch insects.",
+          "examples": [
+            "A spider spun a web between the branches.",
+            "Spiders have eight legs.",
+            "The spider waited in its web for a fly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spike",
+    "say": "spyk",
+    "forms": [
+      "spikes",
+      "spiked",
+      "spiking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, sharp point.",
+          "examples": [
+            "The fence has spikes.",
+            "The cactus has spikes.",
+            "The spike is sharp."
+          ]
+        },
+        "more": {
+          "def": "A thin piece of metal or wood with a sharp point.",
+          "examples": [
+            "The fence had metal spikes on top.",
+            "The runner's shoes had spikes.",
+            "A spike stuck out of the board."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "spiky",
+        "def": "Having sharp points."
+      }
+    ]
+  },
+  {
+    "word": "spill",
+    "say": "spil",
+    "forms": [
+      "spills",
+      "spilled",
+      "spilt",
+      "spilling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let something run out by accident.",
+          "examples": [
+            "Do not spill the milk.",
+            "I spilled my juice.",
+            "She spilled the paint."
+          ]
+        },
+        "more": {
+          "def": "To let a liquid or a powder run out of its container by accident.",
+          "examples": [
+            "I spilled my juice on the table.",
+            "Be careful not to spill the paint.",
+            "She spilled sugar all over the floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spin",
+    "say": "spin",
+    "emoji": "🌀",
+    "forms": [
+      "spins",
+      "spun",
+      "spinning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To turn around and around fast.",
+          "examples": [
+            "The top will spin.",
+            "I spin in a circle.",
+            "The wheel spun."
+          ]
+        },
+        "more": {
+          "def": "To turn around and around quickly, or to make something do this.",
+          "examples": [
+            "The ice skater spun on one foot.",
+            "The washing machine spins the clothes dry.",
+            "The dancers spun in a circle."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "spirit",
     "say": "SPIR-it",
     "forms": [
@@ -409,6 +589,36 @@
             "The spirit of the old house moved the curtains.",
             "In the legend, a spirit lived in the lake.",
             "The story has a kind spirit that helps a lost child."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spit",
+    "say": "spit",
+    "forms": [
+      "spits",
+      "spat",
+      "spitting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To push water or food out from your mouth.",
+          "examples": [
+            "Do not spit.",
+            "The baby spit out the peas.",
+            "The camel spat."
+          ]
+        },
+        "more": {
+          "def": "To force something out of your mouth.",
+          "examples": [
+            "He spit out a seed from the watermelon.",
+            "The llama spat grass at the zookeeper.",
+            "The cat spit when it got scared."
           ]
         }
       }
@@ -459,6 +669,43 @@
             "The ice had a long split down the middle."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "spoil",
+    "say": "spoyl",
+    "forms": [
+      "spoils",
+      "spoiled",
+      "spoilt",
+      "spoiling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something bad or not good.",
+          "examples": [
+            "Rain will spoil our picnic.",
+            "The milk will spoil.",
+            "Do not spoil the surprise."
+          ]
+        },
+        "more": {
+          "def": "To ruin something, or to go bad and become unfit to eat.",
+          "examples": [
+            "The rain spoiled our picnic.",
+            "Milk can spoil if it is not kept cold.",
+            "He spoiled the surprise by telling us."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "spoiler",
+        "def": "Something that tells how a story ends before you read it."
       }
     ]
   },
@@ -555,6 +802,62 @@
             "She spotted her friend in the crowd."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "spray",
+    "say": "spray",
+    "emoji": "💦",
+    "forms": [
+      "sprays",
+      "sprayed",
+      "spraying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To send out tiny drops of water.",
+          "examples": [
+            "I spray the plants.",
+            "She sprayed water on the flowers.",
+            "The hose sprays."
+          ]
+        },
+        "more": {
+          "def": "To send out liquid in a fine mist of tiny drops.",
+          "examples": [
+            "I sprayed water on the plants.",
+            "The whale sprayed water from its blowhole.",
+            "He sprayed the car with a hose."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Tiny drops of water in the air.",
+          "examples": [
+            "The spray of the waves was cold.",
+            "The spray from the hose was cool.",
+            "A spray of water hit me."
+          ]
+        },
+        "more": {
+          "def": "A mist of tiny drops of liquid, or a can that makes one.",
+          "examples": [
+            "The spray from the waves cooled us off.",
+            "A spray of water from the fountain wet my shoes.",
+            "The bug spray smelled strong."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "sprayer",
+        "def": "A tool that sprays."
       }
     ]
   },

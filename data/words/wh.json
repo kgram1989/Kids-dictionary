@@ -1,5 +1,34 @@
 [
   {
+    "word": "whale",
+    "say": "wayl",
+    "emoji": "🐋",
+    "forms": [
+      "whales"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very big animal that lives in the sea.",
+          "examples": [
+            "The whale swam by.",
+            "A whale is huge.",
+            "We saw a whale."
+          ]
+        },
+        "more": {
+          "def": "A huge sea animal that breathes air through a hole on top of its head.",
+          "examples": [
+            "The whale blew water high into the air.",
+            "Blue whales are the biggest animals on Earth.",
+            "We went on a boat to watch whales."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "what",
     "say": "wut",
     "senses": [
@@ -311,6 +340,36 @@
     ]
   },
   {
+    "word": "whip",
+    "say": "wip",
+    "forms": [
+      "whips",
+      "whipped",
+      "whipping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To beat cream hard until it gets fluffy.",
+          "examples": [
+            "Dad will whip the cream.",
+            "She whipped the eggs.",
+            "Whip it fast."
+          ]
+        },
+        "more": {
+          "def": "To beat food such as cream or eggs quickly until it is light and full of air.",
+          "examples": [
+            "Mom whipped the cream for the pie.",
+            "He whipped the eggs with a fork.",
+            "We whipped the cream until it was fluffy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "whisper",
     "say": "WISS-per",
     "emoji": "🤫",
@@ -344,6 +403,56 @@
       {
         "word": "whisperer",
         "def": "A person who whispers."
+      }
+    ]
+  },
+  {
+    "word": "whistle",
+    "say": "WIS-ul",
+    "emoji": "🎵",
+    "forms": [
+      "whistles",
+      "whistled",
+      "whistling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a high sound by blowing air through your lips.",
+          "examples": [
+            "I can whistle.",
+            "She whistled a tune.",
+            "He whistles when he walks."
+          ]
+        },
+        "more": {
+          "def": "To make a high, clear sound by blowing air through your lips or a small tool.",
+          "examples": [
+            "She whistled a happy tune on her way to school.",
+            "The wind whistled through the trees.",
+            "The referee whistled to stop the game."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small tool that makes a loud, high sound.",
+          "examples": [
+            "The coach blew a whistle.",
+            "The whistle is loud.",
+            "I heard a whistle."
+          ]
+        },
+        "more": {
+          "def": "A small tube that makes a loud, high sound when you blow into it.",
+          "examples": [
+            "The coach blew her whistle at the end of practice.",
+            "A train whistle sounded in the distance.",
+            "The referee's whistle stopped the game."
+          ]
+        }
       }
     ]
   },

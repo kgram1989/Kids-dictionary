@@ -217,6 +217,34 @@
     ]
   },
   {
+    "word": "operator",
+    "say": "OP-er-ay-ter",
+    "forms": [
+      "operators"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who works a machine.",
+          "examples": [
+            "The crane operator lifted the beam.",
+            "The phone operator answered.",
+            "A bus operator drove us."
+          ]
+        },
+        "more": {
+          "def": "A person who works a machine or a phone system.",
+          "examples": [
+            "The crane operator lifted the steel beam.",
+            "A phone operator helped us find the number.",
+            "The train operator blew the whistle."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "opinion",
     "say": "uh-PIN-yun",
     "forms": [
@@ -304,6 +332,34 @@
       {
         "word": "opposition",
         "def": "Being against something."
+      }
+    ]
+  },
+  {
+    "word": "option",
+    "say": "OP-shun",
+    "forms": [
+      "options"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A choice you can make.",
+          "examples": [
+            "Pizza is one option for lunch.",
+            "You have two options.",
+            "Walking is an option."
+          ]
+        },
+        "more": {
+          "def": "One of the things you can choose from.",
+          "examples": [
+            "The menu gives you three options for dessert.",
+            "Taking the bus is a good option when it rains.",
+            "We talked over every option before we chose a name for the club."
+          ]
+        }
       }
     ]
   }

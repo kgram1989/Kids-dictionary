@@ -49,6 +49,53 @@
     ]
   },
   {
+    "word": "blade",
+    "say": "blayd",
+    "forms": [
+      "blades"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sharp, flat part of a knife or tool.",
+          "examples": [
+            "The knife has a sharp blade.",
+            "Be careful of the blade.",
+            "The blade cuts."
+          ]
+        },
+        "more": {
+          "def": "The flat, sharp part of a knife, sword or tool that cuts.",
+          "examples": [
+            "Be careful, the blade of the knife is sharp.",
+            "The blades of the helicopter spun.",
+            "The skater's blades cut the ice."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat, thin leaf of grass.",
+          "examples": [
+            "A blade of grass bent.",
+            "I picked a blade of grass.",
+            "He held a blade of grass."
+          ]
+        },
+        "more": {
+          "def": "A single, thin, flat leaf of grass.",
+          "examples": [
+            "I picked a blade of grass and whistled.",
+            "A beetle crawled up a blade of grass.",
+            "Dew shone on each blade of grass."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "blame",
     "say": "blaym",
     "forms": [
@@ -104,6 +151,162 @@
     ]
   },
   {
+    "word": "blank",
+    "say": "blangk",
+    "forms": [
+      "blanks"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Empty, with nothing on it.",
+          "examples": [
+            "The page is blank.",
+            "I have a blank paper.",
+            "The screen went blank."
+          ]
+        },
+        "more": {
+          "def": "Empty, with nothing written, drawn or shown on it.",
+          "examples": [
+            "The page was blank, so I started to draw.",
+            "The screen went blank when the power went out.",
+            "She gave me a blank look."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An empty space to fill in.",
+          "examples": [
+            "Fill in the blank.",
+            "The test has a blank.",
+            "Write the answer in the blank."
+          ]
+        },
+        "more": {
+          "def": "An empty space on a page where you write an answer.",
+          "examples": [
+            "Fill in the blank with the correct word.",
+            "The test had ten blanks.",
+            "I left one blank empty because I did not know."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blanket",
+    "say": "BLANG-kit",
+    "emoji": "🛏️",
+    "forms": [
+      "blankets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big, soft cover for a bed.",
+          "examples": [
+            "I sleep under a blanket.",
+            "The blanket is warm.",
+            "She wrapped the baby in a blanket."
+          ]
+        },
+        "more": {
+          "def": "A large, soft cover that keeps you warm.",
+          "examples": [
+            "I sleep under a thick wool blanket in winter.",
+            "We spread a blanket on the grass for the picnic.",
+            "She wrapped the baby in a soft blanket."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blast",
+    "say": "blast",
+    "emoji": "💨",
+    "forms": [
+      "blasts",
+      "blasted",
+      "blasting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong rush of wind.",
+          "examples": [
+            "A blast of cold air hit me.",
+            "The wind was a blast.",
+            "We felt a blast of heat."
+          ]
+        },
+        "more": {
+          "def": "A sudden, strong rush of wind, air or sound.",
+          "examples": [
+            "A blast of cold air hit us at the door.",
+            "The trumpet blast woke everyone up.",
+            "The blast from the oven was very hot."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a very loud sound.",
+          "examples": [
+            "The radio blasted music.",
+            "The horn blasted.",
+            "The speaker blasted."
+          ]
+        },
+        "more": {
+          "def": "To make a very loud sound, or to break something with an explosion.",
+          "examples": [
+            "The radio blasted music across the field.",
+            "The ship's horn blasted as it left the dock.",
+            "Workers blasted a tunnel through the mountain."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bleed",
+    "say": "bleed",
+    "forms": [
+      "bleeds",
+      "bled",
+      "bleeding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To lose blood.",
+          "examples": [
+            "My knee will bleed.",
+            "The cut bled.",
+            "A cut finger bleeds."
+          ]
+        },
+        "more": {
+          "def": "To lose blood from a cut or other hurt.",
+          "examples": [
+            "My scraped knee bled a little.",
+            "The nurse stopped the cut from bleeding.",
+            "A small cut can bleed a lot."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bless",
     "say": "bless",
     "forms": [
@@ -128,6 +331,31 @@
             "People bless the food before a meal.",
             "The priest blessed the new building.",
             "\"God bless you,\" said Grandma when I sneezed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blessed",
+    "say": "BLES-id",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Lucky, or holy.",
+          "examples": [
+            "We are blessed with good friends.",
+            "She felt blessed.",
+            "The blessed land."
+          ]
+        },
+        "more": {
+          "def": "Lucky or happy, or made holy by a religion.",
+          "examples": [
+            "We feel blessed to have good friends.",
+            "The family felt blessed after the good news.",
+            "They live in a blessed place with plenty of food."
           ]
         }
       }
@@ -229,6 +457,35 @@
       {
         "word": "unblock",
         "def": "To clear away what is blocking something."
+      }
+    ]
+  },
+  {
+    "word": "blonde",
+    "say": "blond",
+    "forms": [
+      "blondes",
+      "blond"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having yellow or light hair.",
+          "examples": [
+            "She has blonde hair.",
+            "The blonde girl waved.",
+            "My doll is blonde."
+          ]
+        },
+        "more": {
+          "def": "Having hair that is pale yellow or very light.",
+          "examples": [
+            "She has long blonde hair.",
+            "The blonde boy ran in the sun.",
+            "The puppy has a blonde coat."
+          ]
+        }
       }
     ]
   },

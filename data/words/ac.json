@@ -1,5 +1,33 @@
 [
   {
+    "word": "accent",
+    "say": "AK-sent",
+    "forms": [
+      "accents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way of speaking that shows where you are from.",
+          "examples": [
+            "She has a British accent.",
+            "He has a southern accent.",
+            "I love his accent."
+          ]
+        },
+        "more": {
+          "def": "A way of pronouncing words that shows which country or place you come from.",
+          "examples": [
+            "She speaks with a British accent.",
+            "His accent told us he was from the south.",
+            "I tried to copy my cousin's accent."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "accept",
     "say": "ik-SEPT",
     "forms": [
@@ -83,6 +111,36 @@
     ]
   },
   {
+    "word": "accomplish",
+    "say": "uh-KOM-plish",
+    "forms": [
+      "accomplishes",
+      "accomplished",
+      "accomplishing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To finish something you set out to do.",
+          "examples": [
+            "We accomplished our goal.",
+            "She accomplished a lot today.",
+            "He accomplished the task."
+          ]
+        },
+        "more": {
+          "def": "To succeed in doing something, especially something that took effort.",
+          "examples": [
+            "We accomplished our goal of cleaning the park.",
+            "She accomplished a lot by working hard.",
+            "He accomplished the long climb before sunset."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "according",
     "say": "uh-KOR-ding",
     "senses": [
@@ -149,6 +207,83 @@
             "She opened a savings account with her birthday money.",
             "Dad checks his account online.",
             "I put five dollars in my account."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "accuse",
+    "say": "uh-KYOOZ",
+    "forms": [
+      "accuses",
+      "accused",
+      "accusing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say someone did something wrong.",
+          "examples": [
+            "Do not accuse me.",
+            "He accused his brother of taking it.",
+            "They accused the cat."
+          ]
+        },
+        "more": {
+          "def": "To say that someone has done something wrong, especially without being sure.",
+          "examples": [
+            "She accused her friend of eating the last cookie.",
+            "It is wrong to accuse someone without proof.",
+            "The farmer accused the fox of stealing the hens."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ace",
+    "say": "ayss",
+    "forms": [
+      "aces"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A card with one spot.",
+          "examples": [
+            "I got an ace.",
+            "The ace is high.",
+            "An ace is a card."
+          ]
+        },
+        "more": {
+          "def": "A playing card with a single spot, which is often the highest card.",
+          "examples": [
+            "I drew an ace of hearts.",
+            "The ace beat the king.",
+            "The deck has four aces."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is very good at something.",
+          "examples": [
+            "She is an ace at chess.",
+            "He is an ace pilot.",
+            "The team's ace pitched well."
+          ]
+        },
+        "more": {
+          "def": "Someone who is very skilled at something.",
+          "examples": [
+            "She is an ace at math.",
+            "The team's ace pitcher struck out the batter.",
+            "He is an ace on his bike."
           ]
         }
       }
@@ -327,6 +462,34 @@
     ]
   },
   {
+    "word": "activity",
+    "say": "ak-TIV-ih-tee",
+    "forms": [
+      "activities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you do for fun or to learn.",
+          "examples": [
+            "Our class did an art activity.",
+            "Swimming is my favorite activity.",
+            "The camp has many activities."
+          ]
+        },
+        "more": {
+          "def": "Something that people do, usually for fun or interest.",
+          "examples": [
+            "Painting is my favorite activity.",
+            "The camp has many activities, such as swimming and hiking.",
+            "The class did an activity to learn about the stars."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "actor",
     "say": "AK-ter",
     "forms": [
@@ -349,6 +512,63 @@
             "The actor played the part of a pirate.",
             "My aunt is a famous actor.",
             "The actors bowed to the cheering crowd."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "actress",
+    "say": "AK-triss",
+    "emoji": "🎭",
+    "forms": [
+      "actresses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A woman who acts in plays or movies.",
+          "examples": [
+            "The actress played a queen.",
+            "She is an actress.",
+            "The actress was on stage."
+          ]
+        },
+        "more": {
+          "def": "A woman who acts in plays, movies or TV shows.",
+          "examples": [
+            "The actress played a queen in the school play.",
+            "My aunt is an actress.",
+            "The actress took a bow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "actual",
+    "say": "AK-choo-ul",
+    "forms": [
+      "actually"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Real and true.",
+          "examples": [
+            "The actual price was low.",
+            "This is the actual story.",
+            "The actual size is small."
+          ]
+        },
+        "more": {
+          "def": "Real, not made up, and really so.",
+          "examples": [
+            "The actual price was less than I thought.",
+            "The movie is based on an actual event.",
+            "What is the actual size of the fish?"
           ]
         }
       }

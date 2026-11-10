@@ -178,6 +178,31 @@
     ]
   },
   {
+    "word": "meantime",
+    "say": "MEEN-tym",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The time between two things.",
+          "examples": [
+            "In the meantime, we played.",
+            "In the meantime, wash your hands.",
+            "The bus is coming, and in the meantime we wait."
+          ]
+        },
+        "more": {
+          "def": "The time between one event and another.",
+          "examples": [
+            "Dinner is not ready, so in the meantime let us set the table.",
+            "The movie starts at three, and in the meantime we can have lunch.",
+            "Mom is coming, and in the meantime we will wait."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "measure",
     "say": "MEZH-er",
     "emoji": "📐",
@@ -251,6 +276,35 @@
     ]
   },
   {
+    "word": "medal",
+    "say": "MED-ul",
+    "emoji": "🏅",
+    "forms": [
+      "medals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round prize that you wear on a ribbon.",
+          "examples": [
+            "She won a gold medal.",
+            "The medal is shiny.",
+            "He wore his medal."
+          ]
+        },
+        "more": {
+          "def": "A small metal disk given as a prize or honor, often worn on a ribbon.",
+          "examples": [
+            "She won a gold medal in the swimming race.",
+            "The soldier received a medal for bravery.",
+            "He wore his medal around his neck."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "medical",
     "say": "MED-ih-kul",
     "senses": [
@@ -270,6 +324,34 @@
             "The nurse brought the medical kit.",
             "The doctor needed medical supplies.",
             "She studied medical science for many years."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "medication",
+    "say": "med-ih-KAY-shun",
+    "forms": [
+      "medications"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Medicine.",
+          "examples": [
+            "He takes his medication.",
+            "The doctor gave her medication.",
+            "The medication helped."
+          ]
+        },
+        "more": {
+          "def": "Medicine that a doctor gives you to help you get better.",
+          "examples": [
+            "He takes his medication every morning.",
+            "The doctor gave her medication for the cough.",
+            "Keep your medication away from small children."
           ]
         }
       }
@@ -409,6 +491,37 @@
     ]
   },
   {
+    "word": "melt",
+    "say": "melt",
+    "emoji": "🫠",
+    "forms": [
+      "melts",
+      "melted",
+      "melting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To turn from hard to soft or liquid by getting warm.",
+          "examples": [
+            "The ice will melt.",
+            "The snow melted.",
+            "Chocolate melts in the sun."
+          ]
+        },
+        "more": {
+          "def": "To change from a solid to a liquid when heated.",
+          "examples": [
+            "The ice cream melted in the sun.",
+            "Snow melts when spring comes.",
+            "Butter melts in a hot pan."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "member",
     "say": "MEM-ber",
     "forms": [
@@ -484,6 +597,34 @@
     ]
   },
   {
+    "word": "mental",
+    "say": "MEN-tul",
+    "forms": [
+      "mentally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with your mind.",
+          "examples": [
+            "A puzzle is a mental game.",
+            "Mental math is done in your head.",
+            "She is mentally strong."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the mind, or done in the mind.",
+          "examples": [
+            "A crossword puzzle is a mental challenge.",
+            "She did the math in her head, using mental math.",
+            "Sleep helps your mental health."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mention",
     "say": "MEN-shun",
     "forms": [
@@ -510,6 +651,40 @@
             "He forgot to mention that he would be late."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "mercy",
+    "say": "MER-see",
+    "forms": [
+      "mercies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being kind and not punishing someone.",
+          "examples": [
+            "The king showed mercy.",
+            "The judge had mercy.",
+            "We begged for mercy."
+          ]
+        },
+        "more": {
+          "def": "Kindness shown to someone who could be punished or hurt.",
+          "examples": [
+            "The king showed mercy and let the thief go free.",
+            "The little fish was at the mercy of the big one.",
+            "She had mercy on the bug and let it outside."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "merciless",
+        "def": "Without mercy."
       }
     ]
   },
@@ -600,6 +775,82 @@
             "I left a message for my friend on the phone.",
             "The message said that school was closed.",
             "A bottle with a message inside floated in the sea."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "metal",
+    "say": "MET-ul",
+    "emoji": "🔩",
+    "forms": [
+      "metals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hard, shiny material like iron, gold or silver.",
+          "examples": [
+            "The spoon is made of metal.",
+            "Gold is a metal.",
+            "The gate is metal."
+          ]
+        },
+        "more": {
+          "def": "A hard, shiny material such as iron, gold or copper that is found in the ground.",
+          "examples": [
+            "A spoon is often made of metal.",
+            "Gold, silver and copper are metals.",
+            "The metal gate was cold to touch."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "meter",
+    "say": "MEE-ter",
+    "forms": [
+      "meters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way to measure how long something is.",
+          "examples": [
+            "The room is five meters long.",
+            "A meter is a long ruler.",
+            "The pool is ten meters wide."
+          ]
+        },
+        "more": {
+          "def": "A unit of length equal to one hundred centimeters, a little more than a yard.",
+          "examples": [
+            "The pool was fifty meters long.",
+            "He ran a hundred meters in the race.",
+            "A meter is a bit longer than a yard."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool that measures something.",
+          "examples": [
+            "The meter shows the speed.",
+            "Read the meter.",
+            "The water meter is outside."
+          ]
+        },
+        "more": {
+          "def": "A device that measures and shows an amount, such as electricity or time.",
+          "examples": [
+            "The taxi meter shows how much money we owe.",
+            "Dad read the gas meter.",
+            "The parking meter takes coins."
           ]
         }
       }

@@ -1,5 +1,61 @@
 [
   {
+    "word": "hug",
+    "say": "hug",
+    "emoji": "🤗",
+    "forms": [
+      "hugs",
+      "hugged",
+      "hugging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hold someone close in your arms.",
+          "examples": [
+            "I hug my mom.",
+            "Grandma hugged me.",
+            "The kids hugged the puppy."
+          ]
+        },
+        "more": {
+          "def": "To put your arms around someone and hold them tight to show love.",
+          "examples": [
+            "She hugged her friend goodbye at the bus stop.",
+            "The children hugged each other after the show.",
+            "He hugged his teddy bear tightly."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tight hold with your arms around someone.",
+          "examples": [
+            "I gave Dad a hug.",
+            "A hug feels warm.",
+            "Grandma gave me a big hug."
+          ]
+        },
+        "more": {
+          "def": "The act of holding someone close in your arms to show love.",
+          "examples": [
+            "A warm hug made me feel better.",
+            "He gave his sister a big hug at the airport.",
+            "Everyone got a hug at the family party."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "huggable",
+        "def": "Nice to hug."
+      }
+    ]
+  },
+  {
     "word": "huge",
     "say": "hyooj",
     "senses": [
@@ -99,6 +155,40 @@
             "He gave a humble answer when people praised his work."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "humor",
+    "say": "HYOO-mer",
+    "forms": [
+      "humour"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being funny.",
+          "examples": [
+            "He has a good sense of humor.",
+            "The book is full of humor.",
+            "I like her humor."
+          ]
+        },
+        "more": {
+          "def": "The quality of being funny, or the ability to see what is funny.",
+          "examples": [
+            "He has a great sense of humor.",
+            "The story is full of humor.",
+            "A little humor made the lesson fun."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "humorless",
+        "def": "Without humor."
       }
     ]
   },
@@ -204,6 +294,31 @@
             "Owls hunt mice at night.",
             "Lions hunt together to catch zebras.",
             "Long ago, people hunted to feed their families."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hunting",
+    "say": "HUN-ting",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Looking for animals to catch for food.",
+          "examples": [
+            "Wolves go hunting at night.",
+            "The owl does its hunting after dark.",
+            "Cats like hunting."
+          ]
+        },
+        "more": {
+          "def": "The act of looking for and catching animals for food.",
+          "examples": [
+            "Wolves do their hunting at night.",
+            "The eagle spotted a mouse while hunting.",
+            "Long ago, people lived by hunting and gathering."
           ]
         }
       }
@@ -359,6 +474,35 @@
             "The author thanked her husband for reading her stories first.",
             "The two sisters and their husbands went camping together.",
             "My neighbor and her husband planted a big vegetable garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hut",
+    "say": "hut",
+    "emoji": "🛖",
+    "forms": [
+      "huts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, simple house.",
+          "examples": [
+            "The hut is made of mud.",
+            "They lived in a hut.",
+            "The hut has one room."
+          ]
+        },
+        "more": {
+          "def": "A very small, plain house, often made from wood, mud or grass.",
+          "examples": [
+            "The hut had a roof made of grass.",
+            "The shepherd slept in a hut.",
+            "We built a hut in the woods."
           ]
         }
       }

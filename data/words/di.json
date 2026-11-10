@@ -97,6 +97,34 @@
     ]
   },
   {
+    "word": "diet",
+    "say": "DY-it",
+    "forms": [
+      "diets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The food a person or animal usually eats.",
+          "examples": [
+            "A panda's diet is bamboo.",
+            "I eat a healthy diet.",
+            "The doctor talked about diet."
+          ]
+        },
+        "more": {
+          "def": "The kinds of food that a person or animal usually eats.",
+          "examples": [
+            "A panda's diet is mostly bamboo.",
+            "Fruit and vegetables are part of a healthy diet.",
+            "The vet talked about the dog's diet."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "difference",
     "say": "DIF-rents",
     "forms": [
@@ -199,6 +227,82 @@
             "The dog dug a hole under the fence.",
             "We dug for clams at the beach.",
             "Workers dig a trench for the pipes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dime",
+    "say": "dym",
+    "emoji": "🪙",
+    "forms": [
+      "dimes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A coin worth ten cents.",
+          "examples": [
+            "I found a dime.",
+            "A dime is ten cents.",
+            "I put a dime in the jar."
+          ]
+        },
+        "more": {
+          "def": "A small coin worth ten cents.",
+          "examples": [
+            "I found a dime under the couch.",
+            "Ten dimes make a dollar.",
+            "She paid for the sticker with two dimes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "diner",
+    "say": "DY-ner",
+    "forms": [
+      "diners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small place to eat simple meals.",
+          "examples": [
+            "We ate breakfast at a diner.",
+            "The diner serves pancakes.",
+            "The diner is open all night."
+          ]
+        },
+        "more": {
+          "def": "A small restaurant that serves simple meals, often with long counters.",
+          "examples": [
+            "We ate pancakes at the diner.",
+            "The diner at the corner is famous for its milkshakes.",
+            "A waitress poured coffee at the diner counter."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is eating at a restaurant.",
+          "examples": [
+            "The diner ordered soup.",
+            "The diners enjoyed the meal.",
+            "A diner waved to the waiter."
+          ]
+        },
+        "more": {
+          "def": "A person who is eating a meal in a restaurant.",
+          "examples": [
+            "The diner ordered the soup of the day.",
+            "The diners enjoyed the fresh bread.",
+            "A diner asked the waiter for more water."
           ]
         }
       }
@@ -382,6 +486,31 @@
     ]
   },
   {
+    "word": "dirt",
+    "say": "dert",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The earth on the ground that plants grow in.",
+          "examples": [
+            "The dirt is muddy.",
+            "I dug in the dirt.",
+            "There was dirt on my shoes."
+          ]
+        },
+        "more": {
+          "def": "Loose soil, or any stuff that makes something unclean.",
+          "examples": [
+            "The worms live in the dirt.",
+            "He washed the dirt off his hands.",
+            "A truck brought a load of dirt for the garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dirty",
     "say": "DER-tee",
     "forms": [
@@ -472,6 +601,60 @@
     ]
   },
   {
+    "word": "disappointed",
+    "say": "dis-uh-POYN-tid",
+    "emoji": "😞",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sad because something was not as good as you hoped.",
+          "examples": [
+            "I was disappointed when it rained.",
+            "She was disappointed with her score.",
+            "He looked disappointed."
+          ]
+        },
+        "more": {
+          "def": "Sad or let down because something did not turn out the way you wanted.",
+          "examples": [
+            "We were disappointed when the game was canceled.",
+            "She felt disappointed that her friend could not come.",
+            "The disappointed fans left the stadium quietly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "disaster",
+    "say": "dih-ZAS-ter",
+    "forms": [
+      "disasters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A terrible event that causes much damage.",
+          "examples": [
+            "The flood was a disaster.",
+            "The storm was a disaster.",
+            "The picnic was a disaster."
+          ]
+        },
+        "more": {
+          "def": "A sudden event that causes great harm or damage, such as a flood or fire.",
+          "examples": [
+            "The flood was a disaster for the town.",
+            "Many people helped after the disaster.",
+            "Our picnic was a disaster because it rained."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "discover",
     "say": "dis-KUV-er",
     "emoji": "🔍",
@@ -543,6 +726,34 @@
     ]
   },
   {
+    "word": "discussion",
+    "say": "dis-KUSH-un",
+    "forms": [
+      "discussions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A talk about something.",
+          "examples": [
+            "We had a class discussion.",
+            "The discussion was about the park.",
+            "Everyone joined the discussion."
+          ]
+        },
+        "more": {
+          "def": "A talk in which people share ideas about something.",
+          "examples": [
+            "We had a class discussion about the story.",
+            "The discussion lasted half an hour.",
+            "Everyone joined the discussion about the new rule."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "disease",
     "say": "dih-ZEEZ",
     "forms": [
@@ -565,6 +776,91 @@
             "Measles is a disease that spreads easily.",
             "Washing your hands helps stop disease.",
             "The tree died of a disease."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "disgusting",
+    "say": "dis-GUS-ting",
+    "emoji": "🤢",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making you feel sick.",
+          "examples": [
+            "The smell is disgusting.",
+            "That bug is disgusting.",
+            "The old milk was disgusting."
+          ]
+        },
+        "more": {
+          "def": "So unpleasant that it makes you feel sick.",
+          "examples": [
+            "The rotten food in the fridge smelled disgusting.",
+            "I thought the dirty sock was disgusting.",
+            "The garbage truck left a disgusting smell on the street."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dish",
+    "say": "dish",
+    "emoji": "🍽️",
+    "forms": [
+      "dishes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A plate or bowl for food.",
+          "examples": [
+            "Put the dish on the table.",
+            "I wash the dishes.",
+            "The dish is hot."
+          ]
+        },
+        "more": {
+          "def": "A flat or deep container that holds food, or the food made in it.",
+          "examples": [
+            "She put a dish of salad on the table.",
+            "We washed the dishes after dinner.",
+            "Pasta is my favorite dish."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dismiss",
+    "say": "dis-MISS",
+    "forms": [
+      "dismisses",
+      "dismissed",
+      "dismissing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let someone go.",
+          "examples": [
+            "The teacher dismissed the class.",
+            "She dismissed us at noon.",
+            "School is dismissed."
+          ]
+        },
+        "more": {
+          "def": "To tell people they may leave, or to decide not to think about something.",
+          "examples": [
+            "The teacher dismissed the class at three o'clock.",
+            "The principal dismissed the students for lunch.",
+            "He dismissed the idea because it was silly."
           ]
         }
       }
@@ -594,6 +890,154 @@
             "The distance between our town and the ocean is two hundred miles.",
             "The runners trained to race a distance of five miles.",
             "From a distance, the two houses look exactly the same."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "distract",
+    "say": "dis-TRAKT",
+    "forms": [
+      "distracts",
+      "distracted",
+      "distracting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take someone's attention away from something.",
+          "examples": [
+            "Noise can distract me.",
+            "The toy distracted the baby.",
+            "Do not distract the driver."
+          ]
+        },
+        "more": {
+          "def": "To pull someone's attention away from what they are doing.",
+          "examples": [
+            "The loud noise distracted me from my work.",
+            "A toy distracted the baby from crying.",
+            "Please do not distract the bus driver."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "district",
+    "say": "DIS-trikt",
+    "forms": [
+      "districts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of a town or country.",
+          "examples": [
+            "Our school district has ten schools.",
+            "The district is near the river.",
+            "The shopping district is busy."
+          ]
+        },
+        "more": {
+          "def": "A part of a town, city or country, set apart for a purpose.",
+          "examples": [
+            "Several schools in the district share a bus system.",
+            "The shopping district is full of stores.",
+            "The district around the old market is very busy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "disturb",
+    "say": "dis-TERB",
+    "forms": [
+      "disturbs",
+      "disturbed",
+      "disturbing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To bother someone or break their quiet.",
+          "examples": [
+            "Do not disturb the baby.",
+            "The noise disturbed me.",
+            "Please do not disturb the sleeping cat."
+          ]
+        },
+        "more": {
+          "def": "To interrupt someone or to spoil the quiet or calm of something.",
+          "examples": [
+            "Please do not disturb the baby while she sleeps.",
+            "The loud music disturbed our reading.",
+            "Do not disturb the nest in the tree."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dive",
+    "say": "dyve",
+    "emoji": "🤿",
+    "forms": [
+      "dives",
+      "dived",
+      "dove",
+      "diving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To jump into water head first.",
+          "examples": [
+            "I dive into the pool.",
+            "She dove off the board.",
+            "The seal dived."
+          ]
+        },
+        "more": {
+          "def": "To jump into water with your head first, or to go deep under water.",
+          "examples": [
+            "She dived into the pool with a splash.",
+            "The seal dove deep under the waves.",
+            "The swimmers dove for coins at the bottom."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "division",
+    "say": "dih-VIZH-un",
+    "forms": [
+      "divisions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Splitting a number into equal groups.",
+          "examples": [
+            "We learned division in math.",
+            "Division is the opposite of multiplication.",
+            "Six divided by two is a division."
+          ]
+        },
+        "more": {
+          "def": "The act of splitting a number into equal parts in math, or of separating something into parts.",
+          "examples": [
+            "In math class we practiced long division.",
+            "The division of the cake gave everyone a fair slice.",
+            "A fence made a clear division between the two yards."
           ]
         }
       }

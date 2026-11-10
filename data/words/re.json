@@ -55,6 +55,34 @@
     ]
   },
   {
+    "word": "reaction",
+    "say": "ree-AK-shun",
+    "forms": [
+      "reactions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What you do when something happens.",
+          "examples": [
+            "Her reaction was a smile.",
+            "His reaction was fast.",
+            "What was your reaction?"
+          ]
+        },
+        "more": {
+          "def": "Something you say or do because of something that has happened.",
+          "examples": [
+            "Her reaction to the gift was a big smile.",
+            "The driver's quick reaction stopped the crash.",
+            "The crowd's reaction was loud applause."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "read",
     "say": "reed",
     "forms": [
@@ -249,6 +277,55 @@
     ]
   },
   {
+    "word": "rear",
+    "say": "reer",
+    "forms": [
+      "rears",
+      "reared",
+      "rearing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The back part of something.",
+          "examples": [
+            "The seat is at the rear of the bus.",
+            "The rear of the car is dirty.",
+            "The garden is at the rear of the house."
+          ]
+        },
+        "more": {
+          "def": "The back part of something.",
+          "examples": [
+            "The seat at the rear of the bus is bumpy.",
+            "There is a small garden at the rear of the house.",
+            "The line stretched to the rear of the room."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stand up on the back legs.",
+          "examples": [
+            "The horse reared up.",
+            "The pony reared.",
+            "The horse reared in surprise."
+          ]
+        },
+        "more": {
+          "def": "To rise up on the back legs, as a horse does.",
+          "examples": [
+            "The horse reared up when it heard the loud noise.",
+            "The pony reared and then calmed down.",
+            "The bear reared on its hind legs."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "reason",
     "say": "REE-zun",
     "forms": [
@@ -271,6 +348,64 @@
             "The reason the grass is wet is that it rained last night.",
             "He had a good reason for being late to class.",
             "Tell me the reason you chose that book."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "reasonable",
+    "say": "REE-zun-uh-bul",
+    "forms": [
+      "reasonably"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Fair and not too much.",
+          "examples": [
+            "That is a reasonable price.",
+            "Her answer is reasonable.",
+            "It is reasonable to wear a coat."
+          ]
+        },
+        "more": {
+          "def": "Fair, sensible and not too much.",
+          "examples": [
+            "The shop sells shoes at a reasonable price.",
+            "It is reasonable to take an umbrella when it is cloudy.",
+            "He gave a reasonable answer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "recall",
+    "say": "rih-KAWL",
+    "forms": [
+      "recalls",
+      "recalled",
+      "recalling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To remember something.",
+          "examples": [
+            "I recall the day.",
+            "Can you recall her name?",
+            "He recalled the song."
+          ]
+        },
+        "more": {
+          "def": "To bring something back into your mind, to remember it.",
+          "examples": [
+            "I can recall the day we first met.",
+            "She could not recall where she had put her keys.",
+            "He recalled the words to the song."
           ]
         }
       }
@@ -307,6 +442,64 @@
     ]
   },
   {
+    "word": "recent",
+    "say": "REE-sunt",
+    "forms": [
+      "recently"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happening a short time ago.",
+          "examples": [
+            "The recent snow is melting.",
+            "I read a recent book.",
+            "A recent storm fell."
+          ]
+        },
+        "more": {
+          "def": "Happening or done not long ago.",
+          "examples": [
+            "The recent snow is still on the ground.",
+            "I read a recent book about whales.",
+            "She told us about her recent trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "reckon",
+    "say": "REK-un",
+    "forms": [
+      "reckons",
+      "reckoned",
+      "reckoning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To think or guess.",
+          "examples": [
+            "I reckon it will rain.",
+            "She reckons it is noon.",
+            "I reckon we are close."
+          ]
+        },
+        "more": {
+          "def": "To think that something is probably true.",
+          "examples": [
+            "I reckon it will rain soon.",
+            "She reckons we will be there by noon.",
+            "He reckoned the trip would take an hour."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "recognize",
     "say": "REK-ug-nyz",
     "forms": [
@@ -332,6 +525,36 @@
             "I did not recognize my cousin with his new haircut.",
             "She recognized the song after two notes.",
             "Babies learn to recognize their parents' faces."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "recommend",
+    "say": "rek-uh-MEND",
+    "forms": [
+      "recommends",
+      "recommended",
+      "recommending"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say that something is good.",
+          "examples": [
+            "I recommend this book.",
+            "She recommended a good movie.",
+            "The teacher recommended a book."
+          ]
+        },
+        "more": {
+          "def": "To suggest that someone should choose something because it is good.",
+          "examples": [
+            "I recommend the soup, which is very tasty.",
+            "My librarian recommended a book about whales.",
+            "He recommended a good place to eat."
           ]
         }
       }
@@ -401,6 +624,84 @@
             "The band recorded a new song in the studio.",
             "She recorded the frogs singing at the pond.",
             "Dad recorded my piano show on his phone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "recording",
+    "say": "rih-KOR-ding",
+    "emoji": "🎙️",
+    "forms": [
+      "recordings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Sound or pictures saved so you can play them later.",
+          "examples": [
+            "I made a recording of my song.",
+            "The recording is on the computer.",
+            "We listened to a recording."
+          ]
+        },
+        "more": {
+          "def": "Sound or pictures that have been saved so that you can play them again.",
+          "examples": [
+            "The scientist made a recording of whale songs.",
+            "We listened to a recording of the bird's call.",
+            "The recording of the concert was on the radio."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "recover",
+    "say": "rih-KUV-er",
+    "forms": [
+      "recovers",
+      "recovered",
+      "recovering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get better after being sick or hurt.",
+          "examples": [
+            "I recover from a cold.",
+            "He recovered quickly.",
+            "The patient recovered."
+          ]
+        },
+        "more": {
+          "def": "To get well again after being sick or hurt.",
+          "examples": [
+            "She recovered from the flu in a week.",
+            "The broken wing healed, and the bird recovered.",
+            "He recovered from his sore knee and went back to the game."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get something back.",
+          "examples": [
+            "The police recovered the stolen bike.",
+            "She recovered her lost hat.",
+            "We recovered the ball."
+          ]
+        },
+        "more": {
+          "def": "To get back something that was lost or taken.",
+          "examples": [
+            "The divers recovered the lost anchor from the sea.",
+            "She recovered her lost hat from the bus.",
+            "We recovered the ball from the roof."
           ]
         }
       }
@@ -497,6 +798,83 @@
     ]
   },
   {
+    "word": "refer",
+    "say": "rih-FER",
+    "forms": [
+      "refers",
+      "referred",
+      "referring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To talk about something.",
+          "examples": [
+            "I refer to the book.",
+            "She referred to her notes.",
+            "He referred to the map."
+          ]
+        },
+        "more": {
+          "def": "To mention something, or to turn to something for information.",
+          "examples": [
+            "The teacher referred to the picture on the board.",
+            "She referred to a map to find the road.",
+            "He referred to his notes during the speech."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "reference",
+    "say": "REF-er-unss",
+    "forms": [
+      "references"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mention of something.",
+          "examples": [
+            "She made a reference to the book.",
+            "He made a reference to the game.",
+            "The teacher made a reference to the map."
+          ]
+        },
+        "more": {
+          "def": "A mention of someone or something in speech or writing.",
+          "examples": [
+            "She made a reference to the book in her talk.",
+            "The story has a reference to an old fairy tale.",
+            "He made a funny reference to the movie."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A book you use to find facts.",
+          "examples": [
+            "A dictionary is a reference book.",
+            "I used a reference.",
+            "The library has references."
+          ]
+        },
+        "more": {
+          "def": "A book or source that gives you facts and information.",
+          "examples": [
+            "An atlas is a handy reference for finding countries.",
+            "She used an encyclopedia as a reference.",
+            "The librarian showed us the reference section."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "reflect",
     "say": "rih-FLEKT",
     "emoji": "🪞",
@@ -558,6 +936,55 @@
             "I refuse to eat the spinach.",
             "She refused the offer of a ride.",
             "The cat refused to come out from under the bed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "register",
+    "say": "REJ-ih-ster",
+    "forms": [
+      "registers",
+      "registered",
+      "registering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put a name on a list.",
+          "examples": [
+            "I registered for the class.",
+            "We registered for camp.",
+            "He registered his name."
+          ]
+        },
+        "more": {
+          "def": "To sign up or put your name on an official list.",
+          "examples": [
+            "Children registered for soccer at the park.",
+            "She registered her new bike with the police.",
+            "We registered at the front desk of the hotel."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An official list of names.",
+          "examples": [
+            "The teacher marked the register.",
+            "Sign the register.",
+            "The register shows who is here."
+          ]
+        },
+        "more": {
+          "def": "An official list or record of names or events.",
+          "examples": [
+            "The teacher took the register each morning.",
+            "Visitors sign the hotel register.",
+            "The old register listed every child in the town."
           ]
         }
       }
@@ -644,6 +1071,160 @@
     ]
   },
   {
+    "word": "rehearsal",
+    "say": "rih-HER-sul",
+    "forms": [
+      "rehearsals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Practice before a show.",
+          "examples": [
+            "We have a rehearsal today.",
+            "The rehearsal for the play is after school.",
+            "The band had a rehearsal."
+          ]
+        },
+        "more": {
+          "def": "Practice of a play, song or show before you do it for an audience.",
+          "examples": [
+            "The cast had a long rehearsal before opening night.",
+            "The band held a rehearsal in the garage.",
+            "After many rehearsals, the dance was perfect."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "reject",
+    "say": "rih-JEKT",
+    "forms": [
+      "rejects",
+      "rejected",
+      "rejecting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say no to something.",
+          "examples": [
+            "I reject the offer.",
+            "They rejected the idea.",
+            "The machine rejected my coin."
+          ]
+        },
+        "more": {
+          "def": "To refuse to accept something, or to say no.",
+          "examples": [
+            "They rejected the plan because it cost too much.",
+            "The machine rejected my dollar.",
+            "The editor rejected the story."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "relate",
+    "say": "rih-LAYT",
+    "forms": [
+      "relates",
+      "related",
+      "relating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell a story.",
+          "examples": [
+            "He related the story.",
+            "She related what happened.",
+            "The pilot related his trip."
+          ]
+        },
+        "more": {
+          "def": "To tell a story or what happened.",
+          "examples": [
+            "He related the whole story to his friends.",
+            "The old man related tales of his youth.",
+            "She related how she found the lost puppy."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To connect or be connected to something.",
+          "examples": [
+            "Math relates to science.",
+            "The two ideas are related.",
+            "These words relate to food."
+          ]
+        },
+        "more": {
+          "def": "To be connected with something or to show how two things are connected.",
+          "examples": [
+            "The story relates to the rainforest.",
+            "Cooking relates to math because you measure things.",
+            "The teacher showed how the two ideas relate."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "relation",
+    "say": "rih-LAY-shun",
+    "forms": [
+      "relations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How two things are connected.",
+          "examples": [
+            "What is the relation between the two?",
+            "The relation is clear.",
+            "There is a relation between rain and floods."
+          ]
+        },
+        "more": {
+          "def": "The way in which two or more things are connected to each other.",
+          "examples": [
+            "There is a relation between sleep and health.",
+            "What is the relation between the two numbers?",
+            "The relation between the two friends is strong."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person in your family.",
+          "examples": [
+            "He is a relation of mine.",
+            "My cousin is a relation.",
+            "I met a relation at the party."
+          ]
+        },
+        "more": {
+          "def": "A person who belongs to the same family as you.",
+          "examples": [
+            "He is a distant relation of mine.",
+            "We invited all our relations to the party.",
+            "My cousin is a close relation."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "relationship",
     "say": "rih-LAY-shun-ship",
     "forms": [
@@ -666,6 +1247,34 @@
             "She has a warm relationship with her grandfather.",
             "Scientists study the relationship between plants and bees.",
             "Brothers and sisters often have a close relationship."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "relative",
+    "say": "REL-uh-tiv",
+    "forms": [
+      "relatives"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is in your family.",
+          "examples": [
+            "My aunt is my relative.",
+            "We met our relatives.",
+            "Grandma is my relative."
+          ]
+        },
+        "more": {
+          "def": "A person who belongs to the same family as you, such as an aunt or cousin.",
+          "examples": [
+            "All my relatives came to the party.",
+            "My cousin is a relative who lives far away.",
+            "We visited our relatives in Texas."
           ]
         }
       }
@@ -727,6 +1336,120 @@
             "The girl released the butterfly into the garden.",
             "The park ranger released the fish back into the river.",
             "He released the balloon and watched it float up."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "relief",
+    "say": "rih-LEEF",
+    "forms": [
+      "reliefs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The good feeling when something bad stops.",
+          "examples": [
+            "I felt relief when the test ended.",
+            "It was a relief to be home.",
+            "The rain brought relief."
+          ]
+        },
+        "more": {
+          "def": "A feeling of comfort when worry or pain goes away.",
+          "examples": [
+            "I felt relief when the test was over.",
+            "The cool breeze was a relief on the hot day.",
+            "It was a relief to find my lost dog."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "relieve",
+    "say": "rih-LEEV",
+    "forms": [
+      "relieves",
+      "relieved",
+      "relieving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make pain or worry less.",
+          "examples": [
+            "The medicine relieved my cough.",
+            "A cold cloth relieves the sting.",
+            "The news relieved her."
+          ]
+        },
+        "more": {
+          "def": "To lessen pain or worry.",
+          "examples": [
+            "The cool cloth relieved the sting.",
+            "The good news relieved her worry.",
+            "Medicine can relieve a cough."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "religion",
+    "say": "rih-LIJ-un",
+    "forms": [
+      "religions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A belief in a god or gods, and the way people worship.",
+          "examples": [
+            "Many people follow a religion.",
+            "Each religion has holy days.",
+            "Religion is important to her."
+          ]
+        },
+        "more": {
+          "def": "A system of beliefs and ways of worshipping that people follow.",
+          "examples": [
+            "A temple, church or mosque is where people practice a religion.",
+            "Each religion has its own holy days.",
+            "The class learned about different religions."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "religious",
+    "say": "rih-LIJ-us",
+    "forms": [
+      "religiously"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with religion.",
+          "examples": [
+            "A church is a religious place.",
+            "She has religious books.",
+            "The religious holiday is in spring."
+          ]
+        },
+        "more": {
+          "def": "Having to do with a religion, or following one closely.",
+          "examples": [
+            "A church is a religious building.",
+            "The family celebrates a religious holiday in the spring.",
+            "He is a religious person who prays every day."
           ]
         }
       }
@@ -842,6 +1565,55 @@
     ]
   },
   {
+    "word": "remote",
+    "say": "rih-MOHT",
+    "forms": [
+      "remoter",
+      "remotest",
+      "remotely"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Far away.",
+          "examples": [
+            "The cabin is remote.",
+            "They live in a remote village.",
+            "The island is remote."
+          ]
+        },
+        "more": {
+          "def": "Far away from towns or other places.",
+          "examples": [
+            "The cabin is in a remote part of the forest.",
+            "They live in a remote village in the mountains.",
+            "The remote island has no roads."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small tool for changing the TV from far away.",
+          "examples": [
+            "Where is the remote?",
+            "I pressed the remote.",
+            "The remote needs batteries."
+          ]
+        },
+        "more": {
+          "def": "A small device that you use to control a television or toy from a distance.",
+          "examples": [
+            "I changed the channel with the remote.",
+            "The remote needs new batteries.",
+            "The toy car has a remote."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "remove",
     "say": "rih-MOOV",
     "forms": [
@@ -921,6 +1693,61 @@
     ]
   },
   {
+    "word": "repair",
+    "say": "rih-PAIR",
+    "forms": [
+      "repairs",
+      "repaired",
+      "repairing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To fix something that is broken.",
+          "examples": [
+            "Dad will repair the bike.",
+            "I repaired the toy.",
+            "The workers repair the road."
+          ]
+        },
+        "more": {
+          "def": "To fix something that is broken or damaged.",
+          "examples": [
+            "Dad repaired my bike.",
+            "The workers repaired the cracked road.",
+            "She repaired the hole in her jeans."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Work done to fix something.",
+          "examples": [
+            "The car needs repair.",
+            "The repair was quick.",
+            "The bridge is under repair."
+          ]
+        },
+        "more": {
+          "def": "Work done to fix something that is broken.",
+          "examples": [
+            "The road is under repair.",
+            "The repair took an hour.",
+            "The bike needs a repair."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "disrepair",
+        "def": "Needing to be repaired."
+      }
+    ]
+  },
+  {
     "word": "repeat",
     "say": "rih-PEET",
     "forms": [
@@ -947,6 +1774,42 @@
             "Repeat the steps until the dough is smooth."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "replace",
+    "say": "ri-PLAYSS",
+    "forms": [
+      "replaces",
+      "replaced",
+      "replacing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put a new thing where an old one was.",
+          "examples": [
+            "I need to replace my shoes.",
+            "We replaced the bulb.",
+            "Please replace the broken cup."
+          ]
+        },
+        "more": {
+          "def": "To take the place of something, or to put a new thing in place of one that is gone or broken.",
+          "examples": [
+            "Dad replaced the old light bulb with a new one.",
+            "The teacher replaced the cracked ruler.",
+            "Please replace the books on the shelf when you finish."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "replaceable",
+        "def": "Able to be replaced."
       }
     ]
   },
@@ -1101,6 +1964,34 @@
             "Snakes, lizards, and crocodiles are all reptiles.",
             "Reptiles warm their bodies in the sun.",
             "The reptile house at the zoo has lizards and turtles."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "reputation",
+    "say": "rep-yuh-TAY-shun",
+    "forms": [
+      "reputations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What people think about you.",
+          "examples": [
+            "She has a good reputation.",
+            "The shop has a good reputation.",
+            "His reputation is good."
+          ]
+        },
+        "more": {
+          "def": "The general opinion that people have about a person or place.",
+          "examples": [
+            "The bakery has a good reputation for its bread.",
+            "He has a reputation for being honest.",
+            "She worked hard to keep a good reputation."
           ]
         }
       }
@@ -1266,6 +2157,113 @@
     ]
   },
   {
+    "word": "reservation",
+    "say": "rez-er-VAY-shun",
+    "forms": [
+      "reservations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A booking for a table or a room.",
+          "examples": [
+            "We have a reservation for dinner.",
+            "I made a reservation at the hotel.",
+            "The reservation is for six."
+          ]
+        },
+        "more": {
+          "def": "An arrangement to keep a table, room or seat for you.",
+          "examples": [
+            "We have a reservation for dinner at six.",
+            "Dad made a reservation at the hotel.",
+            "The reservation was for a family of five."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "reserve",
+    "say": "rih-ZERV",
+    "forms": [
+      "reserves",
+      "reserved",
+      "reserving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To keep something for someone.",
+          "examples": [
+            "We reserved a table.",
+            "I reserved a seat.",
+            "She reserved a room."
+          ]
+        },
+        "more": {
+          "def": "To arrange to keep something such as a table or a seat for someone.",
+          "examples": [
+            "We reserved a table for six at the restaurant.",
+            "Please reserve a seat for me.",
+            "She reserved a room at the hotel."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A supply that you save for later.",
+          "examples": [
+            "We have a reserve of food.",
+            "The reserve of water is low.",
+            "Dad keeps a reserve of money."
+          ]
+        },
+        "more": {
+          "def": "An extra supply of something that is kept for when it is needed.",
+          "examples": [
+            "We keep a reserve of food in the pantry.",
+            "The camp has a reserve of water in case of trouble.",
+            "The team had a strong player in reserve."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "resist",
+    "say": "rih-ZIST",
+    "forms": [
+      "resists",
+      "resisted",
+      "resisting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not give in to something.",
+          "examples": [
+            "I cannot resist cookies.",
+            "She resisted the urge to laugh.",
+            "He resisted the wind."
+          ]
+        },
+        "more": {
+          "def": "To fight against something, or to keep from doing something you want to do.",
+          "examples": [
+            "I cannot resist a warm cookie.",
+            "The metal does not resist the heat.",
+            "She resisted the urge to laugh in class."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "respect",
     "say": "rih-SPEKT",
     "senses": [
@@ -1285,6 +2283,64 @@
             "We show respect for our classmates by listening when they speak.",
             "The players shook hands as a sign of respect.",
             "She has great respect for her grandfather."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "respond",
+    "say": "rih-SPOND",
+    "forms": [
+      "responds",
+      "responded",
+      "responding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To answer.",
+          "examples": [
+            "I respond to the email.",
+            "She responded to the question.",
+            "The dog responds to its name."
+          ]
+        },
+        "more": {
+          "def": "To say or do something in answer to something else.",
+          "examples": [
+            "He responded to the teacher's question with a smile.",
+            "The dog responds quickly when you call its name.",
+            "Firefighters responded to the call within minutes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "response",
+    "say": "rih-SPONSS",
+    "forms": [
+      "responses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An answer.",
+          "examples": [
+            "I wrote a response.",
+            "His response was kind.",
+            "She waited for a response."
+          ]
+        },
+        "more": {
+          "def": "What is said or done in answer to something.",
+          "examples": [
+            "I got a quick response to my letter.",
+            "Her response to the question was clear.",
+            "The class's response was loud clapping."
           ]
         }
       }
@@ -1471,6 +2527,36 @@
     ]
   },
   {
+    "word": "retire",
+    "say": "ri-TYR",
+    "forms": [
+      "retires",
+      "retired",
+      "retiring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop working because you are older.",
+          "examples": [
+            "Grandpa will retire next year.",
+            "My teacher retired.",
+            "She retired from her job."
+          ]
+        },
+        "more": {
+          "def": "To stop working at a job, usually because of age.",
+          "examples": [
+            "My grandfather retired after forty years as a mail carrier.",
+            "The famous baseball player will retire at the end of the season.",
+            "She retired and now spends her days gardening."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "return",
     "say": "rih-TERN",
     "forms": [
@@ -1533,6 +2619,212 @@
             "The return of the swallows is a sign of spring.",
             "On our return, Grandma had dinner ready.",
             "The explorers' return was celebrated with a parade."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "reveal",
+    "say": "rih-VEEL",
+    "forms": [
+      "reveals",
+      "revealed",
+      "revealing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To show something that was hidden.",
+          "examples": [
+            "The curtain opened and revealed the stage.",
+            "She revealed her secret.",
+            "The wind revealed the path."
+          ]
+        },
+        "more": {
+          "def": "To show or tell something that was hidden or secret.",
+          "examples": [
+            "The magician revealed the card hidden up his sleeve.",
+            "She revealed the answer to the riddle.",
+            "The low tide revealed shells on the sand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "revenge",
+    "say": "rih-VENJ",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Hurting someone back because they hurt you.",
+          "examples": [
+            "He wanted revenge.",
+            "Revenge is not a good idea.",
+            "The story is about revenge."
+          ]
+        },
+        "more": {
+          "def": "The act of paying back someone for a wrong they did, which usually only makes things worse.",
+          "examples": [
+            "The character in the story wanted revenge.",
+            "It is better to forgive than to seek revenge.",
+            "Revenge never makes anyone feel better for long."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "reverse",
+    "say": "rih-VERS",
+    "forms": [
+      "reverses",
+      "reversed",
+      "reversing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go backward or turn around.",
+          "examples": [
+            "The car will reverse.",
+            "He reversed the car.",
+            "Reverse the order."
+          ]
+        },
+        "more": {
+          "def": "To go the opposite way, or to turn something the other way around.",
+          "examples": [
+            "Dad reversed the car out of the garage.",
+            "She reversed the order of the cards.",
+            "The river seemed to reverse its flow."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The opposite.",
+          "examples": [
+            "The reverse is true.",
+            "The reverse of up is down.",
+            "Do the reverse."
+          ]
+        },
+        "more": {
+          "def": "The opposite of something.",
+          "examples": [
+            "Down is the reverse of up.",
+            "I thought she was happy, but the reverse was true.",
+            "The reverse side of the coin has a bird."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "reversible",
+        "def": "Able to be turned inside out or backward."
+      }
+    ]
+  },
+  {
+    "word": "review",
+    "say": "rih-VYOO",
+    "forms": [
+      "reviews",
+      "reviewed",
+      "reviewing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look at something again.",
+          "examples": [
+            "Let us review our spelling words.",
+            "I will review my notes.",
+            "We reviewed the story."
+          ]
+        },
+        "more": {
+          "def": "To look over or study something again so that you remember it.",
+          "examples": [
+            "We reviewed our spelling words before the test.",
+            "She reviewed her notes on the plane.",
+            "The class reviewed the story before writing about it."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Writing about a book or movie you saw.",
+          "examples": [
+            "I wrote a review of the book.",
+            "The movie got a good review.",
+            "The review was short."
+          ]
+        },
+        "more": {
+          "def": "A report that tells what someone thinks of a book, movie or show.",
+          "examples": [
+            "The newspaper gave the movie a good review.",
+            "I read a review of the book before I bought it.",
+            "Her review of the restaurant said the soup was the best."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "revolution",
+    "say": "rev-uh-LOO-shun",
+    "forms": [
+      "revolutions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big change in how people live.",
+          "examples": [
+            "The invention was a revolution.",
+            "The computer started a revolution.",
+            "The revolution changed life."
+          ]
+        },
+        "more": {
+          "def": "A great and sudden change in how people think, work or live.",
+          "examples": [
+            "The invention of the computer started a revolution.",
+            "The people made a revolution to change the government.",
+            "The industrial revolution brought machines to factories."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One full turn around something.",
+          "examples": [
+            "The wheel makes one revolution.",
+            "The earth makes one revolution around the sun in a year.",
+            "The wheel made ten revolutions."
+          ]
+        },
+        "more": {
+          "def": "One full turn around a point or a circle.",
+          "examples": [
+            "The earth makes one revolution around the sun each year.",
+            "The wheel made ten revolutions each minute.",
+            "The moon makes a revolution around the earth in about a month."
           ]
         }
       }

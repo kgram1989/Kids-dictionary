@@ -49,6 +49,37 @@
     ]
   },
   {
+    "word": "coast",
+    "say": "kohst",
+    "emoji": "🏖️",
+    "forms": [
+      "coasts",
+      "coasted",
+      "coasting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The land next to the sea.",
+          "examples": [
+            "We drove along the coast.",
+            "The town is on the coast.",
+            "Boats wait near the coast."
+          ]
+        },
+        "more": {
+          "def": "The land along the edge of the sea.",
+          "examples": [
+            "Crabs and shells wash up on the coast after a storm.",
+            "The ship stayed close to the coast.",
+            "Lighthouses warn sailors of rocks near the coast."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "coat",
     "say": "koht",
     "emoji": "🧥",
@@ -189,6 +220,63 @@
     ]
   },
   {
+    "word": "coin",
+    "say": "koyn",
+    "emoji": "🪙",
+    "forms": [
+      "coins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, round piece of metal used as money.",
+          "examples": [
+            "I found a coin.",
+            "A coin is round.",
+            "I put a coin in the jar."
+          ]
+        },
+        "more": {
+          "def": "A small, flat, round piece of metal that is used as money.",
+          "examples": [
+            "I found a coin on the sidewalk.",
+            "He flipped a coin to decide.",
+            "A quarter is a coin worth twenty-five cents."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "coincidence",
+    "say": "koh-IN-sih-dunss",
+    "forms": [
+      "coincidences"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When two things happen together by chance.",
+          "examples": [
+            "It was a coincidence that we wore the same shirt.",
+            "What a coincidence!",
+            "They met by coincidence."
+          ]
+        },
+        "more": {
+          "def": "A surprising time when two things happen together by chance, with no reason.",
+          "examples": [
+            "It was a coincidence that we both wore red shirts.",
+            "Meeting my cousin at the store was just a coincidence.",
+            "By coincidence, they both chose the same book."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cold",
     "say": "kohld",
     "emoji": "🥶",
@@ -244,6 +332,42 @@
     ]
   },
   {
+    "word": "collapse",
+    "say": "kuh-LAPS",
+    "forms": [
+      "collapses",
+      "collapsed",
+      "collapsing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To fall down suddenly.",
+          "examples": [
+            "The tower of blocks collapsed.",
+            "The old shed will collapse.",
+            "The tent collapsed in the wind."
+          ]
+        },
+        "more": {
+          "def": "To fall down or fall apart suddenly.",
+          "examples": [
+            "The old bridge collapsed after the flood.",
+            "The tower of cards collapsed when I sneezed.",
+            "The tired runner collapsed at the finish line."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "collapsible",
+        "def": "Able to fold down small."
+      }
+    ]
+  },
+  {
     "word": "collect",
     "say": "kuh-LEKT",
     "forms": [
@@ -268,6 +392,34 @@
             "He collects stamps from countries all around the world.",
             "A truck collects the trash every Tuesday.",
             "Bees collect nectar from flowers to make honey."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "collection",
+    "say": "kuh-LEK-shun",
+    "forms": [
+      "collections"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of things you keep together.",
+          "examples": [
+            "I have a rock collection.",
+            "The collection is on the shelf.",
+            "His collection has fifty cards."
+          ]
+        },
+        "more": {
+          "def": "A group of similar things that someone has gathered and kept together.",
+          "examples": [
+            "She has a collection of seashells on her shelf.",
+            "The museum has a big collection of old coins.",
+            "His collection of stamps filled three albums."
           ]
         }
       }
@@ -386,6 +538,109 @@
     ]
   },
   {
+    "word": "column",
+    "say": "KOL-um",
+    "forms": [
+      "columns"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tall, round post that holds up a building.",
+          "examples": [
+            "The building has tall columns.",
+            "A column stands at the door.",
+            "The columns are made of stone."
+          ]
+        },
+        "more": {
+          "def": "A tall, strong post that holds up a roof or stands as a monument.",
+          "examples": [
+            "The old temple has tall stone columns.",
+            "A column stood on each side of the doorway.",
+            "The columns held up the porch roof."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, narrow section of print.",
+          "examples": [
+            "Read the column on the page.",
+            "The paper has three columns.",
+            "The numbers are in a column."
+          ]
+        },
+        "more": {
+          "def": "A narrow vertical section of text or numbers on a page.",
+          "examples": [
+            "The newspaper has three columns on each page.",
+            "Add the numbers in the first column.",
+            "She wrote the names in a column."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "combat",
+    "say": "KOM-bat",
+    "forms": [
+      "combats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fight between armies.",
+          "examples": [
+            "The soldiers were in combat.",
+            "The combat was fierce.",
+            "The story tells of combat."
+          ]
+        },
+        "more": {
+          "def": "A fight, especially between armies or soldiers.",
+          "examples": [
+            "The soldiers trained for combat.",
+            "The old story told of fierce combat on the plain.",
+            "The two armies met in combat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "combination",
+    "say": "kom-bih-NAY-shun",
+    "forms": [
+      "combinations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Two or more things put together.",
+          "examples": [
+            "The sweater is a combination of red and blue.",
+            "That is a good combination.",
+            "A combination of rain and wind."
+          ]
+        },
+        "more": {
+          "def": "A mixture made by joining two or more things together.",
+          "examples": [
+            "The sweater was a combination of red and blue wool.",
+            "Peanut butter and jelly is a tasty combination.",
+            "The lock opens with a combination of three numbers."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "come",
     "say": "kum",
     "forms": [
@@ -410,6 +665,55 @@
             "Please come to the front of the class and show your drawing.",
             "The mail carrier comes to our street every morning.",
             "Our cousins came all the way from Texas for the holiday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "comfort",
+    "say": "KUM-fert",
+    "forms": [
+      "comforts",
+      "comforted",
+      "comforting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A feeling of being relaxed and safe.",
+          "examples": [
+            "The blanket gave me comfort.",
+            "The couch is full of comfort.",
+            "She lives in comfort."
+          ]
+        },
+        "more": {
+          "def": "A feeling of being calm, safe and free from worry or pain.",
+          "examples": [
+            "The warm blanket gave me comfort.",
+            "The puppy found comfort in its mother's warmth.",
+            "He felt comfort when his friend sat by him."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone feel better when they are sad.",
+          "examples": [
+            "I comfort my little sister.",
+            "She comforted the crying baby.",
+            "The nurse comforted him."
+          ]
+        },
+        "more": {
+          "def": "To say or do something kind to help someone feel calm and less sad.",
+          "examples": [
+            "I comforted my sister when she fell.",
+            "The teacher comforted the child who was sad.",
+            "A hug can comfort someone who is upset."
           ]
         }
       }
@@ -519,6 +823,111 @@
     ]
   },
   {
+    "word": "comment",
+    "say": "KOM-ent",
+    "forms": [
+      "comments",
+      "commented",
+      "commenting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you say or write about something.",
+          "examples": [
+            "I made a comment.",
+            "Her comment was nice.",
+            "Read the comment."
+          ]
+        },
+        "more": {
+          "def": "A remark or note that gives an opinion or information about something.",
+          "examples": [
+            "She made a nice comment about my picture.",
+            "The teacher wrote a comment on my paper.",
+            "His comment made everyone laugh."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say something about it.",
+          "examples": [
+            "He commented on my art.",
+            "She commented that it was good.",
+            "Can you comment?"
+          ]
+        },
+        "more": {
+          "def": "To say or write something about a subject.",
+          "examples": [
+            "The teacher commented on my story.",
+            "He commented that the cake was tasty.",
+            "She commented on how tall I had grown."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "commercial",
+    "say": "kuh-MER-shul",
+    "forms": [
+      "commercials"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short TV show that tries to sell something.",
+          "examples": [
+            "The commercial is funny.",
+            "We watched a commercial.",
+            "A commercial came on."
+          ]
+        },
+        "more": {
+          "def": "A short advertisement on television or radio.",
+          "examples": [
+            "A commercial for cereal came on between the shows.",
+            "The funny commercial made us laugh.",
+            "We skipped the commercials and watched the show."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "commissioner",
+    "say": "kuh-MISH-uh-ner",
+    "forms": [
+      "commissioners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person in charge of a government department.",
+          "examples": [
+            "The commissioner spoke at the meeting.",
+            "The police commissioner gave a speech.",
+            "The commissioner was in charge."
+          ]
+        },
+        "more": {
+          "def": "An official who is put in charge of a department or a group.",
+          "examples": [
+            "The police commissioner spoke at the town meeting.",
+            "The park commissioner planned the new playground.",
+            "A commissioner oversees the city's fire department."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "commit",
     "say": "kuh-MIT",
     "forms": [
@@ -568,6 +977,34 @@
     ]
   },
   {
+    "word": "committee",
+    "say": "kuh-MIT-ee",
+    "forms": [
+      "committees"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small group that makes plans together.",
+          "examples": [
+            "The committee planned the party.",
+            "She is on the school committee.",
+            "The committee met after lunch."
+          ]
+        },
+        "more": {
+          "def": "A group of people chosen to make plans or decisions for a larger group.",
+          "examples": [
+            "The picnic committee chose the food and the games.",
+            "A committee of students planned the school fair.",
+            "The committee voted on a new name for the club."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "common",
     "say": "KOM-un",
     "forms": [
@@ -593,6 +1030,41 @@
             "Smith is a common last name."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "communication",
+    "say": "kuh-myoo-nih-KAY-shun",
+    "emoji": "💬",
+    "forms": [
+      "communications"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Sharing news or ideas with other people.",
+          "examples": [
+            "Talking is communication.",
+            "Good communication helps friends.",
+            "Phones help communication."
+          ]
+        },
+        "more": {
+          "def": "The act of sharing information, ideas or feelings with others, by talking, writing or other ways.",
+          "examples": [
+            "Good communication helps a team work well.",
+            "Letters were the main form of communication long ago.",
+            "Dolphins use clicks for communication."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "miscommunication",
+        "def": "A mix-up in sharing what you mean."
       }
     ]
   },
@@ -703,6 +1175,64 @@
     ]
   },
   {
+    "word": "compete",
+    "say": "kum-PEET",
+    "forms": [
+      "competes",
+      "competed",
+      "competing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To try to win against others.",
+          "examples": [
+            "I compete in a race.",
+            "The teams compete.",
+            "We compete for the prize."
+          ]
+        },
+        "more": {
+          "def": "To try to do better than others in a race or contest.",
+          "examples": [
+            "Ten runners competed in the race.",
+            "Our team will compete for the cup.",
+            "The two schools compete in the spelling bee."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "competition",
+    "say": "kom-puh-TISH-un",
+    "forms": [
+      "competitions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A contest where people try to win.",
+          "examples": [
+            "I won the spelling competition.",
+            "The race was a competition.",
+            "There is a swim competition."
+          ]
+        },
+        "more": {
+          "def": "A contest in which people or teams try to do better than the others.",
+          "examples": [
+            "She won first prize in the art competition.",
+            "The two teams were in fierce competition for the cup.",
+            "Our school has a spelling competition every spring."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "complain",
     "say": "kum-PLAYN",
     "forms": [
@@ -727,6 +1257,34 @@
             "He complained that the soup was cold.",
             "The neighbors complained about the noise.",
             "Please don't complain about the long walk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "complaint",
+    "say": "kum-PLAYNT",
+    "forms": [
+      "complaints"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words that say you are not happy about something.",
+          "examples": [
+            "I made a complaint.",
+            "The complaint was about the noise.",
+            "She has a complaint."
+          ]
+        },
+        "more": {
+          "def": "A statement saying that you are not happy about something.",
+          "examples": [
+            "I made a complaint about the loud music.",
+            "The teacher listened to every complaint.",
+            "His main complaint was that the soup was cold."
           ]
         }
       }
@@ -788,6 +1346,116 @@
     ]
   },
   {
+    "word": "complicated",
+    "say": "KOM-pluh-kay-tid",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not easy to understand.",
+          "examples": [
+            "The game is complicated.",
+            "The directions are complicated.",
+            "This puzzle is very complicated."
+          ]
+        },
+        "more": {
+          "def": "Having many parts that are hard to understand or do.",
+          "examples": [
+            "The rules of the game were so complicated that we read them twice.",
+            "A watch is a complicated machine with many tiny gears.",
+            "The map was complicated, with roads going every way."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "uncomplicated",
+        "def": "Easy and not complicated."
+      }
+    ]
+  },
+  {
+    "word": "compliment",
+    "say": "KOM-pluh-ment",
+    "forms": [
+      "compliments",
+      "complimented",
+      "complimenting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Kind words that tell someone they did well.",
+          "examples": [
+            "She gave me a compliment.",
+            "I got a compliment on my drawing.",
+            "That was a nice compliment."
+          ]
+        },
+        "more": {
+          "def": "A kind remark that says you like something about someone.",
+          "examples": [
+            "She gave me a compliment on my drawing.",
+            "The cook was pleased by the compliment.",
+            "My teacher's compliment made me smile."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say something nice about someone.",
+          "examples": [
+            "I complimented her dress.",
+            "He complimented my painting.",
+            "She complimented the cook."
+          ]
+        },
+        "more": {
+          "def": "To say something kind about someone or something.",
+          "examples": [
+            "I complimented her on her new haircut.",
+            "He complimented the cook on the delicious soup.",
+            "The teacher complimented the class on their good work."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "compromise",
+    "say": "KOM-pruh-myz",
+    "forms": [
+      "compromises",
+      "compromised",
+      "compromising"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When each person gives up a little to agree.",
+          "examples": [
+            "We made a compromise.",
+            "The compromise was fair.",
+            "A compromise ended the fight."
+          ]
+        },
+        "more": {
+          "def": "An agreement in which each side gives up something so that both are happy enough.",
+          "examples": [
+            "We made a compromise and shared the last cookie.",
+            "The two teams reached a compromise about the schedule.",
+            "The compromise was fair to everyone."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "computer",
     "say": "kum-PYOO-ter",
     "emoji": "💻",
@@ -811,6 +1479,64 @@
             "I write my reports on the computer.",
             "The library has computers for children.",
             "A computer can do math very fast."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "comrade",
+    "say": "KOM-rad",
+    "forms": [
+      "comrades"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A friend who works with you.",
+          "examples": [
+            "The soldier helped his comrade.",
+            "The comrades walked together.",
+            "We are comrades on the team."
+          ]
+        },
+        "more": {
+          "def": "A friend or companion who shares work or a purpose with you.",
+          "examples": [
+            "The soldier helped his comrade across the river.",
+            "The comrades marched side by side.",
+            "The climbers were loyal comrades on the mountain."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "concentrate",
+    "say": "KON-sen-trayt",
+    "forms": [
+      "concentrates",
+      "concentrated",
+      "concentrating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To think hard about one thing.",
+          "examples": [
+            "I concentrate on my work.",
+            "It is hard to concentrate when it is noisy.",
+            "She concentrated on the puzzle."
+          ]
+        },
+        "more": {
+          "def": "To give all your attention to one thing.",
+          "examples": [
+            "I need quiet so I can concentrate on my homework.",
+            "She concentrated on the puzzle and ignored the noise.",
+            "It is hard to concentrate when you are tired."
           ]
         }
       }
@@ -897,6 +1623,82 @@
     ]
   },
   {
+    "word": "concert",
+    "say": "KON-sert",
+    "emoji": "🎶",
+    "forms": [
+      "concerts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A show where people play music.",
+          "examples": [
+            "We went to a concert.",
+            "The band gave a concert.",
+            "The concert was loud."
+          ]
+        },
+        "more": {
+          "def": "A performance of music by singers or players for an audience.",
+          "examples": [
+            "The school band gave a concert in the gym.",
+            "We heard the orchestra at the concert in the park.",
+            "The concert ended with a song everyone knew."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "conclusion",
+    "say": "kun-KLOO-zhun",
+    "forms": [
+      "conclusions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The end of something.",
+          "examples": [
+            "The conclusion of the story was happy.",
+            "The conclusion was sad.",
+            "I like the conclusion."
+          ]
+        },
+        "more": {
+          "def": "The last part of something, or the end.",
+          "examples": [
+            "The conclusion of the book made me smile.",
+            "The speech came to a conclusion.",
+            "Read to the conclusion of the chapter."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A decision you reach after thinking.",
+          "examples": [
+            "I came to a conclusion.",
+            "The class reached a conclusion.",
+            "The test led us to a conclusion."
+          ]
+        },
+        "more": {
+          "def": "An opinion or decision that you reach after thinking about the facts.",
+          "examples": [
+            "After the experiment, we came to a conclusion.",
+            "The detective reached a conclusion about the missing hat.",
+            "The scientists drew a conclusion from the data."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "condition",
     "say": "kun-DISH-un",
     "forms": [
@@ -938,6 +1740,166 @@
             "Snowy conditions closed the school.",
             "Plants grow best in sunny conditions.",
             "The conditions on the mountain were windy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "conduct",
+    "say": "kun-DUKT",
+    "forms": [
+      "conducts",
+      "conducted",
+      "conducting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To carry out or lead something.",
+          "examples": [
+            "We conduct an experiment.",
+            "She conducts the choir.",
+            "The teacher conducted the class."
+          ]
+        },
+        "more": {
+          "def": "To lead or manage something, or to carry it out.",
+          "examples": [
+            "We conducted an experiment with plants.",
+            "He conducts the school band.",
+            "The guide conducted us around the museum."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let heat or electricity pass through.",
+          "examples": [
+            "Metal conducts heat.",
+            "Copper conducts electricity.",
+            "Water conducts electricity."
+          ]
+        },
+        "more": {
+          "def": "To let heat, electricity or sound pass along or through.",
+          "examples": [
+            "Metal conducts heat very well.",
+            "Copper wire conducts electricity.",
+            "Rubber does not conduct electricity."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "conference",
+    "say": "KON-fer-unss",
+    "forms": [
+      "conferences"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big meeting to talk about something.",
+          "examples": [
+            "Mom went to a conference.",
+            "The teachers had a conference.",
+            "The conference was in a big hall."
+          ]
+        },
+        "more": {
+          "def": "A large meeting where people come together to talk about a subject.",
+          "examples": [
+            "Teachers from many schools attended the science conference.",
+            "Parents meet with teachers at a conference in the fall.",
+            "The mayors held a conference to talk about clean water."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "confess",
+    "say": "kun-FESS",
+    "forms": [
+      "confesses",
+      "confessed",
+      "confessing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say that you did something wrong.",
+          "examples": [
+            "I confess I ate the cookie.",
+            "He confessed to the broken cup.",
+            "She confessed that she was scared."
+          ]
+        },
+        "more": {
+          "def": "To admit that you did something wrong or a fact that you did not want to say.",
+          "examples": [
+            "He confessed that he had broken the window.",
+            "She confessed that she was afraid of the dark.",
+            "The boy confessed to taking the last cookie."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "confession",
+    "say": "kun-FESH-un",
+    "forms": [
+      "confessions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Telling that you did something wrong.",
+          "examples": [
+            "He made a confession.",
+            "The confession was brave.",
+            "Her confession was honest."
+          ]
+        },
+        "more": {
+          "def": "A statement admitting that you have done something wrong.",
+          "examples": [
+            "He made a confession about breaking the vase.",
+            "Her confession was brave and honest.",
+            "The boy's confession made him feel better."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "confidence",
+    "say": "KON-fih-dunss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Believing that you can do something.",
+          "examples": [
+            "She has confidence.",
+            "I have confidence in my team.",
+            "He spoke with confidence."
+          ]
+        },
+        "more": {
+          "def": "A strong feeling that you can do something well, or that you can trust someone.",
+          "examples": [
+            "She sang with confidence on the stage.",
+            "I have confidence in my friend to do a good job.",
+            "Practice gave him the confidence to try the high dive."
           ]
         }
       }
@@ -1088,6 +2050,59 @@
     ]
   },
   {
+    "word": "conscience",
+    "say": "KON-shunss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The little voice inside that tells you what is right or wrong.",
+          "examples": [
+            "My conscience bothered me.",
+            "Her conscience told her to tell the truth.",
+            "He has a clear conscience."
+          ]
+        },
+        "more": {
+          "def": "The part of your mind that tells you whether what you do is right or wrong.",
+          "examples": [
+            "My conscience bothered me after I told a lie.",
+            "Her conscience told her to return the wallet.",
+            "He had a clear conscience because he had done nothing wrong."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "consequence",
+    "say": "KON-suh-kwens",
+    "forms": [
+      "consequences"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A result of something you did.",
+          "examples": [
+            "The consequence of not studying is a bad grade.",
+            "A broken window can be a consequence of a wild game.",
+            "Every action has a consequence."
+          ]
+        },
+        "more": {
+          "def": "Something that happens as a result of something else.",
+          "examples": [
+            "A bad grade was the consequence of not studying.",
+            "One consequence of the storm was a day off from school.",
+            "The consequence of leaving the gate open was an escaped dog."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "consider",
     "say": "kun-SID-er",
     "forms": [
@@ -1112,6 +2127,34 @@
             "Consider all the choices before you pick one.",
             "We considered going to the lake.",
             "She considered the problem for a long time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "construction",
+    "say": "kun-STRUK-shun",
+    "forms": [
+      "constructions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Building something.",
+          "examples": [
+            "The construction of the bridge took a year.",
+            "The construction is noisy.",
+            "The road has construction."
+          ]
+        },
+        "more": {
+          "def": "The act of building something such as a house, road or bridge.",
+          "examples": [
+            "The construction of the bridge took two years.",
+            "The road is closed for construction.",
+            "Workers in hard hats were busy at the construction site."
           ]
         }
       }
@@ -1161,6 +2204,64 @@
             "Please contact the office if you are sick.",
             "She contacted her cousin by video call.",
             "I will contact you tomorrow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "contain",
+    "say": "kun-TAYN",
+    "forms": [
+      "contains",
+      "contained",
+      "containing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have something inside.",
+          "examples": [
+            "The box contains toys.",
+            "This jar contains cookies.",
+            "The bag contains my lunch."
+          ]
+        },
+        "more": {
+          "def": "To have something inside or as a part.",
+          "examples": [
+            "The box contains forty crayons.",
+            "Oranges contain a lot of vitamin C.",
+            "The jar contains pennies."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "contest",
+    "say": "KON-test",
+    "forms": [
+      "contests"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A game or event where people try to win.",
+          "examples": [
+            "I entered a contest.",
+            "The contest was fun.",
+            "He won the contest."
+          ]
+        },
+        "more": {
+          "def": "A competition in which people try to win a prize.",
+          "examples": [
+            "She entered a spelling contest.",
+            "The pie contest had twenty entries.",
+            "A race is a contest to see who is fastest."
           ]
         }
       }
@@ -1314,6 +2415,36 @@
     ]
   },
   {
+    "word": "convince",
+    "say": "kun-VINSS",
+    "forms": [
+      "convinces",
+      "convinced",
+      "convincing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone believe something.",
+          "examples": [
+            "I convinced Mom to let us go.",
+            "He convinced me to try.",
+            "She convinced the class."
+          ]
+        },
+        "more": {
+          "def": "To make someone believe something or agree to do something.",
+          "examples": [
+            "I convinced Mom to let us stay up late.",
+            "The facts convinced everyone that the earth is round.",
+            "He convinced his friend to try out for the play."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cook",
     "say": "kuuk",
     "emoji": "👩‍🍳",
@@ -1387,6 +2518,32 @@
             "She ate a chocolate chip cookie.",
             "Dad baked oatmeal cookies for the party.",
             "The cookie jar was empty."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cooking",
+    "say": "KUUK-ing",
+    "emoji": "🍳",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Making food ready to eat.",
+          "examples": [
+            "I like cooking.",
+            "Cooking is fun.",
+            "Dad does the cooking."
+          ]
+        },
+        "more": {
+          "def": "The act of making food by heating it or mixing it.",
+          "examples": [
+            "Grandpa's cooking is the best in the family.",
+            "Cooking dinner takes about an hour.",
+            "We learned about cooking in class."
           ]
         }
       }
@@ -1470,6 +2627,36 @@
     ]
   },
   {
+    "word": "cooperate",
+    "say": "koh-OP-er-ayt",
+    "forms": [
+      "cooperates",
+      "cooperated",
+      "cooperating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To work together.",
+          "examples": [
+            "We cooperate on the project.",
+            "The kids cooperated.",
+            "The team must cooperate."
+          ]
+        },
+        "more": {
+          "def": "To work together with other people to reach a goal.",
+          "examples": [
+            "We cooperated to build the sandcastle.",
+            "The two classes cooperate on the garden.",
+            "Ants cooperate to carry food."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cop",
     "say": "kop",
     "emoji": "👮",
@@ -1542,6 +2729,32 @@
             "I made a copy of my report.",
             "She bought a copy of the book.",
             "The museum has a copy of the old map."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "corn",
+    "say": "korn",
+    "emoji": "🌽",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tall plant with rows of yellow seeds.",
+          "examples": [
+            "We ate corn for dinner.",
+            "The corn is tall.",
+            "The farmer grows corn."
+          ]
+        },
+        "more": {
+          "def": "A tall plant with large ears covered in yellow seeds, grown as food.",
+          "examples": [
+            "Corn grew in tall rows across the field.",
+            "We ate corn on the cob at the picnic.",
+            "Popcorn is made from a special kind of corn."
           ]
         }
       }
@@ -1679,6 +2892,203 @@
     ]
   },
   {
+    "word": "costume",
+    "say": "KOS-toom",
+    "emoji": "🎃",
+    "forms": [
+      "costumes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Clothes you wear to look like someone or something else.",
+          "examples": [
+            "I wore a costume at Halloween.",
+            "The costume is a tiger.",
+            "Her costume was a witch."
+          ]
+        },
+        "more": {
+          "def": "Special clothes that you wear to look like another person, animal or character.",
+          "examples": [
+            "She wore a tiger costume for Halloween.",
+            "The actors changed into their costumes before the play.",
+            "He made a robot costume from a cardboard box."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cotton",
+    "say": "KOT-un",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft white plant that is used to make clothes.",
+          "examples": [
+            "My shirt is cotton.",
+            "Cotton is soft.",
+            "Cotton grows in fields."
+          ]
+        },
+        "more": {
+          "def": "A soft, white plant fiber that is spun into thread and made into cloth.",
+          "examples": [
+            "My shirt is made of cotton.",
+            "Farmers grow cotton in warm places.",
+            "The cotton balls were soft and white."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "couch",
+    "say": "kowch",
+    "emoji": "🛋️",
+    "forms": [
+      "couches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, soft seat for two or more people.",
+          "examples": [
+            "We sit on the couch.",
+            "The cat sleeps on the couch.",
+            "The couch is soft."
+          ]
+        },
+        "more": {
+          "def": "A long, soft seat with a back and arms, where several people can sit.",
+          "examples": [
+            "We watched a movie on the couch.",
+            "The cat curled up on the couch for a nap.",
+            "Dad put a blanket on the couch."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cough",
+    "say": "kawf",
+    "emoji": "😷",
+    "forms": [
+      "coughs",
+      "coughed",
+      "coughing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To push air out of your throat with a loud sound.",
+          "examples": [
+            "I cough when I have a cold.",
+            "He coughed.",
+            "Please cover your mouth when you cough."
+          ]
+        },
+        "more": {
+          "def": "To push air out of your throat suddenly and loudly.",
+          "examples": [
+            "She coughed because of the dust.",
+            "Cover your mouth when you cough.",
+            "I coughed all night with my cold."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loud noise from your throat when you are sick.",
+          "examples": [
+            "I have a cough.",
+            "The cough is bad.",
+            "She has a dry cough."
+          ]
+        },
+        "more": {
+          "def": "The sudden, loud sound made when you push air out of your throat.",
+          "examples": [
+            "I have a cough from my cold.",
+            "His cough kept him awake at night.",
+            "Warm tea helped her cough."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "council",
+    "say": "KOWN-sul",
+    "forms": [
+      "councils"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of people who make decisions together.",
+          "examples": [
+            "The town council met.",
+            "The council made a rule.",
+            "The student council planned a dance."
+          ]
+        },
+        "more": {
+          "def": "A group of people chosen to talk about things and make decisions for a town or school.",
+          "examples": [
+            "The town council voted to build a new park.",
+            "The student council planned the school dance.",
+            "The council met every Tuesday."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "councilor",
+        "def": "A member of a council."
+      }
+    ]
+  },
+  {
+    "word": "counsel",
+    "say": "KOWN-sul",
+    "forms": [
+      "counsels",
+      "counseled",
+      "counseling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Advice.",
+          "examples": [
+            "She gave good counsel.",
+            "The king asked for counsel.",
+            "I took her counsel."
+          ]
+        },
+        "more": {
+          "def": "Advice given to someone, especially about a decision.",
+          "examples": [
+            "The king asked his wise friend for counsel.",
+            "She gave good counsel about what to do.",
+            "He took his teacher's counsel and studied more."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "count",
     "say": "kownt",
     "emoji": "🔢",
@@ -1731,6 +3141,34 @@
       {
         "word": "countable",
         "def": "Able to be counted."
+      }
+    ]
+  },
+  {
+    "word": "counter",
+    "say": "KOWN-ter",
+    "forms": [
+      "counters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, flat table in a kitchen or store.",
+          "examples": [
+            "The cookies are on the counter.",
+            "The clerk stands at the counter.",
+            "Wipe the counter."
+          ]
+        },
+        "more": {
+          "def": "A long, flat surface in a kitchen, or in a shop where people are served.",
+          "examples": [
+            "The cookies cooled on the kitchen counter.",
+            "We paid at the counter.",
+            "Dad wiped the counter after dinner."
+          ]
+        }
       }
     ]
   },
@@ -2059,6 +3497,63 @@
             "The cow grazed in the green pasture.",
             "Farmers milk the cows every morning.",
             "A cow can eat grass all day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "coward",
+    "say": "KOW-erd",
+    "forms": [
+      "cowards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is too afraid to do what is right or hard.",
+          "examples": [
+            "He felt like a coward for hiding.",
+            "The coward ran away.",
+            "Do not call anyone a coward."
+          ]
+        },
+        "more": {
+          "def": "A person who is easily scared and does not face danger or something hard.",
+          "examples": [
+            "In the story, the coward hid when danger came.",
+            "He felt like a coward for staying quiet.",
+            "Being afraid does not make you a coward."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cowboy",
+    "say": "KOW-boy",
+    "emoji": "🤠",
+    "forms": [
+      "cowboys"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man who takes care of cattle on a ranch.",
+          "examples": [
+            "The cowboy rode a horse.",
+            "He wore a cowboy hat.",
+            "The cowboy rounded up the cows."
+          ]
+        },
+        "more": {
+          "def": "A worker on a ranch who rides horses and takes care of cattle.",
+          "examples": [
+            "The cowboy rode out at dawn to check the herd.",
+            "He wore a big hat and boots like a cowboy.",
+            "The cowboys moved the cattle across the plains."
           ]
         }
       }

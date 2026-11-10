@@ -56,6 +56,89 @@
     ]
   },
   {
+    "word": "headache",
+    "say": "HED-ayk",
+    "forms": [
+      "headaches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pain in your head.",
+          "examples": [
+            "I have a headache.",
+            "Noise gives me a headache.",
+            "The headache went away."
+          ]
+        },
+        "more": {
+          "def": "A pain in the head.",
+          "examples": [
+            "I had a headache after being in the sun.",
+            "Loud noise can give you a headache.",
+            "Rest and water helped her headache go away."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "headquarters",
+    "say": "HED-kwor-terz",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The main office of a group.",
+          "examples": [
+            "The fire department headquarters is downtown.",
+            "The company headquarters is big.",
+            "The police headquarters is near the park."
+          ]
+        },
+        "more": {
+          "def": "The main place from which a group is controlled.",
+          "examples": [
+            "The fire department headquarters is next to the park.",
+            "The company's headquarters is in a tall building.",
+            "Scouts meet at their headquarters on Fridays."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "heal",
+    "say": "heel",
+    "forms": [
+      "heals",
+      "healed",
+      "healing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get better after being hurt.",
+          "examples": [
+            "The cut will heal.",
+            "My arm healed.",
+            "The broken bone healed."
+          ]
+        },
+        "more": {
+          "def": "To become healthy again after being hurt or sick.",
+          "examples": [
+            "The cut healed in a few days.",
+            "A broken bone takes weeks to heal.",
+            "The doctor helped the sick bird heal."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "health",
     "say": "helth",
     "senses": [
@@ -338,6 +421,118 @@
     ]
   },
   {
+    "word": "heck",
+    "say": "hek",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A mild word for being surprised or upset.",
+          "examples": [
+            "Oh, heck!",
+            "What the heck is that?",
+            "Heck, I forgot my hat."
+          ]
+        },
+        "more": {
+          "def": "A mild word that people say when they are surprised or a little bit upset.",
+          "examples": [
+            "Oh heck, I left my lunch at home!",
+            "What the heck is that noise?",
+            "Heck, I almost missed the bus."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "heel",
+    "say": "heel",
+    "emoji": "🦶",
+    "forms": [
+      "heels"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The back part of your foot.",
+          "examples": [
+            "My heel hurts.",
+            "The sock has a hole in the heel.",
+            "I stood on my heel."
+          ]
+        },
+        "more": {
+          "def": "The rounded back part of your foot, below your ankle.",
+          "examples": [
+            "I got a blister on my heel.",
+            "The sock had a hole in the heel.",
+            "She stood on her heels to see over the crowd."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "height",
+    "say": "hyt",
+    "emoji": "📏",
+    "forms": [
+      "heights"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How tall something is.",
+          "examples": [
+            "What is your height?",
+            "The height of the tree is big.",
+            "Measure your height."
+          ]
+        },
+        "more": {
+          "def": "The distance from the bottom to the top of something.",
+          "examples": [
+            "The nurse measured my height.",
+            "The height of the building is two hundred feet.",
+            "The plant grew to a height of three feet."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "helicopter",
+    "say": "HEL-ih-kop-ter",
+    "emoji": "🚁",
+    "forms": [
+      "helicopters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flying machine with spinning blades on top.",
+          "examples": [
+            "The helicopter landed.",
+            "We saw a helicopter.",
+            "The helicopter flew low."
+          ]
+        },
+        "more": {
+          "def": "An aircraft that flies using large spinning blades on top, and can go straight up and down.",
+          "examples": [
+            "The helicopter landed in the field.",
+            "A helicopter carried the hurt hiker to the hospital.",
+            "The helicopter's blades made a loud noise."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hello",
     "say": "he-LOH",
     "senses": [
@@ -485,6 +680,31 @@
             "She became a hero when she saved the child from the river.",
             "The dog was called a hero for waking the family during the fire.",
             "My hero is the scientist who found the cure."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hers",
+    "say": "herz",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "Belonging to her.",
+          "examples": [
+            "The red coat is hers.",
+            "This book is hers.",
+            "Is the dog hers?"
+          ]
+        },
+        "more": {
+          "def": "Used to show that something belongs to a girl or woman.",
+          "examples": [
+            "The winning ticket was hers.",
+            "This pencil is mine, and that one is hers.",
+            "The prize was hers."
           ]
         }
       }

@@ -97,6 +97,114 @@
     ]
   },
   {
+    "word": "league",
+    "say": "leeg",
+    "forms": [
+      "leagues"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of teams that play each other.",
+          "examples": [
+            "I play in a soccer league.",
+            "The league has ten teams.",
+            "Our team is in a league."
+          ]
+        },
+        "more": {
+          "def": "A group of sports teams that play against each other.",
+          "examples": [
+            "Our town has a youth soccer league.",
+            "The team won the league for three years.",
+            "Ten teams play in the baseball league."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "leak",
+    "say": "leek",
+    "emoji": "💧",
+    "forms": [
+      "leaks",
+      "leaked",
+      "leaking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let water or air out by accident.",
+          "examples": [
+            "The pipe leaks.",
+            "The boat is leaking.",
+            "The roof leaked."
+          ]
+        },
+        "more": {
+          "def": "To let liquid or gas escape through a small hole.",
+          "examples": [
+            "The pipe under the sink leaks.",
+            "The roof leaked during the storm.",
+            "Gas leaked from the old tank."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small hole that lets water or air out.",
+          "examples": [
+            "There is a leak in the roof.",
+            "The leak is small.",
+            "The tire has a leak."
+          ]
+        },
+        "more": {
+          "def": "A small hole or crack through which liquid or gas escapes.",
+          "examples": [
+            "A leak in the water pipe soaked the floor.",
+            "The plumber fixed the leak under the sink.",
+            "A leak in the tire let the air out."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lean",
+    "say": "leen",
+    "forms": [
+      "leans",
+      "leaned",
+      "leaning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To bend your body to one side.",
+          "examples": [
+            "I lean on the wall.",
+            "The tower leans.",
+            "She leaned over to look."
+          ]
+        },
+        "more": {
+          "def": "To bend or slant toward one side, or to rest against something.",
+          "examples": [
+            "I lean against the wall when I wait.",
+            "The tower leans a little to the side.",
+            "He leaned over to pick up the pencil."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "learn",
     "say": "lern",
     "emoji": "📚",
@@ -125,6 +233,37 @@
             "Scientists are always learning new things about space."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "leather",
+    "say": "LETH-er",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong material made from animal skin.",
+          "examples": [
+            "My shoes are leather.",
+            "The belt is leather.",
+            "A leather bag."
+          ]
+        },
+        "more": {
+          "def": "A strong, flexible material made from the skin of animals, used for shoes and bags.",
+          "examples": [
+            "My boots are made of leather.",
+            "The leather jacket kept him warm.",
+            "The baseball glove is made of soft leather."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "leathery",
+        "def": "Tough and dry like leather."
       }
     ]
   },
@@ -172,6 +311,34 @@
             "Leave your boots by the door so you do not track in mud.",
             "I left my lunch box on the school bus.",
             "Please leave some cake for your brother."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lecture",
+    "say": "LEK-cher",
+    "forms": [
+      "lectures"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long talk to teach people.",
+          "examples": [
+            "The teacher gave a lecture.",
+            "The lecture was long.",
+            "We listened to a lecture."
+          ]
+        },
+        "more": {
+          "def": "A talk given to a group of people to teach them about a subject.",
+          "examples": [
+            "The scientist gave a lecture about the stars.",
+            "The students took notes during the lecture.",
+            "The lecture was about whales."
           ]
         }
       }
@@ -301,6 +468,71 @@
             "Many legends are told about the brave king."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "lemon",
+    "say": "LEM-un",
+    "emoji": "🍋",
+    "forms": [
+      "lemons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sour, yellow fruit.",
+          "examples": [
+            "I squeezed a lemon.",
+            "The lemon is sour.",
+            "Lemons are yellow."
+          ]
+        },
+        "more": {
+          "def": "A yellow fruit with a sour taste that is used to flavor food and drinks.",
+          "examples": [
+            "I squeezed a lemon to make lemonade.",
+            "The lemon tasted very sour.",
+            "She put a slice of lemon in her tea."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lend",
+    "say": "lend",
+    "forms": [
+      "lends",
+      "lent",
+      "lending"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let someone use something for a while.",
+          "examples": [
+            "I will lend you my pen.",
+            "She lent me a book.",
+            "Can you lend me a dollar?"
+          ]
+        },
+        "more": {
+          "def": "To let someone use something for a short time and then give it back.",
+          "examples": [
+            "I will lend you my pencil.",
+            "She lent me her bike for the day.",
+            "The library lends books for two weeks."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "lender",
+        "def": "A person who lends something."
       }
     ]
   },

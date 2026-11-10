@@ -1,5 +1,81 @@
 [
   {
+    "word": "awake",
+    "say": "uh-WAYK",
+    "emoji": "😃",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not asleep.",
+          "examples": [
+            "I was awake all morning.",
+            "The baby is awake now.",
+            "Are you still awake?"
+          ]
+        },
+        "more": {
+          "def": "Not sleeping, and able to notice what is going on around you.",
+          "examples": [
+            "The owl stays awake all night to hunt.",
+            "I lay awake listening to the rain on the roof.",
+            "Coffee is not for kids who want to stay awake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "award",
+    "say": "uh-WORD",
+    "emoji": "🏅",
+    "forms": [
+      "awards",
+      "awarded",
+      "awarding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A prize you get for doing well.",
+          "examples": [
+            "She won an award.",
+            "The award is a gold star.",
+            "He got an award for reading."
+          ]
+        },
+        "more": {
+          "def": "A prize or honor given to someone for doing something well.",
+          "examples": [
+            "She won an award for her story.",
+            "The award was a gold medal.",
+            "The school gave him an award for helping others."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give a prize.",
+          "examples": [
+            "They awarded her a prize.",
+            "The judge awarded the cup.",
+            "She was awarded a medal."
+          ]
+        },
+        "more": {
+          "def": "To give a prize or honor to someone.",
+          "examples": [
+            "The teacher awarded a ribbon to each winner.",
+            "The judges awarded first prize to the girl with the blue kite.",
+            "He was awarded a medal for bravery."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "aware",
     "say": "uh-WAIR",
     "senses": [
@@ -100,6 +176,34 @@
             "The awful smell came from the trash.",
             "We had awful weather on our trip.",
             "I felt awful when I broke the vase."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "awkward",
+    "say": "AW-kwerd",
+    "forms": [
+      "awkwardly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not smooth or easy.",
+          "examples": [
+            "The box is awkward to carry.",
+            "It was an awkward moment.",
+            "He felt awkward."
+          ]
+        },
+        "more": {
+          "def": "Hard to use or do, or feeling uncomfortable in front of others.",
+          "examples": [
+            "The big box was awkward to carry.",
+            "There was an awkward silence after he told the joke.",
+            "She felt awkward at the new school."
           ]
         }
       }

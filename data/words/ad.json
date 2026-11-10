@@ -1,5 +1,34 @@
 [
   {
+    "word": "ad",
+    "say": "ad",
+    "emoji": "📢",
+    "forms": [
+      "ads"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A notice or short film that tries to get you to buy something.",
+          "examples": [
+            "I saw an ad on TV.",
+            "The ad is for cereal.",
+            "The ad was funny."
+          ]
+        },
+        "more": {
+          "def": "A short word for advertisement, a message that tries to sell something.",
+          "examples": [
+            "I saw an ad for a new toy.",
+            "The ad on the radio was funny.",
+            "They put an ad in the paper for the sale."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "add",
     "say": "ad",
     "forms": [
@@ -99,6 +128,34 @@
     ]
   },
   {
+    "word": "admiral",
+    "say": "AD-mer-ul",
+    "forms": [
+      "admirals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very high officer in the navy.",
+          "examples": [
+            "The admiral was on the ship.",
+            "The admiral gave an order.",
+            "The admiral wore a uniform."
+          ]
+        },
+        "more": {
+          "def": "The most important officer in a navy, who leads many ships.",
+          "examples": [
+            "The admiral led the fleet of ships.",
+            "The admiral wore a uniform with gold stripes.",
+            "The sailors saluted the admiral."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "admire",
     "say": "ad-MYR",
     "forms": [
@@ -165,6 +222,161 @@
     ]
   },
   {
+    "word": "adopt",
+    "say": "uh-DOPT",
+    "forms": [
+      "adopts",
+      "adopted",
+      "adopting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take a child or pet into your family as your own.",
+          "examples": [
+            "We adopted a puppy.",
+            "They adopted a baby.",
+            "I want to adopt a cat."
+          ]
+        },
+        "more": {
+          "def": "To take a child or an animal into your family and care for it as your own.",
+          "examples": [
+            "Our family adopted a kitten from the shelter.",
+            "They adopted a baby girl last year.",
+            "She wants to adopt a dog."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To start using a new idea or way of doing something.",
+          "examples": [
+            "The class adopted a new rule.",
+            "We adopted a new plan.",
+            "The school adopted a new book."
+          ]
+        },
+        "more": {
+          "def": "To choose and begin to use something such as a plan or a rule.",
+          "examples": [
+            "The town adopted a rule about recycling.",
+            "Our club adopted a new name.",
+            "The school adopted a new reading program."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "adult",
+    "say": "uh-DULT",
+    "emoji": "🧑",
+    "forms": [
+      "adults"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is not a child.",
+          "examples": [
+            "An adult drove us.",
+            "Ask an adult for help.",
+            "Adults go to work."
+          ]
+        },
+        "more": {
+          "def": "A person or animal that has finished growing.",
+          "examples": [
+            "Kids must go with an adult on the trip.",
+            "An adult elephant weighs thousands of pounds.",
+            "She is an adult now and lives in her own apartment."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "advance",
+    "say": "ud-VANSS",
+    "forms": [
+      "advances",
+      "advanced",
+      "advancing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move forward.",
+          "examples": [
+            "The line advanced.",
+            "The army advanced.",
+            "I advanced to the next level."
+          ]
+        },
+        "more": {
+          "def": "To move forward, or to make progress.",
+          "examples": [
+            "The line of people slowly advanced.",
+            "She advanced to the next level of the game.",
+            "Science advances as we learn new things."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A step forward.",
+          "examples": [
+            "We made an advance in math.",
+            "An advance in science helps people.",
+            "Advances in medicine help us."
+          ]
+        },
+        "more": {
+          "def": "A move forward or an improvement in something.",
+          "examples": [
+            "The scientists made an advance in medicine.",
+            "Advances in computers have changed our lives.",
+            "The advance of the army was slow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "advantage",
+    "say": "ad-VAN-tij",
+    "forms": [
+      "advantages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that helps you do better.",
+          "examples": [
+            "Being tall is an advantage in basketball.",
+            "Our team had the advantage.",
+            "Having a map is an advantage."
+          ]
+        },
+        "more": {
+          "def": "Something that puts you in a better position than others.",
+          "examples": [
+            "Wearing boots was an advantage on the muddy trail.",
+            "A map gave the hikers an advantage over those without one.",
+            "The team had the advantage of playing on its own field."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "adventure",
     "say": "ad-VEN-cher",
     "emoji": "🧭",
@@ -221,6 +433,42 @@
             "Grandpa's advice helped me solve the problem."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "advise",
+    "say": "ud-VYZE",
+    "forms": [
+      "advises",
+      "advised",
+      "advising"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell someone what you think they should do.",
+          "examples": [
+            "Mom advised me to wear a coat.",
+            "The doctor advises rest.",
+            "I advise you to take a map."
+          ]
+        },
+        "more": {
+          "def": "To give someone your opinion about what they should do.",
+          "examples": [
+            "The coach advised us to drink water.",
+            "My teacher advised me to read every night.",
+            "The guide advised the hikers to stay on the path."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "advisor",
+        "def": "A person who advises."
       }
     ]
   }

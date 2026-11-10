@@ -132,6 +132,35 @@
     ]
   },
   {
+    "word": "tiger",
+    "say": "TY-ger",
+    "emoji": "🐅",
+    "forms": [
+      "tigers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big wild cat with stripes.",
+          "examples": [
+            "The tiger has stripes.",
+            "A tiger is in the zoo.",
+            "The tiger roared."
+          ]
+        },
+        "more": {
+          "def": "A very large wild cat with orange fur and dark stripes that lives in Asia.",
+          "examples": [
+            "The tiger crept silently through the tall grass.",
+            "Each tiger has its own pattern of stripes.",
+            "A tiger can swim and likes to be near water."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tight",
     "say": "tyt",
     "forms": [
@@ -277,6 +306,31 @@
     ]
   },
   {
+    "word": "timing",
+    "say": "TY-ming",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Picking the right time to do something.",
+          "examples": [
+            "Good timing helps.",
+            "His timing was perfect.",
+            "The timing of the joke made us laugh."
+          ]
+        },
+        "more": {
+          "def": "Choosing or having the best moment to do something.",
+          "examples": [
+            "The dancer's timing was perfect.",
+            "Good timing helps a comedian tell a joke.",
+            "His timing was bad, since he arrived after the show began."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tiny",
     "say": "TY-nee",
     "emoji": "🐜",
@@ -375,6 +429,61 @@
     ]
   },
   {
+    "word": "tire",
+    "say": "tyre",
+    "forms": [
+      "tires",
+      "tired",
+      "tiring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get sleepy or without energy.",
+          "examples": [
+            "Running will tire me out.",
+            "The long walk tired the puppy.",
+            "I tire quickly."
+          ]
+        },
+        "more": {
+          "def": "To make someone need rest, or to start to need rest.",
+          "examples": [
+            "The long hike tired the little kids.",
+            "She began to tire near the end of the race.",
+            "Carrying the heavy bag will tire you."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rubber ring around a wheel.",
+          "examples": [
+            "The car has four tires.",
+            "My bike tire is flat.",
+            "We changed the tire."
+          ]
+        },
+        "more": {
+          "def": "A thick rubber ring that fits around a wheel.",
+          "examples": [
+            "Dad pumped air into the bike tire.",
+            "The truck's big tires left tracks in the mud.",
+            "A nail made a hole in the tire."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "tireless",
+        "def": "Without getting tired."
+      }
+    ]
+  },
+  {
     "word": "tired",
     "say": "tyrd",
     "emoji": "😴",
@@ -414,6 +523,81 @@
             "I am tired of eating the same lunch every day.",
             "They got tired of waiting in the long line.",
             "She grew tired of the noisy game."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tissue",
+    "say": "TISH-oo",
+    "forms": [
+      "tissues"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft, thin piece of paper for blowing your nose.",
+          "examples": [
+            "I need a tissue.",
+            "The box of tissues is on the table.",
+            "She blew her nose into a tissue."
+          ]
+        },
+        "more": {
+          "def": "A thin, soft piece of paper that you use for wiping your nose or wrapping things.",
+          "examples": [
+            "I grabbed a tissue when I sneezed.",
+            "He wiped his nose with a clean tissue.",
+            "The gift was wrapped in colorful tissue."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "title",
+    "say": "TY-tul",
+    "forms": [
+      "titles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The name of a book, movie or song.",
+          "examples": [
+            "What is the title of the book?",
+            "The title is on the cover.",
+            "I like the title."
+          ]
+        },
+        "more": {
+          "def": "The name of a book, movie, song or other work.",
+          "examples": [
+            "The title of my favorite book is on the cover.",
+            "She chose a funny title for her story.",
+            "I forgot the title of the song."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A name that goes before a person's name.",
+          "examples": [
+            "\"Doctor\" is a title.",
+            "The queen's title is Her Majesty.",
+            "Mr. is a title."
+          ]
+        },
+        "more": {
+          "def": "A word put before a name to show a person's job or rank, such as Dr. or Mrs.",
+          "examples": [
+            "Doctor is a title that goes before a name.",
+            "The judge has the title of Honor.",
+            "The teacher's title is Mrs. Brown."
           ]
         }
       }

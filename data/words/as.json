@@ -44,6 +44,63 @@
     ]
   },
   {
+    "word": "ashamed",
+    "say": "uh-SHAYMD",
+    "emoji": "😔",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling bad because you did something wrong.",
+          "examples": [
+            "I felt ashamed of my lie.",
+            "He was ashamed of what he said.",
+            "She looked ashamed."
+          ]
+        },
+        "more": {
+          "def": "Feeling sorry and a little embarrassed about something you did.",
+          "examples": [
+            "He was ashamed that he had broken the window.",
+            "She felt ashamed of how she shouted at her friend.",
+            "Do not be ashamed to ask for help when you need it."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unashamed",
+        "def": "Not ashamed."
+      }
+    ]
+  },
+  {
+    "word": "aside",
+    "say": "uh-SYD",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "To one side.",
+          "examples": [
+            "Please move aside.",
+            "I put the book aside.",
+            "She stepped aside."
+          ]
+        },
+        "more": {
+          "def": "To one side, or out of the way.",
+          "examples": [
+            "He stepped aside to let the others pass.",
+            "Set your work aside and come to dinner.",
+            "She put some money aside for a new bike."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ask",
     "say": "ask",
     "forms": [
@@ -99,6 +156,64 @@
     ]
   },
   {
+    "word": "assign",
+    "say": "uh-SYN",
+    "forms": [
+      "assigns",
+      "assigned",
+      "assigning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give someone a job to do.",
+          "examples": [
+            "The teacher assigned a project.",
+            "She assigned me a chore.",
+            "Mom assigns the jobs."
+          ]
+        },
+        "more": {
+          "def": "To give someone a job or task to do.",
+          "examples": [
+            "The teacher assigned a book to read.",
+            "She assigned each child a job.",
+            "Mom assigned me to feed the dog."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "assignment",
+    "say": "uh-SYN-munt",
+    "forms": [
+      "assignments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Work that a teacher tells you to do.",
+          "examples": [
+            "Our assignment is to read a book.",
+            "The assignment is due tomorrow.",
+            "I finished my assignment."
+          ]
+        },
+        "more": {
+          "def": "A piece of work that someone gives you to do.",
+          "examples": [
+            "Our assignment is to write a story about a pet.",
+            "The science assignment is due on Friday.",
+            "I finished the assignment before dinner."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "assistant",
     "say": "uh-SIS-tunt",
     "forms": [
@@ -121,6 +236,36 @@
             "The teacher's assistant passed out papers.",
             "The chef's assistant chopped the carrots.",
             "The doctor's assistant took my temperature."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "associate",
+    "say": "uh-SOH-see-ayt",
+    "forms": [
+      "associates",
+      "associated",
+      "associating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To connect things in your mind.",
+          "examples": [
+            "I associate summer with swimming.",
+            "She associates that song with her grandmother.",
+            "We associate red with stop."
+          ]
+        },
+        "more": {
+          "def": "To connect one thing to another in your mind.",
+          "examples": [
+            "I associate the smell of bread with my grandma.",
+            "Many people associate the color red with danger.",
+            "She associates the song with her grandfather."
           ]
         }
       }

@@ -29,6 +29,133 @@
     ]
   },
   {
+    "word": "brake",
+    "say": "brayk",
+    "forms": [
+      "brakes",
+      "braked",
+      "braking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part that makes a bike or car stop.",
+          "examples": [
+            "I pressed the brake.",
+            "The bike has a brake.",
+            "The brake squeaked."
+          ]
+        },
+        "more": {
+          "def": "The part of a bike or car that slows it down or stops it.",
+          "examples": [
+            "He pressed the brake and the car stopped.",
+            "The brakes on my bike squeak.",
+            "Dad checked the brakes before the trip."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To slow down or stop.",
+          "examples": [
+            "The driver braked hard.",
+            "I brake at the corner.",
+            "The car braked."
+          ]
+        },
+        "more": {
+          "def": "To slow down or stop a vehicle by pressing the pedal or lever.",
+          "examples": [
+            "The driver braked when the light turned red.",
+            "I braked at the bottom of the hill.",
+            "The bus braked quickly to avoid the dog."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "branch",
+    "say": "branch",
+    "emoji": "🌳",
+    "forms": [
+      "branches",
+      "branched",
+      "branching"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of a tree that grows out from the trunk.",
+          "examples": [
+            "The bird sat on a branch.",
+            "The branch is long.",
+            "A branch fell off the tree."
+          ]
+        },
+        "more": {
+          "def": "One of the woody parts of a tree that grows out from the trunk.",
+          "examples": [
+            "The bird perched on a branch.",
+            "The wind snapped a dry branch from the tree.",
+            "The children climbed along a thick branch."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One part of a larger group or business.",
+          "examples": [
+            "The bank has a branch downtown.",
+            "The library has a branch in our town.",
+            "We visited a branch of the library."
+          ]
+        },
+        "more": {
+          "def": "One of the offices or shops that belongs to a larger group.",
+          "examples": [
+            "The bank has a branch near my school.",
+            "The library has a branch in every neighborhood.",
+            "The company opened a new branch."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "brand",
+    "say": "brand",
+    "forms": [
+      "brands"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A name that a company gives to its products.",
+          "examples": [
+            "What brand of cereal do you eat?",
+            "My shoes are a good brand.",
+            "That brand is popular."
+          ]
+        },
+        "more": {
+          "def": "A name or mark that a company gives to the things it makes.",
+          "examples": [
+            "What brand of cereal do you like?",
+            "He wore shoes of a popular brand.",
+            "The store sells many brands of juice."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "brave",
     "say": "brayv",
     "emoji": "🦁",
@@ -53,6 +180,32 @@
             "It was brave of him to speak in front of the whole school.",
             "The brave sailor steered the ship through the storm.",
             "She was brave enough to say sorry first."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bread",
+    "say": "bred",
+    "emoji": "🍞",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft food that you cut in slices.",
+          "examples": [
+            "I made a sandwich with bread.",
+            "The bread is warm.",
+            "We ate bread and soup."
+          ]
+        },
+        "more": {
+          "def": "A food made by baking flour, water and yeast, often cut into slices.",
+          "examples": [
+            "The smell of fresh bread filled the kitchen.",
+            "Bakers get up early to make bread before the shop opens.",
+            "Toast is bread that has been heated until it is crisp."
           ]
         }
       }
@@ -237,6 +390,64 @@
     ]
   },
   {
+    "word": "brick",
+    "say": "brik",
+    "emoji": "🧱",
+    "forms": [
+      "bricks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hard block used to build walls.",
+          "examples": [
+            "The house is made of brick.",
+            "The brick is red.",
+            "I built a wall of brick."
+          ]
+        },
+        "more": {
+          "def": "A hard block of baked clay, used to build walls and houses.",
+          "examples": [
+            "The wall was built of red brick.",
+            "The builder laid bricks one by one.",
+            "A brick fell off the old chimney."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bride",
+    "say": "bryd",
+    "emoji": "👰",
+    "forms": [
+      "brides"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A woman who is getting married.",
+          "examples": [
+            "The bride wore a white dress.",
+            "The bride and groom smiled.",
+            "The bride carried flowers."
+          ]
+        },
+        "more": {
+          "def": "A woman on her wedding day, or just married.",
+          "examples": [
+            "The bride walked down the aisle with her father.",
+            "Guests threw petals as the bride and groom left.",
+            "The bride wore a long veil."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bridge",
     "say": "brij",
     "emoji": "🌉",
@@ -260,6 +471,36 @@
             "We walked across the bridge over the river.",
             "A long bridge connects the island to the land.",
             "The old bridge was made of wood."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "brief",
+    "say": "breef",
+    "forms": [
+      "briefer",
+      "briefest",
+      "briefly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Short.",
+          "examples": [
+            "It was a brief talk.",
+            "The visit was brief.",
+            "She gave a brief speech."
+          ]
+        },
+        "more": {
+          "def": "Lasting only a short time, or using only a few words.",
+          "examples": [
+            "The teacher gave a brief talk.",
+            "We took a brief break.",
+            "After a brief rest, we kept walking."
           ]
         }
       }
@@ -370,6 +611,36 @@
     ]
   },
   {
+    "word": "broad",
+    "say": "brawd",
+    "forms": [
+      "broader",
+      "broadest",
+      "broadly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wide.",
+          "examples": [
+            "The river is broad.",
+            "He has broad shoulders.",
+            "The broad road has four lanes."
+          ]
+        },
+        "more": {
+          "def": "Wide from one side to the other.",
+          "examples": [
+            "The broad river was too deep to cross.",
+            "The football player had broad shoulders.",
+            "A broad path led to the gate."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "brother",
     "say": "BRUTH-er",
     "forms": [
@@ -449,6 +720,62 @@
       {
         "word": "brownish",
         "def": "A little bit brown."
+      }
+    ]
+  },
+  {
+    "word": "brush",
+    "say": "brush",
+    "emoji": "🖌️",
+    "forms": [
+      "brushes",
+      "brushed",
+      "brushing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool with stiff hairs on a handle.",
+          "examples": [
+            "I use a brush to paint.",
+            "Brush your teeth.",
+            "The brush is wet."
+          ]
+        },
+        "more": {
+          "def": "A tool with hairs, bristles or wire on a handle, used to clean, paint or tidy things.",
+          "examples": [
+            "She dipped the brush in blue paint.",
+            "He used a hair brush to fix his hair.",
+            "I cleaned the pot with a stiff brush."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To clean something by rubbing it with a tool.",
+          "examples": [
+            "I brush my teeth.",
+            "She brushed her hair.",
+            "He brushed the dog."
+          ]
+        },
+        "more": {
+          "def": "To clean, smooth or paint something by rubbing it with a tool that has stiff hairs.",
+          "examples": [
+            "I brush my teeth twice a day.",
+            "She brushed the dust off her coat.",
+            "He brushed the horse until its coat shone."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "underbrush",
+        "def": "Small bushes and plants growing under tall trees."
       }
     ]
   }

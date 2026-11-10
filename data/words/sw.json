@@ -1,5 +1,54 @@
 [
   {
+    "word": "swallow",
+    "say": "SWOL-oh",
+    "forms": [
+      "swallows",
+      "swallowed",
+      "swallowing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make food go down your throat.",
+          "examples": [
+            "I swallow my food.",
+            "She swallowed the pill.",
+            "The baby swallowed the milk."
+          ]
+        },
+        "more": {
+          "def": "To make food or drink go down your throat from your mouth.",
+          "examples": [
+            "Chew your food well before you swallow.",
+            "The little boy swallowed his juice in one gulp.",
+            "The snake swallowed the egg whole."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small bird with a forked tail that flies fast.",
+          "examples": [
+            "A swallow flew by.",
+            "The swallow built a nest.",
+            "Swallows fly fast."
+          ]
+        },
+        "more": {
+          "def": "A small, fast bird with long pointed wings and a forked tail.",
+          "examples": [
+            "A swallow darted over the pond to catch insects.",
+            "Swallows build mud nests under bridges.",
+            "The swallows flew south for the winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "swear",
     "say": "swair",
     "forms": [
@@ -93,6 +142,66 @@
             "I sweat when I run on a hot day.",
             "He sweated in the summer sun.",
             "Runners sweat during a race."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sweater",
+    "say": "SWET-er",
+    "emoji": "🧶",
+    "forms": [
+      "sweaters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A warm top that you pull over your head.",
+          "examples": [
+            "I wear a sweater.",
+            "The sweater is warm.",
+            "She knitted a sweater."
+          ]
+        },
+        "more": {
+          "def": "A warm piece of clothing, often knitted, that you wear over your shirt.",
+          "examples": [
+            "I put on a sweater because it was cold.",
+            "Grandma knitted me a red sweater.",
+            "The sweater kept me warm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sweep",
+    "say": "sweep",
+    "emoji": "🧹",
+    "forms": [
+      "sweeps",
+      "swept",
+      "sweeping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To clean with a broom.",
+          "examples": [
+            "I sweep the floor.",
+            "Dad swept the porch.",
+            "Please sweep up the crumbs."
+          ]
+        },
+        "more": {
+          "def": "To clean a floor by brushing dirt away with a broom.",
+          "examples": [
+            "I sweep the kitchen floor after dinner.",
+            "Dad swept the leaves off the porch.",
+            "She swept up the crumbs with a broom."
           ]
         }
       }
@@ -204,6 +313,37 @@
     ]
   },
   {
+    "word": "swell",
+    "say": "swel",
+    "forms": [
+      "swells",
+      "swelled",
+      "swollen",
+      "swelling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get bigger or fatter.",
+          "examples": [
+            "My ankle will swell.",
+            "The river swelled.",
+            "The balloon swelled."
+          ]
+        },
+        "more": {
+          "def": "To grow bigger, rounder or fuller than normal.",
+          "examples": [
+            "His ankle swelled after he twisted it.",
+            "The river swelled after days of heavy rain.",
+            "The sponge swells when it soaks up water."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "swim",
     "say": "swim",
     "emoji": "🏊",
@@ -230,6 +370,32 @@
             "Fish swim with their fins.",
             "She learned to swim at the pool.",
             "We swam across the lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "swimming",
+    "say": "SWIM-ing",
+    "emoji": "🏊",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Moving through water by moving your arms and legs.",
+          "examples": [
+            "I love swimming.",
+            "Swimming is fun.",
+            "We go swimming in summer."
+          ]
+        },
+        "more": {
+          "def": "The sport or activity of moving through water by using your arms and legs.",
+          "examples": [
+            "We go swimming at the lake in summer.",
+            "Swimming is good exercise.",
+            "She has swimming lessons on Saturdays."
           ]
         }
       }

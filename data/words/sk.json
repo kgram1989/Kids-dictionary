@@ -1,5 +1,55 @@
 [
   {
+    "word": "skate",
+    "say": "skayt",
+    "emoji": "⛸️",
+    "forms": [
+      "skates",
+      "skated",
+      "skating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To glide on ice or the ground with special shoes.",
+          "examples": [
+            "I skate on the ice.",
+            "We skated at the rink.",
+            "She skates well."
+          ]
+        },
+        "more": {
+          "def": "To glide over ice or smooth ground on wheels or blades attached to your shoes.",
+          "examples": [
+            "We skated on the frozen pond.",
+            "She skates around the rink.",
+            "The kids skated down the sidewalk."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A boot with a blade or wheels on the bottom.",
+          "examples": [
+            "I put on my skates.",
+            "My skate is blue.",
+            "I tied my skates."
+          ]
+        },
+        "more": {
+          "def": "A shoe with a metal blade or wheels on the bottom for gliding.",
+          "examples": [
+            "She laced up her ice skates.",
+            "He wore roller skates on the smooth path.",
+            "My skate got stuck in a crack."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "skeleton",
     "say": "SKEL-uh-tun",
     "emoji": "💀",
@@ -23,6 +73,34 @@
             "The museum has the skeleton of a huge dinosaur.",
             "The human skeleton has more than two hundred bones.",
             "We found the skeleton of a small bird in the woods."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "skill",
+    "say": "skil",
+    "forms": [
+      "skills"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being able to do something well.",
+          "examples": [
+            "Drawing is a skill.",
+            "She has great skill at soccer.",
+            "I learned a new skill."
+          ]
+        },
+        "more": {
+          "def": "The ability to do something well, which you get from practice.",
+          "examples": [
+            "Riding a bike takes skill.",
+            "She has great skill at playing the piano.",
+            "Reading is a skill that gets better with practice."
           ]
         }
       }
@@ -76,6 +154,35 @@
     ]
   },
   {
+    "word": "skinny",
+    "say": "SKIN-ee",
+    "forms": [
+      "skinnier",
+      "skinniest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very thin.",
+          "examples": [
+            "The skinny cat ran.",
+            "A skinny branch broke.",
+            "The skinny boy grew taller."
+          ]
+        },
+        "more": {
+          "def": "Very thin, with little fat or flesh.",
+          "examples": [
+            "The skinny cat looked hungry.",
+            "A skinny branch snapped in the wind.",
+            "The skinny puppy needed more food."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "skip",
     "say": "skip",
     "forms": [
@@ -119,6 +226,64 @@
             "Skip the hard question and come back to it.",
             "I accidentally skipped a page.",
             "He skipped breakfast and ran to the bus."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "skirt",
+    "say": "skert",
+    "emoji": "👗",
+    "forms": [
+      "skirts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Clothing that hangs down from your middle.",
+          "examples": [
+            "She wore a skirt.",
+            "The skirt is red.",
+            "My skirt has pockets."
+          ]
+        },
+        "more": {
+          "def": "A piece of clothing that hangs from the waist and covers part of the legs.",
+          "examples": [
+            "She wore a blue skirt to school.",
+            "The dancer's skirt twirled as she spun.",
+            "My skirt has two pockets."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "skull",
+    "say": "skul",
+    "emoji": "💀",
+    "forms": [
+      "skulls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The bones of the head.",
+          "examples": [
+            "The skull protects the brain.",
+            "A skull is made of bone.",
+            "The skull is hard."
+          ]
+        },
+        "more": {
+          "def": "The set of bones that forms the head and protects the brain.",
+          "examples": [
+            "Your skull protects your brain.",
+            "The museum has a dinosaur skull.",
+            "A helmet protects your skull."
           ]
         }
       }

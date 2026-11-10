@@ -1,5 +1,62 @@
 [
   {
+    "word": "tub",
+    "say": "tub",
+    "emoji": "🛁",
+    "forms": [
+      "tubs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big container for washing or holding things.",
+          "examples": [
+            "I took a bath in the tub.",
+            "The tub is full.",
+            "The tub is white."
+          ]
+        },
+        "more": {
+          "def": "A large, open container used for washing or holding things, or a bathtub.",
+          "examples": [
+            "The baby splashed in the tub.",
+            "We filled the tub with warm water.",
+            "The kids kept their toys in a plastic tub."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tube",
+    "say": "toob",
+    "forms": [
+      "tubes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, hollow pipe or case.",
+          "examples": [
+            "I squeezed the tube of paste.",
+            "Water flows through a tube.",
+            "A straw is a small tube."
+          ]
+        },
+        "more": {
+          "def": "A long, hollow pipe, or a soft case with a cap that holds something to squeeze out.",
+          "examples": [
+            "A tube carried water from the tank to the sink.",
+            "He squeezed paint out of the tube.",
+            "A drinking straw is a thin tube."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "Tuesday",
     "say": "TOOZ-day",
     "emoji": "📅",
@@ -23,6 +80,95 @@
             "The recycling truck comes on Tuesday morning.",
             "Our book club meets every Tuesday after school.",
             "On Tuesday, the first snow of the year fell."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tune",
+    "say": "toon",
+    "emoji": "🎵",
+    "forms": [
+      "tunes",
+      "tuned",
+      "tuning"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A song or a set of notes that you can hum.",
+          "examples": [
+            "I hummed a happy tune.",
+            "She plays a tune on the flute.",
+            "The tune stuck in my head."
+          ]
+        },
+        "more": {
+          "def": "A group of musical notes that makes a pleasing song.",
+          "examples": [
+            "The band played a lively tune.",
+            "I could not get the tune out of my head.",
+            "She whistled a tune as she walked."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tunnel",
+    "say": "TUN-ul",
+    "emoji": "🚇",
+    "forms": [
+      "tunnels"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long path under the ground or through a hill.",
+          "examples": [
+            "The train goes through the tunnel.",
+            "We dug a tunnel in the sand.",
+            "The tunnel is dark."
+          ]
+        },
+        "more": {
+          "def": "A long passage dug under the ground or through a mountain or hill.",
+          "examples": [
+            "The train rushed through a tunnel in the mountain.",
+            "Moles dig tunnels under the garden.",
+            "Cars went through the tunnel under the river."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "turkey",
+    "say": "TER-kee",
+    "emoji": "🦃",
+    "forms": [
+      "turkeys"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big bird that people eat at Thanksgiving.",
+          "examples": [
+            "We ate turkey on Thanksgiving.",
+            "A wild turkey ran across the road.",
+            "The turkey is big."
+          ]
+        },
+        "more": {
+          "def": "A large bird with a bare head and a fan-shaped tail, raised for food or found wild.",
+          "examples": [
+            "Many families eat roast turkey on Thanksgiving.",
+            "A wild turkey fanned its tail feathers to impress the others.",
+            "Turkeys can run fast and can fly for short distances."
           ]
         }
       }
@@ -91,6 +237,35 @@
             "Everyone gets a turn on the swing.",
             "It is your turn to roll the dice.",
             "We took turns reading the story aloud."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "turtle",
+    "say": "TER-tul",
+    "emoji": "🐢",
+    "forms": [
+      "turtles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal with a hard shell on its back.",
+          "examples": [
+            "The turtle is slow.",
+            "A turtle hid in its shell.",
+            "The turtle crossed the road."
+          ]
+        },
+        "more": {
+          "def": "A slow, hard-shelled animal that lives in water or on land and can pull its head into its shell.",
+          "examples": [
+            "The turtle pulled its head into its shell.",
+            "Sea turtles swim long distances.",
+            "A turtle slowly crossed the road."
           ]
         }
       }

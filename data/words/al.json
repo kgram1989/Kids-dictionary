@@ -28,6 +28,104 @@
     ]
   },
   {
+    "word": "alert",
+    "say": "uh-LERT",
+    "emoji": "🚨",
+    "forms": [
+      "alerts",
+      "alerted",
+      "alerting"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Awake and ready to notice things.",
+          "examples": [
+            "The dog is alert.",
+            "Stay alert on the trail.",
+            "The guard was alert."
+          ]
+        },
+        "more": {
+          "def": "Watching and ready to notice or react to what is going on.",
+          "examples": [
+            "The alert deer lifted its head at the slightest sound.",
+            "Stay alert when you cross the street.",
+            "After a good night's sleep, she felt fresh and alert."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To warn someone about something.",
+          "examples": [
+            "The bell alerted the class.",
+            "I alert Mom.",
+            "The alarm alerts us."
+          ]
+        },
+        "more": {
+          "def": "To warn someone about a danger or something important.",
+          "examples": [
+            "The siren alerted people about the storm.",
+            "My barking dog alerted us to the stranger.",
+            "She alerted the teacher to the broken window."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "alien",
+    "say": "AY-lee-un",
+    "emoji": "👽",
+    "forms": [
+      "aliens"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A creature from another planet in stories.",
+          "examples": [
+            "The alien had green skin.",
+            "The movie is about an alien.",
+            "I drew an alien."
+          ]
+        },
+        "more": {
+          "def": "A pretend visitor from another planet in stories and movies.",
+          "examples": [
+            "The alien stepped out of the spaceship.",
+            "In the movie, an alien made friends with a boy.",
+            "I drew an alien with three eyes."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Strange and from somewhere else.",
+          "examples": [
+            "It felt alien to be in a new place.",
+            "The alien land was strange.",
+            "The food seemed alien."
+          ]
+        },
+        "more": {
+          "def": "Strange, unfamiliar or from another place.",
+          "examples": [
+            "The new city felt alien to her at first.",
+            "An alien smell filled the air.",
+            "The customs seemed alien to the visitors."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "alive",
     "say": "uh-LYV",
     "senses": [
@@ -72,6 +170,34 @@
             "All the students lined up for the fire drill.",
             "We stayed inside all day because of the rain.",
             "The squirrel hid all of the acorns before winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "alley",
+    "say": "AL-ee",
+    "forms": [
+      "alleys"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A narrow way between buildings.",
+          "examples": [
+            "The cat walked down the alley.",
+            "The alley is narrow.",
+            "We cut through the alley."
+          ]
+        },
+        "more": {
+          "def": "A narrow street or path between buildings.",
+          "examples": [
+            "The cat slipped down the alley.",
+            "We took a shortcut through the alley behind the shop.",
+            "Trash cans lined the alley."
           ]
         }
       }

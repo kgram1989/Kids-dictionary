@@ -1,5 +1,107 @@
 [
   {
+    "word": "sack",
+    "say": "sak",
+    "forms": [
+      "sacks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big bag.",
+          "examples": [
+            "I carried a sack.",
+            "The sack of potatoes is heavy.",
+            "The sack is full of toys."
+          ]
+        },
+        "more": {
+          "def": "A large bag made of strong paper or cloth.",
+          "examples": [
+            "Dad carried a sack of potatoes.",
+            "The sack was filled with apples.",
+            "She packed her lunch in a paper sack."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sacred",
+    "say": "SAY-krid",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Holy, or deserving great respect.",
+          "examples": [
+            "The temple is a sacred place.",
+            "The book is sacred.",
+            "The mountain is sacred."
+          ]
+        },
+        "more": {
+          "def": "Holy, or treated with the greatest respect because it belongs to a religion.",
+          "examples": [
+            "The temple is a sacred place for many people.",
+            "The river is sacred in that country.",
+            "A sacred book was kept in a special box."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sacrifice",
+    "say": "SAK-ruh-fyss",
+    "forms": [
+      "sacrifices",
+      "sacrificed",
+      "sacrificing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Giving up something you like for someone else.",
+          "examples": [
+            "Mom made a sacrifice to buy us shoes.",
+            "Giving up your seat is a small sacrifice.",
+            "It was a big sacrifice for him."
+          ]
+        },
+        "more": {
+          "def": "Something good that you give up so that someone else can have something better.",
+          "examples": [
+            "Her parents made many sacrifices so she could go to school.",
+            "Giving up a day off was a sacrifice for the nurse.",
+            "The soldier's sacrifice was honored by the town."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give up something you like for someone else.",
+          "examples": [
+            "I sacrificed my free time to help.",
+            "She sacrificed her turn.",
+            "He sacrificed his dessert for his sister."
+          ]
+        },
+        "more": {
+          "def": "To give up something you value so that someone else may have something.",
+          "examples": [
+            "The family sacrificed their vacation to pay for the new roof.",
+            "He sacrificed sleep to finish the model.",
+            "Farmers sacrificed part of their crop to save the village."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sad",
     "say": "sad",
     "forms": [
@@ -103,6 +205,85 @@
     ]
   },
   {
+    "word": "sail",
+    "say": "sayl",
+    "emoji": "⛵",
+    "forms": [
+      "sails",
+      "sailed",
+      "sailing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big piece of cloth on a boat that catches the wind.",
+          "examples": [
+            "The boat has a white sail.",
+            "The wind filled the sail.",
+            "The sail is up."
+          ]
+        },
+        "more": {
+          "def": "A large piece of strong cloth fixed to a boat that catches the wind to push it along.",
+          "examples": [
+            "The wind filled the white sail.",
+            "A sail is raised on the boat's tall mast.",
+            "The sailors lowered the sail when the storm came."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To travel on water in a boat.",
+          "examples": [
+            "We sail on the lake.",
+            "The ship sailed away.",
+            "They sailed across the sea."
+          ]
+        },
+        "more": {
+          "def": "To travel across water in a boat, especially a sailboat.",
+          "examples": [
+            "We sailed across the lake on Saturday.",
+            "The ship sailed out of the harbor at dawn.",
+            "She sailed all the way around the island."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sailor",
+    "say": "SAY-ler",
+    "emoji": "⚓",
+    "forms": [
+      "sailors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who works on a ship.",
+          "examples": [
+            "The sailor sailed the ship.",
+            "A sailor wore a blue hat.",
+            "Sailors work on boats."
+          ]
+        },
+        "more": {
+          "def": "A person who works on a ship or sails a boat.",
+          "examples": [
+            "The sailor climbed the mast.",
+            "Sailors pulled the ropes.",
+            "The sailor sailed across the sea."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sake",
     "say": "sayk",
     "senses": [
@@ -122,6 +303,35 @@
             "For the sake of the sleeping baby, we whispered.",
             "She walked slowly for her grandmother's sake.",
             "Do it for your own sake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "salad",
+    "say": "SAL-ud",
+    "emoji": "🥗",
+    "forms": [
+      "salads"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dish of cold vegetables.",
+          "examples": [
+            "I eat salad.",
+            "The salad has lettuce and tomatoes.",
+            "Dad made a salad."
+          ]
+        },
+        "more": {
+          "def": "A dish made from raw vegetables or fruit, often mixed with a dressing.",
+          "examples": [
+            "Dinner included a salad of lettuce and tomatoes.",
+            "She tossed the salad with oil and vinegar.",
+            "We made a fruit salad with grapes and apples."
           ]
         }
       }
@@ -181,6 +391,37 @@
     ]
   },
   {
+    "word": "salt",
+    "say": "sawlt",
+    "emoji": "🧂",
+    "forms": [
+      "salts",
+      "salted",
+      "salting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A white powder that makes food taste better.",
+          "examples": [
+            "I put salt on my eggs.",
+            "The soup needs salt.",
+            "Salt is in the shaker."
+          ]
+        },
+        "more": {
+          "def": "A white mineral in tiny grains that is used to flavor food.",
+          "examples": [
+            "She sprinkled salt on the popcorn.",
+            "Ocean water is full of salt.",
+            "Add a pinch of salt to the soup."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "same",
     "say": "saym",
     "senses": [
@@ -200,6 +441,65 @@
             "The twins wore the same coat to school.",
             "Two plus two is the same as one plus three.",
             "We go to the same park every Saturday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sample",
+    "say": "SAM-pul",
+    "forms": [
+      "samples"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small part to show what something is like.",
+          "examples": [
+            "We tried a sample of cheese.",
+            "The shop gave out samples.",
+            "She took a sample of the water."
+          ]
+        },
+        "more": {
+          "def": "A small amount of something that shows what the rest is like.",
+          "examples": [
+            "The grocery store gave out free samples of cheese.",
+            "The scientist took a water sample from the lake.",
+            "He showed a sample of the paint color."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sand",
+    "say": "sand",
+    "emoji": "🏖️",
+    "forms": [
+      "sands",
+      "sanded",
+      "sanding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Tiny bits of rock that cover a beach.",
+          "examples": [
+            "We built a castle in the sand.",
+            "The sand is hot.",
+            "I have sand in my shoes."
+          ]
+        },
+        "more": {
+          "def": "A mass of tiny grains of rock found on beaches and in deserts.",
+          "examples": [
+            "The children dug in the warm sand.",
+            "Wind blew the sand into piles in the desert.",
+            "Sand got into my shoes at the beach."
           ]
         }
       }
@@ -235,6 +535,31 @@
     ]
   },
   {
+    "word": "satisfied",
+    "say": "SAT-iss-fyd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happy with what you got.",
+          "examples": [
+            "I am satisfied with my work.",
+            "She felt satisfied.",
+            "The customer was satisfied."
+          ]
+        },
+        "more": {
+          "def": "Pleased because you have what you need or want.",
+          "examples": [
+            "I am satisfied with my score.",
+            "She felt satisfied after a big dinner.",
+            "The customer was satisfied with the new shoes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "Saturday",
     "say": "SAT-er-day",
     "emoji": "📅",
@@ -258,6 +583,34 @@
             "We go to the market on Saturday.",
             "There is no school on Saturday.",
             "My soccer game is on Saturday morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sauce",
+    "say": "saws",
+    "forms": [
+      "sauces"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thick liquid that you put on food.",
+          "examples": [
+            "I like tomato sauce.",
+            "The sauce is on the pasta.",
+            "Dad made a sauce."
+          ]
+        },
+        "more": {
+          "def": "A thick liquid that is poured over food to give it flavor.",
+          "examples": [
+            "Mom poured tomato sauce on the spaghetti.",
+            "The pizza had a lot of cheese and sauce.",
+            "Dip your fries in the sauce."
           ]
         }
       }

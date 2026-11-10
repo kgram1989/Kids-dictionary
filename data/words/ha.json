@@ -1,5 +1,33 @@
 [
   {
+    "word": "habit",
+    "say": "HAB-it",
+    "forms": [
+      "habits"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you do all the time without thinking.",
+          "examples": [
+            "Brushing my teeth is a habit.",
+            "Biting your nails is a bad habit.",
+            "She has a habit of humming."
+          ]
+        },
+        "more": {
+          "def": "Something you do so often that you do it without thinking.",
+          "examples": [
+            "Brushing your teeth is a good habit.",
+            "He has a habit of biting his nails.",
+            "Reading before bed is a habit of mine."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "habitat",
     "say": "HAB-ih-tat",
     "emoji": "🌳",
@@ -23,6 +51,56 @@
             "The desert is the habitat of many lizards and snakes.",
             "When forests are cut down, animals lose their habitat.",
             "The zoo built a habitat that looks like a snowy mountain."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hail",
+    "say": "hayl",
+    "emoji": "🌨️",
+    "forms": [
+      "hails",
+      "hailed",
+      "hailing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Small balls of ice that fall like rain.",
+          "examples": [
+            "Hail hit the car.",
+            "It is hailing outside.",
+            "The hail was loud."
+          ]
+        },
+        "more": {
+          "def": "Small, hard balls of ice that fall from the sky in a storm.",
+          "examples": [
+            "Hail rattled on the roof.",
+            "The hail was as big as peas.",
+            "The storm brought rain and hail."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To call out to get someone's attention.",
+          "examples": [
+            "I hail a taxi.",
+            "She hailed a cab.",
+            "He hailed his friend."
+          ]
+        },
+        "more": {
+          "def": "To call out or signal to someone to get their attention.",
+          "examples": [
+            "She hailed a taxi on the corner.",
+            "The captain hailed the other ship.",
+            "He hailed his friend across the street."
           ]
         }
       }
@@ -127,6 +205,56 @@
             "The school held its concert in the hall.",
             "A town meeting was held in the hall.",
             "The great hall was full of guests."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hammer",
+    "say": "HAM-er",
+    "emoji": "🔨",
+    "forms": [
+      "hammers",
+      "hammered",
+      "hammering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool for hitting nails.",
+          "examples": [
+            "Dad used a hammer.",
+            "I need a hammer.",
+            "The hammer is heavy."
+          ]
+        },
+        "more": {
+          "def": "A tool with a heavy metal head on a handle, used to hit nails.",
+          "examples": [
+            "Dad hit the nail with a hammer.",
+            "The carpenter held a hammer.",
+            "I hung the picture with a hammer and a nail."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit a nail with a tool.",
+          "examples": [
+            "I hammer the nail.",
+            "He hammered the board.",
+            "They hammered all day."
+          ]
+        },
+        "more": {
+          "def": "To strike something again and again with a heavy tool.",
+          "examples": [
+            "He hammered the nail into the wall.",
+            "She hammered the tent stake into the ground.",
+            "They hammered the boards together."
           ]
         }
       }
@@ -338,6 +466,32 @@
             "A strange thing happened on the way to school today.",
             "Do you know what happens to ice when it gets warm?",
             "The accident happened so quickly that nobody saw it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "happiness",
+    "say": "HAP-ee-niss",
+    "emoji": "😊",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The feeling of being happy.",
+          "examples": [
+            "Her face showed happiness.",
+            "We shouted in happiness.",
+            "The puppy brought happiness to the family."
+          ]
+        },
+        "more": {
+          "def": "The good feeling of being glad and pleased.",
+          "examples": [
+            "The children jumped with happiness on the first day of summer.",
+            "Laughing with friends brings her happiness.",
+            "The kitten brought great happiness to the whole family."
           ]
         }
       }
@@ -583,6 +737,37 @@
             "She wore a straw hat to keep off the sun.",
             "He pulled his wool hat over his ears.",
             "A tall hat sat on the clown's head."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hatch",
+    "say": "hach",
+    "emoji": "🐣",
+    "forms": [
+      "hatches",
+      "hatched",
+      "hatching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To break out of an egg.",
+          "examples": [
+            "The chick will hatch.",
+            "The eggs hatched.",
+            "The baby turtle hatched."
+          ]
+        },
+        "more": {
+          "def": "To come out of an egg, or to make a baby come out of an egg.",
+          "examples": [
+            "The chicks hatched on Monday.",
+            "Sea turtle eggs hatch on the beach.",
+            "The hen sat on the eggs until they hatched."
           ]
         }
       }

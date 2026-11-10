@@ -99,6 +99,61 @@
     ]
   },
   {
+    "word": "anger",
+    "say": "ANG-ger",
+    "emoji": "😠",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong feeling that makes you want to shout or fight.",
+          "examples": [
+            "He shouted in anger.",
+            "Her face was red with anger.",
+            "Anger can make you say mean things."
+          ]
+        },
+        "more": {
+          "def": "A strong, hot feeling that you have when something seems unfair or wrong.",
+          "examples": [
+            "He slammed the door in anger.",
+            "She counted to ten to calm her anger.",
+            "Anger can make you say things you do not mean."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "angle",
+    "say": "ANG-gul",
+    "emoji": "📐",
+    "forms": [
+      "angles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The corner shape where two lines meet.",
+          "examples": [
+            "A square has four angles.",
+            "The angle is sharp.",
+            "The corner of the page is an angle."
+          ]
+        },
+        "more": {
+          "def": "The shape made where two lines or edges meet, measured in degrees.",
+          "examples": [
+            "A square corner is a right angle.",
+            "The two lines made a sharp angle.",
+            "The picture hung at a strange angle."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "angry",
     "say": "ANG-gree",
     "forms": [
@@ -151,6 +206,65 @@
             "Every animal in the zoo gets fed twice a day.",
             "A whale is the biggest animal in the sea.",
             "The farm has many kinds of animals."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "anniversary",
+    "say": "an-ih-VER-suh-ree",
+    "emoji": "🎉",
+    "forms": [
+      "anniversaries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A day you remember each year for something that happened.",
+          "examples": [
+            "It is their wedding anniversary.",
+            "The school is having its tenth anniversary.",
+            "My parents celebrate their anniversary."
+          ]
+        },
+        "more": {
+          "def": "A day that you celebrate every year because something important happened on that date.",
+          "examples": [
+            "My parents celebrate their anniversary with a special dinner.",
+            "The town is having a party for its hundredth anniversary.",
+            "It was the first anniversary of the library opening."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "announce",
+    "say": "uh-NOWNSS",
+    "forms": [
+      "announces",
+      "announced",
+      "announcing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell people something.",
+          "examples": [
+            "The teacher will announce the winner.",
+            "She announced the news.",
+            "The principal announced a holiday."
+          ]
+        },
+        "more": {
+          "def": "To tell people something in a clear and public way.",
+          "examples": [
+            "The principal announced the winner over the loudspeaker.",
+            "The captain announced that we were about to land.",
+            "She announced that dinner was ready."
           ]
         }
       }
@@ -231,6 +345,34 @@
     ]
   },
   {
+    "word": "anxious",
+    "say": "ANGK-shus",
+    "forms": [
+      "anxiously"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Worried and nervous.",
+          "examples": [
+            "I am anxious before a test.",
+            "She felt anxious.",
+            "The dog looked anxious."
+          ]
+        },
+        "more": {
+          "def": "Feeling worried or uneasy about what might happen.",
+          "examples": [
+            "I felt anxious before the big test.",
+            "She was anxious about meeting her new teacher.",
+            "The anxious dog paced by the door."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "any",
     "say": "EN-ee",
     "senses": [
@@ -281,6 +423,31 @@
     ]
   },
   {
+    "word": "anyhow",
+    "say": "EN-ee-how",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In any case.",
+          "examples": [
+            "It rained, but we went anyhow.",
+            "I was tired, but I played anyhow.",
+            "She is shy but sang anyhow."
+          ]
+        },
+        "more": {
+          "def": "In any case, or no matter what.",
+          "examples": [
+            "It was raining, but we went to the park anyhow.",
+            "He was tired, but he finished anyhow.",
+            "I know it is hard, but let's try anyhow."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "anyone",
     "say": "EN-ee-wun",
     "senses": [
@@ -325,6 +492,31 @@
             "You can ask me anything about dinosaurs.",
             "I could not find anything to eat in the cupboard.",
             "He is brave and will try anything once."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "anytime",
+    "say": "EN-ee-tym",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "At any time.",
+          "examples": [
+            "Come over anytime.",
+            "You can call me anytime.",
+            "Visit anytime you like."
+          ]
+        },
+        "more": {
+          "def": "At any time at all, whenever you like.",
+          "examples": [
+            "You can borrow a book from the library anytime.",
+            "Come visit us anytime this summer.",
+            "Call me anytime you need help."
           ]
         }
       }

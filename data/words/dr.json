@@ -30,6 +30,113 @@
     ]
   },
   {
+    "word": "dragon",
+    "say": "DRAG-un",
+    "emoji": "🐉",
+    "forms": [
+      "dragons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big make-believe animal with wings that breathes fire.",
+          "examples": [
+            "The dragon flew over the castle.",
+            "We read a book about a dragon.",
+            "The dragon had green scales."
+          ]
+        },
+        "more": {
+          "def": "A make-believe animal in stories that looks like a giant lizard with wings and can breathe fire.",
+          "examples": [
+            "The knight in the story fought a fierce dragon.",
+            "In many tales, a dragon guards a pile of gold.",
+            "He drew a dragon with red wings and sharp claws."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drain",
+    "say": "drayn",
+    "forms": [
+      "drains",
+      "drained",
+      "draining"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hole that water runs down.",
+          "examples": [
+            "The water goes down the drain.",
+            "The drain is blocked.",
+            "A hair is in the drain."
+          ]
+        },
+        "more": {
+          "def": "A pipe or opening that lets water flow away.",
+          "examples": [
+            "The water ran down the drain.",
+            "The leaves blocked the drain in the street.",
+            "The plumber cleared the drain."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let water run out.",
+          "examples": [
+            "I drain the sink.",
+            "We drained the pool.",
+            "The pasta needs to drain."
+          ]
+        },
+        "more": {
+          "def": "To make liquid flow out of something.",
+          "examples": [
+            "Drain the water from the pasta.",
+            "We drained the bathtub after our bath.",
+            "The rain drained away down the hill."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drama",
+    "say": "DRAH-muh",
+    "emoji": "🎭",
+    "forms": [
+      "dramas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A play or story acted on a stage or screen.",
+          "examples": [
+            "We read a drama in class.",
+            "The drama had a sad ending.",
+            "He likes drama."
+          ]
+        },
+        "more": {
+          "def": "A story performed by actors on a stage, TV or in a movie.",
+          "examples": [
+            "The school put on a drama about a lost dog.",
+            "We watched a TV drama about doctors.",
+            "Her favorite class is drama."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "draw",
     "say": "draw",
     "forms": [
@@ -82,6 +189,63 @@
       {
         "word": "redraw",
         "def": "To draw again."
+      }
+    ]
+  },
+  {
+    "word": "drawer",
+    "say": "DROR",
+    "forms": [
+      "drawers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A box in a table that slides in and out.",
+          "examples": [
+            "The socks are in the drawer.",
+            "Open the drawer.",
+            "The drawer is full of toys."
+          ]
+        },
+        "more": {
+          "def": "A box without a top that slides in and out of a piece of furniture.",
+          "examples": [
+            "The socks are in the top drawer.",
+            "He pulled open the kitchen drawer.",
+            "The desk has three drawers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drawing",
+    "say": "DRAW-ing",
+    "emoji": "✏️",
+    "forms": [
+      "drawings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture you make with a pencil or pen.",
+          "examples": [
+            "I made a drawing of my dog.",
+            "The drawing is on the wall.",
+            "Her drawing is nice."
+          ]
+        },
+        "more": {
+          "def": "A picture made with lines, using a pencil, pen or crayons.",
+          "examples": [
+            "The artist's drawing showed the old barn in great detail.",
+            "Her drawing of the horse hangs on the wall.",
+            "The class put their drawings up in the hall."
+          ]
+        }
       }
     ]
   },
@@ -205,6 +369,102 @@
             "Dress warmly because it is snowing outside.",
             "The twins dressed as pirates for the school party.",
             "It takes the toddler a long time to dress."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dressing",
+    "say": "DRES-ing",
+    "forms": [
+      "dressings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sauce you put on a salad.",
+          "examples": [
+            "I like ranch dressing.",
+            "The salad has dressing.",
+            "She put dressing on the salad."
+          ]
+        },
+        "more": {
+          "def": "A sauce that is put on a salad or other food.",
+          "examples": [
+            "I like ranch dressing on my salad.",
+            "Mom mixed oil and lemon juice to make a dressing.",
+            "He poured the dressing over the lettuce."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drill",
+    "say": "dril",
+    "forms": [
+      "drills",
+      "drilled",
+      "drilling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool that makes holes.",
+          "examples": [
+            "Dad used a drill.",
+            "The drill is loud.",
+            "He bought a new drill."
+          ]
+        },
+        "more": {
+          "def": "A tool with a sharp, spinning end that is used to make holes.",
+          "examples": [
+            "Dad used a drill to put a hole in the wall.",
+            "The dentist's drill makes a buzzing sound.",
+            "The drill went through the wood."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Practice for something you may need to do.",
+          "examples": [
+            "We have a fire drill.",
+            "The class did a safety drill.",
+            "The school has a drill each month."
+          ]
+        },
+        "more": {
+          "def": "Practice that you do over and over so you know what to do in an emergency.",
+          "examples": [
+            "We had a fire drill at school today.",
+            "The class lined up quietly for the drill.",
+            "The drill helps us stay safe."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a hole with a tool.",
+          "examples": [
+            "Dad drilled a hole in the wood.",
+            "He will drill the wall.",
+            "The worker drilled into the rock."
+          ]
+        },
+        "more": {
+          "def": "To make a hole by turning a sharp tool through something.",
+          "examples": [
+            "Dad drilled a hole in the board.",
+            "The workers drilled into the rock.",
+            "She drilled holes for the screws."
           ]
         }
       }
@@ -423,6 +683,36 @@
     ]
   },
   {
+    "word": "drown",
+    "say": "drown",
+    "forms": [
+      "drowns",
+      "drowned",
+      "drowning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To die because you are in water and cannot breathe.",
+          "examples": [
+            "The lifeguard watches so no one will drown.",
+            "A tiny ant almost drowned in a puddle.",
+            "The sailors were saved before they could drown."
+          ]
+        },
+        "more": {
+          "def": "To die by breathing in water because you cannot get air.",
+          "examples": [
+            "Lifeguards are trained to rescue swimmers who might drown.",
+            "The little mouse nearly drowned when it fell in the rain barrel.",
+            "The sailors wore life jackets, so they did not drown when the boat tipped."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drug",
     "say": "drug",
     "emoji": "💊",
@@ -446,6 +736,37 @@
             "The doctor prescribed a drug to fight the infection.",
             "Scientists are testing a new drug for allergies.",
             "Some drugs come as pills and others as liquids."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drum",
+    "say": "drum",
+    "emoji": "🥁",
+    "forms": [
+      "drums",
+      "drummed",
+      "drumming"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round musical instrument that you hit.",
+          "examples": [
+            "I play the drum.",
+            "The drum is loud.",
+            "She hit the drum."
+          ]
+        },
+        "more": {
+          "def": "A hollow instrument that you hit with sticks or your hands to make a beat.",
+          "examples": [
+            "The drum beat fast during the parade.",
+            "He plays the drums in the band.",
+            "She tapped the drum with two sticks."
           ]
         }
       }

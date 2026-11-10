@@ -1,5 +1,33 @@
 [
   {
+    "word": "fabulous",
+    "say": "FAB-yuh-lus",
+    "forms": [
+      "fabulously"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wonderful.",
+          "examples": [
+            "We had a fabulous time.",
+            "The cake was fabulous.",
+            "She wore a fabulous hat."
+          ]
+        },
+        "more": {
+          "def": "Very good, in a way that is almost hard to believe.",
+          "examples": [
+            "We had a fabulous time at the zoo.",
+            "The chef made a fabulous cake.",
+            "The view from the top was fabulous."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "face",
     "say": "fayss",
     "forms": [
@@ -28,6 +56,34 @@
     ]
   },
   {
+    "word": "facility",
+    "say": "fuh-SIL-ih-tee",
+    "forms": [
+      "facilities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A building or place made for a certain use.",
+          "examples": [
+            "The school has a sports facility.",
+            "The park has a picnic facility.",
+            "The facility is open all day."
+          ]
+        },
+        "more": {
+          "def": "A place or building that is made for a particular activity.",
+          "examples": [
+            "The school has a new sports facility.",
+            "The park has a facility for picnics.",
+            "The research facility has many labs."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fact",
     "say": "fakt",
     "forms": [
@@ -50,6 +106,65 @@
             "It is a fact that the Earth goes around the sun.",
             "Check your facts before you share a story.",
             "The librarian told us an amazing fact about octopuses."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "factory",
+    "say": "FAK-ter-ee",
+    "emoji": "🏭",
+    "forms": [
+      "factories"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A building where things are made.",
+          "examples": [
+            "Toys are made in a factory.",
+            "The factory is big.",
+            "Dad works at a factory."
+          ]
+        },
+        "more": {
+          "def": "A large building where workers and machines make things.",
+          "examples": [
+            "Cars are built in a factory.",
+            "The factory makes toys and ships them to stores.",
+            "My uncle works in a bread factory."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fade",
+    "say": "fayd",
+    "forms": [
+      "fades",
+      "faded",
+      "fading"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To lose color or get weaker.",
+          "examples": [
+            "The color will fade.",
+            "The jeans faded.",
+            "The sound faded."
+          ]
+        },
+        "more": {
+          "def": "To slowly lose color, light or strength.",
+          "examples": [
+            "The color of my jeans faded in the sun.",
+            "The music faded as the band walked away.",
+            "The light faded at sunset."
           ]
         }
       }
@@ -99,6 +214,85 @@
             "He failed the quiz and had to take it again.",
             "She did not study, so she failed the test.",
             "Many people fail the test the first time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "failure",
+    "say": "FAYL-yer",
+    "forms": [
+      "failures"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Not succeeding.",
+          "examples": [
+            "The test was a failure.",
+            "My plan was a failure.",
+            "The failure taught me something."
+          ]
+        },
+        "more": {
+          "def": "A time when someone or something does not succeed.",
+          "examples": [
+            "The experiment ended in failure.",
+            "A power failure left the town in the dark.",
+            "Every failure taught him something new."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "faint",
+    "say": "faynt",
+    "forms": [
+      "fainter",
+      "faintest",
+      "faints",
+      "fainted",
+      "fainting"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not strong or clear.",
+          "examples": [
+            "I heard a faint sound.",
+            "The light was faint.",
+            "The smell is faint."
+          ]
+        },
+        "more": {
+          "def": "Hard to see, hear or smell because it is not strong.",
+          "examples": [
+            "We heard a faint sound far away.",
+            "The stars grew faint when the sun came up.",
+            "A faint smell of smoke was in the air."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To suddenly pass out for a short time.",
+          "examples": [
+            "She felt faint and sat down.",
+            "He fainted in the heat.",
+            "I almost fainted."
+          ]
+        },
+        "more": {
+          "def": "To lose your senses for a short time, usually because you feel weak.",
+          "examples": [
+            "He fainted in the hot sun and woke up in the shade.",
+            "She felt dizzy and almost fainted.",
+            "The nurse helped the girl who had fainted."
           ]
         }
       }
@@ -166,6 +360,35 @@
             "We rode the Ferris wheel at the county fair.",
             "The prize pig at the fair won a blue ribbon.",
             "She baked a pie to enter in the fair."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fairy",
+    "say": "FAIR-ee",
+    "emoji": "🧚",
+    "forms": [
+      "fairies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny make-believe person with wings.",
+          "examples": [
+            "The fairy waved a wand.",
+            "I read about a fairy.",
+            "A fairy lives in the flower."
+          ]
+        },
+        "more": {
+          "def": "A tiny make-believe creature in stories, with wings and magic powers.",
+          "examples": [
+            "The fairy waved her wand and made it glow.",
+            "In the story, a fairy lived inside a flower.",
+            "The little girl dressed as a fairy for the party."
           ]
         }
       }
@@ -312,6 +535,40 @@
             "The air gets crisp and cool during the fall."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "false",
+    "say": "fawls",
+    "forms": [
+      "falsely"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not true.",
+          "examples": [
+            "The answer is false.",
+            "The sentence is false.",
+            "That is a false story."
+          ]
+        },
+        "more": {
+          "def": "Not true or not correct.",
+          "examples": [
+            "The answer \"four\" is false because two plus two is not four.",
+            "She told a false story about her dog.",
+            "The sign gave a false warning."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "falsehood",
+        "def": "Something false that is said as true."
       }
     ]
   },
@@ -503,6 +760,35 @@
     ]
   },
   {
+    "word": "fantasy",
+    "say": "FAN-tuh-see",
+    "emoji": "🧙",
+    "forms": [
+      "fantasies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A make-believe story or dream.",
+          "examples": [
+            "I like fantasy books.",
+            "A dragon is in this fantasy.",
+            "He lives in a fantasy world."
+          ]
+        },
+        "more": {
+          "def": "A story or idea that is imagined and could not happen in real life.",
+          "examples": [
+            "She loves fantasy stories about dragons and wizards.",
+            "The movie is a fantasy set in a magical land.",
+            "He lives in a fantasy world in his games."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "far",
     "say": "far",
     "senses": [
@@ -591,6 +877,63 @@
             "They farm the land in the valley.",
             "He farms corn and wheat.",
             "Her family has farmed here for generations."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "farmer",
+    "say": "FAR-mer",
+    "emoji": "🧑‍🌾",
+    "forms": [
+      "farmers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who grows food or raises animals.",
+          "examples": [
+            "The farmer grows corn.",
+            "The farmer milks the cows.",
+            "The farmer drives a tractor."
+          ]
+        },
+        "more": {
+          "def": "A person who grows crops or raises animals on a farm.",
+          "examples": [
+            "The farmer planted corn in the spring.",
+            "A farmer gets up early to milk the cows.",
+            "The farmers sell vegetables at the market."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fashion",
+    "say": "FASH-un",
+    "forms": [
+      "fashions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A style of clothes that many people like.",
+          "examples": [
+            "Her hat is in fashion.",
+            "The fashion changes every year.",
+            "She likes fashion."
+          ]
+        },
+        "more": {
+          "def": "A popular way of dressing or doing something at a certain time.",
+          "examples": [
+            "Bell-bottom pants were in fashion long ago.",
+            "She likes to design clothes and follow fashion.",
+            "Hats came back into fashion this year."
           ]
         }
       }
@@ -688,6 +1031,34 @@
             "Whales have a thick layer of fat that keeps them warm.",
             "Butter and oil are mostly fat.",
             "Bears store fat before the long winter sleep."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fate",
+    "say": "fayt",
+    "forms": [
+      "fates"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What happens to someone in the end.",
+          "examples": [
+            "The sailor's fate was a mystery.",
+            "It was their fate to meet again.",
+            "No one knew the fate of the lost kitten."
+          ]
+        },
+        "more": {
+          "def": "The things that will happen to someone, which some people believe are decided ahead of time.",
+          "examples": [
+            "The old story tells the fate of a brave knight.",
+            "Some people believe fate brought two friends together.",
+            "The fate of the old ship was never found."
           ]
         }
       }

@@ -49,6 +49,34 @@
     ]
   },
   {
+    "word": "ending",
+    "say": "EN-ding",
+    "forms": [
+      "endings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The last part of something.",
+          "examples": [
+            "The story has a happy ending.",
+            "The ending was sad.",
+            "I liked the ending."
+          ]
+        },
+        "more": {
+          "def": "The last part of a story, movie or something else.",
+          "examples": [
+            "The movie's surprising ending kept us talking.",
+            "I did not like the ending of the movie.",
+            "The ending of the word is \"-ing.\""
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "enemy",
     "say": "EN-uh-mee",
     "forms": [
@@ -133,6 +161,53 @@
     ]
   },
   {
+    "word": "engagement",
+    "say": "en-GAYJ-munt",
+    "forms": [
+      "engagements"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A promise to get married.",
+          "examples": [
+            "They announced their engagement.",
+            "The engagement party was fun.",
+            "Their engagement lasted a year."
+          ]
+        },
+        "more": {
+          "def": "An agreement between two people to marry each other.",
+          "examples": [
+            "They announced their engagement at dinner.",
+            "The engagement lasted a year before the wedding.",
+            "My aunt wore her engagement ring."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A promise to be somewhere.",
+          "examples": [
+            "I have a dinner engagement.",
+            "The engagement is at noon.",
+            "She has an engagement at three."
+          ]
+        },
+        "more": {
+          "def": "An arrangement to be somewhere at a certain time.",
+          "examples": [
+            "She has a dinner engagement tonight.",
+            "The singer had an engagement at the theater.",
+            "I cannot come because of a previous engagement."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "engine",
     "say": "EN-jin",
     "forms": [
@@ -174,6 +249,34 @@
             "The engine pulled twenty cars up the hill.",
             "The engine blew its whistle.",
             "The engineer drove the engine slowly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "engineer",
+    "say": "en-juh-NEER",
+    "forms": [
+      "engineers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who plans and builds things like bridges and machines.",
+          "examples": [
+            "My dad is an engineer.",
+            "An engineer designed the bridge.",
+            "The engineer drew a plan."
+          ]
+        },
+        "more": {
+          "def": "A person who designs and builds machines, roads, bridges or other things.",
+          "examples": [
+            "An engineer designed the new bridge.",
+            "My aunt is an engineer who builds robots.",
+            "The engineers tested the model of the airplane."
           ]
         }
       }
@@ -380,6 +483,31 @@
     ]
   },
   {
+    "word": "entertainment",
+    "say": "en-ter-TAYN-munt",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things that people watch or listen to for fun.",
+          "examples": [
+            "The party had entertainment.",
+            "The movie is good entertainment.",
+            "The clown was the entertainment."
+          ]
+        },
+        "more": {
+          "def": "Shows, music, games or other things that people enjoy watching or taking part in.",
+          "examples": [
+            "The party had a magician for entertainment.",
+            "Movies are a popular form of entertainment.",
+            "The band provided the entertainment at the fair."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "entire",
     "say": "en-TYR",
     "senses": [
@@ -399,6 +527,82 @@
             "I read the entire book in one day.",
             "The entire class sang happy birthday.",
             "A storm covered the entire town."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "entrance",
+    "say": "EN-trunss",
+    "emoji": "🚪",
+    "forms": [
+      "entrances"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way in to a place.",
+          "examples": [
+            "The entrance is on the left.",
+            "We met at the entrance.",
+            "The entrance is wide."
+          ]
+        },
+        "more": {
+          "def": "A door or gate that you use to go into a place.",
+          "examples": [
+            "We waited at the entrance to the zoo.",
+            "The cave had a narrow entrance.",
+            "The entrance to the school is on the north side."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "entry",
+    "say": "EN-tree",
+    "forms": [
+      "entries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way in.",
+          "examples": [
+            "The entry is at the side.",
+            "The entry to the cave was small.",
+            "The front entry is open."
+          ]
+        },
+        "more": {
+          "def": "A door or gateway where you go into a place.",
+          "examples": [
+            "The entry to the cave was hidden by bushes.",
+            "We waited at the front entry for our friends.",
+            "The museum has a large entry."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One item in a list or book.",
+          "examples": [
+            "I read the entry in the dictionary.",
+            "Write one entry a day.",
+            "The entry has a picture."
+          ]
+        },
+        "more": {
+          "def": "One item in a list, diary or dictionary.",
+          "examples": [
+            "Each entry in the dictionary has a definition.",
+            "She wrote an entry in her diary.",
+            "I read the entry about frogs."
           ]
         }
       }

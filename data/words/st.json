@@ -1,5 +1,53 @@
 [
   {
+    "word": "stable",
+    "say": "STAY-bul",
+    "emoji": "🐴",
+    "forms": [
+      "stables"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A building where horses are kept.",
+          "examples": [
+            "The horse is in the stable.",
+            "The stable is clean.",
+            "She cleaned the stable."
+          ]
+        },
+        "more": {
+          "def": "A building where horses are kept and cared for.",
+          "examples": [
+            "The horse trotted back to the stable.",
+            "She cleaned the stable each morning.",
+            "The stable smelled of hay."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Steady and not likely to fall.",
+          "examples": [
+            "The ladder is stable.",
+            "The table is stable.",
+            "The chair is stable."
+          ]
+        },
+        "more": {
+          "def": "Firm and steady, not likely to move or change.",
+          "examples": [
+            "The ladder is stable on flat ground.",
+            "The table is stable, so it will not wobble.",
+            "The bridge is stable enough to hold a heavy truck."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "staff",
     "say": "staf",
     "forms": [
@@ -94,6 +142,157 @@
     ]
   },
   {
+    "word": "stairs",
+    "say": "stairz",
+    "emoji": "🪜",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Steps that go from one floor to another.",
+          "examples": [
+            "I walk up the stairs.",
+            "The stairs are steep.",
+            "The cat ran down the stairs."
+          ]
+        },
+        "more": {
+          "def": "A set of steps that you walk up or down to go from one floor to another.",
+          "examples": [
+            "We climbed the stairs to the top floor.",
+            "Be careful on the wet stairs.",
+            "The stairs creak when you step on them."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stake",
+    "say": "stayk",
+    "forms": [
+      "stakes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pointed stick that you push into the ground.",
+          "examples": [
+            "He hammered a stake into the ground.",
+            "The tent is tied to a stake.",
+            "A stake held up the plant."
+          ]
+        },
+        "more": {
+          "def": "A strong, pointed stick or post pushed into the ground to hold something up or in place.",
+          "examples": [
+            "We tied the tent rope to a stake.",
+            "The gardener used a stake to hold up the tall flower.",
+            "He hammered a stake into the ground to mark the spot."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stall",
+    "say": "stawl",
+    "forms": [
+      "stalls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small stand where things are sold.",
+          "examples": [
+            "The fruit stall is busy.",
+            "We bought a hat at the stall.",
+            "The stall sells flowers."
+          ]
+        },
+        "more": {
+          "def": "A small open booth or table where things are sold.",
+          "examples": [
+            "We bought apples at the market stall.",
+            "The flower stall was full of roses.",
+            "A stall sold hot cocoa on the corner."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A space in a barn for one animal.",
+          "examples": [
+            "The horse is in its stall.",
+            "The cow has a stall.",
+            "The stall is clean."
+          ]
+        },
+        "more": {
+          "def": "A small space in a barn or stable for one animal.",
+          "examples": [
+            "The horse stood quietly in its stall.",
+            "Each cow has a stall in the barn.",
+            "She cleaned out the stall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stamp",
+    "say": "stamp",
+    "emoji": "📮",
+    "forms": [
+      "stamps",
+      "stamped",
+      "stamping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small piece of paper you stick on a letter.",
+          "examples": [
+            "I put a stamp on the letter.",
+            "The stamp has a picture.",
+            "I collect stamps."
+          ]
+        },
+        "more": {
+          "def": "A small label that you put on a letter or package to show that you paid to send it.",
+          "examples": [
+            "I put a stamp on the envelope.",
+            "She collects stamps from other countries.",
+            "The stamp had a picture of a bird."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To bring your foot down hard.",
+          "examples": [
+            "I stamp my foot.",
+            "The child stamped.",
+            "He stamped on the floor."
+          ]
+        },
+        "more": {
+          "def": "To put your foot down hard and loudly.",
+          "examples": [
+            "She stamped her foot in anger.",
+            "The horse stamped in the stall.",
+            "He stamped the snow off his boots."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "stand",
     "say": "stand",
     "forms": [
@@ -118,6 +317,53 @@
             "Please stand when the flag goes by.",
             "The old barn stood at the top of the hill.",
             "Flamingos can stand on one leg for a long time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "standard",
+    "say": "STAN-derd",
+    "forms": [
+      "standards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How good something has to be.",
+          "examples": [
+            "The school has high standards.",
+            "This meets the standard.",
+            "Her work is above standard."
+          ]
+        },
+        "more": {
+          "def": "A level of quality that people expect something to reach.",
+          "examples": [
+            "The restaurant has a high standard of cleanliness.",
+            "The cook did not meet the standard for the contest.",
+            "The school has high standards for good behavior."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Usual and normal.",
+          "examples": [
+            "A standard pencil is yellow.",
+            "The standard size is small.",
+            "This is the standard way to do it."
+          ]
+        },
+        "more": {
+          "def": "Normal and regular, and used by most people.",
+          "examples": [
+            "A standard school bus is bright yellow.",
+            "The standard size for the paper is eight by eleven inches.",
+            "Pens come in the standard colors of black, blue and red."
           ]
         }
       }
@@ -264,6 +510,31 @@
             "The runners lined up at the start of the race.",
             "We read the start of the story and wanted to hear more.",
             "The first day of school is a fresh start."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "starving",
+    "say": "STAR-ving",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very, very hungry.",
+          "examples": [
+            "I am starving.",
+            "The starving puppy ate fast.",
+            "We were starving after the hike."
+          ]
+        },
+        "more": {
+          "def": "Suffering because you have not had enough food, or extremely hungry.",
+          "examples": [
+            "I was starving after the long hike.",
+            "The starving puppy gulped down its food.",
+            "We are starving, so let's eat lunch."
           ]
         }
       }
@@ -522,6 +793,35 @@
     ]
   },
   {
+    "word": "steak",
+    "say": "stayk",
+    "emoji": "🥩",
+    "forms": [
+      "steaks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thick, flat piece of meat or fish.",
+          "examples": [
+            "Dad cooked a steak.",
+            "The steak is juicy.",
+            "We ate steak for dinner."
+          ]
+        },
+        "more": {
+          "def": "A thick, flat piece of meat or fish that is cooked and eaten.",
+          "examples": [
+            "Dad grilled a steak for dinner.",
+            "The steak was cut into small pieces.",
+            "We had salmon steak and potatoes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "steal",
     "say": "steel",
     "forms": [
@@ -547,6 +847,80 @@
             "The raccoon tried to steal food from the camp.",
             "In the story, a thief stole the king's crown.",
             "Squirrels sometimes steal seeds from the bird feeder."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "steam",
+    "say": "steem",
+    "forms": [
+      "steams",
+      "steamed",
+      "steaming"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Hot water that has turned to gas.",
+          "examples": [
+            "Steam comes from the kettle.",
+            "The steam is hot.",
+            "A cloud of steam rose."
+          ]
+        },
+        "more": {
+          "def": "The cloud of hot gas that rises from boiling water.",
+          "examples": [
+            "Steam rose from the hot soup.",
+            "The steam fogged up the mirror.",
+            "A cloud of steam came from the kettle."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cook food over boiling water.",
+          "examples": [
+            "I steam the vegetables.",
+            "We steamed the rice.",
+            "She steamed the broccoli."
+          ]
+        },
+        "more": {
+          "def": "To cook food using the hot gas that rises from boiling water.",
+          "examples": [
+            "Mom steamed the vegetables for dinner.",
+            "We steamed the dumplings in a basket.",
+            "The broccoli was steamed until soft."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "steel",
+    "say": "steel",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very strong metal.",
+          "examples": [
+            "The bridge is made of steel.",
+            "Steel is strong.",
+            "The knife is steel."
+          ]
+        },
+        "more": {
+          "def": "A very strong, hard metal made from iron, used to build many things.",
+          "examples": [
+            "The tall building has a frame of steel.",
+            "Steel is used to make bridges.",
+            "The kitchen sink is made of steel."
           ]
         }
       }
@@ -729,6 +1103,106 @@
             "The still water looked like a mirror in the morning light.",
             "Hold still while I take your picture.",
             "The forest was still, with not a sound to be heard."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stink",
+    "say": "stingk",
+    "forms": [
+      "stinks",
+      "stank",
+      "stunk",
+      "stinking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have a very bad smell.",
+          "examples": [
+            "Old fish stinks.",
+            "The garbage stinks.",
+            "My socks stink."
+          ]
+        },
+        "more": {
+          "def": "To give off a very bad smell.",
+          "examples": [
+            "The rotten eggs stank so much we had to open the window.",
+            "A skunk makes the air stink when it is scared.",
+            "Garbage can stink if it is left out in the sun."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very bad smell.",
+          "examples": [
+            "I smell a stink.",
+            "What is that stink?",
+            "The stink was awful."
+          ]
+        },
+        "more": {
+          "def": "A strong, bad smell.",
+          "examples": [
+            "A terrible stink came from the old trash can.",
+            "The stink of a skunk can last for days.",
+            "We opened the windows to let out the stink."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stitch",
+    "say": "stich",
+    "emoji": "🧵",
+    "forms": [
+      "stitches",
+      "stitched",
+      "stitching"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One small line of thread in cloth.",
+          "examples": [
+            "I made a stitch.",
+            "The stitch is small.",
+            "Each stitch is tiny."
+          ]
+        },
+        "more": {
+          "def": "One complete movement of a needle and thread through cloth.",
+          "examples": [
+            "Grandma made tiny, neat stitches along the hem.",
+            "A loose stitch let the button fall off.",
+            "The doctor put a stitch in the cut."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To join cloth with a needle.",
+          "examples": [
+            "I stitch the hole.",
+            "She stitched the button on.",
+            "Grandma stitched a quilt."
+          ]
+        },
+        "more": {
+          "def": "To sew cloth or a cut together with a needle and thread.",
+          "examples": [
+            "Grandma stitched a patch on my jeans.",
+            "She stitched the pieces of the quilt together.",
+            "The doctor stitched the cut on his knee."
           ]
         }
       }
@@ -1051,6 +1525,36 @@
     ]
   },
   {
+    "word": "straighten",
+    "say": "STRAY-tun",
+    "forms": [
+      "straightens",
+      "straightened",
+      "straightening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something straight.",
+          "examples": [
+            "I straighten my tie.",
+            "She straightened the picture.",
+            "He straightened the rug."
+          ]
+        },
+        "more": {
+          "def": "To make something not bent or crooked.",
+          "examples": [
+            "I straightened the picture on the wall.",
+            "He straightened his back and stood tall.",
+            "She straightened the wire."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "strange",
     "say": "straynj",
     "emoji": "👽",
@@ -1171,6 +1675,110 @@
     ]
   },
   {
+    "word": "stress",
+    "say": "stress",
+    "forms": [
+      "stresses",
+      "stressed",
+      "stressing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A worried or tense feeling.",
+          "examples": [
+            "Too much homework causes stress.",
+            "Exercise can ease stress.",
+            "She felt stress before the test."
+          ]
+        },
+        "more": {
+          "def": "A feeling of being worried or tense because of too much to do or think about.",
+          "examples": [
+            "Taking a walk can lower your stress.",
+            "A big test can cause stress for some students.",
+            "Deep breaths helped him cope with stress."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Extra push on part of a word when you say it.",
+          "examples": [
+            "The stress in \"table\" is on the first part.",
+            "Say the word with stress on the first syllable.",
+            "The stress is on \"pen\" in \"pencil.\""
+          ]
+        },
+        "more": {
+          "def": "The extra force you put on one part of a word when you say it.",
+          "examples": [
+            "The stress in the word \"table\" falls on the first syllable.",
+            "Dictionaries show where the stress goes in each word.",
+            "Put the stress on the second part of \"begin.\""
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stretch",
+    "say": "strech",
+    "forms": [
+      "stretches",
+      "stretched",
+      "stretching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something longer or wider.",
+          "examples": [
+            "I stretch the rubber band.",
+            "She stretched her arms.",
+            "The cat stretched."
+          ]
+        },
+        "more": {
+          "def": "To pull something so that it gets longer, or to reach out your body to its full length.",
+          "examples": [
+            "The cat stretched on the rug.",
+            "He stretched the rubber band until it was thin.",
+            "She stretched her arms above her head."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long piece of land or time.",
+          "examples": [
+            "The road has a long stretch of straight.",
+            "A stretch of sand is by the sea.",
+            "It was a long stretch of days."
+          ]
+        },
+        "more": {
+          "def": "A long, unbroken piece of land, road or time.",
+          "examples": [
+            "A stretch of sandy beach lay along the coast.",
+            "The road has a long, straight stretch.",
+            "It was a long stretch without any rain."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "stretchy",
+        "def": "Able to stretch."
+      }
+    ]
+  },
+  {
     "word": "strike",
     "say": "stryk",
     "forms": [
@@ -1214,6 +1822,114 @@
             "The pitcher threw a fast strike over the plate.",
             "Three strikes and the batter is out.",
             "She swung and missed for strike two."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "string",
+    "say": "string",
+    "emoji": "🧵",
+    "forms": [
+      "strings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin cord.",
+          "examples": [
+            "I tied a string around the box.",
+            "The kite has a string.",
+            "The string is long."
+          ]
+        },
+        "more": {
+          "def": "A thin cord made of twisted threads, used for tying things.",
+          "examples": [
+            "She wound the string tightly around the spool.",
+            "The kite flew on a long string.",
+            "The guitar has six strings."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "strip",
+    "say": "strip",
+    "forms": [
+      "strips",
+      "stripped",
+      "stripping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, thin piece of something.",
+          "examples": [
+            "I cut a strip of paper.",
+            "A strip of cloth was tied around it.",
+            "He ate a strip of bacon."
+          ]
+        },
+        "more": {
+          "def": "A long, narrow piece of paper, cloth or other material.",
+          "examples": [
+            "She cut a strip of paper for the bookmark.",
+            "A strip of tape held the box shut.",
+            "He tied a strip of cloth around the post."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stroke",
+    "say": "strohk",
+    "forms": [
+      "strokes",
+      "stroked",
+      "stroking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rub gently with your hand.",
+          "examples": [
+            "She stroked the cat.",
+            "I stroke the dog.",
+            "He stroked the horse."
+          ]
+        },
+        "more": {
+          "def": "To move your hand gently over something again and again.",
+          "examples": [
+            "She stroked the cat's soft fur.",
+            "He stroked the horse's neck.",
+            "Mom stroked my hair."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One movement of a pen, brush or arm.",
+          "examples": [
+            "One stroke of the brush.",
+            "The swimmer takes a stroke.",
+            "The artist made a stroke."
+          ]
+        },
+        "more": {
+          "def": "A single movement of a brush, pen or arm, or one way of swimming.",
+          "examples": [
+            "The artist painted with long strokes of the brush.",
+            "The swimmer took a strong stroke.",
+            "The backstroke is my favorite swimming stroke."
           ]
         }
       }
@@ -1268,6 +1984,55 @@
     ]
   },
   {
+    "word": "struggle",
+    "say": "STRUG-ul",
+    "forms": [
+      "struggles",
+      "struggled",
+      "struggling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To try very hard to do something that is difficult.",
+          "examples": [
+            "I struggle to lift the box.",
+            "She struggled to open the jar.",
+            "The ant struggled with the crumb."
+          ]
+        },
+        "more": {
+          "def": "To try hard to do something that is difficult or to get free.",
+          "examples": [
+            "He struggled to carry all the bags.",
+            "The little bird struggled to get out of the net.",
+            "Some students struggle with math until they practice more."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hard try.",
+          "examples": [
+            "It was a struggle to get up.",
+            "The long walk was a struggle.",
+            "Learning to read was a struggle."
+          ]
+        },
+        "more": {
+          "def": "A hard effort to do something difficult, or a long fight against a problem.",
+          "examples": [
+            "Climbing the steep hill was a struggle.",
+            "It was a struggle to stay awake.",
+            "Their struggle for clean water lasted many years."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "stubborn",
     "say": "STUB-ern",
     "emoji": "🫏",
@@ -1316,6 +2081,35 @@
             "Every student received a new notebook.",
             "The student raised her hand.",
             "The new student sat by the window."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "studio",
+    "say": "STOO-dee-oh",
+    "emoji": "🎨",
+    "forms": [
+      "studios"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A room where an artist works.",
+          "examples": [
+            "The painter has a studio.",
+            "The studio is full of paint.",
+            "She works in her studio."
+          ]
+        },
+        "more": {
+          "def": "A room or building where an artist, musician or photographer works, or where movies and shows are made.",
+          "examples": [
+            "The artist painted in a bright studio with big windows.",
+            "The band recorded its songs in a music studio.",
+            "The photographer set up lights in her studio."
           ]
         }
       }

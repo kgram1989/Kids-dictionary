@@ -28,6 +28,35 @@
     ]
   },
   {
+    "word": "liberty",
+    "say": "LIB-er-tee",
+    "emoji": "🗽",
+    "forms": [
+      "liberties"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Freedom.",
+          "examples": [
+            "The statue stands for liberty.",
+            "People want liberty.",
+            "Liberty is important."
+          ]
+        },
+        "more": {
+          "def": "The freedom to live and make choices without being controlled by others.",
+          "examples": [
+            "The Statue of Liberty stands in New York harbor.",
+            "The people fought for their liberty.",
+            "Liberty means you can choose your own way."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "library",
     "say": "LY-brair-ee",
     "emoji": "📚",
@@ -79,6 +108,37 @@
             "Aunt Rosa has a license to fly planes.",
             "You need a license to go fishing.",
             "The dog's license hangs on its collar."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lick",
+    "say": "lik",
+    "emoji": "👅",
+    "forms": [
+      "licks",
+      "licked",
+      "licking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move your tongue over something.",
+          "examples": [
+            "The dog licks my face.",
+            "I lick the spoon.",
+            "She licked her ice cream."
+          ]
+        },
+        "more": {
+          "def": "To pass your tongue over something.",
+          "examples": [
+            "The dog licked my hand.",
+            "She licked the ice cream cone.",
+            "The cat licked its paw clean."
           ]
         }
       }
@@ -186,6 +246,34 @@
             "Plants and animals are living things, and they all have life.",
             "A tortoise can have a very long life.",
             "Scientists study life in the ocean."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lifetime",
+    "say": "LYF-tym",
+    "forms": [
+      "lifetimes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "All the years someone is alive.",
+          "examples": [
+            "She read many books in her lifetime.",
+            "A lifetime is a long time.",
+            "Dogs live shorter lifetimes than people."
+          ]
+        },
+        "more": {
+          "def": "The whole length of time that a person or thing lives.",
+          "examples": [
+            "Grandma saw many changes in her lifetime.",
+            "The tortoise's lifetime can be over a hundred years.",
+            "A butterfly's lifetime is only a few weeks."
           ]
         }
       }
@@ -373,6 +461,84 @@
     ]
   },
   {
+    "word": "likely",
+    "say": "LYK-lee",
+    "forms": [
+      "likelier",
+      "likeliest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having a good chance to happen.",
+          "examples": [
+            "It is likely to rain.",
+            "She is likely to win.",
+            "He is likely to be late."
+          ]
+        },
+        "more": {
+          "def": "Having a good chance of happening or being true.",
+          "examples": [
+            "It is likely to snow tonight, so bring a coat.",
+            "The team is likely to win after such a good practice.",
+            "A cloudy sky makes rain more likely."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "limit",
+    "say": "LIM-it",
+    "forms": [
+      "limits",
+      "limited",
+      "limiting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The top amount you can have.",
+          "examples": [
+            "The speed limit is twenty-five.",
+            "There is a limit of two cookies.",
+            "The limit is five."
+          ]
+        },
+        "more": {
+          "def": "The point beyond which something may not go.",
+          "examples": [
+            "The speed limit near the school is twenty miles per hour.",
+            "There is a limit of two cookies each.",
+            "The bridge has a weight limit."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To keep something from going past a certain point.",
+          "examples": [
+            "We limit our screen time.",
+            "The teacher limited us to five minutes.",
+            "Dad limits sweets."
+          ]
+        },
+        "more": {
+          "def": "To keep something within a certain amount.",
+          "examples": [
+            "Parents often limit the time kids spend on screens.",
+            "The coach limited practice to one hour.",
+            "We limit ourselves to one cookie each."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "line",
     "say": "lyn",
     "forms": [
@@ -414,6 +580,85 @@
             "We stood in line to buy ice cream.",
             "The children made a line at the classroom door.",
             "A long line of cars waited at the bridge."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "link",
+    "say": "lingk",
+    "emoji": "🔗",
+    "forms": [
+      "links",
+      "linked",
+      "linking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One ring in a chain.",
+          "examples": [
+            "The chain has a broken link.",
+            "Each link is made of metal.",
+            "I counted the links."
+          ]
+        },
+        "more": {
+          "def": "One of the rings or parts that join together to make a chain.",
+          "examples": [
+            "One link in the chain was broken.",
+            "The links of the necklace were gold.",
+            "Each link in the bicycle chain is made of metal."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word you click to go to another page.",
+          "examples": [
+            "Click the link.",
+            "The link takes you to a game.",
+            "She sent me a link."
+          ]
+        },
+        "more": {
+          "def": "A word or picture on a web page that you click to go to another page.",
+          "examples": [
+            "Click the link to read more about whales.",
+            "The teacher sent us a link to a video.",
+            "There is a link at the bottom of the page."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lion",
+    "say": "LY-un",
+    "emoji": "🦁",
+    "forms": [
+      "lions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big wild cat that roars.",
+          "examples": [
+            "The lion roared.",
+            "A male lion has a mane.",
+            "Lions live in groups."
+          ]
+        },
+        "more": {
+          "def": "A large wild cat with golden fur, found in Africa, where the male has a thick mane.",
+          "examples": [
+            "The lion lay in the shade of a tree.",
+            "Lions live in groups called prides.",
+            "A lion's roar can be heard from miles away."
           ]
         }
       }
@@ -557,6 +802,31 @@
     ]
   },
   {
+    "word": "literally",
+    "say": "LIT-er-uh-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Exactly as the words say.",
+          "examples": [
+            "The pizza was literally a mile wide.",
+            "It literally rained for a week.",
+            "He literally jumped for joy."
+          ]
+        },
+        "more": {
+          "def": "In the exact meaning of the words, without any exaggeration.",
+          "examples": [
+            "The sign literally says \"stop.\"",
+            "He literally jumped for joy, right into the air.",
+            "The soup was literally boiling when I took it off the stove."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "little",
     "say": "LIT-ul",
     "senses": [
@@ -625,6 +895,34 @@
             "Some turtles live for more than a hundred years.",
             "Plants need light and water to live.",
             "He lived a long and happy life."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "liver",
+    "say": "LIV-er",
+    "forms": [
+      "livers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A body part that helps clean your blood.",
+          "examples": [
+            "The liver is in your belly.",
+            "Your liver cleans blood.",
+            "The doctor talked about the liver."
+          ]
+        },
+        "more": {
+          "def": "An organ in your body that cleans your blood and helps you digest food.",
+          "examples": [
+            "The liver is a large organ in your belly.",
+            "Your liver helps clean your blood.",
+            "A healthy diet is good for your liver."
           ]
         }
       }

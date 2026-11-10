@@ -1,5 +1,33 @@
 [
   {
+    "word": "culture",
+    "say": "KUL-cher",
+    "forms": [
+      "cultures"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way of life of a group of people.",
+          "examples": [
+            "Each culture has its own food.",
+            "We learned about another culture.",
+            "Music is part of culture."
+          ]
+        },
+        "more": {
+          "def": "The beliefs, customs, art and way of life shared by a group of people.",
+          "examples": [
+            "Each culture has its own foods and holidays.",
+            "We read about the culture of ancient Egypt.",
+            "Art and music are part of every culture."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cup",
     "say": "kup",
     "emoji": "☕",
@@ -129,6 +157,53 @@
     ]
   },
   {
+    "word": "current",
+    "say": "KER-unt",
+    "forms": [
+      "currents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Water or air that moves in one direction.",
+          "examples": [
+            "The river has a strong current.",
+            "A current carried the boat away.",
+            "The ocean current is warm."
+          ]
+        },
+        "more": {
+          "def": "A steady flow of water, air or electricity in one direction.",
+          "examples": [
+            "The strong current carried the leaf downstream.",
+            "Warm ocean currents flow past the island.",
+            "Electric current runs through the wire."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happening now.",
+          "examples": [
+            "The current month is May.",
+            "His current job is baker.",
+            "Who is the current teacher?"
+          ]
+        },
+        "more": {
+          "def": "Happening or being used at the present time.",
+          "examples": [
+            "The current mayor has held the job for six years.",
+            "She told us about the current weather.",
+            "What is your current address?"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "curse",
     "say": "kerss",
     "forms": [
@@ -172,6 +247,34 @@
             "It is rude to curse in front of others.",
             "He cursed when he stubbed his toe.",
             "In the tale, the witch cursed the prince."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "curtain",
+    "say": "KER-tun",
+    "forms": [
+      "curtains"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece of cloth that hangs over a window.",
+          "examples": [
+            "Close the curtain.",
+            "The curtain is blue.",
+            "The curtains are open."
+          ]
+        },
+        "more": {
+          "def": "A piece of cloth that hangs to cover a window or a stage.",
+          "examples": [
+            "Close the curtains so the sun does not wake us.",
+            "The curtain rose and the play began.",
+            "The curtains in my room are blue."
           ]
         }
       }

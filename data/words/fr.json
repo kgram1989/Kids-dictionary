@@ -26,6 +26,37 @@
     ]
   },
   {
+    "word": "frame",
+    "say": "fraym",
+    "emoji": "🖼️",
+    "forms": [
+      "frames",
+      "framed",
+      "framing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A border that goes around a picture or a window.",
+          "examples": [
+            "The picture is in a frame.",
+            "The frame is gold.",
+            "The window frame is wood."
+          ]
+        },
+        "more": {
+          "def": "A border or case that holds a picture, mirror or window, or the main structure of something.",
+          "examples": [
+            "She put the photo in a wooden frame.",
+            "The window frame was painted white.",
+            "The frame of the bike is made of metal."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "free",
     "say": "free",
     "forms": [
@@ -194,6 +225,32 @@
     ]
   },
   {
+    "word": "freezing",
+    "say": "FREE-zing",
+    "emoji": "🥶",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very, very cold.",
+          "examples": [
+            "It is freezing outside.",
+            "My hands are freezing.",
+            "The water was freezing."
+          ]
+        },
+        "more": {
+          "def": "So cold that water could turn to ice.",
+          "examples": [
+            "It was freezing outside, so we wore hats and gloves.",
+            "The freezing wind made my face numb.",
+            "The lake water was freezing."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fresh",
     "say": "fresh",
     "forms": [
@@ -299,6 +356,71 @@
     ]
   },
   {
+    "word": "friendly",
+    "say": "FREND-lee",
+    "emoji": "🤗",
+    "forms": [
+      "friendlier",
+      "friendliest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Kind and nice to others.",
+          "examples": [
+            "The new girl is friendly.",
+            "Our dog is friendly.",
+            "He gave a friendly wave."
+          ]
+        },
+        "more": {
+          "def": "Kind and pleasant, and glad to be with other people.",
+          "examples": [
+            "The friendly neighbor brought us cookies.",
+            "A friendly puppy wagged its tail at every visitor.",
+            "She was friendly to everyone on the first day of school."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "friendliness",
+        "def": "Being friendly."
+      }
+    ]
+  },
+  {
+    "word": "friendship",
+    "say": "FREND-ship",
+    "emoji": "🤝",
+    "forms": [
+      "friendships"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being friends.",
+          "examples": [
+            "Our friendship is strong.",
+            "I value our friendship.",
+            "Friendship is important."
+          ]
+        },
+        "more": {
+          "def": "The close, kind bond between friends.",
+          "examples": [
+            "Their friendship began on the first day of school.",
+            "A good friendship is built on trust and sharing.",
+            "Our friendship has lasted many years."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "frighten",
     "say": "FRY-tun",
     "forms": [
@@ -323,6 +445,61 @@
             "The sudden bang frightened the horses.",
             "The scary movie frightened my little brother.",
             "A sudden shadow frightened the fish away."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frightened",
+    "say": "FRY-tund",
+    "emoji": "😨",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling afraid.",
+          "examples": [
+            "The kitten was frightened.",
+            "I felt frightened in the dark.",
+            "He was frightened by the loud noise."
+          ]
+        },
+        "more": {
+          "def": "Afraid or scared, often because of something sudden.",
+          "examples": [
+            "The frightened rabbit hid in the bush.",
+            "She was frightened by the loud thunder.",
+            "The little boy felt frightened when the lights went out."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frog",
+    "say": "frog",
+    "emoji": "🐸",
+    "forms": [
+      "frogs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small animal that hops and lives near water.",
+          "examples": [
+            "The frog jumped in the pond.",
+            "A frog sat on a lily pad.",
+            "The frog went ribbit."
+          ]
+        },
+        "more": {
+          "def": "A small animal with smooth skin and long back legs that lives near water.",
+          "examples": [
+            "The frog leaped from the log into the pond.",
+            "Frogs start life as tadpoles.",
+            "A green frog croaked by the stream."
           ]
         }
       }
@@ -395,6 +572,98 @@
             "We painted the front door bright red.",
             "The front page of the newspaper had a picture of the parade.",
             "Students in the front row had the best view of the stage."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frozen",
+    "say": "FROH-zun",
+    "emoji": "🧊",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Turned into ice.",
+          "examples": [
+            "The pond is frozen.",
+            "The frozen peas are cold.",
+            "The ground was frozen."
+          ]
+        },
+        "more": {
+          "def": "Hard like ice because of cold, or kept very cold.",
+          "examples": [
+            "The pond is frozen solid.",
+            "I ate a frozen yogurt.",
+            "The frozen ground was hard to dig."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unfrozen",
+        "def": "Not frozen."
+      }
+    ]
+  },
+  {
+    "word": "fruit",
+    "say": "froot",
+    "emoji": "🍎",
+    "forms": [
+      "fruits"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet food that grows on trees or plants, like an apple.",
+          "examples": [
+            "I eat fruit for a snack.",
+            "An apple is a fruit.",
+            "The fruit is ripe."
+          ]
+        },
+        "more": {
+          "def": "The sweet part of a plant that holds seeds, such as an apple or a berry.",
+          "examples": [
+            "Apples, bananas and peaches are all fruit.",
+            "Birds eat the fruit from the tree.",
+            "She put fresh fruit in her cereal."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fry",
+    "say": "fry",
+    "emoji": "🍳",
+    "forms": [
+      "fries",
+      "fried",
+      "frying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cook food in hot oil.",
+          "examples": [
+            "Mom will fry an egg.",
+            "We fried the fish.",
+            "Fry the potatoes."
+          ]
+        },
+        "more": {
+          "def": "To cook food in a pan with hot oil or butter.",
+          "examples": [
+            "Dad fried eggs for breakfast.",
+            "Fry the onions until they are soft.",
+            "We fried the potatoes in a pan."
           ]
         }
       }

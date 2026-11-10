@@ -49,6 +49,83 @@
     ]
   },
   {
+    "word": "loan",
+    "say": "lohn",
+    "forms": [
+      "loans",
+      "loaned",
+      "loaning"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money or things you borrow.",
+          "examples": [
+            "I asked for a loan.",
+            "The bank gave Dad a loan.",
+            "The loan of a book was free."
+          ]
+        },
+        "more": {
+          "def": "Something that is lent to a person, especially money that must be paid back.",
+          "examples": [
+            "Mom got a loan from the bank to buy a car.",
+            "The museum arranged a loan of the painting for the show.",
+            "A library gives you a loan of a book for two weeks."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To lend something to someone.",
+          "examples": [
+            "I will loan you my pen.",
+            "She loaned me a book.",
+            "Can you loan me a dollar?"
+          ]
+        },
+        "more": {
+          "def": "To lend something to someone for a short time.",
+          "examples": [
+            "He loaned his bike to his neighbor for the weekend.",
+            "The library will loan you a book for two weeks.",
+            "She loaned her cousin a coat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lobby",
+    "say": "LOB-ee",
+    "forms": [
+      "lobbies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large room at the entrance of a building.",
+          "examples": [
+            "We waited in the lobby.",
+            "The hotel lobby is big.",
+            "The lobby has a fountain."
+          ]
+        },
+        "more": {
+          "def": "A big room just inside the entrance of a hotel, theater or other building.",
+          "examples": [
+            "We waited in the hotel lobby for our room.",
+            "Tickets were sold in the theater lobby.",
+            "The lobby had a fountain and a few chairs."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "local",
     "say": "LOH-kul",
     "senses": [
@@ -68,6 +145,65 @@
             "We shop at the local market.",
             "The local team won the game.",
             "The local library has story time every week."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "locate",
+    "say": "LOH-kayt",
+    "forms": [
+      "locates",
+      "located",
+      "locating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To find where something is.",
+          "examples": [
+            "Can you locate the park on the map?",
+            "I could not locate my shoe.",
+            "She located the key."
+          ]
+        },
+        "more": {
+          "def": "To find the exact place where something is.",
+          "examples": [
+            "Use the map to locate the park.",
+            "The rescuers located the lost hikers.",
+            "He tried to locate the missing key."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "location",
+    "say": "loh-KAY-shun",
+    "emoji": "📍",
+    "forms": [
+      "locations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The place where something is.",
+          "examples": [
+            "The map shows the location of the park.",
+            "What is the location of the school?",
+            "This is a good location for a tent."
+          ]
+        },
+        "more": {
+          "def": "The particular place where someone or something can be found.",
+          "examples": [
+            "The treasure map marked the exact location of the chest.",
+            "The new library is in a handy location near the bus stop.",
+            "Campers chose a flat location near the stream."
           ]
         }
       }
@@ -120,6 +256,90 @@
             "He locked the box and hid the key."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "locker",
+    "say": "LOK-er",
+    "forms": [
+      "lockers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small closet with a lock where you keep things.",
+          "examples": [
+            "I put my coat in my locker.",
+            "The locker is blue.",
+            "My locker is by the door."
+          ]
+        },
+        "more": {
+          "def": "A small cupboard with a door that locks, used to store coats and books.",
+          "examples": [
+            "I keep my coat and books in my locker.",
+            "The gym lockers were painted blue.",
+            "He spun the lock on his locker."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "log",
+    "say": "log",
+    "emoji": "🪵",
+    "forms": [
+      "logs",
+      "logged",
+      "logging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thick piece cut from a tree.",
+          "examples": [
+            "We put a log on the fire.",
+            "A log is in the river.",
+            "He sat on a log."
+          ]
+        },
+        "more": {
+          "def": "A thick, heavy piece cut from a tree trunk or a branch.",
+          "examples": [
+            "Dad put another log on the fire.",
+            "We sat on a log by the stream.",
+            "A beaver dragged a log to its dam."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A list of what happened.",
+          "examples": [
+            "The captain kept a log.",
+            "I keep a reading log.",
+            "Write it in the log."
+          ]
+        },
+        "more": {
+          "def": "A written record of events or activities, kept as time goes on.",
+          "examples": [
+            "The ship's captain wrote in the log every day.",
+            "I keep a reading log of every book I finish.",
+            "The scientist kept a log of the weather."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "logger",
+        "def": "A worker who cuts down trees."
       }
     ]
   },
@@ -469,6 +689,35 @@
             "The thunder was so loud that it shook the windows.",
             "The loud music filled the gym.",
             "The baby gave a loud cry."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lousy",
+    "say": "LOW-zee",
+    "forms": [
+      "lousier",
+      "lousiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very bad.",
+          "examples": [
+            "I had a lousy day.",
+            "The soup tasted lousy.",
+            "This is a lousy song."
+          ]
+        },
+        "more": {
+          "def": "Of very low quality, bad or poor.",
+          "examples": [
+            "We had a lousy day, since it rained and the car broke down.",
+            "The pizza was lousy and cold.",
+            "He felt lousy because he had a cold."
           ]
         }
       }

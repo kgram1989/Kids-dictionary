@@ -1,5 +1,33 @@
 [
   {
+    "word": "phase",
+    "say": "fayz",
+    "forms": [
+      "phases"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One stage of something that changes.",
+          "examples": [
+            "The moon is in a new phase.",
+            "This is a new phase.",
+            "The first phase is done."
+          ]
+        },
+        "more": {
+          "def": "One of the steps or stages of something that changes over time.",
+          "examples": [
+            "The moon goes through many phases each month.",
+            "A caterpillar is one phase in a butterfly's life.",
+            "The first phase of the project is finished."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "phone",
     "say": "fohn",
     "forms": [
@@ -53,6 +81,64 @@
             "I took a photo of the sunset.",
             "Grandma has a photo of me on the wall.",
             "The photo shows our whole family."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "photograph",
+    "say": "FOH-tuh-graf",
+    "emoji": "📷",
+    "forms": [
+      "photographs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture made with a camera.",
+          "examples": [
+            "I took a photograph of my cat.",
+            "The photograph is on the wall.",
+            "This photograph shows our trip."
+          ]
+        },
+        "more": {
+          "def": "A picture taken with a camera.",
+          "examples": [
+            "The photograph shows our family at the beach.",
+            "She hung a framed photograph of her grandmother on the wall.",
+            "The photograph captured the sunset in bright colors."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "physical",
+    "say": "FIZ-ih-kul",
+    "emoji": "🏃",
+    "forms": [
+      "physically"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with your body.",
+          "examples": [
+            "Running is a physical activity.",
+            "Exercise is good for your physical health.",
+            "He has a physical job."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the body, or with real things that you can touch.",
+          "examples": [
+            "Gym class is a time for physical exercise.",
+            "A broken arm is a physical injury.",
+            "A rock is a physical object, but a dream is not."
           ]
         }
       }

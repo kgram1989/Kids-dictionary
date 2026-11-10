@@ -44,6 +44,42 @@
     ]
   },
   {
+    "word": "publish",
+    "say": "PUB-lish",
+    "forms": [
+      "publishes",
+      "published",
+      "publishing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To print and sell books or news.",
+          "examples": [
+            "They publish books.",
+            "The newspaper published the story.",
+            "She published a book."
+          ]
+        },
+        "more": {
+          "def": "To print and sell a book, magazine or news so that people can read it.",
+          "examples": [
+            "The company published my favorite book.",
+            "The newspaper published the story on Friday.",
+            "She published a book about whales."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "publisher",
+        "def": "A company or person that publishes books."
+      }
+    ]
+  },
+  {
     "word": "pull",
     "say": "puul",
     "forms": [
@@ -68,6 +104,84 @@
             "Please pull the door instead of pushing it.",
             "The horses pulled the wagon up the hill.",
             "She pulled a weed out of the garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pulse",
+    "say": "pulss",
+    "emoji": "❤️",
+    "forms": [
+      "pulses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The beat of your heart that you can feel in your wrist.",
+          "examples": [
+            "The nurse felt my pulse.",
+            "My pulse is fast after running.",
+            "I felt my pulse in my neck."
+          ]
+        },
+        "more": {
+          "def": "The steady beat of blood pushed through your body by your heart, which you can feel in your wrist or neck.",
+          "examples": [
+            "The nurse counted my pulse for one minute.",
+            "Your pulse speeds up when you run.",
+            "I put my fingers on my wrist to find my pulse."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pump",
+    "say": "pump",
+    "forms": [
+      "pumps",
+      "pumped",
+      "pumping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that moves water or air.",
+          "examples": [
+            "We use a pump to put air in the tire.",
+            "The pump brings water to the house.",
+            "Dad used a pump for the ball."
+          ]
+        },
+        "more": {
+          "def": "A machine or tool that moves water, air or other liquids from one place to another.",
+          "examples": [
+            "I used a bike pump to fill the tire with air.",
+            "The pump moves water up from the well.",
+            "A fire truck has a strong pump."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move water or air with a machine.",
+          "examples": [
+            "Pump the water.",
+            "I pumped air into the ball.",
+            "He pumps the tire."
+          ]
+        },
+        "more": {
+          "def": "To push air or liquid along in a steady flow, as a machine or a heart does.",
+          "examples": [
+            "She pumped up the bike tire.",
+            "The heart pumps blood all around the body.",
+            "The farmer pumped water into the trough."
           ]
         }
       }
@@ -142,6 +256,123 @@
     ]
   },
   {
+    "word": "punish",
+    "say": "PUN-ish",
+    "forms": [
+      "punishes",
+      "punished",
+      "punishing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone have a bad result for doing wrong.",
+          "examples": [
+            "Mom did not punish me.",
+            "The teacher punishes cheating.",
+            "They punished the player."
+          ]
+        },
+        "more": {
+          "def": "To give someone a penalty for something they did wrong.",
+          "examples": [
+            "The coach punished the team by making them run extra laps.",
+            "It is not fair to punish a child for something they did not do.",
+            "The judge punished the thief."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "punishment",
+    "say": "PUN-ish-munt",
+    "forms": [
+      "punishments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What happens to you for doing something wrong.",
+          "examples": [
+            "The punishment was fair.",
+            "Her punishment was to clean up.",
+            "A punishment taught him a lesson."
+          ]
+        },
+        "more": {
+          "def": "A penalty that is given to someone who has done something wrong.",
+          "examples": [
+            "His punishment for being rude was to say sorry.",
+            "A fair punishment teaches a lesson without being cruel.",
+            "The coach said running laps was not a punishment, but practice."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "puppy",
+    "say": "PUP-ee",
+    "emoji": "🐶",
+    "forms": [
+      "puppies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A young dog.",
+          "examples": [
+            "The puppy is cute.",
+            "I have a new puppy.",
+            "The puppy chews my shoes."
+          ]
+        },
+        "more": {
+          "def": "A baby dog.",
+          "examples": [
+            "The puppy chased its tail.",
+            "Our puppy is learning to sit.",
+            "The puppies slept in a pile."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pure",
+    "say": "pyoor",
+    "forms": [
+      "purer",
+      "purest",
+      "purely"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Clean, with nothing else mixed in.",
+          "examples": [
+            "The water is pure.",
+            "This is pure gold.",
+            "The air in the mountains is pure."
+          ]
+        },
+        "more": {
+          "def": "Clean and clear, with nothing added or mixed in.",
+          "examples": [
+            "The pure white snow sparkled in the sun.",
+            "The ring was made of pure gold.",
+            "The spring gives pure water."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "purpose",
     "say": "PER-pus",
     "forms": [
@@ -172,6 +403,35 @@
       {
         "word": "purposeful",
         "def": "Having a clear purpose."
+      }
+    ]
+  },
+  {
+    "word": "purse",
+    "say": "pers",
+    "emoji": "👛",
+    "forms": [
+      "purses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small bag for money and small things.",
+          "examples": [
+            "Mom put her keys in her purse.",
+            "The purse is red.",
+            "She opened her purse."
+          ]
+        },
+        "more": {
+          "def": "A small bag that holds money, keys and other small things.",
+          "examples": [
+            "She tucked her wallet and her phone into her purse.",
+            "The girl kept her coins in a tiny purse.",
+            "She found a tissue in her purse."
+          ]
+        }
       }
     ]
   },

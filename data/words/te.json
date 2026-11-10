@@ -89,6 +89,34 @@
     ]
   },
   {
+    "word": "teaching",
+    "say": "TEE-ching",
+    "forms": [
+      "teachings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The work of helping people learn.",
+          "examples": [
+            "Teaching is a good job.",
+            "My aunt loves teaching.",
+            "Her teaching is fun."
+          ]
+        },
+        "more": {
+          "def": "The job or act of helping other people learn.",
+          "examples": [
+            "My aunt loves teaching second grade.",
+            "The teacher's teaching made math easy.",
+            "Teaching is a job that needs patience."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "team",
     "say": "teem",
     "emoji": "🏅",
@@ -182,6 +210,35 @@
             "There is a long tear in my backpack.",
             "She sewed up a tear in her sleeve.",
             "A tear in the page made it hard to read."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "technology",
+    "say": "tek-NOL-uh-jee",
+    "emoji": "💻",
+    "forms": [
+      "technologies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Machines and tools that people make to do jobs.",
+          "examples": [
+            "Computers are technology.",
+            "Technology helps us.",
+            "We use technology in school."
+          ]
+        },
+        "more": {
+          "def": "Tools, machines and ideas that people have made to solve problems.",
+          "examples": [
+            "Computers and phones are technology.",
+            "New technology helps doctors treat people.",
+            "The class learned how technology has changed."
           ]
         }
       }
@@ -305,6 +362,34 @@
     ]
   },
   {
+    "word": "temper",
+    "say": "TEM-per",
+    "forms": [
+      "tempers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How quickly you get angry.",
+          "examples": [
+            "He has a bad temper.",
+            "She lost her temper.",
+            "Keep your temper."
+          ]
+        },
+        "more": {
+          "def": "The way you act when you are upset, especially how quickly you get angry.",
+          "examples": [
+            "He has a bad temper when he is tired.",
+            "She lost her temper and shouted.",
+            "Count to ten to keep your temper."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "temperature",
     "say": "TEM-per-uh-cher",
     "emoji": "🌡️",
@@ -334,6 +419,82 @@
     ]
   },
   {
+    "word": "temple",
+    "say": "TEM-pul",
+    "emoji": "🛕",
+    "forms": [
+      "temples"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A building for worship.",
+          "examples": [
+            "They went to the temple.",
+            "The temple is old.",
+            "The temple has golden walls."
+          ]
+        },
+        "more": {
+          "def": "A building where people go to pray or worship.",
+          "examples": [
+            "They prayed at the temple.",
+            "An ancient temple stood on the hill.",
+            "The temple was covered with beautiful carvings."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The side of your head, next to your eye.",
+          "examples": [
+            "I rubbed my temples.",
+            "He has a headache in his temple.",
+            "She touched her temple."
+          ]
+        },
+        "more": {
+          "def": "The flat part on each side of your head between your forehead and your ear.",
+          "examples": [
+            "He rubbed his temples to ease his headache.",
+            "The glasses rested against her temples.",
+            "A vein pulsed in his temple."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "temporary",
+    "say": "TEM-puh-rair-ee",
+    "forms": [
+      "temporarily"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Lasting only for a short time.",
+          "examples": [
+            "The sign is temporary.",
+            "We have a temporary house.",
+            "The fix is temporary."
+          ]
+        },
+        "more": {
+          "def": "Lasting for a short time and not forever.",
+          "examples": [
+            "The sign is only temporary and will be taken down soon.",
+            "We stayed in a temporary shelter during the storm.",
+            "The rain was a temporary problem."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ten",
     "say": "ten",
     "emoji": "🔟",
@@ -354,6 +515,91 @@
             "A dime is worth ten cents.",
             "She counted by tens up to a hundred.",
             "The cookies bake for ten minutes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tend",
+    "say": "tend",
+    "forms": [
+      "tends",
+      "tended",
+      "tending"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take care of something.",
+          "examples": [
+            "I tend the garden.",
+            "She tends the sheep.",
+            "He tends the fire."
+          ]
+        },
+        "more": {
+          "def": "To look after something, or to be likely to do something.",
+          "examples": [
+            "The farmer tends the sheep.",
+            "She tends the garden every morning.",
+            "Cats tend to sleep a lot."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tennis",
+    "say": "TEN-iss",
+    "emoji": "🎾",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A game where you hit a ball over a net with a racket.",
+          "examples": [
+            "I play tennis.",
+            "We watched tennis.",
+            "Tennis is fun."
+          ]
+        },
+        "more": {
+          "def": "A game in which two or four players hit a ball over a net with rackets.",
+          "examples": [
+            "I play tennis on Saturdays.",
+            "The tennis ball bounced over the net.",
+            "They won the tennis match."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tent",
+    "say": "tent",
+    "emoji": "⛺",
+    "forms": [
+      "tents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shelter you sleep in outside.",
+          "examples": [
+            "We slept in a tent.",
+            "The tent is blue.",
+            "Dad put up the tent."
+          ]
+        },
+        "more": {
+          "def": "A shelter made of cloth that is held up by poles and used outdoors.",
+          "examples": [
+            "We slept in a tent at the campground.",
+            "Dad put up the tent beside the lake.",
+            "The circus tent was red and white."
           ]
         }
       }
@@ -457,6 +703,34 @@
     ]
   },
   {
+    "word": "territory",
+    "say": "TAIR-ih-tor-ee",
+    "forms": [
+      "territories"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Land that belongs to a person, animal or country.",
+          "examples": [
+            "The lion guards its territory.",
+            "The territory is large.",
+            "The bird defends its territory."
+          ]
+        },
+        "more": {
+          "def": "An area of land that belongs to one person, animal or country.",
+          "examples": [
+            "The lion protected its territory.",
+            "The explorers entered new territory.",
+            "Each wolf pack has its own territory."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "test",
     "say": "test",
     "emoji": "📝",
@@ -509,6 +783,64 @@
       {
         "word": "retest",
         "def": "To test again."
+      }
+    ]
+  },
+  {
+    "word": "testify",
+    "say": "TES-tih-fy",
+    "forms": [
+      "testifies",
+      "testified",
+      "testifying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell what you know in a court of law.",
+          "examples": [
+            "The man will testify in court.",
+            "She testified at the trial.",
+            "He testified that he saw it."
+          ]
+        },
+        "more": {
+          "def": "To say what you saw or know in a court, as a witness.",
+          "examples": [
+            "The witness testified about what she saw.",
+            "He testified that he heard a loud noise.",
+            "The girl was asked to testify in court."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "testimony",
+    "say": "TES-tuh-moh-nee",
+    "forms": [
+      "testimonies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What someone says in court.",
+          "examples": [
+            "The witness gave her testimony.",
+            "His testimony was clear.",
+            "The judge listened to her testimony."
+          ]
+        },
+        "more": {
+          "def": "A statement that a person says in a court of law after promising to tell the truth.",
+          "examples": [
+            "The witness gave her testimony in court.",
+            "His testimony helped the judge decide.",
+            "Her testimony was calm and clear."
+          ]
+        }
       }
     ]
   }

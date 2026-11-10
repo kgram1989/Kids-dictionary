@@ -1,5 +1,187 @@
 [
   {
+    "word": "flag",
+    "say": "flag",
+    "emoji": "🚩",
+    "forms": [
+      "flags"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece of cloth with colors or a picture on it.",
+          "examples": [
+            "The flag is red, white and blue.",
+            "We raise the flag at school.",
+            "The flag waves in the wind."
+          ]
+        },
+        "more": {
+          "def": "A piece of cloth with colors and shapes, used as a sign of a country, group or idea.",
+          "examples": [
+            "The flag of our country flies over the school.",
+            "The race started when the judge dropped a flag.",
+            "Sailors fly a flag from the top of the ship."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flame",
+    "say": "flaym",
+    "emoji": "🔥",
+    "forms": [
+      "flames"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The bright, hot part of a fire.",
+          "examples": [
+            "The candle has a flame.",
+            "The flame is hot.",
+            "The flame went out."
+          ]
+        },
+        "more": {
+          "def": "The glowing, hot part of a fire that you can see.",
+          "examples": [
+            "The candle flame flickered in the wind.",
+            "Flames danced in the fireplace.",
+            "The firefighters put out the flames."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flash",
+    "say": "flash",
+    "emoji": "⚡",
+    "forms": [
+      "flashes",
+      "flashed",
+      "flashing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A quick bright light.",
+          "examples": [
+            "I saw a flash of lightning.",
+            "The camera made a flash.",
+            "A flash lit the sky."
+          ]
+        },
+        "more": {
+          "def": "A sudden, short burst of bright light.",
+          "examples": [
+            "A flash of lightning lit up the sky.",
+            "The camera flash made me blink.",
+            "A firefly gave a flash and was gone."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shine suddenly and quickly.",
+          "examples": [
+            "The light flashed.",
+            "The sign flashed on and off.",
+            "Lightning flashes."
+          ]
+        },
+        "more": {
+          "def": "To give off a quick, bright light, or to move very fast.",
+          "examples": [
+            "The lighthouse flashed a warning at sea.",
+            "A fish flashed through the water.",
+            "The police car flashed its lights."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flat",
+    "say": "flat",
+    "forms": [
+      "flatter",
+      "flattest",
+      "flats"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Smooth and even, with no bumps.",
+          "examples": [
+            "The table is flat.",
+            "Kansas is very flat.",
+            "I lay on the flat rock."
+          ]
+        },
+        "more": {
+          "def": "Smooth and level, with no hills or bumps.",
+          "examples": [
+            "The farmers planted wheat on the flat land.",
+            "A flat stone makes a good seat.",
+            "The road across the desert is long and flat."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having no air in it.",
+          "examples": [
+            "My bike tire is flat.",
+            "The ball went flat.",
+            "We had a flat tire."
+          ]
+        },
+        "more": {
+          "def": "Without enough air inside, so that it is not round or firm.",
+          "examples": [
+            "The bike was slow because the back tire was flat.",
+            "The flat basketball would not bounce.",
+            "Dad fixed the flat tire at the side of the road."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flesh",
+    "say": "flesh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The soft part of your body or an animal's body, under the skin.",
+          "examples": [
+            "The doctor looked at the flesh.",
+            "Flesh is soft.",
+            "Bones are covered in flesh."
+          ]
+        },
+        "more": {
+          "def": "The soft part of a body between the skin and the bones, or the soft part of a fruit.",
+          "examples": [
+            "A cut went through the skin into the flesh.",
+            "The flesh of the peach was soft and sweet.",
+            "Bones are covered by muscle and flesh."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "flexible",
     "say": "FLEK-suh-bul",
     "senses": [
@@ -74,6 +256,36 @@
       {
         "word": "flightless",
         "def": "Not able to fly."
+      }
+    ]
+  },
+  {
+    "word": "flip",
+    "say": "flip",
+    "forms": [
+      "flips",
+      "flipped",
+      "flipping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To turn over quickly.",
+          "examples": [
+            "Flip the pancake.",
+            "I flipped the card.",
+            "She flipped the page."
+          ]
+        },
+        "more": {
+          "def": "To turn something over quickly, or to toss it into the air so it turns over.",
+          "examples": [
+            "Dad flipped the pancake in the pan.",
+            "I flipped the card over to see the picture.",
+            "She flipped a coin to decide who went first."
+          ]
+        }
       }
     ]
   },
@@ -156,6 +368,55 @@
     ]
   },
   {
+    "word": "flow",
+    "say": "floh",
+    "forms": [
+      "flows",
+      "flowed",
+      "flowing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move along smoothly, like water.",
+          "examples": [
+            "Water flows in the stream.",
+            "The river flows to the sea.",
+            "Honey flows slowly."
+          ]
+        },
+        "more": {
+          "def": "To move along smoothly in one direction, as water does.",
+          "examples": [
+            "The stream flows past the old mill.",
+            "Water flowed out of the tap.",
+            "Cars flowed along the highway."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A steady stream of something.",
+          "examples": [
+            "The flow of the river is slow.",
+            "There was a flow of water.",
+            "A flow of cars passed."
+          ]
+        },
+        "more": {
+          "def": "A steady movement of something, such as water or people.",
+          "examples": [
+            "The flow of the river slowed in summer.",
+            "A flow of people left the stadium.",
+            "The nurse watched the flow of water into the cup."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "flower",
     "say": "FLOW-er",
     "emoji": "🌸",
@@ -179,6 +440,55 @@
             "A bee landed on the yellow flower.",
             "The garden is full of flowers.",
             "She picked a flower for her teacher."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flush",
+    "say": "flush",
+    "forms": [
+      "flushes",
+      "flushed",
+      "flushing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To clean with a rush of water.",
+          "examples": [
+            "I flush the toilet.",
+            "The pipes flushed.",
+            "Please flush."
+          ]
+        },
+        "more": {
+          "def": "To clean something out with a strong rush of water.",
+          "examples": [
+            "Please flush the toilet when you finish.",
+            "The plumber flushed the pipes with water.",
+            "Rain flushed the dirt from the street."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To turn red in the face.",
+          "examples": [
+            "Her face flushed.",
+            "He flushed with shame.",
+            "I flushed with embarrassment."
+          ]
+        },
+        "more": {
+          "def": "To become red in the face, because of feeling hot or embarrassed.",
+          "examples": [
+            "His face flushed when everyone looked at him.",
+            "She flushed with embarrassment.",
+            "Her cheeks flushed from the cold."
           ]
         }
       }

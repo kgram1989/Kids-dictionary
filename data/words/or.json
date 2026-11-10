@@ -25,6 +25,54 @@
     ]
   },
   {
+    "word": "orange",
+    "say": "OR-inj",
+    "emoji": "🍊",
+    "forms": [
+      "oranges"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round fruit with a thick skin and sweet juice.",
+          "examples": [
+            "I peel an orange.",
+            "The orange is juicy.",
+            "Oranges grow on trees."
+          ]
+        },
+        "more": {
+          "def": "A round, juicy fruit with a bright skin that grows on trees in warm places.",
+          "examples": [
+            "She peeled the orange and shared the pieces.",
+            "Oranges are full of vitamin C.",
+            "He squeezed three oranges to make juice."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A color that is between red and yellow.",
+          "examples": [
+            "My shirt is orange.",
+            "The leaves turn orange in fall.",
+            "Orange is a bright color."
+          ]
+        },
+        "more": {
+          "def": "The bright color of a carrot or a pumpkin, between red and yellow.",
+          "examples": [
+            "The sunset turned the sky orange and pink.",
+            "Pumpkins are orange in the fall.",
+            "She painted the fish bright orange."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "orbit",
     "say": "OR-bit",
     "emoji": "🪐",
@@ -153,6 +201,81 @@
             "It looked like an ordinary rock, but there was a crystal inside.",
             "On an ordinary morning, I wake up at seven.",
             "The hero of the story is an ordinary girl who does something brave."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "organ",
+    "say": "OR-gun",
+    "forms": [
+      "organs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of the body that does a job.",
+          "examples": [
+            "The heart is an organ.",
+            "Your lungs are organs.",
+            "The organ pumps blood."
+          ]
+        },
+        "more": {
+          "def": "A part of the body that does a special job, such as the heart or lungs.",
+          "examples": [
+            "The heart is an organ that pumps blood.",
+            "Your lungs and kidneys are organs.",
+            "The brain is the body's main organ."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large musical instrument with pipes and keys.",
+          "examples": [
+            "The organ is in the church.",
+            "He plays the organ.",
+            "The organ sounds deep."
+          ]
+        },
+        "more": {
+          "def": "A big musical instrument with pipes and a keyboard that makes a deep, rich sound.",
+          "examples": [
+            "The organ in the church played a slow song.",
+            "He practiced on the pipe organ.",
+            "The organ filled the hall with deep music."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "organization",
+    "say": "or-guh-nuh-ZAY-shun",
+    "forms": [
+      "organizations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of people who work together for a purpose.",
+          "examples": [
+            "The organization helps animals.",
+            "She works for a big organization.",
+            "The organization raised money."
+          ]
+        },
+        "more": {
+          "def": "A group of people who join together to do something, such as a club or business.",
+          "examples": [
+            "The organization helps animals find homes.",
+            "She works for an organization that cleans rivers.",
+            "The organization raised money for the school."
           ]
         }
       }

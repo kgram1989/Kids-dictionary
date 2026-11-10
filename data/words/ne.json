@@ -73,6 +73,42 @@
     ]
   },
   {
+    "word": "neat",
+    "say": "neet",
+    "forms": [
+      "neater",
+      "neatest",
+      "neatly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Clean and in order.",
+          "examples": [
+            "My room is neat.",
+            "Her writing is neat.",
+            "Put the books in a neat pile."
+          ]
+        },
+        "more": {
+          "def": "Clean, tidy and in good order.",
+          "examples": [
+            "My desk is neat and clean.",
+            "She has neat handwriting.",
+            "The clothes were folded in neat stacks."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "neatness",
+        "def": "Being neat."
+      }
+    ]
+  },
+  {
     "word": "necessary",
     "say": "NESS-uh-sair-ee",
     "senses": [
@@ -151,6 +187,80 @@
             "Fish need clean water to stay healthy.",
             "We needed more time to finish the puzzle.",
             "Do you need any help with your backpack?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "needle",
+    "say": "NEE-dul",
+    "emoji": "🪡",
+    "forms": [
+      "needles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin tool with a sharp end for sewing.",
+          "examples": [
+            "Mom sewed with a needle.",
+            "The needle has a tiny hole.",
+            "I threaded the needle."
+          ]
+        },
+        "more": {
+          "def": "A thin, pointed tool used for sewing, with a hole for thread.",
+          "examples": [
+            "Grandma threaded the needle to sew on a button.",
+            "The needle pricked my finger.",
+            "The pine tree has green needles."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "negative",
+    "say": "NEG-uh-tiv",
+    "emoji": "➖",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Bad or sad, not hopeful.",
+          "examples": [
+            "Try not to be negative.",
+            "She had a negative thought.",
+            "A negative attitude does not help."
+          ]
+        },
+        "more": {
+          "def": "Not helpful or hopeful, and focusing on what is bad.",
+          "examples": [
+            "A negative attitude can make a game less fun.",
+            "The coach tried not to give negative comments.",
+            "The test was negative, so the doctor said you were well."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Below zero.",
+          "examples": [
+            "Minus three is a negative number.",
+            "It was a negative number.",
+            "The cold day was negative five."
+          ]
+        },
+        "more": {
+          "def": "Less than zero, like the numbers below zero on a number line.",
+          "examples": [
+            "The temperature dropped to a negative number overnight.",
+            "Negative five is smaller than zero.",
+            "On a number line, negative numbers are on the left of zero."
           ]
         }
       }
@@ -260,6 +370,34 @@
     ]
   },
   {
+    "word": "nephew",
+    "say": "NEF-yoo",
+    "forms": [
+      "nephews"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The son of your brother or sister.",
+          "examples": [
+            "He is my nephew.",
+            "My nephew is five.",
+            "I read to my nephew."
+          ]
+        },
+        "more": {
+          "def": "The son of someone's brother or sister.",
+          "examples": [
+            "My nephew is learning to ride a bike.",
+            "She bought a toy for her little nephew.",
+            "Uncle Tom took his nephew fishing."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nerve",
     "say": "nerv",
     "forms": [
@@ -327,6 +465,63 @@
             "She felt nervous before her piano recital.",
             "He was nervous about meeting his new teacher.",
             "The nervous horse jumped at every sound."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "net",
+    "say": "net",
+    "emoji": "🥅",
+    "forms": [
+      "nets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Strings tied together with holes in between.",
+          "examples": [
+            "The fisher caught fish in a net.",
+            "The net has holes.",
+            "We hung a net."
+          ]
+        },
+        "more": {
+          "def": "A mesh of cords or wires tied together with spaces between, used to catch or hold things.",
+          "examples": [
+            "The fisherman pulled the fish up in a net.",
+            "The soccer ball hit the back of the net.",
+            "She caught a butterfly in her net."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "network",
+    "say": "NET-werk",
+    "forms": [
+      "networks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of things that connect to each other.",
+          "examples": [
+            "A road network connects the towns.",
+            "The school network is down.",
+            "A network of tunnels is under the city."
+          ]
+        },
+        "more": {
+          "def": "A group of lines, wires or people that are connected to each other.",
+          "examples": [
+            "A network of roads connects the towns.",
+            "The school computers are on one network.",
+            "A network of tunnels runs under the city."
           ]
         }
       }

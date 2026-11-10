@@ -83,6 +83,57 @@
     ]
   },
   {
+    "word": "graduate",
+    "say": "GRAJ-oo-ayt",
+    "emoji": "🎓",
+    "forms": [
+      "graduates",
+      "graduated",
+      "graduating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To finish school and get a paper that says so.",
+          "examples": [
+            "She will graduate this spring.",
+            "My brother graduated from high school.",
+            "They graduated from college."
+          ]
+        },
+        "more": {
+          "def": "To complete your studies at a school and receive a diploma.",
+          "examples": [
+            "My sister will graduate from high school in June.",
+            "He graduated from college and became a teacher.",
+            "The whole class graduated and tossed their caps."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who has finished school.",
+          "examples": [
+            "She is a graduate of our school.",
+            "The graduates wore gowns.",
+            "He is a college graduate."
+          ]
+        },
+        "more": {
+          "def": "A person who has finished a school or course of study and gotten a diploma.",
+          "examples": [
+            "The graduates tossed their caps in the air.",
+            "She is a graduate of the local high school.",
+            "He is a college graduate who became a scientist."
+          ]
+        },
+        "say": "GRAJ-oo-it"
+      }
+    ]
+  },
+  {
     "word": "grand",
     "say": "grand",
     "forms": [
@@ -106,6 +157,35 @@
             "The king lived in a grand castle.",
             "They held a grand party for the whole town.",
             "The theater has a grand staircase."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grandfather",
+    "say": "GRAND-fah-ther",
+    "emoji": "👴",
+    "forms": [
+      "grandfathers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The father of your mother or father.",
+          "examples": [
+            "My grandfather tells jokes.",
+            "Grandfather fixes my bike.",
+            "I went fishing with my grandfather."
+          ]
+        },
+        "more": {
+          "def": "The father of one of your parents.",
+          "examples": [
+            "My grandfather taught me to play chess.",
+            "Her grandfather grows tomatoes in his garden.",
+            "He built a treehouse with his grandfather."
           ]
         }
       }
@@ -140,6 +220,35 @@
     ]
   },
   {
+    "word": "grandmother",
+    "say": "GRAND-muth-er",
+    "emoji": "👵",
+    "forms": [
+      "grandmothers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The mother of your mother or father.",
+          "examples": [
+            "My grandmother tells great stories.",
+            "I visit my grandmother on Sundays.",
+            "Grandmother made me a hat."
+          ]
+        },
+        "more": {
+          "def": "The mother of one of your parents.",
+          "examples": [
+            "My grandmother taught me how to knit a scarf.",
+            "Her grandmother lives in a small town by the sea.",
+            "He baked cookies with his grandmother for the school sale."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "grandpa",
     "say": "GRAN-pah",
     "forms": [
@@ -162,6 +271,35 @@
             "My grandpa taught me to fish.",
             "We spent the weekend at Grandpa's house.",
             "Both of my grandpas live nearby."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grass",
+    "say": "grass",
+    "emoji": "🌱",
+    "forms": [
+      "grasses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Green plants that grow close to the ground.",
+          "examples": [
+            "The grass is green.",
+            "I lay on the grass.",
+            "The cow ate grass."
+          ]
+        },
+        "more": {
+          "def": "A low, green plant with thin leaves that covers lawns and fields.",
+          "examples": [
+            "We sat on the soft grass in the park.",
+            "The cows chewed the grass.",
+            "Dad cut the grass on Saturday."
           ]
         }
       }
@@ -421,6 +559,35 @@
       {
         "word": "greenish",
         "def": "A little bit green."
+      }
+    ]
+  },
+  {
+    "word": "gross",
+    "say": "grohss",
+    "forms": [
+      "grosser",
+      "grossest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very yucky.",
+          "examples": [
+            "The smell is gross.",
+            "The old milk is gross.",
+            "That is gross!"
+          ]
+        },
+        "more": {
+          "def": "Very unpleasant or disgusting.",
+          "examples": [
+            "The rotten food was gross.",
+            "The smell from the trash was gross.",
+            "That is gross, so please wash your hands."
+          ]
+        }
       }
     ]
   },

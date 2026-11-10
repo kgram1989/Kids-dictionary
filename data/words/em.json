@@ -31,6 +31,58 @@
     ]
   },
   {
+    "word": "embarrassed",
+    "say": "im-BAIR-ust",
+    "emoji": "😳",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling shy or silly because of something that happened.",
+          "examples": [
+            "I was embarrassed when I tripped.",
+            "She felt embarrassed.",
+            "He turned red and was embarrassed."
+          ]
+        },
+        "more": {
+          "def": "Feeling awkward or ashamed in front of other people.",
+          "examples": [
+            "He was embarrassed when he forgot his lines.",
+            "She felt embarrassed when she called the teacher \"Mom.\"",
+            "The embarrassed boy hid his face."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "embarrassing",
+    "say": "im-BAIR-uh-sing",
+    "emoji": "😳",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making you feel shy or silly in front of others.",
+          "examples": [
+            "It was embarrassing to trip.",
+            "That is an embarrassing mistake.",
+            "The song was embarrassing."
+          ]
+        },
+        "more": {
+          "def": "Causing you to feel awkward, shy or ashamed in front of other people.",
+          "examples": [
+            "It was embarrassing when I called my teacher \"Mom.\"",
+            "He found it embarrassing to sing alone.",
+            "Tripping in front of the whole class was embarrassing."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "emergency",
     "say": "ih-MER-jun-see",
     "forms": [
@@ -53,6 +105,154 @@
             "Call for help in an emergency.",
             "The hospital treats emergencies all night.",
             "In an emergency, stay calm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "emotion",
+    "say": "ih-MOH-shun",
+    "emoji": "😊",
+    "forms": [
+      "emotions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong feeling, like joy or fear.",
+          "examples": [
+            "Joy is an emotion.",
+            "She showed her emotion.",
+            "Anger is an emotion."
+          ]
+        },
+        "more": {
+          "def": "A feeling, such as happiness, sadness, anger or fear.",
+          "examples": [
+            "Joy and sadness are emotions.",
+            "He spoke with strong emotion when he said goodbye.",
+            "Actors show emotion with their faces."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "emotional",
+    "say": "ih-MOH-shun-ul",
+    "forms": [
+      "emotionally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having strong feelings.",
+          "examples": [
+            "He was emotional at the end.",
+            "The movie was emotional.",
+            "She felt emotional."
+          ]
+        },
+        "more": {
+          "def": "Having to do with feelings, or showing strong feelings.",
+          "examples": [
+            "The goodbye was emotional for everyone.",
+            "She felt emotional and cried happy tears.",
+            "The movie had an emotional ending."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unemotional",
+        "def": "Not showing feelings."
+      }
+    ]
+  },
+  {
+    "word": "emperor",
+    "say": "EM-per-er",
+    "emoji": "👑",
+    "forms": [
+      "emperors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The ruler of a large empire.",
+          "examples": [
+            "The emperor lived in a palace.",
+            "The emperor was powerful.",
+            "The emperor wore a robe."
+          ]
+        },
+        "more": {
+          "def": "The male ruler of a very large land, called an empire.",
+          "examples": [
+            "The emperor lived in a grand palace.",
+            "In ancient Rome, the emperor had great power.",
+            "The people bowed to the emperor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "empire",
+    "say": "EM-pyr",
+    "forms": [
+      "empires"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large group of lands ruled by one leader.",
+          "examples": [
+            "The Roman Empire was huge.",
+            "The empire had many lands.",
+            "The emperor ruled the empire."
+          ]
+        },
+        "more": {
+          "def": "A group of countries or lands under the control of one ruler or government.",
+          "examples": [
+            "The Roman Empire once covered much of Europe.",
+            "The emperor ruled a vast empire.",
+            "The empire grew as it took over new lands."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "employee",
+    "say": "em-PLOY-ee",
+    "forms": [
+      "employees"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who works for someone for pay.",
+          "examples": [
+            "The employee helped us find the book.",
+            "An employee at the store wore a badge.",
+            "He is an employee at the bank."
+          ]
+        },
+        "more": {
+          "def": "A person who is paid to work for a business or a person.",
+          "examples": [
+            "An employee at the shop helped us find the right size.",
+            "The company has fifty employees.",
+            "The new employee started work on Monday."
           ]
         }
       }

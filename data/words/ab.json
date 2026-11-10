@@ -1,5 +1,63 @@
 [
   {
+    "word": "abandon",
+    "say": "uh-BAN-dun",
+    "forms": [
+      "abandons",
+      "abandoned",
+      "abandoning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To leave something and never come back.",
+          "examples": [
+            "They abandoned the old house.",
+            "Do not abandon your pet.",
+            "The boat was abandoned."
+          ]
+        },
+        "more": {
+          "def": "To go away and leave someone or something behind for good.",
+          "examples": [
+            "The family abandoned the old farm and moved to town.",
+            "The sailors abandoned the sinking ship.",
+            "She would never abandon her pet when she moved."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ability",
+    "say": "uh-BIL-uh-tee",
+    "forms": [
+      "abilities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being able to do something.",
+          "examples": [
+            "She has the ability to swim fast.",
+            "Birds have the ability to fly.",
+            "He has the ability to draw well."
+          ]
+        },
+        "more": {
+          "def": "The power or skill to do something.",
+          "examples": [
+            "Dolphins have the ability to talk to each other with clicks.",
+            "Her ability to remember names surprised her new teacher.",
+            "A good swimmer needs strength and the ability to stay calm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "able",
     "say": "AY-bul",
     "senses": [
@@ -19,6 +77,32 @@
             "Birds are able to fly long distances.",
             "I was not able to come because I was sick.",
             "She was able to solve the riddle in two minutes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "aboard",
+    "say": "uh-BORD",
+    "emoji": "⛵",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "On a boat, train, plane or bus.",
+          "examples": [
+            "All aboard!",
+            "The kids are aboard.",
+            "We went aboard the ship."
+          ]
+        },
+        "more": {
+          "def": "On or onto a ship, train, plane or bus.",
+          "examples": [
+            "The passengers climbed aboard the ferry.",
+            "Welcome aboard, said the pilot.",
+            "The captain called for everyone to come aboard."
           ]
         }
       }

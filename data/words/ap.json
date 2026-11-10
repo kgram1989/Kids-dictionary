@@ -53,6 +53,35 @@
     ]
   },
   {
+    "word": "ape",
+    "say": "ayp",
+    "emoji": "🦍",
+    "forms": [
+      "apes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large animal like a monkey but with no tail.",
+          "examples": [
+            "The ape swung.",
+            "A gorilla is an ape.",
+            "The ape sat in a tree."
+          ]
+        },
+        "more": {
+          "def": "A large animal with long arms and no tail, such as a gorilla or chimpanzee.",
+          "examples": [
+            "The ape swung from branch to branch.",
+            "Gorillas and chimpanzees are apes.",
+            "The ape peeled a banana."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "apologize",
     "say": "uh-POL-uh-jyz",
     "forms": [
@@ -77,6 +106,83 @@
             "I apologized for breaking his pencil.",
             "She apologized for being late.",
             "He apologized to his sister for the mess."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "apology",
+    "say": "uh-POL-uh-jee",
+    "forms": [
+      "apologies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words that say you are sorry.",
+          "examples": [
+            "I made an apology.",
+            "He said sorry as an apology.",
+            "She wrote an apology."
+          ]
+        },
+        "more": {
+          "def": "A statement saying that you are sorry for doing something wrong.",
+          "examples": [
+            "He gave me an apology for breaking my toy.",
+            "She wrote a note of apology to her teacher.",
+            "Please accept my apology for being late."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "appeal",
+    "say": "uh-PEEL",
+    "forms": [
+      "appeals",
+      "appealed",
+      "appealing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong, serious request.",
+          "examples": [
+            "They made an appeal for help.",
+            "The appeal for food worked.",
+            "She made an appeal."
+          ]
+        },
+        "more": {
+          "def": "A serious request for help or money.",
+          "examples": [
+            "The town made an appeal for food and blankets.",
+            "The principal made an appeal to the students to keep the school clean.",
+            "An appeal for help went out on the radio."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way something is interesting or attractive.",
+          "examples": [
+            "The game has a lot of appeal.",
+            "The toy has appeal for little kids.",
+            "The park has appeal."
+          ]
+        },
+        "more": {
+          "def": "The quality that makes something interesting or attractive to people.",
+          "examples": [
+            "The game has a lot of appeal for young kids.",
+            "The old house has a quiet appeal.",
+            "Chocolate has appeal for many people."
           ]
         }
       }
@@ -132,6 +238,40 @@
     ]
   },
   {
+    "word": "appearance",
+    "say": "uh-PEER-unss",
+    "forms": [
+      "appearances"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How someone or something looks.",
+          "examples": [
+            "His appearance changed.",
+            "She cares about her appearance.",
+            "The house has a neat appearance."
+          ]
+        },
+        "more": {
+          "def": "The way that someone or something looks.",
+          "examples": [
+            "Her appearance changed after she cut her hair.",
+            "The house had a neat appearance.",
+            "You cannot tell a person's kindness by their appearance."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "reappearance",
+        "def": "Appearing again."
+      }
+    ]
+  },
+  {
     "word": "apple",
     "say": "AP-ul",
     "emoji": "🍎",
@@ -155,6 +295,102 @@
             "She picked a red apple from the tree.",
             "Apple pie is my favorite dessert.",
             "A worm crawled out of the apple."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "application",
+    "say": "ap-lih-KAY-shun",
+    "forms": [
+      "applications"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A form you fill in to ask for something.",
+          "examples": [
+            "I filled out an application.",
+            "She sent in her application.",
+            "The application is for a job."
+          ]
+        },
+        "more": {
+          "def": "A written request, often a form, for a job, a school or a place in a program.",
+          "examples": [
+            "She filled out an application for the summer camp.",
+            "The application asks for your name and age.",
+            "He sent in an application to join the club."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way of using something.",
+          "examples": [
+            "The application of the paint is easy.",
+            "The application of glue is simple.",
+            "The application of the rule is clear."
+          ]
+        },
+        "more": {
+          "def": "The act of putting something to use, or putting something onto a surface.",
+          "examples": [
+            "The application of two coats of paint made the wall bright.",
+            "The teacher showed us a practical application of math.",
+            "The application of cream soothed the sting."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "apply",
+    "say": "uh-PLY",
+    "forms": [
+      "applies",
+      "applied",
+      "applying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put something on a surface.",
+          "examples": [
+            "Apply the paint to the wall.",
+            "Mom applied a bandage.",
+            "Apply some sunscreen."
+          ]
+        },
+        "more": {
+          "def": "To spread or put something on a surface.",
+          "examples": [
+            "The nurse applied cream to the sting.",
+            "Please apply two coats of paint to the fence.",
+            "He applied glue to the back of the picture."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To ask for a job or a place.",
+          "examples": [
+            "She will apply for a job.",
+            "I want to apply to the club.",
+            "Dad applied to be a coach."
+          ]
+        },
+        "more": {
+          "def": "To ask for something, such as a job or a place, by filling in a form.",
+          "examples": [
+            "He applied for a job at the library.",
+            "Students can apply to join the chess club.",
+            "She applied to a school in another city."
           ]
         }
       }
@@ -262,6 +498,64 @@
             "She has a fun approach to teaching math.",
             "A good approach is to ask for help.",
             "We tried a new approach to the puzzle."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "appropriate",
+    "say": "uh-PROH-pree-it",
+    "forms": [
+      "appropriately"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Right for a certain time or place.",
+          "examples": [
+            "A coat is appropriate for snow.",
+            "That is not appropriate.",
+            "Wear appropriate shoes."
+          ]
+        },
+        "more": {
+          "def": "Suitable and right for a certain time, place or purpose.",
+          "examples": [
+            "A heavy coat is appropriate for snowy days.",
+            "Quiet talk is appropriate in the library.",
+            "Wear shoes that are appropriate for hiking."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "approve",
+    "say": "uh-PROOV",
+    "forms": [
+      "approves",
+      "approved",
+      "approving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say yes to something.",
+          "examples": [
+            "Mom approved the plan.",
+            "The teacher approves of my idea.",
+            "The class approved the new rule."
+          ]
+        },
+        "more": {
+          "def": "To agree to something, or to think that something is good.",
+          "examples": [
+            "The principal approved the plan for the garden.",
+            "Mom approved of my choice for a pet.",
+            "The class voted to approve the new rule."
           ]
         }
       }

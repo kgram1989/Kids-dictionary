@@ -59,6 +59,55 @@
     ]
   },
   {
+    "word": "volunteer",
+    "say": "vol-un-TEER",
+    "forms": [
+      "volunteers",
+      "volunteered",
+      "volunteering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who does a job for free because they want to.",
+          "examples": [
+            "A volunteer read to us.",
+            "She is a volunteer at the library.",
+            "Volunteers cleaned the park."
+          ]
+        },
+        "more": {
+          "def": "A person who chooses to do a job without pay to help others.",
+          "examples": [
+            "A volunteer read stories to the kids at the library.",
+            "Volunteers helped clean up the beach.",
+            "The hospital has many volunteers."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To offer to do something.",
+          "examples": [
+            "I volunteered to help.",
+            "She volunteers at the shelter.",
+            "He volunteered to carry the bags."
+          ]
+        },
+        "more": {
+          "def": "To offer to do something without being asked or paid.",
+          "examples": [
+            "He volunteered to carry the heavy bags.",
+            "She volunteers at the animal shelter on Saturdays.",
+            "I volunteered to clean the board."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vote",
     "say": "voht",
     "forms": [
@@ -102,6 +151,55 @@
             "My vote is for the pizza party.",
             "Each student gets one vote.",
             "The vote was close, but the red team won."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vow",
+    "say": "vow",
+    "forms": [
+      "vows",
+      "vowed",
+      "vowing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A serious promise.",
+          "examples": [
+            "He made a vow.",
+            "The vow was kept.",
+            "She made a vow to help."
+          ]
+        },
+        "more": {
+          "def": "A very serious promise that you make.",
+          "examples": [
+            "He made a vow to keep the secret.",
+            "The knights made a vow to protect the king.",
+            "She kept her vow to visit her grandmother each week."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a serious promise.",
+          "examples": [
+            "I vow to help.",
+            "She vowed to be kind.",
+            "He vowed to try again."
+          ]
+        },
+        "more": {
+          "def": "To promise something very seriously.",
+          "examples": [
+            "She vowed to keep the secret.",
+            "He vowed to try harder next time.",
+            "The knight vowed to protect the village."
           ]
         }
       }

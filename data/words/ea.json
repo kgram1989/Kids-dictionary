@@ -60,6 +60,35 @@
     ]
   },
   {
+    "word": "eagle",
+    "say": "EE-gul",
+    "emoji": "🦅",
+    "forms": [
+      "eagles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big bird that hunts.",
+          "examples": [
+            "The eagle flew high.",
+            "An eagle has sharp eyes.",
+            "We saw an eagle."
+          ]
+        },
+        "more": {
+          "def": "A large, strong bird with sharp eyes and curved claws that hunts other animals.",
+          "examples": [
+            "The eagle soared above the mountain.",
+            "Eagles build huge nests high in trees.",
+            "A bald eagle is a symbol of our country."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ear",
     "say": "eer",
     "emoji": "👂",
@@ -278,6 +307,55 @@
             "The earthquake knocked books off the shelves.",
             "The bridge was built to stay standing in an earthquake.",
             "Scientists measure how strong each earthquake is."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ease",
+    "say": "eez",
+    "forms": [
+      "eases",
+      "eased",
+      "easing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Doing something without trouble.",
+          "examples": [
+            "She won with ease.",
+            "He lifted it with ease.",
+            "The cat climbed with ease."
+          ]
+        },
+        "more": {
+          "def": "The lack of trouble when doing something, so that it seems easy.",
+          "examples": [
+            "She climbed the tree with ease.",
+            "He did the puzzle with ease.",
+            "The ease of the game made it fun for little kids."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make pain or work feel lighter.",
+          "examples": [
+            "The medicine will ease the pain.",
+            "A cool cloth eased the burn.",
+            "The rain eased."
+          ]
+        },
+        "more": {
+          "def": "To make something less painful, hard or strong.",
+          "examples": [
+            "A cold cloth will ease the pain.",
+            "The rain eased in the afternoon.",
+            "He eased the door open so it would not squeak."
           ]
         }
       }

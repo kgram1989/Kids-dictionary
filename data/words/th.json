@@ -105,6 +105,32 @@
     ]
   },
   {
+    "word": "Thanksgiving",
+    "say": "thangks-GIV-ing",
+    "emoji": "🦃",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A holiday in November when families eat a big meal together.",
+          "examples": [
+            "We eat turkey on Thanksgiving.",
+            "Thanksgiving is in November.",
+            "Family comes for Thanksgiving."
+          ]
+        },
+        "more": {
+          "def": "A holiday in the United States on the fourth Thursday of November, when people give thanks and share a big meal.",
+          "examples": [
+            "Our family eats turkey and pie on Thanksgiving.",
+            "We say what we are thankful for at Thanksgiving dinner.",
+            "Thanksgiving is celebrated on the fourth Thursday in November."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "that",
     "say": "that",
     "senses": [
@@ -252,6 +278,34 @@
     ]
   },
   {
+    "word": "theme",
+    "say": "theem",
+    "forms": [
+      "themes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The main idea of something.",
+          "examples": [
+            "The theme of the party is space.",
+            "The theme of the book is friendship.",
+            "The class chose a theme."
+          ]
+        },
+        "more": {
+          "def": "The main idea or subject of a story, party or other event.",
+          "examples": [
+            "The theme of the party was pirates.",
+            "The theme of the story is friendship.",
+            "The class picked a theme for the art show."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "themselves",
     "say": "them-SELVZ",
     "senses": [
@@ -355,6 +409,31 @@
     ]
   },
   {
+    "word": "therefore",
+    "say": "THAIR-for",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "For that reason.",
+          "examples": [
+            "It was raining, so we therefore stayed inside.",
+            "I was tired, therefore I went to bed.",
+            "He studied; therefore he passed."
+          ]
+        },
+        "more": {
+          "def": "For that reason, as a result of what was just said.",
+          "examples": [
+            "The road was icy, and therefore the bus drove slowly.",
+            "She studied hard and therefore did well on the test.",
+            "It was cold; therefore we wore our coats."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "these",
     "say": "theez",
     "senses": [
@@ -410,6 +489,36 @@
     ]
   },
   {
+    "word": "thick",
+    "say": "thik",
+    "forms": [
+      "thicker",
+      "thickest",
+      "thickly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wide from one side to the other.",
+          "examples": [
+            "The book is thick.",
+            "The wall is thick.",
+            "The ice is thick."
+          ]
+        },
+        "more": {
+          "def": "Having a large distance between two sides, or not flowing easily.",
+          "examples": [
+            "The thick book had five hundred pages.",
+            "The soup was thick and hearty.",
+            "The ice on the pond was thick enough to skate on."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thief",
     "say": "theef",
     "forms": [
@@ -432,6 +541,36 @@
             "The thief took a bike from the yard.",
             "The guard chased the thief.",
             "In the story, a sneaky thief stole the king's crown."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thin",
+    "say": "thin",
+    "forms": [
+      "thinner",
+      "thinnest",
+      "thinly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not thick.",
+          "examples": [
+            "A thin line is on the paper.",
+            "The ice is thin.",
+            "I read a thin book."
+          ]
+        },
+        "more": {
+          "def": "Not thick or fat, with only a small distance from one side to the other.",
+          "examples": [
+            "A thin layer of ice covered the pond.",
+            "The thin book took only a day to read.",
+            "She spread a thin coat of butter on the toast."
           ]
         }
       }
@@ -540,6 +679,31 @@
             "A baker's dozen means thirteen.",
             "She turns thirteen next month.",
             "Thirteen players sat on the bench."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thirty",
+    "say": "THER-tee",
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "The number 30.",
+          "examples": [
+            "I have thirty stickers.",
+            "Thirty days are in June.",
+            "There are thirty kids in my class."
+          ]
+        },
+        "more": {
+          "def": "The number that comes after twenty-nine, written 30.",
+          "examples": [
+            "There are thirty students in my class.",
+            "June has thirty days.",
+            "We walked for thirty minutes."
           ]
         }
       }
@@ -680,6 +844,34 @@
     ]
   },
   {
+    "word": "threat",
+    "say": "thret",
+    "forms": [
+      "threats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A warning that something bad may happen.",
+          "examples": [
+            "The dark clouds were a threat of rain.",
+            "A big storm is a threat.",
+            "The loud dog is not a real threat."
+          ]
+        },
+        "more": {
+          "def": "Something that could cause harm, or a warning that harm may come.",
+          "examples": [
+            "Dark clouds in the sky were a threat of a storm.",
+            "Pollution is a threat to fish in the river.",
+            "The wasps were a threat to the picnic."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "threaten",
     "say": "THRET-un",
     "forms": [
@@ -729,6 +921,55 @@
             "A triangle has three sides.",
             "The farmer counted three eggs in the nest.",
             "We waited three days for the package."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thrill",
+    "say": "thril",
+    "forms": [
+      "thrills",
+      "thrilled",
+      "thrilling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A feeling of great excitement.",
+          "examples": [
+            "The ride gave me a thrill.",
+            "Seeing the whale was a thrill.",
+            "She felt a thrill."
+          ]
+        },
+        "more": {
+          "def": "A sudden feeling of great excitement and joy.",
+          "examples": [
+            "The roller coaster gave me a thrill.",
+            "It was a thrill to see the whale jump.",
+            "She felt a thrill when she heard her name called."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone very excited.",
+          "examples": [
+            "The show thrilled the children.",
+            "The ride thrilled us.",
+            "The game thrills me."
+          ]
+        },
+        "more": {
+          "def": "To give someone a feeling of great excitement.",
+          "examples": [
+            "The magic show thrilled the children.",
+            "The fast ride thrilled us all.",
+            "The big game thrilled the whole town."
           ]
         }
       }
@@ -813,6 +1054,35 @@
             "Throw the ball to your partner as gently as you can.",
             "He threw the stick, and the dog ran after it.",
             "She has thrown the football farther than anyone else."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thumb",
+    "say": "thum",
+    "emoji": "👍",
+    "forms": [
+      "thumbs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The short, thick finger on the side of your hand.",
+          "examples": [
+            "I hurt my thumb.",
+            "She sucked her thumb.",
+            "I gave a thumbs up."
+          ]
+        },
+        "more": {
+          "def": "The short, thick finger that is on the side of your hand.",
+          "examples": [
+            "I hit my thumb with the hammer.",
+            "He gave a thumbs up.",
+            "Your thumb helps you hold a pencil."
           ]
         }
       }

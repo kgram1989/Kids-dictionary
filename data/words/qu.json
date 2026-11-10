@@ -1,5 +1,33 @@
 [
   {
+    "word": "quality",
+    "say": "KWOL-uh-tee",
+    "forms": [
+      "qualities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How good or bad something is.",
+          "examples": [
+            "This is a good quality toy.",
+            "The quality of the picture is good.",
+            "The shoes are high quality."
+          ]
+        },
+        "more": {
+          "def": "How good something is, or a feature that makes a person or thing what they are.",
+          "examples": [
+            "The quality of the photo was very sharp.",
+            "Honesty is a quality that many people admire.",
+            "This chair is of good quality and will last for years."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "quarrel",
     "say": "KWOR-ul",
     "forms": [
@@ -22,6 +50,54 @@
             "After their quarrel, the two friends said sorry to each other.",
             "The brothers ended their quarrel with a handshake.",
             "A quarrel broke out over whose turn it was."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "quarter",
+    "say": "KWOR-ter",
+    "emoji": "🪙",
+    "forms": [
+      "quarters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One of four equal parts.",
+          "examples": [
+            "I ate a quarter of the pie.",
+            "Cut the apple in quarters.",
+            "A quarter is a fourth."
+          ]
+        },
+        "more": {
+          "def": "One of four equal parts that make a whole.",
+          "examples": [
+            "A quarter of the class has red hair.",
+            "The game is divided into four quarters.",
+            "Add a quarter of a cup of milk."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A coin worth twenty-five cents.",
+          "examples": [
+            "I have a quarter.",
+            "A quarter is a coin.",
+            "I put a quarter in the machine."
+          ]
+        },
+        "more": {
+          "def": "A coin worth twenty-five cents, or one fourth of a dollar.",
+          "examples": [
+            "Four quarters make one dollar.",
+            "He found a shiny quarter under the couch.",
+            "I paid for the sticker with a quarter."
           ]
         }
       }
@@ -299,6 +375,55 @@
             "The rabbit's nose quivered as it sniffed the air.",
             "The puppy quivered with excitement.",
             "Her voice quivered as she began her speech."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "quote",
+    "say": "kwoht",
+    "forms": [
+      "quotes",
+      "quoted",
+      "quoting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To repeat the exact words that someone said.",
+          "examples": [
+            "I quote the teacher.",
+            "She quoted a poem.",
+            "He quoted the book."
+          ]
+        },
+        "more": {
+          "def": "To repeat the exact words of someone else, in speech or writing.",
+          "examples": [
+            "She quoted a line from her favorite poem.",
+            "The reporter quoted the mayor.",
+            "He quoted the book in his report."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words that you repeat from someone else.",
+          "examples": [
+            "I read a quote from the book.",
+            "The quote is from a poem.",
+            "She wrote down a quote."
+          ]
+        },
+        "more": {
+          "def": "A part of a book, speech or poem that is repeated word for word.",
+          "examples": [
+            "The speech began with a quote from a famous poet.",
+            "She wrote her favorite quote on the board.",
+            "The quote was from a book about space."
           ]
         }
       }

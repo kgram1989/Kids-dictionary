@@ -132,6 +132,36 @@
     ]
   },
   {
+    "word": "fond",
+    "say": "fond",
+    "forms": [
+      "fonder",
+      "fondest",
+      "fondly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Liking something a lot.",
+          "examples": [
+            "I am fond of my dog.",
+            "She is fond of books.",
+            "He is fond of cake."
+          ]
+        },
+        "more": {
+          "def": "Having a warm feeling of liking someone or something.",
+          "examples": [
+            "I am fond of my grandmother.",
+            "She is fond of old stories.",
+            "He is fond of long walks on the beach."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "food",
     "say": "food",
     "emoji": "🍎",
@@ -204,6 +234,34 @@
             "The magician fooled the whole audience with his card trick.",
             "The bird's song fooled the cat into looking up.",
             "You cannot fool me because I saw you hide it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "foolish",
+    "say": "FOO-lish",
+    "forms": [
+      "foolishly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not wise.",
+          "examples": [
+            "It is foolish to touch a hot stove.",
+            "That was a foolish thing to do.",
+            "The foolish boy forgot his coat."
+          ]
+        },
+        "more": {
+          "def": "Showing a lack of good sense, silly in a way that may cause trouble.",
+          "examples": [
+            "It is foolish to swim right after a big meal.",
+            "He felt foolish for forgetting his coat.",
+            "The foolish crow dropped its cheese."
           ]
         }
       }
@@ -399,6 +457,32 @@
     ]
   },
   {
+    "word": "foreign",
+    "say": "FOR-in",
+    "emoji": "🌍",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "From another country.",
+          "examples": [
+            "She speaks a foreign language.",
+            "Foreign coins look different.",
+            "We visited a foreign land."
+          ]
+        },
+        "more": {
+          "def": "Coming from or having to do with a country that is not your own.",
+          "examples": [
+            "Our class is learning a foreign language.",
+            "She collects stamps from foreign countries.",
+            "Many foreign visitors came to the festival."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "forest",
     "say": "FOR-ist",
     "emoji": "🌲",
@@ -570,6 +654,56 @@
     ]
   },
   {
+    "word": "former",
+    "say": "FOR-mer",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "From an earlier time.",
+          "examples": [
+            "He is a former teacher.",
+            "My former school.",
+            "The former king."
+          ]
+        },
+        "more": {
+          "def": "Having been something in the past but not now.",
+          "examples": [
+            "My former teacher now works at another school.",
+            "The old building was the former library.",
+            "He is a former champion."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "forth",
+    "say": "forth",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Forward or out.",
+          "examples": [
+            "They went back and forth.",
+            "He walked forth.",
+            "The bird flew forth."
+          ]
+        },
+        "more": {
+          "def": "Forward, out or onward.",
+          "examples": [
+            "The pendulum swung back and forth.",
+            "The knights rode forth into the forest.",
+            "She stepped forth to receive her prize."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fortune",
     "say": "FOR-chun",
     "forms": [
@@ -671,6 +805,83 @@
     ]
   },
   {
+    "word": "foul",
+    "say": "fowl",
+    "forms": [
+      "fouls",
+      "fouled",
+      "fouling"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very dirty or bad-smelling.",
+          "examples": [
+            "The foul smell was strong.",
+            "The water was foul.",
+            "The foul weather kept us in."
+          ]
+        },
+        "more": {
+          "def": "Very dirty, bad-smelling or unpleasant.",
+          "examples": [
+            "A foul smell came from the old trash can.",
+            "The foul weather kept us indoors.",
+            "The water in the pond was foul."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A move in a game that breaks the rules.",
+          "examples": [
+            "The player made a foul.",
+            "The referee called a foul.",
+            "That was a foul."
+          ]
+        },
+        "more": {
+          "def": "An unfair move that breaks the rules of a sport.",
+          "examples": [
+            "The referee blew the whistle for a foul.",
+            "He got a foul for pushing.",
+            "The team lost a point on the foul."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "foundation",
+    "say": "fown-DAY-shun",
+    "forms": [
+      "foundations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The solid base that a building stands on.",
+          "examples": [
+            "The house has a strong foundation.",
+            "The foundation is made of stone.",
+            "Workers poured the foundation."
+          ]
+        },
+        "more": {
+          "def": "The strong base under a building, which holds it up.",
+          "examples": [
+            "The house has a strong foundation of stone.",
+            "Workers poured the concrete foundation first.",
+            "A good foundation keeps the walls from cracking."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "four",
     "say": "for",
     "senses": [
@@ -715,6 +926,53 @@
             "Two weeks is fourteen days.",
             "The bus has fourteen rows of seats.",
             "He read fourteen books this summer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fourth",
+    "say": "forth",
+    "forms": [
+      "fourths"
+    ],
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "Number four in a line.",
+          "examples": [
+            "I am in fourth place.",
+            "Fourth grade is fun.",
+            "The fourth day was sunny."
+          ]
+        },
+        "more": {
+          "def": "Coming after the third one and before the fifth one.",
+          "examples": [
+            "She finished fourth in the race.",
+            "The fourth chapter is my favorite.",
+            "My brother is in fourth grade this year."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One of four equal parts.",
+          "examples": [
+            "I ate a fourth of the pie.",
+            "A fourth is the same as a quarter.",
+            "She gave me a fourth of the sandwich."
+          ]
+        },
+        "more": {
+          "def": "One of four equal parts that make a whole.",
+          "examples": [
+            "Cut the cake into fourths so each of us gets a piece.",
+            "A fourth of the class walks to school.",
+            "Add a fourth of a cup of sugar."
           ]
         }
       }

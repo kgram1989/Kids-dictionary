@@ -215,6 +215,102 @@
     ]
   },
   {
+    "word": "shark",
+    "say": "shark",
+    "emoji": "🦈",
+    "forms": [
+      "sharks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big fish with sharp teeth.",
+          "examples": [
+            "A shark swam by.",
+            "The shark has a big fin.",
+            "Sharks live in the sea."
+          ]
+        },
+        "more": {
+          "def": "A large sea fish with a strong body, a pointed fin and many sharp teeth.",
+          "examples": [
+            "The shark swam past the divers.",
+            "Sharks have been in the ocean for millions of years.",
+            "The whale shark is the biggest fish in the sea."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sharp",
+    "say": "sharp",
+    "emoji": "🔪",
+    "forms": [
+      "sharper",
+      "sharpest",
+      "sharply"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to cut well.",
+          "examples": [
+            "The knife is sharp.",
+            "Be careful with the sharp scissors.",
+            "A cactus has sharp spines."
+          ]
+        },
+        "more": {
+          "def": "Having a thin edge or point that can cut or poke easily.",
+          "examples": [
+            "The sharp knife cut the bread easily.",
+            "Be careful of the sharp thorns on the rose bush.",
+            "She sharpened the pencil to a sharp point."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "sharpness",
+        "def": "Being sharp."
+      }
+    ]
+  },
+  {
+    "word": "shave",
+    "say": "shayv",
+    "forms": [
+      "shaves",
+      "shaved",
+      "shaving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cut hair off close to the skin.",
+          "examples": [
+            "Dad shaves his face.",
+            "The barber shaved his head.",
+            "The farmer shaved the sheep."
+          ]
+        },
+        "more": {
+          "def": "To cut hair off close to the skin with a sharp blade.",
+          "examples": [
+            "Dad shaves his beard every morning.",
+            "The farmers shave the wool off the sheep in spring.",
+            "The barber shaved the back of his neck."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "she",
     "say": "shee",
     "forms": [
@@ -238,6 +334,109 @@
             "My aunt is a pilot, and she flies to Japan every month.",
             "The hen sat on her nest because she was guarding the eggs.",
             "Maya practiced the piano until she could play the song."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sheep",
+    "say": "sheep",
+    "emoji": "🐑",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A farm animal with a thick, woolly coat.",
+          "examples": [
+            "The sheep eat grass.",
+            "Wool comes from a sheep.",
+            "The sheep said baa."
+          ]
+        },
+        "more": {
+          "def": "A farm animal with a thick coat of wool that is raised for wool and meat.",
+          "examples": [
+            "The farmer sheared the sheep in spring.",
+            "A flock of sheep grazed on the hill.",
+            "Wool for my sweater came from a sheep."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sheet",
+    "say": "sheet",
+    "emoji": "🛏️",
+    "forms": [
+      "sheets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large cover that goes on a bed.",
+          "examples": [
+            "Put the sheet on the bed.",
+            "The sheet is clean.",
+            "I pulled up the sheet."
+          ]
+        },
+        "more": {
+          "def": "A large piece of thin cloth that you lie on or under in a bed.",
+          "examples": [
+            "Mom put clean sheets on the bed.",
+            "The kids made a tent from a sheet.",
+            "He pulled the sheet up to his chin."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin, flat piece of paper or other material.",
+          "examples": [
+            "Take a sheet of paper.",
+            "A sheet of ice covered the pond.",
+            "I need one more sheet."
+          ]
+        },
+        "more": {
+          "def": "A thin, flat, wide piece of something such as paper, metal or ice.",
+          "examples": [
+            "Hand me a sheet of paper, please.",
+            "A sheet of ice covered the puddle.",
+            "Cookies bake on a flat metal sheet."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shell",
+    "say": "shel",
+    "emoji": "🐚",
+    "forms": [
+      "shells"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The hard outside part of an egg or a nut.",
+          "examples": [
+            "I found a shell on the beach.",
+            "The turtle has a hard shell.",
+            "The snail went into its shell."
+          ]
+        },
+        "more": {
+          "def": "The hard outer covering of an egg, a nut, or an animal such as a snail or turtle.",
+          "examples": [
+            "I picked up a pretty shell on the beach.",
+            "The turtle pulled its head into its shell.",
+            "She cracked the shell of the egg."
           ]
         }
       }
@@ -301,6 +500,56 @@
     ]
   },
   {
+    "word": "shield",
+    "say": "sheeld",
+    "emoji": "🛡️",
+    "forms": [
+      "shields",
+      "shielded",
+      "shielding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that protects you.",
+          "examples": [
+            "The knight held a shield.",
+            "A shield protects you.",
+            "The shield is round."
+          ]
+        },
+        "more": {
+          "def": "A large flat piece that a fighter holds to protect the body, or anything that protects.",
+          "examples": [
+            "The knight raised his shield.",
+            "She wore a face shield for safety.",
+            "Clouds can shield the sun's heat."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To keep someone safe.",
+          "examples": [
+            "She shielded her eyes.",
+            "The umbrella shields me from the rain.",
+            "He shielded the baby from the wind."
+          ]
+        },
+        "more": {
+          "def": "To protect someone or something from harm.",
+          "examples": [
+            "He shielded his eyes from the bright sun.",
+            "The umbrella shielded us from the rain.",
+            "She shielded the candle from the wind."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shift",
     "say": "shift",
     "forms": [
@@ -344,6 +593,38 @@
             "Dad works the night shift at the hospital.",
             "Her shift at the store ends at five.",
             "The workers on the day shift went home."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shine",
+    "say": "shyn",
+    "emoji": "✨",
+    "forms": [
+      "shines",
+      "shone",
+      "shined",
+      "shining"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give off light.",
+          "examples": [
+            "The sun shines.",
+            "The stars shine at night.",
+            "Shine the flashlight here."
+          ]
+        },
+        "more": {
+          "def": "To give off a bright light, or to look bright because of light.",
+          "examples": [
+            "The moon shone brightly over the lake.",
+            "The floor shines after Mom washes it.",
+            "He shined his shoes until they sparkled."
           ]
         }
       }
@@ -859,6 +1140,36 @@
     ]
   },
   {
+    "word": "shove",
+    "say": "shuv",
+    "forms": [
+      "shoves",
+      "shoved",
+      "shoving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To push someone or something hard.",
+          "examples": [
+            "He shoved the box.",
+            "She shoved the door open.",
+            "I shoved my hat in my bag."
+          ]
+        },
+        "more": {
+          "def": "To push something hard, often in a rough way.",
+          "examples": [
+            "He shoved the heavy box across the floor.",
+            "She shoved her books into her bag.",
+            "The wind shoved the door shut."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "show",
     "say": "shoh",
     "forms": [
@@ -963,6 +1274,37 @@
     ]
   },
   {
+    "word": "shrink",
+    "say": "shringk",
+    "forms": [
+      "shrinks",
+      "shrank",
+      "shrunk",
+      "shrinking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get smaller.",
+          "examples": [
+            "My sweater will shrink in the wash.",
+            "The puddle shrank.",
+            "The balloon shrank."
+          ]
+        },
+        "more": {
+          "def": "To become smaller in size or amount.",
+          "examples": [
+            "My sweater shrank in the dryer.",
+            "The puddle shrank in the hot sun.",
+            "The balloon shrinks as the air leaks out."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shut",
     "say": "shut",
     "forms": [
@@ -986,6 +1328,36 @@
             "Please shut the gate so the sheep stay in the field.",
             "He shut the lid on the box.",
             "The shop shuts at six o'clock."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shy",
+    "say": "shy",
+    "forms": [
+      "shyer",
+      "shyest",
+      "shyly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Quiet and nervous around new people.",
+          "examples": [
+            "The shy boy hid.",
+            "She is shy.",
+            "The kitten is shy."
+          ]
+        },
+        "more": {
+          "def": "Nervous or uncomfortable around people you do not know well.",
+          "examples": [
+            "The shy girl hid behind her mother.",
+            "He was too shy to speak in front of the class.",
+            "The kitten was shy at first but soon came out."
           ]
         }
       }
