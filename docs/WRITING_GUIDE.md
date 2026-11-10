@@ -220,6 +220,8 @@ and record it in `data/skipped.txt` as `word | reason`, when it is:
   dancing"). Reason: `a form of dance`. Make sure the base word lists it in `forms`.
   But write a full entry when the form is a word in its own right that a child would
   look up (`building`, `interesting`, `tired`, `feeling`).
+  Adverbs ending in *-ly* that are in the list (`carefully`, `finally`, `usually`) were
+  put there on purpose and always get a full entry.
 - **A name, an abbreviation or a spelling mistake.** Reason: `a name`, and so on.
 
 Do **not** skip a word just because the topic is serious. Children's dictionaries

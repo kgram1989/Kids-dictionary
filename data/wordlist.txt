@@ -14,6 +14,14 @@
 #   derived from that data and is shared under the same licence (non-commercial,
 #   share-alike, with credit to the authors).
 #
+# Later, 562 words were added that the first method missed: common adverbs and other
+# words the age research does not cover (already, finally, usually), and words that
+# are common in children's books but rare in everyday speech (toil, beckon, tomb).
+# They were chosen by hand from words used often in books for ages 7-12 in CYP-LEX
+# (Korochkina, Marelli, Brysbaert & Rastle, 2024, https://osf.io/squ49, CC BY 4.0),
+# leaving out British-only words, names and unsuitable words, and were placed where
+# their frequency in those books ranks them. The earlier words keep their order.
+#
 # The list was then read through by hand and about 175 words unsuitable for young
 # children were removed (swearing, slurs, sexual words, nudity, alcohol, tobacco, drugs,
 # gambling, violent crime). Do not add them back without the owner's say-so.
@@ -297,6 +305,7 @@ lady
 without
 happy
 stand
+already
 while
 school
 drink
@@ -409,6 +418,7 @@ body
 shoot
 far
 anybody
+finally
 throw
 promise
 reason
@@ -443,6 +453,7 @@ husband
 against
 touch
 sign
+probably
 wonder
 six
 hot
@@ -523,6 +534,7 @@ parent
 i
 monday
 tuesday
+onto
 wednesday
 thursday
 friday
@@ -694,6 +706,7 @@ weird
 lieutenant
 future
 shoe
+carefully
 brain
 bother
 blue
@@ -705,6 +718,7 @@ tv
 service
 quit
 bank
+quietly
 clothes
 arrest
 hundred
@@ -805,6 +819,7 @@ cross
 animal
 belong
 girlfriend
+completely
 machine
 tie
 pleasure
@@ -831,12 +846,14 @@ amazing
 contact
 summer
 round
+gently
 marriage
 ought
 screw
 upset
 radio
 entire
+especially
 pack
 ice
 relationship
@@ -937,6 +954,8 @@ enemy
 detective
 press
 neither
+usually
+hey
 suspect
 rose
 nervous
@@ -978,6 +997,7 @@ grand
 sergeant
 warm
 pal
+clearly
 awful
 risk
 favorite
@@ -1057,6 +1077,7 @@ camp
 apologize
 suddenly
 hall
+anywhere
 innocent
 bullet
 operation
@@ -1085,6 +1106,7 @@ restaurant
 trial
 moon
 stole
+softly
 load
 further
 program
@@ -1107,6 +1129,7 @@ everywhere
 breathe
 deliver
 hardly
+surely
 dumb
 cake
 crew
@@ -1114,8 +1137,10 @@ introduce
 bridge
 beauty
 claim
+easily
 ghost
 stage
+besides
 cheat
 add
 rat
@@ -1193,6 +1218,7 @@ dry
 themselves
 opportunity
 fake
+loudly
 nature
 drag
 subject
@@ -1282,6 +1308,7 @@ schedule
 approach
 monkey
 rise
+forever
 interview
 military
 wet
@@ -1302,6 +1329,7 @@ merry
 spread
 health
 purpose
+possibly
 depend
 leader
 remove
@@ -1333,6 +1361,7 @@ downstairs
 tall
 suffer
 several
+footstep
 deny
 liar
 sugar
@@ -1390,6 +1419,7 @@ loser
 personally
 pill
 tank
+firmly
 male
 property
 source
@@ -1399,8 +1429,10 @@ telephone
 junior
 mood
 toast
+mostly
 swim
 village
+gesture
 nor
 supply
 transfer
@@ -1415,6 +1447,7 @@ research
 radar
 aware
 brave
+truly
 season
 object
 bless
@@ -1465,6 +1498,7 @@ yellow
 customer
 avoid
 tongue
+suck
 television
 handsome
 soft
@@ -1480,6 +1514,7 @@ creature
 neighbor
 nerve
 among
+directly
 arrange
 demand
 direct
@@ -1495,6 +1530,7 @@ warning
 argue
 bang
 sudden
+entirely
 social
 cheer
 rescue
@@ -1505,6 +1541,7 @@ surgery
 glasses
 license
 solve
+tightly
 degree
 farm
 snake
@@ -1518,6 +1555,7 @@ tail
 goodness
 confused
 chocolate
+totally
 sweat
 unfortunately
 staff
@@ -1527,6 +1565,7 @@ chain
 toilet
 pie
 reality
+nervously
 confirm
 ocean
 vision
@@ -1592,8 +1631,10 @@ gosh
 shock
 defend
 period
+halfway
 medium
 outfit
+apparently
 nightmare
 dozen
 obvious
@@ -1615,6 +1656,7 @@ barely
 woods
 pink
 curse
+silently
 owner
 reporter
 panic
@@ -1668,6 +1710,7 @@ physical
 attempt
 attitude
 boring
+seriously
 towards
 threat
 coast
@@ -1744,6 +1787,7 @@ sharp
 percent
 objection
 universe
+safely
 chop
 desperate
 dirt
@@ -1797,11 +1841,13 @@ replace
 retire
 attractive
 apology
+sadly
 shave
 fruit
 naturally
 express
 spit
+meanwhile
 happiness
 anytime
 photograph
@@ -1818,6 +1864,7 @@ gain
 pathetic
 rub
 clue
+wow
 cast
 hop
 bow
@@ -1836,6 +1883,7 @@ behave
 destiny
 adult
 dragon
+closely
 aside
 dish
 whip
@@ -1891,6 +1939,7 @@ alert
 reward
 silent
 violence
+sideways
 steady
 cap
 fed
@@ -1905,6 +1954,7 @@ embarrassing
 lad
 armed
 struggle
+rusty
 behavior
 register
 tiger
@@ -1920,9 +1970,11 @@ chuck
 monitor
 invent
 swallow
+luckily
 sensitive
 tunnel
 skill
+heavily
 flash
 shark
 buzz
@@ -1942,6 +1994,7 @@ wreck
 benefit
 tool
 zone
+sandy
 spoil
 rare
 ancient
@@ -1974,6 +2027,7 @@ aim
 hip
 produce
 basketball
+bellow
 guide
 lion
 treatment
@@ -1988,14 +2042,19 @@ competition
 sigh
 document
 delicious
+deeply
 passion
 creep
+proudly
 district
 insult
 argument
 muscle
 activity
 failure
+terribly
+angrily
+eagerly
 booth
 miserable
 recommend
@@ -2009,7 +2068,9 @@ bean
 beef
 fantasy
 procedure
+nudge
 teaching
+brightly
 emotional
 hunting
 missile
@@ -2041,11 +2102,13 @@ testify
 therefore
 rumor
 league
+clamber
 legend
 occasion
 museum
 sail
 cabin
+alongside
 drama
 habit
 drawing
@@ -2075,6 +2138,7 @@ steak
 tag
 bored
 rifle
+excitedly
 whistle
 fever
 series
@@ -2093,6 +2157,8 @@ minister
 incident
 squeeze
 useless
+unlike
+fully
 reputation
 root
 fighter
@@ -2101,6 +2167,7 @@ smooth
 suffering
 expose
 plastic
+whisker
 permit
 bush
 specific
@@ -2112,10 +2179,12 @@ fashion
 indicate
 supper
 coincidence
+assure
 shell
 host
 ace
 fuel
+wildly
 movement
 bible
 chuckle
@@ -2150,6 +2219,7 @@ factory
 ordinary
 surrender
 temple
+throughout
 audition
 laundry
 broad
@@ -2158,6 +2228,7 @@ announce
 cave
 approve
 blast
+furiously
 item
 servant
 tale
@@ -2176,6 +2247,7 @@ lung
 shy
 campaign
 angle
+glint
 patrol
 thanksgiving
 explode
@@ -2187,15 +2259,20 @@ kit
 ad
 visitor
 delay
+upside
 influence
+lurch
+hopefully
 steel
 background
 spill
 crystal
 chamber
 reaction
+anymore
 reasonable
 candle
+honestly
 tattoo
 drill
 defeat
@@ -2206,6 +2283,7 @@ gym
 contain
 gear
 suite
+kindly
 agreement
 actress
 former
@@ -2231,6 +2309,7 @@ noon
 resist
 wander
 ranch
+calmly
 bark
 prom
 ending
@@ -2256,6 +2335,7 @@ instruction
 coward
 charity
 injury
+presently
 suggestion
 mass
 judgment
@@ -2313,6 +2393,7 @@ offense
 council
 grass
 romance
+frantically
 adventure
 complaint
 con
@@ -2342,6 +2423,7 @@ chart
 flame
 possession
 robot
+merely
 violent
 beep
 unhappy
@@ -2355,9 +2437,12 @@ stroke
 buster
 crown
 soap
+spite
+rocky
 headquarters
 balance
 recording
+politely
 math
 melt
 port
@@ -2403,6 +2488,7 @@ weigh
 sweater
 territory
 repair
+gradually
 cruise
 declare
 hatch
@@ -2429,6 +2515,7 @@ improve
 japan
 transport
 cherry
+swiftly
 skate
 spike
 bleed
@@ -2455,6 +2542,7 @@ burger
 rehearsal
 suitcase
 eagle
+thoughtfully
 frog
 corn
 beside
@@ -2464,9 +2552,12 @@ expense
 painful
 tragedy
 bubble
+hmm
+highly
 pan
 billion
 extraordinary
+hastily
 furniture
 meantime
 rice
@@ -2493,6 +2584,7 @@ basket
 goose
 liver
 mud
+reluctantly
 scout
 religion
 rap
@@ -2549,6 +2641,7 @@ anxious
 privilege
 engagement
 click
+rapidly
 emperor
 western
 darn
@@ -2563,6 +2656,7 @@ conclusion
 editor
 widow
 reserve
+beckon
 development
 construction
 execute
@@ -2572,6 +2666,7 @@ combat
 kidney
 oxygen
 religious
+summon
 branch
 dime
 punishment
@@ -2607,6 +2702,7 @@ intelligent
 moral
 balloon
 cooperate
+strangely
 feature
 lawn
 blah
@@ -2630,6 +2726,7 @@ freezing
 accent
 comrade
 entry
+fairly
 labor
 empire
 meter
@@ -2642,6 +2739,7 @@ magnificent
 diner
 boo
 novel
+awfully
 stamp
 temporary
 goat
@@ -2662,6 +2760,7 @@ eleven
 doughnut
 despite
 drawer
+shortly
 reference
 spray
 fade
@@ -2678,6 +2777,7 @@ skirt
 chef
 smack
 harbor
+underwater
 carpet
 gig
 pencil
@@ -2694,24 +2794,30 @@ entertainment
 commissioner
 jazz
 tissue
+gape
 achieve
 hollow
+venture
+ebony
 inspire
 brake
 publish
 upper
 praise
 coma
+utterly
 bingo
 typical
 dial
 protest
 album
+astonishment
 industry
 remarkable
 academy
 fold
 soccer
+steadily
 rot
 resident
 rod
@@ -2725,6 +2831,7 @@ sum
 catholic
 loyalty
 elder
+lightly
 stiff
 picnic
 purple
@@ -2754,8 +2861,10 @@ bluff
 dentist
 tragic
 unfortunate
+partly
 weed
 fluid
+curly
 ranger
 brass
 tuck
@@ -2806,12 +2915,14 @@ ditch
 injure
 stain
 salary
+accidentally
 react
 absolute
 dip
 dining
 divine
 undercover
+tomb
 wizard
 halt
 phrase
@@ -2822,6 +2933,7 @@ rug
 announcement
 bully
 beneath
+abruptly
 cuff
 extreme
 fetch
@@ -2829,6 +2941,7 @@ nest
 southern
 stir
 cheek
+cheerfully
 bitter
 coordinate
 discharge
@@ -2847,9 +2960,12 @@ championship
 lame
 photographer
 assist
+incredibly
 electricity
 swamp
 civilization
+constantly
+clan
 cracker
 unconscious
 fund
@@ -2863,6 +2979,7 @@ scientific
 reception
 alike
 burden
+curiously
 chemical
 counselor
 depth
@@ -2890,6 +3007,7 @@ pepper
 stunt
 initial
 savage
+outstretched
 butcher
 nanny
 purchase
@@ -2914,6 +3032,7 @@ jewelry
 sub
 weakness
 withdraw
+secretly
 humble
 jeep
 shotgun
@@ -2959,6 +3078,8 @@ sober
 acid
 robe
 bait
+intently
+firework
 whoop
 draft
 holly
@@ -2975,6 +3096,8 @@ bowling
 whack
 deadly
 journal
+grimace
+escort
 confident
 homeless
 warehouse
@@ -3022,6 +3145,7 @@ fist
 rack
 scrub
 alter
+lately
 cannon
 overnight
 silk
@@ -3030,6 +3154,7 @@ bake
 bench
 hustle
 restore
+yeti
 sausage
 enormous
 naughty
@@ -3057,7 +3182,10 @@ scheme
 tomato
 intense
 fried
+laptop
 spoon
+internet
+fortunately
 transmission
 wax
 detect
@@ -3075,6 +3203,7 @@ tramp
 groom
 ladder
 monk
+somewhat
 olive
 scale
 penalty
@@ -3110,6 +3239,7 @@ impact
 ransom
 symptom
 persuade
+survey
 appetite
 confusing
 diary
@@ -3127,6 +3257,7 @@ dramatic
 musician
 tournament
 hose
+trudge
 hurricane
 puzzle
 seventh
@@ -3188,6 +3319,7 @@ tension
 perimeter
 pigeon
 profession
+generally
 shorts
 rehearse
 author
@@ -3200,12 +3332,14 @@ ceiling
 grunt
 chap
 giggle
+possess
 occupy
 cheerleader
 goddess
 sequence
 muffin
 glorious
+saucepan
 shrimp
 imply
 worthless
@@ -3217,6 +3351,7 @@ lighter
 select
 arts
 robber
+horribly
 amusing
 delightful
 geek
@@ -3234,6 +3369,7 @@ tin
 faithful
 vein
 magical
+urgently
 soil
 arrival
 bare
@@ -3249,6 +3385,9 @@ moan
 roar
 yank
 acknowledge
+whoa
+surprisingly
+method
 authorize
 peak
 elect
@@ -3298,6 +3437,8 @@ misunderstand
 vest
 soviet
 submarine
+shrill
+precisely
 messenger
 reader
 sew
@@ -3305,6 +3446,7 @@ shade
 canyon
 decade
 racket
+immense
 unexpected
 investigator
 resolve
@@ -3324,9 +3466,11 @@ entertain
 politician
 rally
 bombing
+sternly
 chemistry
 cord
 deer
+prod
 flu
 sleepy
 yacht
@@ -3378,6 +3522,7 @@ justify
 demonstration
 dizzy
 frequency
+existence
 herd
 pickup
 retirement
@@ -3387,11 +3532,13 @@ tremendous
 ensure
 extend
 gown
+halloween
 anonymous
 conviction
 fuss
 grandson
 growl
+patiently
 perspective
 ego
 nickname
@@ -3433,6 +3580,7 @@ bold
 congress
 conquer
 fortunate
+deliberately
 hog
 ox
 doggy
@@ -3440,6 +3588,7 @@ donate
 forehead
 genuine
 predict
+newly
 sixteen
 sketch
 strings
@@ -3480,6 +3629,7 @@ eternity
 journalist
 recruit
 snatch
+hoist
 surgical
 tuna
 dreadful
@@ -3497,6 +3647,7 @@ unload
 convict
 minus
 addition
+fascinating
 dorm
 illness
 jolly
@@ -3511,6 +3662,7 @@ update
 risky
 exclusive
 bandit
+ooh
 fountain
 handcuff
 tab
@@ -3537,6 +3689,7 @@ overcome
 breakdown
 ridge
 itch
+email
 ambush
 balcony
 butterfly
@@ -3551,6 +3704,7 @@ agenda
 clap
 insanity
 moonlight
+procession
 owl
 carrot
 earthquake
@@ -3563,6 +3717,7 @@ mattress
 chili
 ink
 rhyme
+undergrowth
 importance
 stray
 content
@@ -3577,6 +3732,8 @@ hush
 steer
 december
 marker
+thankfully
+beautifully
 thigh
 razor
 karate
@@ -3595,6 +3752,7 @@ pursuit
 stumble
 carnival
 critic
+wit
 shack
 chant
 backyard
@@ -3609,6 +3767,7 @@ outstanding
 advertising
 bathing
 concrete
+treacherous
 representative
 copper
 consideration
@@ -3623,8 +3782,11 @@ participate
 slipper
 guidance
 puppet
+woolly
+automatically
 roller
 brutal
+scrunch
 jaw
 bomber
 harsh
@@ -3657,9 +3819,12 @@ mutual
 preacher
 transmit
 spear
+nevertheless
 vacuum
 assemble
 scrambled
+fragment
+differently
 wooden
 grenade
 slot
@@ -3668,15 +3833,19 @@ videotape
 confusion
 fare
 undo
+nicely
 gracious
 rabbi
 scrap
 amongst
+hedgehog
 dash
 grease
 occasionally
+specially
 pregnancy
 shipment
+complex
 whine
 carve
 thread
@@ -3721,6 +3890,8 @@ haunt
 lens
 overreact
 volume
+tunic
+incline
 banker
 conclude
 convincing
@@ -3745,6 +3916,7 @@ glow
 skeleton
 teenage
 creation
+federal
 maintenance
 oyster
 scope
@@ -3786,6 +3958,7 @@ settlement
 granddaughter
 bandage
 bun
+freshly
 hairy
 enforcement
 reply
@@ -3801,6 +3974,7 @@ recommendation
 lure
 absence
 behold
+greatly
 corridor
 detention
 innocence
@@ -3824,6 +3998,7 @@ prophet
 luxury
 urine
 wardrobe
+strongly
 wheelchair
 deadline
 maker
@@ -3833,8 +4008,11 @@ preparation
 region
 senate
 significant
+guarantee
 sincere
 delight
+waver
+rosy
 parlor
 quest
 untie
@@ -3846,11 +4024,13 @@ inspection
 literature
 paw
 altogether
+elaborate
 ginger
 gutter
 offensive
 variety
 whereabouts
+officially
 acquaintance
 acre
 bathtub
@@ -3864,6 +4044,7 @@ healing
 sixty
 soak
 splash
+sketchbook
 spook
 employer
 fisherman
@@ -3892,6 +4073,8 @@ chorus
 footsteps
 shipping
 stereo
+whoosh
+bustle
 velvet
 starter
 deceased
@@ -3903,6 +4086,7 @@ destination
 dental
 elegant
 janitor
+sprawl
 pause
 pudding
 starve
@@ -3917,6 +4101,7 @@ cavalry
 coverage
 expedition
 fugitive
+cog
 overtime
 sour
 topic
@@ -3940,6 +4125,7 @@ expel
 incoming
 napkin
 prospect
+mainly
 shatter
 shocking
 sole
@@ -3949,9 +4135,12 @@ sunrise
 definite
 examination
 hunger
+unusually
+circuit
 lighten
 obsession
 freeway
+dormitory
 ketchup
 sneeze
 vast
@@ -3960,6 +4149,7 @@ stroll
 bin
 fiction
 trainer
+goodnight
 utter
 dagger
 poisoning
@@ -3968,6 +4158,7 @@ lizard
 snoop
 unpleasant
 descend
+debris
 chauffeur
 crate
 dye
@@ -3999,6 +4190,8 @@ mold
 shallow
 trading
 facial
+online
+droop
 jealousy
 rumble
 weasel
@@ -4006,12 +4199,14 @@ werewolf
 blackout
 gallon
 inject
+supernatural
 overhear
 ropes
 sane
 touchdown
 astronaut
 blossom
+embroider
 flea
 harassment
 spaghetti
@@ -4035,6 +4230,7 @@ modest
 pyramid
 universal
 flap
+distinguish
 zombie
 pajamas
 troop
@@ -4076,6 +4272,7 @@ specialty
 blaze
 cafeteria
 cola
+archway
 concentration
 consistent
 grain
@@ -4090,6 +4287,7 @@ lemonade
 maneuver
 naval
 prosecute
+distress
 admission
 substitute
 barber
@@ -4097,6 +4295,8 @@ chemicals
 departure
 spectacular
 blouse
+historian
+bravely
 allowance
 crooked
 defy
@@ -4107,6 +4307,7 @@ grill
 introduction
 melon
 mop
+tattered
 boost
 choir
 coyote
@@ -4116,18 +4317,25 @@ lethal
 orchestra
 supermarket
 confirmation
+unison
+suffrage
+elsewhere
 entertaining
 respectable
 sensation
 ultimately
+ewe
 orphanage
 reflection
+reluctant
+cramped
 trespass
 fireworks
 suction
 bulb
 distraction
 ferry
+importantly
 outlaw
 server
 snore
@@ -4135,6 +4343,7 @@ squash
 quiz
 essential
 horizon
+workbench
 relevant
 tenant
 veteran
@@ -4151,6 +4360,7 @@ dusty
 exaggerate
 globe
 immortal
+oppose
 inconvenience
 partnership
 portal
@@ -4183,12 +4393,14 @@ interior
 protein
 treaty
 unpack
+notion
 artillery
 clumsy
 coconut
 grocery
 lump
 playground
+unexpectedly
 ancestors
 freezer
 instructor
@@ -4202,6 +4414,7 @@ complication
 defensive
 hoop
 infant
+correctly
 jasmine
 keeper
 rental
@@ -4210,6 +4423,7 @@ fingernail
 guinea
 injection
 trance
+mainland
 fireplace
 grandchild
 perfection
@@ -4219,6 +4433,8 @@ merit
 ammo
 intellectual
 rapid
+strictly
+plummet
 accomplice
 provoke
 squeak
@@ -4232,9 +4448,12 @@ hideous
 insulting
 thankful
 academic
+technically
 preach
 arise
 dim
+squirt
+freely
 dine
 employment
 toothbrush
@@ -4267,11 +4486,14 @@ plumber
 dislike
 heroic
 lone
+vivid
 noisy
 sneaker
 taco
 broom
 donor
+confidently
+accustomed
 fatty
 harvest
 rewrite
@@ -4281,6 +4503,7 @@ fiber
 arrogant
 filter
 freaky
+jostle
 funky
 gunfire
 intruder
@@ -4292,6 +4515,8 @@ chore
 glance
 precise
 trench
+severely
+consume
 altar
 axe
 transform
@@ -4299,6 +4524,7 @@ caller
 bash
 golly
 trousers
+motive
 racist
 rival
 sinner
@@ -4308,6 +4534,7 @@ fragile
 appreciation
 continent
 convenience
+technique
 disconnect
 fasten
 legacy
@@ -4316,6 +4543,8 @@ unlikely
 bundle
 translation
 amazed
+warmly
+parliament
 backstage
 fierce
 majority
@@ -4328,6 +4557,7 @@ grudge
 eyewitness
 separation
 unstable
+dangerously
 babysitter
 revolutionary
 slay
@@ -4341,6 +4571,9 @@ blush
 boundary
 category
 comedian
+specimen
+harpoon
+frequently
 fireman
 juror
 mechanic
@@ -4377,6 +4610,7 @@ paramedics
 partial
 awaken
 disposal
+veer
 fling
 gap
 herb
@@ -4384,6 +4618,9 @@ lookout
 static
 temptation
 babysit
+resign
+atop
+amid
 hippie
 offender
 spank
@@ -4417,13 +4654,20 @@ embarrassment
 atomic
 cadet
 crunch
+quantity
 dearly
 groove
+reform
+muddle
 leadership
 nuke
 plow
 sincerely
 venus
+ritual
+positively
+expanse
+coax
 meaningless
 runaway
 traveler
@@ -4442,6 +4686,7 @@ suitable
 adoption
 delusion
 keen
+convention
 artificial
 curl
 flaw
@@ -4450,9 +4695,11 @@ salvage
 sever
 spooky
 vague
+extract
 vanquish
 rascal
 crusade
+threshold
 decline
 fiddle
 greed
@@ -4488,6 +4735,7 @@ elementary
 gulf
 lining
 orderly
+satellite
 affirmative
 bikini
 buffet
@@ -4499,6 +4747,8 @@ whiz
 canvas
 confine
 mash
+vulnerable
+haze
 thorough
 wager
 devastate
@@ -4508,11 +4758,13 @@ paralyze
 relay
 triangle
 vegetarian
+shh
 cardinal
 eyebrow
 intrude
 parachute
 enthusiasm
+plume
 interference
 lilly
 mafia
@@ -4522,6 +4774,7 @@ curfew
 reflex
 cherish
 correction
+peacefully
 decency
 expire
 irresponsible
@@ -4538,6 +4791,9 @@ sunlight
 villa
 disappearance
 fascinate
+ornate
+crinkle
+bridle
 goon
 racer
 plaster
@@ -4553,6 +4809,7 @@ crucial
 drone
 duchess
 fin
+frankly
 leash
 manufacture
 marathon
@@ -4563,6 +4820,7 @@ feminine
 industrial
 phantom
 recognition
+engineering
 scholar
 wrench
 cling
@@ -4589,6 +4847,8 @@ juicy
 matching
 operative
 penguin
+pesticide
+genuinely
 premonition
 reef
 sweaty
@@ -4599,6 +4859,8 @@ chute
 gifted
 hazard
 liter
+regardless
+nineteenth
 malfunction
 microwave
 predator
@@ -4614,6 +4876,7 @@ slob
 superhero
 weary
 absorb
+wonderfully
 dumpster
 grandparent
 plum
@@ -4630,6 +4893,8 @@ leaning
 piggy
 radius
 tidy
+blunt
+basis
 bookstore
 sanctuary
 zoom
@@ -4640,6 +4905,7 @@ coupon
 hull
 regain
 tenth
+previously
 vase
 criticize
 establishment
@@ -4652,6 +4918,9 @@ wimp
 comforting
 crumb
 dialogue
+whatsoever
+obscure
+bluebell
 imaginary
 occupation
 slit
@@ -4661,6 +4930,7 @@ turf
 babble
 inhale
 ax
+shaggy
 ballroom
 comics
 dominate
@@ -4674,6 +4944,7 @@ viewer
 curb
 cub
 suffocate
+sweetly
 ache
 adapt
 barrier
@@ -4693,6 +4964,8 @@ drawers
 iced
 institute
 jab
+twentieth
+sentry
 kin
 mechanism
 ripe
@@ -4704,10 +4977,14 @@ neutral
 olympics
 prescribe
 terrifying
+mountainside
+jest
+jackal
 buzzer
 cam
 contractor
 disobey
+ambition
 lively
 mumble
 natives
@@ -4733,12 +5010,14 @@ cricket
 daring
 mar
 pluck
+proclaim
 redhead
 stump
 chubby
 dictate
 greatness
 patriot
+phew
 portable
 recite
 rooster
@@ -4767,6 +5046,7 @@ reminder
 spaceship
 toaster
 bladder
+status
 heave
 pup
 refugee
@@ -4781,6 +5061,7 @@ altitude
 bind
 elderly
 flake
+activate
 gator
 greasy
 restricted
@@ -4792,6 +5073,7 @@ thrust
 tuition
 decoy
 rake
+considerably
 cathedral
 grind
 housing
@@ -4804,6 +5086,7 @@ disregard
 extent
 insecure
 manly
+segregation
 slavery
 steering
 upgrade
@@ -4814,6 +5097,7 @@ comparison
 corny
 drummer
 flatter
+loft
 freight
 hometown
 impatient
@@ -4822,12 +5106,14 @@ uptight
 worthwhile
 wrinkle
 bridesmaid
+axis
 deuce
 digest
 diver
 glimpse
 legendary
 reinforcement
+lush
 sensational
 trout
 vulture
@@ -4855,6 +5141,7 @@ scorpion
 snail
 technician
 tame
+clamor
 crust
 cultural
 linen
@@ -4881,6 +5168,9 @@ menace
 province
 schoolteacher
 detailed
+turret
+rickety
+boldly
 righteous
 blueprint
 emerge
@@ -4902,6 +5192,8 @@ payback
 photography
 saucer
 sewing
+subtle
+sheepishly
 shiver
 wages
 bleep
@@ -4913,6 +5205,8 @@ brunette
 catalog
 construct
 mink
+intimidate
+conjure
 parasite
 prejudice
 swab
@@ -4920,12 +5214,15 @@ unarmed
 bumper
 conditioning
 exceed
+website
+lair
 kindergarten
 nutty
 perish
 pitiful
 lime
 stewardess
+span
 unite
 alas
 brunch
@@ -4937,6 +5234,8 @@ serum
 telegraph
 weaken
 autumn
+joyfully
+beacon
 daytime
 gadget
 hoot
@@ -4955,6 +5254,7 @@ cloak
 disarm
 fundamental
 grieve
+verge
 parrot
 publishing
 raisin
@@ -4966,6 +5266,7 @@ treasury
 unreasonable
 resemble
 cavity
+challenging
 chum
 hijack
 improvise
@@ -4989,6 +5290,9 @@ insensitive
 macho
 overdo
 plantation
+salamander
+patchwork
+necessarily
 referee
 slate
 tally
@@ -5011,6 +5315,8 @@ defender
 fang
 heavyweight
 info
+scholarship
+burly
 inquire
 meow
 stallion
@@ -5025,11 +5331,15 @@ lasagna
 mineral
 tummy
 unicorn
+spyglass
+petition
+luminous
 canary
 climate
 conceal
 fluffy
 hash
+centaur
 machinery
 mashed
 screening
@@ -5040,6 +5350,7 @@ antibiotics
 applaud
 circulation
 contaminate
+speckled
 hover
 layout
 overhead
@@ -5053,6 +5364,7 @@ vocal
 avalanche
 counterfeit
 hangar
+proposal
 magnet
 mini
 protector
@@ -5091,6 +5403,8 @@ pointless
 tux
 vibration
 windshield
+nuzzle
+mite
 flop
 knockout
 lever
@@ -5099,6 +5413,8 @@ stinky
 substantial
 distribute
 dunk
+valiant
+refuge
 fiend
 frontier
 howl
@@ -5111,6 +5427,8 @@ democratic
 goody
 mermaid
 resemblance
+longingly
+grapple
 spur
 underworld
 vitamins
@@ -5122,6 +5440,8 @@ casket
 countdown
 countryside
 infinite
+squelch
+era
 kisser
 nay
 scram
@@ -5142,6 +5462,8 @@ luncheon
 obnoxious
 receiver
 scalpel
+resolution
+gracefully
 sled
 sustain
 tart
@@ -5156,6 +5478,9 @@ pep
 polo
 ratio
 ration
+taut
+passionate
+forage
 scramble
 significance
 yonder
@@ -5168,6 +5493,8 @@ girlie
 inning
 juggle
 partridge
+wombat
+sorcerer
 reindeer
 confiscate
 harness
@@ -5183,6 +5510,8 @@ kilometer
 terrace
 commandment
 cushion
+lance
+cobblestone
 maple
 stoop
 summit
@@ -5194,6 +5523,8 @@ disappointing
 jeopardy
 midst
 packet
+mossy
+gladly
 southwest
 superstitious
 unpredictable
@@ -5208,6 +5539,7 @@ flier
 follower
 funk
 lettuce
+merrily
 manor
 marshmallow
 rejection
@@ -5217,6 +5549,7 @@ distinction
 evacuation
 shuffle
 spectacle
+wireless
 spicy
 clone
 cranky
@@ -5228,6 +5561,7 @@ perk
 ramp
 resurrection
 weave
+regulation
 antenna
 hoof
 breakup
@@ -5239,6 +5573,8 @@ righty
 sermon
 weirdo
 capability
+physics
+medic
 cautious
 cruelty
 delete
@@ -5252,6 +5588,9 @@ murmur
 refund
 restraining
 whir
+rectangle
+granite
+contraption
 withdrawal
 criticism
 excess
@@ -5275,6 +5614,9 @@ veil
 witty
 beetle
 capsule
+seedling
+recede
+inevitable
 chord
 doorman
 moth
@@ -5297,6 +5639,7 @@ rite
 rustle
 sleigh
 dwell
+lynx
 emerald
 lash
 reap
@@ -5309,6 +5652,13 @@ booster
 cove
 fantasize
 frown
+queasy
+intensity
+foal
+earthworm
+confide
+anguish
+adorn
 handshake
 leech
 macaroni
@@ -5331,6 +5681,7 @@ ninety
 nuisance
 perceive
 requirement
+froth
 roadblock
 scarlet
 seldom
@@ -5342,6 +5693,8 @@ conductor
 diabetes
 outrage
 lurk
+remnant
+forefinger
 blindfold
 catalogue
 cedar
@@ -5361,6 +5714,7 @@ scoot
 wool
 hub
 braces
+crevice
 canister
 charade
 context
@@ -5370,6 +5724,8 @@ northeast
 overload
 rim
 sassy
+virtue
+sarcastic
 slimy
 teller
 valid
@@ -5391,6 +5747,8 @@ monument
 samurai
 sidekick
 blare
+maize
+deflate
 cram
 demolition
 herring
@@ -5409,6 +5767,7 @@ baton
 cuckoo
 endanger
 listener
+barren
 prevail
 recital
 shaky
@@ -5417,6 +5776,8 @@ badger
 certainty
 courageous
 enhance
+seahorse
+concept
 mining
 puncture
 skater
@@ -5433,6 +5794,12 @@ programming
 roughly
 sophomore
 unemployment
+strait
+sheepish
+intricate
+hence
+economy
+droplet
 annoy
 backward
 boiler
@@ -5469,6 +5836,7 @@ exhale
 furnace
 gauge
 kite
+cubicle
 mailman
 muffled
 shortage
@@ -5487,6 +5855,8 @@ cactus
 freshen
 medieval
 snappy
+gnarled
+chieftain
 standby
 textbook
 barbarian
@@ -5494,6 +5864,7 @@ contemplate
 explorer
 immigrant
 mathematics
+frilly
 lineup
 remedy
 bacteria
@@ -5535,6 +5906,10 @@ pineapple
 satisfactory
 stepfather
 workout
+sullen
+singe
+goalkeeper
+feat
 banking
 cinnamon
 comply
@@ -5553,6 +5928,7 @@ glamorous
 interruption
 gender
 huddle
+resent
 misfortune
 prairie
 rejoice
@@ -5569,6 +5945,7 @@ slumber
 suburb
 underpants
 usher
+efficient
 warfare
 puss
 stale
@@ -5591,6 +5968,7 @@ restroom
 tablet
 abnormal
 aquarium
+spindle
 bravery
 buggy
 composition
@@ -5605,6 +5983,7 @@ edit
 voter
 aggression
 allied
+dwindle
 initiative
 jog
 jumper
@@ -5620,6 +5999,8 @@ manhood
 nag
 neon
 proceedings
+inscription
+evident
 wits
 woe
 woof
@@ -5631,6 +6012,7 @@ sprout
 crave
 abide
 cheater
+comprehend
 pronto
 starship
 tack
@@ -5644,6 +6026,10 @@ determination
 fishy
 reek
 efficiency
+philosophy
+grid
+divert
+catastrophe
 advertise
 captive
 dairy
@@ -5652,6 +6038,7 @@ mush
 reunite
 ripper
 rodent
+deliberate
 unlimited
 holdup
 trend
@@ -5671,6 +6058,8 @@ enchanted
 evaluate
 herbs
 inventor
+tidal
+amend
 irritate
 manufacturer
 moo
@@ -5689,6 +6078,8 @@ messiah
 preference
 rebellion
 satin
+swagger
+heed
 soften
 unnatural
 witchcraft
@@ -5698,6 +6089,10 @@ dilemma
 electronics
 ethical
 functional
+turbine
+economic
+digital
+coronation
 grieving
 hairdresser
 intestine
@@ -5716,6 +6111,7 @@ clatter
 herald
 hitchhike
 masses
+corrupt
 picket
 precedent
 teeny
@@ -5749,6 +6145,8 @@ windy
 consist
 odor
 printer
+philosopher
+chinchilla
 skateboard
 appendix
 beginner
@@ -5760,6 +6158,8 @@ handicapped
 hydrogen
 matrimony
 synthetic
+curry
+aerial
 tacky
 theatrical
 tolerance
@@ -5779,6 +6179,7 @@ maze
 overrated
 polar
 polka
+assess
 saliva
 scold
 shriek
@@ -5796,6 +6197,7 @@ eel
 encore
 excellence
 filmmaker
+radiation
 glide
 heathen
 lantern
@@ -5824,6 +6226,11 @@ patio
 poorly
 postman
 reborn
+organic
+notorious
+inquisitive
+crude
+alliance
 salty
 snuff
 spades
@@ -5837,6 +6244,7 @@ reinforce
 adequate
 caretaker
 dishonest
+perilous
 migraine
 miniature
 morbid
@@ -5844,6 +6252,10 @@ mutation
 mutiny
 persistent
 reopen
+stocky
+inquiry
+distort
+airlock
 unfold
 vial
 freeman
@@ -5856,6 +6268,9 @@ artifact
 gaming
 hurl
 jogging
+wispy
+toil
+dappled
 mute
 senseless
 watermelon
@@ -5872,6 +6287,11 @@ spouse
 sprain
 statute
 throttle
+unbroken
+leaflet
+gloat
+fatigue
+audible
 combo
 mixture
 stretcher
@@ -5887,6 +6307,9 @@ glitter
 heritage
 intriguing
 intrusion
+triangular
+peal
+elixir
 nada
 prominent
 sandman
@@ -5902,6 +6325,7 @@ coil
 crackle
 flute
 hamster
+birdsong
 hoodlum
 latch
 leisure
@@ -5924,6 +6348,11 @@ drastic
 exterior
 extinct
 finale
+sophisticated
+outburst
+intervene
+embark
+depict
 hallucinate
 milligram
 stressful
@@ -5937,6 +6366,9 @@ forgiving
 knack
 leftovers
 pastry
+sycamore
+streamer
+liberate
 pipeline
 pushy
 twirl
@@ -5956,6 +6388,9 @@ exterminator
 external
 frustrating
 holder
+tedious
+proportion
+loathe
 indoors
 lobe
 lunchtime
@@ -5984,6 +6419,9 @@ dependent
 habitat
 hind
 horrid
+retain
+formidable
+app
 masculine
 ordeal
 penicillin
@@ -5998,6 +6436,11 @@ sleeper
 tanker
 exclude
 hurrah
+scornful
+ruthless
+foothold
+diesel
+barricade
 merge
 panda
 relive
@@ -6011,6 +6454,7 @@ excessive
 grammar
 pore
 soar
+lioness
 syringe
 workplace
 clipping
@@ -6029,6 +6473,9 @@ impersonate
 intersection
 mechanics
 productive
+wage
+onlooker
+emphasize
 raffle
 smug
 snip
@@ -6053,6 +6500,8 @@ prohibit
 salami
 socket
 teammate
+segregate
+cornucopia
 thrive
 backfire
 fret
@@ -6072,6 +6521,7 @@ freighter
 frosty
 fungus
 grumpy
+mentor
 limbo
 marvel
 mediterranean
@@ -6092,6 +6542,8 @@ weeds
 bayonet
 chic
 compatible
+fathom
+ebb
 decay
 goodie
 jukebox
@@ -6126,6 +6578,8 @@ canteen
 conditioner
 geography
 granddaddy
+goblet
+ambitious
 cowardly
 dibs
 eject
@@ -6147,6 +6601,13 @@ raspberry
 roster
 seagull
 spacecraft
+leggings
+knapsack
+enlist
+domesticate
+dire
+commence
+algebra
 spat
 biggie
 boast
@@ -6165,6 +6626,12 @@ relic
 reproduce
 sanitarium
 greenhouse
+segment
+novelty
+documentary
+delta
+decree
+analyze
 asteroid
 cabbie
 clipper
@@ -6186,6 +6653,7 @@ piglet
 quitter
 redeem
 reside
+uncurl
 slop
 softball
 spiral
@@ -6211,6 +6679,10 @@ exhaust
 gourmet
 hardship
 hyena
+stubble
+grime
+footpath
+ablaze
 knitting
 mayonnaise
 meek
@@ -6227,6 +6699,12 @@ basics
 biblical
 blacksmith
 chemist
+swoosh
+multicolored
+megaphone
+hubbub
+greenery
+backup
 constitutional
 deadbeat
 defective
@@ -6252,6 +6730,9 @@ wrapper
 mango
 wilt
 deem
+spam
+boycott
+assessment
 goblin
 incorrect
 midway
@@ -6271,6 +6752,10 @@ cleanse
 confederate
 deli
 encouragement
+offspring
+hesitant
+disintegrate
+complexion
 finder
 garter
 headmaster
@@ -6291,6 +6776,9 @@ visualize
 dishwasher
 dome
 mantle
+serene
+imprint
+entrust
 overflow
 possum
 refrain
@@ -6308,6 +6796,8 @@ catchy
 cloudy
 constructive
 croak
+gnash
+adrenaline
 discrimination
 dosage
 fallout
@@ -6363,6 +6853,7 @@ incomplete
 ingredients
 intercom
 landlady
+dominant
 logo
 mackerel
 mentality
@@ -6381,6 +6872,8 @@ unveil
 uranium
 whiskers
 contradict
+phenomenon
+extensive
 blizzard
 bodily
 descendant
@@ -6410,6 +6903,8 @@ invalid
 lovable
 measles
 miraculous
+vibrant
+molecule
 mischief
 mythology
 newspaperman
@@ -6445,6 +6940,7 @@ specs
 uneasy
 unsolved
 urn
+kickball
 brow
 chimpanzee
 eyelash
@@ -6479,6 +6975,7 @@ persuasion
 primarily
 receptionist
 spoils
+wheelie
 unavailable
 wasp
 reassign
@@ -6501,6 +6998,7 @@ poacher
 pointy
 promptly
 smudge
+sage
 spanking
 taunt
 unmarried
@@ -6558,6 +7056,8 @@ sincerity
 sparkling
 speedy
 splatter
+pinecone
+indigo
 straightforward
 teamwork
 tiara
@@ -6605,6 +7105,7 @@ placement
 pusher
 snapshot
 swish
+springy
 tot
 arctic
 blunder
@@ -6630,6 +7131,9 @@ sandal
 accord
 anthem
 bonfire
+toothy
+regulate
+excel
 canine
 desirable
 enjoyable
@@ -6654,6 +7158,8 @@ extinguisher
 ghoul
 mope
 stow
+shrew
+beaker
 bedside
 continuous
 deluxe
@@ -6677,6 +7183,7 @@ shameful
 squish
 tracer
 tracker
+fairyland
 wham
 wildlife
 wretch
@@ -6704,6 +7211,7 @@ fig
 lark
 leukemia
 mound
+bison
 oar
 photographic
 pollution
@@ -6740,6 +7248,7 @@ controller
 cowgirl
 firefighter
 fluke
+legislature
 friar
 frisbee
 fumble
@@ -6769,6 +7278,7 @@ attain
 bidder
 bouncy
 bulge
+dynamic
 coloring
 compact
 complicate
@@ -6790,6 +7300,7 @@ hornet
 intrigue
 pottery
 pulp
+squiggle
 sequel
 trustworthy
 bio
@@ -6816,6 +7327,8 @@ patronize
 putty
 railway
 reasoning
+shrewd
+beanstalk
 resurrect
 selfless
 windmill
@@ -6859,6 +7372,7 @@ decrease
 dinnertime
 ethnic
 giddy
+townsfolk
 leary
 lumpy
 plaid
@@ -6937,6 +7451,9 @@ undertaker
 whirl
 purify
 biography
+vintage
+verdict
+grassland
 bloodstream
 bulldozer
 commute
@@ -6960,6 +7477,7 @@ stinger
 tempo
 upcoming
 blockade
+ecstatic
 minivan
 pharmacist
 bog
@@ -7027,6 +7545,7 @@ dazzle
 optimist
 afloat
 align
+tweak
 bearings
 candlelight
 centimeter
@@ -7056,6 +7575,7 @@ clank
 creak
 diagram
 doze
+wintry
 grasshopper
 horseshoe
 necktie
@@ -7084,6 +7604,7 @@ circular
 crewman
 discomfort
 hearse
+commerce
 newcomer
 patriotism
 perch
@@ -7164,6 +7685,8 @@ prosper
 thriller
 utilize
 warship
+tyrannosaurus
+expansion
 wheeze
 afterlife
 agreeable
@@ -7191,6 +7714,7 @@ scrounge
 spruce
 unsettle
 unwind
+analysis
 binoculars
 campfire
 earnest
@@ -7215,6 +7739,7 @@ recycling
 relaxation
 squirm
 unfit
+seabed
 aerobics
 apparatus
 completion
@@ -7249,6 +7774,7 @@ chisel
 crucifix
 density
 fleece
+yoga
 groundhog
 jitter
 manipulation
@@ -7316,6 +7842,7 @@ bellboy
 bowler
 calculator
 characterize
+cyclist
 croissant
 crouch
 culprit
@@ -7346,6 +7873,10 @@ buoy
 burro
 caterpillar
 clothe
+therapy
+teleport
+savannah
+acrobatic
 compile
 crypt
 dole
@@ -7382,6 +7913,8 @@ unclear
 vary
 avocado
 gymnasium
+thermal
+spectrum
 matinee
 mitten
 nitwit
@@ -7406,6 +7939,10 @@ handout
 imagery
 indestructible
 irritable
+psychology
+hopscotch
+chalkboard
+agile
 jellyfish
 layaway
 minefield
@@ -7432,6 +7969,9 @@ evaporate
 famished
 gauze
 gravel
+wormhole
+woodcutter
+igloo
 helium
 hospitalize
 inconsiderate
@@ -7501,6 +8041,8 @@ intake
 lockup
 unravel
 watchdog
+tweet
+homecoming
 advancement
 assert
 brittle
@@ -7532,6 +8074,7 @@ yodel
 populate
 accordion
 aggravate
+snowfall
 baptism
 berserk
 blurry
@@ -7576,6 +8119,7 @@ triumphant
 unmarked
 unwanted
 banister
+scallop
 bribery
 canon
 carefree
@@ -7612,6 +8156,7 @@ skillet
 streetcar
 boa
 downside
+rainfall
 downward
 freebie
 keyhole
@@ -7648,6 +8193,7 @@ newt
 prospective
 secretive
 seeker
+grump
 slew
 spunk
 sweeten
@@ -7683,6 +8229,8 @@ thoroughbred
 unannounced
 whopper
 chrome
+statistics
+grueling
 wharf
 adviser
 attentive
@@ -7727,6 +8275,11 @@ blackboard
 brim
 coo
 friction
+warthog
+powdery
+framework
+daunting
+consumer
 giver
 revival
 alpine
@@ -7764,6 +8317,7 @@ craziness
 envious
 fragrance
 germ
+upload
 gullible
 hairline
 haywire
@@ -7875,6 +8429,7 @@ partake
 pilgrimage
 racquetball
 settler
+moisten
 shear
 spirited
 thriving
@@ -7914,6 +8469,7 @@ pucker
 repairman
 repel
 reversal
+platypus
 rowdy
 schoolhouse
 seaboard
@@ -7956,6 +8512,7 @@ spotless
 temperament
 throbbing
 tiring
+splotch
 topple
 uncharted
 underdog
@@ -7988,6 +8545,8 @@ thermos
 unhappiness
 unhook
 unwilling
+wingspan
+rollercoaster
 upholstery
 bazooka
 brood
@@ -8080,6 +8639,7 @@ dismissal
 dispenser
 doghouse
 dual
+crinkly
 formulate
 frock
 greyhound
@@ -8119,6 +8679,10 @@ clinch
 damsel
 feeder
 galactic
+unstuck
+sushi
+sandcastle
+crayfish
 guacamole
 heroism
 leaky
@@ -8198,6 +8762,8 @@ vibes
 vixen
 aids
 astronomer
+plankton
+fairytale
 atlas
 backtrack
 barrage
@@ -8246,6 +8812,8 @@ botanical
 brisk
 carpool
 concoct
+supersonic
+leek
 custodian
 diameter
 elastic
@@ -8502,6 +9070,8 @@ adventurer
 agricultural
 alleyway
 appendicitis
+nucleus
+classification
 astonished
 baggy
 barracuda

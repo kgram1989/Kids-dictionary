@@ -7,7 +7,7 @@ no server or database.
 ## Layout
 
 - `data/words/*.json` — the dictionary entries, in files named after each word's first two letters (`camouflage` → `ca.json`).
-- `data/wordlist.txt` — the master list of about 10,500 words to add, most-used first. Do not reorder it.
+- `data/wordlist.txt` — the master list of about 10,900 words to add, most-used first. Do not reorder it.
 - `data/skipped.txt` — words from the list that were deliberately left out, with reasons.
 - `data/derived.txt` — words built from a root word (`unjust`, `sugarless`) that get a one-line `related` entry under their root, not a full entry.
 - `data/blocked.txt` — words removed as unsuitable for children. They must never get an entry, a related line or a hint; the check enforces this. Only the owner changes this file.
