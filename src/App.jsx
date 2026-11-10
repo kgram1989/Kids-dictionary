@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import {
-  index, LETTERS, POS_LABELS, canSpeak, loadWord, search, speak,
+  index, LETTERS, POS_LABELS, canSpeak, letterOf, loadWord, search, speak,
   useHashRoute, useStored, wordOfTheDay,
 } from './lib.js';
 
@@ -41,7 +41,7 @@ export default function App() {
       <main>
         <div className="no-print">
           <SearchBox />
-          <Alphabet current={page === 'letter' ? arg : page === 'word' && arg ? arg[0] : ''} />
+          <Alphabet current={page === 'letter' ? arg : page === 'word' && arg ? letterOf(arg) : ''} />
         </div>
         {content}
       </main>
@@ -94,7 +94,7 @@ function SearchBox() {
 }
 
 function Alphabet({ current }) {
-  const has = new Set(index.map((i) => i.w[0]));
+  const has = new Set(index.map((i) => letterOf(i.w)));
   return (
     <nav className="alphabet" aria-label="Browse by letter">
       {LETTERS.map((l) =>
@@ -141,7 +141,7 @@ function HomePage() {
 }
 
 function LetterPage({ letter }) {
-  const words = index.filter((i) => i.w[0] === letter);
+  const words = index.filter((i) => letterOf(i.w) === letter);
   return (
     <section>
       <h1>Words that start with {letter.toUpperCase()}</h1>
@@ -188,7 +188,10 @@ function WordPage({ word, level, starred, onStar }) {
       <ol className={entry.senses.length === 1 ? 'senses single' : 'senses'}>
         {entry.senses.map((s, i) => (
           <li key={i}>
-            <span className="pos">{POS_LABELS[s.pos] ?? s.pos}</span>
+            <span className="pos">
+              {POS_LABELS[s.pos] ?? s.pos}
+              {s.say && <> · say it: <strong>{s.say}</strong></>}
+            </span>
             <p className="def">
               {s[level].def}
               {canSpeak && (

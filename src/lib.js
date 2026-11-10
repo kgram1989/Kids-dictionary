@@ -1,21 +1,24 @@
 import { useEffect, useState } from 'react';
 import index from './generated/index.json';
+import { bucketOf } from './bucket.js';
 
 export { index };
 
-// Each letter file becomes its own chunk, loaded only when needed.
+// Each word file becomes its own chunk, loaded only when needed.
 const loaders = import.meta.glob('../data/words/*.json');
 const cache = {};
 
-export function loadLetter(letter) {
-  const key = `../data/words/${letter}.json`;
+function loadBucket(bucket) {
+  const key = `../data/words/${bucket}.json`;
   if (!loaders[key]) return Promise.resolve([]);
-  cache[letter] ??= loaders[key]().then((m) => m.default);
-  return cache[letter];
+  cache[bucket] ??= loaders[key]().then((m) => m.default);
+  return cache[bucket];
 }
 
+export const letterOf = (word) => bucketOf(word)[0] ?? '';
+
 export async function loadWord(word) {
-  const entries = await loadLetter(word[0].toLowerCase());
+  const entries = await loadBucket(bucketOf(word));
   return entries.find((e) => e.word === word) ?? null;
 }
 
@@ -35,19 +38,22 @@ function editDistance(a, b) {
 
 // Forgiving search: exact word or word form, then "starts with",
 // then close spellings (so "elefant" style typos still find the word).
+// Lower-cased word and forms for each index entry, worked out once.
+const searchNames = index.map((item) => ({ item, names: [item.w, ...item.f].map((n) => n.toLowerCase()) }));
+
 export function search(query, limit = 8) {
   const q = query.trim().toLowerCase();
   if (!q) return [];
   const scored = [];
-  for (const item of index) {
-    const names = [item.w, ...item.f];
+  const allowed = q.length <= 4 ? 1 : q.length <= 7 ? 2 : 3;
+  for (const { item, names } of searchNames) {
     let score = Infinity;
     if (names.includes(q)) score = 0;
-    else if (item.w.startsWith(q)) score = 1;
+    else if (names[0].startsWith(q)) score = 1;
     else if (names.some((n) => n.startsWith(q))) score = 2;
     else if (q.length >= 3) {
-      const d = Math.min(...names.map((n) => editDistance(q, n)));
-      const allowed = q.length <= 4 ? 1 : q.length <= 7 ? 2 : 3;
+      const close = names.filter((n) => Math.abs(n.length - q.length) <= allowed);
+      const d = Math.min(Infinity, ...close.map((n) => editDistance(q, n)));
       if (d <= allowed) score = 2 + d;
     }
     if (score < Infinity) scored.push({ item, score });
@@ -114,5 +120,7 @@ export const POS_LABELS = {
   pronoun: 'pronoun',
   preposition: 'preposition',
   conjunction: 'joining word (conjunction)',
-  interjection: 'interjection',
+  interjection: 'exclamation (interjection)',
+  article: 'article',
+  number: 'number word',
 };

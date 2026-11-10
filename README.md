@@ -17,40 +17,27 @@ npm run dev
 
 ## Adding or fixing words
 
-Words live in `data/words/`, one file per starting letter. Each entry looks like this:
+Words live in `data/words/`, in files named after each word's first two letters
+(`enormous` is in `en.json`). To fix an entry, edit it there.
 
-```json
-{
-  "word": "enormous",
-  "say": "ih-NOR-mus",
-  "emoji": "🐘",
-  "forms": [],
-  "senses": [
-    {
-      "pos": "adjective",
-      "easy": {
-        "def": "Very, very big.",
-        "examples": ["An elephant is enormous.", "We ate an enormous pizza.", "The whale has an enormous tail."]
-      },
-      "more": {
-        "def": "Much bigger than usual; huge.",
-        "examples": [
-          "An enormous wave crashed over the rocks.",
-          "The library has an enormous collection of books.",
-          "An enormous tree had fallen across the road."
-        ]
-      }
-    }
-  ]
-}
+To add words:
+
+```
+npm run next -- 200                        # what to write next, from data/wordlist.txt
+npm run add -- my-batch.json --dry-run     # check a batch without changing anything
+npm run add -- my-batch.json               # merge it
 ```
 
-- `easy` is the Grades K–2 wording, `more` is the Grades 3–5 wording.
-- Each level needs three example sentences, set in different situations.
-- `forms` lists other spellings a child might search for ("ran", "running").
-- `emoji` and `forms` are optional. A word with several meanings has several `senses`.
+- [`docs/WRITING_GUIDE.md`](docs/WRITING_GUIDE.md) has the entry format, the writing rules for both reading levels, the pronunciation key and the full workflow.
+- `data/wordlist.txt` is the master list of about 10,500 words, most-used first. Words deliberately left out are recorded in `data/skipped.txt`.
+- `npm run check` validates all the data. The same check runs on every pull request.
 
-Run `npm run check` to validate the data. The same check runs on every pull request.
+## Licences and credits
+
+`data/wordlist.txt` is derived from research data by Kuperman, Stadthagen-Gonzalez &
+Brysbaert (2012) and Brysbaert & Biemiller (2017), obtained from <https://osf.io/kz2px/>
+under CC BY-NC-SA 4.0, and is shared under the same licence: non-commercial use, with
+credit, and derived lists shared alike. Details are at the top of that file.
 
 ## Deploying
 
