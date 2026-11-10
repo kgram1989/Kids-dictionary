@@ -261,6 +261,60 @@
     ]
   },
   {
+    "word": "curiously",
+    "say": "KYUR-ee-us-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "With wonder and interest.",
+          "examples": [
+            "The cat looked curiously at the box.",
+            "He peeked curiously.",
+            "She asked curiously."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows you want to know more.",
+          "examples": [
+            "The squirrel peered curiously at the camera.",
+            "The children peeked curiously through the window.",
+            "She asked curiously about the old coin."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "curly",
+    "say": "KER-lee",
+    "forms": [
+      "curlier",
+      "curliest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having curls.",
+          "examples": [
+            "She has curly hair.",
+            "The pig has a curly tail.",
+            "The ribbon is curly."
+          ]
+        },
+        "more": {
+          "def": "Full of small curves or curls.",
+          "examples": [
+            "She has long, curly hair.",
+            "The pig's curly tail wagged.",
+            "The paper made curly shapes when I rolled it."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "current",
     "say": "KER-unt",
     "forms": [
@@ -406,6 +460,61 @@
             "The curtains in my room are blue."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "curve",
+    "say": "kerv",
+    "forms": [
+      "curves",
+      "curved",
+      "curving"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bend that is not straight.",
+          "examples": [
+            "The road has a curve.",
+            "A curve in the river.",
+            "The ball went in a curve."
+          ]
+        },
+        "more": {
+          "def": "A line or path that bends smoothly, not straight.",
+          "examples": [
+            "The road has a sharp curve.",
+            "The river makes a big curve.",
+            "The ball flew in a curve."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To bend smoothly.",
+          "examples": [
+            "The road curves.",
+            "The path curved.",
+            "The river curves around the hill."
+          ]
+        },
+        "more": {
+          "def": "To follow a smooth bend, not a straight line.",
+          "examples": [
+            "The road curves along the cliff.",
+            "The path curved around the lake.",
+            "The ball curved into the net."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "curvy",
+        "def": "Having many curves."
       }
     ]
   },
@@ -589,6 +698,34 @@
       {
         "word": "cuteness",
         "def": "Being cute."
+      }
+    ]
+  },
+  {
+    "word": "cutter",
+    "say": "KUT-er",
+    "forms": [
+      "cutters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool that cuts.",
+          "examples": [
+            "The cutter cuts the cake.",
+            "A cookie cutter.",
+            "The cutter is sharp."
+          ]
+        },
+        "more": {
+          "def": "A tool or person that cuts things.",
+          "examples": [
+            "I used a cookie cutter to make stars.",
+            "The paper cutter is sharp.",
+            "The wire cutter snipped the fence."
+          ]
+        }
       }
     ]
   }

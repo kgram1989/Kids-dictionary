@@ -1,5 +1,33 @@
 [
   {
+    "word": "elaborate",
+    "say": "ih-LAB-er-it",
+    "forms": [
+      "elaborately"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Full of detail.",
+          "examples": [
+            "The elaborate cake had many layers.",
+            "An elaborate costume.",
+            "The plan is elaborate."
+          ]
+        },
+        "more": {
+          "def": "Made carefully with many parts and details.",
+          "examples": [
+            "The elaborate cake had five layers.",
+            "She wore an elaborate costume to the party.",
+            "The plan was too elaborate to follow."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "elbow",
     "say": "EL-boh",
     "forms": [
@@ -488,6 +516,31 @@
             "Is there anything else you need for your project?",
             "If the park is closed, where else can we play?",
             "Ask someone else if you cannot find me."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "elsewhere",
+    "say": "ELS-wair",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In some other place.",
+          "examples": [
+            "Look elsewhere.",
+            "He went elsewhere.",
+            "If it is not here, look elsewhere."
+          ]
+        },
+        "more": {
+          "def": "In or to a different place.",
+          "examples": [
+            "She would rather be elsewhere.",
+            "He moved elsewhere to find work.",
+            "The rain fell elsewhere, but not here."
           ]
         }
       }

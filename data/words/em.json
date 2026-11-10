@@ -1,5 +1,34 @@
 [
   {
+    "word": "email",
+    "say": "EE-mayl",
+    "emoji": "📧",
+    "forms": [
+      "emails"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A message sent by computer.",
+          "examples": [
+            "I got an email.",
+            "She sent an email.",
+            "The email came this morning."
+          ]
+        },
+        "more": {
+          "def": "A message that is typed and sent over the internet from one computer to another.",
+          "examples": [
+            "I sent an email to my teacher.",
+            "She read the email from her aunt.",
+            "The email had a photo of the puppy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "embarrass",
     "say": "em-BAIR-us",
     "emoji": "😳",
@@ -107,6 +136,36 @@
             "She embraced her friend at the station.",
             "The two brothers embraced after the long trip.",
             "Grandma embraced me tightly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "embroider",
+    "say": "em-BROY-der",
+    "forms": [
+      "embroiders",
+      "embroidered",
+      "embroidering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To sew pictures on cloth.",
+          "examples": [
+            "Grandma embroiders flowers.",
+            "She embroidered a heart on the pillow.",
+            "He embroidered his name."
+          ]
+        },
+        "more": {
+          "def": "To decorate cloth by sewing a design onto it with thread.",
+          "examples": [
+            "Grandma embroidered flowers on the pillow.",
+            "She embroidered a heart on my jacket.",
+            "He embroidered his name on the towel."
           ]
         }
       }
@@ -341,6 +400,31 @@
             "My mom's employer is a big company.",
             "The employer thanked the workers.",
             "The school is the largest employer in town."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "employment",
+    "say": "em-PLOY-munt",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Having a job.",
+          "examples": [
+            "He is looking for employment.",
+            "Employment is important.",
+            "She found employment."
+          ]
+        },
+        "more": {
+          "def": "The state of having paid work.",
+          "examples": [
+            "Employment in the area has grown.",
+            "She found employment at the library.",
+            "The new factory gave employment to many people."
           ]
         }
       }

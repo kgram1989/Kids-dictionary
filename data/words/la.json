@@ -132,6 +132,55 @@
     ]
   },
   {
+    "word": "lace",
+    "say": "layss",
+    "forms": [
+      "laces",
+      "laced",
+      "lacing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A string used to tie a shoe.",
+          "examples": [
+            "I tie my laces.",
+            "The lace is untied.",
+            "My shoe lace broke."
+          ]
+        },
+        "more": {
+          "def": "A cord that is pulled through holes to fasten a shoe or boot.",
+          "examples": [
+            "I tied my shoe laces.",
+            "The lace on my boot broke.",
+            "She pulled the laces tight."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fine, see-through cloth with patterns.",
+          "examples": [
+            "The dress has lace.",
+            "The lace is white.",
+            "Grandma made lace."
+          ]
+        },
+        "more": {
+          "def": "A delicate cloth made from fine threads in open patterns.",
+          "examples": [
+            "The wedding dress was trimmed with lace.",
+            "A lace curtain hung in the window.",
+            "Grandma made a lace collar."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lack",
     "say": "lak",
     "forms": [
@@ -478,6 +527,34 @@
     ]
   },
   {
+    "word": "landlord",
+    "say": "LAND-lord",
+    "forms": [
+      "landlords"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who owns a building and rents it out.",
+          "examples": [
+            "The landlord fixed the sink.",
+            "Our landlord is kind.",
+            "We pay rent to the landlord."
+          ]
+        },
+        "more": {
+          "def": "A person who owns a house or building and lets others pay to live in it.",
+          "examples": [
+            "The landlord fixed the leaky sink.",
+            "We pay our rent to the landlord each month.",
+            "Our landlord painted the walls."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lane",
     "say": "layn",
     "forms": [
@@ -597,6 +674,35 @@
             "She ran four laps around the track.",
             "The swimmers did ten laps in the pool.",
             "He was in the lead on the last lap."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "laptop",
+    "say": "LAP-top",
+    "emoji": "💻",
+    "forms": [
+      "laptops"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small computer you can carry.",
+          "examples": [
+            "I use a laptop.",
+            "The laptop is on the table.",
+            "She has a laptop."
+          ]
+        },
+        "more": {
+          "def": "A small computer that folds shut and can be carried and used on your lap.",
+          "examples": [
+            "I used a laptop to write my report.",
+            "The laptop fits in my backpack.",
+            "She closed her laptop."
           ]
         }
       }
@@ -750,6 +856,31 @@
       {
         "word": "lateness",
         "def": "Being late."
+      }
+    ]
+  },
+  {
+    "word": "lately",
+    "say": "LAYT-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Not long ago.",
+          "examples": [
+            "I have been tired lately.",
+            "We have not seen him lately.",
+            "It has been warm lately."
+          ]
+        },
+        "more": {
+          "def": "Recently, in the past few days or weeks.",
+          "examples": [
+            "I have been very tired lately.",
+            "We have not seen our neighbor lately.",
+            "Have you read any good books lately?"
+          ]
+        }
       }
     ]
   },
@@ -1087,6 +1218,34 @@
             "Chickens lay eggs almost every day.",
             "The turtle crawled up the beach to lay her eggs.",
             "Robins lay blue eggs in the spring."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "layer",
+    "say": "LAY-er",
+    "forms": [
+      "layers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One flat piece over another.",
+          "examples": [
+            "The cake has three layers.",
+            "A layer of snow.",
+            "Put on a layer of paint."
+          ]
+        },
+        "more": {
+          "def": "A flat thickness of something that covers a surface or lies between other things.",
+          "examples": [
+            "The cake had three layers.",
+            "A layer of snow covered the road.",
+            "I wore a sweater as a second layer."
           ]
         }
       }

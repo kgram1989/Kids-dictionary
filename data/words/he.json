@@ -253,6 +253,36 @@
     ]
   },
   {
+    "word": "heap",
+    "say": "heep",
+    "forms": [
+      "heaps",
+      "heaped",
+      "heaping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big pile.",
+          "examples": [
+            "A heap of leaves.",
+            "The heap is tall.",
+            "A heap of clothes lay on the floor."
+          ]
+        },
+        "more": {
+          "def": "A large pile of things that are lying on top of one another.",
+          "examples": [
+            "The children jumped into a heap of leaves.",
+            "A heap of rubble lay where the wall had fallen.",
+            "There was a heap of snow beside the road."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hear",
     "say": "heer",
     "forms": [
@@ -355,6 +385,34 @@
     ]
   },
   {
+    "word": "heartbeat",
+    "say": "HART-beet",
+    "forms": [
+      "heartbeats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The beat of your heart.",
+          "examples": [
+            "I hear my heartbeat.",
+            "The doctor listened to my heartbeat.",
+            "Her heartbeat was fast."
+          ]
+        },
+        "more": {
+          "def": "One pulse or beat of the heart, or the regular sound it makes.",
+          "examples": [
+            "I can hear my heartbeat after I run.",
+            "A heartbeat can be felt at your wrist.",
+            "The baby's heartbeat was strong."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "heat",
     "say": "heet",
     "forms": [
@@ -438,6 +496,56 @@
     ]
   },
   {
+    "word": "heavenly",
+    "say": "HEV-un-lee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wonderful, like heaven.",
+          "examples": [
+            "The cake was heavenly.",
+            "A heavenly smell.",
+            "The garden was heavenly."
+          ]
+        },
+        "more": {
+          "def": "Very beautiful or delicious, as if from heaven.",
+          "examples": [
+            "The chocolate cake tasted heavenly.",
+            "A heavenly smell came from the kitchen.",
+            "The quiet garden felt heavenly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "heavily",
+    "say": "HEV-ih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "With a lot of force or weight.",
+          "examples": [
+            "It rained heavily.",
+            "He breathed heavily.",
+            "The snow fell heavily."
+          ]
+        },
+        "more": {
+          "def": "In a way that is strong, thick or weighty.",
+          "examples": [
+            "It rained heavily all night.",
+            "He breathed heavily after running.",
+            "The cart was heavily loaded."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "heavy",
     "say": "HEV-ee",
     "emoji": "🏋️",
@@ -499,6 +607,35 @@
     ]
   },
   {
+    "word": "hedgehog",
+    "say": "HEJ-hog",
+    "emoji": "🦔",
+    "forms": [
+      "hedgehogs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small animal with sharp spines on its back.",
+          "examples": [
+            "The hedgehog rolled into a ball.",
+            "A hedgehog has spines.",
+            "I saw a hedgehog."
+          ]
+        },
+        "more": {
+          "def": "A small animal covered in sharp spines that rolls into a ball when it is scared.",
+          "examples": [
+            "The hedgehog curled up into a ball.",
+            "A hedgehog snuffled through the leaves.",
+            "The hedgehog's spines protect it."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "heel",
     "say": "heel",
     "emoji": "🦶",
@@ -551,6 +688,34 @@
             "The nurse measured my height.",
             "The height of the building is two hundred feet.",
             "The plant grew to a height of three feet."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "heir",
+    "say": "air",
+    "forms": [
+      "heirs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who gets money or a title from someone who has died.",
+          "examples": [
+            "The heir got the castle.",
+            "He is the heir to the throne.",
+            "The heir was young."
+          ]
+        },
+        "more": {
+          "def": "A person who will receive property or a title when someone dies.",
+          "examples": [
+            "The prince is the heir to the throne.",
+            "She was the heir to the farm.",
+            "The young heir inherited the castle."
           ]
         }
       }
@@ -939,6 +1104,31 @@
             "He hesitated at the door, wondering if he should knock.",
             "She hesitated before answering the hard question.",
             "The deer hesitated at the edge of the road."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hey",
+    "say": "hay",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A word used to get someone's attention.",
+          "examples": [
+            "Hey, wait for me!",
+            "Hey, look at that!",
+            "Hey, how are you?"
+          ]
+        },
+        "more": {
+          "def": "A word you call out to get someone's attention or to greet them.",
+          "examples": [
+            "Hey, you dropped your glove!",
+            "Hey, look at that big bird!",
+            "Hey, what a great idea!"
           ]
         }
       }

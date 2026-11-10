@@ -180,6 +180,55 @@
     ]
   },
   {
+    "word": "substitute",
+    "say": "SUB-stih-toot",
+    "forms": [
+      "substitutes",
+      "substituted",
+      "substituting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Someone or something that takes the place of another.",
+          "examples": [
+            "A substitute teacher came.",
+            "I use honey as a substitute for sugar.",
+            "The substitute played well."
+          ]
+        },
+        "more": {
+          "def": "A person or thing that takes the place of another.",
+          "examples": [
+            "A substitute teacher taught our class.",
+            "You can use honey as a substitute for sugar.",
+            "The substitute scored a goal."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To use in place of something else.",
+          "examples": [
+            "I substitute honey for sugar.",
+            "The coach substituted a player.",
+            "Substitute the milk."
+          ]
+        },
+        "more": {
+          "def": "To put one thing or person in place of another.",
+          "examples": [
+            "I substituted honey for sugar in the recipe.",
+            "The coach substituted a fresh player.",
+            "You can substitute margarine for butter."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "subtitle",
     "say": "SUB-ty-tul",
     "forms": [
@@ -343,6 +392,31 @@
             "It was such a beautiful day that we ate lunch outside.",
             "Animals such as bears and frogs sleep through the winter.",
             "I had never seen such a huge pumpkin."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "suction",
+    "say": "SUK-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pull that lifts things.",
+          "examples": [
+            "The vacuum has suction.",
+            "The cup stuck by suction.",
+            "Suction holds the plunger."
+          ]
+        },
+        "more": {
+          "def": "The pulling force made when air or liquid is drawn out of a space.",
+          "examples": [
+            "The vacuum has strong suction.",
+            "The rubber cup stuck to the glass by suction.",
+            "Suction held the plunger to the sink."
           ]
         }
       }
@@ -769,6 +843,36 @@
     ]
   },
   {
+    "word": "summon",
+    "say": "SUM-un",
+    "forms": [
+      "summons",
+      "summoned",
+      "summoning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To call for someone.",
+          "examples": [
+            "The king summoned the knight.",
+            "The bell summoned us.",
+            "She summoned the nurse."
+          ]
+        },
+        "more": {
+          "def": "To call someone to come to you, or to gather your strength.",
+          "examples": [
+            "The king summoned his knights to the castle.",
+            "The bell summoned us to class.",
+            "She summoned all her courage and spoke."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sun",
     "say": "sun",
     "emoji": "☀️",
@@ -882,6 +986,35 @@
     ]
   },
   {
+    "word": "sunrise",
+    "say": "SUN-ryz",
+    "emoji": "🌅",
+    "forms": [
+      "sunrises"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When the sun comes up.",
+          "examples": [
+            "We woke up at sunrise.",
+            "The sunrise is pink.",
+            "I watched the sunrise."
+          ]
+        },
+        "more": {
+          "def": "The time in the morning when the sun first appears.",
+          "examples": [
+            "Fog lifted from the valley at sunrise.",
+            "The sky was pink at sunrise.",
+            "The birds sang at sunrise."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sunset",
     "say": "SUN-set",
     "emoji": "🌇",
@@ -985,6 +1118,60 @@
             "The superior team won the match.",
             "This kind of paper is superior to that kind.",
             "She is a superior swimmer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "supermarket",
+    "say": "SOO-per-mar-kit",
+    "emoji": "🛒",
+    "forms": [
+      "supermarkets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big store that sells food.",
+          "examples": [
+            "We shop at the supermarket.",
+            "The supermarket is big.",
+            "Mom went to the supermarket."
+          ]
+        },
+        "more": {
+          "def": "A large store where you choose food and household goods and pay at the end.",
+          "examples": [
+            "We buy our groceries at the supermarket.",
+            "The supermarket sells fruit and bread.",
+            "Mom pushed the cart through the supermarket."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "supernatural",
+    "say": "soo-per-NACH-er-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not explained by nature.",
+          "examples": [
+            "A ghost is supernatural.",
+            "The supernatural story was scary.",
+            "The supernatural power."
+          ]
+        },
+        "more": {
+          "def": "Having to do with magic or ghosts and things that cannot be explained by nature.",
+          "examples": [
+            "A ghost is a supernatural being.",
+            "The supernatural story kept us awake.",
+            "The hero had supernatural powers."
           ]
         }
       }
@@ -1273,6 +1460,31 @@
     ]
   },
   {
+    "word": "surely",
+    "say": "SHUR-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Without a doubt.",
+          "examples": [
+            "You will surely win.",
+            "Surely you are joking.",
+            "He will surely come."
+          ]
+        },
+        "more": {
+          "def": "Certainly, with no doubt.",
+          "examples": [
+            "You will surely win with all that practice.",
+            "Surely you remember my name.",
+            "She will surely be here by noon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "surf",
     "say": "serf",
     "emoji": "🏄",
@@ -1489,6 +1701,56 @@
     ]
   },
   {
+    "word": "surprising",
+    "say": "sur-PRY-zing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not what you expected.",
+          "examples": [
+            "The news was surprising.",
+            "A surprising gift.",
+            "It was a surprising ending."
+          ]
+        },
+        "more": {
+          "def": "Causing a feeling of surprise because it was not expected.",
+          "examples": [
+            "It was surprising how quickly the snow melted.",
+            "We got a surprising gift in the mail.",
+            "The movie had a surprising ending."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "surprisingly",
+    "say": "sur-PRY-zing-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that is not expected.",
+          "examples": [
+            "The test was surprisingly easy.",
+            "It was surprisingly cold.",
+            "She was surprisingly fast."
+          ]
+        },
+        "more": {
+          "def": "In a way that is a surprise.",
+          "examples": [
+            "The old car ran surprisingly well.",
+            "It was surprisingly cold in the cave.",
+            "The little dog was surprisingly fast."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "surrender",
     "say": "suh-REN-der",
     "forms": [
@@ -1543,6 +1805,55 @@
             "A moat surrounded the castle.",
             "Water surrounds the little island.",
             "Mountains surround the valley."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "survey",
+    "say": "SER-vay",
+    "forms": [
+      "surveys",
+      "surveyed",
+      "surveying"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A set of questions to find out what people think.",
+          "examples": [
+            "We took a survey.",
+            "The survey asked about pets.",
+            "The survey is short."
+          ]
+        },
+        "more": {
+          "def": "A set of questions that is asked of many people to find out what they think.",
+          "examples": [
+            "We took a survey about favorite pets.",
+            "The survey showed that most students like pizza.",
+            "The survey had five questions."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look carefully over an area.",
+          "examples": [
+            "He surveyed the field.",
+            "She surveyed the room.",
+            "They surveyed the land."
+          ]
+        },
+        "more": {
+          "def": "To look over or measure something carefully.",
+          "examples": [
+            "He surveyed the field from the hill.",
+            "She surveyed the room before leaving.",
+            "Workers surveyed the land for the new road."
           ]
         }
       }

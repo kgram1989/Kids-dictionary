@@ -153,6 +153,61 @@
     ]
   },
   {
+    "word": "cramp",
+    "say": "kramp",
+    "forms": [
+      "cramps",
+      "cramped",
+      "cramping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sudden, tight pain in a muscle.",
+          "examples": [
+            "I got a cramp in my leg.",
+            "The cramp hurt.",
+            "A cramp in her foot."
+          ]
+        },
+        "more": {
+          "def": "A sudden, painful tightening of a muscle.",
+          "examples": [
+            "I got a cramp in my leg while swimming.",
+            "The cramp went away after I stretched.",
+            "She felt a cramp in her foot."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cramped",
+    "say": "krampt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Too small and crowded.",
+          "examples": [
+            "The room is cramped.",
+            "The car was cramped.",
+            "A cramped seat."
+          ]
+        },
+        "more": {
+          "def": "Without enough room, packed tightly.",
+          "examples": [
+            "The room was cramped with six people.",
+            "The back seat was cramped.",
+            "We slept in a cramped tent."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "crank",
     "say": "krangk",
     "forms": [
@@ -226,6 +281,34 @@
             "The bike crashed into the fence.",
             "Waves crash onto the rocks.",
             "A plate crashed onto the floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crate",
+    "say": "krayt",
+    "forms": [
+      "crates"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong box for carrying things.",
+          "examples": [
+            "The crate is wood.",
+            "The apples are in a crate.",
+            "A crate of oranges."
+          ]
+        },
+        "more": {
+          "def": "A large strong box, often made of wood or plastic, used for carrying or storing things.",
+          "examples": [
+            "The apples were packed in a wooden crate.",
+            "The dog rode in a crate.",
+            "Workers lifted the crate onto the truck."
           ]
         }
       }
@@ -806,6 +889,31 @@
             "He was critical of my drawing and said it was messy.",
             "A critical remark hurt her feelings.",
             "The reviewer was critical of the movie."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crooked",
+    "say": "KRUUK-id",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not straight.",
+          "examples": [
+            "The picture is crooked.",
+            "A crooked path.",
+            "The tree is crooked."
+          ]
+        },
+        "more": {
+          "def": "Bent or twisted, not straight.",
+          "examples": [
+            "The picture on the wall is crooked.",
+            "A crooked path wound up the hill.",
+            "The old tree had a crooked trunk."
           ]
         }
       }

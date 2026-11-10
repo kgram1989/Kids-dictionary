@@ -111,6 +111,31 @@
     ]
   },
   {
+    "word": "gradually",
+    "say": "GRAJ-oo-ul-ee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Slowly, bit by bit.",
+          "examples": [
+            "The sky gradually got dark.",
+            "She gradually got better.",
+            "The ice gradually melted."
+          ]
+        },
+        "more": {
+          "def": "Slowly over time, little by little.",
+          "examples": [
+            "The sky gradually grew dark.",
+            "She gradually got better after the flu.",
+            "The ice gradually melted in the sun."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "graduate",
     "say": "GRAJ-oo-ayt",
     "emoji": "🎓",
@@ -191,6 +216,59 @@
     ]
   },
   {
+    "word": "grain",
+    "say": "grayn",
+    "forms": [
+      "grains"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, hard seed of wheat or rice.",
+          "examples": [
+            "A grain of rice is tiny.",
+            "Farmers grow grain.",
+            "The bread is made from grain."
+          ]
+        },
+        "more": {
+          "def": "The small, hard seeds of plants such as wheat, corn and rice that are used for food.",
+          "examples": [
+            "Each grain of sugar dissolved in the tea.",
+            "The farmer harvested the grain in the fall.",
+            "Bread is made from ground grain."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny bit of something.",
+          "examples": [
+            "A grain of sand.",
+            "I found a grain of salt.",
+            "The grain is small."
+          ]
+        },
+        "more": {
+          "def": "A tiny, hard bit of something such as sand or salt.",
+          "examples": [
+            "A grain of sand got into my shoe.",
+            "She sprinkled a few grains of salt on the egg.",
+            "The sand was made of tiny grains."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "grainy",
+        "def": "Having tiny bits in it."
+      }
+    ]
+  },
+  {
     "word": "gram",
     "say": "gram",
     "forms": [
@@ -242,6 +320,34 @@
             "The king lived in a grand castle.",
             "They held a grand party for the whole town.",
             "The theater has a grand staircase."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grandchild",
+    "say": "GRAND-child",
+    "forms": [
+      "grandchildren"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A child of your child.",
+          "examples": [
+            "Grandma has ten grandchildren.",
+            "I am her grandchild.",
+            "The grandchild visited."
+          ]
+        },
+        "more": {
+          "def": "A son or daughter of someone's child.",
+          "examples": [
+            "Grandma has six grandchildren.",
+            "The youngest grandchild is two.",
+            "He is the first grandchild in the family."
           ]
         }
       }
@@ -475,6 +581,36 @@
     ]
   },
   {
+    "word": "grasp",
+    "say": "grasp",
+    "forms": [
+      "grasps",
+      "grasped",
+      "grasping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hold tightly.",
+          "examples": [
+            "I grasp the rope.",
+            "She grasped his hand.",
+            "He grasped the bar."
+          ]
+        },
+        "more": {
+          "def": "To take hold of something firmly, or to understand something.",
+          "examples": [
+            "I grasped the rope with both hands.",
+            "She grasped the idea at once.",
+            "He grasped the handle and pulled."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "grass",
     "say": "grass",
     "emoji": "🌱",
@@ -596,6 +732,34 @@
             "The news of the storm was grave.",
             "The captain gave a grave look.",
             "The doctor spoke in a grave voice."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "graveyard",
+    "say": "GRAYV-yard",
+    "forms": [
+      "graveyards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where people are buried.",
+          "examples": [
+            "The graveyard is quiet.",
+            "A graveyard is near the church.",
+            "We passed a graveyard."
+          ]
+        },
+        "more": {
+          "def": "An area of ground where dead people are buried, often beside a church.",
+          "examples": [
+            "The graveyard was quiet and still.",
+            "The old graveyard stood behind the church.",
+            "Stone markers filled the graveyard."
           ]
         }
       }
@@ -726,6 +890,31 @@
             "Our team had a great game and won by a lot.",
             "The Great Wall is one of the longest walls in the world.",
             "A great storm blew across the plains."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "greatly",
+    "say": "GRAYT-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Very much.",
+          "examples": [
+            "I greatly enjoyed it.",
+            "He is greatly loved.",
+            "She was greatly helped."
+          ]
+        },
+        "more": {
+          "def": "To a large degree.",
+          "examples": [
+            "I greatly enjoyed the trip.",
+            "The old teacher was greatly loved.",
+            "The rain greatly helped the garden."
           ]
         }
       }
@@ -899,6 +1088,85 @@
     ]
   },
   {
+    "word": "grill",
+    "say": "gril",
+    "forms": [
+      "grills",
+      "grilled",
+      "grilling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A metal frame for cooking food over a fire.",
+          "examples": [
+            "Dad cooks on the grill.",
+            "The grill is hot.",
+            "We lit the grill."
+          ]
+        },
+        "more": {
+          "def": "A metal frame or machine that you cook food on over a fire.",
+          "examples": [
+            "Dad cooked burgers on the grill.",
+            "The grill was hot.",
+            "We cleaned the grill after dinner."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cook over a fire.",
+          "examples": [
+            "We grill the burgers.",
+            "Dad grilled the corn.",
+            "She grilled fish."
+          ]
+        },
+        "more": {
+          "def": "To cook food over a flame on a metal frame.",
+          "examples": [
+            "We grilled burgers in the backyard.",
+            "Dad grilled corn on the cob.",
+            "She grilled the fish with lemon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grimace",
+    "say": "GRIM-iss",
+    "forms": [
+      "grimaces",
+      "grimaced",
+      "grimacing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a twisted face.",
+          "examples": [
+            "He grimaced at the taste.",
+            "She grimaced in pain.",
+            "The baby grimaced."
+          ]
+        },
+        "more": {
+          "def": "To twist your face because you are in pain or do not like something.",
+          "examples": [
+            "He grimaced at the sour taste.",
+            "She grimaced when she hurt her toe.",
+            "The baby grimaced at the spoon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "grip",
     "say": "grip",
     "forms": [
@@ -972,6 +1240,59 @@
             "The class groaned when the teacher gave extra homework.",
             "He groaned as he lifted the heavy box.",
             "The old door groaned when I pushed it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "groceries",
+    "say": "GROH-ser-eez",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Food and things bought at a store.",
+          "examples": [
+            "We bought groceries.",
+            "The groceries are in the car.",
+            "Mom unpacked the groceries."
+          ]
+        },
+        "more": {
+          "def": "The food and household items that people buy at a grocery store.",
+          "examples": [
+            "We bought groceries for the week.",
+            "Dad carried the groceries inside.",
+            "The groceries included milk and bread."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grocery",
+    "say": "GROH-ser-ee",
+    "forms": [
+      "groceries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A store that sells food.",
+          "examples": [
+            "We went to the grocery.",
+            "The grocery sells milk.",
+            "Mom works at a grocery."
+          ]
+        },
+        "more": {
+          "def": "A store that sells food and everyday goods.",
+          "examples": [
+            "We went to the grocery for milk.",
+            "The little grocery on the corner sells fresh fruit.",
+            "Mom works at the grocery store."
           ]
         }
       }

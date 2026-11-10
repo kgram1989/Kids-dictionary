@@ -58,6 +58,36 @@
     ]
   },
   {
+    "word": "clamber",
+    "say": "KLAM-ber",
+    "forms": [
+      "clambers",
+      "clambered",
+      "clambering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To climb in an awkward way.",
+          "examples": [
+            "The kids clambered up the rocks.",
+            "I clambered over the wall.",
+            "He clambered onto the roof."
+          ]
+        },
+        "more": {
+          "def": "To climb using your hands and feet, often with difficulty.",
+          "examples": [
+            "Hikers clambered over the boulders to reach the top.",
+            "She clambered over the fence.",
+            "He clambered up the steep bank."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clamp",
     "say": "klamp",
     "forms": [
@@ -82,6 +112,34 @@
             "Dad used a clamp to hold the board while he sawed.",
             "The clamp kept the pieces of wood in place.",
             "A metal clamp held the pipe."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clan",
+    "say": "klan",
+    "forms": [
+      "clans"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big family or group.",
+          "examples": [
+            "The clan lived in the hills.",
+            "His clan is large.",
+            "The clan gathered."
+          ]
+        },
+        "more": {
+          "def": "A large group of families that share the same name or ancestors.",
+          "examples": [
+            "The clan lived in the hills of Scotland.",
+            "His clan gathered for a big feast.",
+            "Each clan had its own colors."
           ]
         }
       }
@@ -464,6 +522,31 @@
     ]
   },
   {
+    "word": "clearly",
+    "say": "KLEER-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that is easy to see or hear.",
+          "examples": [
+            "Speak clearly.",
+            "I can see clearly.",
+            "The sign is clearly marked."
+          ]
+        },
+        "more": {
+          "def": "In a way that is easy to see, hear or understand.",
+          "examples": [
+            "Please speak clearly so we can hear you.",
+            "I could see the stars clearly.",
+            "The rules were clearly written on the board."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clerk",
     "say": "klerk",
     "forms": [
@@ -806,6 +889,31 @@
     ]
   },
   {
+    "word": "closely",
+    "say": "KLOHS-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Near or carefully.",
+          "examples": [
+            "Look closely.",
+            "We watched closely.",
+            "The kids followed closely."
+          ]
+        },
+        "more": {
+          "def": "In a way that is near or very careful.",
+          "examples": [
+            "Look closely at the picture.",
+            "The teacher watched the experiment closely.",
+            "The ducklings followed their mother closely."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "closet",
     "say": "KLOZ-it",
     "forms": [
@@ -1052,6 +1160,42 @@
             "The detective found a clue in the garden."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "clumsy",
+    "say": "KLUM-zee",
+    "forms": [
+      "clumsier",
+      "clumsiest",
+      "clumsily"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not good at moving carefully.",
+          "examples": [
+            "I am clumsy.",
+            "The clumsy puppy fell.",
+            "A clumsy boy tripped."
+          ]
+        },
+        "more": {
+          "def": "Awkward and likely to bump into or break things.",
+          "examples": [
+            "The clumsy puppy tripped over its paws.",
+            "I am clumsy when I carry a lot of plates.",
+            "A clumsy mistake spilled the milk."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "clumsiness",
+        "def": "Being clumsy."
       }
     ]
   }

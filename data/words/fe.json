@@ -166,6 +166,31 @@
     ]
   },
   {
+    "word": "federal",
+    "say": "FED-er-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with the national government.",
+          "examples": [
+            "The federal government makes laws.",
+            "A federal law.",
+            "The federal building is big."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the government that rules a whole country made of states.",
+          "examples": [
+            "The federal government makes national laws.",
+            "The federal building is downtown.",
+            "Our country has federal and state laws."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fee",
     "say": "fee",
     "forms": [
@@ -464,6 +489,34 @@
             "A white fence stood around the yard.",
             "The fence keeps the horses in the field.",
             "The cat jumped over the fence."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ferry",
+    "say": "FAIR-ee",
+    "forms": [
+      "ferries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A boat that carries people and cars across water.",
+          "examples": [
+            "We took the ferry.",
+            "The ferry crossed the bay.",
+            "The ferry has cars."
+          ]
+        },
+        "more": {
+          "def": "A boat that carries people and vehicles back and forth across a stretch of water.",
+          "examples": [
+            "We took the ferry to the island.",
+            "The ferry crossed the bay in twenty minutes.",
+            "Cars drove onto the ferry."
           ]
         }
       }

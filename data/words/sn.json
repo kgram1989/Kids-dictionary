@@ -167,6 +167,36 @@
     ]
   },
   {
+    "word": "sneeze",
+    "say": "sneez",
+    "forms": [
+      "sneezes",
+      "sneezed",
+      "sneezing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To blow air out of your nose suddenly.",
+          "examples": [
+            "I sneeze when I have a cold.",
+            "The dust made me sneeze.",
+            "She sneezed."
+          ]
+        },
+        "more": {
+          "def": "To blow air out of your nose and mouth suddenly and loudly.",
+          "examples": [
+            "A loud sneeze echoed through the library.",
+            "She sneezed three times in a row.",
+            "Cover your mouth when you sneeze."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sniff",
     "say": "snif",
     "forms": [
@@ -191,6 +221,66 @@
             "The dog sniffed around the yard.",
             "The dog sniffed every bush along the path.",
             "He sniffed because his nose was runny."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "snoop",
+    "say": "snoop",
+    "forms": [
+      "snoops",
+      "snooped",
+      "snooping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look around where you should not.",
+          "examples": [
+            "Do not snoop.",
+            "He snooped in my room.",
+            "She snooped around."
+          ]
+        },
+        "more": {
+          "def": "To look around secretly to find out things that are not your business.",
+          "examples": [
+            "Do not snoop in other people's drawers.",
+            "He snooped around my room.",
+            "The cat snooped in the cupboards."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "snore",
+    "say": "snor",
+    "forms": [
+      "snores",
+      "snored",
+      "snoring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To breathe loudly while you sleep.",
+          "examples": [
+            "Dad snores.",
+            "The dog snored.",
+            "I heard him snore."
+          ]
+        },
+        "more": {
+          "def": "To make a rough, noisy sound as you breathe while you sleep.",
+          "examples": [
+            "Dad snores loudly at night.",
+            "The dog snored on the rug.",
+            "I could hear him snore through the wall."
           ]
         }
       }

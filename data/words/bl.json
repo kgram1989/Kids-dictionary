@@ -49,6 +49,34 @@
     ]
   },
   {
+    "word": "blackout",
+    "say": "BLAK-owt",
+    "forms": [
+      "blackouts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When the lights go out.",
+          "examples": [
+            "We had a blackout.",
+            "The blackout lasted an hour.",
+            "The blackout was dark."
+          ]
+        },
+        "more": {
+          "def": "A time when the electric power goes off and everything goes dark.",
+          "examples": [
+            "We had a blackout during the storm.",
+            "A blackout hit the whole city.",
+            "We lit candles during the blackout."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "blade",
     "say": "blayd",
     "forms": [
@@ -277,6 +305,55 @@
     ]
   },
   {
+    "word": "blaze",
+    "say": "blayz",
+    "forms": [
+      "blazes",
+      "blazed",
+      "blazing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big, bright fire.",
+          "examples": [
+            "The blaze was hot.",
+            "The firefighters fought the blaze.",
+            "We sat by the blaze."
+          ]
+        },
+        "more": {
+          "def": "A large, bright fire.",
+          "examples": [
+            "A forest blaze spread across the hills.",
+            "The blaze lit up the night sky.",
+            "We sat by the warm blaze in the fireplace."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To burn brightly.",
+          "examples": [
+            "The fire blazed.",
+            "The sun blazed in the sky.",
+            "The lights blazed."
+          ]
+        },
+        "more": {
+          "def": "To burn with a bright flame, or to shine very brightly.",
+          "examples": [
+            "The fire blazed in the fireplace.",
+            "The sun blazed down on the desert.",
+            "Lights blazed in every window."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bleed",
     "say": "bleed",
     "forms": [
@@ -301,6 +378,36 @@
             "My scraped knee bled a little.",
             "The nurse stopped the cut from bleeding.",
             "A small cut can bleed a lot."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blend",
+    "say": "blend",
+    "forms": [
+      "blends",
+      "blended",
+      "blending"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To mix together.",
+          "examples": [
+            "I blend the colors.",
+            "She blended the milk and eggs.",
+            "The blender blends fruit."
+          ]
+        },
+        "more": {
+          "def": "To mix two or more things so that they become one.",
+          "examples": [
+            "I blended the paint to make green.",
+            "She blended the milk and eggs in a bowl.",
+            "The cook blended the fruit into a smoothie."
           ]
         }
       }
@@ -647,6 +754,34 @@
             "In spring, the apple trees are covered in white blossoms.",
             "Cherry blossoms cover the park in pink every April.",
             "Each blossom on the pear tree may turn into a fruit."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blouse",
+    "say": "blowss",
+    "forms": [
+      "blouses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A light shirt for a girl or woman.",
+          "examples": [
+            "She wore a blouse.",
+            "The blouse is white.",
+            "The blouse has buttons."
+          ]
+        },
+        "more": {
+          "def": "A loose shirt that girls or women wear, often with buttons or a collar.",
+          "examples": [
+            "She wore a white blouse to school.",
+            "The blouse had pretty buttons.",
+            "Mom ironed my blouse."
           ]
         }
       }

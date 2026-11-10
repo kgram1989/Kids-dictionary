@@ -154,6 +154,34 @@
     ]
   },
   {
+    "word": "mode",
+    "say": "mohd",
+    "forms": [
+      "modes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way of doing something.",
+          "examples": [
+            "The phone is in silent mode.",
+            "A mode of travel.",
+            "The game has an easy mode."
+          ]
+        },
+        "more": {
+          "def": "A particular way or setting for doing something.",
+          "examples": [
+            "The camera has a night mode.",
+            "A bus is a common mode of travel.",
+            "Select the mode that suits you."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "model",
     "say": "MOD-ul",
     "forms": [
@@ -226,6 +254,34 @@
     ]
   },
   {
+    "word": "modest",
+    "say": "MOD-ist",
+    "forms": [
+      "modestly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not showing off.",
+          "examples": [
+            "She is modest about her prize.",
+            "The house is modest.",
+            "He gave a modest smile."
+          ]
+        },
+        "more": {
+          "def": "Not bragging about what you do, or small in size or amount.",
+          "examples": [
+            "She is modest about her good grades.",
+            "They live in a modest house.",
+            "He gave a modest smile when we clapped."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "moist",
     "say": "moyst",
     "senses": [
@@ -245,6 +301,55 @@
             "Keep the seeds in moist soil until they sprout.",
             "The dog's nose was cool and moist.",
             "Moist air from the ocean brought fog."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mold",
+    "say": "mohld",
+    "forms": [
+      "molds",
+      "molded",
+      "molding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fuzzy growth on old food.",
+          "examples": [
+            "The bread has mold.",
+            "Mold is green.",
+            "The cheese grew mold."
+          ]
+        },
+        "more": {
+          "def": "A fuzzy growth that appears on food or damp places.",
+          "examples": [
+            "The old bread had green mold.",
+            "Mold grew on the damp wall.",
+            "Throw away food that has mold."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shape that is used to make something.",
+          "examples": [
+            "Pour the jelly into the mold.",
+            "The mold is round.",
+            "The candle was made in a mold."
+          ]
+        },
+        "more": {
+          "def": "A container with a shape that is filled with something soft to make it harden in that shape.",
+          "examples": [
+            "He poured chocolate into a heart-shaped mold.",
+            "The baker pressed the dough into a mold.",
+            "The clay was pressed into a mold."
           ]
         }
       }
@@ -721,6 +826,81 @@
     ]
   },
   {
+    "word": "moose",
+    "say": "mooss",
+    "emoji": "🫎",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very big deer with wide antlers.",
+          "examples": [
+            "A moose walked by.",
+            "The moose has antlers.",
+            "We saw a moose."
+          ]
+        },
+        "more": {
+          "def": "The largest kind of deer, with a long face and wide antlers, that lives in cold forests.",
+          "examples": [
+            "A moose waded into the lake.",
+            "The moose has huge flat antlers.",
+            "We saw a moose in the woods."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mop",
+    "say": "mop",
+    "forms": [
+      "mops",
+      "mopped",
+      "mopping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool for washing floors.",
+          "examples": [
+            "I use a mop.",
+            "The mop is wet.",
+            "Mom used a mop."
+          ]
+        },
+        "more": {
+          "def": "A tool made of a stick with a bunch of cloth or strings on the end, used for washing floors.",
+          "examples": [
+            "I wiped the spill with a mop.",
+            "The mop was wet.",
+            "Mom put the mop in the bucket."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To wash a floor with a stick.",
+          "examples": [
+            "I mop the kitchen.",
+            "She mopped the floor.",
+            "He mopped up the spill."
+          ]
+        },
+        "more": {
+          "def": "To clean a floor by wiping it with a wet cloth on a long handle.",
+          "examples": [
+            "I mopped the kitchen floor.",
+            "She mopped up the spill.",
+            "He mopped the hall after the rain."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "moral",
     "say": "MOR-ul",
     "forms": [
@@ -843,6 +1023,31 @@
             "All people are mortal.",
             "The gods in the story lived forever, but humans were mortal.",
             "The hero was mortal and grew old."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mostly",
+    "say": "MOHST-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Mainly.",
+          "examples": [
+            "The class is mostly girls.",
+            "It is mostly sunny.",
+            "The bag is mostly empty."
+          ]
+        },
+        "more": {
+          "def": "For the most part, or in most cases.",
+          "examples": [
+            "The class is mostly boys.",
+            "The sky was mostly clear.",
+            "The garden is mostly flowers."
           ]
         }
       }

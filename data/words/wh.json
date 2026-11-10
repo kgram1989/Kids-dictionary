@@ -109,6 +109,32 @@
     ]
   },
   {
+    "word": "wheat",
+    "say": "weet",
+    "emoji": "🌾",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A plant whose seeds are ground into flour.",
+          "examples": [
+            "Bread is made from wheat.",
+            "The wheat field is gold.",
+            "Farmers grow wheat."
+          ]
+        },
+        "more": {
+          "def": "A tall grass whose seeds are ground into flour for making bread and pasta.",
+          "examples": [
+            "Bread is made from wheat flour.",
+            "The golden wheat swayed in the wind.",
+            "Farmers harvest wheat in summer."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wheel",
     "say": "weel",
     "emoji": "🛞",
@@ -489,6 +515,34 @@
     ]
   },
   {
+    "word": "whisker",
+    "say": "WIS-ker",
+    "forms": [
+      "whiskers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, stiff hair on a cat's face.",
+          "examples": [
+            "The cat has long whiskers.",
+            "A whisker is stiff.",
+            "The mouse has whiskers."
+          ]
+        },
+        "more": {
+          "def": "One of the long, stiff hairs that grow near the mouth of a cat or other animal.",
+          "examples": [
+            "The cat's whiskers twitched.",
+            "A mouse uses its whiskers to feel its way.",
+            "The dog had a few gray whiskers."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "whisper",
     "say": "WISS-per",
     "emoji": "🤫",
@@ -660,6 +714,31 @@
     ]
   },
   {
+    "word": "whoa",
+    "say": "woh",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A word that means stop.",
+          "examples": [
+            "Whoa, slow down!",
+            "Whoa, look at that!",
+            "The rider said whoa."
+          ]
+        },
+        "more": {
+          "def": "A word you say to make a horse stop, or to show surprise.",
+          "examples": [
+            "Whoa, the roller coaster is huge!",
+            "The rider called whoa and the horse stopped.",
+            "Whoa, that is a big wave!"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "whoever",
     "say": "hoo-EV-er",
     "senses": [
@@ -759,6 +838,36 @@
             "The kids whooped when the bell rang.",
             "We whooped for joy when we won.",
             "She whooped and threw her hat in the air."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "whoosh",
+    "say": "woosh",
+    "forms": [
+      "whooshes",
+      "whooshed",
+      "whooshing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rushing sound.",
+          "examples": [
+            "The wind made a whoosh.",
+            "I heard a whoosh.",
+            "The train went whoosh."
+          ]
+        },
+        "more": {
+          "def": "A soft, rushing sound like air moving fast.",
+          "examples": [
+            "The ball flew by with a whoosh.",
+            "I heard a whoosh of wind.",
+            "The train zoomed past with a whoosh."
           ]
         }
       }

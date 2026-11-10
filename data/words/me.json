@@ -203,6 +203,31 @@
     ]
   },
   {
+    "word": "meanwhile",
+    "say": "MEEN-wyl",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "At the same time.",
+          "examples": [
+            "Mom cooked. Meanwhile, I set the table.",
+            "Meanwhile, the dog slept.",
+            "Meanwhile, back home."
+          ]
+        },
+        "more": {
+          "def": "During the time that something else is happening.",
+          "examples": [
+            "Mom cooked dinner. Meanwhile, I set the table.",
+            "Meanwhile, the dog slept on the rug.",
+            "The kids played; meanwhile, the grown-ups talked."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "measure",
     "say": "MEZH-er",
     "emoji": "📐",
@@ -526,6 +551,35 @@
     ]
   },
   {
+    "word": "melon",
+    "say": "MEL-un",
+    "emoji": "🍈",
+    "forms": [
+      "melons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big, sweet fruit with a thick skin.",
+          "examples": [
+            "The melon is sweet.",
+            "I ate melon.",
+            "A melon is round."
+          ]
+        },
+        "more": {
+          "def": "A large, round, juicy fruit with a thick rind and many seeds.",
+          "examples": [
+            "We ate sweet melon at the picnic.",
+            "The melon was cool and juicy.",
+            "A watermelon is a kind of melon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "melt",
     "say": "melt",
     "emoji": "🫠",
@@ -609,6 +663,42 @@
             "Flowers were left at the memorial."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "memorize",
+    "say": "MEM-uh-ryz",
+    "forms": [
+      "memorizes",
+      "memorized",
+      "memorizing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To learn by heart.",
+          "examples": [
+            "I memorize my lines.",
+            "She memorized the poem.",
+            "He memorized his phone number."
+          ]
+        },
+        "more": {
+          "def": "To learn something so well that you can say it without looking.",
+          "examples": [
+            "I memorized the poem for class.",
+            "She memorized all her lines in the play.",
+            "He memorized his address."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "memorization",
+        "def": "Learning something by heart."
       }
     ]
   },
@@ -747,6 +837,31 @@
     ]
   },
   {
+    "word": "merchandise",
+    "say": "MER-chun-dyz",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Goods that are sold.",
+          "examples": [
+            "The store sells merchandise.",
+            "The merchandise is on the shelf.",
+            "We looked at the merchandise."
+          ]
+        },
+        "more": {
+          "def": "Things that are bought and sold, especially in a store.",
+          "examples": [
+            "The shop displays its merchandise in the window.",
+            "The store sells sports merchandise.",
+            "The new merchandise arrived today."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mercy",
     "say": "MER-see",
     "forms": [
@@ -803,6 +918,59 @@
             "It was a mere scratch, so I did not cry.",
             "She is a mere child, so be kind.",
             "It took a mere five minutes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "merely",
+    "say": "MEER-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Only.",
+          "examples": [
+            "It was merely a joke.",
+            "He is merely a child.",
+            "She merely asked."
+          ]
+        },
+        "more": {
+          "def": "Just, and nothing more.",
+          "examples": [
+            "It was merely a joke, so do not worry.",
+            "The note merely said hello.",
+            "She merely wanted to help."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "merit",
+    "say": "MAIR-it",
+    "forms": [
+      "merits"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being worth praise.",
+          "examples": [
+            "The idea has merit.",
+            "The student's work has merit.",
+            "Her story has great merit."
+          ]
+        },
+        "more": {
+          "def": "The quality of being good and deserving praise.",
+          "examples": [
+            "The idea has merit and is worth trying.",
+            "The judges looked at the merit of each story.",
+            "Her work has great merit."
           ]
         }
       }
@@ -1028,6 +1196,34 @@
             "The taxi meter shows how much money we owe.",
             "Dad read the gas meter.",
             "The parking meter takes coins."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "method",
+    "say": "METH-ud",
+    "forms": [
+      "methods"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way of doing something.",
+          "examples": [
+            "I have a method for spelling.",
+            "This method is easy.",
+            "She has a good method."
+          ]
+        },
+        "more": {
+          "def": "A particular way of doing something.",
+          "examples": [
+            "I have a method for learning my spelling words.",
+            "This method of counting is easy.",
+            "The scientist used a careful method."
           ]
         }
       }

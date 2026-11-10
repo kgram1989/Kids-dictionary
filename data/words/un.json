@@ -253,6 +253,31 @@
     ]
   },
   {
+    "word": "undergrowth",
+    "say": "UN-der-grohth",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Plants that grow close to the ground under tall trees.",
+          "examples": [
+            "The rabbit hid in the undergrowth.",
+            "The undergrowth was thick.",
+            "We pushed through the undergrowth."
+          ]
+        },
+        "more": {
+          "def": "Small bushes and plants that grow thickly beneath the trees of a forest.",
+          "examples": [
+            "The rabbit hid in the thick undergrowth.",
+            "We pushed through the undergrowth along the trail.",
+            "The undergrowth was full of ferns."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "underneath",
     "say": "un-der-NEETH",
     "senses": [
@@ -352,6 +377,50 @@
     ]
   },
   {
+    "word": "underwater",
+    "say": "un-der-WAW-ter",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Below the surface of the water.",
+          "examples": [
+            "The fish swim underwater.",
+            "I held my breath underwater.",
+            "The diver stayed underwater."
+          ]
+        },
+        "more": {
+          "def": "Beneath the surface of water.",
+          "examples": [
+            "Fish swim underwater all day.",
+            "Dolphins can stay underwater for several minutes.",
+            "The diver stayed underwater for a minute."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Found or done under water.",
+          "examples": [
+            "I saw an underwater cave.",
+            "The underwater camera is waterproof.",
+            "The underwater world is quiet."
+          ]
+        },
+        "more": {
+          "def": "Located or happening beneath the surface of water.",
+          "examples": [
+            "We explored an underwater cave.",
+            "The underwater camera took photos of fish.",
+            "The submarine took an underwater trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "underwear",
     "say": "UN-der-wair",
     "senses": [
@@ -430,6 +499,31 @@
             "We had an unexpected visit from Grandma.",
             "The rain was unexpected, so we got wet.",
             "An unexpected gift arrived in the mail."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "unexpectedly",
+    "say": "un-ik-SPEK-tid-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a surprising way.",
+          "examples": [
+            "It rained unexpectedly.",
+            "She unexpectedly won.",
+            "He unexpectedly came."
+          ]
+        },
+        "more": {
+          "def": "In a way that was not expected.",
+          "examples": [
+            "It rained unexpectedly during the picnic.",
+            "She unexpectedly won the prize.",
+            "My aunt unexpectedly came for a visit."
           ]
         }
       }
@@ -635,6 +729,31 @@
     ]
   },
   {
+    "word": "unison",
+    "say": "YOO-nih-sun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "All at the same time.",
+          "examples": [
+            "The class spoke in unison.",
+            "We sang in unison.",
+            "The dancers moved in unison."
+          ]
+        },
+        "more": {
+          "def": "Doing something all together at the same moment.",
+          "examples": [
+            "The class answered in unison.",
+            "We sang the song in unison.",
+            "The crowd chanted in unison."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "unit",
     "say": "YOO-nit",
     "forms": [
@@ -676,6 +795,34 @@
             "Our science unit is about volcanoes.",
             "The building has twelve apartment units.",
             "She passed the first unit of the course."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "universal",
+    "say": "yoo-nuh-VER-sul",
+    "forms": [
+      "universally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "For everyone.",
+          "examples": [
+            "Music is universal.",
+            "A universal rule.",
+            "Smiles are universal."
+          ]
+        },
+        "more": {
+          "def": "Having to do with everyone or everything in the world.",
+          "examples": [
+            "Music is a universal language.",
+            "The rule is universal and applies to all.",
+            "Smiling is a universal sign of friendship."
           ]
         }
       }
@@ -787,6 +934,31 @@
     ]
   },
   {
+    "word": "unlike",
+    "say": "un-LYK",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Not like.",
+          "examples": [
+            "Unlike me, she is tall.",
+            "Unlike dogs, cats climb trees.",
+            "This is unlike him."
+          ]
+        },
+        "more": {
+          "def": "Different from something or someone.",
+          "examples": [
+            "Unlike me, she is very tall.",
+            "Unlike dogs, cats can climb trees easily.",
+            "The weather today is unlike yesterday."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "unload",
     "say": "un-LOHD",
     "forms": [
@@ -866,6 +1038,64 @@
             "The extra step was unnecessary.",
             "It is unnecessary to shout when I am next to you.",
             "Wearing a coat was unnecessary on the warm day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "unpack",
+    "say": "un-PAK",
+    "forms": [
+      "unpacks",
+      "unpacked",
+      "unpacking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take things out of a bag.",
+          "examples": [
+            "I unpack my suitcase.",
+            "She unpacked her backpack.",
+            "We unpacked the groceries."
+          ]
+        },
+        "more": {
+          "def": "To take things out of a suitcase, box or bag.",
+          "examples": [
+            "I unpacked my suitcase after the trip.",
+            "She unpacked her lunch.",
+            "We unpacked the boxes in the new house."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "unpleasant",
+    "say": "un-PLEZ-unt",
+    "forms": [
+      "unpleasantly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not nice.",
+          "examples": [
+            "The smell was unpleasant.",
+            "An unpleasant surprise.",
+            "The weather was unpleasant."
+          ]
+        },
+        "more": {
+          "def": "Not enjoyable, or causing a bad feeling.",
+          "examples": [
+            "The smell from the garbage was unpleasant.",
+            "The cold rain was unpleasant.",
+            "He had an unpleasant task."
           ]
         }
       }
@@ -965,6 +1195,31 @@
             "It is unusual to see snow here in April.",
             "The house has an unusual round door.",
             "She has an unusual name that people remember."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "unusually",
+    "say": "un-YOO-zhoo-ul-ee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that is not usual.",
+          "examples": [
+            "It is unusually warm.",
+            "She was unusually quiet.",
+            "The day was unusually busy."
+          ]
+        },
+        "more": {
+          "def": "To an unusual degree, more than you would expect.",
+          "examples": [
+            "It was unusually warm for winter.",
+            "She was unusually quiet at lunch.",
+            "The river was unusually high after the rain."
           ]
         }
       }
