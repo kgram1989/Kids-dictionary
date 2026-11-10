@@ -846,6 +846,55 @@
     ]
   },
   {
+    "word": "plow",
+    "say": "plow",
+    "forms": [
+      "plows",
+      "plowed",
+      "plowing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big tool for turning over soil.",
+          "examples": [
+            "The farmer used a plow.",
+            "The plow is heavy.",
+            "A snow plow cleared the street."
+          ]
+        },
+        "more": {
+          "def": "A large farm tool that turns over the soil, or a machine that clears snow.",
+          "examples": [
+            "The farmer used a plow to turn the soil.",
+            "The farmer's plow left neat rows in the field.",
+            "The horse pulled the plow."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To dig up soil with a big tool.",
+          "examples": [
+            "The farmer plows.",
+            "He plowed the field.",
+            "They plowed the fields."
+          ]
+        },
+        "more": {
+          "def": "To cut and turn over soil or snow using a large blade.",
+          "examples": [
+            "The farmer plowed the field in spring.",
+            "The truck plowed the snow.",
+            "They plowed the road after the storm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "plug",
     "say": "plug",
     "emoji": "🔌",
@@ -890,6 +939,34 @@
             "He put a plug in the sink and filled it with water.",
             "A plug stopped the leak in the pipe.",
             "The plug in the bathtub held the water in."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "plumber",
+    "say": "PLUM-er",
+    "forms": [
+      "plumbers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who fixes pipes.",
+          "examples": [
+            "The plumber fixed the sink.",
+            "A plumber came.",
+            "The plumber has tools."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to put in and fix water pipes and sinks.",
+          "examples": [
+            "The plumber fixed the leaking sink.",
+            "A plumber came to unblock the drain.",
+            "The plumber carried a heavy wrench."
           ]
         }
       }

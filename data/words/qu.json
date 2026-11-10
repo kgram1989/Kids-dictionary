@@ -1,5 +1,54 @@
 [
   {
+    "word": "quack",
+    "say": "kwak",
+    "forms": [
+      "quacks",
+      "quacked",
+      "quacking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make the sound a duck makes.",
+          "examples": [
+            "The duck quacks.",
+            "The ducks quacked.",
+            "I heard it quack."
+          ]
+        },
+        "more": {
+          "def": "To make the loud, flat sound that a duck makes.",
+          "examples": [
+            "The ducks quacked as we fed them bread.",
+            "A duck quacked from the pond.",
+            "The toy duck quacks when you squeeze it."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sound a duck makes.",
+          "examples": [
+            "I heard a quack.",
+            "The quack was loud.",
+            "The duck's quack is funny."
+          ]
+        },
+        "more": {
+          "def": "The loud, flat cry of a duck.",
+          "examples": [
+            "We heard a quack from behind the reeds.",
+            "The duck gave a loud quack.",
+            "A quack echoed over the pond."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "qualified",
     "say": "KWOL-ih-fyd",
     "senses": [
@@ -31,6 +80,36 @@
     ]
   },
   {
+    "word": "qualify",
+    "say": "KWOL-ih-fy",
+    "forms": [
+      "qualifies",
+      "qualified",
+      "qualifying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be good enough to enter.",
+          "examples": [
+            "I qualify for the race.",
+            "She qualified for the finals.",
+            "He qualified."
+          ]
+        },
+        "more": {
+          "def": "To meet the rules or skill needed to take part in something.",
+          "examples": [
+            "I qualified for the swim finals.",
+            "She qualifies for a free lunch.",
+            "Only the top ten runners qualify for the final."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "quality",
     "say": "KWOL-uh-tee",
     "forms": [
@@ -53,6 +132,34 @@
             "The quality of the photo was very sharp.",
             "Honesty is a quality that many people admire.",
             "This chair is of good quality and will last for years."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "quantity",
+    "say": "KWON-tih-tee",
+    "forms": [
+      "quantities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How much of something.",
+          "examples": [
+            "A large quantity of food.",
+            "The quantity is small.",
+            "What quantity do you need?"
+          ]
+        },
+        "more": {
+          "def": "The amount or number of something.",
+          "examples": [
+            "A large quantity of food was ready.",
+            "The recipe calls for a small quantity of salt.",
+            "What quantity of paint do we need?"
           ]
         }
       }
@@ -129,6 +236,34 @@
             "Four quarters make one dollar.",
             "He found a shiny quarter under the couch.",
             "I paid for the sticker with a quarter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "quarterback",
+    "say": "KWOR-ter-bak",
+    "forms": [
+      "quarterbacks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A football player who leads the team's plays.",
+          "examples": [
+            "The quarterback threw the ball.",
+            "He is the quarterback.",
+            "The quarterback ran."
+          ]
+        },
+        "more": {
+          "def": "The player in American football who throws the ball and directs the team's plays.",
+          "examples": [
+            "The quarterback threw a long pass.",
+            "He is the quarterback on our team.",
+            "The quarterback called the play."
           ]
         }
       }

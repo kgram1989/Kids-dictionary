@@ -83,6 +83,36 @@
     ]
   },
   {
+    "word": "swap",
+    "say": "swop",
+    "forms": [
+      "swaps",
+      "swapped",
+      "swapping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To trade one thing for another.",
+          "examples": [
+            "We swap cards.",
+            "I swapped seats.",
+            "She swapped lunches."
+          ]
+        },
+        "more": {
+          "def": "To give something and get something else in its place.",
+          "examples": [
+            "We swapped stickers at recess.",
+            "I swapped seats with my friend.",
+            "She swapped her apple for a cookie."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "swear",
     "say": "swair",
     "forms": [
@@ -429,6 +459,34 @@
             "Fish swim with their fins.",
             "She learned to swim at the pool.",
             "We swam across the lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "swimmer",
+    "say": "SWIM-er",
+    "forms": [
+      "swimmers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who swims.",
+          "examples": [
+            "She is a fast swimmer.",
+            "The swimmer dove.",
+            "A swimmer crossed the lake."
+          ]
+        },
+        "more": {
+          "def": "A person who swims, or an animal that swims.",
+          "examples": [
+            "The lifeguard is a strong swimmer.",
+            "The swimmers dove into the pool.",
+            "A strong swimmer crossed the lake."
           ]
         }
       }

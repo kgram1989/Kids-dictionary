@@ -1242,6 +1242,36 @@
     ]
   },
   {
+    "word": "disconnect",
+    "say": "dis-kuh-NEKT",
+    "forms": [
+      "disconnects",
+      "disconnected",
+      "disconnecting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To separate or cut off.",
+          "examples": [
+            "I disconnect the plug.",
+            "The call disconnected.",
+            "Disconnect the hose."
+          ]
+        },
+        "more": {
+          "def": "To break a connection, or to unplug something.",
+          "examples": [
+            "I disconnected the lamp before moving it.",
+            "The phone call was disconnected.",
+            "Dad disconnected the hose from the tap."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "discount",
     "say": "DIS-kownt",
     "forms": [
@@ -1587,6 +1617,55 @@
     ]
   },
   {
+    "word": "dislike",
+    "say": "dis-LYK",
+    "forms": [
+      "dislikes",
+      "disliked",
+      "disliking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not like.",
+          "examples": [
+            "I dislike spiders.",
+            "She dislikes the rain.",
+            "He disliked the soup."
+          ]
+        },
+        "more": {
+          "def": "To have a feeling that something is unpleasant.",
+          "examples": [
+            "I dislike loud noises.",
+            "She disliked the taste of cabbage.",
+            "He dislikes wearing a tie."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A feeling of not liking something.",
+          "examples": [
+            "I have a dislike of spiders.",
+            "Her dislike was clear.",
+            "He has a dislike of loud noises."
+          ]
+        },
+        "more": {
+          "def": "A feeling of not liking someone or something.",
+          "examples": [
+            "She has a strong dislike of cold weather.",
+            "His dislike of broccoli is well known.",
+            "I have a dislike of crowded places."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dismiss",
     "say": "dis-MISS",
     "forms": [
@@ -1718,6 +1797,31 @@
             "The window display had a toy train.",
             "The fireworks display lit up the sky.",
             "The science fair had a display of volcanoes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "disposal",
+    "say": "dis-POH-zul",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Getting rid of something.",
+          "examples": [
+            "The disposal of trash is important.",
+            "The trash disposal is outside.",
+            "A food disposal."
+          ]
+        },
+        "more": {
+          "def": "The act of throwing away or getting rid of something.",
+          "examples": [
+            "Safe disposal of old paint is important.",
+            "The town has a waste disposal plant.",
+            "The sink has a garbage disposal."
           ]
         }
       }

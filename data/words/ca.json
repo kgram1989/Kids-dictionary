@@ -151,6 +151,34 @@
     ]
   },
   {
+    "word": "cadet",
+    "say": "kuh-DET",
+    "forms": [
+      "cadets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A young person training to be an officer.",
+          "examples": [
+            "The cadet saluted.",
+            "A cadet at the academy.",
+            "The cadets marched."
+          ]
+        },
+        "more": {
+          "def": "A young person who is training to be an officer in the army, navy or police.",
+          "examples": [
+            "The cadet saluted the flag.",
+            "A cadet studied at the academy.",
+            "The cadets marched in the parade."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cafe",
     "say": "ka-FAY",
     "forms": [
@@ -385,6 +413,34 @@
             "People call that big yellow flower a sunflower.",
             "We called our new puppy Biscuit.",
             "Scientists call baby frogs tadpoles."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "caller",
+    "say": "KAW-ler",
+    "forms": [
+      "callers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who calls.",
+          "examples": [
+            "The caller asked for you.",
+            "Who is the caller?",
+            "The caller hung up."
+          ]
+        },
+        "more": {
+          "def": "A person who makes a phone call or visits.",
+          "examples": [
+            "The caller asked for my mom.",
+            "Who was the caller?",
+            "The radio host spoke to each caller."
           ]
         }
       }
@@ -1404,6 +1460,34 @@
     ]
   },
   {
+    "word": "careless",
+    "say": "KAIR-liss",
+    "forms": [
+      "carelessly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not careful.",
+          "examples": [
+            "A careless mistake.",
+            "The careless boy spilled.",
+            "Careless driving."
+          ]
+        },
+        "more": {
+          "def": "Not paying enough attention, so mistakes happen.",
+          "examples": [
+            "A careless mistake cost him a point.",
+            "The careless boy spilled the milk.",
+            "She was careless with her homework."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cargo",
     "say": "KAR-goh",
     "forms": [
@@ -1991,6 +2075,34 @@
     ]
   },
   {
+    "word": "category",
+    "say": "KAT-uh-gor-ee",
+    "forms": [
+      "categories"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of things alike.",
+          "examples": [
+            "Fruit is a category of food.",
+            "Put it in a category.",
+            "The category is animals."
+          ]
+        },
+        "more": {
+          "def": "A group of things that are alike in some way.",
+          "examples": [
+            "Fruit is one category of food.",
+            "The books were sorted into categories.",
+            "She won in the art category."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cattle",
     "say": "KAT-ul",
     "emoji": "🐄",
@@ -2062,6 +2174,42 @@
             "A spark was the cause of the small fire."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "caution",
+    "say": "KAW-shun",
+    "forms": [
+      "cautions",
+      "cautioned",
+      "cautioning"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being careful.",
+          "examples": [
+            "Use caution on the ice.",
+            "The sign said caution.",
+            "Cross with caution."
+          ]
+        },
+        "more": {
+          "def": "Great care that you take to avoid danger.",
+          "examples": [
+            "Use caution when you walk on the ice.",
+            "The sign said \"Caution: wet floor.\"",
+            "He crossed the street with caution."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "precaution",
+        "def": "Something you do to be safe."
       }
     ]
   },

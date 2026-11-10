@@ -876,6 +876,50 @@
     ]
   },
   {
+    "word": "static",
+    "say": "STAT-ik",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A crackling noise on the radio.",
+          "examples": [
+            "The radio has static.",
+            "I hear static.",
+            "The static is loud."
+          ]
+        },
+        "more": {
+          "def": "A crackling sound on a radio or TV caused by electricity in the air.",
+          "examples": [
+            "There was static on the radio.",
+            "I heard static on the phone.",
+            "The static made it hard to hear the song."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not moving or changing.",
+          "examples": [
+            "The picture is static.",
+            "A static pose.",
+            "The numbers are static."
+          ]
+        },
+        "more": {
+          "def": "Staying still or unchanged.",
+          "examples": [
+            "The picture is static, not moving.",
+            "The numbers stayed static all year.",
+            "The scene was calm and static."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "station",
     "say": "STAY-shun",
     "forms": [
@@ -1878,6 +1922,36 @@
             "My stomach growled before lunch.",
             "Food goes down your throat to your stomach.",
             "She had a stomach ache."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stomp",
+    "say": "stomp",
+    "forms": [
+      "stomps",
+      "stomped",
+      "stomping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To step down hard.",
+          "examples": [
+            "I stomp in the puddle.",
+            "She stomped her foot.",
+            "He stomped off."
+          ]
+        },
+        "more": {
+          "def": "To walk or step with heavy, loud steps.",
+          "examples": [
+            "I stomped in the puddle.",
+            "She stomped her foot in anger.",
+            "He stomped up the stairs."
           ]
         }
       }
