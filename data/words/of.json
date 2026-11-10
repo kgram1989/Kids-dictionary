@@ -50,6 +50,55 @@
     ]
   },
   {
+    "word": "offer",
+    "say": "OFF-er",
+    "forms": [
+      "offers",
+      "offered",
+      "offering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say you will give or do something.",
+          "examples": [
+            "I offer you a cookie.",
+            "She offered me a seat.",
+            "He offered to help."
+          ]
+        },
+        "more": {
+          "def": "To say that you will give something or do something for someone if they want it.",
+          "examples": [
+            "She offered to carry my backpack.",
+            "The shop offers free cookies to kids.",
+            "He offered me a seat on the bus."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you say you will give or do.",
+          "examples": [
+            "Thank you for your offer.",
+            "I took the offer of a ride.",
+            "The offer of free lunch was kind."
+          ]
+        },
+        "more": {
+          "def": "Something that you say you will give or do for someone.",
+          "examples": [
+            "We accepted her offer to walk the dog.",
+            "The shop made an offer: buy one, get one free.",
+            "Thank you for your kind offer of help."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "office",
     "say": "AW-fiss",
     "forms": [
@@ -72,6 +121,79 @@
             "My dad works in an office on the tenth floor.",
             "The school office is where you check in if you are late.",
             "We stopped at the post office to mail the letter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "officer",
+    "say": "OFF-ih-ser",
+    "emoji": "👮",
+    "forms": [
+      "officers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who works for the police.",
+          "examples": [
+            "The officer helped us cross.",
+            "An officer waved to us.",
+            "The officer found the lost dog."
+          ]
+        },
+        "more": {
+          "def": "A person who works for the police, often wearing a uniform.",
+          "examples": [
+            "A police officer helped the children find their way.",
+            "The officer directed traffic outside the school.",
+            "An officer returned the lost bike to its owner."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A leader in the army or navy.",
+          "examples": [
+            "The officer gave an order.",
+            "An officer on the ship looked at the map.",
+            "The army officer led the group."
+          ]
+        },
+        "more": {
+          "def": "A person who has a position of authority in the army, navy or other group.",
+          "examples": [
+            "The ship's officer checked the map before turning.",
+            "Each officer in the army leads a group of soldiers.",
+            "She became an officer in the navy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "often",
+    "say": "OF-un",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Many times.",
+          "examples": [
+            "I often play outside.",
+            "We often go to the park.",
+            "It often rains here."
+          ]
+        },
+        "more": {
+          "def": "Many times; again and again.",
+          "examples": [
+            "My grandmother often tells stories about her childhood.",
+            "It often snows here in January.",
+            "We often ride bikes after school."
           ]
         }
       }

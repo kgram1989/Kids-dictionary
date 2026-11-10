@@ -113,6 +113,115 @@
     ]
   },
   {
+    "word": "wind",
+    "say": "wind",
+    "emoji": "🌬️",
+    "forms": [
+      "winds",
+      "wound",
+      "winding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Air that moves.",
+          "examples": [
+            "The wind blows.",
+            "Wind lifted the kite.",
+            "A cold wind came."
+          ]
+        },
+        "more": {
+          "def": "Air that is moving, often strong enough to feel.",
+          "examples": [
+            "The wind blew the leaves across the yard.",
+            "A strong wind knocked over the chairs.",
+            "Sailboats move with the wind."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "say": "wynd",
+        "easy": {
+          "def": "To turn around and around.",
+          "examples": [
+            "Wind the string.",
+            "She winds the clock.",
+            "He wound the yarn into a ball."
+          ]
+        },
+        "more": {
+          "def": "To turn or wrap something around and around.",
+          "examples": [
+            "She wound the yarn into a ball.",
+            "Wind the knob on the music box.",
+            "Wind the rope around the post."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "window",
+    "say": "WIN-doh",
+    "emoji": "🪟",
+    "forms": [
+      "windows"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Glass in a wall that lets in light.",
+          "examples": [
+            "Open the window.",
+            "I look out the window.",
+            "The window is clean."
+          ]
+        },
+        "more": {
+          "def": "An opening in a wall filled with glass, which lets in light and lets you see outside.",
+          "examples": [
+            "We watched snow fall outside the window.",
+            "She opened the window to let in fresh air.",
+            "A bird tapped on the window."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wine",
+    "say": "wyn",
+    "emoji": "🍷",
+    "forms": [
+      "wines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A drink made from grapes that adults drink.",
+          "examples": [
+            "Wine is made from grapes.",
+            "Adults drink wine.",
+            "My uncle poured a glass of wine."
+          ]
+        },
+        "more": {
+          "def": "A drink made from grapes that only adults may drink.",
+          "examples": [
+            "Wine is made by pressing grapes.",
+            "My uncle visited a farm that makes wine.",
+            "Some grown-ups drink a glass of wine with dinner."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wisdom",
     "say": "WIZ-dum",
     "emoji": "🦉",
@@ -243,6 +352,31 @@
     ]
   },
   {
+    "word": "within",
+    "say": "with-IN",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Inside of something.",
+          "examples": [
+            "The note is within the box.",
+            "Stay within the lines.",
+            "The park is within walking distance."
+          ]
+        },
+        "more": {
+          "def": "Inside something, or not farther than a certain distance or time.",
+          "examples": [
+            "The school is within a mile of our house.",
+            "Color within the lines.",
+            "The doctor will see you within an hour."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "without",
     "say": "with-OWT",
     "senses": [
@@ -262,6 +396,55 @@
             "We cannot live without water.",
             "She left the house without her umbrella.",
             "He solved the puzzle without any help."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "witness",
+    "say": "WIT-niss",
+    "forms": [
+      "witnesses",
+      "witnessed",
+      "witnessing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who sees something happen.",
+          "examples": [
+            "A witness saw the accident.",
+            "The witness told the police.",
+            "She was a witness to the race."
+          ]
+        },
+        "more": {
+          "def": "A person who sees an event happen and can tell others about it.",
+          "examples": [
+            "A witness told the officer what she saw.",
+            "He was a witness when the old tree fell.",
+            "Several witnesses saw the rainbow."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To see something happen.",
+          "examples": [
+            "We witnessed a rainbow.",
+            "She witnessed the race.",
+            "They witnessed the parade."
+          ]
+        },
+        "more": {
+          "def": "To see an event happen.",
+          "examples": [
+            "Thousands of people witnessed the rocket launch.",
+            "We witnessed a beautiful sunset.",
+            "Anyone who witnessed the accident should tell the police."
           ]
         }
       }

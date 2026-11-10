@@ -1,5 +1,34 @@
 [
   {
+    "word": "uncle",
+    "say": "UNG-kul",
+    "emoji": "👨",
+    "forms": [
+      "uncles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The brother of your mom or dad.",
+          "examples": [
+            "My uncle makes me laugh.",
+            "Uncle Joe lives far away.",
+            "I visit my uncle in summer."
+          ]
+        },
+        "more": {
+          "def": "The brother of your mother or father, or the husband of your aunt.",
+          "examples": [
+            "My uncle taught me how to fish at the lake.",
+            "Uncle Raj plays the drums in a band.",
+            "Both of my uncles came to my birthday party."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "uncomfortable",
     "say": "un-KUMF-ter-bul",
     "senses": [
@@ -131,6 +160,53 @@
     ]
   },
   {
+    "word": "unit",
+    "say": "YOO-nit",
+    "forms": [
+      "units"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fixed amount used for measuring.",
+          "examples": [
+            "An inch is a unit.",
+            "A pound is a unit of weight.",
+            "A minute is a unit of time."
+          ]
+        },
+        "more": {
+          "def": "A fixed amount used to measure something, such as an inch, a gram or a minute.",
+          "examples": [
+            "A foot is a unit of length.",
+            "An hour is a unit of time.",
+            "The meter is a unit used in many countries."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One part of a larger whole.",
+          "examples": [
+            "Our class has a unit on space.",
+            "The building has ten units.",
+            "We finished the math unit."
+          ]
+        },
+        "more": {
+          "def": "A single part of a larger whole, such as a section of a course or a home in a building.",
+          "examples": [
+            "Our science unit is about volcanoes.",
+            "The building has twelve apartment units.",
+            "She passed the first unit of the course."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "universe",
     "say": "YOO-nih-verss",
     "emoji": "🌌",
@@ -151,6 +227,31 @@
             "Scientists use telescopes to study faraway parts of the universe.",
             "No one knows how big the universe really is.",
             "There are billions of galaxies in the universe."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "unless",
+    "say": "un-LESS",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "Except if.",
+          "examples": [
+            "We will walk unless it rains.",
+            "Take a coat unless it is warm.",
+            "Do not open it unless I say so."
+          ]
+        },
+        "more": {
+          "def": "Except if something happens or is true.",
+          "examples": [
+            "We will have the picnic unless it rains.",
+            "You cannot go outside unless you wear a coat.",
+            "I will wait here unless you need me inside."
           ]
         }
       }

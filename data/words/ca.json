@@ -98,6 +98,34 @@
     ]
   },
   {
+    "word": "camera",
+    "say": "KAM-ruh",
+    "forms": [
+      "cameras"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that takes pictures.",
+          "examples": [
+            "Smile for the camera.",
+            "Dad has a camera.",
+            "The camera is on."
+          ]
+        },
+        "more": {
+          "def": "A device that takes photographs or records video.",
+          "examples": [
+            "I took a photo of the sunset with my camera.",
+            "The scientist set up a camera to film the owls.",
+            "Smile at the camera!"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "camouflage",
     "say": "KAM-uh-flahzh",
     "emoji": "🦎",
@@ -118,6 +146,56 @@
             "A snowshoe hare's white fur is good camouflage in winter.",
             "The soldiers wore green and brown camouflage in the forest.",
             "An octopus can change color for camouflage."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "camp",
+    "say": "kamp",
+    "emoji": "🏕️",
+    "forms": [
+      "camps",
+      "camped",
+      "camping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where people sleep outdoors.",
+          "examples": [
+            "We set up camp.",
+            "The camp is by the lake.",
+            "The camp has tents."
+          ]
+        },
+        "more": {
+          "def": "A place outdoors where people stay in tents or cabins.",
+          "examples": [
+            "We set up camp by the river.",
+            "She spent two weeks at summer camp.",
+            "The hikers returned to camp at sunset."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To sleep outdoors in a tent.",
+          "examples": [
+            "We camp in summer.",
+            "They camped by the lake.",
+            "I like to camp."
+          ]
+        },
+        "more": {
+          "def": "To stay outdoors for a few days, usually in a tent.",
+          "examples": [
+            "We camped by the lake for the weekend.",
+            "My family likes to camp in the mountains.",
+            "They camped under the stars."
           ]
         }
       }
@@ -165,6 +243,9 @@
           ]
         }
       }
+    ],
+    "forms": [
+      "cannot"
     ]
   },
   {
@@ -254,6 +335,54 @@
     ]
   },
   {
+    "word": "card",
+    "say": "kard",
+    "emoji": "🃏",
+    "forms": [
+      "cards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece of stiff paper with a message.",
+          "examples": [
+            "I made a card for Mom.",
+            "She sent a birthday card.",
+            "We got a card in the mail."
+          ]
+        },
+        "more": {
+          "def": "A piece of stiff paper with a picture or message, sent for a special day.",
+          "examples": [
+            "We made a card for Grandma's birthday.",
+            "She sent a thank-you card to her teacher.",
+            "A get-well card arrived in the mail."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One of a set used in games.",
+          "examples": [
+            "Pick a card.",
+            "We play a card game.",
+            "A card fell on the floor."
+          ]
+        },
+        "more": {
+          "def": "One of a set of small pieces of stiff paper used to play games.",
+          "examples": [
+            "She dealt seven cards to each player.",
+            "A deck of cards has fifty-two cards.",
+            "He drew a card and smiled."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "care",
     "say": "kair",
     "forms": [
@@ -328,6 +457,36 @@
     ]
   },
   {
+    "word": "carry",
+    "say": "KAIR-ee",
+    "forms": [
+      "carries",
+      "carried",
+      "carrying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hold something and take it somewhere.",
+          "examples": [
+            "I carry my bag.",
+            "Dad carried me upstairs.",
+            "Ants carry crumbs."
+          ]
+        },
+        "more": {
+          "def": "To hold something while you move it from one place to another.",
+          "examples": [
+            "She carried a tray of cups to the table.",
+            "Ants can carry food many times their own weight.",
+            "Please carry the groceries into the kitchen."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "case",
     "say": "kayss",
     "forms": [
@@ -369,6 +528,60 @@
             "In this case, the answer is yes, because the rule says so.",
             "It was a case of mixed-up names.",
             "The detective worked on a very strange case."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cash",
+    "say": "kash",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money in coins and bills.",
+          "examples": [
+            "I paid in cash.",
+            "Do you have cash?",
+            "She had cash in her pocket."
+          ]
+        },
+        "more": {
+          "def": "Money in the form of coins and bills, not a card or check.",
+          "examples": [
+            "He paid for the toy in cash.",
+            "She keeps some cash in her wallet.",
+            "The shop takes cash or cards."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cat",
+    "say": "kat",
+    "emoji": "🐱",
+    "forms": [
+      "cats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small pet with soft fur and whiskers.",
+          "examples": [
+            "The cat sleeps on the bed.",
+            "My cat purrs.",
+            "A cat chased the mouse."
+          ]
+        },
+        "more": {
+          "def": "A small furry animal that is often kept as a pet and has sharp claws and whiskers.",
+          "examples": [
+            "The cat curled up on the warm windowsill.",
+            "A cat can jump much higher than its own height.",
+            "Our cat chases a ball of yarn."
           ]
         }
       }

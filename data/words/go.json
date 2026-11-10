@@ -60,6 +60,51 @@
     ]
   },
   {
+    "word": "gold",
+    "say": "gohld",
+    "emoji": "🥇",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shiny yellow metal.",
+          "examples": [
+            "The ring is gold.",
+            "Pirates look for gold.",
+            "The crown is made of gold."
+          ]
+        },
+        "more": {
+          "def": "A shiny yellow metal that is valuable and used to make jewelry.",
+          "examples": [
+            "The crown was made of solid gold.",
+            "Miners once searched the river for gold.",
+            "She wears a gold ring."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Shiny and yellow, like the metal.",
+          "examples": [
+            "A gold star.",
+            "Gold stickers.",
+            "Her dress was gold."
+          ]
+        },
+        "more": {
+          "def": "Having the shiny yellow color of the precious metal.",
+          "examples": [
+            "She won a gold medal.",
+            "The gold sunset lit the lake.",
+            "He glued gold stars to the card."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "good",
     "say": "guud",
     "senses": [
@@ -98,6 +143,63 @@
             "The good neighbor shoveled snow from our walk.",
             "Our puppy was very good at the vet's office.",
             "It was a good thing to return the lost wallet."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "goodbye",
+    "say": "guud-BY",
+    "emoji": "👋",
+    "forms": [
+      "goodbyes"
+    ],
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A word you say when you leave.",
+          "examples": [
+            "Goodbye, Grandma!",
+            "We said goodbye at the door.",
+            "Wave goodbye."
+          ]
+        },
+        "more": {
+          "def": "Something you say when you or another person is leaving.",
+          "examples": [
+            "She waved and called goodbye from the bus window.",
+            "We said goodbye to our friends at the end of camp.",
+            "Goodbye, everyone; see you tomorrow!"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "government",
+    "say": "GUV-ern-munt",
+    "forms": [
+      "governments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The people who lead a country or state.",
+          "examples": [
+            "The government makes laws.",
+            "The mayor works for the government.",
+            "There is a new government."
+          ]
+        },
+        "more": {
+          "def": "The group of people who rule a country, state or town and make its laws.",
+          "examples": [
+            "The government built a new highway.",
+            "Our town's government plans the parks.",
+            "Leaders in the government met to talk."
           ]
         }
       }

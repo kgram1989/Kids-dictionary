@@ -381,6 +381,56 @@
     ]
   },
   {
+    "word": "third",
+    "say": "therd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Number three in order.",
+          "examples": [
+            "I am third in line.",
+            "She won third place.",
+            "Today is the third day of camp."
+          ]
+        },
+        "more": {
+          "def": "Coming after the second and before the fourth.",
+          "examples": [
+            "My brother came in third place in the race.",
+            "We live on the third floor.",
+            "It was the third time we visited the zoo."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thirteen",
+    "say": "ther-TEEN",
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "One more than twelve.",
+          "examples": [
+            "I have thirteen stickers.",
+            "My cousin is thirteen.",
+            "Thirteen birds sat on the wire."
+          ]
+        },
+        "more": {
+          "def": "The number 13, which comes after twelve and before fourteen.",
+          "examples": [
+            "A baker's dozen means thirteen.",
+            "She turns thirteen next month.",
+            "Thirteen players sat on the bench."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "this",
     "say": "this",
     "forms": [
@@ -434,6 +484,31 @@
     ]
   },
   {
+    "word": "though",
+    "say": "thoh",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "Used to say something that you may not expect.",
+          "examples": [
+            "Though it rained, we had fun.",
+            "I am not tired, though it is late.",
+            "She smiled, though she was sad."
+          ]
+        },
+        "more": {
+          "def": "In spite of the fact that; although.",
+          "examples": [
+            "Though the hill was steep, the little girl climbed all the way to the top.",
+            "We had a great time at the park, though it started to rain.",
+            "He kept reading, even though the room was getting dark."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thought",
     "say": "thawt",
     "forms": [
@@ -456,6 +531,34 @@
             "I had a funny thought while I was watching the clouds.",
             "After some thought, he chose the blue paint.",
             "Please share your thoughts about the story with the class."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thousand",
+    "say": "THOW-zund",
+    "forms": [
+      "thousands"
+    ],
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "The number 1,000.",
+          "examples": [
+            "The stadium holds a thousand people.",
+            "A thousand stars are in the sky.",
+            "Count to one thousand."
+          ]
+        },
+        "more": {
+          "def": "The number 1,000, which is ten hundreds.",
+          "examples": [
+            "A thousand meters make one kilometer.",
+            "Thousands of fans cheered for the team.",
+            "The ancient tree is over a thousand years old."
           ]
         }
       }
@@ -563,6 +666,35 @@
             "The thunder rattled the windows of the house.",
             "We heard thunder rolling in the distance.",
             "Our dog hides under the bed whenever there is thunder."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "Thursday",
+    "say": "THERZ-day",
+    "emoji": "📅",
+    "forms": [
+      "Thursdays"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The day after Wednesday.",
+          "examples": [
+            "Thursday is library day.",
+            "We bake bread on Thursday.",
+            "Dad comes home on Thursday."
+          ]
+        },
+        "more": {
+          "def": "The day of the week that comes after Wednesday and before Friday.",
+          "examples": [
+            "Thursday is the day our class feeds the school rabbits.",
+            "The play opens on Thursday evening.",
+            "Next Thursday, the circus comes to town."
           ]
         }
       }

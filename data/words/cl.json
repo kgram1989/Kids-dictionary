@@ -1,5 +1,105 @@
 [
   {
+    "word": "class",
+    "say": "klas",
+    "emoji": "🏫",
+    "forms": [
+      "classes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of students who learn together.",
+          "examples": [
+            "Our class went to the zoo.",
+            "My class has twenty kids.",
+            "The whole class sang a song."
+          ]
+        },
+        "more": {
+          "def": "A group of students who are taught together.",
+          "examples": [
+            "Our class planted a garden behind the school.",
+            "Everyone in the class took turns reading aloud.",
+            "The class went on a trip to the science museum."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A time when a teacher teaches.",
+          "examples": [
+            "I have art class today.",
+            "Math class is after lunch.",
+            "Swimming class starts at four."
+          ]
+        },
+        "more": {
+          "def": "A period of time when a teacher teaches a subject.",
+          "examples": [
+            "My favorite class is music, because we play drums.",
+            "She takes a dance class on Saturdays.",
+            "Math class begins right after lunch."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clean",
+    "say": "kleen",
+    "emoji": "🧼",
+    "forms": [
+      "cleaner",
+      "cleanest",
+      "cleans",
+      "cleaned",
+      "cleaning"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not dirty.",
+          "examples": [
+            "My hands are clean.",
+            "Put on a clean shirt.",
+            "The kitchen is clean."
+          ]
+        },
+        "more": {
+          "def": "Free from dirt, stains or mess.",
+          "examples": [
+            "She put on a clean shirt after the muddy game.",
+            "The water in the lake was clean and clear.",
+            "Our classroom is clean at the end of every day."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take away dirt.",
+          "examples": [
+            "I clean my room.",
+            "We cleaned the table.",
+            "Dad cleans the car."
+          ]
+        },
+        "more": {
+          "def": "To remove dirt or mess from something.",
+          "examples": [
+            "We cleaned the beach by picking up all the trash.",
+            "Please clean your hands before you eat.",
+            "She cleaned the muddy boots with a brush."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clear",
     "say": "kleer",
     "forms": [
@@ -80,6 +180,35 @@
     ]
   },
   {
+    "word": "clock",
+    "say": "klok",
+    "emoji": "🕒",
+    "forms": [
+      "clocks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that shows the time.",
+          "examples": [
+            "The clock says three.",
+            "Look at the clock.",
+            "The clock ticks."
+          ]
+        },
+        "more": {
+          "def": "A device that shows what time it is.",
+          "examples": [
+            "The clock on the wall says half past nine.",
+            "I set the clock for seven.",
+            "The clock chimed at noon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "close",
     "say": "klohz",
     "forms": [
@@ -124,6 +253,79 @@
             "Our house is close to the school, so we walk there.",
             "Winter is close, and the leaves are almost gone.",
             "Stand close together so everyone fits in the picture."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clothes",
+    "say": "klohz",
+    "emoji": "👕",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things you wear.",
+          "examples": [
+            "Put on your clothes.",
+            "My clothes are wet.",
+            "She folded the clothes."
+          ]
+        },
+        "more": {
+          "def": "Things such as shirts, pants and dresses that people wear.",
+          "examples": [
+            "He packed his clothes for the trip.",
+            "Put your dirty clothes in the basket.",
+            "Winter clothes keep you warm in the snow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "club",
+    "say": "klub",
+    "forms": [
+      "clubs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of people who meet for fun.",
+          "examples": [
+            "I joined the art club.",
+            "Our club meets on Friday.",
+            "Do you like the chess club?"
+          ]
+        },
+        "more": {
+          "def": "A group of people who meet to share something they like.",
+          "examples": [
+            "She joined the book club at school.",
+            "The hiking club meets every Saturday.",
+            "Our club has ten members."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A stick for hitting a ball in golf.",
+          "examples": [
+            "Dad swung the club.",
+            "He bought a new club.",
+            "She hit the ball with a club."
+          ]
+        },
+        "more": {
+          "def": "A long stick with a shaped end used to hit the ball in golf.",
+          "examples": [
+            "He chose a different club for the long shot.",
+            "She swung the club and the ball sailed away.",
+            "Golf clubs are kept in a bag."
           ]
         }
       }

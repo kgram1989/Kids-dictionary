@@ -30,6 +30,34 @@
     ]
   },
   {
+    "word": "difference",
+    "say": "DIF-rents",
+    "forms": [
+      "differences"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How two things are not the same.",
+          "examples": [
+            "What is the difference?",
+            "Find the difference.",
+            "There is a big difference."
+          ]
+        },
+        "more": {
+          "def": "A way in which two or more things are not alike.",
+          "examples": [
+            "What is the difference between a frog and a toad?",
+            "One difference is that the red kite is bigger.",
+            "There is a big difference between hot and warm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "different",
     "say": "DIF-runt",
     "senses": [
@@ -49,6 +77,61 @@
             "The twins look alike, but they have very different hobbies.",
             "People in different countries celebrate the new year in different ways.",
             "My handwriting looks different when I use a pen."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "difficult",
+    "say": "DIF-ih-kult",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Hard to do.",
+          "examples": [
+            "The puzzle is difficult.",
+            "It was a difficult test.",
+            "It was a difficult climb."
+          ]
+        },
+        "more": {
+          "def": "Not easy; needing a lot of effort or skill.",
+          "examples": [
+            "The math problem was difficult, but I solved it.",
+            "It is difficult to ride a bike on ice.",
+            "Climbing the steep mountain was difficult."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dig",
+    "say": "dig",
+    "forms": [
+      "digs",
+      "dug",
+      "digging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a hole in the ground.",
+          "examples": [
+            "Dogs dig holes.",
+            "We dig in the sand.",
+            "He dug a hole."
+          ]
+        },
+        "more": {
+          "def": "To make a hole by moving earth with a tool or paws.",
+          "examples": [
+            "The dog dug a hole under the fence.",
+            "We dug for clams at the beach.",
+            "Workers dig a trench for the pipes."
           ]
         }
       }
@@ -77,6 +160,35 @@
             "We set the table for dinner and sat down together.",
             "Dad cooked a pot of soup for dinner.",
             "My grandparents came over for dinner on Sunday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dirty",
+    "say": "DER-tee",
+    "forms": [
+      "dirtier",
+      "dirtiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not clean.",
+          "examples": [
+            "My shoes are dirty.",
+            "My boots are dirty and muddy.",
+            "The dog is dirty."
+          ]
+        },
+        "more": {
+          "def": "Covered with dirt, mud or stains; not clean.",
+          "examples": [
+            "My shoes got dirty in the muddy field.",
+            "Put the dirty dishes in the sink.",
+            "The dog's paws were dirty."
           ]
         }
       }
@@ -169,6 +281,36 @@
             "Scientists discovered a new kind of frog in the rainforest.",
             "The hikers discovered a hidden waterfall.",
             "I discovered that I am good at chess."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "discuss",
+    "say": "dih-SKUSS",
+    "forms": [
+      "discusses",
+      "discussed",
+      "discussing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To talk about something with others.",
+          "examples": [
+            "We discuss the book.",
+            "They discussed the plan.",
+            "Let us discuss it."
+          ]
+        },
+        "more": {
+          "def": "To talk about something with other people, to share ideas.",
+          "examples": [
+            "The class discussed the story after reading it.",
+            "Let us discuss where to go for lunch.",
+            "The family discussed their vacation plans."
           ]
         }
       }

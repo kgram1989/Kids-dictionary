@@ -1,5 +1,129 @@
 [
   {
+    "word": "fear",
+    "say": "feer",
+    "forms": [
+      "fears",
+      "feared",
+      "fearing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The feeling you get when you are scared.",
+          "examples": [
+            "I have a fear of spiders.",
+            "She felt fear in the dark.",
+            "His fear went away."
+          ]
+        },
+        "more": {
+          "def": "The unpleasant feeling you get when you think something bad may happen.",
+          "examples": [
+            "She felt fear when the lights went out.",
+            "He has a fear of high places.",
+            "Her fear of dogs grew smaller each day."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be afraid of something.",
+          "examples": [
+            "I fear spiders.",
+            "She fears the dark.",
+            "They fear the storm."
+          ]
+        },
+        "more": {
+          "def": "To be afraid of something because you think it may hurt you.",
+          "examples": [
+            "Many people fear thunder.",
+            "He feared that the ice might crack.",
+            "Some animals fear fire."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "February",
+    "say": "FEB-yoo-air",
+    "emoji": "📅",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The second month of the year.",
+          "examples": [
+            "My birthday is in February.",
+            "We make snowmen in February.",
+            "February is cold here."
+          ]
+        },
+        "more": {
+          "def": "The second month of the year, which has 28 days, or 29 in a leap year.",
+          "examples": [
+            "February is the shortest month of the year.",
+            "Every four years, February has an extra day.",
+            "Snow often covers the ground in February."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "feed",
+    "say": "feed",
+    "forms": [
+      "feeds",
+      "fed",
+      "feeding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give food to a person or animal.",
+          "examples": [
+            "I feed the cat.",
+            "Mom fed the baby.",
+            "We feed the ducks."
+          ]
+        },
+        "more": {
+          "def": "To give food to a person or animal so that it can live and grow.",
+          "examples": [
+            "We feed the chickens every morning.",
+            "She fed the baby with a spoon.",
+            "Farmers feed the cows hay in winter."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Food for farm animals.",
+          "examples": [
+            "The horse eats feed.",
+            "We bought feed for the chickens.",
+            "The cows like their feed."
+          ]
+        },
+        "more": {
+          "def": "Food given to farm animals, such as hay or grain.",
+          "examples": [
+            "The farmer bought a bag of feed for the chickens.",
+            "Cattle feed is stored in the barn.",
+            "The horse ate its feed."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "feel",
     "say": "feel",
     "forms": [
@@ -71,6 +195,81 @@
             "Happiness is a warm feeling that makes you smile.",
             "He had a nervous feeling before the big test.",
             "It is okay to talk about your feelings."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fellow",
+    "say": "FEL-oh",
+    "forms": [
+      "fellows"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man or boy.",
+          "examples": [
+            "A friendly fellow helped us.",
+            "That fellow is my uncle.",
+            "He is a funny fellow."
+          ]
+        },
+        "more": {
+          "def": "A man or boy, in a casual way.",
+          "examples": [
+            "He is a kind old fellow who feeds the birds.",
+            "That fellow over there is my uncle.",
+            "A tall fellow carried the box."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "In the same group.",
+          "examples": [
+            "My fellow classmates cheered.",
+            "She helped her fellow campers.",
+            "A fellow traveler gave me a seat."
+          ]
+        },
+        "more": {
+          "def": "Belonging to the same group or sharing the same situation as you.",
+          "examples": [
+            "She waved to her fellow students.",
+            "The soldiers helped their fellow soldier.",
+            "A fellow passenger shared an umbrella."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "felt",
+    "say": "felt",
+    "forms": [
+      "felts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft, thick cloth.",
+          "examples": [
+            "I made a hat out of felt.",
+            "The felt is soft.",
+            "She cut a star from felt."
+          ]
+        },
+        "more": {
+          "def": "A soft, thick cloth made by pressing wool or other fibers together.",
+          "examples": [
+            "She cut a green leaf shape out of felt.",
+            "The bottom of the chair has a piece of felt.",
+            "He glued felt to the back of the pin."
           ]
         }
       }

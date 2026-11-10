@@ -1,5 +1,193 @@
 [
   {
+    "word": "tea",
+    "say": "tee",
+    "emoji": "🍵",
+    "forms": [
+      "teas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hot drink made with leaves.",
+          "examples": [
+            "Grandma drinks tea.",
+            "Mom made a cup of tea.",
+            "Tea is hot."
+          ]
+        },
+        "more": {
+          "def": "A drink made by pouring hot water over dried leaves.",
+          "examples": [
+            "My grandmother has a cup of tea every afternoon.",
+            "She added honey to her tea.",
+            "Tea is grown on hillside farms."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "teach",
+    "say": "teech",
+    "emoji": "👩‍🏫",
+    "forms": [
+      "teaches",
+      "taught",
+      "teaching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To help someone learn.",
+          "examples": [
+            "Mom teaches me to cook.",
+            "She taught us a song.",
+            "He teaches art."
+          ]
+        },
+        "more": {
+          "def": "To show someone how to do something or give lessons in a subject.",
+          "examples": [
+            "My grandfather taught me how to play chess.",
+            "She teaches music at the elementary school.",
+            "Parents teach their children to share."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "teacher",
+    "say": "TEE-cher",
+    "emoji": "👩‍🏫",
+    "forms": [
+      "teachers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who helps you learn at school.",
+          "examples": [
+            "My teacher reads to us.",
+            "The teacher is kind.",
+            "A teacher helps us."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to teach students.",
+          "examples": [
+            "The teacher handed out the spelling tests.",
+            "My piano teacher plays beautiful songs.",
+            "Our science teacher brought in a snake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "team",
+    "say": "teem",
+    "emoji": "🏅",
+    "forms": [
+      "teams"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group that works or plays together.",
+          "examples": [
+            "Our team won the game.",
+            "I am on a soccer team.",
+            "The team shared the trophy."
+          ]
+        },
+        "more": {
+          "def": "A group of people who play a sport or work together toward the same goal.",
+          "examples": [
+            "Our soccer team practices twice a week.",
+            "A team of scientists studied the volcano for years.",
+            "The two teams shook hands after the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tear",
+    "say": "tair",
+    "forms": [
+      "tears",
+      "tore",
+      "torn",
+      "tearing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pull something apart.",
+          "examples": [
+            "Do not tear the paper.",
+            "I tore my shirt.",
+            "She tears the bread."
+          ]
+        },
+        "more": {
+          "def": "To pull something apart or into pieces.",
+          "examples": [
+            "Please do not tear the pages of the book.",
+            "He tore a hole in his jeans on the fence.",
+            "She tore the bread into small pieces."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "say": "teer",
+        "easy": {
+          "def": "A drop of water from your eye.",
+          "examples": [
+            "A tear ran down her cheek.",
+            "I wiped a tear from my eye.",
+            "The onion brought a tear."
+          ]
+        },
+        "more": {
+          "def": "A drop of salty water that comes from your eye when you cry.",
+          "examples": [
+            "A single tear rolled down his cheek.",
+            "She wiped a tear from her eye.",
+            "Tears of joy filled his eyes."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rip in something.",
+          "examples": [
+            "There is a tear in my shirt.",
+            "Tape the tear in the page.",
+            "The tear is small."
+          ]
+        },
+        "more": {
+          "def": "A hole or split made by pulling something apart.",
+          "examples": [
+            "There is a long tear in my backpack.",
+            "She sewed up a tear in her sleeve.",
+            "A tear in the page made it hard to read."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "telescope",
     "say": "TEL-uh-skohp",
     "emoji": "🔭",
@@ -88,6 +276,32 @@
     ]
   },
   {
+    "word": "ten",
+    "say": "ten",
+    "emoji": "🔟",
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "The number after nine.",
+          "examples": [
+            "I have ten fingers.",
+            "Count to ten.",
+            "Ten kids are in line."
+          ]
+        },
+        "more": {
+          "def": "The number 10, which is one more than nine.",
+          "examples": [
+            "A dime is worth ten cents.",
+            "She counted by tens up to a hundred.",
+            "The cookies bake for ten minutes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "terrible",
     "say": "TAIR-uh-bul",
     "senses": [
@@ -107,6 +321,56 @@
             "A terrible storm knocked out the power for two days.",
             "The roads were in terrible shape after the flood.",
             "He felt terrible about forgetting her birthday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "test",
+    "say": "test",
+    "emoji": "📝",
+    "forms": [
+      "tests",
+      "tested",
+      "testing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Questions that show what you know.",
+          "examples": [
+            "We have a spelling test.",
+            "I got every answer right on the test.",
+            "The math test was easy."
+          ]
+        },
+        "more": {
+          "def": "A set of questions or tasks that shows how much you know or can do.",
+          "examples": [
+            "I studied hard for my science test.",
+            "The vision test at school was easy.",
+            "Each student took a spelling test on Friday."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To try something to see how it works.",
+          "examples": [
+            "We test the boat in the tub.",
+            "She tested the water with her toe.",
+            "Dad tests the smoke alarm."
+          ]
+        },
+        "more": {
+          "def": "To try something out to find out how well it works or what it is.",
+          "examples": [
+            "Scientists tested the new robot in the lab.",
+            "She tested the water with her toe before jumping in.",
+            "We tested which paper towel soaks up the most water."
           ]
         }
       }

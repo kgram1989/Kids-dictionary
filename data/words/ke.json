@@ -76,5 +76,72 @@
         }
       }
     ]
+  },
+  {
+    "word": "key",
+    "say": "kee",
+    "emoji": "🔑",
+    "forms": [
+      "keys"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small metal tool for opening a lock.",
+          "examples": [
+            "I lost my house key.",
+            "The key opens the door.",
+            "Dad has the car key."
+          ]
+        },
+        "more": {
+          "def": "A small metal object that you turn to open or lock something.",
+          "examples": [
+            "She turned the key and the door swung open.",
+            "Dad keeps the keys to the car on a hook.",
+            "The old chest had a small brass key."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A button you press on a piano or computer.",
+          "examples": [
+            "Press the key.",
+            "The piano has black keys.",
+            "I pressed a key on the computer."
+          ]
+        },
+        "more": {
+          "def": "One of the parts you press on a piano, a typewriter or a computer.",
+          "examples": [
+            "He pressed each key on the piano and listened.",
+            "Press the space key to start the game.",
+            "The cat walked across the keys of the keyboard."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very important.",
+          "examples": [
+            "Practice is key.",
+            "A key idea is in the first line.",
+            "Teamwork is key for a good game."
+          ]
+        },
+        "more": {
+          "def": "Most important; needed in order to succeed.",
+          "examples": [
+            "Sunlight is a key part of how plants make food.",
+            "The key idea in the story is friendship.",
+            "Practice is key if you want to get better at the piano."
+          ]
+        }
+      }
+    ]
   }
 ]

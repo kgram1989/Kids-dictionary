@@ -1,5 +1,102 @@
 [
   {
+    "word": "board",
+    "say": "bord",
+    "forms": [
+      "boards",
+      "boarded",
+      "boarding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat piece of wood.",
+          "examples": [
+            "The bridge is made of boards.",
+            "Dad cut a board.",
+            "A board fell off the fence."
+          ]
+        },
+        "more": {
+          "def": "A long, flat piece of wood.",
+          "examples": [
+            "He nailed a board over the hole in the fence.",
+            "The old bridge had a loose board.",
+            "Dad sawed the board in half."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat surface for games or writing.",
+          "examples": [
+            "The teacher writes on the board.",
+            "We play on a game board.",
+            "The chess board is set up."
+          ]
+        },
+        "more": {
+          "def": "A flat surface used for a game or for writing on.",
+          "examples": [
+            "The teacher wrote the words on the board.",
+            "We set up the chess board.",
+            "The checkers are on the board."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get on a train, plane or ship.",
+          "examples": [
+            "We board the plane.",
+            "Please board the bus.",
+            "They boarded the ship."
+          ]
+        },
+        "more": {
+          "def": "To get on a train, plane, bus or ship.",
+          "examples": [
+            "Passengers boarded the plane in a line.",
+            "We board the bus at eight.",
+            "Please board the train now."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "boat",
+    "say": "boht",
+    "emoji": "⛵",
+    "forms": [
+      "boats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small vehicle that floats on water.",
+          "examples": [
+            "We rode in a boat.",
+            "The boat sailed away.",
+            "Fish swim near the boat."
+          ]
+        },
+        "more": {
+          "def": "A small vehicle that travels on water.",
+          "examples": [
+            "We paddled the boat across the lake.",
+            "A fishing boat left the harbor at dawn.",
+            "The sailboat leaned in the wind."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "body",
     "say": "BOD-ee",
     "forms": [
@@ -28,6 +125,63 @@
     ]
   },
   {
+    "word": "bomb",
+    "say": "bom",
+    "forms": [
+      "bombs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing that blows up and can hurt people.",
+          "examples": [
+            "A bomb is very dangerous.",
+            "The soldiers in the story dropped a bomb.",
+            "The bomb squad checked the box."
+          ]
+        },
+        "more": {
+          "def": "A weapon or device that can explode and cause damage.",
+          "examples": [
+            "The old bomb from the war was removed safely.",
+            "Experts cleared the field of the bomb.",
+            "In the film, the hero stopped the bomb."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bone",
+    "say": "bohn",
+    "emoji": "🦴",
+    "forms": [
+      "bones"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One of the hard white parts inside your body.",
+          "examples": [
+            "I broke a bone.",
+            "Dogs chew bones.",
+            "Bones hold you up."
+          ]
+        },
+        "more": {
+          "def": "One of the hard, white parts that make up the skeleton inside the body.",
+          "examples": [
+            "The dog buried a bone in the yard.",
+            "Your bones hold your body up.",
+            "She learned the names of the bones in her hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "book",
     "say": "buuk",
     "forms": [
@@ -50,6 +204,31 @@
             "I borrowed a book about space from the library.",
             "My favorite book has a green cover and a hundred pages.",
             "This book has a story about a dragon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "born",
+    "say": "born",
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To start life.",
+          "examples": [
+            "A baby was born today.",
+            "I was born in May.",
+            "The calf was born in spring."
+          ]
+        },
+        "more": {
+          "def": "To be brought into the world at birth.",
+          "examples": [
+            "My little sister was born in the spring.",
+            "The puppies were born in the barn.",
+            "Where were you born?"
           ]
         }
       }
@@ -86,6 +265,34 @@
     ]
   },
   {
+    "word": "boss",
+    "say": "boss",
+    "forms": [
+      "bosses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The person in charge at work.",
+          "examples": [
+            "Mom's boss is kind.",
+            "The boss gave us jobs.",
+            "Who is the boss here?"
+          ]
+        },
+        "more": {
+          "def": "A person who is in charge of other workers.",
+          "examples": [
+            "The boss thanked the workers for finishing early.",
+            "My dad asked his boss for a day off.",
+            "The bakery's boss starts work before dawn."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "both",
     "say": "bohth",
     "senses": [
@@ -105,6 +312,65 @@
             "Both of my brothers play the guitar.",
             "I tried the red and the blue shirts, and I like both.",
             "Both teams ran onto the field at the same time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bother",
+    "say": "BOTH-er",
+    "forms": [
+      "bothers",
+      "bothered",
+      "bothering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone upset by interrupting.",
+          "examples": [
+            "Do not bother the baby.",
+            "The noise bothers me.",
+            "Flies bother the horse."
+          ]
+        },
+        "more": {
+          "def": "To annoy someone or interrupt them, or to cause worry.",
+          "examples": [
+            "The loud music bothered the neighbors.",
+            "Please do not bother me while I read.",
+            "Does the cold bother you?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bottle",
+    "say": "BOT-ul",
+    "emoji": "🍼",
+    "forms": [
+      "bottles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A container for drinks with a narrow top.",
+          "examples": [
+            "A bottle of milk.",
+            "Water in a bottle.",
+            "The baby drinks from a bottle."
+          ]
+        },
+        "more": {
+          "def": "A container, usually of glass or plastic, with a narrow neck for holding liquids.",
+          "examples": [
+            "She filled the bottle with water.",
+            "He put a message in a bottle.",
+            "The baby drinks milk from a bottle."
           ]
         }
       }
@@ -139,6 +405,35 @@
     ]
   },
   {
+    "word": "box",
+    "say": "boks",
+    "emoji": "📦",
+    "forms": [
+      "boxes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A container with straight sides.",
+          "examples": [
+            "Put the toys in the box.",
+            "The box is big.",
+            "She opened the box."
+          ]
+        },
+        "more": {
+          "def": "A container with flat sides and often a lid, used to hold things.",
+          "examples": [
+            "He packed his books in a cardboard box.",
+            "A box of crayons sat on the desk.",
+            "The cat curled up in an empty box."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "boy",
     "say": "boy",
     "forms": [
@@ -161,6 +456,34 @@
             "The boy on the bus gave his seat to an older lady.",
             "A group of boys was building a sandcastle at the beach.",
             "He was a curious boy who asked questions about everything."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "boyfriend",
+    "say": "BOY-frend",
+    "forms": [
+      "boyfriends"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A boy who is someone's special friend.",
+          "examples": [
+            "My big sister has a boyfriend.",
+            "Her boyfriend came to the party.",
+            "My cousin's boyfriend baked a cake."
+          ]
+        },
+        "more": {
+          "def": "A boy or man who is in a close, loving relationship with someone.",
+          "examples": [
+            "My cousin brought her boyfriend to meet our family.",
+            "His boyfriend helped him carry the boxes.",
+            "Her boyfriend gave her a ride home."
           ]
         }
       }

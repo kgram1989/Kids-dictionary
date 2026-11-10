@@ -144,6 +144,122 @@
     ]
   },
   {
+    "word": "poor",
+    "say": "puur",
+    "forms": [
+      "poorer",
+      "poorest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having very little money.",
+          "examples": [
+            "The poor family needed food.",
+            "They were poor, but happy.",
+            "The poor village had one school."
+          ]
+        },
+        "more": {
+          "def": "Having little money or few things.",
+          "examples": [
+            "Long ago, a poor farmer found a magic bean.",
+            "Some poor families get help buying food.",
+            "The poor town had one old school."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Used when you feel sorry for someone.",
+          "examples": [
+            "Poor kitten, you are wet!",
+            "Poor baby is tired.",
+            "The poor bird hurt its wing."
+          ]
+        },
+        "more": {
+          "def": "Used to show that you feel sorry for someone.",
+          "examples": [
+            "The poor puppy is shivering in the rain.",
+            "Poor Max had to stay home with a cold.",
+            "The poor kitten was stuck in the tree."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not good.",
+          "examples": [
+            "His writing is poor.",
+            "The poor light made it hard to read.",
+            "Poor weather ruined the picnic."
+          ]
+        },
+        "more": {
+          "def": "Of low quality or not good enough.",
+          "examples": [
+            "The sound in the old theater was poor.",
+            "She got a poor grade because she did not study.",
+            "A poor harvest meant less food for the winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pop",
+    "say": "pop",
+    "forms": [
+      "pops",
+      "popped",
+      "popping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To burst with a short sound.",
+          "examples": [
+            "The balloon popped.",
+            "Corn pops in the pan.",
+            "Bubbles pop."
+          ]
+        },
+        "more": {
+          "def": "To burst or break open with a quick, short sound.",
+          "examples": [
+            "The balloon popped and made me jump.",
+            "Popcorn kernels pop when they get hot.",
+            "I heard the soap bubbles pop."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short loud sound.",
+          "examples": [
+            "I heard a pop.",
+            "The balloon went pop.",
+            "A pop came from the fire."
+          ]
+        },
+        "more": {
+          "def": "A short, sharp sound like a small burst.",
+          "examples": [
+            "The cork came out with a loud pop.",
+            "We heard a pop from the fireplace.",
+            "The balloon burst with a pop."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "popular",
     "say": "POP-yuh-ler",
     "senses": [
@@ -163,6 +279,126 @@
             "That song is so popular that everyone knows the words.",
             "The beach is popular with tourists in summer.",
             "She is popular because she is friendly to everyone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "position",
+    "say": "puh-ZISH-un",
+    "forms": [
+      "positions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The place or way something is.",
+          "examples": [
+            "Stay in your position.",
+            "Put the ball in position.",
+            "I changed my sitting position."
+          ]
+        },
+        "more": {
+          "def": "The place where something is, or the way it is placed.",
+          "examples": [
+            "The players ran to their positions on the field.",
+            "Sit in a comfortable position.",
+            "Check the position of the hands on the clock."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A job.",
+          "examples": [
+            "She has a new position.",
+            "He applied for a position at the zoo.",
+            "The school has a position open."
+          ]
+        },
+        "more": {
+          "def": "A job in a company or group.",
+          "examples": [
+            "She applied for a position at the library.",
+            "He holds an important position at the bank.",
+            "The school has a position open for a cook."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "possible",
+    "say": "POS-uh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to happen.",
+          "examples": [
+            "It is possible to fly.",
+            "Is it possible to go?",
+            "Rain is possible."
+          ]
+        },
+        "more": {
+          "def": "Able to happen, be done or be true.",
+          "examples": [
+            "It is possible to see the stars from here on a clear night.",
+            "Is it possible to finish before lunch?",
+            "Snow is possible tomorrow, but it may rain instead."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "power",
+    "say": "POW-er",
+    "emoji": "⚡",
+    "forms": [
+      "powers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The strength to make things happen.",
+          "examples": [
+            "The wave had great power.",
+            "I used all my power to push.",
+            "Superheroes have special powers."
+          ]
+        },
+        "more": {
+          "def": "The ability or strength to do something or to make something happen.",
+          "examples": [
+            "A hurricane has enough power to knock down trees.",
+            "Whales have great power in their tails.",
+            "The king had the power to make new laws."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Energy that makes machines work.",
+          "examples": [
+            "The storm cut the power to our street.",
+            "Solar panels make power from sunlight.",
+            "We lost power, so I used a flashlight."
+          ]
+        },
+        "more": {
+          "def": "Energy, especially electricity, that is used to run machines and light buildings.",
+          "examples": [
+            "The power went out in the whole city during the storm.",
+            "Windmills turn wind into power for homes.",
+            "A small battery gives power to the toy car."
           ]
         }
       }

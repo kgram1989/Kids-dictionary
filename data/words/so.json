@@ -44,6 +44,34 @@
     ]
   },
   {
+    "word": "soldier",
+    "say": "SOHL-jer",
+    "forms": [
+      "soldiers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person in an army.",
+          "examples": [
+            "The soldier wore a uniform.",
+            "Soldiers march.",
+            "He is a soldier."
+          ]
+        },
+        "more": {
+          "def": "A person who is a member of an army.",
+          "examples": [
+            "The soldier stood guard at the gate.",
+            "Soldiers marched in the parade.",
+            "My grandpa was a soldier."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "solution",
     "say": "suh-LOO-shun",
     "emoji": "🧩",
@@ -173,6 +201,56 @@
     ]
   },
   {
+    "word": "sometimes",
+    "say": "SUM-timez",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Not always, but now and then.",
+          "examples": [
+            "Sometimes we eat dinner outside.",
+            "I sometimes ride my bike.",
+            "Sometimes it snows here."
+          ]
+        },
+        "more": {
+          "def": "At some times but not all of the time.",
+          "examples": [
+            "Sometimes the bus is late when it rains.",
+            "My grandmother sometimes tells stories about when she was young.",
+            "Sea otters sometimes hold hands while they sleep."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "somewhere",
+    "say": "SUM-wair",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a place you do not know.",
+          "examples": [
+            "My shoes are somewhere here.",
+            "Let's go somewhere fun.",
+            "I left it somewhere."
+          ]
+        },
+        "more": {
+          "def": "In or to some place that is not named or known.",
+          "examples": [
+            "I left my hat somewhere in the house.",
+            "Let's go somewhere warm for the holiday.",
+            "There must be a frog somewhere near the pond."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "son",
     "say": "sun",
     "forms": [
@@ -195,6 +273,35 @@
             "The farmer and his son fed the cows together.",
             "She is proud of her son, who won the spelling bee.",
             "Their son plays the trumpet in the band."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "song",
+    "say": "song",
+    "emoji": "🎶",
+    "forms": [
+      "songs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words and music that people sing.",
+          "examples": [
+            "We sing a song.",
+            "The bird's song is pretty.",
+            "My favorite song is on the radio."
+          ]
+        },
+        "more": {
+          "def": "A short piece of music with words that are sung.",
+          "examples": [
+            "We learned a new song in music class.",
+            "The birds' morning song woke me.",
+            "She wrote a song about her dog."
           ]
         }
       }
@@ -251,6 +358,83 @@
     ]
   },
   {
+    "word": "sort",
+    "say": "sort",
+    "forms": [
+      "sorts",
+      "sorted",
+      "sorting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put things into groups.",
+          "examples": [
+            "Sort the socks by color.",
+            "We sorted the blocks.",
+            "I sort my cards."
+          ]
+        },
+        "more": {
+          "def": "To arrange things into groups or an order, by color, size or kind.",
+          "examples": [
+            "We sorted the buttons by color and size.",
+            "The mail carrier sorts letters before delivering them.",
+            "Sort the words in alphabetical order."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind or type.",
+          "examples": [
+            "What sort of ice cream do you like?",
+            "This is a sort of bird.",
+            "Which sort of dog is that?"
+          ]
+        },
+        "more": {
+          "def": "A kind or type of person or thing.",
+          "examples": [
+            "What sort of music do you like to hear?",
+            "This sort of berry grows only in cold places.",
+            "He is the sort of friend who always shares."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "soul",
+    "say": "sohl",
+    "forms": [
+      "souls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The deepest part of who a person is.",
+          "examples": [
+            "Music touches my soul.",
+            "She has a kind soul.",
+            "A song can fill the soul."
+          ]
+        },
+        "more": {
+          "def": "The part of a person that some people believe is not the body, and holds feelings and thoughts.",
+          "examples": [
+            "Many people believe the soul lives on after the body dies.",
+            "Music can touch the soul.",
+            "She has a kind and gentle soul."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sound",
     "say": "sownd",
     "forms": [
@@ -294,6 +478,31 @@
             "That plan sounds like a lot of fun.",
             "Your voice sounds hoarse, so you should rest.",
             "The idea sounded silly at first."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "south",
+    "say": "south",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The direction that is opposite of north.",
+          "examples": [
+            "Geese fly south for winter.",
+            "We drove south to the beach.",
+            "The warm beaches are in the south."
+          ]
+        },
+        "more": {
+          "def": "The direction that is opposite to north, toward the bottom of most maps.",
+          "examples": [
+            "Many birds fly south in the fall.",
+            "Florida is in the south of the United States.",
+            "At noon in the northern half of the world, the sun is in the south."
           ]
         }
       }

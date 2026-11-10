@@ -58,6 +58,32 @@
     ]
   },
   {
+    "word": "wonderful",
+    "say": "WUN-der-ful",
+    "emoji": "🌟",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very, very good.",
+          "examples": [
+            "We had a wonderful day.",
+            "The cake smells wonderful.",
+            "What a wonderful surprise!"
+          ]
+        },
+        "more": {
+          "def": "Very good, in a way that makes you feel happy or amazed.",
+          "examples": [
+            "We had a wonderful time at the beach.",
+            "The wonderful smell of fresh bread filled the kitchen.",
+            "She sang a wonderful song at the concert."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "word",
     "say": "werd",
     "forms": [
@@ -251,6 +277,50 @@
             "His biggest worry was that he would be late for the bus.",
             "She shared her worry with her teacher, who helped.",
             "Rain is no worry because we have umbrellas."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "worth",
+    "say": "werth",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having a certain price.",
+          "examples": [
+            "The coin is worth a dollar.",
+            "The card is worth ten dollars.",
+            "The old toy is worth a lot."
+          ]
+        },
+        "more": {
+          "def": "Equal in value to a certain amount of money.",
+          "examples": [
+            "A dime is worth ten cents.",
+            "The old stamp is worth fifty dollars.",
+            "How much is the painting worth?"
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Good enough to do.",
+          "examples": [
+            "The trip was worth it.",
+            "This book is worth reading.",
+            "The view is worth the walk."
+          ]
+        },
+        "more": {
+          "def": "Good or useful enough to deserve the time or effort.",
+          "examples": [
+            "The long climb was worth it for the view.",
+            "This movie is worth watching again.",
+            "Is the museum worth a visit?"
           ]
         }
       }

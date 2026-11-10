@@ -30,6 +30,73 @@
     ]
   },
   {
+    "word": "star",
+    "say": "star",
+    "emoji": "⭐",
+    "forms": [
+      "stars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bright light in the night sky.",
+          "examples": [
+            "I see a star.",
+            "Stars twinkle at night.",
+            "Make a wish on a star."
+          ]
+        },
+        "more": {
+          "def": "A huge ball of burning gas far away in space, which looks like a tiny light in the night sky.",
+          "examples": [
+            "The sun is the closest star to Earth.",
+            "On a clear night, we counted hundreds of stars.",
+            "Some stars are much bigger than our sun."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shape with points.",
+          "examples": [
+            "Draw a star.",
+            "The tree has a gold star.",
+            "She got a star on her paper."
+          ]
+        },
+        "more": {
+          "def": "A flat shape with five or more points.",
+          "examples": [
+            "The flag has a white star in the corner.",
+            "The teacher put a gold star on my paper.",
+            "She cut a star out of yellow paper."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A famous person.",
+          "examples": [
+            "He is a movie star.",
+            "She is a singing star.",
+            "The star signed autographs."
+          ]
+        },
+        "more": {
+          "def": "A famous singer, actor or athlete.",
+          "examples": [
+            "The singing star waved to the crowd.",
+            "He dreamed of becoming a famous movie star.",
+            "The soccer star signed shirts for the fans."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "start",
     "say": "start",
     "forms": [
@@ -73,6 +140,140 @@
             "The runners lined up at the start of the race.",
             "We read the start of the story and wanted to hear more.",
             "The first day of school is a fresh start."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "state",
+    "say": "stayt",
+    "forms": [
+      "states",
+      "stated",
+      "stating"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One of the parts of a country.",
+          "examples": [
+            "Texas is a state.",
+            "I live in a state.",
+            "California is a big state."
+          ]
+        },
+        "more": {
+          "def": "One of the large regions that some countries, such as Mexico or Australia, are divided into.",
+          "examples": [
+            "Alaska is the largest state in the United States.",
+            "Which state do you live in?",
+            "Each state has its own flag."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The condition of something.",
+          "examples": [
+            "The garden is in a good state.",
+            "My room is in a messy state.",
+            "Water in a frozen state is ice."
+          ]
+        },
+        "more": {
+          "def": "The condition that something is in at a certain time.",
+          "examples": [
+            "Water can be in a solid, liquid or gas state.",
+            "The old house was in a poor state.",
+            "The park was in a clean state after the picnic."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say clearly.",
+          "examples": [
+            "State your name.",
+            "Please state your answer.",
+            "He stated the rules."
+          ]
+        },
+        "more": {
+          "def": "To say something clearly in words.",
+          "examples": [
+            "Please state your name and age.",
+            "The rules state that no one runs in the hall.",
+            "She stated her answer clearly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "station",
+    "say": "STAY-shun",
+    "forms": [
+      "stations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where trains or buses stop.",
+          "examples": [
+            "We waited at the train station.",
+            "The bus station is busy.",
+            "The station is near our house."
+          ]
+        },
+        "more": {
+          "def": "A place where trains or buses stop to let people on and off.",
+          "examples": [
+            "We waited at the train station for Grandma.",
+            "The subway station was crowded.",
+            "The bus station is near the library."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where TV or radio shows come from.",
+          "examples": [
+            "My favorite radio station plays songs.",
+            "The TV station shows cartoons.",
+            "Turn to that station."
+          ]
+        },
+        "more": {
+          "def": "A company that sends out radio or TV programs.",
+          "examples": [
+            "My favorite radio station plays music all day.",
+            "The TV station reported on the parade.",
+            "She listens to a news station on the way to school."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A building where a group of workers does their job.",
+          "examples": [
+            "The fire station is down the street.",
+            "Firefighters live at the station.",
+            "We toured the police station."
+          ]
+        },
+        "more": {
+          "def": "A building or place used for a special kind of work, such as fighting fires.",
+          "examples": [
+            "The fire station is across from the school.",
+            "Scientists work at a weather station on the mountain.",
+            "The ranger station had maps of the park."
           ]
         }
       }
@@ -151,6 +352,175 @@
             "She kept a steady hand while she painted the tiny flowers.",
             "A steady rain fell all day.",
             "He walked at a steady pace for miles."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "steal",
+    "say": "steel",
+    "forms": [
+      "steals",
+      "stole",
+      "stolen",
+      "stealing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take what is not yours.",
+          "examples": [
+            "The crow tried to steal my sandwich.",
+            "The squirrel steals seeds from the bird feeder.",
+            "The fox stole a hen in the story."
+          ]
+        },
+        "more": {
+          "def": "To take something that belongs to someone else without asking.",
+          "examples": [
+            "The raccoon tried to steal food from the camp.",
+            "In the story, a thief stole the king's crown.",
+            "Squirrels sometimes steal seeds from the bird feeder."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "step",
+    "say": "step",
+    "emoji": "👣",
+    "forms": [
+      "steps",
+      "stepped",
+      "stepping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One movement of your foot when you walk.",
+          "examples": [
+            "Take one step forward.",
+            "The baby took a step.",
+            "I heard a step in the hall."
+          ]
+        },
+        "more": {
+          "def": "A single movement of the foot when you walk or run.",
+          "examples": [
+            "The toddler took her first step.",
+            "With each step, the snow crunched under his boots.",
+            "He took three steps back to see the whole painting."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat place to put your foot on stairs.",
+          "examples": [
+            "Sit on the top step.",
+            "The steps are steep.",
+            "Do not trip on the step."
+          ]
+        },
+        "more": {
+          "def": "A flat surface in a set of stairs where you put your foot.",
+          "examples": [
+            "Mind the last step because it is a little loose.",
+            "We sat on the front steps and ate ice cream.",
+            "She counted twelve steps up to the attic."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One part of a job.",
+          "examples": [
+            "The first step is to wash your hands.",
+            "Follow each step.",
+            "The recipe has four steps."
+          ]
+        },
+        "more": {
+          "def": "One part of a series of things you do to finish something.",
+          "examples": [
+            "The first step in baking bread is mixing the dough.",
+            "Read each step before you begin the experiment.",
+            "The last step is to paint the model."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put your foot down and move.",
+          "examples": [
+            "Step over the puddle.",
+            "Please step inside.",
+            "She stepped onto the bus."
+          ]
+        },
+        "more": {
+          "def": "To move by lifting a foot and putting it down somewhere.",
+          "examples": [
+            "Step carefully over the slippery rocks.",
+            "He stepped aside to let the little girl pass.",
+            "Do not step on the sleeping cat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stick",
+    "say": "stik",
+    "emoji": "🪵",
+    "forms": [
+      "sticks",
+      "stuck",
+      "sticking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin piece of wood.",
+          "examples": [
+            "The dog ran after the stick.",
+            "I drew in the dirt with a stick.",
+            "Birds built a nest of sticks."
+          ]
+        },
+        "more": {
+          "def": "A thin piece of wood that has fallen from a tree, or a long thin piece of something.",
+          "examples": [
+            "We gathered dry sticks to start the campfire.",
+            "The hockey player swung his stick at the puck.",
+            "She stirred the paint with a stick."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stay fixed to something.",
+          "examples": [
+            "Glue makes paper stick.",
+            "The tape will not stick.",
+            "Mud sticks to my boots."
+          ]
+        },
+        "more": {
+          "def": "To become joined to something so that it does not come off easily.",
+          "examples": [
+            "Wet snow sticks to your mittens and makes good snowballs.",
+            "The stamp would not stick to the envelope.",
+            "Peanut butter stuck to the roof of my mouth."
           ]
         }
       }
@@ -250,6 +620,56 @@
     ]
   },
   {
+    "word": "store",
+    "say": "stor",
+    "emoji": "🏪",
+    "forms": [
+      "stores",
+      "stored",
+      "storing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where you buy things.",
+          "examples": [
+            "We went to the store.",
+            "The store sells shoes.",
+            "Mom bought milk at the store."
+          ]
+        },
+        "more": {
+          "def": "A place where things are sold.",
+          "examples": [
+            "The toy store has a huge train set.",
+            "We bought apples at the grocery store.",
+            "The store closes at nine."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To keep something for later.",
+          "examples": [
+            "Squirrels store nuts.",
+            "We store toys in a box.",
+            "Store the milk in the fridge."
+          ]
+        },
+        "more": {
+          "def": "To put something away and keep it until it is needed.",
+          "examples": [
+            "Squirrels store nuts for the winter.",
+            "We store our winter coats in the closet.",
+            "Camels store fat in their humps."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "story",
     "say": "STOR-ee",
     "forms": [
@@ -272,6 +692,54 @@
             "Grandpa told us a story about a talking fox.",
             "The story ended with a happy surprise.",
             "I wrote a story about a robot who loved to cook."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "straight",
+    "say": "strayt",
+    "forms": [
+      "straighter",
+      "straightest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Without a bend or turn.",
+          "examples": [
+            "Draw a straight line.",
+            "The road is straight.",
+            "My hair is straight."
+          ]
+        },
+        "more": {
+          "def": "Going in one direction with no bends or curves.",
+          "examples": [
+            "Use a ruler to draw a straight line.",
+            "The road ran straight across the flat plain.",
+            "She has long, straight hair."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Without stopping or turning.",
+          "examples": [
+            "Go straight home.",
+            "Walk straight ahead.",
+            "I came straight here."
+          ]
+        },
+        "more": {
+          "def": "In a direct line, or without delay.",
+          "examples": [
+            "Come straight home after school.",
+            "The arrow flew straight to the target.",
+            "Go straight and you will see the school."
           ]
         }
       }
@@ -308,6 +776,131 @@
     ]
   },
   {
+    "word": "street",
+    "say": "street",
+    "forms": [
+      "streets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A road in a town with houses.",
+          "examples": [
+            "We live on a quiet street.",
+            "Cars drive down the street.",
+            "Look both ways before you cross the street."
+          ]
+        },
+        "more": {
+          "def": "A public road in a town or city, with houses or shops along it.",
+          "examples": [
+            "The parade marched down the main street.",
+            "Our street has tall trees on both sides.",
+            "Shops and cafes lined the busy street."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "strike",
+    "say": "stryk",
+    "forms": [
+      "strikes",
+      "struck",
+      "striking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit something hard.",
+          "examples": [
+            "Lightning can strike a tree.",
+            "A rock struck the wall.",
+            "He struck the drum."
+          ]
+        },
+        "more": {
+          "def": "To hit something with force.",
+          "examples": [
+            "Lightning struck the old oak tree.",
+            "The ball struck the window.",
+            "She struck the match to light the candle."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A miss in baseball.",
+          "examples": [
+            "He swung and got a strike.",
+            "Three strikes and you are out.",
+            "The pitcher threw a strike."
+          ]
+        },
+        "more": {
+          "def": "In baseball, a pitch that the batter swings at and misses, or that crosses the plate without a swing.",
+          "examples": [
+            "The pitcher threw a fast strike over the plate.",
+            "Three strikes and the batter is out.",
+            "She swung and missed for strike two."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "strong",
+    "say": "strong",
+    "forms": [
+      "stronger",
+      "strongest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having a lot of power.",
+          "examples": [
+            "The strong man lifted the box.",
+            "An ox is strong.",
+            "The rope is strong."
+          ]
+        },
+        "more": {
+          "def": "Having great strength or power, and not easy to break.",
+          "examples": [
+            "The strong wind blew down a branch.",
+            "She is strong enough to carry the heavy bag.",
+            "The bridge is built of strong steel."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Easy to notice.",
+          "examples": [
+            "There was a strong smell.",
+            "The tea is strong.",
+            "The sun is strong today."
+          ]
+        },
+        "more": {
+          "def": "Easy to notice, with a lot of flavor, smell or force.",
+          "examples": [
+            "The strong smell of onions filled the kitchen.",
+            "The tea was too strong for me.",
+            "A strong wind blew across the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "stubborn",
     "say": "STUB-ern",
     "emoji": "🫏",
@@ -334,6 +927,83 @@
     ]
   },
   {
+    "word": "student",
+    "say": "STOO-dunt",
+    "forms": [
+      "students"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who goes to school.",
+          "examples": [
+            "The student reads a book.",
+            "Each student has a desk.",
+            "A new student joined our class."
+          ]
+        },
+        "more": {
+          "def": "A person who is learning at a school or college.",
+          "examples": [
+            "Every student received a new notebook.",
+            "The student raised her hand.",
+            "The new student sat by the window."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "study",
+    "say": "STUD-ee",
+    "forms": [
+      "studies",
+      "studied",
+      "studying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To learn by reading and thinking.",
+          "examples": [
+            "I study for my test.",
+            "She studies math.",
+            "We studied frogs."
+          ]
+        },
+        "more": {
+          "def": "To spend time learning about something by reading and thinking.",
+          "examples": [
+            "I study my spelling words every night.",
+            "Scientists study the stars with telescopes.",
+            "She studied maps to plan the trip."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Learning about something with care.",
+          "examples": [
+            "The study of space is fun.",
+            "Scientists did a study of bees.",
+            "Her study took an hour."
+          ]
+        },
+        "more": {
+          "def": "A careful look at something to learn about it.",
+          "examples": [
+            "The scientists published a study about bees.",
+            "A study of birds showed that many fly south.",
+            "Her study of the volcano took three years."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "stuff",
     "say": "stuf",
     "senses": [
@@ -353,6 +1023,35 @@
             "Put all your stuff in your backpack before you leave.",
             "What is that sticky stuff on the table?",
             "There is a lot of old stuff in the attic."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stupid",
+    "say": "STOO-pid",
+    "forms": [
+      "stupider",
+      "stupidest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not showing good thinking.",
+          "examples": [
+            "Leaving the door open was a stupid thing to do.",
+            "That was a stupid mistake.",
+            "I felt stupid when I forgot my own name."
+          ]
+        },
+        "more": {
+          "def": "Showing poor thinking or a lack of common sense.",
+          "examples": [
+            "It was a stupid mistake to leave the gate open, and the sheep got out.",
+            "Running into the street without looking is a stupid thing to do.",
+            "He felt stupid after locking his keys inside the car."
           ]
         }
       }

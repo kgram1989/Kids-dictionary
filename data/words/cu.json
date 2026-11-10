@@ -1,5 +1,53 @@
 [
   {
+    "word": "cup",
+    "say": "kup",
+    "emoji": "☕",
+    "forms": [
+      "cups"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small bowl with a handle for drinking.",
+          "examples": [
+            "Drink from the cup.",
+            "I want a cup of milk.",
+            "The cup is full."
+          ]
+        },
+        "more": {
+          "def": "A small container with a handle that you drink from.",
+          "examples": [
+            "She poured a cup of hot chocolate.",
+            "He drank a cup of milk with lunch.",
+            "The cup fell and broke."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way to measure food.",
+          "examples": [
+            "Add one cup of flour.",
+            "Use two cups of water.",
+            "I need a cup of sugar."
+          ]
+        },
+        "more": {
+          "def": "A unit used in cooking to measure how much of something there is.",
+          "examples": [
+            "The recipe calls for one cup of flour.",
+            "Add two cups of water to the pot.",
+            "Measure a cup of rice."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "curious",
     "say": "KYUR-ee-us",
     "emoji": "🤔",
@@ -68,6 +116,35 @@
             "She had a small cut on her finger from the paper.",
             "The nurse put a bandage on the cut.",
             "He made a straight cut in the cloth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cute",
+    "say": "kyoot",
+    "forms": [
+      "cuter",
+      "cutest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sweet and fun to look at.",
+          "examples": [
+            "The puppy is cute.",
+            "The kitten has cute ears.",
+            "Her hat is cute."
+          ]
+        },
+        "more": {
+          "def": "Pretty or sweet in a way that makes people smile.",
+          "examples": [
+            "The kittens looked cute in their little hats.",
+            "What a cute baby!",
+            "She drew a cute cartoon of a smiling cloud."
           ]
         }
       }

@@ -1,5 +1,213 @@
 [
   {
+    "word": "buck",
+    "say": "buk",
+    "forms": [
+      "bucks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A male deer.",
+          "examples": [
+            "A buck stood in the field.",
+            "The buck has antlers.",
+            "We saw a buck in the woods."
+          ]
+        },
+        "more": {
+          "def": "A male deer, rabbit or goat.",
+          "examples": [
+            "The buck lifted its head and listened.",
+            "A buck's antlers can grow quite large.",
+            "The buck led the herd across the field."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dollar.",
+          "examples": [
+            "It costs five bucks.",
+            "I found a buck.",
+            "Dad gave me ten bucks."
+          ]
+        },
+        "more": {
+          "def": "An informal word for one dollar.",
+          "examples": [
+            "The sticker cost only a buck.",
+            "That toy costs ten bucks.",
+            "She earned five bucks for washing the car."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "buddy",
+    "say": "BUD-ee",
+    "forms": [
+      "buddies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A friend.",
+          "examples": [
+            "My buddy and I play ball.",
+            "He is my buddy.",
+            "Buddies share snacks."
+          ]
+        },
+        "more": {
+          "def": "A close friend.",
+          "examples": [
+            "My buddy and I ride bikes to school every day.",
+            "The two buddies built a fort in the backyard.",
+            "Swim with a buddy, not alone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "build",
+    "say": "bild",
+    "forms": [
+      "builds",
+      "built"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something by putting parts together.",
+          "examples": [
+            "We build a sandcastle.",
+            "Dad built a shed.",
+            "Birds build nests."
+          ]
+        },
+        "more": {
+          "def": "To make something, such as a house or bridge, by putting parts together.",
+          "examples": [
+            "Workers will build a new bridge.",
+            "Beavers build dams from sticks and mud.",
+            "We built a fort out of couch cushions."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "building",
+    "say": "BIL-ding",
+    "emoji": "🏢",
+    "forms": [
+      "buildings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place with walls and a roof.",
+          "examples": [
+            "The building is tall.",
+            "Our school building is old.",
+            "A new building is by the park."
+          ]
+        },
+        "more": {
+          "def": "A structure with walls and a roof, such as a house, school or shop.",
+          "examples": [
+            "The tallest building in town has twenty floors.",
+            "Our school building has a big red door.",
+            "Workers are painting the old building."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bullet",
+    "say": "BUUL-it",
+    "forms": [
+      "bullets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small metal piece shot from a gun.",
+          "examples": [
+            "The bullet is tiny.",
+            "A bullet is very dangerous.",
+            "Police found a bullet."
+          ]
+        },
+        "more": {
+          "def": "A small piece of metal that is shot from a gun.",
+          "examples": [
+            "The museum displayed a bullet from an old war.",
+            "Hunters must handle bullets with great care.",
+            "The officer found a bullet on the ground."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small dot used to mark items in a list.",
+          "examples": [
+            "Put a bullet before each item.",
+            "The list has four bullets.",
+            "Each bullet gives one reason."
+          ]
+        },
+        "more": {
+          "def": "A small dot placed before each item in a list.",
+          "examples": [
+            "Each bullet on the slide gives one reason.",
+            "She put a bullet before every item on the list.",
+            "The list had five bullets."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bunch",
+    "say": "bunch",
+    "forms": [
+      "bunches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of things together.",
+          "examples": [
+            "A bunch of grapes.",
+            "A bunch of flowers.",
+            "A bunch of kids ran by."
+          ]
+        },
+        "more": {
+          "def": "A number of things that are tied or growing together.",
+          "examples": [
+            "She picked a bunch of daisies for her mom.",
+            "He ate a bunch of grapes.",
+            "A bunch of kids ran to the playground."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bundle",
     "say": "BUN-dul",
     "forms": [
@@ -22,6 +230,56 @@
             "She carried a bundle of newspapers under her arm.",
             "He tied the old letters in a bundle with string.",
             "The farmer stacked bundles of hay in the barn."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "burn",
+    "say": "bern",
+    "forms": [
+      "burns",
+      "burned",
+      "burnt",
+      "burning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be on fire.",
+          "examples": [
+            "The wood burns.",
+            "The candle is burning.",
+            "Paper burns fast."
+          ]
+        },
+        "more": {
+          "def": "To be on fire and give off heat and light.",
+          "examples": [
+            "Logs burned in the fireplace all evening.",
+            "The candle burned with a small, steady flame.",
+            "Dry leaves burn quickly."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hurt something with heat.",
+          "examples": [
+            "Do not burn your hand.",
+            "I burned my tongue on the soup.",
+            "The sun can burn your skin."
+          ]
+        },
+        "more": {
+          "def": "To hurt or damage something with heat, sun or fire.",
+          "examples": [
+            "Put on sunscreen so the sun does not burn your skin.",
+            "She burned her tongue on the hot soup.",
+            "The toast burned in the toaster."
           ]
         }
       }
@@ -57,6 +315,65 @@
     ]
   },
   {
+    "word": "bury",
+    "say": "BER-ee",
+    "forms": [
+      "buries",
+      "buried",
+      "burying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cover something with dirt.",
+          "examples": [
+            "The dog buried a bone.",
+            "Pirates bury treasure.",
+            "We buried seeds."
+          ]
+        },
+        "more": {
+          "def": "To put something in the ground and cover it up.",
+          "examples": [
+            "The dog buried its bone under the bush.",
+            "Squirrels bury nuts in the fall.",
+            "Pirates buried treasure on the island."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bus",
+    "say": "bus",
+    "emoji": "🚌",
+    "forms": [
+      "buses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big vehicle with many seats.",
+          "examples": [
+            "I ride the bus.",
+            "The bus is yellow.",
+            "We take the bus to school."
+          ]
+        },
+        "more": {
+          "def": "A large vehicle with many seats that carries people along a set route.",
+          "examples": [
+            "The school bus stops at our corner.",
+            "We took the city bus to the museum.",
+            "The bus was full of excited kids."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "business",
     "say": "BIZ-niss",
     "forms": [
@@ -79,6 +396,54 @@
             "My uncle started a business that repairs bicycles.",
             "The small business on our street sells flowers.",
             "Many businesses close on holidays."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "busy",
+    "say": "BIZ-ee",
+    "forms": [
+      "busier",
+      "busiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having a lot to do.",
+          "examples": [
+            "Mom is busy now.",
+            "I am busy with my homework.",
+            "The bee is busy."
+          ]
+        },
+        "more": {
+          "def": "Having a lot to do, or doing something right now.",
+          "examples": [
+            "Mom is busy making dinner.",
+            "Bees are busy all summer long.",
+            "She was too busy to talk."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Full of people or cars.",
+          "examples": [
+            "The street is busy.",
+            "The store is busy today.",
+            "The park was busy."
+          ]
+        },
+        "more": {
+          "def": "Full of people, activity or noise.",
+          "examples": [
+            "The market is busy on Saturdays.",
+            "A busy road runs by our school.",
+            "The airport was busy before the holiday."
           ]
         }
       }

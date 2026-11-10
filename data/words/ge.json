@@ -1,5 +1,52 @@
 [
   {
+    "word": "general",
+    "say": "JEN-er-ul",
+    "forms": [
+      "generals"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not exact; true for most things.",
+          "examples": [
+            "The general rule is no running.",
+            "I have a general idea.",
+            "He gave a general answer."
+          ]
+        },
+        "more": {
+          "def": "Including or true for most people or things, and not exact.",
+          "examples": [
+            "She gave us a general idea of how the game works.",
+            "The general rule is to put away your toys.",
+            "There was a general feeling of excitement."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very high leader in the army.",
+          "examples": [
+            "The general led his soldiers.",
+            "The general gave an order.",
+            "A general sat at the table."
+          ]
+        },
+        "more": {
+          "def": "A very high officer in the army.",
+          "examples": [
+            "The general planned the march across the mountains.",
+            "Soldiers saluted the general.",
+            "The general met with leaders from other countries."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "generous",
     "say": "JEN-er-us",
     "emoji": "🎁",
@@ -49,6 +96,34 @@
             "A gentle rain fell on the garden all morning.",
             "The nurse was gentle when she cleaned the cut.",
             "A gentle breeze moved the leaves."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gentleman",
+    "say": "JEN-tul-mun",
+    "forms": [
+      "gentlemen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man who is polite and kind.",
+          "examples": [
+            "The gentleman held the door for us.",
+            "Grandpa is a true gentleman.",
+            "Two gentlemen sat on a bench."
+          ]
+        },
+        "more": {
+          "def": "A man who is polite and well-behaved, or any man when you are speaking politely.",
+          "examples": [
+            "The old gentleman tipped his hat to everyone he met.",
+            "Ladies and gentlemen, please take your seats because the show is starting.",
+            "A gentleman always lets others go first through the door."
           ]
         }
       }

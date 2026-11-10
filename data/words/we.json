@@ -55,6 +55,34 @@
     ]
   },
   {
+    "word": "weapon",
+    "say": "WEP-un",
+    "forms": [
+      "weapons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something used to fight or hurt.",
+          "examples": [
+            "A sword is a weapon.",
+            "Knights carried weapons.",
+            "Soldiers have weapons."
+          ]
+        },
+        "more": {
+          "def": "An object used to fight or to hurt someone.",
+          "examples": [
+            "A sword is a weapon from long ago.",
+            "The knights carried weapons into battle.",
+            "Some animals use horns as weapons."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wear",
     "say": "wair",
     "forms": [
@@ -141,6 +169,64 @@
     ]
   },
   {
+    "word": "wedding",
+    "say": "WED-ing",
+    "emoji": "💒",
+    "forms": [
+      "weddings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A party when two people get married.",
+          "examples": [
+            "We went to a wedding.",
+            "The wedding was in the park.",
+            "She wore a long dress at the wedding."
+          ]
+        },
+        "more": {
+          "def": "A ceremony in which two people get married, usually followed by a celebration.",
+          "examples": [
+            "My cousin's wedding was in a garden.",
+            "Everyone danced at the wedding.",
+            "The wedding cake had three layers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "Wednesday",
+    "say": "WENZ-day",
+    "emoji": "📅",
+    "forms": [
+      "Wednesdays"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The day after Tuesday.",
+          "examples": [
+            "We have music on Wednesday.",
+            "My cousin visits on Wednesday.",
+            "Wednesday is the middle of the school week."
+          ]
+        },
+        "more": {
+          "def": "The day of the week that comes after Tuesday and before Thursday.",
+          "examples": [
+            "Wednesday is halfway through the school week.",
+            "The farmers' market is open every Wednesday.",
+            "Our team has soccer practice on Wednesday afternoon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "week",
     "say": "week",
     "forms": [
@@ -163,6 +249,132 @@
             "We have art class twice a week.",
             "My cousins will stay with us for a week.",
             "The school fair is held in the last week of May."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "weekend",
+    "say": "WEEK-end",
+    "forms": [
+      "weekends"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Saturday and Sunday.",
+          "examples": [
+            "We play on the weekend.",
+            "The weekend is fun.",
+            "See you this weekend."
+          ]
+        },
+        "more": {
+          "def": "Saturday and Sunday, the days when many people do not work or go to school.",
+          "examples": [
+            "We go hiking on the weekend.",
+            "She visits her grandma every weekend.",
+            "The weekend was rainy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "weird",
+    "say": "weerd",
+    "forms": [
+      "weirder",
+      "weirdest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very strange.",
+          "examples": [
+            "What a weird noise!",
+            "It is weird that it snowed in May.",
+            "The dream was weird."
+          ]
+        },
+        "more": {
+          "def": "Very strange or unusual, and hard to explain.",
+          "examples": [
+            "I heard a weird noise outside my window.",
+            "It felt weird to be at school with no one else there.",
+            "The weather was weird, with snow in May."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "welcome",
+    "say": "WEL-kum",
+    "emoji": "👋",
+    "forms": [
+      "welcomes",
+      "welcomed",
+      "welcoming"
+    ],
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A friendly word you say when someone arrives.",
+          "examples": [
+            "Welcome to our home!",
+            "Welcome! Come in.",
+            "Welcome to school, class!"
+          ]
+        },
+        "more": {
+          "def": "Used to greet someone in a friendly way when they arrive.",
+          "examples": [
+            "Welcome to the library! Let me show you around.",
+            "Welcome back, everyone! I hope you had a good summer.",
+            "Welcome aboard! Please find your seat."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say hello in a happy way.",
+          "examples": [
+            "We welcome our guests.",
+            "Dad welcomed Grandma at the door.",
+            "The class welcomed the new girl."
+          ]
+        },
+        "more": {
+          "def": "To greet someone with kindness when they arrive.",
+          "examples": [
+            "The mayor welcomed the visitors to our town.",
+            "Our neighbors welcomed us with a basket of muffins.",
+            "The puppy welcomed me home by wagging its tail."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wanted and liked.",
+          "examples": [
+            "You are always welcome here.",
+            "A cold drink is welcome on a hot day.",
+            "Rain is welcome in the dry garden."
+          ]
+        },
+        "more": {
+          "def": "Gladly received or accepted, making people happy.",
+          "examples": [
+            "The cool breeze was a welcome change after the long, hot walk.",
+            "Visitors are always welcome at our school.",
+            "After the long drive, a snack was welcome."
           ]
         }
       }
@@ -226,6 +438,31 @@
             "Long ago, villagers carried buckets of water from the well.",
             "The farmer dug a new well near the barn.",
             "Oil comes from a deep well that goes far under the ground."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "west",
+    "say": "west",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The direction where the sun goes down.",
+          "examples": [
+            "The sun sets in the west.",
+            "We drove west.",
+            "Birds flew west."
+          ]
+        },
+        "more": {
+          "def": "The direction opposite to east, where the sun sets.",
+          "examples": [
+            "Storms often roll in from the west.",
+            "We drove west toward the mountains.",
+            "Pioneers traveled west in wagons."
           ]
         }
       }

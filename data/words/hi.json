@@ -31,6 +31,38 @@
     ]
   },
   {
+    "word": "hide",
+    "say": "hyd",
+    "emoji": "🙈",
+    "forms": [
+      "hides",
+      "hid",
+      "hidden",
+      "hiding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go where no one can see you.",
+          "examples": [
+            "Let's hide behind the couch.",
+            "The cat hid under the bed.",
+            "I hide from my brother."
+          ]
+        },
+        "more": {
+          "def": "To go or put something where it cannot be seen.",
+          "examples": [
+            "Chameleons hide by changing their colors.",
+            "Squirrels hide nuts in the ground for winter.",
+            "The twins hid behind the curtain until their mom found them."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "high",
     "say": "hy",
     "senses": [
@@ -75,6 +107,34 @@
     ]
   },
   {
+    "word": "hill",
+    "say": "hil",
+    "forms": [
+      "hills"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece of land higher than the land around it.",
+          "examples": [
+            "We climb the hill.",
+            "The hill is steep.",
+            "We sled down the hill."
+          ]
+        },
+        "more": {
+          "def": "A raised area of land that is smaller than a mountain.",
+          "examples": [
+            "We rolled down the grassy hill.",
+            "A small house sat on top of the hill.",
+            "The bike ride up the hill was hard."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "him",
     "say": "him",
     "senses": [
@@ -100,6 +160,61 @@
     ]
   },
   {
+    "word": "himself",
+    "say": "him-SELF",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "Him and not someone else.",
+          "examples": [
+            "He hurt himself.",
+            "He made lunch himself.",
+            "Max sees himself in the mirror."
+          ]
+        },
+        "more": {
+          "def": "Used to talk about a male person who has just been named, as the one who does or gets the action.",
+          "examples": [
+            "He taught himself to play the guitar.",
+            "Jake cut himself a slice of bread.",
+            "The old farmer built the barn by himself."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hire",
+    "say": "hyr",
+    "forms": [
+      "hires",
+      "hired",
+      "hiring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pay someone to do a job.",
+          "examples": [
+            "They hired a painter.",
+            "The shop hired a helper.",
+            "We hired a guide."
+          ]
+        },
+        "more": {
+          "def": "To pay someone to work for you.",
+          "examples": [
+            "The restaurant hired a new cook.",
+            "We hired a guide to show us the cave.",
+            "The family hired a painter for the house."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "his",
     "say": "hiz",
     "senses": [
@@ -119,6 +234,34 @@
             "My dad forgot his keys on the kitchen table.",
             "The horse shook his mane in the wind.",
             "Ravi finished his homework before dinner."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "history",
+    "say": "HIS-tuh-ree",
+    "forms": [
+      "histories"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What happened in the past.",
+          "examples": [
+            "We learn history at school.",
+            "I read about the history of our town.",
+            "I love history."
+          ]
+        },
+        "more": {
+          "def": "The study of events in the past, or the events themselves.",
+          "examples": [
+            "In history class, we learned about the first explorers.",
+            "The museum tells the history of our town.",
+            "Her grandmother knows the history of the family."
           ]
         }
       }

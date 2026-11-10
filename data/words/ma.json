@@ -29,6 +29,35 @@
     ]
   },
   {
+    "word": "mad",
+    "say": "mad",
+    "forms": [
+      "madder",
+      "maddest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling angry.",
+          "examples": [
+            "I was mad when my tower fell.",
+            "She is mad at her brother.",
+            "The cat looked mad."
+          ]
+        },
+        "more": {
+          "def": "Feeling or showing anger.",
+          "examples": [
+            "He was mad because his little brother broke his model.",
+            "She got mad when the game ended early.",
+            "The coach was mad about the missed practice."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "magnet",
     "say": "MAG-nit",
     "emoji": "🧲",
@@ -84,6 +113,31 @@
     ]
   },
   {
+    "word": "major",
+    "say": "MAY-jer",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very big or important.",
+          "examples": [
+            "It was a major storm.",
+            "He has a major part in the play.",
+            "A major road is near."
+          ]
+        },
+        "more": {
+          "def": "Larger or more important than others of its kind.",
+          "examples": [
+            "The city built a major bridge over the river.",
+            "Pollution is a major problem for rivers.",
+            "She had a major role in the school play."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "make",
     "say": "mayk",
     "forms": [
@@ -127,6 +181,34 @@
             "The loud thunder made the baby cry.",
             "Good exercise makes your body strong.",
             "Sunlight makes the plants grow tall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mama",
+    "say": "MAH-muh",
+    "forms": [
+      "mamas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A name for your mother.",
+          "examples": [
+            "Mama made soup.",
+            "I love my mama.",
+            "The baby called, \"Mama!\""
+          ]
+        },
+        "more": {
+          "def": "A word that young children use for their mother.",
+          "examples": [
+            "The baby reached for her mama.",
+            "\"Mama, look at my drawing!\" shouted the boy.",
+            "My mama sings while she cooks."
           ]
         }
       }
@@ -215,6 +297,84 @@
     ]
   },
   {
+    "word": "March",
+    "say": "march",
+    "emoji": "📅",
+    "forms": [
+      "marches",
+      "marched",
+      "marching"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The third month of the year.",
+          "examples": [
+            "Spring begins in March.",
+            "My birthday is in March.",
+            "March can be very windy."
+          ]
+        },
+        "more": {
+          "def": "The third month of the year, when spring begins in many places.",
+          "examples": [
+            "The cherry trees bloom in March.",
+            "Strong winds lift kites into the sky in March.",
+            "March comes after February and before April."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To walk with steady steps.",
+          "examples": [
+            "We march in a line to lunch.",
+            "Ants march across the sidewalk.",
+            "The band marched down the street."
+          ]
+        },
+        "more": {
+          "def": "To walk with regular, steady steps, often in a group.",
+          "examples": [
+            "The band marched through the town during the parade.",
+            "Hundreds of penguins march across the ice together.",
+            "The kindergarten class marched around the playground."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "marriage",
+    "say": "MAIR-ij",
+    "forms": [
+      "marriages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The time when two people are husband and wife.",
+          "examples": [
+            "Their marriage is happy.",
+            "Grandma and Grandpa had a long marriage.",
+            "The marriage began in a garden."
+          ]
+        },
+        "more": {
+          "def": "The state of being married to someone.",
+          "examples": [
+            "My grandparents celebrated fifty years of marriage.",
+            "Their marriage was a happy one.",
+            "The marriage ceremony took place in a garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "married",
     "say": "MAIR-eed",
     "senses": [
@@ -234,6 +394,153 @@
             "My parents have been married for fifteen years.",
             "The newly married couple waved from the car.",
             "Her uncle is married to my teacher."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "marry",
+    "say": "MAIR-ee",
+    "forms": [
+      "marries",
+      "married",
+      "marrying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To become husband and wife.",
+          "examples": [
+            "My aunt will marry in June.",
+            "They married last year.",
+            "Two people marry at a wedding."
+          ]
+        },
+        "more": {
+          "def": "To join with someone as a husband or wife in a special ceremony.",
+          "examples": [
+            "My cousin is going to marry her best friend next summer.",
+            "They married in a garden full of flowers.",
+            "Many people marry in the spring."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "master",
+    "say": "MAS-ter",
+    "forms": [
+      "masters",
+      "mastered",
+      "mastering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Someone who is very good at something.",
+          "examples": [
+            "He is a master painter.",
+            "The master carved the bowl.",
+            "He is a chess master."
+          ]
+        },
+        "more": {
+          "def": "A person who has great skill at something.",
+          "examples": [
+            "The master baker made the wedding cake.",
+            "She is a master of the violin.",
+            "A master carver made the wooden horse."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To learn something very well.",
+          "examples": [
+            "I mastered tying my shoes.",
+            "She mastered the piano piece.",
+            "He mastered the trick."
+          ]
+        },
+        "more": {
+          "def": "To learn something so well that you can do it easily.",
+          "examples": [
+            "It took a year to master the violin.",
+            "She mastered riding a bike without help.",
+            "He mastered the card trick after hours of practice."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "match",
+    "say": "mach",
+    "forms": [
+      "matches",
+      "matched",
+      "matching"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin stick that makes fire.",
+          "examples": [
+            "A grown-up lit a match.",
+            "The match went out.",
+            "The box of matches is on the shelf."
+          ]
+        },
+        "more": {
+          "def": "A small stick with a tip that makes a flame when rubbed on a rough surface.",
+          "examples": [
+            "Dad struck a match to light the candle.",
+            "A box of matches sat on the shelf.",
+            "He blew out the match."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A game between teams.",
+          "examples": [
+            "We watched the soccer match.",
+            "The tennis match was long.",
+            "My dad won his tennis match."
+          ]
+        },
+        "more": {
+          "def": "A contest between two players or teams.",
+          "examples": [
+            "The tennis match lasted two hours.",
+            "Our team won the match.",
+            "She watched the chess match."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go together.",
+          "examples": [
+            "The socks match.",
+            "Her shoes match her dress.",
+            "These two colors match."
+          ]
+        },
+        "more": {
+          "def": "To be alike or to go well together.",
+          "examples": [
+            "Her scarf matches her hat.",
+            "Match each word with its picture.",
+            "The two socks match."
           ]
         }
       }

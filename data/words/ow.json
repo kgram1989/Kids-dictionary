@@ -1,5 +1,35 @@
 [
   {
+    "word": "owe",
+    "say": "oh",
+    "forms": [
+      "owes",
+      "owed",
+      "owing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have to give something back.",
+          "examples": [
+            "I owe you a dollar.",
+            "Mia owes Sam a favor.",
+            "We owe the library a book."
+          ]
+        },
+        "more": {
+          "def": "To have to pay or give back something you have been lent or given.",
+          "examples": [
+            "I owe my brother five dollars.",
+            "We owe the library for the late book.",
+            "She owes me a favor for helping her."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "own",
     "say": "ohn",
     "forms": [

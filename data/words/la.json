@@ -28,6 +28,55 @@
     ]
   },
   {
+    "word": "land",
+    "say": "land",
+    "forms": [
+      "lands",
+      "landed",
+      "landing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The dry part of the Earth.",
+          "examples": [
+            "The ship reached land.",
+            "Frogs live on land and in water.",
+            "The land is flat here."
+          ]
+        },
+        "more": {
+          "def": "The solid part of the Earth's surface that is not covered by water.",
+          "examples": [
+            "After days at sea, the sailors saw land.",
+            "Farmers plant crops on good land.",
+            "Turtles lay their eggs on land."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To come down from the air.",
+          "examples": [
+            "The plane will land.",
+            "The bird landed.",
+            "A bee landed on my hand."
+          ]
+        },
+        "more": {
+          "def": "To come down to the ground or water after flying.",
+          "examples": [
+            "The plane landed safely at the airport.",
+            "A butterfly landed on my finger.",
+            "The geese landed on the lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "language",
     "say": "LANG-gwij",
     "emoji": "🗣️",
@@ -51,6 +100,35 @@
             "She can speak three languages: English, French, and Arabic.",
             "People who cannot hear may use sign language.",
             "He is learning a new language before his trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "large",
+    "say": "larj",
+    "forms": [
+      "larger",
+      "largest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Big.",
+          "examples": [
+            "A large dog.",
+            "The box is large.",
+            "A large cup of milk."
+          ]
+        },
+        "more": {
+          "def": "Big in size or amount.",
+          "examples": [
+            "A large crowd gathered in the park.",
+            "The elephant is the largest land animal.",
+            "She ordered a large glass of milk."
           ]
         }
       }
@@ -170,6 +248,56 @@
     ]
   },
   {
+    "word": "laugh",
+    "say": "laf",
+    "emoji": "😂",
+    "forms": [
+      "laughs",
+      "laughed",
+      "laughing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make happy sounds because something is funny.",
+          "examples": [
+            "I laugh at funny jokes.",
+            "The baby laughed.",
+            "We laughed at the clown."
+          ]
+        },
+        "more": {
+          "def": "To make sounds with your voice that show you think something is funny or you are happy.",
+          "examples": [
+            "The whole class laughed at the silly story.",
+            "She laughed so hard that her stomach hurt.",
+            "Dad laughs whenever the dog chases its tail."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sound you make when something is funny.",
+          "examples": [
+            "She has a loud laugh.",
+            "We had a good laugh.",
+            "I heard his laugh in the next room."
+          ]
+        },
+        "more": {
+          "def": "The happy sound a person makes when something is funny.",
+          "examples": [
+            "Her laugh is so loud that you can hear it across the playground.",
+            "The joke got a big laugh from everyone.",
+            "We had a good laugh about the mix-up."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "laughter",
     "say": "LAF-ter",
     "emoji": "😂",
@@ -190,6 +318,112 @@
             "The room filled with laughter when the clown came in.",
             "Their laughter could be heard down the hall.",
             "The funny movie brought tears of laughter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "law",
+    "say": "law",
+    "emoji": "⚖️",
+    "forms": [
+      "laws"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rule that everyone in a place must follow.",
+          "examples": [
+            "It is a law to wear a seat belt.",
+            "The town made a new law.",
+            "Every country has laws."
+          ]
+        },
+        "more": {
+          "def": "A rule made by the government that people must obey.",
+          "examples": [
+            "There is a law that cars must stop for school buses.",
+            "The mayor signed a new law about recycling.",
+            "Laws help keep people safe."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lawyer",
+    "say": "LOY-er",
+    "forms": [
+      "lawyers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person with a job helping people with the law.",
+          "examples": [
+            "The lawyer works in court.",
+            "My aunt is a lawyer.",
+            "A lawyer reads many laws."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to give advice about laws and speak for people in court.",
+          "examples": [
+            "My aunt is a lawyer who helps families.",
+            "The lawyer spoke to the judge.",
+            "Lawyers study the law for many years."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lay",
+    "say": "lay",
+    "forms": [
+      "lays",
+      "laid",
+      "laying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put something down gently.",
+          "examples": [
+            "Lay the book on the table.",
+            "Mom laid the baby in the crib.",
+            "Lay your coat here."
+          ]
+        },
+        "more": {
+          "def": "To put something down in a flat or careful way.",
+          "examples": [
+            "Lay the cards face down on the table.",
+            "She laid the baby in the crib.",
+            "Workers laid bricks in a neat row."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make an egg.",
+          "examples": [
+            "Hens lay eggs.",
+            "The hen laid an egg.",
+            "Birds lay eggs in nests."
+          ]
+        },
+        "more": {
+          "def": "To produce an egg from the body.",
+          "examples": [
+            "Chickens lay eggs almost every day.",
+            "The turtle crawled up the beach to lay her eggs.",
+            "Robins lay blue eggs in the spring."
           ]
         }
       }

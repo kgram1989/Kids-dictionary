@@ -1,5 +1,92 @@
 [
   {
+    "word": "track",
+    "say": "trak",
+    "forms": [
+      "tracks",
+      "tracked",
+      "tracking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Marks left by an animal's feet.",
+          "examples": [
+            "We saw deer tracks.",
+            "There were tracks in the snow.",
+            "The dog left muddy tracks."
+          ]
+        },
+        "more": {
+          "def": "Marks or prints left on the ground by a person, animal or vehicle.",
+          "examples": [
+            "We followed the deer tracks through the snow.",
+            "The dog left muddy tracks across the floor.",
+            "Tire tracks led to the barn."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Rails for trains.",
+          "examples": [
+            "The train is on the track.",
+            "The tracks go by the river.",
+            "Do not play on the tracks."
+          ]
+        },
+        "more": {
+          "def": "The metal rails that a train runs on.",
+          "examples": [
+            "The train tracks run along the river.",
+            "A freight train rumbled over the tracks.",
+            "The tracks curved around the hill."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A path for racing.",
+          "examples": [
+            "The runners ran on a track.",
+            "The school has a track.",
+            "There is a track around the field."
+          ]
+        },
+        "more": {
+          "def": "A path, often shaped like an oval, where people or cars race.",
+          "examples": [
+            "She ran four laps around the track.",
+            "The race cars sped around the track.",
+            "The school track is next to the soccer field."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To follow marks to find something.",
+          "examples": [
+            "Wolves track their food.",
+            "We tracked the deer.",
+            "The dog tracked the scent."
+          ]
+        },
+        "more": {
+          "def": "To follow marks, signs or a scent to find someone or something.",
+          "examples": [
+            "The ranger tracked the bear by its paw prints.",
+            "A dog can track a scent for miles.",
+            "Scientists track whales with tiny radios."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tradition",
     "say": "truh-DISH-un",
     "forms": [
@@ -22,6 +109,56 @@
             "It is a tradition in her family to tell stories around the fire every winter.",
             "The school has a tradition of planting a tree every year.",
             "By tradition, the oldest child lights the candles."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "train",
+    "say": "trayn",
+    "emoji": "🚆",
+    "forms": [
+      "trains",
+      "trained",
+      "training"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A line of cars that runs on tracks.",
+          "examples": [
+            "We rode a train.",
+            "The train is long.",
+            "A train goes through the town."
+          ]
+        },
+        "more": {
+          "def": "A line of connected cars pulled along a track, carrying people or goods.",
+          "examples": [
+            "The train rolled slowly out of the station.",
+            "A freight train carries coal and grain across the country.",
+            "We took the train to see the city."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To teach someone a skill by practicing.",
+          "examples": [
+            "I train my dog.",
+            "She trains for the race.",
+            "He is training to swim."
+          ]
+        },
+        "more": {
+          "def": "To teach a person or animal a skill, or to practice to get better.",
+          "examples": [
+            "She trained her puppy to sit and stay.",
+            "The runners train every morning for the big race.",
+            "Doctors train for many years before they work."
           ]
         }
       }
@@ -116,6 +253,103 @@
     ]
   },
   {
+    "word": "treat",
+    "say": "treet",
+    "forms": [
+      "treats",
+      "treated",
+      "treating"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something special to eat.",
+          "examples": [
+            "Ice cream is a treat.",
+            "We got a treat.",
+            "The dog got a treat."
+          ]
+        },
+        "more": {
+          "def": "Something special that gives you pleasure, such as a snack or a trip.",
+          "examples": [
+            "Ice cream is a treat on a hot day.",
+            "Going to the zoo was a special treat.",
+            "The dog gets a treat when it sits."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To act toward someone in a certain way.",
+          "examples": [
+            "She treats her dog like a friend.",
+            "Treat the new toy with care.",
+            "Dad treats us fairly."
+          ]
+        },
+        "more": {
+          "def": "To behave toward a person or animal in a certain way.",
+          "examples": [
+            "The nurse treated the little boy kindly.",
+            "Treat the old books with care.",
+            "They treat their pets like family."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give care to a sick person.",
+          "examples": [
+            "The doctor treats sick people.",
+            "The vet treated my dog's paw.",
+            "Nurses treat patients."
+          ]
+        },
+        "more": {
+          "def": "To give medicine or care to help a sick or hurt person or animal.",
+          "examples": [
+            "The nurse treated the cut on my knee.",
+            "Doctors treat many kinds of illness.",
+            "The vet treated the horse's sore leg."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tree",
+    "say": "tree",
+    "emoji": "🌳",
+    "forms": [
+      "trees"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tall plant with a trunk and branches.",
+          "examples": [
+            "A bird sits in the tree.",
+            "The tree has green leaves.",
+            "We climbed the tree."
+          ]
+        },
+        "more": {
+          "def": "A tall plant with a thick wooden trunk, branches and leaves.",
+          "examples": [
+            "A squirrel ran up the tree.",
+            "The oak tree is over a hundred years old.",
+            "We planted a tree in the backyard."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tremble",
     "say": "TREM-bul",
     "forms": [
@@ -146,6 +380,124 @@
     ]
   },
   {
+    "word": "trick",
+    "say": "trik",
+    "forms": [
+      "tricks",
+      "tricked",
+      "tricking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something done to fool someone.",
+          "examples": [
+            "The magician did a trick.",
+            "Hiding the cookie was a trick.",
+            "It was a trick!"
+          ]
+        },
+        "more": {
+          "def": "Something done to fool or surprise people.",
+          "examples": [
+            "The magician showed us a card trick.",
+            "Hiding the cookie was a clever trick.",
+            "It was a trick to make me look away."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A special thing that a pet or person can do.",
+          "examples": [
+            "My dog can do a trick.",
+            "She learned a card trick.",
+            "He did a trick on his bike."
+          ]
+        },
+        "more": {
+          "def": "A skillful act done to entertain or amaze.",
+          "examples": [
+            "The dog's best trick is rolling over.",
+            "He practiced a trick on his skateboard.",
+            "The clown's tricks made everyone laugh."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To fool someone.",
+          "examples": [
+            "You cannot trick me.",
+            "He tricked his friend.",
+            "The fox tricked the crow."
+          ]
+        },
+        "more": {
+          "def": "To fool someone by being clever.",
+          "examples": [
+            "The fox tricked the crow into dropping its cheese.",
+            "The magician tricked the audience.",
+            "My brother tried to trick me with a fake spider."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "trip",
+    "say": "trip",
+    "emoji": "🧳",
+    "forms": [
+      "trips",
+      "tripped",
+      "tripping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When you go somewhere and come back.",
+          "examples": [
+            "We took a trip to the zoo.",
+            "Our trip to the lake was fun.",
+            "The trip took two hours."
+          ]
+        },
+        "more": {
+          "def": "A journey to a place and back.",
+          "examples": [
+            "Our class took a trip to the science museum.",
+            "The trip to Grandma's house takes three hours.",
+            "We packed lunches for the trip."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To catch your foot and almost fall.",
+          "examples": [
+            "Do not trip on the rug.",
+            "I tripped over a root.",
+            "He tripped on the step."
+          ]
+        },
+        "more": {
+          "def": "To catch your foot on something and almost fall.",
+          "examples": [
+            "She tripped over a toy in the hall.",
+            "Be careful not to trip on the root.",
+            "The runner tripped but quickly got back up."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "trouble",
     "say": "TRUB-ul",
     "forms": [
@@ -168,6 +520,35 @@
             "The boat had engine trouble, so we stopped at the dock.",
             "I had trouble tying my shoes when I was little.",
             "He got into trouble for running in the hall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "truck",
+    "say": "truk",
+    "emoji": "🚚",
+    "forms": [
+      "trucks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big vehicle that carries things.",
+          "examples": [
+            "The truck carries sand.",
+            "The fire truck came.",
+            "The truck delivers food."
+          ]
+        },
+        "more": {
+          "def": "A large motor vehicle used to carry goods.",
+          "examples": [
+            "A truck delivered the new couch.",
+            "The garbage truck comes every Thursday.",
+            "Dad drives a truck full of apples."
           ]
         }
       }
@@ -223,6 +604,34 @@
             "You can trust her to keep a promise.",
             "Do you trust the weather report?",
             "It takes time to trust someone new."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "truth",
+    "say": "trooth",
+    "forms": [
+      "truths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What is real and not pretend.",
+          "examples": [
+            "Tell the truth, please.",
+            "The truth is that I forgot my lunch.",
+            "He told the truth about the broken cup."
+          ]
+        },
+        "more": {
+          "def": "The facts about something as they really are, not made up or false.",
+          "examples": [
+            "The scientist looked for the truth by doing careful tests.",
+            "She told the truth about how the vase got broken.",
+            "There is a lot of truth in that old story."
           ]
         }
       }

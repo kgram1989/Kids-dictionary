@@ -81,6 +81,63 @@
     ]
   },
   {
+    "word": "mommy",
+    "say": "MOM-ee",
+    "forms": [
+      "mommies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A name for your mother.",
+          "examples": [
+            "Mommy read me a story.",
+            "I love my mommy.",
+            "Mommy made lunch."
+          ]
+        },
+        "more": {
+          "def": "A word that young children use for their mother.",
+          "examples": [
+            "The little girl ran to her mommy.",
+            "Mommy tucked me into bed.",
+            "My mommy drives a blue van."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "Monday",
+    "say": "MUN-day",
+    "emoji": "📅",
+    "forms": [
+      "Mondays"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The day after Sunday.",
+          "examples": [
+            "We have art on Monday.",
+            "See you on Monday!",
+            "Monday is when school starts again."
+          ]
+        },
+        "more": {
+          "def": "The day of the week that comes after Sunday and before Tuesday.",
+          "examples": [
+            "On Monday, our class is going on a trip to the farm.",
+            "The library is closed on Monday.",
+            "Many people go back to work on Monday morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "money",
     "say": "MUN-ee",
     "senses": [
@@ -244,6 +301,54 @@
     ]
   },
   {
+    "word": "mouth",
+    "say": "mowth",
+    "emoji": "👄",
+    "forms": [
+      "mouths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of your face you eat with.",
+          "examples": [
+            "Open your mouth.",
+            "The baby put the toy in her mouth.",
+            "My mouth is full."
+          ]
+        },
+        "more": {
+          "def": "The opening in the face that is used for eating and speaking.",
+          "examples": [
+            "Open your mouth wide and say ahh.",
+            "The hippo opened its huge mouth.",
+            "She covered her mouth when she yawned."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The place where a river ends.",
+          "examples": [
+            "The ship sailed to the mouth of the river.",
+            "A town sits at the mouth of the river.",
+            "Birds gather at the river's mouth."
+          ]
+        },
+        "more": {
+          "def": "The place where a river flows into the sea or a lake.",
+          "examples": [
+            "A city grew at the mouth of the river.",
+            "Many fish live at the mouth of the river.",
+            "We walked to the mouth of the stream."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "move",
     "say": "moov",
     "forms": [
@@ -287,6 +392,35 @@
             "My family moved to a new town last summer.",
             "They are moving to a bigger house near the park.",
             "Our neighbors moved away, and new ones came."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "movie",
+    "say": "MOO-vee",
+    "emoji": "🎬",
+    "forms": [
+      "movies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A story you watch on a screen.",
+          "examples": [
+            "We watched a movie.",
+            "The movie was funny.",
+            "I like movies about animals."
+          ]
+        },
+        "more": {
+          "def": "A story told with moving pictures and sound, shown in a theater or on a screen.",
+          "examples": [
+            "We saw a movie about dinosaurs at the theater.",
+            "The movie was long, so we took a break to eat popcorn.",
+            "Many movies are made from favorite books."
           ]
         }
       }

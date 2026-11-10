@@ -153,6 +153,31 @@
     ]
   },
   {
+    "word": "medical",
+    "say": "MED-ih-kul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with doctors and healing.",
+          "examples": [
+            "She has a medical bag.",
+            "He went to a medical office.",
+            "The doctor needs medical help."
+          ]
+        },
+        "more": {
+          "def": "Having to do with medicine and the care of sick or hurt people.",
+          "examples": [
+            "The nurse brought the medical kit.",
+            "The doctor needed medical supplies.",
+            "She studied medical science for many years."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "meet",
     "say": "meet",
     "forms": [
@@ -183,6 +208,81 @@
     ]
   },
   {
+    "word": "meeting",
+    "say": "MEE-ting",
+    "forms": [
+      "meetings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When people come together to talk.",
+          "examples": [
+            "We had a class meeting.",
+            "Mom has a meeting at work.",
+            "The meeting starts at noon."
+          ]
+        },
+        "more": {
+          "def": "A gathering of people who come together to talk or decide things.",
+          "examples": [
+            "The club held a meeting to plan the bake sale.",
+            "Town leaders had a meeting about the new playground.",
+            "Our meeting ended when the bell rang."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "memory",
+    "say": "MEM-uh-ree",
+    "forms": [
+      "memories"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you remember.",
+          "examples": [
+            "I have a happy memory.",
+            "My memory of the trip is good.",
+            "I have a memory of the beach."
+          ]
+        },
+        "more": {
+          "def": "Something from the past that you remember.",
+          "examples": [
+            "My best memory is of the day we saw whales.",
+            "She has fond memories of her grandmother's kitchen.",
+            "The old photo brought back a happy memory."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being able to remember.",
+          "examples": [
+            "He has a good memory.",
+            "My memory is strong.",
+            "She has a bad memory for names."
+          ]
+        },
+        "more": {
+          "def": "The power of the mind to remember things.",
+          "examples": [
+            "She has a good memory for names.",
+            "A good memory helps you pass tests.",
+            "His memory is as sharp as ever."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mention",
     "say": "MEN-shun",
     "forms": [
@@ -207,6 +307,63 @@
             "She mentioned that the library would be closed on Monday.",
             "The book mentions a secret tunnel under the castle.",
             "He forgot to mention that he would be late."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mess",
+    "say": "mess",
+    "forms": [
+      "messes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that is not neat.",
+          "examples": [
+            "My room is a mess.",
+            "The mess is on the floor.",
+            "I made a mess."
+          ]
+        },
+        "more": {
+          "def": "A dirty or untidy state, or a thing that is not neat.",
+          "examples": [
+            "The puppy made a mess in the kitchen.",
+            "My room was a mess after the party.",
+            "Please clean up the mess of paper."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "message",
+    "say": "MESS-ij",
+    "emoji": "📩",
+    "forms": [
+      "messages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words you send to someone.",
+          "examples": [
+            "I got a message.",
+            "Leave a message.",
+            "Dad sent a message."
+          ]
+        },
+        "more": {
+          "def": "A short piece of information that is sent to a person.",
+          "examples": [
+            "I left a message for my friend on the phone.",
+            "The message said that school was closed.",
+            "A bottle with a message inside floated in the sea."
           ]
         }
       }

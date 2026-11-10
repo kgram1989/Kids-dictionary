@@ -200,8 +200,12 @@ If the list gives a word in lower case that should be capitalised (`monday`,
 7. Repeat steps 3–6 until the session's words are done, then run `npm run build`. It must pass.
 8. Commit (`Add 200 words: able to zoo`, for example) and push to the branch you were
    given. Open a pull request only if asked to.
-9. Report: how many words were added, which were skipped and why, and any entries you
-   are unsure about.
+9. Add every entry you are unsure about (serious topics, loose wording, unusual
+   respellings, style warnings you left in place, forms that duplicate another entry)
+   to `data/unsure.txt` as `word | what to check`, so a person can review them later.
+   Delete a line only once that entry has been reviewed.
+10. Report: how many words were added, which were skipped and why, and any entries you
+    are unsure about (the same ones you put in `data/unsure.txt`).
 
 About 200–300 words is a sensible amount for one session. Stop and report at that point
 rather than letting the quality drop. To fix an entry that is already merged, edit its

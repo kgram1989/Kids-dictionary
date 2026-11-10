@@ -1,5 +1,330 @@
 [
   {
+    "word": "pack",
+    "say": "pak",
+    "forms": [
+      "packs",
+      "packed",
+      "packing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put things in a bag or box.",
+          "examples": [
+            "Pack your bag.",
+            "We packed for the trip.",
+            "He packs his lunch."
+          ]
+        },
+        "more": {
+          "def": "To put things into a bag, box or suitcase to carry them.",
+          "examples": [
+            "I packed my swimsuit and towel in a bag.",
+            "Dad packs our lunches every morning.",
+            "We packed the car for the trip."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of wolves or dogs.",
+          "examples": [
+            "A pack of wolves howled.",
+            "The pack ran through the snow.",
+            "A pack of dogs barked."
+          ]
+        },
+        "more": {
+          "def": "A group of animals, such as wolves or dogs, that live or hunt together.",
+          "examples": [
+            "A pack of wolves traveled across the snowy plain.",
+            "The pack of dogs ran along the beach.",
+            "Each pack of wolves has a leader."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small box or bag of things.",
+          "examples": [
+            "I bought a pack of gum.",
+            "She opened a pack of cards.",
+            "We need a pack of pencils."
+          ]
+        },
+        "more": {
+          "def": "A small package that holds several of the same thing.",
+          "examples": [
+            "She bought a pack of pencils for school.",
+            "A pack of cards has fifty-two cards.",
+            "Mom opened a new pack of napkins."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pain",
+    "say": "payn",
+    "forms": [
+      "pains"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hurting feeling.",
+          "examples": [
+            "I feel pain in my knee.",
+            "The shot caused a little pain.",
+            "He cried out in pain."
+          ]
+        },
+        "more": {
+          "def": "A feeling of hurt in the body.",
+          "examples": [
+            "I felt a sharp pain in my foot.",
+            "The medicine took away the pain.",
+            "She had a pain in her tooth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pal",
+    "say": "pal",
+    "forms": [
+      "pals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A friend.",
+          "examples": [
+            "He is my pal.",
+            "My pal and I play ball.",
+            "She is a good pal."
+          ]
+        },
+        "more": {
+          "def": "A close and friendly companion.",
+          "examples": [
+            "My pal and I walk to school together.",
+            "He is a loyal pal who always helps.",
+            "She wrote to her pen pal."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pants",
+    "say": "pants",
+    "emoji": "👖",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Clothes that cover both legs.",
+          "examples": [
+            "I wear pants to school.",
+            "My pants are blue.",
+            "Put on your pants."
+          ]
+        },
+        "more": {
+          "def": "A piece of clothing that covers the body from the waist to the ankles, with a separate part for each leg.",
+          "examples": [
+            "He wore warm pants in the snow.",
+            "My pants have deep pockets.",
+            "She rolled up her pants to wade in the creek."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "paper",
+    "say": "PAY-per",
+    "emoji": "📄",
+    "forms": [
+      "papers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Thin, flat sheets for writing and drawing.",
+          "examples": [
+            "I draw pictures on paper.",
+            "Fold the paper in half.",
+            "We recycle old paper."
+          ]
+        },
+        "more": {
+          "def": "Thin, flat material made from wood or plants, used for writing, printing and wrapping.",
+          "examples": [
+            "Paper is made from wood that is crushed and pressed flat.",
+            "She folded a sheet of paper into a bird.",
+            "Put the used paper in the recycling bin."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A newspaper.",
+          "examples": [
+            "Dad reads the paper.",
+            "The paper came this morning.",
+            "The paper had a picture of our school."
+          ]
+        },
+        "more": {
+          "def": "A set of printed pages of news that comes out each day or week.",
+          "examples": [
+            "Grandpa reads the paper while he drinks his tea.",
+            "The local paper wrote about our school fair.",
+            "Our neighbor delivers the paper every morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pardon",
+    "say": "PAR-dun",
+    "forms": [
+      "pardons",
+      "pardoned",
+      "pardoning"
+    ],
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A polite word to say you are sorry.",
+          "examples": [
+            "Pardon me, I did not hear you.",
+            "Pardon? Can you say it again?",
+            "Pardon me for bumping you."
+          ]
+        },
+        "more": {
+          "def": "A polite way to say sorry, or to ask someone to say something again.",
+          "examples": [
+            "Pardon me, may I pass?",
+            "Pardon? I did not catch your name.",
+            "Pardon me for being late."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To forgive someone.",
+          "examples": [
+            "Please pardon me.",
+            "The king pardoned the boy.",
+            "Pardon my mess."
+          ]
+        },
+        "more": {
+          "def": "To forgive someone or to let them go without punishment.",
+          "examples": [
+            "The king pardoned the prisoner.",
+            "Please pardon the mess in my room.",
+            "The governor pardoned the man."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "parent",
+    "say": "PAIR-unt",
+    "forms": [
+      "parents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mother or father.",
+          "examples": [
+            "My parent drives me to school.",
+            "Both parents came to the show.",
+            "Ask your parent first."
+          ]
+        },
+        "more": {
+          "def": "A mother or father, or someone who takes care of a child as they would.",
+          "examples": [
+            "Each parent signed the permission slip.",
+            "The parent bird brought worms to its chicks.",
+            "A parent or guardian must come with young swimmers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "park",
+    "say": "park",
+    "emoji": "🏞️",
+    "forms": [
+      "parks",
+      "parked",
+      "parking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place outside with grass and trees to play.",
+          "examples": [
+            "We play at the park.",
+            "The park has swings.",
+            "Let's go to the park."
+          ]
+        },
+        "more": {
+          "def": "A public place with grass, trees and often playgrounds, where people go to play and relax.",
+          "examples": [
+            "We had a picnic in the park.",
+            "The park has a pond with ducks.",
+            "Kids play soccer at the park."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To leave a car in a place.",
+          "examples": [
+            "Dad parked the car.",
+            "We park here.",
+            "Please park by the tree."
+          ]
+        },
+        "more": {
+          "def": "To stop a vehicle and leave it in a place for a while.",
+          "examples": [
+            "Dad parked the car in front of the library.",
+            "You may not park by the fire hydrant.",
+            "We parked near the beach."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "part",
     "say": "part",
     "forms": [
@@ -28,6 +353,34 @@
     ]
   },
   {
+    "word": "partner",
+    "say": "PART-ner",
+    "forms": [
+      "partners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person you do something with.",
+          "examples": [
+            "My partner and I did the project.",
+            "Find a partner for the game.",
+            "She is my dance partner."
+          ]
+        },
+        "more": {
+          "def": "A person who does an activity or works together with you.",
+          "examples": [
+            "My science partner and I built a volcano.",
+            "Each dancer has a partner.",
+            "Choose a partner and sit together."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "party",
     "say": "PAR-tee",
     "forms": [
@@ -50,6 +403,121 @@
             "We had a birthday party with games and a big cake.",
             "The class held a party at the end of the year.",
             "My neighbors invited everyone to a block party."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pass",
+    "say": "pas",
+    "forms": [
+      "passes",
+      "passed",
+      "passing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go past something.",
+          "examples": [
+            "Cars pass our house all day.",
+            "We passed the park on the way.",
+            "A butterfly passed by my nose."
+          ]
+        },
+        "more": {
+          "def": "To go by or move past something without stopping.",
+          "examples": [
+            "The train passed through the small town without slowing down.",
+            "We passed three farms before we reached the lake.",
+            "Please let the ambulance pass."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hand something to someone.",
+          "examples": [
+            "Please pass the salt.",
+            "He passed me the ball.",
+            "Pass the book to Mia."
+          ]
+        },
+        "more": {
+          "def": "To give something to another person by hand or by throwing it.",
+          "examples": [
+            "Could you pass the bread down to the end of the table?",
+            "The player passed the ball to her teammate near the goal.",
+            "The note was passed from desk to desk."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To do well enough on a test.",
+          "examples": [
+            "I passed my spelling test.",
+            "Did you pass the quiz?",
+            "She will pass her swimming test."
+          ]
+        },
+        "more": {
+          "def": "To do well enough on a test to move on to the next step.",
+          "examples": [
+            "He studied hard so he would pass the math test.",
+            "Everyone in the class passed the reading quiz.",
+            "She passed her swimming test and earned a new badge."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "past",
+    "say": "past",
+    "forms": [
+      "pasts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Time that is over.",
+          "examples": [
+            "In the past, people rode horses.",
+            "My grandpa tells stories about the past.",
+            "We read about the past."
+          ]
+        },
+        "more": {
+          "def": "The time before now.",
+          "examples": [
+            "In the past, people wrote letters by hand.",
+            "Grandpa told us stories about the past.",
+            "Museums teach us about the past."
+          ]
+        }
+      },
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Going by something.",
+          "examples": [
+            "Walk past the school.",
+            "The car drove past our house.",
+            "Go past the park."
+          ]
+        },
+        "more": {
+          "def": "Farther than, or on the other side of something.",
+          "examples": [
+            "Go past the bakery and turn left.",
+            "The bus drove past our house without stopping.",
+            "She ran past the finish line."
           ]
         }
       }

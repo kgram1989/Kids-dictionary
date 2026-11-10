@@ -1,5 +1,82 @@
 [
   {
+    "word": "near",
+    "say": "neer",
+    "forms": [
+      "nearer",
+      "nearest"
+    ],
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Close to.",
+          "examples": [
+            "Sit near me.",
+            "The park is near the school.",
+            "Stay near your mom."
+          ]
+        },
+        "more": {
+          "def": "Not far from a person, place or thing.",
+          "examples": [
+            "Our house is near the beach.",
+            "A deer stood near the edge of the woods.",
+            "Please stay near me in the crowd."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Close.",
+          "examples": [
+            "The beach is near.",
+            "The nearest store is far.",
+            "Summer is near."
+          ]
+        },
+        "more": {
+          "def": "Not far away in space or in time.",
+          "examples": [
+            "The nearest hospital is ten miles away.",
+            "The end of the school year is near.",
+            "We will move in the near future."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "neck",
+    "say": "nek",
+    "emoji": "🦒",
+    "forms": [
+      "necks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of your body between your head and shoulders.",
+          "examples": [
+            "A giraffe has a long neck.",
+            "My neck is stiff.",
+            "He wore a scarf around his neck."
+          ]
+        },
+        "more": {
+          "def": "The part of the body that joins the head to the shoulders.",
+          "examples": [
+            "A giraffe has a very long neck.",
+            "She wore a scarf around her neck.",
+            "The cat stretched its neck to see."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "need",
     "say": "need",
     "forms": [
@@ -55,6 +132,50 @@
             "Our neighbor waters our plants when we are away.",
             "Canada is a neighbor of the United States.",
             "The girl who sits next to me in class is a good neighbor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "neither",
+    "say": "NEE-ther",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "Not one and not the other.",
+          "examples": [
+            "Neither of us was late.",
+            "I like neither.",
+            "Neither is correct."
+          ]
+        },
+        "more": {
+          "def": "Not the first one and not the second one.",
+          "examples": [
+            "Neither of my brothers likes spinach.",
+            "I have two pens, but neither works.",
+            "Neither of us knew the answer."
+          ]
+        }
+      },
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "Used with \"nor\" to say not one and not the other.",
+          "examples": [
+            "Neither Mia nor Sam was late.",
+            "It was neither hot nor cold.",
+            "He ate neither fish nor meat."
+          ]
+        },
+        "more": {
+          "def": "Used before the first of two choices to say that both are untrue.",
+          "examples": [
+            "Neither the red bike nor the blue one has a bell.",
+            "We saw neither deer nor bears on our walk.",
+            "It is neither too hot nor too cold."
           ]
         }
       }
@@ -131,6 +252,32 @@
             "The school has a new playground with a long slide.",
             "We moved to a new town last year.",
             "Scientists found a new kind of frog in the rain forest."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "news",
+    "say": "nooz",
+    "emoji": "📰",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Information about something that just happened.",
+          "examples": [
+            "I have good news!",
+            "We watched the news on TV.",
+            "The news made her smile."
+          ]
+        },
+        "more": {
+          "def": "Information about things that have just happened, in the paper, on TV or from other people.",
+          "examples": [
+            "I have good news; we are going to the beach!",
+            "Mom reads the news on her phone every morning.",
+            "The news that school was closed made everyone cheer."
           ]
         }
       }

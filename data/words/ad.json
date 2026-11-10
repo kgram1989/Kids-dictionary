@@ -1,5 +1,55 @@
 [
   {
+    "word": "address",
+    "say": "uh-DRESS",
+    "emoji": "✉️",
+    "forms": [
+      "addresses",
+      "addressed",
+      "addressing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The name of the street where you live.",
+          "examples": [
+            "What is your address?",
+            "I know my address.",
+            "Write your address on the letter."
+          ]
+        },
+        "more": {
+          "def": "The number, street and town that tell where a person lives or where a business is.",
+          "examples": [
+            "Write your address on the envelope.",
+            "Our address is 12 Oak Street.",
+            "The library's address is on the sign."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give a speech to people.",
+          "examples": [
+            "The mayor will address the crowd.",
+            "The principal addressed the school.",
+            "She addresses the class."
+          ]
+        },
+        "more": {
+          "def": "To speak formally to a group.",
+          "examples": [
+            "The principal addressed the students at assembly.",
+            "The mayor addressed the crowd in the park.",
+            "She addressed the audience from the stage."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "admire",
     "say": "ad-MYR",
     "forms": [
@@ -24,6 +74,36 @@
             "We stopped to admire the colorful sunset.",
             "The students admire their coach for never giving up.",
             "Visitors admired the tall towers of the old castle."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "admit",
+    "say": "ad-MIT",
+    "forms": [
+      "admits",
+      "admitted",
+      "admitting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say that something is true.",
+          "examples": [
+            "I admit I ate the cookie.",
+            "He admitted he was late.",
+            "She admits she is wrong."
+          ]
+        },
+        "more": {
+          "def": "To agree that something is true, especially something you did not want to say.",
+          "examples": [
+            "I admit that I ate the last cookie.",
+            "He admitted that he was scared.",
+            "She admitted she had forgotten her lunch."
           ]
         }
       }

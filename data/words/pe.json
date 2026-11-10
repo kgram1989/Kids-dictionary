@@ -1,5 +1,49 @@
 [
   {
+    "word": "peace",
+    "say": "peess",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A time without fighting.",
+          "examples": [
+            "The countries live in peace.",
+            "Peace came at last.",
+            "We wish for peace."
+          ]
+        },
+        "more": {
+          "def": "A time when there is no war or fighting.",
+          "examples": [
+            "The two countries signed a treaty of peace.",
+            "People marched for peace.",
+            "After years of war, peace came."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being calm and quiet.",
+          "examples": [
+            "I like peace and quiet.",
+            "The lake was full of peace.",
+            "Leave me in peace."
+          ]
+        },
+        "more": {
+          "def": "A calm, quiet feeling or place.",
+          "examples": [
+            "I enjoy the peace of the forest.",
+            "The baby slept in peace.",
+            "He read in peace on the porch."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "peaceful",
     "say": "PEESS-ful",
     "emoji": "🕊️",
@@ -76,6 +120,56 @@
     ]
   },
   {
+    "word": "perfect",
+    "say": "PER-fekt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having nothing wrong.",
+          "examples": [
+            "The weather is perfect.",
+            "Her drawing is perfect.",
+            "It was a perfect day."
+          ]
+        },
+        "more": {
+          "def": "As good as it can be, with no mistakes or problems.",
+          "examples": [
+            "The weather was perfect for a picnic.",
+            "She got a perfect score on the spelling test.",
+            "This hat is a perfect fit."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "perhaps",
+    "say": "per-HAPS",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Maybe.",
+          "examples": [
+            "Perhaps it will rain.",
+            "Perhaps we can go later.",
+            "Perhaps she forgot."
+          ]
+        },
+        "more": {
+          "def": "Possibly; it may be so.",
+          "examples": [
+            "Perhaps we could take a walk after dinner.",
+            "The package is late, perhaps because of the snow.",
+            "Perhaps the birds left because it got too cold."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "permission",
     "say": "per-MISH-un",
     "senses": [
@@ -123,6 +217,31 @@
             "Each person in the class made a card.",
             "He is a kind person who always shares.",
             "The elevator holds up to ten people, but only one person got in."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "personal",
+    "say": "PER-suh-nul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Belonging to just one person.",
+          "examples": [
+            "This is my personal diary.",
+            "Do not read my personal note.",
+            "She keeps her personal things in a box."
+          ]
+        },
+        "more": {
+          "def": "Belonging to or about one particular person, and not shared with others.",
+          "examples": [
+            "My diary is personal, so please do not read it.",
+            "He asked a very personal question.",
+            "Each camper has a personal locker."
           ]
         }
       }

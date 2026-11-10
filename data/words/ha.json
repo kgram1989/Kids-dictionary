@@ -29,6 +29,110 @@
     ]
   },
   {
+    "word": "hair",
+    "say": "hair",
+    "emoji": "💇",
+    "forms": [
+      "hairs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The soft threads that grow on your head.",
+          "examples": [
+            "She has long hair.",
+            "Brush your hair.",
+            "My dog's hair is soft."
+          ]
+        },
+        "more": {
+          "def": "The thin threads that grow on the head and body of a person or animal.",
+          "examples": [
+            "She tied her long hair back with a ribbon.",
+            "A hair from the cat's tail was stuck to my sweater.",
+            "Most mammals have hair or fur on their bodies."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "half",
+    "say": "haf",
+    "forms": [
+      "halves"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One of two equal parts.",
+          "examples": [
+            "I ate half of the apple.",
+            "Half of the class is here.",
+            "Cut the pizza in half."
+          ]
+        },
+        "more": {
+          "def": "One of two equal parts that together make a whole.",
+          "examples": [
+            "Pour half of the milk into the bowl and save the rest.",
+            "Half of the students walk to school, and the others ride the bus.",
+            "Fifty cents is half of a dollar."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hall",
+    "say": "hawl",
+    "forms": [
+      "halls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long space inside a building.",
+          "examples": [
+            "Walk down the hall.",
+            "The hall is long.",
+            "We lined up in the hall."
+          ]
+        },
+        "more": {
+          "def": "A long passage inside a building with rooms on each side.",
+          "examples": [
+            "Please walk in the hall and do not run.",
+            "The classrooms are down the hall.",
+            "Coats hang in the hall."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big room for events.",
+          "examples": [
+            "We ate lunch in the hall.",
+            "The concert is in the hall.",
+            "The hall was full."
+          ]
+        },
+        "more": {
+          "def": "A large room used for meetings, shows or events.",
+          "examples": [
+            "The school held its concert in the hall.",
+            "A town meeting was held in the hall.",
+            "The great hall was full of guests."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hand",
     "say": "hand",
     "forms": [
@@ -70,6 +174,74 @@
             "Please hand the scissors to your sister.",
             "The teacher handed out a worksheet to each student.",
             "He handed her the umbrella as she left."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "handle",
+    "say": "HAN-dul",
+    "forms": [
+      "handles",
+      "handled",
+      "handling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part you hold.",
+          "examples": [
+            "The cup has a handle.",
+            "Pull the door handle.",
+            "The pan has a long handle."
+          ]
+        },
+        "more": {
+          "def": "The part of an object that you hold or turn to use it.",
+          "examples": [
+            "He grabbed the handle of the suitcase and pulled.",
+            "The knife's wooden handle is smooth.",
+            "Turn the handle to open the window."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hold or touch something with your hands.",
+          "examples": [
+            "Handle the egg with care.",
+            "Please handle the book gently.",
+            "She handled the kitten softly."
+          ]
+        },
+        "more": {
+          "def": "To hold, move or touch something with your hands.",
+          "examples": [
+            "Handle the glass bowls gently so they do not break.",
+            "Wear gloves when you handle the hot dish.",
+            "Please handle the old photographs with clean hands."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take care of something.",
+          "examples": [
+            "Can you handle the dishes?",
+            "She can handle a big dog.",
+            "Dad handled the cooking."
+          ]
+        },
+        "more": {
+          "def": "To deal with a task or problem and take care of it.",
+          "examples": [
+            "The teacher handled the argument calmly.",
+            "Can you handle all those bags by yourself?",
+            "She handles the photos for the school newspaper."
           ]
         }
       }
@@ -261,6 +433,35 @@
             "Farmers harvest apples in the fall.",
             "We harvested tomatoes from our garden all summer.",
             "Workers harvest the grapes by hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hat",
+    "say": "hat",
+    "emoji": "🎩",
+    "forms": [
+      "hats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you wear on your head.",
+          "examples": [
+            "Wear a hat.",
+            "His hat is red.",
+            "The sun hat is big."
+          ]
+        },
+        "more": {
+          "def": "A covering that you wear on your head.",
+          "examples": [
+            "She wore a straw hat to keep off the sun.",
+            "He pulled his wool hat over his ears.",
+            "A tall hat sat on the clown's head."
           ]
         }
       }

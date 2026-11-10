@@ -1,5 +1,35 @@
 [
   {
+    "word": "accept",
+    "say": "ik-SEPT",
+    "forms": [
+      "accepts",
+      "accepted",
+      "accepting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take something that is given to you.",
+          "examples": [
+            "I accept the gift.",
+            "She accepted the prize.",
+            "He accepts the cookie."
+          ]
+        },
+        "more": {
+          "def": "To take something that is offered to you.",
+          "examples": [
+            "She accepted the prize with a smile.",
+            "Will you accept my invitation to the party?",
+            "The cashier accepts coins and bills."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "accident",
     "say": "AK-sih-dunt",
     "forms": [
@@ -22,6 +52,53 @@
             "He broke the vase by accident when he bumped the table.",
             "We met by accident at the grocery store.",
             "Wearing a helmet can protect you in a bike accident."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "account",
+    "say": "uh-KOWNT",
+    "forms": [
+      "accounts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A story that tells what happened.",
+          "examples": [
+            "She gave an account of the trip.",
+            "The account was short.",
+            "He wrote an account of the storm."
+          ]
+        },
+        "more": {
+          "def": "A report or story that tells what happened.",
+          "examples": [
+            "She gave an account of the trip to her class.",
+            "He wrote an account of the storm for the newspaper.",
+            "The explorer's account was published."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money kept in a bank.",
+          "examples": [
+            "I have an account at the bank.",
+            "Mom put money in my account.",
+            "The account has ten dollars."
+          ]
+        },
+        "more": {
+          "def": "An arrangement with a bank where your money is kept safe.",
+          "examples": [
+            "She opened a savings account with her birthday money.",
+            "Dad checks his account online.",
+            "I put five dollars in my account."
           ]
         }
       }
@@ -53,6 +130,147 @@
             "She achieved her dream of swimming across the lake.",
             "The class achieved its goal of reading one hundred books.",
             "You can achieve a lot when you practice every day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "across",
+    "say": "uh-KROSS",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "From one side to the other.",
+          "examples": [
+            "Walk across the street.",
+            "A bridge goes across the river.",
+            "We swam across the lake."
+          ]
+        },
+        "more": {
+          "def": "From one side of something to the other.",
+          "examples": [
+            "A bridge stretches across the river.",
+            "She ran across the field.",
+            "He drew a line across the page."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "From one side to the other.",
+          "examples": [
+            "The lake is a mile across.",
+            "The kids ran across and waved.",
+            "We got across by boat."
+          ]
+        },
+        "more": {
+          "def": "To or on the other side.",
+          "examples": [
+            "The lake is a mile across at its widest point.",
+            "The kids ran across and waved from the far side.",
+            "The river is wide, but we can get across by boat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "act",
+    "say": "akt",
+    "emoji": "🎭",
+    "forms": [
+      "acts",
+      "acted",
+      "acting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To play a part in a play.",
+          "examples": [
+            "I act in the school play.",
+            "She acted like a dragon.",
+            "We act out the story."
+          ]
+        },
+        "more": {
+          "def": "To play a character in a play, movie or show.",
+          "examples": [
+            "She will act the part of a queen in the school play.",
+            "Many actors begin to act when they are very young.",
+            "The twins acted out a funny scene for the class."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To behave in a certain way.",
+          "examples": [
+            "My baby brother acts shy.",
+            "The dog acts scared in a storm.",
+            "Try to act calm."
+          ]
+        },
+        "more": {
+          "def": "To behave in a particular way.",
+          "examples": [
+            "My little brother acts shy around strangers.",
+            "The puppy acted scared when it heard the thunder.",
+            "Try to act calmly if a bee flies near you."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that someone does.",
+          "examples": [
+            "Sharing your snack is a kind act.",
+            "Saving the cat was a brave act.",
+            "Cleaning the park was a good act."
+          ]
+        },
+        "more": {
+          "def": "A single thing that a person does.",
+          "examples": [
+            "Picking up litter at the beach was a simple act that helped the birds.",
+            "The firefighter's brave act saved the little dog.",
+            "An act of kindness can make someone's whole day better."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "action",
+    "say": "AK-shun",
+    "forms": [
+      "actions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you do.",
+          "examples": [
+            "Cleaning up was a kind action.",
+            "His quick action helped.",
+            "She took action and called for help."
+          ]
+        },
+        "more": {
+          "def": "Something that you do.",
+          "examples": [
+            "Her kind action made me smile.",
+            "A quick action saved the toy from falling.",
+            "He took action and called for help."
           ]
         }
       }

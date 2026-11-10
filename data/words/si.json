@@ -1,5 +1,35 @@
 [
   {
+    "word": "sick",
+    "say": "sik",
+    "emoji": "🤒",
+    "forms": [
+      "sicker",
+      "sickest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not well; feeling bad in your body.",
+          "examples": [
+            "My dog is sick.",
+            "She felt sick.",
+            "He stayed home because he was sick."
+          ]
+        },
+        "more": {
+          "def": "Having an illness, or not feeling well in your body.",
+          "examples": [
+            "I stayed home from school because I was sick with a cold.",
+            "The vet gave medicine to the sick puppy.",
+            "A sick bird rested quietly in the box until it felt better."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "side",
     "say": "syd",
     "forms": [
@@ -47,6 +77,75 @@
     ]
   },
   {
+    "word": "sign",
+    "say": "syn",
+    "emoji": "🪧",
+    "forms": [
+      "signs",
+      "signed",
+      "signing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A board with words or a picture on it.",
+          "examples": [
+            "The sign says STOP.",
+            "I read the sign on the door.",
+            "A sign showed where the zoo was."
+          ]
+        },
+        "more": {
+          "def": "A board or shape that gives information, directions or a warning.",
+          "examples": [
+            "A sign on the trail warned hikers about falling rocks.",
+            "The road sign showed that a school was ahead.",
+            "Each shop on the street has a sign above its door."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that shows what is true or what will happen.",
+          "examples": [
+            "Dark clouds are a sign of rain.",
+            "A yawn is a sign you are tired.",
+            "Buds are a sign of spring."
+          ]
+        },
+        "more": {
+          "def": "Something that shows that a thing exists or is going to happen.",
+          "examples": [
+            "Paw prints in the snow were a sign that a fox had passed by.",
+            "Green buds on the trees are a sign that spring is near.",
+            "Smoke is often the first sign of a fire."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To write your name on something.",
+          "examples": [
+            "Sign your name at the bottom.",
+            "She signed the card.",
+            "Dad signed my paper."
+          ]
+        },
+        "more": {
+          "def": "To write your name on something to show it is yours or that you agree.",
+          "examples": [
+            "Please sign the permission slip and bring it back to school.",
+            "The author signed copies of her book for the fans.",
+            "Both countries signed the agreement to protect the ocean."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "silent",
     "say": "SY-lunt",
     "emoji": "🤫",
@@ -67,6 +166,35 @@
             "The forest was silent after the snowfall.",
             "The crowd fell silent when the music began.",
             "She stayed silent because she did not know the answer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "silly",
+    "say": "SIL-ee",
+    "forms": [
+      "sillier",
+      "silliest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not serious; funny.",
+          "examples": [
+            "He wore a silly hat.",
+            "We made silly faces.",
+            "The clown is silly."
+          ]
+        },
+        "more": {
+          "def": "Funny in a playful or foolish way.",
+          "examples": [
+            "The clown wore a silly hat and big shoes.",
+            "We made silly faces in the mirror.",
+            "It was a silly joke, but it made us laugh."
           ]
         }
       }
@@ -171,6 +299,101 @@
     ]
   },
   {
+    "word": "sing",
+    "say": "sing",
+    "emoji": "🎤",
+    "forms": [
+      "sings",
+      "sang",
+      "sung",
+      "singing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make music with your voice.",
+          "examples": [
+            "Birds sing in the morning.",
+            "We sing songs at school.",
+            "She sang to the baby."
+          ]
+        },
+        "more": {
+          "def": "To make music with your voice, using words or sounds.",
+          "examples": [
+            "The choir will sing three songs at the winter concert.",
+            "Whales sing songs that travel far through the ocean.",
+            "He sang quietly while he washed the dishes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "single",
+    "say": "SING-gul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Only one.",
+          "examples": [
+            "A single flower grew there.",
+            "She ate a single cookie.",
+            "There is not a single cloud."
+          ]
+        },
+        "more": {
+          "def": "Only one; not more than one.",
+          "examples": [
+            "A single red flower grew in the field.",
+            "He did not eat a single bite of dinner.",
+            "Not a single cloud was in the sky."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not married.",
+          "examples": [
+            "My uncle is single.",
+            "She is single.",
+            "Many people in the city are single."
+          ]
+        },
+        "more": {
+          "def": "Not married or not in a close relationship.",
+          "examples": [
+            "My uncle is single and lives alone.",
+            "She is single and travels a lot.",
+            "Many single people live in the city."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "For one person.",
+          "examples": [
+            "I sleep in a single bed.",
+            "He asked for a single room.",
+            "I need a single ticket."
+          ]
+        },
+        "more": {
+          "def": "Meant for one person.",
+          "examples": [
+            "The hotel has one single room left.",
+            "She bought a single ticket to the show.",
+            "A single bed fits one person."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sir",
     "say": "ser",
     "senses": [
@@ -248,6 +471,60 @@
             "Please sit quietly on the rug while I read.",
             "The birds sat on the wire, side by side.",
             "We sat around the campfire and sang songs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "situation",
+    "say": "sich-oo-AY-shun",
+    "forms": [
+      "situations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way things are at a certain time.",
+          "examples": [
+            "We are in a tricky situation.",
+            "The situation is better now.",
+            "What a funny situation!"
+          ]
+        },
+        "more": {
+          "def": "The set of things that are happening around you at a certain time.",
+          "examples": [
+            "We were in a difficult situation when the bus broke down.",
+            "The teacher explained the situation to the class.",
+            "Staying calm helps in any situation."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "six",
+    "say": "siks",
+    "emoji": "6️⃣",
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "The number after five.",
+          "examples": [
+            "I have six crayons.",
+            "An insect has six legs.",
+            "We eat dinner at six."
+          ]
+        },
+        "more": {
+          "def": "The number 6, which comes after five and before seven.",
+          "examples": [
+            "A cube has six faces, one on each side.",
+            "The bus leaves at six o'clock every morning.",
+            "She scored six points in the basketball game."
           ]
         }
       }

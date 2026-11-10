@@ -1,5 +1,33 @@
 [
   {
+    "word": "ticket",
+    "say": "TIK-it",
+    "forms": [
+      "tickets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A paper that lets you go in or ride.",
+          "examples": [
+            "I bought a movie ticket.",
+            "Show your ticket.",
+            "The train ticket was cheap."
+          ]
+        },
+        "more": {
+          "def": "A piece of paper or card that shows you have paid to enter or travel.",
+          "examples": [
+            "We bought tickets to the circus.",
+            "She showed her ticket to the bus driver.",
+            "The movie ticket cost eight dollars."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tidy",
     "say": "TY-dee",
     "emoji": "🧹",
@@ -24,6 +52,166 @@
             "He keeps his desk tidy so he can find things easily.",
             "The garden had tidy rows of beans.",
             "His handwriting is small and tidy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tie",
+    "say": "ty",
+    "forms": [
+      "ties",
+      "tied",
+      "tying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To fasten with a knot.",
+          "examples": [
+            "Tie your shoes.",
+            "She tied a bow.",
+            "Dad tied the rope."
+          ]
+        },
+        "more": {
+          "def": "To fasten something by making a knot in string, rope or cloth.",
+          "examples": [
+            "Tie a ribbon around the gift.",
+            "He tied the boat to the dock.",
+            "She tied her shoes before running."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strip of cloth worn around the neck.",
+          "examples": [
+            "Dad wears a tie.",
+            "His tie is blue.",
+            "The tie has stripes."
+          ]
+        },
+        "more": {
+          "def": "A long strip of cloth worn around the neck under a shirt collar.",
+          "examples": [
+            "He wore a striped tie to picture day.",
+            "Dad knotted his tie before work.",
+            "The waiter wore a black tie."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A game that ends with the same score on both sides.",
+          "examples": [
+            "The game ended in a tie.",
+            "It was a tie.",
+            "The score is a tie."
+          ]
+        },
+        "more": {
+          "def": "A result in a game or contest where both sides have the same score.",
+          "examples": [
+            "The soccer game ended in a tie, two to two.",
+            "The race ended in a tie.",
+            "There was a tie for first place."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tight",
+    "say": "tyt",
+    "forms": [
+      "tighter",
+      "tightest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Fitting very close.",
+          "examples": [
+            "These shoes are tight.",
+            "She gave me a tight hug.",
+            "The lid is tight."
+          ]
+        },
+        "more": {
+          "def": "Fitting closely, with no extra room or looseness.",
+          "examples": [
+            "These shoes are too tight for my feet.",
+            "She gave her grandma a tight hug.",
+            "The lid on the jar was tight."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a firm way.",
+          "examples": [
+            "Hold on tight!",
+            "She held the rope tight.",
+            "Close the lid tight."
+          ]
+        },
+        "more": {
+          "def": "Firmly or closely.",
+          "examples": [
+            "Hold on tight to the railing.",
+            "The box was tied tight.",
+            "She shut her eyes tight."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "till",
+    "say": "til",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Up to a time.",
+          "examples": [
+            "Wait till noon.",
+            "I played till dinner.",
+            "School is open till three."
+          ]
+        },
+        "more": {
+          "def": "Up to a certain time; until.",
+          "examples": [
+            "The store is open till nine at night.",
+            "We stayed up till midnight on New Year's Eve.",
+            "The pool is open from morning till sunset."
+          ]
+        }
+      },
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "Up to the time when.",
+          "examples": [
+            "Stay here till Mom comes.",
+            "Keep stirring till it is smooth.",
+            "I will wait till you finish."
+          ]
+        },
+        "more": {
+          "def": "Up to the time when something happens.",
+          "examples": [
+            "Stir the batter till it is smooth.",
+            "We kept playing till it got dark.",
+            "Please wait till the light turns green."
           ]
         }
       }
@@ -101,6 +289,51 @@
             "A tiny seed can grow into a giant tree.",
             "There was a tiny crack in the glass.",
             "The kitten was so tiny that it fit in my hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tired",
+    "say": "tyrd",
+    "emoji": "😴",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Needing rest or sleep.",
+          "examples": [
+            "I am tired after the race.",
+            "The baby is tired.",
+            "She felt tired at bedtime."
+          ]
+        },
+        "more": {
+          "def": "Feeling that you need to rest or sleep.",
+          "examples": [
+            "He was tired after climbing the steep hill.",
+            "The tired puppy fell asleep on the rug.",
+            "I felt tired after staying up late."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Bored with something.",
+          "examples": [
+            "I am tired of rain.",
+            "She is tired of waiting.",
+            "He got tired of the game."
+          ]
+        },
+        "more": {
+          "def": "Having had enough of something because it has gone on too long.",
+          "examples": [
+            "I am tired of eating the same lunch every day.",
+            "They got tired of waiting in the long line.",
+            "She grew tired of the noisy game."
           ]
         }
       }

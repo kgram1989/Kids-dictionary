@@ -1,5 +1,52 @@
 [
   {
+    "word": "table",
+    "say": "TAY-bul",
+    "forms": [
+      "tables"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece of furniture with a flat top and legs.",
+          "examples": [
+            "We eat at the table.",
+            "The book is on the table.",
+            "Set the table."
+          ]
+        },
+        "more": {
+          "def": "A piece of furniture with a flat top held up by legs.",
+          "examples": [
+            "We sat around the table for dinner.",
+            "The cat jumped onto the table.",
+            "She set the table with plates and forks."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Facts in neat rows.",
+          "examples": [
+            "The table shows the scores.",
+            "Look at the table.",
+            "Fill in the table."
+          ]
+        },
+        "more": {
+          "def": "Information arranged in rows and columns so it is easy to read.",
+          "examples": [
+            "The table shows how many books each class read.",
+            "I made a table of the daily temperatures.",
+            "Use the table to find the answer."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "take",
     "say": "tayk",
     "forms": [
@@ -84,6 +131,104 @@
             "The two neighbors talked over the fence about the garden.",
             "Please do not talk while the teacher is reading.",
             "He talked to the class about his trip to Mexico."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tape",
+    "say": "tayp",
+    "forms": [
+      "tapes",
+      "taped",
+      "taping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sticky strip to hold things.",
+          "examples": [
+            "Use tape to fix the paper.",
+            "The tape is sticky.",
+            "I need tape."
+          ]
+        },
+        "more": {
+          "def": "A thin, sticky strip used to stick things together.",
+          "examples": [
+            "She used tape to hang the poster.",
+            "Dad wrapped tape around the box.",
+            "The tape ran out before I finished."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stick something with a sticky strip.",
+          "examples": [
+            "Tape the picture to the wall.",
+            "She taped the box.",
+            "He taped the paper."
+          ]
+        },
+        "more": {
+          "def": "To fasten something using a sticky strip.",
+          "examples": [
+            "Tape the poster to the wall.",
+            "She taped the box shut.",
+            "He taped the map to the window."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "taste",
+    "say": "tayst",
+    "forms": [
+      "tastes",
+      "tasted",
+      "tasting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way food feels on your tongue.",
+          "examples": [
+            "I like the taste of honey.",
+            "The taste is sweet.",
+            "What a sour taste!"
+          ]
+        },
+        "more": {
+          "def": "The flavor that something has when you put it in your mouth.",
+          "examples": [
+            "I love the sweet taste of ripe peaches.",
+            "Lemons have a sour taste.",
+            "The soup had a salty taste."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To know the flavor of food.",
+          "examples": [
+            "I taste the soup.",
+            "Taste the cake.",
+            "The soup tastes good."
+          ]
+        },
+        "more": {
+          "def": "To notice the flavor of something in your mouth.",
+          "examples": [
+            "Taste the soup and tell me if it needs salt.",
+            "The bread tastes like honey.",
+            "I can taste lemon in the tea."
           ]
         }
       }

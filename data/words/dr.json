@@ -1,5 +1,55 @@
 [
   {
+    "word": "draw",
+    "say": "draw",
+    "forms": [
+      "draws",
+      "drew",
+      "drawn",
+      "drawing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a picture with a pencil or crayon.",
+          "examples": [
+            "I draw a cat.",
+            "She drew a house.",
+            "He draws with chalk."
+          ]
+        },
+        "more": {
+          "def": "To make a picture or design with a pencil, pen or crayon.",
+          "examples": [
+            "She drew a map of the island.",
+            "He likes to draw cartoons.",
+            "We drew pictures of our pets."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pull something toward you.",
+          "examples": [
+            "Draw the rope toward you.",
+            "The magnet draws the nails.",
+            "He drew the bow."
+          ]
+        },
+        "more": {
+          "def": "To pull something toward you or along.",
+          "examples": [
+            "Horses drew the wagon down the road.",
+            "Draw the curtains at night.",
+            "A magnet draws small nails to it."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dream",
     "say": "dreem",
     "forms": [
@@ -63,6 +113,56 @@
             "The puppy twitched its paws as if it were dreaming of a run.",
             "I dreamed that I was swimming with dolphins.",
             "She dreams of being a famous singer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dress",
+    "say": "dres",
+    "emoji": "👗",
+    "forms": [
+      "dresses",
+      "dressed",
+      "dressing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece of clothing with a top and skirt joined together.",
+          "examples": [
+            "She wore a yellow dress.",
+            "My dress has pockets.",
+            "I put on a dress for the party."
+          ]
+        },
+        "more": {
+          "def": "A piece of clothing that covers the top of the body and hangs down over the legs.",
+          "examples": [
+            "She twirled in her new red dress.",
+            "The dress had flowers stitched along the bottom.",
+            "Grandma wore a blue dress to the concert."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put clothes on.",
+          "examples": [
+            "I dress myself.",
+            "Mom dressed the baby.",
+            "Dress warmly today."
+          ]
+        },
+        "more": {
+          "def": "To put clothes on yourself or someone else.",
+          "examples": [
+            "Dress warmly because it is snowing outside.",
+            "The twins dressed as pirates for the school party.",
+            "It takes the toddler a long time to dress."
           ]
         }
       }
@@ -240,6 +340,35 @@
             "During the drought, the farmers' fields turned brown.",
             "After the long drought, the river was only a trickle.",
             "The town asked people to save water during the drought."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drug",
+    "say": "drug",
+    "emoji": "💊",
+    "forms": [
+      "drugs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Medicine that helps you get well.",
+          "examples": [
+            "The doctor gave me a drug for my cough.",
+            "This drug helps with pain.",
+            "A grown-up must give you a drug."
+          ]
+        },
+        "more": {
+          "def": "A medicine used to treat an illness or pain.",
+          "examples": [
+            "The doctor prescribed a drug to fight the infection.",
+            "Scientists are testing a new drug for allergies.",
+            "Some drugs come as pills and others as liquids."
           ]
         }
       }

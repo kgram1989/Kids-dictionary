@@ -80,6 +80,34 @@
     ]
   },
   {
+    "word": "lieutenant",
+    "say": "loo-TEN-unt",
+    "forms": [
+      "lieutenants"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A leader of a small group of soldiers.",
+          "examples": [
+            "The lieutenant led the group.",
+            "A lieutenant gave orders.",
+            "The lieutenant saluted."
+          ]
+        },
+        "more": {
+          "def": "A military officer of middle rank, below a captain.",
+          "examples": [
+            "The lieutenant led her team across the field.",
+            "A lieutenant gave orders to the soldiers.",
+            "The lieutenant is one rank below captain."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "life",
     "say": "lyf",
     "forms": [
@@ -300,6 +328,55 @@
             "When ice melts, it changes from a solid into a liquid.",
             "Honey is a thick liquid that pours slowly.",
             "The nurse measured the liquid medicine in a spoon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "list",
+    "say": "list",
+    "forms": [
+      "lists",
+      "listed",
+      "listing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words or things in a row, one after another.",
+          "examples": [
+            "Make a list.",
+            "My shopping list is long.",
+            "There is a list of names."
+          ]
+        },
+        "more": {
+          "def": "A series of names, items or numbers written one after another.",
+          "examples": [
+            "I made a list of things to pack for camp.",
+            "Her name is first on the list.",
+            "Mom wrote a long grocery list."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To write things in order.",
+          "examples": [
+            "List your favorite foods.",
+            "She listed the planets.",
+            "He listed three reasons."
+          ]
+        },
+        "more": {
+          "def": "To write or say things one after another.",
+          "examples": [
+            "Please list five animals that live in the sea.",
+            "She listed the planets in order from the sun.",
+            "He listed his favorite foods."
           ]
         }
       }

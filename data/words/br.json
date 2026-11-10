@@ -1,5 +1,34 @@
 [
   {
+    "word": "brain",
+    "say": "brayn",
+    "emoji": "🧠",
+    "forms": [
+      "brains"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of your head that thinks.",
+          "examples": [
+            "Your brain helps you learn.",
+            "The brain tells your body what to do.",
+            "A brain is in your head."
+          ]
+        },
+        "more": {
+          "def": "The organ inside your head that controls your body and lets you think, feel and remember.",
+          "examples": [
+            "Your brain sends messages to every part of your body.",
+            "Reading exercises your brain.",
+            "Humans have large brains compared to their size."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "brave",
     "say": "brayv",
     "emoji": "🦁",
@@ -74,6 +103,35 @@
             "The class took a break to stretch and drink water.",
             "We stopped for a break halfway up the mountain.",
             "There is no school during the winter break."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "breakfast",
+    "say": "BREK-fust",
+    "emoji": "🥞",
+    "forms": [
+      "breakfasts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The first meal of the day.",
+          "examples": [
+            "I eat breakfast at seven.",
+            "We have eggs for breakfast.",
+            "Breakfast is ready."
+          ]
+        },
+        "more": {
+          "def": "The meal that you eat in the morning.",
+          "examples": [
+            "We had pancakes for breakfast.",
+            "She skipped breakfast and ran for the bus.",
+            "Breakfast is the first meal of the day."
           ]
         }
       }
@@ -191,6 +249,55 @@
             "My older brother taught me how to throw a ball.",
             "She has two brothers, and they love to build forts.",
             "His little brother follows him everywhere."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "brown",
+    "say": "brown",
+    "emoji": "🟤",
+    "forms": [
+      "browner",
+      "brownest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having the color of chocolate or dirt.",
+          "examples": [
+            "My dog is brown.",
+            "Bears have brown fur.",
+            "The tree trunk is brown."
+          ]
+        },
+        "more": {
+          "def": "Having the color of soil, wood or chocolate.",
+          "examples": [
+            "The brown leaves crunched under our feet.",
+            "She packed her lunch in a brown paper bag.",
+            "A brown owl sat quietly in the tree."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The color of chocolate or dirt.",
+          "examples": [
+            "Brown is my favorite color.",
+            "Mix red and green to make brown.",
+            "The cat is mostly brown."
+          ]
+        },
+        "more": {
+          "def": "The color of soil, wood or chocolate.",
+          "examples": [
+            "The room was painted in shades of brown.",
+            "Autumn fills the woods with orange, red and brown.",
+            "Her eyes are a warm brown."
           ]
         }
       }

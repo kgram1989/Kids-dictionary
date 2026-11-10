@@ -1,5 +1,108 @@
 [
   {
+    "word": "sad",
+    "say": "sad",
+    "forms": [
+      "sadder",
+      "saddest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not happy.",
+          "examples": [
+            "I feel sad.",
+            "It was a sad story.",
+            "She is sad."
+          ]
+        },
+        "more": {
+          "def": "Feeling unhappy or causing unhappy feelings.",
+          "examples": [
+            "He felt sad when his friend moved away.",
+            "It was a sad movie about a lost puppy.",
+            "She was sad because the party was over."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "safe",
+    "say": "sayf",
+    "emoji": "🛡️",
+    "forms": [
+      "safer",
+      "safest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not in danger.",
+          "examples": [
+            "The kitten is safe in the box.",
+            "Wear a helmet to stay safe.",
+            "It is safe to cross now."
+          ]
+        },
+        "more": {
+          "def": "Free from danger or harm, or not likely to cause harm.",
+          "examples": [
+            "A helmet keeps your head safe when you ride a bike.",
+            "It is safe to swim here because the water is calm.",
+            "The lost hikers were safe once the rescuers found them."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong box with a lock.",
+          "examples": [
+            "The jewels were locked in a safe.",
+            "Dad keeps papers in a safe.",
+            "The safe has a secret number."
+          ]
+        },
+        "more": {
+          "def": "A strong metal box with a lock, used to keep valuable things.",
+          "examples": [
+            "The bank keeps gold coins in a big metal safe.",
+            "Only my grandmother knows the code that opens the safe.",
+            "The treasure was locked in an old safe in the attic."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sake",
+    "say": "sayk",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A reason for doing something.",
+          "examples": [
+            "We hurried for the sake of the baby.",
+            "Be careful for your own sake.",
+            "He stayed for his friend's sake."
+          ]
+        },
+        "more": {
+          "def": "The good or benefit of someone or something.",
+          "examples": [
+            "For the sake of the sleeping baby, we whispered.",
+            "She walked slowly for her grandmother's sake.",
+            "Do it for your own sake."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "same",
     "say": "saym",
     "senses": [

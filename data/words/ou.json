@@ -1,5 +1,30 @@
 [
   {
+    "word": "ought",
+    "say": "awt",
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "Used to say what is the right thing to do.",
+          "examples": [
+            "You ought to wear a helmet.",
+            "We ought to say thank you.",
+            "You ought to rest."
+          ]
+        },
+        "more": {
+          "def": "Used to say that something is right, wise or likely.",
+          "examples": [
+            "You ought to wear a coat in this weather.",
+            "We ought to arrive before dark.",
+            "She ought to be home by now."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "our",
     "say": "owr",
     "forms": [
@@ -73,6 +98,69 @@
             "On sunny days, our class eats lunch outdoors.",
             "The concert was held outdoors in the park.",
             "He loves working outdoors on the farm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "outside",
+    "say": "out-SYD",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Not in a house or building.",
+          "examples": [
+            "Let's play outside.",
+            "The dog is outside.",
+            "It is cold outside."
+          ]
+        },
+        "more": {
+          "def": "In the open air, not in a building.",
+          "examples": [
+            "We eat lunch outside when it is sunny.",
+            "The children ran outside as soon as the rain stopped.",
+            "It was warm outside, so we left the windows open."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The outer part of something.",
+          "examples": [
+            "The outside of the box is red.",
+            "I painted the outside of the house.",
+            "The outside of the nut is hard."
+          ]
+        },
+        "more": {
+          "def": "The outer surface or part of something.",
+          "examples": [
+            "The outside of the cake was covered with frosting.",
+            "Wipe the outside of the cup with a towel.",
+            "The outside of the castle was made of gray stone."
+          ]
+        }
+      },
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "Not inside.",
+          "examples": [
+            "Wait outside the door.",
+            "The dog sat outside the shop.",
+            "We played outside the school."
+          ]
+        },
+        "more": {
+          "def": "On the other side of the walls or door of a place.",
+          "examples": [
+            "A crowd stood outside the museum waiting for it to open.",
+            "She left her muddy boots outside the front door.",
+            "The picnic tables are just outside the cafe."
           ]
         }
       }

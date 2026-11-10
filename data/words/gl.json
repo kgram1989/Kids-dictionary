@@ -1,5 +1,35 @@
 [
   {
+    "word": "glad",
+    "say": "glad",
+    "emoji": "😊",
+    "forms": [
+      "gladder",
+      "gladdest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happy about something.",
+          "examples": [
+            "I am glad you came.",
+            "She was glad it stopped raining.",
+            "We are glad to see you."
+          ]
+        },
+        "more": {
+          "def": "Happy and pleased about something.",
+          "examples": [
+            "I'm glad that we finished before the storm started.",
+            "She was glad to find her lost mitten.",
+            "The family was glad to be home after the long trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "glance",
     "say": "glanss",
     "forms": [
@@ -24,6 +54,72 @@
             "She glanced at her watch to check the time.",
             "The driver glanced in the mirror before changing lanes.",
             "He glanced over the menu and ordered quickly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "glass",
+    "say": "glas",
+    "forms": [
+      "glasses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hard material you can see through.",
+          "examples": [
+            "The window is glass.",
+            "The jar is glass.",
+            "Glass can break."
+          ]
+        },
+        "more": {
+          "def": "A hard, clear material that breaks easily, used for windows and cups.",
+          "examples": [
+            "The windows are made of glass.",
+            "Be careful of broken glass.",
+            "A glass bottle sat on the shelf."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cup for drinking that you can see through.",
+          "examples": [
+            "A glass of milk.",
+            "Fill the glass.",
+            "I broke a glass."
+          ]
+        },
+        "more": {
+          "def": "A clear cup for drinking, often without a handle.",
+          "examples": [
+            "She poured a glass of juice.",
+            "He drank a tall glass of water.",
+            "A glass sat on the table."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things you wear on your face to see better.",
+          "examples": [
+            "Dad wears glasses.",
+            "I lost my glasses.",
+            "Her glasses are blue."
+          ]
+        },
+        "more": {
+          "def": "Two clear lenses in a frame that people wear to see better.",
+          "examples": [
+            "She put on her glasses to read the menu.",
+            "He wears glasses when he reads.",
+            "The teacher cleaned her glasses."
           ]
         }
       }

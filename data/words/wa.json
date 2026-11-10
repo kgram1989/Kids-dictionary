@@ -30,6 +30,38 @@
     ]
   },
   {
+    "word": "wake",
+    "say": "wayk",
+    "emoji": "⏰",
+    "forms": [
+      "wakes",
+      "woke",
+      "woken",
+      "waking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop sleeping.",
+          "examples": [
+            "I wake up at seven.",
+            "The baby woke early.",
+            "Dad wakes us with a song."
+          ]
+        },
+        "more": {
+          "def": "To stop sleeping, or to make someone stop sleeping.",
+          "examples": [
+            "The sound of the rooster woke us at dawn.",
+            "I set an alarm to wake me up before school.",
+            "Please do not wake the baby."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "walk",
     "say": "wawk",
     "forms": [
@@ -73,6 +105,53 @@
             "After dinner, we went for a walk along the river.",
             "It is a short walk from our house to the school.",
             "The nature walk was full of bird songs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wall",
+    "say": "wawl",
+    "forms": [
+      "walls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A side of a room or building.",
+          "examples": [
+            "The picture is on the wall.",
+            "Paint the wall.",
+            "She leaned against the wall."
+          ]
+        },
+        "more": {
+          "def": "One of the sides of a room or building.",
+          "examples": [
+            "We hung a map on the wall.",
+            "The wall of the classroom is covered with drawings.",
+            "Ivy climbed up the garden wall."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tall side of stone or brick around a place.",
+          "examples": [
+            "A wall goes around the castle.",
+            "The garden has a stone wall.",
+            "We walked along the old town wall."
+          ]
+        },
+        "more": {
+          "def": "A solid barrier of stone or brick that goes around or divides a place.",
+          "examples": [
+            "A tall stone wall surrounds the old castle.",
+            "The garden wall keeps the rabbits out.",
+            "A wall once protected the old city."
           ]
         }
       }
@@ -139,6 +218,85 @@
     ]
   },
   {
+    "word": "war",
+    "say": "wor",
+    "forms": [
+      "wars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big fight between countries.",
+          "examples": [
+            "Soldiers came home when the war was over.",
+            "We read a book about a war long ago.",
+            "My great-grandfather talked about the war."
+          ]
+        },
+        "more": {
+          "def": "A long period of fighting between countries or groups of people.",
+          "examples": [
+            "The war lasted for four years before peace was made.",
+            "Museums in my city tell about a war that happened long ago.",
+            "After the war, many families began to rebuild their towns."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "warm",
+    "say": "worm",
+    "forms": [
+      "warmer",
+      "warmest",
+      "warms",
+      "warmed",
+      "warming"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A little hot.",
+          "examples": [
+            "The soup is warm.",
+            "She has a warm blanket.",
+            "It is warm in the sun."
+          ]
+        },
+        "more": {
+          "def": "Pleasantly hot, not cold and not too hot.",
+          "examples": [
+            "We sat on the warm sand.",
+            "She wrapped herself in a warm blanket.",
+            "The warm bread came out of the oven."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make less cold.",
+          "examples": [
+            "Warm your hands by the fire.",
+            "Soup warms me up.",
+            "She warmed the milk."
+          ]
+        },
+        "more": {
+          "def": "To make something less cold, or to become less cold.",
+          "examples": [
+            "He warmed his hands by the campfire.",
+            "The sun warmed the sand.",
+            "Soup warms you up on a cold day."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "warn",
     "say": "worn",
     "emoji": "⚠️",
@@ -164,6 +322,85 @@
             "The lifeguard warned the swimmers about the strong waves.",
             "Dark clouds warned us that a storm was coming.",
             "The sign warns drivers of a sharp turn ahead."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wash",
+    "say": "wosh",
+    "forms": [
+      "washes",
+      "washed",
+      "washing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To clean with water.",
+          "examples": [
+            "Wash your hands.",
+            "We wash the dishes.",
+            "Dad washed the car."
+          ]
+        },
+        "more": {
+          "def": "To clean something using water and often soap.",
+          "examples": [
+            "Wash your hands before dinner.",
+            "We washed the dog in the tub.",
+            "Mom washes clothes on Mondays."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "waste",
+    "say": "wayst",
+    "forms": [
+      "wastes",
+      "wasted",
+      "wasting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To use too much of something.",
+          "examples": [
+            "Do not waste water.",
+            "I wasted my time.",
+            "She wastes paper."
+          ]
+        },
+        "more": {
+          "def": "To use something carelessly or for no good reason.",
+          "examples": [
+            "Turn off the tap so you do not waste water.",
+            "He wasted the whole morning playing games.",
+            "We waste less food when we plan our meals."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things you throw away.",
+          "examples": [
+            "Put waste in the bin.",
+            "Waste goes to the dump.",
+            "Food waste goes in the compost."
+          ]
+        },
+        "more": {
+          "def": "Things that are thrown away because they are no longer wanted.",
+          "examples": [
+            "The truck takes our waste to the dump.",
+            "Plastic waste can hurt sea animals.",
+            "We sort our waste into recycling and trash."
           ]
         }
       }

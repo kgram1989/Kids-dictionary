@@ -119,6 +119,31 @@
     ]
   },
   {
+    "word": "whether",
+    "say": "WETH-er",
+    "senses": [
+      {
+        "pos": "conjunction",
+        "easy": {
+          "def": "Used to talk about two choices.",
+          "examples": [
+            "I do not know whether it will rain.",
+            "Tell me whether you want juice.",
+            "She asked whether we were hungry."
+          ]
+        },
+        "more": {
+          "def": "Used to say that there are two choices or possibilities.",
+          "examples": [
+            "I wonder whether it will snow tomorrow.",
+            "Tell me whether you want juice or milk.",
+            "She could not decide whether to go or stay."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "which",
     "say": "wich",
     "senses": [
@@ -213,6 +238,55 @@
             "He whispered the secret into his sister's ear.",
             "The children whispered so they would not wake the baby.",
             "The wind whispered through the tall grass."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "white",
+    "say": "wyt",
+    "emoji": "🤍",
+    "forms": [
+      "whiter",
+      "whitest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having the color of snow.",
+          "examples": [
+            "Snow is white.",
+            "She wore a white shirt.",
+            "Milk is white."
+          ]
+        },
+        "more": {
+          "def": "Having the color of fresh snow or milk.",
+          "examples": [
+            "The white clouds floated across the blue sky.",
+            "A polar bear's white fur helps it hide in the snow.",
+            "The baker wore a clean white apron."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The color of snow.",
+          "examples": [
+            "White is my favorite color.",
+            "I mixed some white into the red paint.",
+            "Doctors often dress in white."
+          ]
+        },
+        "more": {
+          "def": "The color of fresh snow; it is the lightest color there is.",
+          "examples": [
+            "The artist added a little white to make the paint lighter.",
+            "The mountain peaks were covered in a blanket of white.",
+            "Dressed all in white, the team stood out against the green field."
           ]
         }
       }

@@ -83,5 +83,151 @@
         }
       }
     ]
+  },
+  {
+    "word": "crime",
+    "say": "krym",
+    "forms": [
+      "crimes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something bad that breaks the law.",
+          "examples": [
+            "Stealing is a crime.",
+            "The detective solved the crime.",
+            "It is a crime to take things that are not yours."
+          ]
+        },
+        "more": {
+          "def": "An act that breaks the law and can be punished.",
+          "examples": [
+            "Stealing a bike is a crime.",
+            "The detective in the book solved the crime.",
+            "The town has very little crime."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cross",
+    "say": "kross",
+    "forms": [
+      "crosses",
+      "crossed",
+      "crossing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go from one side to the other.",
+          "examples": [
+            "Cross the street.",
+            "We crossed the bridge.",
+            "Look both ways before you cross."
+          ]
+        },
+        "more": {
+          "def": "To go from one side of something to the other.",
+          "examples": [
+            "The ducks crossed the road in a line.",
+            "We crossed the bridge over the river.",
+            "Be careful when you cross the street."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mark like an X or a plus sign.",
+          "examples": [
+            "Put a cross on the map.",
+            "She drew a cross.",
+            "There is a cross on the church."
+          ]
+        },
+        "more": {
+          "def": "A shape made by two lines that go across each other.",
+          "examples": [
+            "The pirate map showed a red cross.",
+            "The church had a tall cross on its roof.",
+            "Draw a cross in the box to show your answer."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Angry.",
+          "examples": [
+            "Dad was cross.",
+            "The cross cat hissed.",
+            "She is cross with me."
+          ]
+        },
+        "more": {
+          "def": "Annoyed or a little angry.",
+          "examples": [
+            "He was cross because his sister borrowed his bike.",
+            "The cross cat hissed at the dog.",
+            "Do not be cross with me."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cry",
+    "say": "kry",
+    "emoji": "😢",
+    "forms": [
+      "cries",
+      "cried",
+      "crying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have tears come from your eyes.",
+          "examples": [
+            "The baby cries.",
+            "I cried when I fell.",
+            "She cried at the sad movie."
+          ]
+        },
+        "more": {
+          "def": "To let tears fall from your eyes because you are sad, hurt or very happy.",
+          "examples": [
+            "The baby cried until Mom picked her up.",
+            "She cried happy tears when her dog came home.",
+            "I cried when I scraped my knee on the sidewalk."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To call out loudly.",
+          "examples": [
+            "\"Help!\" she cried.",
+            "\"Look!\" he cried.",
+            "The gull cried over the sea."
+          ]
+        },
+        "more": {
+          "def": "To shout something out loudly.",
+          "examples": [
+            "\"Look out!\" cried the lifeguard.",
+            "\"Hooray!\" cried the children as the circus began.",
+            "Gulls cried overhead as the boat came to shore."
+          ]
+        }
+      }
+    ]
   }
 ]

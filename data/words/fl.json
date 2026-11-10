@@ -25,6 +25,53 @@
     ]
   },
   {
+    "word": "flight",
+    "say": "flyt",
+    "forms": [
+      "flights"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A trip by airplane.",
+          "examples": [
+            "Our flight was long.",
+            "The flight to Grandma's house was short.",
+            "We took an early flight."
+          ]
+        },
+        "more": {
+          "def": "A trip in an airplane.",
+          "examples": [
+            "Our flight left at six in the morning.",
+            "The flight to Grandma's house takes two hours.",
+            "The flight from Texas to Alaska was long."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The act of flying.",
+          "examples": [
+            "The bird's flight was swift.",
+            "Wings help flight.",
+            "Her flight across the sky was graceful."
+          ]
+        },
+        "more": {
+          "def": "The act or ability to fly through the air.",
+          "examples": [
+            "The eagle's flight carried it over the valley.",
+            "Wings make flight possible.",
+            "The first flight of the airplane lasted a few seconds."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "float",
     "say": "floht",
     "emoji": "🎈",
@@ -50,6 +97,133 @@
             "A leaf floated slowly down the stream.",
             "The balloon floated up over the rooftops.",
             "Ice floats because it is lighter than water."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "floor",
+    "say": "flor",
+    "forms": [
+      "floors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The bottom of a room that you walk on.",
+          "examples": [
+            "The floor is wet.",
+            "I sat on the floor.",
+            "Toys are on the floor."
+          ]
+        },
+        "more": {
+          "def": "The flat surface at the bottom of a room that people walk on.",
+          "examples": [
+            "She swept the kitchen floor.",
+            "The cat curled up on the warm floor.",
+            "Wooden floors can be slippery in socks."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One level of a building.",
+          "examples": [
+            "Our class is on the second floor.",
+            "The elevator stopped at the third floor.",
+            "The top floor has the library."
+          ]
+        },
+        "more": {
+          "def": "One level of a building, such as the first, second or third floor.",
+          "examples": [
+            "My aunt lives on the tenth floor of her building.",
+            "The art room is on the second floor.",
+            "Push the button for the fourth floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flower",
+    "say": "FLOW-er",
+    "emoji": "🌸",
+    "forms": [
+      "flowers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The colorful part of a plant.",
+          "examples": [
+            "The flower smells nice.",
+            "Bees visit the flower.",
+            "I picked a flower."
+          ]
+        },
+        "more": {
+          "def": "The colorful part of a plant that makes seeds, often with petals.",
+          "examples": [
+            "A bee landed on the yellow flower.",
+            "The garden is full of flowers.",
+            "She picked a flower for her teacher."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fly",
+    "say": "fly",
+    "emoji": "🪰",
+    "forms": [
+      "flies",
+      "flew",
+      "flown",
+      "flying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move through the air.",
+          "examples": [
+            "Birds fly in the sky.",
+            "The plane flies over our house.",
+            "My kite flew high."
+          ]
+        },
+        "more": {
+          "def": "To move through the air using wings, or to travel in an aircraft.",
+          "examples": [
+            "Geese fly south in big V-shaped groups each fall.",
+            "We flew to Florida to visit my cousins.",
+            "The pilot flies a plane across the ocean."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small bug with wings.",
+          "examples": [
+            "A fly landed on my food.",
+            "The frog ate a fly.",
+            "The fly buzzed by my ear."
+          ]
+        },
+        "more": {
+          "def": "A small insect with two wings that is often found around food and garbage.",
+          "examples": [
+            "A fly buzzed against the window and could not find the way out.",
+            "Frogs catch flies with their long, sticky tongues.",
+            "Flies can walk upside down on the ceiling."
           ]
         }
       }

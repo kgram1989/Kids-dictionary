@@ -1,5 +1,53 @@
 [
   {
+    "word": "space",
+    "say": "spayss",
+    "emoji": "🌌",
+    "forms": [
+      "spaces"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The huge place beyond Earth.",
+          "examples": [
+            "Astronauts go to space.",
+            "Stars are in space.",
+            "A rocket flies into space."
+          ]
+        },
+        "more": {
+          "def": "The huge, dark area beyond Earth where the stars and planets are.",
+          "examples": [
+            "Astronauts travel to space in rockets.",
+            "Stars twinkle across space.",
+            "The telescope looks deep into space."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Room for something.",
+          "examples": [
+            "There is space for one more.",
+            "Save me a space.",
+            "The closet has little space."
+          ]
+        },
+        "more": {
+          "def": "An empty area or room where something can go.",
+          "examples": [
+            "We found a space for the couch.",
+            "There was no space left in the car.",
+            "She left a space between the words."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "speak",
     "say": "speek",
     "forms": [
@@ -25,6 +73,168 @@
             "Please speak clearly so the whole class can hear you.",
             "My neighbor speaks three languages.",
             "The principal spoke to the school about the field trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "special",
+    "say": "SPESH-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Different and better than usual.",
+          "examples": [
+            "Today is a special day.",
+            "Grandma made a special cake.",
+            "You are special to me."
+          ]
+        },
+        "more": {
+          "def": "Better, different or more important than usual.",
+          "examples": [
+            "We eat a special meal on the last day of school.",
+            "The museum has a special show about space.",
+            "The toy was special because my grandpa made it."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Meant for one job.",
+          "examples": [
+            "Firefighters wear special coats.",
+            "The cat has a special bed.",
+            "This special paper is for painting."
+          ]
+        },
+        "more": {
+          "def": "Made or meant for one particular use or person.",
+          "examples": [
+            "Astronauts wear special suits in space.",
+            "The shop sells special shoes for running.",
+            "The bus has a special seat for people who need help."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spend",
+    "say": "spend",
+    "emoji": "💰",
+    "forms": [
+      "spends",
+      "spent",
+      "spending"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To use money to buy things.",
+          "examples": [
+            "I spend my coins on stickers.",
+            "I spent a dollar on a toy.",
+            "He spent his allowance on a book."
+          ]
+        },
+        "more": {
+          "def": "To pay money for things.",
+          "examples": [
+            "She spent all her birthday money on art supplies.",
+            "Families spend a lot on food each week.",
+            "The town spent money fixing the old bridge."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To use time doing something.",
+          "examples": [
+            "We spent the day at the beach.",
+            "She spends time with her dog.",
+            "I spend my mornings at school."
+          ]
+        },
+        "more": {
+          "def": "To pass time doing something or being somewhere.",
+          "examples": [
+            "We spent the whole summer at my grandparents' farm.",
+            "He spends an hour each night reading.",
+            "The owl spends the daytime sleeping in a hollow tree."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spot",
+    "say": "spot",
+    "forms": [
+      "spots",
+      "spotted",
+      "spotting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small mark.",
+          "examples": [
+            "There is a spot on my shirt.",
+            "A ladybug has black spots.",
+            "A leopard has spots."
+          ]
+        },
+        "more": {
+          "def": "A small mark or round area that is different from what is around it.",
+          "examples": [
+            "A ladybug has black spots on its red back.",
+            "There is a spot of paint on the floor.",
+            "A dog with brown spots ran by."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place.",
+          "examples": [
+            "This is a good spot for a picnic.",
+            "I found a quiet spot.",
+            "Save my spot."
+          ]
+        },
+        "more": {
+          "def": "A particular place.",
+          "examples": [
+            "We found a shady spot for the picnic.",
+            "This is my favorite fishing spot.",
+            "Save me a spot in line."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To see something.",
+          "examples": [
+            "I spot a bird.",
+            "She spotted a deer.",
+            "Can you spot the cat?"
+          ]
+        },
+        "more": {
+          "def": "To notice or see something that is hard to find.",
+          "examples": [
+            "I spotted a deer at the edge of the woods.",
+            "Can you spot the hidden picture?",
+            "She spotted her friend in the crowd."
           ]
         }
       }

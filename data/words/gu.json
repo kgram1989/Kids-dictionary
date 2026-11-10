@@ -1,5 +1,54 @@
 [
   {
+    "word": "guard",
+    "say": "gard",
+    "forms": [
+      "guards",
+      "guarded",
+      "guarding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To keep watch so nothing bad happens.",
+          "examples": [
+            "Dogs guard the house.",
+            "He guards the gate.",
+            "A big dog guarded the sheep."
+          ]
+        },
+        "more": {
+          "def": "To watch over a person, place or thing to keep it safe.",
+          "examples": [
+            "A dog guards the farm at night.",
+            "Soldiers guard the old fort.",
+            "The goalie guards the net."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who keeps a place safe.",
+          "examples": [
+            "The guard stood at the door.",
+            "A guard checked our bags.",
+            "The guard waved."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to protect a person or place.",
+          "examples": [
+            "A guard stood at the museum door.",
+            "The royal guard wore red coats.",
+            "The guard checked everyone's ticket."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "guess",
     "say": "gess",
     "forms": [
@@ -24,6 +73,34 @@
             "I guessed that there were two hundred beans in the jar.",
             "Can you guess the ending of the story?",
             "I did not know the answer, so I had to guess."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "guest",
+    "say": "gest",
+    "forms": [
+      "guests"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who visits.",
+          "examples": [
+            "We have a guest.",
+            "The guest sat down.",
+            "Guests came to the party."
+          ]
+        },
+        "more": {
+          "def": "A person who is invited to visit or stay somewhere.",
+          "examples": [
+            "We set an extra place for our guest.",
+            "The guests arrived at six.",
+            "The hotel guest asked for a towel."
           ]
         }
       }
@@ -55,6 +132,31 @@
             "A ranger guided us along the trail to the waterfall.",
             "The stars guided sailors across the sea long ago.",
             "A helper guided the new student to her classroom."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "guilty",
+    "say": "GIL-tee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling bad because you did something wrong.",
+          "examples": [
+            "I feel guilty about the mess.",
+            "He felt guilty.",
+            "She looked guilty."
+          ]
+        },
+        "more": {
+          "def": "Feeling ashamed because you know you did something wrong.",
+          "examples": [
+            "I felt guilty when I ate the last cookie.",
+            "The dog looked guilty beside the torn pillow.",
+            "She felt guilty for forgetting her friend's birthday."
           ]
         }
       }

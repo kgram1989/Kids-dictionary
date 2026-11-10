@@ -1,5 +1,54 @@
 [
   {
+    "word": "reach",
+    "say": "reech",
+    "forms": [
+      "reaches",
+      "reached",
+      "reaching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stretch out your hand to get something.",
+          "examples": [
+            "I reach for the book.",
+            "He cannot reach the shelf.",
+            "Reach up high."
+          ]
+        },
+        "more": {
+          "def": "To stretch out your arm to touch or get something.",
+          "examples": [
+            "She reached for the top shelf.",
+            "The baby reached out to grab my finger.",
+            "I cannot reach the jar on the top shelf."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get to a place.",
+          "examples": [
+            "We reach the beach at noon.",
+            "The train reached the station.",
+            "When will you reach home?"
+          ]
+        },
+        "more": {
+          "def": "To arrive at a place, or to get as far as a certain point.",
+          "examples": [
+            "We reached the top of the mountain at noon.",
+            "The hikers reached the camp before dark.",
+            "The water in the tub reached my knees."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "read",
     "say": "reed",
     "forms": [
@@ -99,6 +148,36 @@
     ]
   },
   {
+    "word": "realize",
+    "say": "REE-uh-lyz",
+    "forms": [
+      "realizes",
+      "realized",
+      "realizing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To suddenly understand something.",
+          "examples": [
+            "I realized I forgot my hat.",
+            "She realized it was Friday.",
+            "He realizes his mistake."
+          ]
+        },
+        "more": {
+          "def": "To understand something clearly, often suddenly.",
+          "examples": [
+            "I realized I had left my lunch at home.",
+            "She realized the dog had been hiding under the table all along.",
+            "Do you realize how late it is?"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "really",
     "say": "REE-lee",
     "senses": [
@@ -152,6 +231,36 @@
     ]
   },
   {
+    "word": "receive",
+    "say": "rih-SEEV",
+    "forms": [
+      "receives",
+      "received",
+      "receiving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get something that is sent or given.",
+          "examples": [
+            "I receive mail.",
+            "She received a gift.",
+            "He received a letter."
+          ]
+        },
+        "more": {
+          "def": "To get something that is given or sent to you.",
+          "examples": [
+            "I received a postcard from my cousin.",
+            "She received a prize for her painting.",
+            "We receive the newspaper every morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "recognize",
     "say": "REK-ug-nyz",
     "forms": [
@@ -177,6 +286,75 @@
             "I did not recognize my cousin with his new haircut.",
             "She recognized the song after two notes.",
             "Babies learn to recognize their parents' faces."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "record",
+    "say": "REK-erd",
+    "forms": [
+      "records",
+      "recorded",
+      "recording"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The best result so far.",
+          "examples": [
+            "She set a new record in the race.",
+            "The tall tower broke the record.",
+            "He holds the swimming record."
+          ]
+        },
+        "more": {
+          "def": "The best score or result that anyone has reached, such as the fastest time.",
+          "examples": [
+            "She set a new school record in the long jump.",
+            "The tower holds the record for the tallest building in the city.",
+            "He broke the swimming record by one second."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Notes that tell what happened.",
+          "examples": [
+            "The nurse keeps a record of my height.",
+            "The teacher keeps a record of homework.",
+            "Keep a record of what you read."
+          ]
+        },
+        "more": {
+          "def": "A written account of facts or events that is kept so people can look at it later.",
+          "examples": [
+            "The school keeps a record of every student's height.",
+            "Scientists keep a careful record of the weather.",
+            "My grandmother has a record of our family's history."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "say": "rih-KORD",
+        "easy": {
+          "def": "To save sound or video.",
+          "examples": [
+            "I record my voice.",
+            "Let's record a song.",
+            "Dad recorded the game."
+          ]
+        },
+        "more": {
+          "def": "To save sound or pictures so that they can be heard or seen again.",
+          "examples": [
+            "The band recorded a new song in the studio.",
+            "She recorded the frogs singing at the pond.",
+            "Dad recorded my piano show on his phone."
           ]
         }
       }
@@ -214,6 +392,55 @@
     ]
   },
   {
+    "word": "red",
+    "say": "red",
+    "emoji": "🔴",
+    "forms": [
+      "redder",
+      "reddest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having the color of an apple or a fire truck.",
+          "examples": [
+            "The apple is red.",
+            "A fire truck is red.",
+            "She wore a red hat."
+          ]
+        },
+        "more": {
+          "def": "Having the color of blood, ripe tomatoes or fire trucks.",
+          "examples": [
+            "A red cardinal sat in the snowy tree.",
+            "The sunset turned the sky red and orange.",
+            "His cheeks were red from the cold wind."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The color of an apple or a fire truck.",
+          "examples": [
+            "Red is my favorite color.",
+            "Mix red and yellow to make orange.",
+            "The leaves turned to red."
+          ]
+        },
+        "more": {
+          "def": "The color of ripe tomatoes, strawberries and fire trucks.",
+          "examples": [
+            "The artist painted the barn in bright red.",
+            "Red means stop on a traffic light.",
+            "The flag has stripes of red and white."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "reflect",
     "say": "rih-FLEKT",
     "emoji": "🪞",
@@ -239,6 +466,34 @@
             "The calm water reflected the mountains like a mirror.",
             "The shiny window reflected the sunlight.",
             "A white roof reflects heat and keeps the house cool."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "relationship",
+    "say": "rih-LAY-shun-ship",
+    "forms": [
+      "relationships"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How two people get along or are connected.",
+          "examples": [
+            "My sister and I have a close relationship.",
+            "The two dogs have a good relationship.",
+            "A teacher and student have a relationship."
+          ]
+        },
+        "more": {
+          "def": "The way that two people or things are connected or feel about each other.",
+          "examples": [
+            "She has a warm relationship with her grandfather.",
+            "Scientists study the relationship between plants and bees.",
+            "Brothers and sisters often have a close relationship."
           ]
         }
       }
@@ -276,6 +531,36 @@
     ]
   },
   {
+    "word": "release",
+    "say": "rih-LEESS",
+    "forms": [
+      "releases",
+      "released",
+      "releasing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let something go free.",
+          "examples": [
+            "Release the bird.",
+            "He released the balloon.",
+            "The zoo released the animal."
+          ]
+        },
+        "more": {
+          "def": "To let a person or animal go free, or to let go of something.",
+          "examples": [
+            "The girl released the butterfly into the garden.",
+            "The park ranger released the fish back into the river.",
+            "He released the balloon and watched it float up."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "remember",
     "say": "rih-MEM-ber",
     "forms": [
@@ -300,6 +585,105 @@
             "Remember to bring your lunch on the field trip.",
             "I cannot remember where I put my keys.",
             "She still remembers the song her grandmother taught her."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "remind",
+    "say": "rih-MYND",
+    "forms": [
+      "reminds",
+      "reminded",
+      "reminding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To help someone remember.",
+          "examples": [
+            "Remind me to call.",
+            "She reminded me.",
+            "Please remind him."
+          ]
+        },
+        "more": {
+          "def": "To make someone remember something.",
+          "examples": [
+            "Please remind me to bring my gym shoes.",
+            "My alarm reminds me to feed the fish.",
+            "She reminded him about the test."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone think of something.",
+          "examples": [
+            "You remind me of my sister.",
+            "This song reminds me of summer.",
+            "The smell reminds me of baking."
+          ]
+        },
+        "more": {
+          "def": "To make someone think of a person, place or thing.",
+          "examples": [
+            "That song reminds me of our trip.",
+            "The smell of pine reminds her of winter.",
+            "You remind me of my cousin."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "report",
+    "say": "rih-PORT",
+    "emoji": "📝",
+    "forms": [
+      "reports",
+      "reported",
+      "reporting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Writing or talking that tells about something.",
+          "examples": [
+            "I wrote a report on whales.",
+            "The weather report says rain.",
+            "She gave a report to the class."
+          ]
+        },
+        "more": {
+          "def": "A written or spoken description of a subject, an event or something you have studied.",
+          "examples": [
+            "I wrote a report about the planets for science class.",
+            "The weather report says it will snow tonight.",
+            "A report from the park said that the bridge was open."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell people about something.",
+          "examples": [
+            "The paper reports the score.",
+            "Please report a lost jacket to the office.",
+            "She reported the news to her class."
+          ]
+        },
+        "more": {
+          "def": "To give information about something, especially what you have seen, heard or studied.",
+          "examples": [
+            "Scientists reported that the ice is melting slowly.",
+            "Please report any broken equipment to your coach.",
+            "The newspaper reported on the parade."
           ]
         }
       }
@@ -459,6 +843,74 @@
             "I ate one cookie and saved the rest for later.",
             "The rest of the class is outside.",
             "He finished half the book and will read the rest tomorrow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "return",
+    "say": "rih-TERN",
+    "forms": [
+      "returns",
+      "returned",
+      "returning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go back to a place.",
+          "examples": [
+            "We return home at five.",
+            "The birds returned in spring.",
+            "She returned to her seat."
+          ]
+        },
+        "more": {
+          "def": "To go or come back to a place.",
+          "examples": [
+            "The birds return to the north every spring.",
+            "We returned to the campsite before dark.",
+            "He returned to his seat after the break."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give something back.",
+          "examples": [
+            "Return the book to the library.",
+            "I returned her pencil.",
+            "Please return my ball."
+          ]
+        },
+        "more": {
+          "def": "To give, send or put something back where it came from.",
+          "examples": [
+            "I returned my library books on Saturday.",
+            "She returned the borrowed jacket to her friend.",
+            "Please return the scissors to the drawer."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A coming back to a place.",
+          "examples": [
+            "We cheered for her return.",
+            "The bus ride on the return was quiet.",
+            "The return of the geese means spring is here."
+          ]
+        },
+        "more": {
+          "def": "The act of coming or going back.",
+          "examples": [
+            "The return of the swallows is a sign of spring.",
+            "On our return, Grandma had dinner ready.",
+            "The explorers' return was celebrated with a parade."
           ]
         }
       }

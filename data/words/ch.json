@@ -1,5 +1,34 @@
 [
   {
+    "word": "chair",
+    "say": "chair",
+    "emoji": "🪑",
+    "forms": [
+      "chairs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A seat for one person with a back.",
+          "examples": [
+            "Sit on the chair.",
+            "The chair is red.",
+            "Pull up a chair."
+          ]
+        },
+        "more": {
+          "def": "A seat for one person, with a back and usually four legs.",
+          "examples": [
+            "She pulled the chair up to the table.",
+            "A chair sat by the window.",
+            "He fell asleep in the big chair."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "challenge",
     "say": "CHAL-inj",
     "emoji": "🧗",
@@ -144,6 +173,142 @@
     ]
   },
   {
+    "word": "charge",
+    "say": "charj",
+    "forms": [
+      "charges",
+      "charged",
+      "charging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To ask someone to pay money.",
+          "examples": [
+            "The shop charges two dollars for juice.",
+            "The bus charges a dollar for kids.",
+            "They charged us nothing."
+          ]
+        },
+        "more": {
+          "def": "To ask a certain amount of money for something.",
+          "examples": [
+            "The farm charges five dollars to pick a basket of berries.",
+            "The museum does not charge children under five.",
+            "How much do they charge for a pony ride?"
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put power into a battery.",
+          "examples": [
+            "I charge my tablet each night.",
+            "The toy car needs to be charged.",
+            "Mom charged the battery."
+          ]
+        },
+        "more": {
+          "def": "To fill a battery with electricity so it can work.",
+          "examples": [
+            "Plug in the tablet to charge the battery.",
+            "The electric car charges overnight in the garage.",
+            "My watch charges in about an hour."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To run forward fast.",
+          "examples": [
+            "The kids charged out of the door.",
+            "The puppy charged across the yard.",
+            "He charged down the hill on his sled."
+          ]
+        },
+        "more": {
+          "def": "To rush forward quickly.",
+          "examples": [
+            "The kids charged out the door when the bell rang.",
+            "The puppy charged across the yard to greet us.",
+            "A rhino can charge at high speed when it is startled."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The job of looking after something.",
+          "examples": [
+            "Maya is in charge of the plants.",
+            "The teacher is in charge of the class.",
+            "Who is in charge here?"
+          ]
+        },
+        "more": {
+          "def": "The responsibility for looking after or leading something.",
+          "examples": [
+            "Our coach put Dani in charge of the water bottles.",
+            "The captain is in charge of the whole ship.",
+            "Who is in charge of the library today?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chase",
+    "say": "chayss",
+    "forms": [
+      "chases",
+      "chased",
+      "chasing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To run after someone to catch them.",
+          "examples": [
+            "The dog chases the ball.",
+            "Kids chase each other.",
+            "The cat chased the mouse."
+          ]
+        },
+        "more": {
+          "def": "To run after someone or something to try to catch it.",
+          "examples": [
+            "The puppy chased its tail around the yard.",
+            "Children chased each other around the playground.",
+            "The cat chased a mouse into the barn."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Running after something.",
+          "examples": [
+            "The chase was fun.",
+            "It was a long chase.",
+            "The dog started the chase."
+          ]
+        },
+        "more": {
+          "def": "The act of running after someone or something.",
+          "examples": [
+            "The chase ended when the cat caught the toy mouse.",
+            "We played a game of chase.",
+            "The chase through the park left us tired."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "check",
     "say": "chek",
     "forms": [
@@ -194,6 +359,265 @@
             "The cheerful bus driver greeted every child by name.",
             "He stayed cheerful even though it rained on his birthday.",
             "The nurse's cheerful voice made the patients feel better."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chicken",
+    "say": "CHIK-un",
+    "emoji": "🐔",
+    "forms": [
+      "chickens"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A farm bird that lays eggs.",
+          "examples": [
+            "The chicken laid an egg.",
+            "Chickens eat corn.",
+            "A chicken pecked the ground."
+          ]
+        },
+        "more": {
+          "def": "A farm bird that is raised for its eggs and meat.",
+          "examples": [
+            "The chicken pecked at the corn.",
+            "Our chickens lay six eggs each morning.",
+            "A chicken sat on her nest."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Meat from a farm bird.",
+          "examples": [
+            "I ate chicken.",
+            "Mom made chicken soup.",
+            "We had chicken for dinner."
+          ]
+        },
+        "more": {
+          "def": "The meat of a farm bird that is raised for food.",
+          "examples": [
+            "We had roast chicken for dinner.",
+            "Grandma makes chicken soup.",
+            "She ate a chicken sandwich."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chief",
+    "say": "cheef",
+    "forms": [
+      "chiefs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The leader of a group.",
+          "examples": [
+            "The fire chief gave orders.",
+            "The chief of the village spoke.",
+            "She is chief of the team."
+          ]
+        },
+        "more": {
+          "def": "A person who leads or is in charge of a group.",
+          "examples": [
+            "The fire chief thanked the volunteers.",
+            "The chief of police spoke at the meeting.",
+            "The village chief welcomed the visitors."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Most important.",
+          "examples": [
+            "The chief reason is safety.",
+            "Rain is the chief problem.",
+            "His chief job is cooking."
+          ]
+        },
+        "more": {
+          "def": "Most important or main.",
+          "examples": [
+            "The chief reason for the trip was to see Grandma.",
+            "Corn is the chief crop of the region.",
+            "Her chief job is feeding the horses."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "child",
+    "say": "chyld",
+    "emoji": "🧒",
+    "forms": [
+      "children"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A young boy or girl.",
+          "examples": [
+            "The child ran to the park.",
+            "Each child gets a book.",
+            "A child is small and young."
+          ]
+        },
+        "more": {
+          "def": "A young person who is not yet an adult.",
+          "examples": [
+            "Every child in the class got a turn on the swing.",
+            "The child found a tiny frog under a rock.",
+            "Museums often have special programs for each child."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A son or daughter.",
+          "examples": [
+            "Grandma has three children.",
+            "Their child is in my class.",
+            "She is their only child."
+          ]
+        },
+        "more": {
+          "def": "A person's son or daughter, no matter how old they are.",
+          "examples": [
+            "My grandmother's children are my mom and my two uncles.",
+            "Even as an adult, she is still her parents' child.",
+            "The bear led her two children across the stream."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "choice",
+    "say": "choys",
+    "forms": [
+      "choices"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When you pick one thing.",
+          "examples": [
+            "It was a hard choice.",
+            "You have a choice of two toys.",
+            "Make your choice."
+          ]
+        },
+        "more": {
+          "def": "The act of picking one thing from two or more things.",
+          "examples": [
+            "It was a hard choice between the red and blue shirts.",
+            "You have a choice of milk or juice.",
+            "Her choice was to take the shorter path."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "choose",
+    "say": "chooz",
+    "forms": [
+      "chooses",
+      "chose",
+      "chosen",
+      "choosing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pick one thing.",
+          "examples": [
+            "Choose a book.",
+            "I chose the red one.",
+            "She chooses a flavor."
+          ]
+        },
+        "more": {
+          "def": "To pick the one you want from two or more.",
+          "examples": [
+            "You may choose a snack from the basket.",
+            "She chose the blue bike.",
+            "Choose a partner for the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "Christmas",
+    "say": "KRISS-mus",
+    "emoji": "🎄",
+    "forms": [
+      "Christmases"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A holiday on December 25 when many people give gifts.",
+          "examples": [
+            "We decorate a tree at Christmas.",
+            "Christmas is in winter.",
+            "I sang songs at Christmas."
+          ]
+        },
+        "more": {
+          "def": "A holiday on December 25 that Christians celebrate for the birth of Jesus, when many families also give gifts.",
+          "examples": [
+            "Our family bakes cookies and gives gifts at Christmas.",
+            "Lights and wreaths decorate the town before Christmas.",
+            "We sang carols at the school concert near Christmas."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "church",
+    "say": "cherch",
+    "forms": [
+      "churches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A building where Christians pray.",
+          "examples": [
+            "We go to church on Sunday.",
+            "The church has a bell.",
+            "The church is old."
+          ]
+        },
+        "more": {
+          "def": "A building where Christians gather to pray and worship.",
+          "examples": [
+            "The church bell rings on Sunday.",
+            "We went to a wedding at the church.",
+            "A tall steeple rises above the church."
           ]
         }
       }

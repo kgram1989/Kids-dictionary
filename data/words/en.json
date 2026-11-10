@@ -103,6 +103,51 @@
     ]
   },
   {
+    "word": "English",
+    "say": "ING-glish",
+    "emoji": "-",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The language we are speaking.",
+          "examples": [
+            "I speak English at school.",
+            "This book is in English.",
+            "We learn English words."
+          ]
+        },
+        "more": {
+          "def": "The language spoken in the United States, England and many other countries.",
+          "examples": [
+            "She is learning to read in English.",
+            "English has many words that came from other languages.",
+            "We speak English at home and Spanish with Grandma."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "From England.",
+          "examples": [
+            "She has an English teacher.",
+            "We saw an English castle.",
+            "The English countryside is green."
+          ]
+        },
+        "more": {
+          "def": "Belonging to England or its people.",
+          "examples": [
+            "My neighbor has an English bulldog.",
+            "The English countryside is full of rolling green hills.",
+            "Tea with milk is an English tradition."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "enjoy",
     "say": "en-JOY",
     "forms": [
@@ -178,6 +223,99 @@
             "We do not have enough chairs for the whole class.",
             "There is enough time to finish the picture before lunch.",
             "Is the soup hot enough for you?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "enter",
+    "say": "EN-ter",
+    "forms": [
+      "enters",
+      "entered",
+      "entering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go into a place.",
+          "examples": [
+            "Enter the room.",
+            "She entered the classroom.",
+            "Please enter quietly."
+          ]
+        },
+        "more": {
+          "def": "To go or come into a place.",
+          "examples": [
+            "Please enter through the front door.",
+            "The knight entered the great hall.",
+            "Visitors enter the museum here."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To type something in.",
+          "examples": [
+            "Enter your name.",
+            "She entered the code.",
+            "Enter the number."
+          ]
+        },
+        "more": {
+          "def": "To type or put information into a computer or a form.",
+          "examples": [
+            "Enter your password to log in.",
+            "She entered her name on the list.",
+            "He entered the numbers into the calculator."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To join a race or contest.",
+          "examples": [
+            "I will enter the race.",
+            "I entered the swim meet.",
+            "They entered the art show."
+          ]
+        },
+        "more": {
+          "def": "To take part in a contest.",
+          "examples": [
+            "Over fifty kids entered the art contest.",
+            "She entered the spelling bee.",
+            "He entered his dog in the pet show."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "entire",
+    "say": "en-TYR",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "All of something.",
+          "examples": [
+            "I ate the entire pizza.",
+            "The entire class sang.",
+            "She read the entire book."
+          ]
+        },
+        "more": {
+          "def": "Whole, with nothing left out.",
+          "examples": [
+            "I read the entire book in one day.",
+            "The entire class sang happy birthday.",
+            "A storm covered the entire town."
           ]
         }
       }
