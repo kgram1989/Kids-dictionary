@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "check": "node scripts/check-words.mjs",
+    "next": "node scripts/next-words.mjs",
+    "add": "node scripts/add-words.mjs",
     "predev": "npm run check",
     "dev": "vite",
     "prebuild": "npm run check",
