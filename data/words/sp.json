@@ -48,6 +48,35 @@
     ]
   },
   {
+    "word": "spaceship",
+    "say": "SPAYSS-ship",
+    "emoji": "🚀",
+    "forms": [
+      "spaceships"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A vehicle that travels in space.",
+          "examples": [
+            "The spaceship flew to the moon.",
+            "I drew a spaceship.",
+            "The spaceship landed."
+          ]
+        },
+        "more": {
+          "def": "A vehicle that is built to travel through outer space.",
+          "examples": [
+            "The spaceship flew to the moon and back.",
+            "I drew a spaceship with silver wings.",
+            "The astronauts climbed into the spaceship and waved goodbye."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "spaghetti",
     "say": "spuh-GET-ee",
     "emoji": "🍝",
@@ -870,6 +899,31 @@
     ]
   },
   {
+    "word": "spinal",
+    "say": "SPY-nul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Of the bones down your back.",
+          "examples": [
+            "The doctor looked at her spinal bones.",
+            "The spinal cord is in your back.",
+            "He has a spinal check."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the spine, the line of bones down the middle of your back.",
+          "examples": [
+            "The spinal cord runs through the bones of your back.",
+            "The doctor checked his spinal bones during the exam.",
+            "A spinal bone is called a vertebra."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "spine",
     "say": "spyn",
     "forms": [
@@ -1286,6 +1340,64 @@
             "A local store was the team's sponsor.",
             "The sponsor paid for our new shirts.",
             "We thanked the sponsor of the fair."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spontaneous",
+    "say": "spon-TAY-nee-us",
+    "forms": [
+      "spontaneously"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Done without planning.",
+          "examples": [
+            "We had a spontaneous picnic.",
+            "Her hug was spontaneous.",
+            "A spontaneous cheer began."
+          ]
+        },
+        "more": {
+          "def": "Happening suddenly and naturally, without being planned.",
+          "examples": [
+            "We decided on a spontaneous picnic when the sun came out.",
+            "Her spontaneous hug surprised her grandmother.",
+            "A spontaneous cheer rose from the crowd when the team scored."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spooky",
+    "say": "SPOO-kee",
+    "emoji": "👻",
+    "forms": [
+      "spookier",
+      "spookiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A little bit scary in a fun way.",
+          "examples": [
+            "The old house looks spooky.",
+            "We told spooky stories at camp.",
+            "The woods are spooky at night."
+          ]
+        },
+        "more": {
+          "def": "Strange and a little bit scary, in a way that gives you shivers.",
+          "examples": [
+            "A spooky mist hung over the quiet graveyard at midnight.",
+            "The spooky sound turned out to be a branch tapping the window.",
+            "We wore spooky costumes to the Halloween party."
           ]
         }
       }

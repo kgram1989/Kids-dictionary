@@ -496,6 +496,34 @@
     ]
   },
   {
+    "word": "grandparent",
+    "say": "GRAND-pair-unt",
+    "forms": [
+      "grandparents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The mother or father of your mom or dad.",
+          "examples": [
+            "My grandparent lives near me.",
+            "A grandparent came to visit.",
+            "Each child has a grandparent."
+          ]
+        },
+        "more": {
+          "def": "The mother or father of one of your parents.",
+          "examples": [
+            "My grandparent tells me stories at bedtime.",
+            "We visit my grandparents every summer at their farm.",
+            "A grandparent came to our school for Grandparents' Day."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "grandson",
     "say": "GRAND-sun",
     "forms": [
@@ -896,6 +924,35 @@
     ]
   },
   {
+    "word": "greasy",
+    "say": "GREE-see",
+    "forms": [
+      "greasier",
+      "greasiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Covered with oil or fat.",
+          "examples": [
+            "The pan is greasy.",
+            "I have greasy fingers.",
+            "The pizza was greasy."
+          ]
+        },
+        "more": {
+          "def": "Covered with or full of oil or fat.",
+          "examples": [
+            "The pan was greasy after cooking the bacon.",
+            "I had greasy fingers after eating the fried chicken.",
+            "The greasy hair stuck to his forehead."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "great",
     "say": "grayt",
     "senses": [
@@ -940,6 +997,59 @@
             "I greatly enjoyed the trip.",
             "The old teacher was greatly loved.",
             "The rain greatly helped the garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "greatness",
+    "say": "GRAYT-ness",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The quality of being very important or very good.",
+          "examples": [
+            "The greatness of the sky amazed me.",
+            "He dreamed of greatness.",
+            "We admired her greatness."
+          ]
+        },
+        "more": {
+          "def": "The state of being very great, in size, talent or importance.",
+          "examples": [
+            "We were amazed by the greatness of the ocean.",
+            "He dreamed of greatness and worked hard to become a star.",
+            "The greatness of the artist can be seen in each painting."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "greed",
+    "say": "greed",
+    "forms": [
+      "greedy"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Wanting much more than your share.",
+          "examples": [
+            "His greed made him take all the cookies.",
+            "Greed made the king want more gold.",
+            "The story is about greed."
+          ]
+        },
+        "more": {
+          "def": "A strong wish to have much more of something than you need or than is fair.",
+          "examples": [
+            "Greed made him take every piece of candy for himself.",
+            "The old story shows how greed can make people unhappy.",
+            "The king's greed for gold was never satisfied."
           ]
         }
       }
@@ -1162,6 +1272,36 @@
     ]
   },
   {
+    "word": "grim",
+    "say": "grim",
+    "forms": [
+      "grimmer",
+      "grimmest",
+      "grimly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very serious and sad.",
+          "examples": [
+            "The news was grim.",
+            "He had a grim look.",
+            "The sky was a grim gray."
+          ]
+        },
+        "more": {
+          "def": "Serious, gloomy or hard to face.",
+          "examples": [
+            "The doctor wore a grim face when she gave the news.",
+            "The grim, gray clouds warned us of a bad storm.",
+            "It was a grim day when the old library closed."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "grimace",
     "say": "GRIM-iss",
     "forms": [
@@ -1186,6 +1326,55 @@
             "He grimaced at the sour taste.",
             "She grimaced when she hurt her toe.",
             "The baby grimaced at the spoon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grind",
+    "say": "grynd",
+    "forms": [
+      "grinds",
+      "ground",
+      "grinding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To crush something into tiny bits.",
+          "examples": [
+            "We grind wheat into flour.",
+            "Dad grinds coffee.",
+            "I ground the pepper."
+          ]
+        },
+        "more": {
+          "def": "To crush something into small bits or powder.",
+          "examples": [
+            "The mill grinds wheat into flour.",
+            "Dad ground the pepper over my salad.",
+            "The machine grinds rocks into fine sand."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rub together with a rough sound.",
+          "examples": [
+            "My teeth grind.",
+            "The gears grind.",
+            "The wheels ground on the road."
+          ]
+        },
+        "more": {
+          "def": "To rub or scrape together, making a rough sound.",
+          "examples": [
+            "The gears ground against each other with a loud noise.",
+            "The truck's brakes ground to a stop.",
+            "He ground his heel into the dirt."
           ]
         }
       }

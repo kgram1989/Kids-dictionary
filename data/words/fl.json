@@ -29,6 +29,56 @@
     ]
   },
   {
+    "word": "flake",
+    "say": "flayk",
+    "forms": [
+      "flakes",
+      "flaked",
+      "flaking",
+      "flaky"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin, small piece of something.",
+          "examples": [
+            "A flake of snow fell on my nose.",
+            "The paint came off in flakes.",
+            "A flake of ash floated by."
+          ]
+        },
+        "more": {
+          "def": "A small, thin piece of something, such as snow or paint.",
+          "examples": [
+            "A single flake of snow landed on my nose.",
+            "Flakes of old paint peeled off the fence.",
+            "He brushed a flake of dry skin from his arm."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To come off in thin, small pieces.",
+          "examples": [
+            "The old paint flakes off.",
+            "The fish flakes.",
+            "Dry skin flakes."
+          ]
+        },
+        "more": {
+          "def": "To come off in small, thin pieces.",
+          "examples": [
+            "The old paint flakes off the wall.",
+            "The cooked fish flakes easily with a fork.",
+            "The dry bark flaked away from the tree."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "flame",
     "say": "flaym",
     "emoji": "🔥",
@@ -101,6 +151,55 @@
             "Lift the flap to see the picture.",
             "The tent door is a flap of cloth.",
             "The flap of the envelope was sticky."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flare",
+    "say": "flair",
+    "forms": [
+      "flares",
+      "flared",
+      "flaring"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bright light that you use to give a signal.",
+          "examples": [
+            "The boat shot up a flare.",
+            "A red flare lit the sky.",
+            "The flare showed where they were."
+          ]
+        },
+        "more": {
+          "def": "A very bright light used as a signal, or a sudden bright burst of flame.",
+          "examples": [
+            "The sailors fired a flare so rescuers could find them.",
+            "A bright flare lit up the night sky for a moment.",
+            "A solar flare is a burst of light from the surface of the sun."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To burn with a sudden bright light, or to open out wide.",
+          "examples": [
+            "The match flared and went out.",
+            "The fire flared up in the stove.",
+            "The cat's nose flared."
+          ]
+        },
+        "more": {
+          "def": "To burn suddenly and brightly for a short time, or to spread out wider at one end.",
+          "examples": [
+            "The campfire flared when he added a dry log.",
+            "Her pants flare at the bottom so they swing as she walks.",
+            "The horse's nostrils flared as it galloped up the hill."
           ]
         }
       }
@@ -235,6 +334,36 @@
     ]
   },
   {
+    "word": "flatter",
+    "say": "FLAT-er",
+    "forms": [
+      "flatters",
+      "flattered",
+      "flattering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say nice things to someone to please them.",
+          "examples": [
+            "She flatters the teacher.",
+            "I was flattered.",
+            "He flattered his friend."
+          ]
+        },
+        "more": {
+          "def": "To praise someone too much, or to say nice things to please them.",
+          "examples": [
+            "He flattered the teacher with kind words to get a good grade.",
+            "I was flattered when she said she liked my drawing.",
+            "She flatters her friends by telling them they are the best."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "flavor",
     "say": "FLAY-ver",
     "forms": [
@@ -257,6 +386,36 @@
             "Vanilla is my favorite flavor of ice cream.",
             "The soup had a rich flavor.",
             "The gum lost its flavor quickly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flaw",
+    "say": "flaw",
+    "forms": [
+      "flaws",
+      "flawed",
+      "flawless"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small mistake or a bad spot in something.",
+          "examples": [
+            "There is a flaw in the cup.",
+            "Mom found a flaw in my plan.",
+            "The rug has one flaw."
+          ]
+        },
+        "more": {
+          "def": "A small fault or weak spot that stops something from being perfect.",
+          "examples": [
+            "The jeweler found a tiny flaw in the diamond.",
+            "Our plan had a flaw, so we changed it.",
+            "A crack is a flaw that can make a bridge weaker over time."
           ]
         }
       }
@@ -824,6 +983,36 @@
             "Water and juice are fluids.",
             "The doctor said to drink plenty of fluids.",
             "A fluid takes the shape of its container."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "flunk",
+    "say": "flungk",
+    "forms": [
+      "flunks",
+      "flunked",
+      "flunking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not pass a test or a class.",
+          "examples": [
+            "I hope I do not flunk the test.",
+            "He flunked the quiz.",
+            "She flunked math last year."
+          ]
+        },
+        "more": {
+          "def": "To fail a test or a class.",
+          "examples": [
+            "I studied hard so I would not flunk the spelling test.",
+            "He flunked the quiz because he did not read the chapter.",
+            "She was afraid she would flunk her driving test."
           ]
         }
       }

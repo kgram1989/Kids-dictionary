@@ -49,5 +49,54 @@
         }
       }
     ]
+  },
+  {
+    "word": "bypass",
+    "say": "BY-pas",
+    "forms": [
+      "bypasses",
+      "bypassed",
+      "bypassing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go around something instead of through it.",
+          "examples": [
+            "The road bypasses the town.",
+            "We bypass the traffic.",
+            "The path bypasses the mud."
+          ]
+        },
+        "more": {
+          "def": "To go around a place or thing instead of through it.",
+          "examples": [
+            "The new road bypasses the busy downtown streets.",
+            "We bypassed the crowd by taking a side door.",
+            "The river bypasses the town and flows into a lake."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A road that goes around a town.",
+          "examples": [
+            "We took the bypass.",
+            "The bypass is fast.",
+            "A bypass goes around the city."
+          ]
+        },
+        "more": {
+          "def": "A road that goes around a town or a busy area instead of through it.",
+          "examples": [
+            "We took the bypass to avoid the heavy traffic downtown.",
+            "A new bypass was built to take trucks around the town.",
+            "The bypass saved us ten minutes on the trip."
+          ]
+        }
+      }
+    ]
   }
 ]

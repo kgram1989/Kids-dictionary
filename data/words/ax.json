@@ -1,5 +1,36 @@
 [
   {
+    "word": "ax",
+    "say": "aks",
+    "emoji": "🪓",
+    "forms": [
+      "axe",
+      "axes",
+      "axed"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool with a sharp blade for chopping wood.",
+          "examples": [
+            "Dad used an ax to chop wood.",
+            "The ax is sharp.",
+            "Grandpa has an ax."
+          ]
+        },
+        "more": {
+          "def": "A tool with a heavy, sharp blade on a long handle, used for cutting wood.",
+          "examples": [
+            "Dad used an ax to split firewood for the stove.",
+            "The ax is kept in the shed and is only for grown-ups.",
+            "The woodcutter swung his ax and the log split in two."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "axe",
     "say": "aks",
     "forms": [
@@ -22,6 +53,53 @@
             "Dad chopped logs with an axe.",
             "The axe was very sharp.",
             "He put the axe in the shed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "axis",
+    "say": "AK-siss",
+    "forms": [
+      "axes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An imaginary line that something spins around.",
+          "examples": [
+            "The Earth spins on its axis.",
+            "A top spins on an axis.",
+            "The wheel turns on an axis."
+          ]
+        },
+        "more": {
+          "def": "An imaginary line through the middle of something that it turns around.",
+          "examples": [
+            "The Earth spins on its axis once every day.",
+            "A wheel turns around a central axis.",
+            "The wheel and its axle share the same axis."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A line along the side of a graph.",
+          "examples": [
+            "The graph has an axis.",
+            "Label the axis.",
+            "The x axis goes across."
+          ]
+        },
+        "more": {
+          "def": "A line that runs along the side or bottom of a graph and is marked with numbers.",
+          "examples": [
+            "The graph has two axes, one going up and one going across.",
+            "Label the bottom axis with the days of the week.",
+            "The numbers on the left axis show how many."
           ]
         }
       }

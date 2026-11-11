@@ -218,6 +218,55 @@
     ]
   },
   {
+    "word": "drape",
+    "say": "drayp",
+    "forms": [
+      "drapes",
+      "draped",
+      "draping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hang cloth loosely over something.",
+          "examples": [
+            "I drape a blanket over the chair.",
+            "She draped a towel on her arm.",
+            "Dad draped a cloth over the table."
+          ]
+        },
+        "more": {
+          "def": "To cover or hang cloth loosely over something.",
+          "examples": [
+            "I draped a blanket over the back of the chair.",
+            "She draped a scarf around her shoulders.",
+            "The tablecloth was draped over the table in soft folds."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A heavy curtain.",
+          "examples": [
+            "The drape is blue.",
+            "Open the drape.",
+            "The drapes are thick."
+          ]
+        },
+        "more": {
+          "def": "A long, heavy curtain that hangs over a window.",
+          "examples": [
+            "The heavy drapes kept out the bright morning sun.",
+            "She pulled back the drape and looked out the window.",
+            "The old house had long velvet drapes in every room."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "draw",
     "say": "draw",
     "forms": [
@@ -296,6 +345,34 @@
             "The socks are in the top drawer.",
             "He pulled open the kitchen drawer.",
             "The desk has three drawers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drawers",
+    "say": "drorz",
+    "forms": [
+      "drawer"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sliding boxes in a dresser or desk.",
+          "examples": [
+            "The drawers are full of socks.",
+            "Open the top drawer.",
+            "I put my shirts in the drawers."
+          ]
+        },
+        "more": {
+          "def": "Boxes that slide in and out of a desk, dresser or cabinet, used to keep things in.",
+          "examples": [
+            "The socks are in the top drawer of the dresser.",
+            "Open the kitchen drawers to find a spoon.",
+            "He put his pencils in the desk drawers."
           ]
         }
       }
@@ -430,6 +507,34 @@
       {
         "word": "dreamlike",
         "def": "Like a dream."
+      }
+    ]
+  },
+  {
+    "word": "dreamer",
+    "say": "DREE-mer",
+    "forms": [
+      "dreamers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who thinks about things they hope for.",
+          "examples": [
+            "He is a dreamer.",
+            "A dreamer looked at the stars.",
+            "She is a big dreamer."
+          ]
+        },
+        "more": {
+          "def": "A person who often imagines things and thinks about what they hope to do in the future.",
+          "examples": [
+            "He is a dreamer who wants to travel to the moon.",
+            "The dreamer sat by the window and watched the clouds.",
+            "She was a dreamer, always thinking up new ideas."
+          ]
+        }
       }
     ]
   },
@@ -822,6 +927,74 @@
     ]
   },
   {
+    "word": "drone",
+    "say": "drohn",
+    "forms": [
+      "drones",
+      "droned",
+      "droning"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small flying machine with no person inside.",
+          "examples": [
+            "A drone flew over the field.",
+            "The drone has a camera.",
+            "I saw a drone in the sky."
+          ]
+        },
+        "more": {
+          "def": "An aircraft with no pilot inside that is flown from the ground by remote control.",
+          "examples": [
+            "A drone flew over the field and took pictures of the crops.",
+            "The rescue team used a drone to search the forest.",
+            "He controlled the drone with a handheld remote."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A male bee that does not make honey.",
+          "examples": [
+            "A drone is a male bee.",
+            "The drone did not sting.",
+            "Drones live in the hive."
+          ]
+        },
+        "more": {
+          "def": "A male honeybee that does not gather food or make honey.",
+          "examples": [
+            "A drone is a male bee that lives in the hive.",
+            "Drones cannot sting, because they do not have a stinger.",
+            "Worker bees collect nectar, but the drones do not."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a low humming sound that goes on and on.",
+          "examples": [
+            "The bees drone in the garden.",
+            "The fan droned.",
+            "He droned on and on."
+          ]
+        },
+        "more": {
+          "def": "To make a steady low humming sound, or to talk in a dull way for a long time.",
+          "examples": [
+            "The bees droned lazily among the flowers.",
+            "The fan droned all through the hot afternoon.",
+            "The speaker droned on until half the class was asleep."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drool",
     "say": "drool",
     "forms": [
@@ -1024,6 +1197,34 @@
     ]
   },
   {
+    "word": "drugstore",
+    "say": "DRUG-stor",
+    "forms": [
+      "drugstores"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shop that sells medicine and other things you need.",
+          "examples": [
+            "We went to the drugstore.",
+            "Mom bought a bandage at the drugstore.",
+            "The drugstore is open."
+          ]
+        },
+        "more": {
+          "def": "A store that sells medicine, bandages and other everyday things.",
+          "examples": [
+            "Mom bought cough medicine at the drugstore.",
+            "The drugstore on the corner also sells cards and candy.",
+            "He walked to the drugstore to pick up a bandage and soap."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drum",
     "say": "drum",
     "emoji": "🥁",
@@ -1049,6 +1250,35 @@
             "The drum beat fast during the parade.",
             "He plays the drums in the band.",
             "She tapped the drum with two sticks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drummer",
+    "say": "DRUM-er",
+    "emoji": "🥁",
+    "forms": [
+      "drummers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who plays the drums.",
+          "examples": [
+            "The drummer kept the beat.",
+            "My brother is a drummer.",
+            "The drummer played loud."
+          ]
+        },
+        "more": {
+          "def": "A person who plays the drums.",
+          "examples": [
+            "The drummer kept the beat while the band played.",
+            "My brother is a drummer in the school band.",
+            "The drummer struck the cymbals at the end of the song."
           ]
         }
       }
@@ -1108,6 +1338,34 @@
       {
         "word": "dryness",
         "def": "Being dry."
+      }
+    ]
+  },
+  {
+    "word": "dryer",
+    "say": "DRY-er",
+    "forms": [
+      "dryers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that dries clothes.",
+          "examples": [
+            "I put my wet socks in the dryer.",
+            "The dryer is warm.",
+            "Dad turned on the dryer."
+          ]
+        },
+        "more": {
+          "def": "A machine that uses warm air to dry things, such as clothes or hair.",
+          "examples": [
+            "Mom took the warm towels out of the dryer.",
+            "A hair dryer blows hot air to dry wet hair.",
+            "The dryer buzzed when the clothes were done."
+          ]
+        }
       }
     ]
   }

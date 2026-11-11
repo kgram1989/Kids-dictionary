@@ -29,6 +29,53 @@
     ]
   },
   {
+    "word": "void",
+    "say": "voyd",
+    "forms": [
+      "voids"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big empty space.",
+          "examples": [
+            "Space is a void.",
+            "We looked into the void.",
+            "The cave was a dark void."
+          ]
+        },
+        "more": {
+          "def": "A large empty space with nothing in it.",
+          "examples": [
+            "The astronaut gazed into the dark void of space.",
+            "A cold void opened up beneath the bridge.",
+            "The cave was a black void that seemed to go on forever."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Of no use or force under a rule.",
+          "examples": [
+            "The old ticket is void.",
+            "The contract is void.",
+            "The coupon is void."
+          ]
+        },
+        "more": {
+          "def": "Having no force or use under a rule or a contract.",
+          "examples": [
+            "The coupon is void after the end of the month.",
+            "The contract was void because no one had signed it.",
+            "A ticket that is torn in half is void."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "volcano",
     "say": "vol-KAY-noh",
     "emoji": "🌋",

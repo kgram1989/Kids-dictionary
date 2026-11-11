@@ -526,6 +526,34 @@
     ]
   },
   {
+    "word": "scholar",
+    "say": "SKOL-er",
+    "forms": [
+      "scholars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who studies a lot.",
+          "examples": [
+            "The scholar read many books.",
+            "A scholar studied the old map.",
+            "She wants to be a scholar."
+          ]
+        },
+        "more": {
+          "def": "A person who studies a subject very deeply and knows a great deal about it.",
+          "examples": [
+            "The scholar spent years studying ancient languages.",
+            "A famous scholar gave a talk about the history of the town.",
+            "The library was full of scholars reading old books."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "school",
     "say": "skool",
     "forms": [
@@ -802,6 +830,35 @@
       {
         "word": "scoreless",
         "def": "With no points scored."
+      }
+    ]
+  },
+  {
+    "word": "scorpion",
+    "say": "SKOR-pee-un",
+    "emoji": "🦂",
+    "forms": [
+      "scorpions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small desert animal with eight legs and a tail that can sting.",
+          "examples": [
+            "A scorpion hid under the rock.",
+            "The scorpion has a tail.",
+            "I saw a scorpion at the museum."
+          ]
+        },
+        "more": {
+          "def": "A small animal related to spiders, with claws like a crab and a tail that can sting, found in warm dry places.",
+          "examples": [
+            "A scorpion hid under a rock to escape the hot sun.",
+            "The scorpion raised its tail as the beetle came near.",
+            "We saw a glowing scorpion under a special light at the museum."
+          ]
+        }
       }
     ]
   },
@@ -1206,6 +1263,56 @@
             "The actors learned their lines from the script.",
             "She wrote a script for a puppet show.",
             "The director gave everyone a copy of the script."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scroll",
+    "say": "skrohl",
+    "emoji": "📜",
+    "forms": [
+      "scrolls",
+      "scrolled",
+      "scrolling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long paper rolled up.",
+          "examples": [
+            "The scroll was very old.",
+            "He unrolled the scroll.",
+            "A scroll hung on the wall."
+          ]
+        },
+        "more": {
+          "def": "A long roll of paper or parchment with writing on it.",
+          "examples": [
+            "The museum had an ancient scroll in a glass case.",
+            "He unrolled the scroll and read the message aloud.",
+            "People once wrote books on long scrolls instead of pages."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move text on a screen up or down.",
+          "examples": [
+            "I scroll down the page.",
+            "Scroll to the top.",
+            "She scrolled through the pictures."
+          ]
+        },
+        "more": {
+          "def": "To move what is on a computer or phone screen up or down to see more.",
+          "examples": [
+            "I scrolled down the page to find the answer.",
+            "He scrolled through the photos on the tablet.",
+            "Scroll to the top of the page to start again."
           ]
         }
       }

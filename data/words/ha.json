@@ -588,6 +588,35 @@
     ]
   },
   {
+    "word": "handkerchief",
+    "say": "HANG-ker-chif",
+    "forms": [
+      "handkerchiefs",
+      "handkerchieves"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small square of cloth for wiping your nose.",
+          "examples": [
+            "He wiped his nose with a handkerchief.",
+            "Grandpa has a handkerchief.",
+            "I need a handkerchief."
+          ]
+        },
+        "more": {
+          "def": "A small square of cloth that you carry to wipe your nose, face or eyes.",
+          "examples": [
+            "Grandpa pulled a clean handkerchief from his pocket.",
+            "She dabbed her eyes with a lace handkerchief at the wedding.",
+            "He tied a handkerchief around his neck to keep off the dust."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "handle",
     "say": "HAN-dul",
     "forms": [
@@ -1232,6 +1261,55 @@
     ]
   },
   {
+    "word": "hassle",
+    "say": "HAS-ul",
+    "forms": [
+      "hassles",
+      "hassled",
+      "hassling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that is a bother.",
+          "examples": [
+            "It is a hassle to wait.",
+            "Packing is a hassle.",
+            "I do not want a hassle."
+          ]
+        },
+        "more": {
+          "def": "Something that is annoying or a lot of trouble.",
+          "examples": [
+            "It is a hassle to pack for a long trip.",
+            "Waiting in the long line was a big hassle.",
+            "I did not want the hassle of cleaning the whole house."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To keep bothering someone.",
+          "examples": [
+            "Do not hassle your brother.",
+            "He hassled me.",
+            "She hassles her friend."
+          ]
+        },
+        "more": {
+          "def": "To bother or annoy someone again and again.",
+          "examples": [
+            "Do not hassle your sister while she is reading.",
+            "The mosquitoes hassled us all through the picnic.",
+            "He hassled his brother until he gave him a turn."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hastily",
     "say": "HAYS-tih-lee",
     "senses": [
@@ -1481,6 +1559,63 @@
             "The horses ate hay in the barn.",
             "The farmer stacked bales of hay.",
             "We jumped into the pile of hay."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hazard",
+    "say": "HAZ-erd",
+    "forms": [
+      "hazards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that could cause harm or danger.",
+          "examples": [
+            "A wet floor is a hazard.",
+            "The toy on the stairs is a hazard.",
+            "Ice is a hazard."
+          ]
+        },
+        "more": {
+          "def": "Something that can cause harm, danger or accidents.",
+          "examples": [
+            "A wet floor can be a hazard, so watch your step.",
+            "The sign warned drivers of ice, a hazard on the road.",
+            "Loose rocks are a hazard to anyone hiking on the trail."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "haze",
+    "say": "hayz",
+    "forms": [
+      "hazes",
+      "hazy"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin cloud of dust or smoke in the air.",
+          "examples": [
+            "A haze hung over the hills.",
+            "The haze made it hard to see.",
+            "We saw haze in the sky."
+          ]
+        },
+        "more": {
+          "def": "A thin mist of dust, smoke or tiny drops of water in the air that makes it hard to see far.",
+          "examples": [
+            "A summer haze covered the valley and hid the far hills.",
+            "Haze from the distant fire turned the sun a dull orange.",
+            "A morning haze rose from the warm lake."
           ]
         }
       }

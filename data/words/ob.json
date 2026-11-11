@@ -114,6 +114,56 @@
     ]
   },
   {
+    "word": "obscure",
+    "say": "ub-SKYUR",
+    "forms": [
+      "obscures",
+      "obscured",
+      "obscuring",
+      "obscurely"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Hard to see or understand.",
+          "examples": [
+            "The writing was obscure.",
+            "An obscure path is in the woods.",
+            "The meaning is obscure."
+          ]
+        },
+        "more": {
+          "def": "Not well known, or hard to see or to understand.",
+          "examples": [
+            "The writing on the old stone was too obscure to read.",
+            "She loves obscure books that few other people have heard of.",
+            "An obscure path led off into the woods."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hide something or make it hard to see.",
+          "examples": [
+            "The clouds obscure the sun.",
+            "Fog obscured the road.",
+            "A hat obscured his face."
+          ]
+        },
+        "more": {
+          "def": "To make something hard to see or to understand.",
+          "examples": [
+            "Thick clouds obscured the top of the mountain.",
+            "A big hat obscured his face from the camera.",
+            "Heavy fog obscured the road so drivers had to slow down."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "observation",
     "say": "ob-zer-VAY-shun",
     "forms": [
@@ -167,6 +217,34 @@
             "The class observed how the caterpillar changed over two weeks.",
             "Doctors observed the patient overnight.",
             "If you observe the sky tonight, you may see a comet."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "observer",
+    "say": "ub-ZER-ver",
+    "forms": [
+      "observers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who watches closely.",
+          "examples": [
+            "The observer sat very still.",
+            "The observer wrote down what she saw.",
+            "I am an observer today."
+          ]
+        },
+        "more": {
+          "def": "A person who watches something carefully, often to learn about it.",
+          "examples": [
+            "A careful observer noticed the bird building its nest.",
+            "The observers took notes as the experiment began.",
+            "An observer at the game counted every point."
           ]
         }
       }

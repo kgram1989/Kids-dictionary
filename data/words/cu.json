@@ -1,5 +1,34 @@
 [
   {
+    "word": "cub",
+    "say": "kub",
+    "emoji": "🐻",
+    "forms": [
+      "cubs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A baby bear, lion or fox.",
+          "examples": [
+            "The bear cub is cute.",
+            "A cub played in the grass.",
+            "The lion cub ran."
+          ]
+        },
+        "more": {
+          "def": "The young of some wild animals, such as bears, lions and foxes.",
+          "examples": [
+            "The bear cub followed its mother through the woods.",
+            "A lion cub pounced on its sister's tail.",
+            "The fox cubs played outside the den."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cube",
     "say": "kyoob",
     "forms": [
@@ -131,6 +160,34 @@
     ]
   },
   {
+    "word": "cunning",
+    "say": "KUN-ing",
+    "forms": [
+      "cunningly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Clever, often in a sneaky way.",
+          "examples": [
+            "The cunning fox tricked the crow.",
+            "She made a cunning plan.",
+            "The cunning cat caught the bird."
+          ]
+        },
+        "more": {
+          "def": "Clever at getting what you want, often by tricking others.",
+          "examples": [
+            "The cunning fox tricked the crow into dropping the cheese.",
+            "She made a cunning plan to win the game.",
+            "The cunning cat waited quietly for the mouse."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cup",
     "say": "kup",
     "emoji": "☕",
@@ -173,6 +230,84 @@
             "The recipe calls for one cup of flour.",
             "Add two cups of water to the pot.",
             "Measure a cup of rice."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cupcake",
+    "say": "KUP-kayk",
+    "emoji": "🧁",
+    "forms": [
+      "cupcakes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small cake with icing on top.",
+          "examples": [
+            "I ate a cupcake.",
+            "The cupcake has pink icing.",
+            "Mom baked cupcakes for my party."
+          ]
+        },
+        "more": {
+          "def": "A small cake baked in a paper cup, often with icing on top.",
+          "examples": [
+            "Each cupcake had a sprinkle of colored sugar on top.",
+            "We baked a dozen cupcakes for the school bake sale.",
+            "She put a candle on her birthday cupcake and made a wish."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "curb",
+    "say": "kerb",
+    "forms": [
+      "curbs",
+      "curbed",
+      "curbing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The edge of the sidewalk next to the street.",
+          "examples": [
+            "Stop at the curb.",
+            "He sat on the curb.",
+            "The car parked by the curb."
+          ]
+        },
+        "more": {
+          "def": "The raised edge of a sidewalk where it meets the street.",
+          "examples": [
+            "Stop at the curb and look both ways before you cross.",
+            "The car parked next to the curb in front of our house.",
+            "We sat on the curb and ate ice cream."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hold back or control.",
+          "examples": [
+            "I curb my temper.",
+            "We must curb our spending.",
+            "He curbed his appetite."
+          ]
+        },
+        "more": {
+          "def": "To hold something back or keep it under control.",
+          "examples": [
+            "I tried to curb my laughing in class.",
+            "We must curb our spending until payday.",
+            "She curbed her temper and spoke calmly."
           ]
         }
       }
@@ -230,6 +365,34 @@
       {
         "word": "curable",
         "def": "Able to be cured."
+      }
+    ]
+  },
+  {
+    "word": "curfew",
+    "say": "KER-fyoo",
+    "forms": [
+      "curfews"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A time when you must be home.",
+          "examples": [
+            "My curfew is at nine.",
+            "I got home before curfew.",
+            "Our curfew is when it gets dark."
+          ]
+        },
+        "more": {
+          "def": "A rule that says people must be home or off the streets by a set time.",
+          "examples": [
+            "My older brother has a curfew of ten o'clock on weekends.",
+            "The town set a curfew so everyone would be home by dark.",
+            "Campers had a curfew, and lights went out at nine."
+          ]
+        }
       }
     ]
   },
@@ -308,6 +471,57 @@
             "The squirrel peered curiously at the camera.",
             "The children peeked curiously through the window.",
             "She asked curiously about the old coin."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "curl",
+    "say": "kerl",
+    "emoji": "🌀",
+    "forms": [
+      "curls",
+      "curled",
+      "curling",
+      "curly"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bit of hair that bends in a round shape.",
+          "examples": [
+            "She has a curl on her head.",
+            "A curl fell over my eye.",
+            "He has red curls."
+          ]
+        },
+        "more": {
+          "def": "A small, round, bent shape, such as a lock of hair or a ribbon.",
+          "examples": [
+            "A single golden curl hung down over her forehead.",
+            "A curl of smoke rose up from the campfire.",
+            "The baby had soft dark curls all over her head."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To bend or twist into a round shape.",
+          "examples": [
+            "The kitten curled up in my lap.",
+            "My hair curls when it is wet.",
+            "Leaves curl in the sun."
+          ]
+        },
+        "more": {
+          "def": "To twist into rings or round shapes, or to curve around something.",
+          "examples": [
+            "The cat curled up on the sofa and fell asleep.",
+            "Heat made the edges of the paper curl.",
+            "The snake curled itself around a branch."
           ]
         }
       }

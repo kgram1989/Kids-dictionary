@@ -351,6 +351,54 @@
     ]
   },
   {
+    "word": "calf",
+    "say": "kaf",
+    "emoji": "🐄",
+    "forms": [
+      "calves"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A baby cow.",
+          "examples": [
+            "The calf drinks milk.",
+            "A calf was born on the farm.",
+            "The calf stood up."
+          ]
+        },
+        "more": {
+          "def": "The young of a cow, or of some other large animals such as whales and elephants.",
+          "examples": [
+            "The calf stayed close to its mother in the field.",
+            "A baby elephant is called a calf.",
+            "A whale calf swam beside its mother."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The back part of your leg between your knee and your ankle.",
+          "examples": [
+            "My calf hurts after the run.",
+            "A bug bit my calf.",
+            "The calf is part of the leg."
+          ]
+        },
+        "more": {
+          "def": "The thick, fleshy part at the back of the lower leg, between the knee and the ankle.",
+          "examples": [
+            "Her calf muscle was sore after the long hike.",
+            "The soccer ball hit him in the calf.",
+            "Runners stretch their calves before a race."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "call",
     "say": "kawl",
     "forms": [
@@ -496,6 +544,34 @@
             "She spoke calmly during the fire drill.",
             "He walked calmly out of the room.",
             "The pilot calmly landed the plane."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cam",
+    "say": "kam",
+    "forms": [
+      "cams"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A camera that is used to watch or show something.",
+          "examples": [
+            "The cam shows the baby birds.",
+            "We watched the zoo cam.",
+            "A cam is on the porch."
+          ]
+        },
+        "more": {
+          "def": "A short word for a camera, especially one that sends live pictures to a screen.",
+          "examples": [
+            "The zoo cam lets us watch the pandas live.",
+            "A cam on the porch showed who was at the door.",
+            "We turned on the web cam to talk to Grandpa."
           ]
         }
       }
@@ -964,6 +1040,31 @@
     ]
   },
   {
+    "word": "canned",
+    "say": "kand",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sold in a metal can.",
+          "examples": [
+            "We ate canned soup.",
+            "I like canned corn.",
+            "The canned beans are in the pantry."
+          ]
+        },
+        "more": {
+          "def": "Packed in a sealed metal can so that it lasts a long time.",
+          "examples": [
+            "We ate canned soup for lunch.",
+            "Canned peaches stay fresh for many months.",
+            "Mom keeps canned beans in the pantry for busy nights."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cannon",
     "say": "KAN-un",
     "forms": [
@@ -986,6 +1087,104 @@
             "An old cannon stands at the fort.",
             "The pirate ship had a cannon.",
             "A cannon boomed to start the parade."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "canoe",
+    "say": "kuh-NOO",
+    "emoji": "🛶",
+    "forms": [
+      "canoes",
+      "canoed",
+      "canoeing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A light, narrow boat that you move with a paddle.",
+          "examples": [
+            "We rode in a canoe.",
+            "The canoe floated.",
+            "I paddled the canoe."
+          ]
+        },
+        "more": {
+          "def": "A light, narrow boat with pointed ends that you move with a paddle.",
+          "examples": [
+            "We paddled a canoe across the quiet lake.",
+            "The canoe slid smoothly through the water.",
+            "Two campers carried the canoe from the river to the car."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To travel in a light, narrow boat.",
+          "examples": [
+            "We canoe on the lake.",
+            "They canoed all day.",
+            "I like to canoe."
+          ]
+        },
+        "more": {
+          "def": "To paddle a light, narrow boat across water.",
+          "examples": [
+            "We canoe on the lake every summer.",
+            "They canoed down the river for three days.",
+            "I learned to canoe at camp."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "canvas",
+    "say": "KAN-vus",
+    "forms": [
+      "canvases",
+      "canvasses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong, thick cloth used for tents and sails.",
+          "examples": [
+            "The tent is made of canvas.",
+            "My shoes are canvas.",
+            "The boat has a canvas sail."
+          ]
+        },
+        "more": {
+          "def": "A strong, rough cloth used to make tents, sails, bags and shoes.",
+          "examples": [
+            "The sailors raised the canvas sail to catch the wind.",
+            "We slept under a canvas tent in the woods.",
+            "His old canvas shoes were worn thin from walking."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece of cloth that an artist paints on.",
+          "examples": [
+            "She painted on a canvas.",
+            "The canvas is white.",
+            "He hung a canvas on the wall."
+          ]
+        },
+        "more": {
+          "def": "A piece of strong cloth stretched on a frame for an artist to paint on, or the painting itself.",
+          "examples": [
+            "The artist covered the canvas with bright blue and yellow.",
+            "The gallery hung a huge canvas over the staircase.",
+            "She bought a new canvas and a tube of green paint."
           ]
         }
       }
@@ -1327,6 +1526,54 @@
             "She dealt seven cards to each player.",
             "A deck of cards has fifty-two cards.",
             "He drew a card and smiled."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cardinal",
+    "say": "KAR-dun-ul",
+    "emoji": "🐦",
+    "forms": [
+      "cardinals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bright red bird with a pointed crest on its head.",
+          "examples": [
+            "A cardinal is in the tree.",
+            "The cardinal is red.",
+            "We saw a cardinal at the feeder."
+          ]
+        },
+        "more": {
+          "def": "A songbird, the male of which is bright red, with a crest of feathers on its head.",
+          "examples": [
+            "A bright red cardinal sat on the snowy branch.",
+            "Cardinals come to the feeder to eat sunflower seeds.",
+            "The female cardinal is tan with a touch of red."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Most important.",
+          "examples": [
+            "That is a cardinal rule.",
+            "The cardinal rule is to be kind.",
+            "Safety is our cardinal rule."
+          ]
+        },
+        "more": {
+          "def": "Most important; chief.",
+          "examples": [
+            "The cardinal rule at the pool is to never run.",
+            "Telling the truth is a cardinal rule in our family.",
+            "He broke the cardinal rule of camping by leaving food out."
           ]
         }
       }
@@ -2097,6 +2344,34 @@
             "Fruit is one category of food.",
             "The books were sorted into categories.",
             "She won in the art category."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cathedral",
+    "say": "kuh-THEE-drul",
+    "forms": [
+      "cathedrals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very large and important church.",
+          "examples": [
+            "We visited a cathedral.",
+            "The cathedral is tall.",
+            "A cathedral has a high ceiling."
+          ]
+        },
+        "more": {
+          "def": "A very large church, often old and richly decorated, that is the main church of an area.",
+          "examples": [
+            "We visited a huge stone cathedral on our trip to Europe.",
+            "Colored light poured through the stained glass windows of the cathedral.",
+            "Workers took hundreds of years to build the cathedral."
           ]
         }
       }

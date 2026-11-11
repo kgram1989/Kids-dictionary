@@ -1,5 +1,35 @@
 [
   {
+    "word": "diagnose",
+    "say": "dy-ug-NOHSS",
+    "forms": [
+      "diagnoses",
+      "diagnosed",
+      "diagnosing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To find out what is wrong when someone is sick.",
+          "examples": [
+            "The doctor will diagnose me.",
+            "She diagnosed the cause.",
+            "A mechanic can diagnose a car problem."
+          ]
+        },
+        "more": {
+          "def": "To find out what illness or problem someone or something has by checking it carefully.",
+          "examples": [
+            "The doctor diagnosed the problem as a cold.",
+            "The vet diagnosed a sore paw on the dog.",
+            "A mechanic can diagnose why a car will not start."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dial",
     "say": "DY-ul",
     "forms": [
@@ -52,6 +82,34 @@
       {
         "word": "redial",
         "def": "To dial again."
+      }
+    ]
+  },
+  {
+    "word": "dialogue",
+    "say": "DY-uh-log",
+    "forms": [
+      "dialogues"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A talk between two or more people.",
+          "examples": [
+            "We read a dialogue in class.",
+            "The dialogue was funny.",
+            "The play has a lot of dialogue."
+          ]
+        },
+        "more": {
+          "def": "The words that people in a story, play or movie say to each other.",
+          "examples": [
+            "The actors practiced the dialogue for the school play.",
+            "A dialogue between two characters filled the page of the book.",
+            "The dialogue in the movie was funny and quick."
+          ]
+        }
       }
     ]
   },
@@ -205,6 +263,42 @@
             "The game needs two dice."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "dictate",
+    "say": "DIK-tayt",
+    "forms": [
+      "dictates",
+      "dictated",
+      "dictating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say words out loud for someone else to write down.",
+          "examples": [
+            "The teacher dictates the spelling words.",
+            "I dictated a letter.",
+            "She dictated a message."
+          ]
+        },
+        "more": {
+          "def": "To speak words aloud so that someone else can write them down.",
+          "examples": [
+            "The teacher dictates the spelling words and we write them.",
+            "Grandpa dictated a letter to me because his hands were tired.",
+            "The writer dictated her story into a recorder."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "dictation",
+        "def": "Words that are said out loud to be written down."
       }
     ]
   },
@@ -422,6 +516,55 @@
             "The dog dug a hole under the fence.",
             "We dug for clams at the beach.",
             "Workers dig a trench for the pipes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "digest",
+    "say": "dy-JEST",
+    "forms": [
+      "digests",
+      "digested",
+      "digesting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To break food down inside your body.",
+          "examples": [
+            "Your stomach helps you digest food.",
+            "Cows digest grass.",
+            "I digested my lunch."
+          ]
+        },
+        "more": {
+          "def": "To break food down in the stomach and body so that it can be used for energy.",
+          "examples": [
+            "Your stomach helps you digest the food you eat.",
+            "Cows have four stomach parts to help them digest grass.",
+            "It takes a few hours to digest a big lunch."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To think about something until you understand it.",
+          "examples": [
+            "I need time to digest the news.",
+            "She digested the facts.",
+            "He digested the lesson."
+          ]
+        },
+        "more": {
+          "def": "To take in and understand information.",
+          "examples": [
+            "I need time to digest what I just read.",
+            "She sat quietly and digested the news.",
+            "It took a while to digest all the facts in the chapter."
           ]
         }
       }
@@ -1037,6 +1180,34 @@
             "The snow disappeared as soon as the weather warmed up.",
             "The plane disappeared into the clouds.",
             "The stain disappeared after we washed the shirt."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "disappearance",
+    "say": "dis-uh-PEER-unss",
+    "forms": [
+      "disappearances"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When something goes away and can't be found.",
+          "examples": [
+            "The disappearance of my sock is a mystery.",
+            "We noticed the disappearance of the cookies.",
+            "His disappearance puzzled us."
+          ]
+        },
+        "more": {
+          "def": "The act of going out of sight, or of no longer being there.",
+          "examples": [
+            "The disappearance of the cookies from the jar was a puzzle.",
+            "Scientists are studying the disappearance of the frogs from the pond.",
+            "The magician's trick ended with the disappearance of a rabbit."
           ]
         }
       }
@@ -1696,6 +1867,36 @@
     ]
   },
   {
+    "word": "disobey",
+    "say": "dis-uh-BAY",
+    "forms": [
+      "disobeys",
+      "disobeyed",
+      "disobeying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not do what you were told.",
+          "examples": [
+            "The puppy disobeyed.",
+            "Do not disobey the rule.",
+            "He disobeyed his dad."
+          ]
+        },
+        "more": {
+          "def": "To refuse to follow a rule or what someone tells you to do.",
+          "examples": [
+            "The puppy disobeyed and ran into the street.",
+            "Do not disobey the rules at the pool.",
+            "He disobeyed his mom and stayed up late, then felt tired."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "disorder",
     "say": "dis-OR-der",
     "forms": [
@@ -1852,6 +2053,36 @@
             "I disposed of the empty bottles.",
             "Dispose of the trash in the bin.",
             "They disposed of the old tires properly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "disregard",
+    "say": "dis-rih-GARD",
+    "forms": [
+      "disregards",
+      "disregarded",
+      "disregarding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not pay attention to something.",
+          "examples": [
+            "Please disregard the first sentence.",
+            "He disregarded the sign.",
+            "They disregarded the rules."
+          ]
+        },
+        "more": {
+          "def": "To ignore something or treat it as not important.",
+          "examples": [
+            "Please disregard my last message, because it was a mistake.",
+            "He disregarded the sign and walked on the grass.",
+            "The driver disregarded the speed limit."
           ]
         }
       }
@@ -2141,6 +2372,34 @@
     ]
   },
   {
+    "word": "disturbance",
+    "say": "dis-TER-bunss",
+    "forms": [
+      "disturbances"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that stops people from being quiet or calm.",
+          "examples": [
+            "The loud noise was a disturbance.",
+            "There was a disturbance outside.",
+            "Please, no disturbance."
+          ]
+        },
+        "more": {
+          "def": "Something that interrupts or upsets a quiet, calm or normal situation.",
+          "examples": [
+            "A loud siren outside caused a disturbance in the library.",
+            "The storm caused a disturbance in the weather all across the state.",
+            "Scientists measure any disturbance in the ground after an earthquake."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "disturbing",
     "say": "dis-TER-bing",
     "senses": [
@@ -2220,6 +2479,35 @@
             "She dived into the pool with a splash.",
             "The seal dove deep under the waves.",
             "The swimmers dove for coins at the bottom."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "diver",
+    "say": "DY-ver",
+    "emoji": "🤿",
+    "forms": [
+      "divers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who swims under the water.",
+          "examples": [
+            "The diver swam down.",
+            "A diver found a shell.",
+            "The diver wore a mask."
+          ]
+        },
+        "more": {
+          "def": "A person who swims deep under the water, or who dives from a high board.",
+          "examples": [
+            "The diver swam down to look at the coral reef.",
+            "A diver found an old coin on the ocean floor.",
+            "The diver did two flips before she hit the water."
           ]
         }
       }

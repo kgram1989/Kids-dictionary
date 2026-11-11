@@ -89,6 +89,55 @@
     ]
   },
   {
+    "word": "slash",
+    "say": "slash",
+    "forms": [
+      "slashes",
+      "slashed",
+      "slashing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cut with a long, quick swing.",
+          "examples": [
+            "The farmer will slash the weeds.",
+            "She slashed the tape with scissors.",
+            "He slashed the air with a stick."
+          ]
+        },
+        "more": {
+          "def": "To cut with a long, quick sweep; also to lower something by a large amount.",
+          "examples": [
+            "The gardener slashed through the tall weeds with a machete.",
+            "The store slashed prices to sell the old coats.",
+            "The explorer slashed a path through the thick jungle."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A leaning line, like this: /",
+          "examples": [
+            "A slash is on the keyboard.",
+            "Put a slash between the words.",
+            "Type a slash here."
+          ]
+        },
+        "more": {
+          "def": "A slanting mark (/) used in writing to show a choice or to divide parts of a web address.",
+          "examples": [
+            "Use a slash between and/or to show a choice.",
+            "The web address has a slash after the dot-com.",
+            "The date was written with slashes, like 4/5/2025."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "slave",
     "say": "slayv",
     "forms": [
@@ -111,6 +160,31 @@
             "Harriet Tubman helped many slaves escape to freedom.",
             "In the past, slaves were bought and sold, which was wrong and cruel.",
             "Our class read a story about a slave who learned to read in secret."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "slavery",
+    "say": "SLAY-vuh-ree",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A time when people were owned by others and forced to work.",
+          "examples": [
+            "We learned about slavery.",
+            "Slavery was wrong.",
+            "Slavery ended long ago."
+          ]
+        },
+        "more": {
+          "def": "A system in which people are owned by others and forced to work without pay; it is cruel and wrong.",
+          "examples": [
+            "We learned in history class that slavery was wrong.",
+            "Many brave people worked to end slavery.",
+            "Slavery ended in the United States after the Civil War."
           ]
         }
       }
@@ -539,6 +613,103 @@
             "Be careful, because the floor is slippery when it is wet.",
             "The soap was too slippery to hold.",
             "Wet leaves made the sidewalk slippery."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "slit",
+    "say": "slit",
+    "forms": [
+      "slits",
+      "slitting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, narrow cut or opening.",
+          "examples": [
+            "There is a slit in the bag.",
+            "The mail goes in a slit.",
+            "A slit in the tent lets in air."
+          ]
+        },
+        "more": {
+          "def": "A long, thin cut or opening.",
+          "examples": [
+            "The mail slipped through the slit in the door.",
+            "A small slit in the tent let in a cool breeze.",
+            "The cat peered through a slit in the fence."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a long, thin cut.",
+          "examples": [
+            "Slit the bag open.",
+            "She slit the tape.",
+            "Dad slits the box."
+          ]
+        },
+        "more": {
+          "def": "To cut something open with a long, thin cut.",
+          "examples": [
+            "He slit the envelope open with a letter opener.",
+            "She slit the tape on the box to open it.",
+            "The baker slit the top of the loaf before baking."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "slope",
+    "say": "slohp",
+    "forms": [
+      "slopes",
+      "sloped",
+      "sloping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A surface that goes up or down at a slant.",
+          "examples": [
+            "We slid down the slope.",
+            "The slope is steep.",
+            "Snow covered the slope."
+          ]
+        },
+        "more": {
+          "def": "A surface that is higher at one end than the other.",
+          "examples": [
+            "We slid down the snowy slope on a sled.",
+            "The roof has a steep slope so that rain runs off.",
+            "Skiers raced down the slope."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go up or down at a slant.",
+          "examples": [
+            "The roof slopes down.",
+            "The hill slopes.",
+            "The land slopes to the lake."
+          ]
+        },
+        "more": {
+          "def": "To rise or fall at an angle.",
+          "examples": [
+            "The roof slopes down toward the porch.",
+            "The field slopes gently toward the river.",
+            "The path sloped upward through the trees."
           ]
         }
       }

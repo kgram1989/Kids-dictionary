@@ -486,6 +486,31 @@
     ]
   },
   {
+    "word": "decency",
+    "say": "DEE-sun-see",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being polite, fair and kind in how you act.",
+          "examples": [
+            "He had the decency to say sorry.",
+            "Decency means being kind.",
+            "She showed decency to everyone."
+          ]
+        },
+        "more": {
+          "def": "Good, polite and fair behavior toward other people.",
+          "examples": [
+            "He had the decency to say sorry for breaking my toy.",
+            "Common decency means thanking people who help you.",
+            "A little decency would have made the day much easier for everyone."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "decent",
     "say": "DEE-sent",
     "forms": [
@@ -632,6 +657,130 @@
       {
         "word": "declaration",
         "def": "Something declared."
+      }
+    ]
+  },
+  {
+    "word": "decline",
+    "say": "dih-KLYN",
+    "forms": [
+      "declines",
+      "declined",
+      "declining"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say no politely.",
+          "examples": [
+            "I decline the cake, thank you.",
+            "She declined the invitation.",
+            "He declined to go."
+          ]
+        },
+        "more": {
+          "def": "To politely refuse something that is offered or asked.",
+          "examples": [
+            "She declined the invitation because she was busy that day.",
+            "He declined a second helping of dinner and thanked his aunt.",
+            "The mayor declined to comment about the story."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get smaller or go down.",
+          "examples": [
+            "The number of birds will decline.",
+            "Prices decline in the summer.",
+            "His energy declined late in the day."
+          ]
+        },
+        "more": {
+          "def": "To become smaller, weaker or fewer over time.",
+          "examples": [
+            "The number of frogs in the pond began to decline last year.",
+            "As the sun set, the temperature declined quickly.",
+            "The old man's strength declined slowly as he grew older."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A slow drop in size, number or strength.",
+          "examples": [
+            "There was a decline in snow.",
+            "We saw a decline in sales.",
+            "The decline was small."
+          ]
+        },
+        "more": {
+          "def": "A gradual change to something that is smaller, weaker or worse.",
+          "examples": [
+            "Scientists noticed a steady decline in the number of fish in the river.",
+            "There was a sharp decline in temperature overnight.",
+            "The decline of the old town began when the factory closed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "decoration",
+    "say": "dek-uh-RAY-shun",
+    "forms": [
+      "decorations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that makes a place look nice.",
+          "examples": [
+            "We hung a decoration on the tree.",
+            "The room has a pretty decoration.",
+            "The cake has a candy decoration."
+          ]
+        },
+        "more": {
+          "def": "Something that is added to make a person, place or thing look nicer.",
+          "examples": [
+            "We hung paper chains as party decorations.",
+            "Every holiday, the house is full of colorful decorations.",
+            "The cake had a simple decoration of fresh berries on top."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "decoy",
+    "say": "DEE-koy",
+    "forms": [
+      "decoys"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fake animal used to attract real ones.",
+          "examples": [
+            "The hunter used a duck decoy.",
+            "A wooden decoy floated on the pond.",
+            "The decoy looked real."
+          ]
+        },
+        "more": {
+          "def": "A model of an animal, such as a duck, used to attract real animals, or something used to lead attention away.",
+          "examples": [
+            "A wooden duck decoy floated on the pond.",
+            "The bird watchers set out a decoy to attract geese.",
+            "In the story, the fox used a decoy to trick the guard."
+          ]
+        }
       }
     ]
   },
@@ -855,6 +1004,35 @@
             "The team was sad after its defeat.",
             "The defeat made us practice harder.",
             "A defeat can teach you a lot."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "defect",
+    "say": "DEE-fekt",
+    "forms": [
+      "defects",
+      "defective"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bad spot or fault in something.",
+          "examples": [
+            "The toy has a defect.",
+            "The cup has a defect.",
+            "We found a defect in the shirt."
+          ]
+        },
+        "more": {
+          "def": "A flaw or fault that makes something not work or look right.",
+          "examples": [
+            "The toy had a defect, so we took it back to the store.",
+            "A small defect in the glass made it crack.",
+            "The company fixed the defect in the new bike."
           ]
         }
       }
@@ -1404,6 +1582,34 @@
             "The mail delivery comes at noon.",
             "A delivery of apples arrived at the shop.",
             "We ordered pizza, and the delivery took half an hour."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "delusion",
+    "say": "dih-LOO-zhun",
+    "forms": [
+      "delusions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wrong belief that will not go away.",
+          "examples": [
+            "He had a delusion that he could fly.",
+            "Her delusion was that the moon followed her.",
+            "The delusion went away when he saw the truth."
+          ]
+        },
+        "more": {
+          "def": "A false belief that a person holds on to even when the facts show it is wrong.",
+          "examples": [
+            "He lived with the delusion that he was always right.",
+            "She had a delusion that the old house was full of treasure.",
+            "It is a delusion to think a small lie will never be found out."
           ]
         }
       }
@@ -2586,6 +2792,53 @@
     ]
   },
   {
+    "word": "destroyer",
+    "say": "dih-STROY-er",
+    "forms": [
+      "destroyers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something or someone that wrecks things.",
+          "examples": [
+            "The storm was a destroyer.",
+            "A hurricane is a destroyer.",
+            "The fire was a destroyer."
+          ]
+        },
+        "more": {
+          "def": "A person or thing that wrecks or ruins something.",
+          "examples": [
+            "A flood can be a destroyer of homes and farms.",
+            "The bulldozer was a destroyer of old buildings.",
+            "Rust is a slow destroyer of metal."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fast ship used in a navy.",
+          "examples": [
+            "The destroyer sailed past.",
+            "A destroyer is in the harbor.",
+            "We saw a destroyer at the pier."
+          ]
+        },
+        "more": {
+          "def": "A fast warship that is used in a navy to protect other ships.",
+          "examples": [
+            "A destroyer guarded the ships as they crossed the ocean.",
+            "We toured a gray destroyer docked at the harbor.",
+            "The destroyer sailed into port at dawn."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "destruction",
     "say": "dih-STRUK-shun",
     "senses": [
@@ -2703,6 +2956,34 @@
     ]
   },
   {
+    "word": "detector",
+    "say": "dih-TEK-ter",
+    "forms": [
+      "detectors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that finds or warns about something.",
+          "examples": [
+            "The smoke detector beeped.",
+            "A detector found the metal.",
+            "Dad checks the detector."
+          ]
+        },
+        "more": {
+          "def": "A device that senses something and tells you about it.",
+          "examples": [
+            "The smoke detector beeped when the toast burned.",
+            "A metal detector found a coin buried in the sand.",
+            "Every home should have a working carbon monoxide detector."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "detention",
     "say": "dih-TEN-shun",
     "forms": [
@@ -2755,6 +3036,113 @@
             "Scientists determined how old the rock was.",
             "We will determine the winner by counting the votes.",
             "The coach determined who would play first."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "detonate",
+    "say": "DET-uh-nayt",
+    "forms": [
+      "detonates",
+      "detonated",
+      "detonating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something blow up.",
+          "examples": [
+            "Workers detonate old buildings.",
+            "The fireworks detonated.",
+            "They detonated the old bridge."
+          ]
+        },
+        "more": {
+          "def": "To make something explode, or to explode with a loud bang.",
+          "examples": [
+            "Workers carefully detonated the old tower so it would fall safely.",
+            "The fireworks detonated high in the sky with a loud bang.",
+            "The crew detonated the rock to clear a road through the mountain."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deuce",
+    "say": "doos",
+    "forms": [
+      "deuces"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A score of forty to forty in tennis.",
+          "examples": [
+            "The game is at deuce.",
+            "It was deuce.",
+            "They went to deuce."
+          ]
+        },
+        "more": {
+          "def": "A tied score of forty to forty in a game of tennis.",
+          "examples": [
+            "The game was at deuce, so the players had to win by two points.",
+            "After a long rally, the score went to deuce.",
+            "Deuce means each player has the same number of points."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A playing card with two spots.",
+          "examples": [
+            "I drew a deuce.",
+            "The deuce is a low card.",
+            "She has the deuce of hearts."
+          ]
+        },
+        "more": {
+          "def": "A card with two spots or the side of a die that shows two.",
+          "examples": [
+            "I drew the deuce of hearts from the deck.",
+            "A deuce is the lowest numbered card in many games.",
+            "He rolled a deuce on the dice."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "devastate",
+    "say": "DEV-uh-stayt",
+    "forms": [
+      "devastates",
+      "devastated",
+      "devastating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To ruin something completely.",
+          "examples": [
+            "A big storm can devastate a town.",
+            "The fire devastated the forest.",
+            "The flood devastated the farm."
+          ]
+        },
+        "more": {
+          "def": "To destroy or badly damage something over a wide area.",
+          "examples": [
+            "A powerful hurricane can devastate a whole coastal town.",
+            "The flood devastated the farmers' fields and crops.",
+            "A long drought devastated the forest and dried up the streams."
           ]
         }
       }

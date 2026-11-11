@@ -75,6 +75,55 @@
     ]
   },
   {
+    "word": "upgrade",
+    "say": "UP-grayd",
+    "forms": [
+      "upgrades",
+      "upgraded",
+      "upgrading"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something better or newer.",
+          "examples": [
+            "We upgrade our phone.",
+            "Dad upgraded the computer.",
+            "She upgraded her seat."
+          ]
+        },
+        "more": {
+          "def": "To change something for a better, newer or more powerful one.",
+          "examples": [
+            "We upgraded our computer to a faster one.",
+            "Dad upgraded my bike with new tires.",
+            "The airline upgraded her to a seat with more room."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A better or newer version of something.",
+          "examples": [
+            "The phone has an upgrade.",
+            "We got an upgrade.",
+            "The upgrade was fast."
+          ]
+        },
+        "more": {
+          "def": "A newer, better version of something, or a change that improves it.",
+          "examples": [
+            "The new game has a big upgrade.",
+            "My bike got an upgrade with new tires.",
+            "The school got an upgrade of its old computers."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "upon",
     "say": "uh-PON",
     "senses": [
@@ -195,6 +244,31 @@
             "The bedrooms are upstairs.",
             "Dad carried the laundry upstairs.",
             "Wait upstairs until I call you."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "uptight",
+    "say": "UP-tyt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Worried or nervous and not able to relax.",
+          "examples": [
+            "She felt uptight.",
+            "Do not be so uptight.",
+            "He was uptight about the test."
+          ]
+        },
+        "more": {
+          "def": "Nervous or worried, and not able to relax.",
+          "examples": [
+            "She felt uptight before the big game.",
+            "Do not be so uptight, because it is only a practice.",
+            "He got uptight when the line moved slowly."
           ]
         }
       }

@@ -535,6 +535,55 @@
     ]
   },
   {
+    "word": "ache",
+    "say": "ayk",
+    "forms": [
+      "aches",
+      "ached",
+      "aching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To have a steady pain.",
+          "examples": [
+            "My tooth aches.",
+            "My legs ache after the run.",
+            "His back ached."
+          ]
+        },
+        "more": {
+          "def": "To hurt with a dull pain that does not go away quickly.",
+          "examples": [
+            "My legs ache after the long hike.",
+            "His tooth ached all night.",
+            "Her tired feet ached after a day of walking."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pain that lasts for a while but is not sharp.",
+          "examples": [
+            "I have an ache in my tummy.",
+            "Her arm has an ache.",
+            "The ache went away."
+          ]
+        },
+        "more": {
+          "def": "A steady pain that continues for a time.",
+          "examples": [
+            "He had an ache in his back after lifting the box.",
+            "A dull ache in my tooth kept me awake.",
+            "The ache in her legs went away after she rested."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "achieve",
     "say": "uh-CHEEV",
     "emoji": "🏆",
@@ -560,6 +609,35 @@
             "She achieved her dream of swimming across the lake.",
             "The class achieved its goal of reading one hundred books.",
             "You can achieve a lot when you practice every day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "achievement",
+    "say": "uh-CHEEV-munt",
+    "emoji": "🏆",
+    "forms": [
+      "achievements"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something good that you worked hard to do.",
+          "examples": [
+            "Reading a whole book was an achievement.",
+            "Winning the race was her achievement.",
+            "He is proud of his achievement."
+          ]
+        },
+        "more": {
+          "def": "Something important that a person has done well, usually after hard work.",
+          "examples": [
+            "Finishing the whole marathon was a big achievement for her.",
+            "The class was proud of its achievement in raising money for the shelter.",
+            "Landing on the moon was one of the great achievements in history."
           ]
         }
       }
@@ -845,6 +923,36 @@
             "Her kind action made me smile.",
             "A quick action saved the toy from falling.",
             "He took action and called for help."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "activate",
+    "say": "AK-tuh-vayt",
+    "forms": [
+      "activates",
+      "activated",
+      "activating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To turn on or start something.",
+          "examples": [
+            "I activate the alarm.",
+            "Press this to activate the machine.",
+            "Dad activated the light."
+          ]
+        },
+        "more": {
+          "def": "To make something start working.",
+          "examples": [
+            "I pressed the button to activate the alarm.",
+            "The motion of the door activates the light.",
+            "She activated the phone using a code."
           ]
         }
       }

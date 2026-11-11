@@ -1,5 +1,34 @@
 [
   {
+    "word": "phantom",
+    "say": "FAN-tum",
+    "emoji": "👻",
+    "forms": [
+      "phantoms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A ghost.",
+          "examples": [
+            "The story has a phantom.",
+            "The phantom floated down the hall.",
+            "We read about a phantom."
+          ]
+        },
+        "more": {
+          "def": "A ghost, or something that seems real but is not.",
+          "examples": [
+            "The story is about a phantom that haunts the old theater.",
+            "A phantom shape drifted through the foggy graveyard.",
+            "In the tale, a phantom appeared at midnight and then faded away."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "phase",
     "say": "fayz",
     "forms": [
@@ -22,6 +51,31 @@
             "The moon goes through many phases each month.",
             "A caterpillar is one phase in a butterfly's life.",
             "The first phase of the project is finished."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "phew",
+    "say": "fyoo",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A word you say when you are glad something bad did not happen.",
+          "examples": [
+            "Phew! I am glad that is over.",
+            "Phew, it is hot.",
+            "Phew, we made it!"
+          ]
+        },
+        "more": {
+          "def": "A word used to show that you feel relieved, tired or hot.",
+          "examples": [
+            "Phew! I am glad the test is over.",
+            "Phew, it is hot in here!",
+            "Phew, we got to the bus just in time."
           ]
         }
       }

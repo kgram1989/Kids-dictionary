@@ -153,6 +153,59 @@
     ]
   },
   {
+    "word": "tactics",
+    "say": "TAK-tiks",
+    "forms": [
+      "tactic"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The plans you use to win a game or reach a goal.",
+          "examples": [
+            "Our tactics helped us win.",
+            "The coach talked about tactics.",
+            "We used a new tactic."
+          ]
+        },
+        "more": {
+          "def": "The clever plans or steps used to try to win a game or reach a goal.",
+          "examples": [
+            "The coach taught us new tactics for stopping the other team.",
+            "Chess players study tactics to plan their moves ahead.",
+            "Her tactics for the spelling bee included practicing every night."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tad",
+    "say": "tad",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very small amount.",
+          "examples": [
+            "Add just a tad of salt.",
+            "I am a tad tired.",
+            "He ate a tad of cake."
+          ]
+        },
+        "more": {
+          "def": "A tiny bit; a very small amount.",
+          "examples": [
+            "Add a tad more water to the soup and stir it.",
+            "She was a tad nervous before she went on stage.",
+            "The shirt is a tad too small for me now."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tag",
     "say": "tag",
     "emoji": "🏷️",
@@ -459,6 +512,62 @@
             "She is taller than her brother."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "tame",
+    "say": "taym",
+    "forms": [
+      "tames",
+      "tamed",
+      "taming",
+      "tamer"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not wild; used to being around people.",
+          "examples": [
+            "The bird is tame.",
+            "A tame rabbit.",
+            "The tame fox ate from my hand."
+          ]
+        },
+        "more": {
+          "def": "Not afraid of people and not wild, or trained to live with people.",
+          "examples": [
+            "The tame bird landed on my shoulder.",
+            "We have a tame rabbit that loves to be petted.",
+            "The deer was so tame that it ate from her hand."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a wild animal gentle and used to people.",
+          "examples": [
+            "He tries to tame the horse.",
+            "She tamed the bird.",
+            "They tamed the wolf."
+          ]
+        },
+        "more": {
+          "def": "To train a wild animal so that it is gentle and not afraid of people.",
+          "examples": [
+            "He worked all summer to tame the wild horse.",
+            "She tamed a young bird by feeding it every day.",
+            "The farmer tamed the fox cub that he found."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "tamer",
+        "def": "A person who trains wild animals."
       }
     ]
   },
