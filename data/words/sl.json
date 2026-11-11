@@ -219,6 +219,56 @@
     ]
   },
   {
+    "word": "sled",
+    "say": "sled",
+    "emoji": "🛷",
+    "forms": [
+      "sleds",
+      "sledded",
+      "sledding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small vehicle that slides over snow.",
+          "examples": [
+            "I love my new sled.",
+            "The sled is red.",
+            "We pulled the sled."
+          ]
+        },
+        "more": {
+          "def": "A flat or low vehicle with long, smooth runners for sliding over snow or ice.",
+          "examples": [
+            "I rode a sled down the hill.",
+            "We pulled the sled up the snowy slope.",
+            "The dogs pulled a sled across the ice."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To ride down a snowy hill.",
+          "examples": [
+            "We sled down the hill.",
+            "They sledded all day.",
+            "I like to sled."
+          ]
+        },
+        "more": {
+          "def": "To ride down a snowy hill on a low vehicle with runners.",
+          "examples": [
+            "We sled down the big hill after the snow.",
+            "They sledded all afternoon until it got dark.",
+            "I like to sled with my cousins in winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sleep",
     "say": "sleep",
     "forms": [
@@ -320,6 +370,35 @@
             "I rolled up my sleeves to wash dishes.",
             "The sleeve of his coat was torn.",
             "She wiped her nose on her sleeve."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sleigh",
+    "say": "slay",
+    "emoji": "🛷",
+    "forms": [
+      "sleighs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large sled pulled by horses or reindeer.",
+          "examples": [
+            "The sleigh is fast.",
+            "A sleigh has bells.",
+            "We rode in a sleigh."
+          ]
+        },
+        "more": {
+          "def": "A large vehicle on runners that is pulled by horses or other animals over snow.",
+          "examples": [
+            "The sleigh slid over the snow.",
+            "A sleigh with bells on it jingled down the road.",
+            "In the song, a sleigh pulled by reindeer flies through the sky."
           ]
         }
       }

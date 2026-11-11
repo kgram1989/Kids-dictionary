@@ -391,6 +391,55 @@
     ]
   },
   {
+    "word": "reap",
+    "say": "reep",
+    "forms": [
+      "reaps",
+      "reaped",
+      "reaping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cut and gather a crop.",
+          "examples": [
+            "The farmer reaps the wheat.",
+            "They reaped the corn.",
+            "We reap in the fall."
+          ]
+        },
+        "more": {
+          "def": "To cut or gather a crop, such as wheat, when it is ripe.",
+          "examples": [
+            "The farmer reaps the wheat in the fall.",
+            "They reaped the corn with big machines.",
+            "We reaped a good harvest this year."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get something as a result of your actions.",
+          "examples": [
+            "You reap what you sow.",
+            "We reaped the rewards.",
+            "She reaped a prize."
+          ]
+        },
+        "more": {
+          "def": "To get something good or bad as a result of what you have done.",
+          "examples": [
+            "If you study hard, you will reap the rewards.",
+            "We reaped the benefit of our hard work.",
+            "She reaped a prize for her effort."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "rear",
     "say": "reer",
     "forms": [
@@ -524,6 +573,55 @@
     ]
   },
   {
+    "word": "rebound",
+    "say": "rih-BOWND",
+    "forms": [
+      "rebounds",
+      "rebounded",
+      "rebounding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To bounce back.",
+          "examples": [
+            "The ball rebounds off the wall.",
+            "She rebounded from the fall.",
+            "The ball rebounded."
+          ]
+        },
+        "more": {
+          "def": "To bounce back after hitting something, or to recover.",
+          "examples": [
+            "The ball rebounded off the wall.",
+            "She rebounded from her sickness and went back to school.",
+            "The basketball rebounded off the backboard."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A ball that bounces back off a backboard in basketball.",
+          "examples": [
+            "She caught the rebound.",
+            "The rebound was high.",
+            "He got the rebound."
+          ]
+        },
+        "more": {
+          "def": "A basketball that bounces off the board or rim after a missed shot.",
+          "examples": [
+            "She caught the rebound and scored.",
+            "The tall player got every rebound.",
+            "He jumped up for the rebound."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "rebuild",
     "say": "ree-BILD",
     "forms": [
@@ -584,6 +682,36 @@
     ]
   },
   {
+    "word": "recede",
+    "say": "rih-SEED",
+    "forms": [
+      "recedes",
+      "receded",
+      "receding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move back or away.",
+          "examples": [
+            "The water recedes.",
+            "The flood receded.",
+            "The waves receded."
+          ]
+        },
+        "more": {
+          "def": "To go back or farther away from a point.",
+          "examples": [
+            "The water receded after the high tide.",
+            "The flood waters receded slowly.",
+            "The sound receded as the truck drove away."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "receipt",
     "say": "rih-SEET",
     "forms": [
@@ -636,6 +764,53 @@
             "I received a postcard from my cousin.",
             "She received a prize for her painting.",
             "We receive the newspaper every morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "receiver",
+    "say": "rih-SEE-ver",
+    "forms": [
+      "receivers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A football player who catches the ball.",
+          "examples": [
+            "The receiver caught the ball.",
+            "The receiver ran.",
+            "A receiver jumped up."
+          ]
+        },
+        "more": {
+          "def": "A player in football whose job is to catch passes.",
+          "examples": [
+            "The receiver caught the ball and ran.",
+            "The receiver jumped up and made a great catch.",
+            "The quarterback threw to the receiver."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of a phone you hold to your ear.",
+          "examples": [
+            "Pick up the receiver.",
+            "The receiver is on the phone.",
+            "He put down the receiver."
+          ]
+        },
+        "more": {
+          "def": "The part of a telephone that you hold to your ear to listen.",
+          "examples": [
+            "Pick up the receiver and dial the number.",
+            "He put the receiver to his ear.",
+            "She set the receiver back on the phone."
           ]
         }
       }
@@ -1282,6 +1457,35 @@
     ]
   },
   {
+    "word": "rectangle",
+    "say": "REK-tang-gul",
+    "emoji": "🟦",
+    "forms": [
+      "rectangles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shape with four sides and four square corners.",
+          "examples": [
+            "A door is a rectangle.",
+            "I drew a rectangle.",
+            "The rectangle has four sides."
+          ]
+        },
+        "more": {
+          "def": "A flat shape with four straight sides and four square corners, with opposite sides the same length.",
+          "examples": [
+            "A door is shaped like a rectangle.",
+            "I drew a rectangle with a long top and bottom.",
+            "The pool is a long, blue rectangle."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "recycle",
     "say": "ree-SY-kul",
     "emoji": "♻️",
@@ -1804,6 +2008,55 @@
     ]
   },
   {
+    "word": "refresh",
+    "say": "rih-FRESH",
+    "forms": [
+      "refreshes",
+      "refreshed",
+      "refreshing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone feel cool, fresh and awake again.",
+          "examples": [
+            "A cool drink refreshes me.",
+            "The rain refreshed the grass.",
+            "A nap refreshed him."
+          ]
+        },
+        "more": {
+          "def": "To make someone or something feel fresh and strong again.",
+          "examples": [
+            "A cool drink refreshes me on a hot day.",
+            "The rain refreshed the garden.",
+            "A short nap refreshed him for the rest of the day."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To load a page on a screen again.",
+          "examples": [
+            "I refresh the page.",
+            "She refreshed the screen.",
+            "He refreshed the website."
+          ]
+        },
+        "more": {
+          "def": "To update what is on a screen by loading it again.",
+          "examples": [
+            "I refreshed the page to see the new pictures.",
+            "She refreshed the screen and the game began.",
+            "He refreshed the website to look for new news."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "refreshing",
     "say": "rih-FRESH-ing",
     "senses": [
@@ -1910,6 +2163,61 @@
             "Volunteers brought food and blankets to the refugees."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "refund",
+    "say": "REE-fund",
+    "forms": [
+      "refunds",
+      "refunded",
+      "refunding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money that is paid back to you.",
+          "examples": [
+            "I got a refund.",
+            "The store gave me a refund.",
+            "A refund is money back."
+          ]
+        },
+        "more": {
+          "def": "Money that is paid back to you when you return something you bought.",
+          "examples": [
+            "I got a refund when I returned the broken toy.",
+            "The store gave Mom a refund for the shirt.",
+            "We asked for a refund after the show was canceled."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pay back money.",
+          "examples": [
+            "The store will refund my money.",
+            "They refunded the cost.",
+            "She refunded the ticket."
+          ]
+        },
+        "more": {
+          "def": "To give money back to someone who paid for something.",
+          "examples": [
+            "The store will refund your money if you bring the receipt.",
+            "They refunded the cost of the ticket.",
+            "The company refunded Dad's money for the broken toy."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "refundable",
+        "def": "Able to be paid back."
       }
     ]
   },
@@ -2233,6 +2541,59 @@
     ]
   },
   {
+    "word": "regularly",
+    "say": "REG-yuh-ler-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Again and again at the same times.",
+          "examples": [
+            "I brush my teeth regularly.",
+            "The bus comes regularly.",
+            "She visits us regularly."
+          ]
+        },
+        "more": {
+          "def": "Often and at the same times each day, week or month.",
+          "examples": [
+            "I brush my teeth regularly, morning and night.",
+            "The bus comes regularly, every ten minutes.",
+            "She visits her grandma regularly on Sundays."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "regulation",
+    "say": "reg-yuh-LAY-shun",
+    "forms": [
+      "regulations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rule that people must follow.",
+          "examples": [
+            "The regulation says wear a helmet.",
+            "A new regulation.",
+            "Follow the regulation."
+          ]
+        },
+        "more": {
+          "def": "An official rule that must be followed.",
+          "examples": [
+            "The regulation says that everyone must wear a helmet.",
+            "A new regulation about speed was made.",
+            "We read the regulations for the swimming pool."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "rehearsal",
     "say": "rih-HER-sul",
     "forms": [
@@ -2340,6 +2701,32 @@
     ]
   },
   {
+    "word": "reindeer",
+    "say": "RAYN-deer",
+    "emoji": "🦌",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big deer with wide horns that lives where it is cold.",
+          "examples": [
+            "The reindeer has antlers.",
+            "A reindeer pulls the sled.",
+            "We saw a reindeer."
+          ]
+        },
+        "more": {
+          "def": "A large deer with big antlers that lives in cold northern places.",
+          "examples": [
+            "The reindeer has big antlers.",
+            "Reindeer travel across the snowy tundra.",
+            "In the story, reindeer pull a sleigh through the sky."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "reinforcement",
     "say": "ree-in-FORSS-munt",
     "forms": [
@@ -2392,6 +2779,34 @@
             "They rejected the plan because it cost too much.",
             "The machine rejected my dollar.",
             "The editor rejected the story."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "rejection",
+    "say": "rih-JEK-shun",
+    "forms": [
+      "rejections"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being told no or not chosen.",
+          "examples": [
+            "He felt rejection.",
+            "The rejection hurt.",
+            "Rejection can be sad."
+          ]
+        },
+        "more": {
+          "def": "Being turned down or told no to an idea or offer.",
+          "examples": [
+            "He felt rejection when no one chose him for the team.",
+            "The rejection of her story made her sad.",
+            "Rejection is hard, but you can try again."
           ]
         }
       }
@@ -3888,6 +4303,34 @@
     ]
   },
   {
+    "word": "requirement",
+    "say": "rih-KWYR-munt",
+    "forms": [
+      "requirements"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that you must have or do.",
+          "examples": [
+            "A ticket is a requirement.",
+            "The requirement is to be on time.",
+            "Reading is a requirement."
+          ]
+        },
+        "more": {
+          "def": "Something that is needed or that a rule says you must have or do.",
+          "examples": [
+            "A ticket is a requirement for the show.",
+            "One requirement of the contest is to be nine years old.",
+            "Finishing the test is a requirement for passing the class."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "reschedule",
     "say": "ree-SKEJ-ool",
     "forms": [
@@ -4297,6 +4740,53 @@
             "The team showed strong resistance to the other side.",
             "Wind resistance slows a cyclist.",
             "The cold water offered resistance to the swimmer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "resolution",
+    "say": "rez-uh-LOO-shun",
+    "forms": [
+      "resolutions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A promise to yourself to do something.",
+          "examples": [
+            "My New Year's resolution is to read more.",
+            "I made a resolution.",
+            "Her resolution was to be kind."
+          ]
+        },
+        "more": {
+          "def": "A firm decision to do something, often made at the start of a new year.",
+          "examples": [
+            "My New Year's resolution is to read every day.",
+            "He made a resolution to clean his room each week.",
+            "She kept her resolution and learned to swim."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The answer to a problem.",
+          "examples": [
+            "We found a resolution.",
+            "The resolution was fair.",
+            "They reached a resolution."
+          ]
+        },
+        "more": {
+          "def": "The solution to a problem or an end to a disagreement.",
+          "examples": [
+            "We found a resolution to the argument.",
+            "The resolution of the problem made everyone happy.",
+            "After a long talk, they reached a fair resolution."
           ]
         }
       }
@@ -4825,6 +5315,31 @@
             "The heavy rain resulted in a flood.",
             "Too much sun can result in sunburn.",
             "The mistake resulted in a funny story."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "resurrection",
+    "say": "rez-uh-REK-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Rising from the dead; a return to life.",
+          "examples": [
+            "The story tells of a resurrection.",
+            "The holiday is about resurrection.",
+            "The plant's resurrection came with rain."
+          ]
+        },
+        "more": {
+          "def": "The act of coming back to life after dying, or a return of something that had faded away.",
+          "examples": [
+            "The holiday celebrates the resurrection in some religions.",
+            "After the rain, the garden had a resurrection of color.",
+            "The old song enjoyed a resurrection when it was in a movie."
           ]
         }
       }

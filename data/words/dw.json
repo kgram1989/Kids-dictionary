@@ -46,5 +46,55 @@
         }
       }
     ]
+  },
+  {
+    "word": "dwell",
+    "say": "dwel",
+    "forms": [
+      "dwells",
+      "dwelled",
+      "dwelt",
+      "dwelling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To live in a place.",
+          "examples": [
+            "Bears dwell in caves.",
+            "Owls dwell in trees.",
+            "She dwells in a small house."
+          ]
+        },
+        "more": {
+          "def": "To live somewhere.",
+          "examples": [
+            "Fish dwell in the sea.",
+            "Owls dwell in the old tree.",
+            "She dwells in a small house near the river."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To think about something for a long time.",
+          "examples": [
+            "Do not dwell on the mistake.",
+            "She dwells on the problem.",
+            "He dwelt on the past."
+          ]
+        },
+        "more": {
+          "def": "To keep thinking or talking about something for too long.",
+          "examples": [
+            "Do not dwell on a small mistake.",
+            "She dwelled on the problem all night.",
+            "He dwelled on the past instead of looking ahead."
+          ]
+        }
+      }
+    ]
   }
 ]

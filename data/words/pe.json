@@ -671,6 +671,31 @@
     ]
   },
   {
+    "word": "pep",
+    "say": "pep",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Lots of energy and good spirits.",
+          "examples": [
+            "She has lots of pep.",
+            "A pep talk gave us energy.",
+            "I have no pep today."
+          ]
+        },
+        "more": {
+          "def": "Lively energy and cheerfulness.",
+          "examples": [
+            "She has lots of pep and never gets tired.",
+            "The coach gave a pep talk before the game.",
+            "The band played with great pep."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pepper",
     "say": "PEP-er",
     "emoji": "🌶️",
@@ -738,6 +763,36 @@
             "The bus goes forty miles per hour.",
             "The apples cost two dollars per pound.",
             "Each student gets two pencils per week."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "perceive",
+    "say": "per-SEEV",
+    "forms": [
+      "perceives",
+      "perceived",
+      "perceiving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To notice something with your senses or mind.",
+          "examples": [
+            "I perceive a sound.",
+            "She perceives a change.",
+            "We perceive light with our eyes."
+          ]
+        },
+        "more": {
+          "def": "To become aware of something through your senses or mind.",
+          "examples": [
+            "I perceive a sound in the dark.",
+            "She perceived a change in the weather.",
+            "We perceive light with our eyes and sound with our ears."
           ]
         }
       }
@@ -1140,6 +1195,55 @@
       {
         "word": "perishable",
         "def": "Likely to go bad soon."
+      }
+    ]
+  },
+  {
+    "word": "perk",
+    "say": "perk",
+    "forms": [
+      "perks",
+      "perked",
+      "perking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To brighten up or become more lively.",
+          "examples": [
+            "The puppy perks up.",
+            "The cat's ears perked.",
+            "I perk up when I smell pancakes."
+          ]
+        },
+        "more": {
+          "def": "To become more lively or to lift up with interest.",
+          "examples": [
+            "The puppy perked up when it heard its name.",
+            "The cat's ears perked at the sound.",
+            "I perked up when I smelled the pancakes."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An extra good thing that comes with something.",
+          "examples": [
+            "A perk is a free snack.",
+            "The perk was a free ticket.",
+            "Free cookies are a perk."
+          ]
+        },
+        "more": {
+          "def": "An extra benefit that you get along with something, like a job.",
+          "examples": [
+            "A perk of the job is free lunch.",
+            "Getting to pick the music is a perk of being the leader.",
+            "The hotel had a perk of free breakfast."
+          ]
+        }
       }
     ]
   },

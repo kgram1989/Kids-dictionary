@@ -29,6 +29,55 @@
     ]
   },
   {
+    "word": "snag",
+    "say": "snag",
+    "forms": [
+      "snags",
+      "snagged",
+      "snagging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, unexpected problem.",
+          "examples": [
+            "We hit a snag.",
+            "The trip had a snag.",
+            "A snag in the plan."
+          ]
+        },
+        "more": {
+          "def": "A small, unexpected problem or obstacle.",
+          "examples": [
+            "We hit a snag when the bus broke down.",
+            "The plan had a snag.",
+            "The only snag was that it started to rain."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To catch on something sharp.",
+          "examples": [
+            "My coat snagged on a nail.",
+            "She snagged her sock.",
+            "The branch snagged his shirt."
+          ]
+        },
+        "more": {
+          "def": "To catch or tear something on a rough or pointed thing.",
+          "examples": [
+            "My sweater snagged on a nail.",
+            "She snagged her sock on a splinter.",
+            "The branch snagged his shirt as he walked by."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "snail",
     "say": "snayl",
     "emoji": "🐌",
@@ -368,6 +417,55 @@
             "Dad snores loudly at night.",
             "The dog snored on the rug.",
             "I could hear him snore through the wall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "snort",
+    "say": "snort",
+    "forms": [
+      "snorts",
+      "snorted",
+      "snorting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a loud sound through your nose.",
+          "examples": [
+            "The pig snorted.",
+            "The horse snorts.",
+            "He snorted with laughter."
+          ]
+        },
+        "more": {
+          "def": "To breathe out noisily through the nose, often to show an animal's feeling or a laugh.",
+          "examples": [
+            "The pig snorted in the mud.",
+            "The horse snorted and tossed its head.",
+            "He snorted with laughter at the joke."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loud sound through the nose.",
+          "examples": [
+            "The pig let out a snort.",
+            "I heard a snort.",
+            "He gave a snort."
+          ]
+        },
+        "more": {
+          "def": "A loud, rough sound made by breathing out through the nose.",
+          "examples": [
+            "The pig let out a loud snort.",
+            "I heard a snort from the next stall.",
+            "He gave a snort of laughter."
           ]
         }
       }

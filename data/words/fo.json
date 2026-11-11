@@ -1,5 +1,33 @@
 [
   {
+    "word": "foal",
+    "say": "fohl",
+    "forms": [
+      "foals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A baby horse.",
+          "examples": [
+            "The foal is small.",
+            "A foal stood by its mother.",
+            "The foal ran."
+          ]
+        },
+        "more": {
+          "def": "A young horse, especially one less than a year old.",
+          "examples": [
+            "The foal stood on shaky legs next to its mother.",
+            "A newborn foal can run within hours.",
+            "The foal nuzzled the mare."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "foam",
     "say": "fohm",
     "forms": [
@@ -224,6 +252,34 @@
             "Please follow the directions on the box carefully.",
             "She followed the recipe to bake the cake.",
             "Cars must follow the traffic signs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "follower",
+    "say": "FOL-oh-er",
+    "forms": [
+      "followers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who comes after or goes with someone.",
+          "examples": [
+            "The leader had many followers.",
+            "A follower of the band.",
+            "The follower walked behind."
+          ]
+        },
+        "more": {
+          "def": "A person who follows another person, or supports a person or idea.",
+          "examples": [
+            "The leader walked with his followers behind him.",
+            "She is a loyal follower of the team.",
+            "The singer has thousands of followers online."
           ]
         }
       }
@@ -604,6 +660,55 @@
             "The nurse made a bandage for my scraped knee.",
             "We waited for the bus for ten minutes.",
             "A saw is a tool for cutting wood."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "forage",
+    "say": "FOR-ij",
+    "forms": [
+      "forages",
+      "foraged",
+      "foraging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To search for food.",
+          "examples": [
+            "Squirrels forage for nuts.",
+            "The deer forage in the woods.",
+            "We foraged for berries."
+          ]
+        },
+        "more": {
+          "def": "To search for food in the wild.",
+          "examples": [
+            "Squirrels forage for nuts in the fall.",
+            "The deer foraged in the woods for tender leaves.",
+            "We foraged for blackberries along the trail."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Food for horses and cows, such as grass or hay.",
+          "examples": [
+            "The cows eat forage.",
+            "The forage is hay.",
+            "We grow forage."
+          ]
+        },
+        "more": {
+          "def": "Plants such as grass and hay that are eaten by farm animals.",
+          "examples": [
+            "The cows ate forage in the field.",
+            "The farmer cut forage for the animals' winter food.",
+            "Hay is a common kind of forage."
           ]
         }
       }

@@ -102,6 +102,34 @@
     ]
   },
   {
+    "word": "scalpel",
+    "say": "SKAL-pul",
+    "forms": [
+      "scalpels"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very small, sharp knife that doctors use.",
+          "examples": [
+            "The doctor used a scalpel.",
+            "A scalpel is sharp.",
+            "The scalpel is small."
+          ]
+        },
+        "more": {
+          "def": "A small, very sharp knife used by surgeons in operations.",
+          "examples": [
+            "The surgeon held a scalpel.",
+            "A scalpel is very sharp and used with great care.",
+            "The scalpel cut cleanly through the skin."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scam",
     "say": "skam",
     "forms": [
@@ -989,6 +1017,91 @@
             "The scouts picked up trash in the park."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "scram",
+    "say": "skram",
+    "forms": [
+      "scrams",
+      "scrammed",
+      "scramming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go away fast.",
+          "examples": [
+            "The cat scrammed.",
+            "We scram when it rains.",
+            "The kids scrammed."
+          ]
+        },
+        "more": {
+          "def": "To leave quickly, often when told to.",
+          "examples": [
+            "The cat scrammed when the dog barked.",
+            "We scrammed when it started to rain.",
+            "The kids scrammed when they saw the teacher coming."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scramble",
+    "say": "SKRAM-bul",
+    "forms": [
+      "scrambles",
+      "scrambled",
+      "scrambling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To climb or move quickly using your hands and feet.",
+          "examples": [
+            "We scramble over the rocks.",
+            "The kids scrambled up the hill.",
+            "She scrambled out of bed."
+          ]
+        },
+        "more": {
+          "def": "To move or climb quickly and awkwardly, often using your hands as well.",
+          "examples": [
+            "We scrambled over the rocks to the top.",
+            "The kids scrambled up the steep hill.",
+            "She scrambled out of bed when the alarm rang."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To mix up, as eggs.",
+          "examples": [
+            "Dad scrambles eggs.",
+            "I scrambled the eggs.",
+            "We ate scrambled eggs."
+          ]
+        },
+        "more": {
+          "def": "To cook eggs by stirring them in a pan, or to mix things up.",
+          "examples": [
+            "Dad scrambles eggs for breakfast.",
+            "I scrambled two eggs in the pan.",
+            "The letters were scrambled, so we had to put them in order."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unscramble",
+        "def": "To put back in the right order."
       }
     ]
   },

@@ -957,7 +957,7 @@
           "examples": [
             "Shh, the movie is about to start.",
             "Shh, you will wake the baby with all that noise.",
-            "She put a finger to her lips and whispered, Shh, he's coming!"
+            "She put a finger to her lips and whispered a quiet shh."
           ]
         }
       }
@@ -2121,6 +2121,55 @@
             "My sweater shrank in the dryer.",
             "The puddle shrank in the hot sun.",
             "The balloon shrinks as the air leaks out."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shuffle",
+    "say": "SHUF-ul",
+    "forms": [
+      "shuffles",
+      "shuffled",
+      "shuffling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To walk without lifting your feet.",
+          "examples": [
+            "The old man shuffled along.",
+            "I shuffle in my slippers.",
+            "The sleepy boy shuffled to bed."
+          ]
+        },
+        "more": {
+          "def": "To walk slowly while dragging your feet along the ground.",
+          "examples": [
+            "The old man shuffled along the path.",
+            "I shuffled in my big slippers.",
+            "The sleepy boy shuffled to the kitchen."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To mix up playing cards.",
+          "examples": [
+            "Shuffle the cards.",
+            "I shuffled the deck.",
+            "Dad shuffled the cards."
+          ]
+        },
+        "more": {
+          "def": "To mix cards so they are in a new order.",
+          "examples": [
+            "Shuffle the cards before we play.",
+            "I shuffled the deck three times.",
+            "Dad shuffled and dealt the cards."
           ]
         }
       }

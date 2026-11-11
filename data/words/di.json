@@ -1155,6 +1155,50 @@
     ]
   },
   {
+    "word": "disabled",
+    "say": "dis-AY-buld",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not able to use a part of the body in the usual way.",
+          "examples": [
+            "The disabled person used a ramp.",
+            "The disabled man drove a special car.",
+            "The sign is for disabled people."
+          ]
+        },
+        "more": {
+          "def": "Having a body or mind that does not work in the usual way, so some things are harder to do.",
+          "examples": [
+            "The ramp helps disabled people get into the building.",
+            "The disabled athlete won a medal in the race.",
+            "The parking spot is for disabled drivers."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not working.",
+          "examples": [
+            "The alarm was disabled.",
+            "The disabled car stopped.",
+            "The disabled phone was off."
+          ]
+        },
+        "more": {
+          "def": "Turned off or no longer able to work.",
+          "examples": [
+            "The alarm was disabled during the repair.",
+            "The disabled car stopped by the side of the road.",
+            "The disabled button did nothing when I pressed it."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "disagree",
     "say": "dis-uh-GREE",
     "forms": [
@@ -1294,6 +1338,31 @@
             "We were disappointed when the game was canceled.",
             "She felt disappointed that her friend could not come.",
             "The disappointed fans left the stadium quietly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "disappointing",
+    "say": "dis-uh-POINT-ing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not as good as you hoped.",
+          "examples": [
+            "The game was disappointing.",
+            "A disappointing day.",
+            "The ending was disappointing."
+          ]
+        },
+        "more": {
+          "def": "Not as good as you hoped or expected.",
+          "examples": [
+            "The game was disappointing because we lost.",
+            "It was a disappointing day with rain.",
+            "The movie's ending was disappointing."
           ]
         }
       }
@@ -1783,6 +1852,36 @@
     ]
   },
   {
+    "word": "disgust",
+    "say": "dis-GUST",
+    "forms": [
+      "disgusts",
+      "disgusted",
+      "disgusting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong feeling of not liking something.",
+          "examples": [
+            "He felt disgust at the smell.",
+            "She made a face of disgust.",
+            "Disgust is a bad feeling."
+          ]
+        },
+        "more": {
+          "def": "A strong feeling of dislike, such as when you see or smell something very unpleasant.",
+          "examples": [
+            "He felt disgust at the smell of the garbage.",
+            "She made a face of disgust at the mess.",
+            "The rotten egg filled him with disgust."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "disgusting",
     "say": "dis-GUS-ting",
     "emoji": "🤢",
@@ -2192,6 +2291,36 @@
     ]
   },
   {
+    "word": "disrupt",
+    "say": "dis-RUPT",
+    "forms": [
+      "disrupts",
+      "disrupted",
+      "disrupting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To interrupt something so that it cannot go on as planned.",
+          "examples": [
+            "The noise disrupted my nap.",
+            "A noise disrupted class.",
+            "Do not disrupt the show."
+          ]
+        },
+        "more": {
+          "def": "To break in on something so that it stops or is thrown off.",
+          "examples": [
+            "The storm disrupted the game.",
+            "A loud noise disrupted the class.",
+            "Please do not disrupt the show with your talking."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dissolve",
     "say": "dih-ZOLV",
     "forms": [
@@ -2273,6 +2402,53 @@
             "We saw the distant hills through the haze.",
             "A distant train whistle blew.",
             "That happened in the distant past."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "distinction",
+    "say": "dis-TINK-shun",
+    "forms": [
+      "distinctions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A difference between two things.",
+          "examples": [
+            "There is a distinction between day and night.",
+            "Can you see the distinction?",
+            "The distinction is small."
+          ]
+        },
+        "more": {
+          "def": "A clear difference between two things.",
+          "examples": [
+            "There is a distinction between a frog and a toad.",
+            "Can you see the distinction between the two colors?",
+            "The teacher explained the distinction between a fact and an opinion."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A special honor.",
+          "examples": [
+            "She graduated with distinction.",
+            "It is a distinction to win.",
+            "The soldier earned a distinction."
+          ]
+        },
+        "more": {
+          "def": "Special praise or honor for doing something very well.",
+          "examples": [
+            "She graduated from school with distinction.",
+            "It is a great distinction to win the gold medal.",
+            "The scientist earned the distinction of a famous prize."
           ]
         }
       }

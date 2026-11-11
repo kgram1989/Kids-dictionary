@@ -799,6 +799,35 @@
     ]
   },
   {
+    "word": "beetle",
+    "say": "BEE-tul",
+    "emoji": "🪲",
+    "forms": [
+      "beetles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An insect with hard wings that cover its back.",
+          "examples": [
+            "A beetle crawled by.",
+            "The beetle is black.",
+            "I saw a beetle."
+          ]
+        },
+        "more": {
+          "def": "An insect with a hard shell-like cover on its back made of its front wings.",
+          "examples": [
+            "A shiny beetle crawled across the leaf.",
+            "Some beetles can fly and some cannot.",
+            "The beetle tucked its wings under its hard shell."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "before",
     "say": "bih-FOR",
     "senses": [
@@ -1921,6 +1950,34 @@
             "The twins split the pizza between them.",
             "There is a strong friendship between the two dogs.",
             "What is the difference between a frog and a toad?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "beverage",
+    "say": "BEV-rij",
+    "forms": [
+      "beverages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A drink.",
+          "examples": [
+            "Water is a beverage.",
+            "What beverage do you want?",
+            "Milk is a beverage."
+          ]
+        },
+        "more": {
+          "def": "Any liquid that you drink, such as water, milk or juice.",
+          "examples": [
+            "Water is a healthy beverage.",
+            "The restaurant served each guest a cold beverage.",
+            "Milk and juice are popular beverages at breakfast."
           ]
         }
       }

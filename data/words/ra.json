@@ -802,6 +802,34 @@
     ]
   },
   {
+    "word": "ramp",
+    "say": "ramp",
+    "forms": [
+      "ramps"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A slanted path that goes up or down.",
+          "examples": [
+            "We went up the ramp.",
+            "The ramp is for wheelchairs.",
+            "The skateboard rolled down the ramp."
+          ]
+        },
+        "more": {
+          "def": "A slanting path or surface that connects a lower place to a higher one.",
+          "examples": [
+            "The wheelchair rolled up the ramp.",
+            "Cars drove up the ramp onto the ferry.",
+            "I coasted down the ramp on my skateboard."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ranch",
     "say": "ranch",
     "emoji": "🐄",
@@ -1362,6 +1390,83 @@
             "The hotel received a high rating from guests.",
             "The restaurant's rating is four stars.",
             "The game's rating shows it is for all ages."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ratio",
+    "say": "RAY-shee-oh",
+    "forms": [
+      "ratios"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way to compare two numbers.",
+          "examples": [
+            "The ratio of boys to girls is one to one.",
+            "The ratio is two to one.",
+            "We found the ratio."
+          ]
+        },
+        "more": {
+          "def": "A comparison of two numbers that shows how many times one is bigger than the other.",
+          "examples": [
+            "The ratio of boys to girls in the class is one to one.",
+            "The recipe has a ratio of two cups of water to one cup of rice.",
+            "We found the ratio of red marbles to blue ones."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ration",
+    "say": "RASH-un",
+    "forms": [
+      "rations",
+      "rationed",
+      "rationing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fixed amount of food or supplies that each person gets.",
+          "examples": [
+            "Each kid got a ration of water.",
+            "The ration was small.",
+            "We ate our rations."
+          ]
+        },
+        "more": {
+          "def": "A fixed share of food or supplies given to each person.",
+          "examples": [
+            "Each camper got a ration of water.",
+            "The soldiers ate their rations.",
+            "During the trip, we got a small ration of snacks."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give out small, fixed amounts.",
+          "examples": [
+            "We ration the water.",
+            "They rationed food.",
+            "Mom rations the candy."
+          ]
+        },
+        "more": {
+          "def": "To allow people only a fixed, small amount of something when there is not much.",
+          "examples": [
+            "We ration the water on the hike.",
+            "The store rationed milk after the storm.",
+            "Mom rations the candy so it lasts all week."
           ]
         }
       }

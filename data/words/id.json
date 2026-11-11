@@ -172,5 +172,41 @@
         }
       }
     ]
+  },
+  {
+    "word": "idle",
+    "say": "EYE-dul",
+    "forms": [
+      "idler",
+      "idlest",
+      "idly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not working or not busy.",
+          "examples": [
+            "The machine is idle.",
+            "An idle afternoon.",
+            "The idle boat sat."
+          ]
+        },
+        "more": {
+          "def": "Not doing anything or not being used.",
+          "examples": [
+            "The machine sat idle all week.",
+            "We spent an idle afternoon watching the clouds.",
+            "The boat was idle at the dock."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "idleness",
+        "def": "Not being busy or not doing anything."
+      }
+    ]
   }
 ]

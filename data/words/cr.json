@@ -106,6 +106,55 @@
     ]
   },
   {
+    "word": "cradle",
+    "say": "KRAY-dul",
+    "forms": [
+      "cradles",
+      "cradled",
+      "cradling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small bed for a baby that rocks.",
+          "examples": [
+            "The baby is in the cradle.",
+            "A cradle rocks.",
+            "The cradle is wooden."
+          ]
+        },
+        "more": {
+          "def": "A small bed for a baby that can rock from side to side.",
+          "examples": [
+            "The baby slept in the wooden cradle.",
+            "Mom rocked the cradle gently.",
+            "A cradle sat next to the bed."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hold gently in your arms.",
+          "examples": [
+            "She cradles the kitten.",
+            "He cradled the baby.",
+            "I cradle my doll."
+          ]
+        },
+        "more": {
+          "def": "To hold something carefully and gently in your arms.",
+          "examples": [
+            "She cradled the kitten in her arms.",
+            "He cradled the baby and sang softly.",
+            "I cradled the hurt bird in my hands."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "craft",
     "say": "kraft",
     "forms": [
@@ -232,6 +281,35 @@
             "I turned the crank on the old music box.",
             "The crank on the well is rusty.",
             "He wound the toy with a crank."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cranky",
+    "say": "KRANG-kee",
+    "forms": [
+      "crankier",
+      "crankiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "In a bad mood.",
+          "examples": [
+            "The baby is cranky.",
+            "I am cranky when I am tired.",
+            "He was cranky."
+          ]
+        },
+        "more": {
+          "def": "Easily annoyed or in a bad mood.",
+          "examples": [
+            "The baby was cranky because she was sleepy.",
+            "I get cranky when I am hungry.",
+            "The cranky old man yelled at the squirrels."
           ]
         }
       }
@@ -1042,6 +1120,34 @@
     ]
   },
   {
+    "word": "criticism",
+    "say": "KRIT-ih-siz-um",
+    "forms": [
+      "criticisms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Saying what you think is wrong with something.",
+          "examples": [
+            "He took the criticism well.",
+            "The criticism was fair.",
+            "Criticism can help."
+          ]
+        },
+        "more": {
+          "def": "The act of pointing out what is wrong or poor about something.",
+          "examples": [
+            "He took the criticism well and fixed his work.",
+            "The teacher's criticism was fair and helpful.",
+            "Kind criticism can help us do better."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "criticize",
     "say": "KRIT-ih-syz",
     "forms": [
@@ -1381,6 +1487,31 @@
     ]
   },
   {
+    "word": "cruelty",
+    "say": "KROO-ul-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being mean on purpose and causing hurt.",
+          "examples": [
+            "Cruelty is mean.",
+            "He hated cruelty.",
+            "Kindness is the opposite of cruelty."
+          ]
+        },
+        "more": {
+          "def": "Behavior that causes pain or suffering to others and does not care.",
+          "examples": [
+            "Cruelty to animals is wrong.",
+            "The book teaches that cruelty never wins.",
+            "She spoke out against cruelty at school."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cruise",
     "say": "krooz",
     "forms": [
@@ -1480,6 +1611,72 @@
             "There were cracker crumbs all over the floor.",
             "The birds gathered to eat the bread crumbs we threw.",
             "He brushed the crumbs off the table into his hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crumble",
+    "say": "KRUM-bul",
+    "forms": [
+      "crumbles",
+      "crumbled",
+      "crumbling",
+      "crumbly"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To break into small pieces.",
+          "examples": [
+            "The cookie crumbled.",
+            "The old wall crumbles.",
+            "The cake crumbled in my hand."
+          ]
+        },
+        "more": {
+          "def": "To break or fall apart into small pieces.",
+          "examples": [
+            "The cookie crumbled in my hand.",
+            "The old wall slowly crumbled away.",
+            "The dry cake began to crumble when we sliced it."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "crumbly",
+        "def": "Easily broken into small pieces."
+      }
+    ]
+  },
+  {
+    "word": "crummy",
+    "say": "KRUM-ee",
+    "forms": [
+      "crummier",
+      "crummiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not very good.",
+          "examples": [
+            "I had a crummy day.",
+            "The food was crummy.",
+            "A crummy old chair."
+          ]
+        },
+        "more": {
+          "def": "Poor in quality or not nice.",
+          "examples": [
+            "I had a crummy day, so I went to bed early.",
+            "The soup was crummy because it had no salt.",
+            "We stayed in a crummy old motel with broken lamps."
           ]
         }
       }

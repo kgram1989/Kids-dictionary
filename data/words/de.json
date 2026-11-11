@@ -539,6 +539,34 @@
     ]
   },
   {
+    "word": "deception",
+    "say": "dih-SEP-shun",
+    "forms": [
+      "deceptions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Making someone believe something that is not true.",
+          "examples": [
+            "The trick was a deception.",
+            "He told a deception.",
+            "Deception is wrong."
+          ]
+        },
+        "more": {
+          "def": "The act of making someone believe something that is not true.",
+          "examples": [
+            "The magic trick was a clever deception.",
+            "The fox used deception to fool the crow in the story.",
+            "Deception is wrong because it breaks trust."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "decide",
     "say": "dih-SYD",
     "forms": [
@@ -809,6 +837,53 @@
             "She dedicated her life to helping animals.",
             "The author dedicated the book to her grandmother.",
             "He dedicates an hour each day to piano practice."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dedication",
+    "say": "ded-ih-KAY-shun",
+    "forms": [
+      "dedications"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Working hard because you care.",
+          "examples": [
+            "Her dedication is clear.",
+            "He practices with dedication.",
+            "The team showed dedication."
+          ]
+        },
+        "more": {
+          "def": "Great effort and loyalty to something that you care about.",
+          "examples": [
+            "Her dedication to music is clear.",
+            "He practices with great dedication.",
+            "The team showed dedication all season."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A message at the front of a book.",
+          "examples": [
+            "The book has a dedication.",
+            "I read the dedication.",
+            "A dedication to his mother."
+          ]
+        },
+        "more": {
+          "def": "A message in the front of a book that names the person it is written for.",
+          "examples": [
+            "The book has a dedication to the author's mother.",
+            "I read the dedication at the front.",
+            "The dedication said For my wonderful grandma."
           ]
         }
       }
@@ -1386,6 +1461,42 @@
             "Our flight had a delay."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "delete",
+    "say": "dih-LEET",
+    "forms": [
+      "deletes",
+      "deleted",
+      "deleting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take something out or erase it.",
+          "examples": [
+            "Delete the file.",
+            "I deleted the picture.",
+            "She deleted the extra words."
+          ]
+        },
+        "more": {
+          "def": "To remove or erase something, such as writing, a picture or a file.",
+          "examples": [
+            "Delete the extra words from your story.",
+            "I deleted the old pictures from my phone.",
+            "She deleted the file by mistake."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "deletion",
+        "def": "Something that is erased, or the act of erasing it."
       }
     ]
   },
