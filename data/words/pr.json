@@ -500,6 +500,34 @@
     ]
   },
   {
+    "word": "preference",
+    "say": "PREF-er-unss",
+    "forms": [
+      "preferences"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Liking one thing more than another.",
+          "examples": [
+            "My preference is red.",
+            "Her preference is pizza.",
+            "What is your preference?"
+          ]
+        },
+        "more": {
+          "def": "The choice of one thing over another because you like it better.",
+          "examples": [
+            "My preference is chocolate, but my sister likes vanilla.",
+            "Do you have a preference for which game we play?",
+            "The teacher asked about our preference for the class pet."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pregnancy",
     "say": "PREG-nun-see",
     "forms": [
@@ -2097,6 +2125,34 @@
             "The winner of the race got a shiny prize.",
             "First prize at the fair was a blue ribbon.",
             "She won a prize for the best costume."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "probability",
+    "say": "prob-uh-BIL-ih-tee",
+    "forms": [
+      "probabilities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How likely it is that something will happen.",
+          "examples": [
+            "The probability of rain is high.",
+            "What is the probability?",
+            "The probability is small."
+          ]
+        },
+        "more": {
+          "def": "How likely it is that something will happen, often shown as a number.",
+          "examples": [
+            "The probability of rolling a six with one die is one in six.",
+            "There is a high probability of rain, so take an umbrella.",
+            "We learned about probability by flipping a coin many times."
           ]
         }
       }

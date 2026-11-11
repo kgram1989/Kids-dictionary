@@ -366,6 +366,36 @@
     ]
   },
   {
+    "word": "soften",
+    "say": "SOF-un",
+    "forms": [
+      "softens",
+      "softened",
+      "softening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make or become softer.",
+          "examples": [
+            "Warm butter will soften.",
+            "Rain softened the ground.",
+            "Her voice softened."
+          ]
+        },
+        "more": {
+          "def": "To make something softer or gentler, or to become softer or gentler.",
+          "examples": [
+            "Leave the butter out on the counter so that it will soften.",
+            "The warm rain softened the hard, dry ground.",
+            "His voice softened when he spoke to the frightened puppy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "softly",
     "say": "SOFT-lee",
     "senses": [
@@ -1591,6 +1621,57 @@
             "I bought a souvenir at the museum.",
             "A shell was my souvenir from the beach.",
             "She keeps a souvenir from every trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sow",
+    "say": "soh",
+    "forms": [
+      "sows",
+      "sowed",
+      "sown",
+      "sowing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To plant seeds.",
+          "examples": [
+            "Farmers sow seeds in the spring.",
+            "I sowed the beans.",
+            "We sow seeds in rows."
+          ]
+        },
+        "more": {
+          "def": "To plant seeds in the ground by scattering or putting them in rows.",
+          "examples": [
+            "Farmers sow wheat in the fall and harvest it the next summer.",
+            "We sowed lettuce seeds in the garden bed.",
+            "She sows flower seeds along the fence every spring."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "say": "sow",
+        "easy": {
+          "def": "A grown-up female pig.",
+          "examples": [
+            "The sow fed her piglets.",
+            "A sow is in the pen.",
+            "The sow lay in the mud."
+          ]
+        },
+        "more": {
+          "def": "A fully grown female pig.",
+          "examples": [
+            "The sow nursed her nine piglets in the straw.",
+            "The farmer fed the sow in the morning.",
+            "A sow can have many piglets at one time."
           ]
         }
       }

@@ -974,6 +974,55 @@
     ]
   },
   {
+    "word": "graze",
+    "say": "grayz",
+    "forms": [
+      "grazes",
+      "grazed",
+      "grazing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To eat grass in a field.",
+          "examples": [
+            "Cows graze in the field.",
+            "Sheep graze on the hill.",
+            "The horse grazed by the fence."
+          ]
+        },
+        "more": {
+          "def": "To eat grass or other low plants that are growing in a field.",
+          "examples": [
+            "Cows graze in the meadow all summer long.",
+            "A herd of deer grazed at the edge of the forest.",
+            "The sheep grazed on the hillside until sunset."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To touch something lightly as you pass.",
+          "examples": [
+            "The ball grazed my arm.",
+            "A branch grazed the car.",
+            "The bird grazed the water."
+          ]
+        },
+        "more": {
+          "def": "To touch or scrape something lightly while moving past it.",
+          "examples": [
+            "The ball grazed my elbow and left a small red mark.",
+            "A branch grazed the side of the car as we drove by.",
+            "The gull grazed the water with its wing."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "grease",
     "say": "greess",
     "forms": [
@@ -1272,6 +1321,34 @@
             "\"Hello\" is a common greeting.",
             "She gave us a warm greeting at the door.",
             "I sent a greeting card for her birthday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grid",
+    "say": "grid",
+    "forms": [
+      "grids"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pattern of straight lines that cross each other.",
+          "examples": [
+            "Draw a grid on the paper.",
+            "The map has a grid.",
+            "The grid has squares."
+          ]
+        },
+        "more": {
+          "def": "A pattern of straight lines that cross each other to make squares, used for maps, graphs and games.",
+          "examples": [
+            "The map has a grid of lines to help you find a place.",
+            "We drew a grid on the page to plot the numbers.",
+            "The city streets are laid out like a grid of squares."
           ]
         }
       }
