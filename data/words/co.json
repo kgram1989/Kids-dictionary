@@ -2703,6 +2703,34 @@
     ]
   },
   {
+    "word": "component",
+    "say": "kum-POH-nunt",
+    "forms": [
+      "components"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One of the parts that make up something.",
+          "examples": [
+            "A wheel is a component of a bike.",
+            "Each component of the toy is in the box.",
+            "The battery is one component."
+          ]
+        },
+        "more": {
+          "def": "One of the separate parts that together make up a machine, a system or a whole thing.",
+          "examples": [
+            "The engineer checked each component of the robot before turning it on.",
+            "Flour is an important component of bread.",
+            "The screen is the most expensive component of the tablet."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "compose",
     "say": "kum-POHZ",
     "forms": [
@@ -3383,6 +3411,70 @@
             "Metal conducts heat very well.",
             "Copper wire conducts electricity.",
             "Rubber does not conduct electricity."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "conductor",
+    "say": "kun-DUK-ter",
+    "emoji": "🚂",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who leads a group of singers or players.",
+          "examples": [
+            "The conductor raised her stick.",
+            "Our band has a new conductor.",
+            "Watch the conductor, then start."
+          ]
+        },
+        "more": {
+          "def": "A person who stands in front of musicians or singers and guides how they play together.",
+          "examples": [
+            "The conductor waved her baton and the whole orchestra began to play.",
+            "Each singer in the choir watched the conductor for the signal to begin.",
+            "The conductor smiled at the band after the last note."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who checks tickets on a train.",
+          "examples": [
+            "The conductor looked at my ticket.",
+            "The train conductor said hello.",
+            "A conductor walked down the aisle."
+          ]
+        },
+        "more": {
+          "def": "The person on a train or bus who checks tickets and helps the passengers.",
+          "examples": [
+            "The train conductor punched a hole in each ticket as she walked past.",
+            "The conductor called out the name of the next station.",
+            "A friendly conductor helped us find our seats."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that lets heat or electricity pass through it.",
+          "examples": [
+            "Metal is a good conductor.",
+            "Copper is a conductor of electricity.",
+            "A spoon is a conductor of heat."
+          ]
+        },
+        "more": {
+          "def": "A material that lets heat or electricity travel through it easily.",
+          "examples": [
+            "Copper is a good conductor, so it is used inside electric wires.",
+            "A metal spoon in hot soup gets warm because metal is a conductor of heat.",
+            "Rubber is not a conductor, so it keeps electricity from passing through."
           ]
         }
       }
@@ -4993,6 +5085,31 @@
             "The contestant answered every question.",
             "Ten contestants entered the spelling bee.",
             "The last contestant won the prize."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "context",
+    "say": "KON-tekst",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The words around a word that help show what it means.",
+          "examples": [
+            "The context helps me read the word.",
+            "Look at the context for clues.",
+            "The other words give context."
+          ]
+        },
+        "more": {
+          "def": "The words or the situation around something, which help you understand what it means.",
+          "examples": [
+            "If you do not know a word, the context of the sentence can give you clues.",
+            "Without the context, her joke made no sense to me.",
+            "Her joke made no sense until I knew the context: it was about our class trip."
           ]
         }
       }
