@@ -30,6 +30,35 @@
     ]
   },
   {
+    "word": "baboon",
+    "say": "ba-BOON",
+    "emoji": "🐒",
+    "forms": [
+      "baboons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big monkey with a long nose.",
+          "examples": [
+            "A baboon sat on the rock.",
+            "The baboon is big.",
+            "We saw a baboon at the zoo."
+          ]
+        },
+        "more": {
+          "def": "A large African monkey with a long, dog-like face, strong teeth and a short tail, that lives in groups.",
+          "examples": [
+            "A baboon sat on a rock and watched over its troop.",
+            "The baboon has a long face like a dog.",
+            "Baboons live in groups and eat fruit, seeds and insects."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "baby",
     "say": "BAY-bee",
     "forms": [
@@ -182,6 +211,36 @@
             "The turtle pulled its head into its shell on its back.",
             "We sat in the back of the bus.",
             "He scratched the dog's back with a brush."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "backfire",
+    "say": "BAK-fyr",
+    "forms": [
+      "backfires",
+      "backfired",
+      "backfiring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go wrong in a way you did not plan.",
+          "examples": [
+            "His plan backfired.",
+            "The joke backfired.",
+            "The trick backfired on us."
+          ]
+        },
+        "more": {
+          "def": "To have the opposite result from what you wanted, so that your plan makes things worse.",
+          "examples": [
+            "His plan to hide the broken cup backfired when Mom found it.",
+            "The joke backfired and made her feel sad instead of happy.",
+            "Trying to hurry made the puzzle take even longer, and it backfired."
           ]
         }
       }
@@ -779,6 +838,31 @@
             "The gymnast balanced on the narrow beam without wobbling.",
             "He balanced the tray of drinks as he walked across the room.",
             "It is hard to balance on a bike when you first learn to ride."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "balanced",
+    "say": "BAL-unst",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Steady, with equal weight on each side.",
+          "examples": [
+            "The scale is balanced.",
+            "A balanced meal.",
+            "She stayed balanced."
+          ]
+        },
+        "more": {
+          "def": "Steady and even, with equal weight or parts on each side, or having a good mix of different things.",
+          "examples": [
+            "The seesaw was balanced, so neither side went up or down.",
+            "A balanced meal has vegetables, protein and grains.",
+            "She sat on the log, perfectly balanced, and did not fall."
           ]
         }
       }
@@ -1589,6 +1673,50 @@
             "We ran on the beach in bare feet.",
             "The tree was bare in winter.",
             "The bare walls needed pictures."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "barefoot",
+    "say": "BAIR-fuut",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "With no shoes or socks on.",
+          "examples": [
+            "We walked barefoot.",
+            "She ran barefoot on the grass.",
+            "I like to go barefoot."
+          ]
+        },
+        "more": {
+          "def": "Without shoes or socks on your feet.",
+          "examples": [
+            "We walked barefoot on the warm sand.",
+            "She ran barefoot through the cool grass.",
+            "He likes to go barefoot around the house."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "With bare feet.",
+          "examples": [
+            "The barefoot boy ran.",
+            "A barefoot girl.",
+            "The barefoot child played."
+          ]
+        },
+        "more": {
+          "def": "Having no shoes or socks on your feet.",
+          "examples": [
+            "The barefoot children splashed in the stream.",
+            "A barefoot girl ran across the grass.",
+            "The barefoot walk on the beach felt wonderful."
           ]
         }
       }
