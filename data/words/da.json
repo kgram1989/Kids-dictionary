@@ -139,6 +139,41 @@
     ]
   },
   {
+    "word": "damp",
+    "say": "damp",
+    "forms": [
+      "damper",
+      "dampest"
+    ],
+    "related": [
+      {
+        "word": "dampness",
+        "def": "Being a little wet."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A little bit wet.",
+          "examples": [
+            "The grass is damp.",
+            "My towel is damp.",
+            "The air felt damp."
+          ]
+        },
+        "more": {
+          "def": "Slightly wet, but not dripping.",
+          "examples": [
+            "The grass was damp with morning dew.",
+            "Wipe the table with a damp cloth.",
+            "The cave was cool and damp inside."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dance",
     "say": "dans",
     "emoji": "💃",

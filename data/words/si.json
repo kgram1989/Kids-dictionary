@@ -1,5 +1,33 @@
 [
   {
+    "word": "sibling",
+    "say": "SIB-ling",
+    "forms": [
+      "siblings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A brother or a sister.",
+          "examples": [
+            "I have one sibling.",
+            "My sibling is older.",
+            "She plays with her sibling."
+          ]
+        },
+        "more": {
+          "def": "A brother or a sister.",
+          "examples": [
+            "I share a room with my younger sibling.",
+            "The two siblings helped each other make dinner.",
+            "Do you have any siblings at home?"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sick",
     "say": "sik",
     "emoji": "🤒",
@@ -264,6 +292,34 @@
             "The rainbow over the barn was a lovely sight.",
             "We saw the sights of the city.",
             "A herd of deer was a rare sight."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sighting",
+    "say": "SY-ting",
+    "forms": [
+      "sightings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Seeing something that is rare.",
+          "examples": [
+            "We had a sighting of a whale.",
+            "A bear sighting was in the news.",
+            "The sighting was exciting."
+          ]
+        },
+        "more": {
+          "def": "An occasion when something is seen, especially something rare or far away.",
+          "examples": [
+            "The hikers reported a sighting of a rare eagle near the lake.",
+            "A whale sighting made the whole boat cheer.",
+            "Scientists recorded every sighting of the comet in the night sky."
           ]
         }
       }

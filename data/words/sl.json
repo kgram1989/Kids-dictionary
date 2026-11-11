@@ -1095,5 +1095,54 @@
         }
       }
     ]
+  },
+  {
+    "word": "slumber",
+    "say": "SLUM-ber",
+    "forms": [
+      "slumbers",
+      "slumbered",
+      "slumbering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Sleep.",
+          "examples": [
+            "The baby is in a deep slumber.",
+            "The cat was in slumber.",
+            "He fell into a soft slumber."
+          ]
+        },
+        "more": {
+          "def": "A peaceful sleep, often a deep one.",
+          "examples": [
+            "The baby fell into a deep slumber in her mother's arms.",
+            "The bear spent the whole winter in slumber inside its cave.",
+            "We tiptoed past the dog in its peaceful slumber."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To sleep.",
+          "examples": [
+            "The cat slumbers in the sun.",
+            "The bear slumbered.",
+            "The baby slumbers."
+          ]
+        },
+        "more": {
+          "def": "To sleep, especially peacefully.",
+          "examples": [
+            "The bears slumbered in their den all winter long.",
+            "The whole village slumbered under the quiet stars.",
+            "She slumbered on the couch while the rain tapped on the roof."
+          ]
+        }
+      }
+    ]
   }
 ]
