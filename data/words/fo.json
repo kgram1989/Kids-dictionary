@@ -209,6 +209,34 @@
     ]
   },
   {
+    "word": "folder",
+    "say": "FOHL-der",
+    "forms": [
+      "folders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cover that holds papers.",
+          "examples": [
+            "Put it in the folder.",
+            "My folder is blue.",
+            "The folder has my papers."
+          ]
+        },
+        "more": {
+          "def": "A piece of folded cardboard or plastic that holds loose papers, or a place on a computer where files are kept together.",
+          "examples": [
+            "I keep my homework papers in a blue folder.",
+            "She made a folder on the computer for her photos.",
+            "The teacher handed out folders to everyone."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "folk",
     "say": "fohk",
     "forms": [
@@ -308,6 +336,34 @@
             "The leader walked with his followers behind him.",
             "She is a loyal follower of the team.",
             "The singer has thousands of followers online."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "folly",
+    "say": "FOL-ee",
+    "forms": [
+      "follies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A silly act or idea.",
+          "examples": [
+            "It was folly to go out in the storm.",
+            "What folly!",
+            "A foolish folly."
+          ]
+        },
+        "more": {
+          "def": "A silly or unwise idea or action.",
+          "examples": [
+            "It was folly to go out in the storm without coats.",
+            "The story is about the folly of a king who trusted a fox.",
+            "Building a house on sand is a folly."
           ]
         }
       }
@@ -845,6 +901,55 @@
             "The storm forced us to stay inside.",
             "She forced the stuck window open.",
             "Heavy rain forced the game to stop."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "forecast",
+    "say": "FOR-kast",
+    "forms": [
+      "forecasts",
+      "forecasted",
+      "forecasting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A guess about what will happen, like the weather.",
+          "examples": [
+            "The forecast says rain.",
+            "Check the weather forecast.",
+            "The forecast was right."
+          ]
+        },
+        "more": {
+          "def": "A statement about what is likely to happen, especially about the weather.",
+          "examples": [
+            "The weather forecast says it will rain tomorrow.",
+            "We checked the forecast before planning the picnic.",
+            "The forecast was for snow in the mountains."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say what will probably happen.",
+          "examples": [
+            "They forecast rain.",
+            "The weatherman forecasts snow.",
+            "She forecast a sunny day."
+          ]
+        },
+        "more": {
+          "def": "To say what is likely to happen in the future, especially the weather.",
+          "examples": [
+            "The weather service forecast heavy rain for the weekend.",
+            "She forecast that the team would win the game.",
+            "Scientists forecast storms by studying the clouds."
           ]
         }
       }

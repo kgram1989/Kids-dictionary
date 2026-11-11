@@ -29,6 +29,35 @@
     ]
   },
   {
+    "word": "seagull",
+    "say": "SEE-gul",
+    "emoji": "🐦",
+    "forms": [
+      "seagulls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A white and gray bird that lives near the sea.",
+          "examples": [
+            "A seagull flew by.",
+            "The seagull ate a crumb.",
+            "We fed the seagulls."
+          ]
+        },
+        "more": {
+          "def": "A large white and gray bird with a loud cry that lives near the sea and eats fish and scraps.",
+          "examples": [
+            "A seagull snatched a fry from my plate at the beach.",
+            "Seagulls screeched above the harbor as the boats came in.",
+            "The seagull landed on the pier and looked for food."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "seahorse",
     "say": "SEE-horss",
     "emoji": "🐴",
@@ -703,6 +732,34 @@
             "The night seems quiet when it snows.",
             "She seemed nervous before the big spelling bee.",
             "The test did not seem hard to me."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "segment",
+    "say": "SEG-munt",
+    "forms": [
+      "segments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One part of something.",
+          "examples": [
+            "A segment of the orange.",
+            "Cut the line into segments.",
+            "Eat a segment."
+          ]
+        },
+        "more": {
+          "def": "One of the parts that something is divided into, such as a piece of an orange or part of a line.",
+          "examples": [
+            "I ate a segment of the orange.",
+            "A worm's body is made up of many small segments.",
+            "Draw a line segment between the two dots."
           ]
         }
       }
