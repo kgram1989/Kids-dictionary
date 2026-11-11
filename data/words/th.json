@@ -225,6 +225,55 @@
     ]
   },
   {
+    "word": "thaw",
+    "say": "thaw",
+    "forms": [
+      "thaws",
+      "thawed",
+      "thawing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To melt or get warm after being frozen.",
+          "examples": [
+            "The ice will thaw.",
+            "Mom let the meat thaw.",
+            "Snow thaws in spring."
+          ]
+        },
+        "more": {
+          "def": "To become soft or liquid after having been frozen, or to make something do this.",
+          "examples": [
+            "The snow began to thaw as the spring sun grew warm.",
+            "Mom left the frozen peas on the counter to thaw.",
+            "The pond thawed in April."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A warm spell when ice melts.",
+          "examples": [
+            "The thaw came in March.",
+            "A thaw melted the snow.",
+            "We waited for the thaw."
+          ]
+        },
+        "more": {
+          "def": "A period of warmer weather when snow and ice melt.",
+          "examples": [
+            "The first thaw of the spring turned the snow to slush.",
+            "A sudden thaw in January melted the ice on the road.",
+            "We waited eagerly for the thaw to start planting."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "the",
     "say": "thuh",
     "senses": [
@@ -1472,6 +1521,36 @@
             "The king sat on his golden throne.",
             "The queen's throne was covered in jewels.",
             "The throne stood at the end of the great hall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "throttle",
+    "say": "THROT-ul",
+    "forms": [
+      "throttles",
+      "throttled",
+      "throttling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part you push to make a vehicle go faster.",
+          "examples": [
+            "He pushed the throttle.",
+            "The throttle makes the boat go.",
+            "She held the throttle."
+          ]
+        },
+        "more": {
+          "def": "A lever or handle that controls how fast an engine runs, such as on a boat or a motorcycle.",
+          "examples": [
+            "The driver pushed the throttle forward and the boat sped up.",
+            "She eased the throttle back to slow down.",
+            "The pilot held the throttle at half power."
           ]
         }
       }

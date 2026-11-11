@@ -484,6 +484,34 @@
     ]
   },
   {
+    "word": "milligram",
+    "say": "MIL-ih-gram",
+    "forms": [
+      "milligrams"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very, very small weight.",
+          "examples": [
+            "A grain of salt is a milligram.",
+            "The pill has ten milligrams.",
+            "A milligram is very small."
+          ]
+        },
+        "more": {
+          "def": "A very small unit of weight, equal to one thousandth of a gram.",
+          "examples": [
+            "The tablet contained five hundred milligrams of vitamin C.",
+            "A milligram is so small that you need a special scale to weigh it.",
+            "A grain of sand weighs about a milligram."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "million",
     "say": "MIL-yun",
     "forms": [
@@ -1622,6 +1650,34 @@
       {
         "word": "remix",
         "def": "To mix again; a new mix of a song."
+      }
+    ]
+  },
+  {
+    "word": "mixture",
+    "say": "MIKS-cher",
+    "forms": [
+      "mixtures"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Two or more things mixed together.",
+          "examples": [
+            "The cake mixture is ready.",
+            "A mixture of paint colors.",
+            "Sand and water make a mixture."
+          ]
+        },
+        "more": {
+          "def": "Something that is made by mixing different things together, so that each thing can still be told apart or separated.",
+          "examples": [
+            "We stirred the flour, eggs and milk into a smooth mixture.",
+            "Trail mix is a mixture of nuts, raisins and cereal.",
+            "The mixture of sand and water was easy to separate by pouring it through a strainer."
+          ]
+        }
       }
     ]
   }
