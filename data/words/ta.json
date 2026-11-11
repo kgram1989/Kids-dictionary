@@ -153,6 +153,59 @@
     ]
   },
   {
+    "word": "tactics",
+    "say": "TAK-tiks",
+    "forms": [
+      "tactic"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The plans you use to win a game or reach a goal.",
+          "examples": [
+            "Our tactics helped us win.",
+            "The coach talked about tactics.",
+            "We used a new tactic."
+          ]
+        },
+        "more": {
+          "def": "The clever plans or steps used to try to win a game or reach a goal.",
+          "examples": [
+            "The coach taught us new tactics for stopping the other team.",
+            "Chess players study tactics to plan their moves ahead.",
+            "Her tactics for the spelling bee included practicing every night."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tad",
+    "say": "tad",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very small amount.",
+          "examples": [
+            "Add just a tad of salt.",
+            "I am a tad tired.",
+            "He ate a tad of cake."
+          ]
+        },
+        "more": {
+          "def": "A tiny bit; a very small amount.",
+          "examples": [
+            "Add a tad more water to the soup and stir it.",
+            "She was a tad nervous before she went on stage.",
+            "The shirt is a tad too small for me now."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tag",
     "say": "tag",
     "emoji": "🏷️",
@@ -463,6 +516,111 @@
     ]
   },
   {
+    "word": "tally",
+    "say": "TAL-ee",
+    "forms": [
+      "tallies",
+      "tallied",
+      "tallying"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A count of how many there are.",
+          "examples": [
+            "Keep a tally of the points.",
+            "The tally was ten.",
+            "I made a tally."
+          ]
+        },
+        "more": {
+          "def": "A count or record of numbers or scores.",
+          "examples": [
+            "Keep a tally of the points as we play.",
+            "The tally of votes showed that the red team won.",
+            "I made a tally of the birds I saw at the feeder."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To count up a number.",
+          "examples": [
+            "I tally the votes.",
+            "We tallied the points.",
+            "She tallied the cookies."
+          ]
+        },
+        "more": {
+          "def": "To count up a total of something.",
+          "examples": [
+            "I tally the votes at the end of the day.",
+            "We tallied the points after the last game.",
+            "She tallied the cookies that were sold at the bake sale."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tame",
+    "say": "taym",
+    "forms": [
+      "tames",
+      "tamed",
+      "taming",
+      "tamer"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not wild; used to being around people.",
+          "examples": [
+            "The bird is tame.",
+            "A tame rabbit.",
+            "The tame fox ate from my hand."
+          ]
+        },
+        "more": {
+          "def": "Not afraid of people and not wild, or trained to live with people.",
+          "examples": [
+            "The tame bird landed on my shoulder.",
+            "We have a tame rabbit that loves to be petted.",
+            "The deer was so tame that it ate from her hand."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a wild animal gentle and used to people.",
+          "examples": [
+            "He tries to tame the horse.",
+            "She tamed the bird.",
+            "They tamed the wolf."
+          ]
+        },
+        "more": {
+          "def": "To train a wild animal so that it is gentle and not afraid of people.",
+          "examples": [
+            "He worked all summer to tame the wild horse.",
+            "She tamed a young bird by feeding it every day.",
+            "The farmer tamed the fox cub that he found."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "tamer",
+        "def": "A person who trains wild animals."
+      }
+    ]
+  },
+  {
     "word": "tan",
     "say": "tan",
     "forms": [
@@ -508,6 +666,61 @@
             "The sun gave us a tan."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "tangle",
+    "say": "TANG-gul",
+    "forms": [
+      "tangles",
+      "tangled",
+      "tangling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A messy bunch of things twisted together.",
+          "examples": [
+            "My hair is in a tangle.",
+            "The string is a tangle.",
+            "A tangle of wires."
+          ]
+        },
+        "more": {
+          "def": "A messy mass of things twisted together.",
+          "examples": [
+            "My hair is in a big tangle.",
+            "The kite string was a tangle of knots.",
+            "A tangle of vines covered the old fence."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To twist together in a messy way.",
+          "examples": [
+            "The strings tangled.",
+            "My hair tangles.",
+            "The fishing line tangled."
+          ]
+        },
+        "more": {
+          "def": "To twist things together so they are hard to pull apart.",
+          "examples": [
+            "The kite strings tangled in the wind.",
+            "My hair tangles when I run fast.",
+            "The fishing line tangled around the branch."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "untangle",
+        "def": "To undo a tangle."
       }
     ]
   },
@@ -685,6 +898,34 @@
     ]
   },
   {
+    "word": "tar",
+    "say": "tar",
+    "forms": [
+      "tars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Thick, black, sticky stuff used to make roads.",
+          "examples": [
+            "The road is made of tar.",
+            "Tar is sticky.",
+            "I stepped in tar."
+          ]
+        },
+        "more": {
+          "def": "A thick, black, sticky substance made from coal or wood that is used to cover roads and roofs.",
+          "examples": [
+            "Workers poured hot tar on the road.",
+            "The tar was black and sticky on my shoe.",
+            "Tar helps keep rain out of the roof."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "target",
     "say": "TAR-git",
     "forms": [
@@ -726,6 +967,53 @@
             "Our class has a target of reading fifty books.",
             "She set a target of running a mile.",
             "The team met its target."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tart",
+    "say": "tart",
+    "forms": [
+      "tarts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small pie that has fruit or jam in it.",
+          "examples": [
+            "I ate a tart.",
+            "The tart is sweet.",
+            "A cherry tart."
+          ]
+        },
+        "more": {
+          "def": "A small, open pie filled with fruit, jam or custard.",
+          "examples": [
+            "I ate a strawberry tart for dessert.",
+            "Grandma baked a cherry tart.",
+            "A tart with jam on top sat in the bakery window."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sharp and sour in taste.",
+          "examples": [
+            "The lemon is tart.",
+            "The apple tastes tart.",
+            "A tart berry."
+          ]
+        },
+        "more": {
+          "def": "Having a sharp, sour taste.",
+          "examples": [
+            "The lemon juice tasted tart.",
+            "A tart green apple makes a good pie.",
+            "The berries were tart without sugar."
           ]
         }
       }
@@ -896,6 +1184,35 @@
             "The sailor had a tattoo of an anchor on his arm.",
             "She got a tattoo of a rose on her shoulder.",
             "The tattoo will never wash off."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "taut",
+    "say": "tawt",
+    "forms": [
+      "tauter",
+      "tautest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Stretched tight.",
+          "examples": [
+            "The rope is taut.",
+            "The string was taut.",
+            "A taut sail."
+          ]
+        },
+        "more": {
+          "def": "Pulled tight so that it is not loose.",
+          "examples": [
+            "The rope was taut as we pulled the boat.",
+            "The string on the kite was taut in the wind.",
+            "A taut wire held up the tent."
           ]
         }
       }

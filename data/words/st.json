@@ -399,6 +399,35 @@
     ]
   },
   {
+    "word": "stallion",
+    "say": "STAL-yun",
+    "emoji": "🐴",
+    "forms": [
+      "stallions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A grown-up male horse.",
+          "examples": [
+            "The stallion ran fast.",
+            "A stallion is a male horse.",
+            "The stallion has a long mane."
+          ]
+        },
+        "more": {
+          "def": "An adult male horse, especially one used for breeding.",
+          "examples": [
+            "The stallion galloped across the field.",
+            "A stallion is a grown male horse.",
+            "The black stallion shook its long mane in the wind."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "stamp",
     "say": "stamp",
     "emoji": "📮",
@@ -719,6 +748,36 @@
     ]
   },
   {
+    "word": "startle",
+    "say": "STAR-tul",
+    "forms": [
+      "startles",
+      "startled",
+      "startling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone jump because of a sudden surprise.",
+          "examples": [
+            "The noise startled me.",
+            "I did not mean to startle the cat.",
+            "The loud bang startled us."
+          ]
+        },
+        "more": {
+          "def": "To surprise someone suddenly so that they jump or are afraid for a moment.",
+          "examples": [
+            "The loud noise startled me.",
+            "I did not mean to startle the cat when I walked in.",
+            "A sudden clap of thunder startled the children."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "starve",
     "say": "starv",
     "forms": [
@@ -1015,6 +1074,53 @@
     ]
   },
   {
+    "word": "status",
+    "say": "STAT-us",
+    "forms": [
+      "statuses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The state of something at a certain time.",
+          "examples": [
+            "What is the status of the game?",
+            "The status is \"open.\"",
+            "Check the status of the train."
+          ]
+        },
+        "more": {
+          "def": "The condition or situation of something at a particular time.",
+          "examples": [
+            "The sign shows the status of the train, which is late.",
+            "She checked the status of her order online.",
+            "The doctor reported the status of the patient to the family."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person's place or rank in a group.",
+          "examples": [
+            "He has the status of captain.",
+            "Her status as a champion was clear.",
+            "The king has high status."
+          ]
+        },
+        "more": {
+          "def": "A person's position or rank compared with others.",
+          "examples": [
+            "He has the status of team captain.",
+            "In the old days, a person's status often depended on their family.",
+            "A gold medal gave her the status of a champion."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "stay",
     "say": "stay",
     "forms": [
@@ -1288,6 +1394,80 @@
     ]
   },
   {
+    "word": "steering",
+    "say": "STEER-ing",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way that a vehicle is turned.",
+          "examples": [
+            "The car has good steering.",
+            "The steering is tight.",
+            "The steering wheel is round."
+          ]
+        },
+        "more": {
+          "def": "The parts of a car, boat or bike that you use to turn it.",
+          "examples": [
+            "The car has good steering and turns easily.",
+            "A broken steering wheel can be dangerous.",
+            "The boat's steering is controlled by a rudder."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stem",
+    "say": "stem",
+    "forms": [
+      "stems",
+      "stemmed",
+      "stemming"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The long part of a plant that holds up the flower.",
+          "examples": [
+            "The flower has a long stem.",
+            "The stem is green.",
+            "I picked the flower by its stem."
+          ]
+        },
+        "more": {
+          "def": "The main stalk of a plant that holds it up and carries water to the leaves and flowers.",
+          "examples": [
+            "The flower has a long green stem.",
+            "I cut the stem of the rose.",
+            "Water moves up the stem to the leaves."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To come from something.",
+          "examples": [
+            "The problem stems from a mistake.",
+            "His fear stems from a fall.",
+            "The rule stemmed from an accident."
+          ]
+        },
+        "more": {
+          "def": "To come from or be caused by something.",
+          "examples": [
+            "The problem stems from a small mistake.",
+            "His fear of dogs stems from a bite when he was little.",
+            "The rule stemmed from an accident last year."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "step",
     "say": "step",
     "emoji": "👣",
@@ -1370,6 +1550,34 @@
             "Step carefully over the slippery rocks.",
             "He stepped aside to let the little girl pass.",
             "Do not step on the sleeping cat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stepmother",
+    "say": "STEP-muth-er",
+    "forms": [
+      "stepmothers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The woman who is married to your father but is not your mom.",
+          "examples": [
+            "My stepmother makes good pancakes.",
+            "Her stepmother is kind.",
+            "He lives with his stepmother."
+          ]
+        },
+        "more": {
+          "def": "The woman who is married to your father, when she is not the mother who gave birth to you.",
+          "examples": [
+            "My stepmother taught me how to bake bread.",
+            "He gave his stepmother a card on her birthday.",
+            "In the old story, the girl's stepmother was kind in the end."
           ]
         }
       }
@@ -1506,6 +1714,34 @@
     ]
   },
   {
+    "word": "stewardess",
+    "say": "STOO-er-dess",
+    "forms": [
+      "stewardesses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A woman who serves passengers on a plane.",
+          "examples": [
+            "The stewardess gave us juice.",
+            "A stewardess helped us.",
+            "She is a stewardess."
+          ]
+        },
+        "more": {
+          "def": "A woman whose job is to look after passengers and serve them on a plane, ship or train; people now more often say flight attendant.",
+          "examples": [
+            "The stewardess gave us juice and showed us how to buckle our belts.",
+            "A stewardess in a blue uniform greeted each passenger.",
+            "In old movies, the stewardess served meals on the plane."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "stick",
     "say": "stik",
     "emoji": "🪵",
@@ -1550,6 +1786,53 @@
             "Wet snow sticks to your mittens and makes good snowballs.",
             "The stamp would not stick to the envelope.",
             "Peanut butter stuck to the roof of my mouth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sticker",
+    "say": "STIK-er",
+    "forms": [
+      "stickers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A little picture that sticks to things.",
+          "examples": [
+            "I put a sticker on my book.",
+            "My teacher gave me a sticker.",
+            "The sticker is shiny."
+          ]
+        },
+        "more": {
+          "def": "A small piece of paper or plastic with a picture and glue on the back.",
+          "examples": [
+            "My teacher gave me a star sticker for good work.",
+            "He put a dinosaur sticker on the front of his notebook.",
+            "The cashier gave each kid a sticker at the end of the visit."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small sharp point on a plant.",
+          "examples": [
+            "I have a sticker in my sock.",
+            "The sticker hurt my foot.",
+            "A sticker was on the weed."
+          ]
+        },
+        "more": {
+          "def": "A small, sharp, pointed part on a plant that can poke you.",
+          "examples": [
+            "I found a sticker in my sock after walking through the weeds.",
+            "The bush had a sticker on every branch.",
+            "The dog stepped on a sticker and held up his paw."
           ]
         }
       }
@@ -1765,6 +2048,35 @@
     ]
   },
   {
+    "word": "stinky",
+    "say": "STING-kee",
+    "forms": [
+      "stinkier",
+      "stinkiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having a very bad smell.",
+          "examples": [
+            "The garbage is stinky.",
+            "My socks are stinky.",
+            "A stinky cheese."
+          ]
+        },
+        "more": {
+          "def": "Having a strong bad smell.",
+          "examples": [
+            "The garbage was stinky on the hot day.",
+            "My shoes are stinky after soccer.",
+            "We held our noses near the stinky cheese."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "stir",
     "say": "ster",
     "forms": [
@@ -1900,6 +2212,34 @@
     ]
   },
   {
+    "word": "stockings",
+    "say": "STOK-ingz",
+    "forms": [
+      "stocking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Long, thin socks that go up the leg.",
+          "examples": [
+            "I put on stockings.",
+            "The stockings are warm.",
+            "She wore white stockings."
+          ]
+        },
+        "more": {
+          "def": "Close-fitting coverings for the feet and legs, made of cloth or wool.",
+          "examples": [
+            "She wore white stockings with her dress.",
+            "The stockings kept her legs warm on the cold day.",
+            "We hung our stockings by the fire for the holiday."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "stomach",
     "say": "STUM-uk",
     "forms": [
@@ -1981,6 +2321,83 @@
             "She skipped a flat stone across the pond.",
             "The castle walls were built of gray stone.",
             "He put a stone on the paper to hold it down."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stool",
+    "say": "stool",
+    "forms": [
+      "stools"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A seat with no back.",
+          "examples": [
+            "I sat on a stool.",
+            "The stool is small.",
+            "A stool is by the counter."
+          ]
+        },
+        "more": {
+          "def": "A seat that has no back and no arms.",
+          "examples": [
+            "I sat on a stool at the kitchen counter.",
+            "She stood on a stool to reach the top shelf.",
+            "A three-legged stool sat by the fire."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stoop",
+    "say": "stoop",
+    "forms": [
+      "stoops",
+      "stooped",
+      "stooping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To bend forward and down.",
+          "examples": [
+            "I stoop to pick up the ball.",
+            "She stooped to pet the cat.",
+            "She stooped down."
+          ]
+        },
+        "more": {
+          "def": "To bend your body forward and down.",
+          "examples": [
+            "I stooped to pick up the ball.",
+            "He stooped to tie his shoe.",
+            "She stooped to look under the bed."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The small porch or steps at the front of a house.",
+          "examples": [
+            "We sat on the stoop.",
+            "The stoop is made of stone.",
+            "He waited on the stoop."
+          ]
+        },
+        "more": {
+          "def": "A small porch or set of steps at the front door of a house.",
+          "examples": [
+            "We sat on the stoop and ate ice cream.",
+            "The stoop is made of cold gray stone.",
+            "He waited on the stoop for his friend."
           ]
         }
       }
@@ -2920,6 +3337,56 @@
     ]
   },
   {
+    "word": "stride",
+    "say": "stryd",
+    "forms": [
+      "strides",
+      "strode",
+      "stridden",
+      "striding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To walk with long steps.",
+          "examples": [
+            "He strode into the room.",
+            "We stride across the field.",
+            "She strode down the hall."
+          ]
+        },
+        "more": {
+          "def": "To walk with long, strong steps.",
+          "examples": [
+            "He strode across the field to meet us.",
+            "She strode down the hall with a big smile.",
+            "The hikers strode up the hill with their backpacks."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long step.",
+          "examples": [
+            "He took a big stride.",
+            "His stride is long.",
+            "She kept up with his stride."
+          ]
+        },
+        "more": {
+          "def": "A long step in walking or running.",
+          "examples": [
+            "He took a long stride over the puddle.",
+            "She had to run to keep up with his stride.",
+            "The runner's stride grew faster at the end of the race."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "strike",
     "say": "stryk",
     "forms": [
@@ -3492,6 +3959,54 @@
     ]
   },
   {
+    "word": "stuffy",
+    "say": "STUF-ee",
+    "forms": [
+      "stuffier",
+      "stuffiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Warm and without fresh air.",
+          "examples": [
+            "The room is stuffy.",
+            "It is stuffy in here.",
+            "The stuffy attic is hot."
+          ]
+        },
+        "more": {
+          "def": "Without enough fresh air, so it feels close and warm.",
+          "examples": [
+            "The room was stuffy, so we opened a window.",
+            "The attic was hot and stuffy in the summer.",
+            "I could not breathe in the stuffy car."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Blocked, so you cannot breathe through your nose.",
+          "examples": [
+            "I have a stuffy nose.",
+            "My nose is stuffy.",
+            "A cold gives me a stuffy nose."
+          ]
+        },
+        "more": {
+          "def": "Blocked up, so that it is hard to breathe through your nose.",
+          "examples": [
+            "I have a stuffy nose because of my cold.",
+            "My nose got stuffy and I could not smell the soup.",
+            "A stuffy nose can make it hard to sleep."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "stumble",
     "say": "STUM-bul",
     "forms": [
@@ -3516,6 +4031,83 @@
             "I stumbled over a rock on the trail.",
             "She stumbled on the stairs but caught the rail.",
             "He stumbled in the dark."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stump",
+    "say": "stump",
+    "forms": [
+      "stumps",
+      "stumped",
+      "stumping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of a tree left in the ground.",
+          "examples": [
+            "I sat on the stump.",
+            "The stump was wide.",
+            "A frog sat on the stump."
+          ]
+        },
+        "more": {
+          "def": "The part of a tree trunk that stays in the ground after the tree is cut down.",
+          "examples": [
+            "We sat on a tree stump to eat our lunch.",
+            "A squirrel hid nuts under an old stump.",
+            "The stump showed rings that told how old the tree was."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To ask something so hard that no one knows the answer.",
+          "examples": [
+            "That riddle stumps me.",
+            "The question stumped the class.",
+            "It stumped everyone."
+          ]
+        },
+        "more": {
+          "def": "To puzzle someone so much that they cannot find the answer.",
+          "examples": [
+            "That riddle really stumps me.",
+            "The hard question stumped the whole class.",
+            "The magic trick stumped everyone in the room."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stunning",
+    "say": "STUN-ing",
+    "forms": [
+      "stunningly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very beautiful or amazing.",
+          "examples": [
+            "The view was stunning.",
+            "She wore a stunning dress.",
+            "A stunning sunset."
+          ]
+        },
+        "more": {
+          "def": "Extremely beautiful, impressive or surprising.",
+          "examples": [
+            "The view from the top of the mountain was stunning.",
+            "She wore a stunning blue dress to the dance.",
+            "We watched a stunning sunset over the ocean."
           ]
         }
       }
@@ -3573,6 +4165,61 @@
             "It was a stupid mistake to leave the gate open, and the sheep got out.",
             "Running into the street without looking is a stupid thing to do.",
             "He felt stupid after locking his keys inside the car."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stupidity",
+    "say": "stoo-PID-ih-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being foolish or not using your brain.",
+          "examples": [
+            "His stupidity was funny.",
+            "It was an act of stupidity.",
+            "Stupidity is not thinking."
+          ]
+        },
+        "more": {
+          "def": "The quality of being foolish or showing a lack of good thinking.",
+          "examples": [
+            "His stupidity caused the mess.",
+            "It was an act of stupidity to run into the road.",
+            "I am sorry for my stupidity."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "stutter",
+    "say": "STUT-er",
+    "forms": [
+      "stutters",
+      "stuttered",
+      "stuttering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To repeat sounds when you talk.",
+          "examples": [
+            "He stutters.",
+            "She stuttered a little.",
+            "He stuttered when he was nervous."
+          ]
+        },
+        "more": {
+          "def": "To repeat or stop on certain sounds when you speak, so the words do not come out smoothly.",
+          "examples": [
+            "He stutters when he is nervous.",
+            "She stuttered on the first word of her speech.",
+            "Some people stutter, and it takes patience to listen."
           ]
         }
       }

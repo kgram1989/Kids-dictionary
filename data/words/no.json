@@ -231,6 +231,42 @@
     ]
   },
   {
+    "word": "nominate",
+    "say": "NOM-ih-nayt",
+    "forms": [
+      "nominates",
+      "nominated",
+      "nominating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To name someone for a job or a prize.",
+          "examples": [
+            "I nominate her for class president.",
+            "He was nominated.",
+            "We nominated a friend."
+          ]
+        },
+        "more": {
+          "def": "To choose or suggest someone to be in a race for a job or award.",
+          "examples": [
+            "I nominate Maya for class president.",
+            "He was nominated for a prize.",
+            "We nominated our friend for the kindness award."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "nomination",
+        "def": "Being chosen to be in a vote or contest."
+      }
+    ]
+  },
+  {
     "word": "none",
     "say": "nun",
     "senses": [
@@ -362,6 +398,34 @@
     ]
   },
   {
+    "word": "norm",
+    "say": "norm",
+    "forms": [
+      "norms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What is usual or expected.",
+          "examples": [
+            "Being on time is the norm.",
+            "It is the norm.",
+            "Wearing coats is the norm here."
+          ]
+        },
+        "more": {
+          "def": "What is usual or normal in a group or place.",
+          "examples": [
+            "Being on time is the norm at our school.",
+            "Sharing is the norm in our family.",
+            "Snow is the norm in January here."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "normal",
     "say": "NOR-mul",
     "senses": [
@@ -462,6 +526,50 @@
     ]
   },
   {
+    "word": "northwest",
+    "say": "north-WEST",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The direction between north and west.",
+          "examples": [
+            "The wind came from the northwest.",
+            "We drove northwest.",
+            "The storm moved to the northwest."
+          ]
+        },
+        "more": {
+          "def": "The direction that is halfway between north and west.",
+          "examples": [
+            "The wind blew from the northwest.",
+            "The storm is moving toward the northwest.",
+            "We live in the northwest part of town."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Toward the place between north and west.",
+          "examples": [
+            "The northwest corner of the yard is shady.",
+            "A northwest wind blew.",
+            "We went to the northwest side."
+          ]
+        },
+        "more": {
+          "def": "Lying in, coming from or facing the direction halfway between north and west.",
+          "examples": [
+            "The northwest corner of the field is wet.",
+            "A cold northwest wind blew all day.",
+            "We camped on the northwest side of the lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nose",
     "say": "nohz",
     "emoji": "👃",
@@ -491,6 +599,35 @@
     ]
   },
   {
+    "word": "nosy",
+    "say": "NOH-zee",
+    "forms": [
+      "nosier",
+      "nosiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wanting to know about other people's business.",
+          "examples": [
+            "The nosy neighbor looked in.",
+            "She is nosy.",
+            "A nosy cat."
+          ]
+        },
+        "more": {
+          "def": "Too interested in other people's private things.",
+          "examples": [
+            "The nosy neighbor peeked over the fence.",
+            "She is nosy and always reads my notes.",
+            "A nosy cat poked its head into the bag."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "not",
     "say": "not",
     "senses": [
@@ -510,6 +647,55 @@
             "Penguins can swim, but they cannot fly, and that is not a mistake.",
             "Please do not run in the hallway.",
             "The test was not as hard as I thought."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "notch",
+    "say": "noch",
+    "forms": [
+      "notches",
+      "notched",
+      "notching"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small V-shaped cut.",
+          "examples": [
+            "There is a notch in the stick.",
+            "A notch in the board was made.",
+            "I counted the notches."
+          ]
+        },
+        "more": {
+          "def": "A small V-shaped cut or dent in a surface.",
+          "examples": [
+            "He carved a notch in the stick for each day.",
+            "There is a notch in the board where the rope fits.",
+            "A notch at the end of the arrow holds the string."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a small cut or mark on something.",
+          "examples": [
+            "I notch the stick to count days.",
+            "He notched the board.",
+            "They notched the log."
+          ]
+        },
+        "more": {
+          "def": "To cut a small V-shaped mark in something, or to score.",
+          "examples": [
+            "He notched the stick to keep track of the days.",
+            "The carpenter notched the beam so the board would fit.",
+            "She notched a point for her team in the last round."
           ]
         }
       }

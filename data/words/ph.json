@@ -1,5 +1,62 @@
 [
   {
+    "word": "phantom",
+    "say": "FAN-tum",
+    "emoji": "👻",
+    "forms": [
+      "phantoms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A ghost.",
+          "examples": [
+            "The story has a phantom.",
+            "The phantom floated down the hall.",
+            "We read about a phantom."
+          ]
+        },
+        "more": {
+          "def": "A ghost, or something that seems real but is not.",
+          "examples": [
+            "The story is about a phantom that haunts the old theater.",
+            "A phantom shape drifted through the foggy graveyard.",
+            "In the tale, a phantom appeared at midnight and then faded away."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pharmacy",
+    "say": "FAR-muh-see",
+    "forms": [
+      "pharmacies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where you get medicine.",
+          "examples": [
+            "Mom went to the pharmacy.",
+            "The pharmacy is open.",
+            "I got medicine at the pharmacy."
+          ]
+        },
+        "more": {
+          "def": "A shop or part of a store where medicine is prepared and sold.",
+          "examples": [
+            "Mom picked up my medicine at the pharmacy.",
+            "The pharmacy is next to the grocery store.",
+            "The pharmacist at the pharmacy answered our questions."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "phase",
     "say": "fayz",
     "forms": [
@@ -22,6 +79,31 @@
             "The moon goes through many phases each month.",
             "A caterpillar is one phase in a butterfly's life.",
             "The first phase of the project is finished."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "phew",
+    "say": "fyoo",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A word you say when you are glad something bad did not happen.",
+          "examples": [
+            "Phew! I am glad that is over.",
+            "Phew, it is hot.",
+            "Phew, we made it!"
+          ]
+        },
+        "more": {
+          "def": "A word used to show that you feel relieved, tired or hot.",
+          "examples": [
+            "Phew! I am glad the test is over.",
+            "Phew, it is hot in here!",
+            "Phew, we got to the bus just in time."
           ]
         }
       }
@@ -174,6 +256,32 @@
     ]
   },
   {
+    "word": "photography",
+    "say": "fuh-TOG-ruh-fee",
+    "emoji": "📷",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Taking pictures with a camera.",
+          "examples": [
+            "I like photography.",
+            "Photography is fun.",
+            "He studies photography."
+          ]
+        },
+        "more": {
+          "def": "The art or hobby of taking pictures with a camera.",
+          "examples": [
+            "I love photography and take pictures of birds.",
+            "She studies photography and has a good camera.",
+            "Photography lets you save memories of special days."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "phrase",
     "say": "frayz",
     "forms": [
@@ -253,6 +361,31 @@
             "The physician examined my throat.",
             "The family physician gave me a checkup.",
             "The physician told her to rest."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "physics",
+    "say": "FIZ-iks",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The study of things like motion, light and heat.",
+          "examples": [
+            "I like physics.",
+            "Physics explains how things move.",
+            "He studies physics."
+          ]
+        },
+        "more": {
+          "def": "The science that studies matter, energy, motion, heat and light.",
+          "examples": [
+            "I like physics, because it explains how things move.",
+            "A pendulum swinging back and forth is an example of physics.",
+            "She is a physics teacher."
           ]
         }
       }

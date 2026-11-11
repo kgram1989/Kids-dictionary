@@ -1,5 +1,70 @@
 [
   {
+    "word": "foal",
+    "say": "fohl",
+    "forms": [
+      "foals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A baby horse.",
+          "examples": [
+            "The foal is small.",
+            "A foal stood by its mother.",
+            "The foal ran."
+          ]
+        },
+        "more": {
+          "def": "A young horse, especially one less than a year old.",
+          "examples": [
+            "The foal stood on shaky legs next to its mother.",
+            "A newborn foal can run within hours.",
+            "The foal nuzzled the mare."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "foam",
+    "say": "fohm",
+    "forms": [
+      "foams",
+      "foamed",
+      "foaming",
+      "foamy"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mass of tiny bubbles.",
+          "examples": [
+            "The soap makes foam.",
+            "Foam is on the waves.",
+            "The foam is white."
+          ]
+        },
+        "more": {
+          "def": "A mass of tiny bubbles on top of a liquid, or a light material full of tiny air holes.",
+          "examples": [
+            "The soap made lots of foam in the sink.",
+            "White foam covered the top of the waves.",
+            "I sat on a foam cushion."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "foamy",
+        "def": "Full of foam."
+      }
+    ]
+  },
+  {
     "word": "focus",
     "say": "FOH-kus",
     "forms": [
@@ -187,6 +252,34 @@
             "Please follow the directions on the box carefully.",
             "She followed the recipe to bake the cake.",
             "Cars must follow the traffic signs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "follower",
+    "say": "FOL-oh-er",
+    "forms": [
+      "followers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who comes after or goes with someone.",
+          "examples": [
+            "The leader had many followers.",
+            "A follower of the band.",
+            "The follower walked behind."
+          ]
+        },
+        "more": {
+          "def": "A person who follows another person, or supports a person or idea.",
+          "examples": [
+            "The leader walked with his followers behind him.",
+            "She is a loyal follower of the team.",
+            "The singer has thousands of followers online."
           ]
         }
       }
@@ -469,6 +562,35 @@
     ]
   },
   {
+    "word": "footprint",
+    "say": "FUUT-print",
+    "emoji": "👣",
+    "forms": [
+      "footprints"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mark that your foot leaves.",
+          "examples": [
+            "I left a footprint in the sand.",
+            "We saw footprints in the snow.",
+            "The dog's footprint is in the mud."
+          ]
+        },
+        "more": {
+          "def": "The mark left on the ground by a foot or shoe.",
+          "examples": [
+            "Muddy footprints led across the kitchen floor.",
+            "The scientist measured a bear footprint beside the river.",
+            "We followed the footprints in the fresh snow to the barn."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "footstep",
     "say": "FUUT-step",
     "senses": [
@@ -538,6 +660,55 @@
             "The nurse made a bandage for my scraped knee.",
             "We waited for the bus for ten minutes.",
             "A saw is a tool for cutting wood."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "forage",
+    "say": "FOR-ij",
+    "forms": [
+      "forages",
+      "foraged",
+      "foraging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To search for food.",
+          "examples": [
+            "Squirrels forage for nuts.",
+            "The deer forage in the woods.",
+            "We foraged for berries."
+          ]
+        },
+        "more": {
+          "def": "To search for food in the wild.",
+          "examples": [
+            "Squirrels forage for nuts in the fall.",
+            "The deer foraged in the woods for tender leaves.",
+            "We foraged for blackberries along the trail."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Food for horses and cows, such as grass or hay.",
+          "examples": [
+            "The cows eat forage.",
+            "The forage is hay.",
+            "We grow forage."
+          ]
+        },
+        "more": {
+          "def": "Plants such as grass and hay that are eaten by farm animals.",
+          "examples": [
+            "The cows ate forage in the field.",
+            "The farmer cut forage for the animals' winter food.",
+            "Hay is a common kind of forage."
           ]
         }
       }
@@ -788,6 +959,36 @@
     ]
   },
   {
+    "word": "forfeit",
+    "say": "FOR-fit",
+    "forms": [
+      "forfeits",
+      "forfeited",
+      "forfeiting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To lose something because you broke a rule or gave up.",
+          "examples": [
+            "The team forfeited the game.",
+            "He forfeited his turn.",
+            "They forfeit the match."
+          ]
+        },
+        "more": {
+          "def": "To give up or lose something, such as a game, because of a rule or a mistake.",
+          "examples": [
+            "The team forfeited the game because it did not have enough players.",
+            "He forfeited his turn by talking out of order.",
+            "They forfeited the match when they could not play."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "forget",
     "say": "fer-GET",
     "forms": [
@@ -1031,6 +1232,53 @@
     ]
   },
   {
+    "word": "formation",
+    "say": "for-MAY-shun",
+    "forms": [
+      "formations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way things are arranged in a pattern.",
+          "examples": [
+            "The geese flew in a V formation.",
+            "The soldiers stood in formation.",
+            "We marched in formation."
+          ]
+        },
+        "more": {
+          "def": "A group of people or things arranged in a certain pattern or shape.",
+          "examples": [
+            "Geese fly in a V formation across the autumn sky.",
+            "The marching band moved into a circle formation on the field.",
+            "The planes flew in a tight formation over the stadium."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way something is made or begins.",
+          "examples": [
+            "The formation of ice is fun to watch.",
+            "Rain leads to the formation of puddles.",
+            "I studied the formation of clouds."
+          ]
+        },
+        "more": {
+          "def": "The process of making or shaping something, or something that has been shaped by nature.",
+          "examples": [
+            "Scientists study the formation of mountains over millions of years.",
+            "The formation of the team took many weeks of practice.",
+            "The cave has strange rock formations that hang from the ceiling."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "former",
     "say": "FOR-mer",
     "senses": [
@@ -1103,6 +1351,34 @@
             "The pendulum swung back and forth.",
             "The knights rode forth into the forest.",
             "She stepped forth to receive her prize."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fortress",
+    "say": "FOR-triss",
+    "forms": [
+      "fortresses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong building or place that is built to keep people safe from attack.",
+          "examples": [
+            "The fortress had thick walls.",
+            "We visited a fortress.",
+            "The fortress is made of stone."
+          ]
+        },
+        "more": {
+          "def": "A strong place with thick walls that is built to protect people from attack.",
+          "examples": [
+            "The fortress had thick stone walls and tall towers.",
+            "We visited an old fortress on a hill.",
+            "Soldiers once guarded the fortress day and night."
           ]
         }
       }

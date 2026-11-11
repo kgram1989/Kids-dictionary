@@ -1,5 +1,34 @@
 [
   {
+    "word": "cub",
+    "say": "kub",
+    "emoji": "🐻",
+    "forms": [
+      "cubs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A baby bear, lion or fox.",
+          "examples": [
+            "The bear cub is cute.",
+            "A cub played in the grass.",
+            "The lion cub ran."
+          ]
+        },
+        "more": {
+          "def": "The young of some wild animals, such as bears, lions and foxes.",
+          "examples": [
+            "The bear cub followed its mother through the woods.",
+            "A lion cub pounced on its sister's tail.",
+            "The fox cubs played outside the den."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cube",
     "say": "kyoob",
     "forms": [
@@ -22,6 +51,56 @@
             "A die is a cube.",
             "I put an ice cube in my drink.",
             "The box is shaped like a cube."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cuddle",
+    "say": "KUD-ul",
+    "forms": [
+      "cuddles",
+      "cuddled",
+      "cuddling",
+      "cuddly"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hold someone close in a warm, loving way.",
+          "examples": [
+            "I cuddle my puppy.",
+            "She cuddled her doll.",
+            "We cuddled on the couch."
+          ]
+        },
+        "more": {
+          "def": "To hold or snuggle someone close for warmth or love.",
+          "examples": [
+            "I cuddle my puppy every night.",
+            "She cuddled her doll and sang a lullaby.",
+            "We cuddled on the couch under a warm blanket."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A warm hug.",
+          "examples": [
+            "The baby wants a cuddle.",
+            "I gave her a cuddle.",
+            "A cuddle is nice."
+          ]
+        },
+        "more": {
+          "def": "A gentle, loving hug.",
+          "examples": [
+            "The baby wants a cuddle from her mom.",
+            "I gave my little brother a cuddle after he fell.",
+            "A big cuddle can make you feel better."
           ]
         }
       }
@@ -103,6 +182,34 @@
     ]
   },
   {
+    "word": "cultural",
+    "say": "KUL-cher-ul",
+    "forms": [
+      "culturally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with the ways, art and customs of a group of people.",
+          "examples": [
+            "We went to a cultural fair.",
+            "Food is part of our culture.",
+            "The cultural dance was fun."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the ideas, art, music and customs of a group of people.",
+          "examples": [
+            "We went to a cultural festival with food and dances from many countries.",
+            "The museum teaches about the cultural history of the region.",
+            "Food is an important cultural tradition in many families."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "culture",
     "say": "KUL-cher",
     "forms": [
@@ -125,6 +232,34 @@
             "Each culture has its own foods and holidays.",
             "We read about the culture of ancient Egypt.",
             "Art and music are part of every culture."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cunning",
+    "say": "KUN-ing",
+    "forms": [
+      "cunningly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Clever, often in a sneaky way.",
+          "examples": [
+            "The cunning fox tricked the crow.",
+            "She made a cunning plan.",
+            "The cunning cat caught the bird."
+          ]
+        },
+        "more": {
+          "def": "Clever at getting what you want, often by tricking others.",
+          "examples": [
+            "The cunning fox tricked the crow into dropping the cheese.",
+            "She made a cunning plan to win the game.",
+            "The cunning cat waited quietly for the mouse."
           ]
         }
       }
@@ -173,6 +308,84 @@
             "The recipe calls for one cup of flour.",
             "Add two cups of water to the pot.",
             "Measure a cup of rice."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cupcake",
+    "say": "KUP-kayk",
+    "emoji": "🧁",
+    "forms": [
+      "cupcakes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small cake with icing on top.",
+          "examples": [
+            "I ate a cupcake.",
+            "The cupcake has pink icing.",
+            "Mom baked cupcakes for my party."
+          ]
+        },
+        "more": {
+          "def": "A small cake baked in a paper cup, often with icing on top.",
+          "examples": [
+            "Each cupcake had a sprinkle of colored sugar on top.",
+            "We baked a dozen cupcakes for the school bake sale.",
+            "She put a candle on her birthday cupcake and made a wish."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "curb",
+    "say": "kerb",
+    "forms": [
+      "curbs",
+      "curbed",
+      "curbing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The edge of the sidewalk next to the street.",
+          "examples": [
+            "Stop at the curb.",
+            "He sat on the curb.",
+            "The car parked by the curb."
+          ]
+        },
+        "more": {
+          "def": "The raised edge of a sidewalk where it meets the street.",
+          "examples": [
+            "Stop at the curb and look both ways before you cross.",
+            "The car parked next to the curb in front of our house.",
+            "We sat on the curb and ate ice cream."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hold back or control.",
+          "examples": [
+            "I curb my temper.",
+            "We must curb our spending.",
+            "He curbed his appetite."
+          ]
+        },
+        "more": {
+          "def": "To hold something back or keep it under control.",
+          "examples": [
+            "I tried to curb my laughing in class.",
+            "We must curb our spending until payday.",
+            "She curbed her temper and spoke calmly."
           ]
         }
       }
@@ -230,6 +443,34 @@
       {
         "word": "curable",
         "def": "Able to be cured."
+      }
+    ]
+  },
+  {
+    "word": "curfew",
+    "say": "KER-fyoo",
+    "forms": [
+      "curfews"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A time when you must be home.",
+          "examples": [
+            "My curfew is at nine.",
+            "I got home before curfew.",
+            "Our curfew is when it gets dark."
+          ]
+        },
+        "more": {
+          "def": "A rule that says people must be home or off the streets by a set time.",
+          "examples": [
+            "My older brother has a curfew of ten o'clock on weekends.",
+            "The town set a curfew so everyone would be home by dark.",
+            "Campers had a curfew, and lights went out at nine."
+          ]
+        }
       }
     ]
   },
@@ -314,6 +555,57 @@
     ]
   },
   {
+    "word": "curl",
+    "say": "kerl",
+    "emoji": "🌀",
+    "forms": [
+      "curls",
+      "curled",
+      "curling",
+      "curly"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bit of hair that bends in a round shape.",
+          "examples": [
+            "She has a curl on her head.",
+            "A curl fell over my eye.",
+            "He has red curls."
+          ]
+        },
+        "more": {
+          "def": "A small, round, bent shape, such as a lock of hair or a ribbon.",
+          "examples": [
+            "A single golden curl hung down over her forehead.",
+            "A curl of smoke rose up from the campfire.",
+            "The baby had soft dark curls all over her head."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To bend or twist into a round shape.",
+          "examples": [
+            "The kitten curled up in my lap.",
+            "My hair curls when it is wet.",
+            "Leaves curl in the sun."
+          ]
+        },
+        "more": {
+          "def": "To twist into rings or round shapes, or to curve around something.",
+          "examples": [
+            "The cat curled up on the sofa and fell asleep.",
+            "Heat made the edges of the paper curl.",
+            "The snake curled itself around a branch."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "curly",
     "say": "KER-lee",
     "forms": [
@@ -337,6 +629,34 @@
             "She has long, curly hair.",
             "The pig's curly tail wagged.",
             "The paper made curly shapes when I rolled it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "currency",
+    "say": "KER-un-see",
+    "forms": [
+      "currencies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The kind of money used in a country.",
+          "examples": [
+            "Dollars are the currency here.",
+            "What currency do they use??",
+            "I changed my currency."
+          ]
+        },
+        "more": {
+          "def": "The type of money that is used in a country.",
+          "examples": [
+            "The currency of the United States is the dollar.",
+            "I changed my money into the local currency when I arrived.",
+            "Each country has its own currency."
           ]
         }
       }
@@ -543,6 +863,55 @@
       {
         "word": "curvy",
         "def": "Having many curves."
+      }
+    ]
+  },
+  {
+    "word": "cushion",
+    "say": "KUUSH-un",
+    "forms": [
+      "cushions",
+      "cushioned",
+      "cushioning"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft pillow that you sit or lean on.",
+          "examples": [
+            "I sit on a cushion.",
+            "The cushion is soft.",
+            "The cat sleeps on a cushion."
+          ]
+        },
+        "more": {
+          "def": "A soft bag or pad that you sit or lean on, or that protects something from hard bumps.",
+          "examples": [
+            "I sat on a soft cushion on the floor.",
+            "The cat slept on the sofa cushion.",
+            "A thick cushion kept the vase from breaking."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To soften a hit or fall.",
+          "examples": [
+            "The pillow cushions my fall.",
+            "The snow cushioned the fall.",
+            "Grass cushions the fall."
+          ]
+        },
+        "more": {
+          "def": "To make something softer or easier to bear, such as a hit or a bump.",
+          "examples": [
+            "The soft snow cushioned her fall.",
+            "The thick grass cushioned the landing.",
+            "A helmet cushions your head if you fall."
+          ]
+        }
       }
     ]
   },

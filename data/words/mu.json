@@ -261,6 +261,36 @@
     ]
   },
   {
+    "word": "mumble",
+    "say": "MUM-bul",
+    "forms": [
+      "mumbles",
+      "mumbled",
+      "mumbling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To talk so softly no one can hear well.",
+          "examples": [
+            "He mumbles when he is shy.",
+            "Do not mumble.",
+            "She mumbled a word."
+          ]
+        },
+        "more": {
+          "def": "To speak softly and unclearly, so that people have a hard time hearing.",
+          "examples": [
+            "He mumbled his answer so softly that no one heard it.",
+            "Do not mumble when you read aloud to the class.",
+            "She mumbled something about being tired and went to bed."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mummy",
     "say": "MUM-ee",
     "forms": [
@@ -302,6 +332,55 @@
             "My mummy tucked me in.",
             "The little girl hugged her mummy.",
             "Mummy packed a snack."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "murmur",
+    "say": "MER-mer",
+    "forms": [
+      "murmurs",
+      "murmured",
+      "murmuring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To speak in a very soft, low voice.",
+          "examples": [
+            "She murmured a few words.",
+            "The stream murmurs.",
+            "He murmured softly."
+          ]
+        },
+        "more": {
+          "def": "To speak or sound very softly and quietly.",
+          "examples": [
+            "She murmured a few words to the baby.",
+            "The stream murmured over the rocks.",
+            "He murmured a thank-you."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft, low sound.",
+          "examples": [
+            "I heard a murmur.",
+            "A murmur came from the next room.",
+            "The murmur of the crowd."
+          ]
+        },
+        "more": {
+          "def": "A soft, low, steady sound, such as that of voices or water.",
+          "examples": [
+            "I heard a murmur coming from the next room.",
+            "The murmur of the crowd grew quiet when the show began.",
+            "We fell asleep to the murmur of the stream."
           ]
         }
       }
@@ -522,6 +601,35 @@
     ]
   },
   {
+    "word": "mustang",
+    "say": "MUS-tang",
+    "emoji": "🐎",
+    "forms": [
+      "mustangs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wild horse of the western plains.",
+          "examples": [
+            "A mustang ran across the field.",
+            "The mustang is wild.",
+            "We saw a mustang."
+          ]
+        },
+        "more": {
+          "def": "A small, wild horse of the American West that is descended from horses brought by Spanish settlers.",
+          "examples": [
+            "A herd of mustangs raced across the open plains.",
+            "The mustang is a tough, wild horse that is hard to tame.",
+            "We watched a mustang gallop along the ridge at sunset."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mustard",
     "say": "MUS-terd",
     "senses": [
@@ -569,6 +677,34 @@
             "The mutant frog had an extra leg.",
             "In the story, a mutant grew very tall.",
             "Scientists studied the mutant plant."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mutt",
+    "say": "mut",
+    "forms": [
+      "mutts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dog that is a mix of different kinds.",
+          "examples": [
+            "Our dog is a mutt.",
+            "The mutt is friendly.",
+            "A mutt came to the park."
+          ]
+        },
+        "more": {
+          "def": "A dog that is a mix of several different kinds of dog.",
+          "examples": [
+            "Our mutt is part terrier and part spaniel.",
+            "The shelter had many friendly mutts looking for homes.",
+            "The mutt chased the ball across the park."
           ]
         }
       }

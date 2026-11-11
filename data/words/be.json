@@ -63,6 +63,81 @@
     ]
   },
   {
+    "word": "beacon",
+    "say": "BEE-kun",
+    "forms": [
+      "beacons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A light or fire that guides or warns people.",
+          "examples": [
+            "The beacon shone at night.",
+            "A beacon guides ships.",
+            "We saw a beacon."
+          ]
+        },
+        "more": {
+          "def": "A bright light, often on a tower or hill, that guides or warns people, especially ships.",
+          "examples": [
+            "The beacon shone through the fog to guide the ships.",
+            "A fire on the hill was a beacon for travelers.",
+            "The lighthouse acted as a beacon for sailors."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bead",
+    "say": "beed",
+    "forms": [
+      "beads"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small round piece with a hole for stringing.",
+          "examples": [
+            "I made a necklace with beads.",
+            "A red bead fell on the floor.",
+            "She has a box of beads."
+          ]
+        },
+        "more": {
+          "def": "A small piece of glass, wood or plastic with a hole through it, used on a string to make jewelry.",
+          "examples": [
+            "She strung colorful beads onto a thread to make a bracelet.",
+            "A single glass bead rolled under the couch.",
+            "The craft table had boxes of beads in every color."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny round drop of liquid.",
+          "examples": [
+            "A bead of water ran down the glass.",
+            "A bead of sweat dripped.",
+            "Beads of rain hung on the leaf."
+          ]
+        },
+        "more": {
+          "def": "A small, round drop of liquid.",
+          "examples": [
+            "Beads of water slid down the cold glass of lemonade.",
+            "A bead of sweat rolled down the runner's forehead.",
+            "Morning dew made tiny beads on the spider web."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "beam",
     "say": "beem",
     "forms": [
@@ -724,6 +799,35 @@
     ]
   },
   {
+    "word": "beetle",
+    "say": "BEE-tul",
+    "emoji": "🪲",
+    "forms": [
+      "beetles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An insect with hard wings that cover its back.",
+          "examples": [
+            "A beetle crawled by.",
+            "The beetle is black.",
+            "I saw a beetle."
+          ]
+        },
+        "more": {
+          "def": "An insect with a hard shell-like cover on its back made of its front wings.",
+          "examples": [
+            "A shiny beetle crawled across the leaf.",
+            "Some beetles can fly and some cannot.",
+            "The beetle tucked its wings under its hard shell."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "before",
     "say": "bih-FOR",
     "senses": [
@@ -792,6 +896,34 @@
             "The puppy begged for a bite of my sandwich.",
             "She begged her parents to let her stay up late.",
             "The child begged to go on the ride again."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "beggar",
+    "say": "BEG-er",
+    "forms": [
+      "beggars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who asks for money because they are poor.",
+          "examples": [
+            "The beggar sat by the road.",
+            "A beggar asked for food.",
+            "In the story, a beggar needed help."
+          ]
+        },
+        "more": {
+          "def": "A person who asks others for money or food because they are poor.",
+          "examples": [
+            "In the story, the kind girl shared her bread with a beggar.",
+            "A beggar sat by the church steps asking for coins.",
+            "The king dressed as a beggar to learn how his people lived."
           ]
         }
       }
@@ -1074,6 +1206,34 @@
       {
         "word": "disbelieve",
         "def": "To not believe."
+      }
+    ]
+  },
+  {
+    "word": "believer",
+    "say": "bih-LEE-ver",
+    "forms": [
+      "believers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who thinks something is true or good.",
+          "examples": [
+            "I am a believer in kindness.",
+            "He is a believer.",
+            "She is a believer in teamwork."
+          ]
+        },
+        "more": {
+          "def": "A person who has faith in something, or who thinks that something is right or good.",
+          "examples": [
+            "I am a believer in being kind to everyone.",
+            "She is a believer in hard work and practice.",
+            "He was once a doubter, but now he is a believer in recycling."
+          ]
+        }
       }
     ]
   },
@@ -1680,6 +1840,34 @@
     ]
   },
   {
+    "word": "betrayal",
+    "say": "bih-TRAY-ul",
+    "forms": [
+      "betrayals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Doing something that hurts someone who trusted you.",
+          "examples": [
+            "Telling his secret was a betrayal.",
+            "She felt betrayal.",
+            "The betrayal made me sad."
+          ]
+        },
+        "more": {
+          "def": "The act of breaking someone's trust, especially by hurting them or telling their secrets.",
+          "examples": [
+            "Telling his secret to everyone felt like a betrayal.",
+            "She felt a deep sense of betrayal when her friend lied to her.",
+            "In the story, the betrayal of the king shocked the whole kingdom."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "better",
     "say": "BET-er",
     "senses": [
@@ -1762,6 +1950,34 @@
             "The twins split the pizza between them.",
             "There is a strong friendship between the two dogs.",
             "What is the difference between a frog and a toad?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "beverage",
+    "say": "BEV-rij",
+    "forms": [
+      "beverages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A drink.",
+          "examples": [
+            "Water is a beverage.",
+            "What beverage do you want?",
+            "Milk is a beverage."
+          ]
+        },
+        "more": {
+          "def": "Any liquid that you drink, such as water, milk or juice.",
+          "examples": [
+            "Water is a healthy beverage.",
+            "The restaurant served each guest a cold beverage.",
+            "Milk and juice are popular beverages at breakfast."
           ]
         }
       }

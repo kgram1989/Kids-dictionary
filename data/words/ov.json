@@ -72,6 +72,53 @@
     ]
   },
   {
+    "word": "overall",
+    "say": "OH-ver-awl",
+    "forms": [
+      "overalls"
+    ],
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Taking everything into account.",
+          "examples": [
+            "Overall, I liked the trip.",
+            "It was a good year overall.",
+            "Overall, the test was easy."
+          ]
+        },
+        "more": {
+          "def": "Looking at everything together; in general.",
+          "examples": [
+            "Overall, I liked the trip, even though it rained one day.",
+            "The team did well overall this season.",
+            "Overall, the test was easy, but the last question was hard."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Including everything.",
+          "examples": [
+            "The overall cost was ten dollars.",
+            "The overall winner got a prize.",
+            "The overall idea is simple."
+          ]
+        },
+        "more": {
+          "def": "Including everything or everyone; taking the whole thing.",
+          "examples": [
+            "The overall cost of the trip was fifty dollars.",
+            "The overall winner of the race received a gold medal.",
+            "I understand the overall idea, but not all of the small parts."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "overboard",
     "say": "OH-ver-bord",
     "senses": [
@@ -121,6 +168,81 @@
             "I overcame my fear of the dark.",
             "She overcame her shyness and sang on stage.",
             "The team overcame many problems."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overdo",
+    "say": "oh-ver-DOO",
+    "forms": [
+      "overdoes",
+      "overdid",
+      "overdone",
+      "overdoing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To do too much of something.",
+          "examples": [
+            "Do not overdo it.",
+            "She overdid the salt.",
+            "He overdid the exercise."
+          ]
+        },
+        "more": {
+          "def": "To do or use too much of something.",
+          "examples": [
+            "Do not overdo the salt in the soup.",
+            "He overdid the exercise and was sore all day.",
+            "She overdid the decorations, and the room looked crowded."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overhead",
+    "say": "OH-ver-hed",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Above your head.",
+          "examples": [
+            "Stars shine overhead.",
+            "The plane passed overhead.",
+            "Clouds floated overhead."
+          ]
+        },
+        "more": {
+          "def": "In the sky or in a place above you.",
+          "examples": [
+            "A bird flew overhead.",
+            "The plane roared overhead and then was gone.",
+            "Dark clouds gathered overhead as the storm came near."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Above your head.",
+          "examples": [
+            "The overhead light is on.",
+            "An overhead door.",
+            "The overhead bin is full."
+          ]
+        },
+        "more": {
+          "def": "Placed above your head.",
+          "examples": [
+            "The overhead light turned on.",
+            "He put the bag in the overhead bin on the plane.",
+            "The overhead door of the garage rolled up."
           ]
         }
       }
@@ -244,6 +366,36 @@
       {
         "word": "overreaction",
         "def": "Reacting too strongly."
+      }
+    ]
+  },
+  {
+    "word": "overrule",
+    "say": "oh-ver-ROOL",
+    "forms": [
+      "overrules",
+      "overruled",
+      "overruling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To change a decision made by someone else.",
+          "examples": [
+            "The judge overruled the call.",
+            "Mom overruled my plan.",
+            "The coach overruled him."
+          ]
+        },
+        "more": {
+          "def": "To decide against what someone else has said or decided.",
+          "examples": [
+            "The judge overruled the earlier decision.",
+            "Mom overruled my plan to stay up late.",
+            "The coach overruled the player and called a time-out."
+          ]
+        }
       }
     ]
   },

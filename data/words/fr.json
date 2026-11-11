@@ -115,6 +115,31 @@
     ]
   },
   {
+    "word": "frankly",
+    "say": "FRANK-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In an honest and direct way.",
+          "examples": [
+            "Frankly, I did not like the movie.",
+            "She spoke frankly to me.",
+            "Tell me frankly."
+          ]
+        },
+        "more": {
+          "def": "In an honest way, saying what you really think.",
+          "examples": [
+            "Frankly, I did not like that movie very much.",
+            "He spoke frankly about his mistake and said sorry.",
+            "The doctor talked frankly to us about what to expect."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "frantically",
     "say": "FRAN-tik-lee",
     "senses": [
@@ -443,6 +468,34 @@
     ]
   },
   {
+    "word": "freight",
+    "say": "frayt",
+    "forms": [
+      "freights"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Goods that are carried by train, truck, ship or plane.",
+          "examples": [
+            "The train carries freight.",
+            "We saw the freight pass.",
+            "The freight is heavy."
+          ]
+        },
+        "more": {
+          "def": "Goods that are carried in large amounts by train, truck, ship or plane.",
+          "examples": [
+            "The train carries freight from the port to the city.",
+            "A freight truck brought furniture to the new store.",
+            "The freight was loaded onto the ship at the dock."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "frequency",
     "say": "FREE-kwen-see",
     "forms": [
@@ -465,6 +518,53 @@
             "The frequency of earthquakes in that region is low.",
             "The frequency of storms here is high in spring.",
             "The radio is set to a different frequency."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frequent",
+    "say": "FREE-kwunt",
+    "forms": [
+      "frequently"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happening often.",
+          "examples": [
+            "We take frequent trips.",
+            "She is a frequent visitor.",
+            "Frequent rain."
+          ]
+        },
+        "more": {
+          "def": "Happening or done again and again, often.",
+          "examples": [
+            "We take frequent trips to the library.",
+            "She is a frequent visitor to the park.",
+            "Frequent rain made the grass grow tall."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To visit a place often.",
+          "examples": [
+            "We frequent the park.",
+            "He frequents the library.",
+            "They frequent the shop."
+          ]
+        },
+        "more": {
+          "def": "To go to a certain place often.",
+          "examples": [
+            "We frequent the park on weekends.",
+            "He frequents the library after school.",
+            "They frequent the pizza shop on Fridays."
           ]
         }
       }
@@ -955,6 +1055,133 @@
     ]
   },
   {
+    "word": "frontier",
+    "say": "frun-TEER",
+    "forms": [
+      "frontiers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The edge of land where few people live.",
+          "examples": [
+            "The pioneers moved to the frontier.",
+            "The frontier was wild.",
+            "Settlers lived on the frontier."
+          ]
+        },
+        "more": {
+          "def": "The edge of a settled area, beyond which the land is wild and few people live.",
+          "examples": [
+            "The pioneers moved to the western frontier.",
+            "Life on the frontier was hard but exciting.",
+            "Space is sometimes called the final frontier."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "froth",
+    "say": "froth",
+    "forms": [
+      "froths",
+      "frothed",
+      "frothing",
+      "frothy"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mass of tiny bubbles on top of a liquid.",
+          "examples": [
+            "There was froth on the milk.",
+            "The waves had froth.",
+            "The soda made froth."
+          ]
+        },
+        "more": {
+          "def": "A light mass of tiny bubbles on the top of a liquid.",
+          "examples": [
+            "There was froth on the top of the milk.",
+            "White froth covered the waves on the shore.",
+            "The soda made a lot of froth in the glass."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make bubbles.",
+          "examples": [
+            "The soda froths.",
+            "The milk frothed.",
+            "The sea froths."
+          ]
+        },
+        "more": {
+          "def": "To form or make a mass of tiny bubbles.",
+          "examples": [
+            "The soda frothed when I poured it.",
+            "The milk frothed as the steamer heated it.",
+            "The sea frothed around the rocks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frown",
+    "say": "frown",
+    "forms": [
+      "frowns",
+      "frowned",
+      "frowning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a sad or cross face by pulling your eyebrows together.",
+          "examples": [
+            "She frowned at the mess.",
+            "Do not frown.",
+            "He frowned."
+          ]
+        },
+        "more": {
+          "def": "To pull your eyebrows together and turn the corners of your mouth down to show that you are sad or not pleased.",
+          "examples": [
+            "She frowned at the mess on the floor.",
+            "Do not frown, because the day is nice.",
+            "He frowned when he read the hard question."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sad or cross look on your face.",
+          "examples": [
+            "She had a frown.",
+            "Her frown was small.",
+            "His frown went away."
+          ]
+        },
+        "more": {
+          "def": "An unhappy or angry look on the face, with eyebrows pulled together.",
+          "examples": [
+            "She had a frown on her face.",
+            "A frown is the opposite of a smile.",
+            "His frown turned into a grin."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "frozen",
     "say": "FROH-zun",
     "emoji": "🧊",
@@ -1035,6 +1262,34 @@
             "I was frustrated when the game would not work.",
             "She was frustrated with the hard puzzle.",
             "He felt frustrated at the long wait."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frustration",
+    "say": "frus-TRAY-shun",
+    "forms": [
+      "frustrations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The feeling you get when you cannot do what you want.",
+          "examples": [
+            "She cried with frustration.",
+            "He felt frustration.",
+            "Frustration filled the room."
+          ]
+        },
+        "more": {
+          "def": "The upset feeling you have when something stops you from doing what you want.",
+          "examples": [
+            "She cried with frustration when the puzzle would not fit.",
+            "He felt frustration as the knot would not come loose.",
+            "Her frustration grew as the line did not move."
           ]
         }
       }

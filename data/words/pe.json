@@ -104,6 +104,31 @@
     ]
   },
   {
+    "word": "peacefully",
+    "say": "PEESS-fuh-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a calm and quiet way.",
+          "examples": [
+            "The baby slept peacefully.",
+            "The lake lay peacefully still.",
+            "We played peacefully."
+          ]
+        },
+        "more": {
+          "def": "In a calm, quiet way, without any fighting or noise.",
+          "examples": [
+            "The baby slept peacefully through the whole car ride.",
+            "Cows grazed peacefully on the green hill.",
+            "The two countries lived peacefully side by side for many years."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "peach",
     "say": "peech",
     "emoji": "🍑",
@@ -378,6 +403,55 @@
     ]
   },
   {
+    "word": "peer",
+    "say": "peer",
+    "forms": [
+      "peers",
+      "peered",
+      "peering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is your age or in your group.",
+          "examples": [
+            "She plays with her peers.",
+            "Kids learn from their peers.",
+            "My peers are my classmates."
+          ]
+        },
+        "more": {
+          "def": "A person who is the same age or in the same group as you.",
+          "examples": [
+            "She plays with her peers on the playground.",
+            "Kids often learn from their peers.",
+            "Her peers voted her class president."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look closely at something.",
+          "examples": [
+            "I peer through the window.",
+            "She peered at the map.",
+            "He peered into the hole."
+          ]
+        },
+        "more": {
+          "def": "To look hard at something, often because it is hard to see.",
+          "examples": [
+            "I peered through the window to see who was there.",
+            "She peered at the tiny writing on the map.",
+            "He peered into the dark cave."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pen",
     "say": "pen",
     "emoji": "🖊️",
@@ -484,6 +558,65 @@
     ]
   },
   {
+    "word": "penetrate",
+    "say": "PEN-uh-trayt",
+    "forms": [
+      "penetrates",
+      "penetrated",
+      "penetrating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go into or through something.",
+          "examples": [
+            "The sun can penetrate the clouds.",
+            "A nail can penetrate wood.",
+            "Water penetrated my boots."
+          ]
+        },
+        "more": {
+          "def": "To pass into or through something, often something thick or hard to get through.",
+          "examples": [
+            "Sunlight could not penetrate the thick leaves of the forest.",
+            "The cold wind penetrated her thin coat.",
+            "A sharp needle penetrated the cloth with ease."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "penguin",
+    "say": "PENG-gwin",
+    "emoji": "🐧",
+    "forms": [
+      "penguins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A black and white bird that swims and cannot fly.",
+          "examples": [
+            "The penguin swims fast.",
+            "We saw a penguin at the zoo.",
+            "A penguin waddled on the ice."
+          ]
+        },
+        "more": {
+          "def": "A black and white sea bird that cannot fly but swims very well, found in cold places.",
+          "examples": [
+            "A penguin slid on its belly across the ice.",
+            "Penguins huddle together to keep warm in the freezing wind.",
+            "The penguin dove into the sea to catch a fish."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "penny",
     "say": "PEN-ee",
     "emoji": "🪙",
@@ -532,6 +665,31 @@
             "A lot of people were waiting in line at the museum.",
             "The people of the village built a new school together.",
             "People all over the world celebrate the new year."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pep",
+    "say": "pep",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Lots of energy and good spirits.",
+          "examples": [
+            "She has lots of pep.",
+            "A pep talk gave us energy.",
+            "I have no pep today."
+          ]
+        },
+        "more": {
+          "def": "Lively energy and cheerfulness.",
+          "examples": [
+            "She has lots of pep and never gets tired.",
+            "The coach gave a pep talk before the game.",
+            "The band played with great pep."
           ]
         }
       }
@@ -611,6 +769,36 @@
     ]
   },
   {
+    "word": "perceive",
+    "say": "per-SEEV",
+    "forms": [
+      "perceives",
+      "perceived",
+      "perceiving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To notice something with your senses or mind.",
+          "examples": [
+            "I perceive a sound.",
+            "She perceives a change.",
+            "We perceive light with our eyes."
+          ]
+        },
+        "more": {
+          "def": "To become aware of something through your senses or mind.",
+          "examples": [
+            "I perceive a sound in the dark.",
+            "She perceived a change in the weather.",
+            "We perceive light with our eyes and sound with our ears."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "percent",
     "say": "per-SENT",
     "forms": [
@@ -633,6 +821,34 @@
             "Half of the class is fifty percent.",
             "She got ninety percent of the answers right.",
             "The store took twenty percent off the price of the shirt."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "percentage",
+    "say": "per-SEN-tij",
+    "forms": [
+      "percentages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of something, written out of one hundred.",
+          "examples": [
+            "A large percentage of the class came.",
+            "The percentage is fifty.",
+            "What percentage did you get?"
+          ]
+        },
+        "more": {
+          "def": "An amount shown as a number of parts out of every hundred.",
+          "examples": [
+            "A large percentage of the class has a pet.",
+            "I got a high percentage of the answers right on the test.",
+            "What percentage of the pizza did you eat?"
           ]
         }
       }
@@ -791,6 +1007,34 @@
     ]
   },
   {
+    "word": "performer",
+    "say": "per-FOR-mer",
+    "forms": [
+      "performers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who sings, dances or acts for an audience.",
+          "examples": [
+            "The performer sang a song.",
+            "A performer juggled.",
+            "The performers took a bow."
+          ]
+        },
+        "more": {
+          "def": "A person who sings, dances, acts or does tricks in front of an audience.",
+          "examples": [
+            "The performer sang a song for the crowd.",
+            "A circus performer juggled five balls.",
+            "The performers took a bow when the show was over."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "perfume",
     "say": "PER-fyoom",
     "forms": [
@@ -913,6 +1157,91 @@
             "The ice age was a long period of cold weather.",
             "Math is the first period of the day.",
             "There was a quiet period after the storm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "perish",
+    "say": "PAIR-ish",
+    "forms": [
+      "perishes",
+      "perished",
+      "perishing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To die or be destroyed.",
+          "examples": [
+            "The grass will perish without rain.",
+            "The flowers perished in the frost.",
+            "The ice will perish."
+          ]
+        },
+        "more": {
+          "def": "To die or be destroyed, often because of cold, lack of water or other harsh things.",
+          "examples": [
+            "Plants perish without water.",
+            "The flowers perished in the first frost of winter.",
+            "Many animals perished when the river dried up."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "perishable",
+        "def": "Likely to go bad soon."
+      }
+    ]
+  },
+  {
+    "word": "perk",
+    "say": "perk",
+    "forms": [
+      "perks",
+      "perked",
+      "perking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To brighten up or become more lively.",
+          "examples": [
+            "The puppy perks up.",
+            "The cat's ears perked.",
+            "I perk up when I smell pancakes."
+          ]
+        },
+        "more": {
+          "def": "To become more lively or to lift up with interest.",
+          "examples": [
+            "The puppy perked up when it heard its name.",
+            "The cat's ears perked at the sound.",
+            "I perked up when I smelled the pancakes."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An extra good thing that comes with something.",
+          "examples": [
+            "A perk is a free snack.",
+            "The perk was a free ticket.",
+            "Free cookies are a perk."
+          ]
+        },
+        "more": {
+          "def": "An extra benefit that you get along with something, like a job.",
+          "examples": [
+            "A perk of the job is free lunch.",
+            "Getting to pick the music is a perk of being the leader.",
+            "The hotel had a perk of free breakfast."
           ]
         }
       }
@@ -1186,6 +1515,34 @@
     ]
   },
   {
+    "word": "pesticide",
+    "say": "PES-tih-syd",
+    "forms": [
+      "pesticides"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A poison used to kill bugs that harm plants.",
+          "examples": [
+            "The farmer used pesticide.",
+            "Pesticide can hurt bees.",
+            "Do not touch pesticide."
+          ]
+        },
+        "more": {
+          "def": "A chemical that kills insects and other small animals that harm crops.",
+          "examples": [
+            "The farmer sprayed pesticide on the apple trees.",
+            "Some pesticides can also harm bees and fish, so they must be used carefully.",
+            "Washing fruit helps remove any pesticide left on the skin."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pet",
     "say": "pet",
     "emoji": "🐶",
@@ -1230,6 +1587,36 @@
             "The children petted the soft lambs at the farm.",
             "He petted the horse's nose.",
             "Cats purr when you pet them."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "petition",
+    "say": "puh-TISH-un",
+    "forms": [
+      "petitions",
+      "petitioned",
+      "petitioning"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A paper that many people sign to ask for a change.",
+          "examples": [
+            "We signed a petition.",
+            "The petition asks for a new park.",
+            "The class made a petition."
+          ]
+        },
+        "more": {
+          "def": "A written request signed by many people that asks someone in charge to do something.",
+          "examples": [
+            "We signed a petition asking for a new playground.",
+            "The class made a petition to keep the library open.",
+            "Hundreds of people put their names on the petition."
           ]
         }
       }

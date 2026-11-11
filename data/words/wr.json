@@ -30,6 +30,31 @@
     ]
   },
   {
+    "word": "wrath",
+    "say": "rath",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Very strong anger.",
+          "examples": [
+            "The king's wrath was great.",
+            "The wrath of the storm.",
+            "She felt wrath."
+          ]
+        },
+        "more": {
+          "def": "Great anger, especially in old stories and writing.",
+          "examples": [
+            "The king's wrath shook the whole castle.",
+            "The village feared the wrath of the angry giant.",
+            "He felt wrath at the sight of the broken window."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wreck",
     "say": "rek",
     "forms": [
@@ -79,6 +104,86 @@
     ]
   },
   {
+    "word": "wrench",
+    "say": "rench",
+    "emoji": "🔧",
+    "forms": [
+      "wrenches",
+      "wrenched",
+      "wrenching"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool for turning nuts and bolts.",
+          "examples": [
+            "Dad used a wrench.",
+            "The wrench is in the toolbox.",
+            "I need a wrench to fix the bike."
+          ]
+        },
+        "more": {
+          "def": "A metal tool with a gripping end used to turn nuts and bolts.",
+          "examples": [
+            "Dad used a wrench to tighten the bolt on my bike.",
+            "The plumber took a big wrench out of her toolbox.",
+            "He turned the wrench until the nut came loose."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pull or twist something hard.",
+          "examples": [
+            "He wrenched the lid off the jar.",
+            "She wrenched her ankle.",
+            "I wrenched the door open."
+          ]
+        },
+        "more": {
+          "def": "To pull or twist something suddenly and with force.",
+          "examples": [
+            "He wrenched the jar lid open with both hands.",
+            "She wrenched her ankle on the uneven path.",
+            "The wind wrenched the umbrella out of her hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wrestle",
+    "say": "RESS-ul",
+    "forms": [
+      "wrestles",
+      "wrestled",
+      "wrestling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hold and push someone down, as a sport.",
+          "examples": [
+            "The boys wrestle on the mat.",
+            "I wrestled with my brother.",
+            "They wrestle for fun."
+          ]
+        },
+        "more": {
+          "def": "To fight with someone by holding and pushing, as a sport; or to struggle hard with something.",
+          "examples": [
+            "The two teammates wrestled for fun on the soft mat.",
+            "He wrestled with the heavy suitcase until he got it up the stairs.",
+            "I wrestled with the hard math problem for an hour."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wrestling",
     "say": "RES-ling",
     "senses": [
@@ -98,6 +203,34 @@
             "He joined the wrestling team at school.",
             "Wrestling takes strength and balance.",
             "The wrestling match lasted three rounds."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wretched",
+    "say": "RECH-id",
+    "forms": [
+      "wretchedly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very sad, poor or bad.",
+          "examples": [
+            "The wretched puppy was cold.",
+            "I felt wretched.",
+            "It was a wretched day."
+          ]
+        },
+        "more": {
+          "def": "Very unhappy, miserable or of very poor quality.",
+          "examples": [
+            "The wretched puppy shivered in the cold.",
+            "I felt wretched after I broke my friend's toy.",
+            "The weather was wretched, so we stayed inside."
           ]
         }
       }

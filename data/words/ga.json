@@ -1,5 +1,33 @@
 [
   {
+    "word": "gadget",
+    "say": "GAJ-it",
+    "forms": [
+      "gadgets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small tool or machine that does a special job.",
+          "examples": [
+            "The gadget opens cans.",
+            "Dad has a new gadget.",
+            "I like this gadget."
+          ]
+        },
+        "more": {
+          "def": "A small tool or machine that does a particular job, and is often clever or new.",
+          "examples": [
+            "Dad bought a gadget that slices apples.",
+            "The kitchen drawer is full of little gadgets.",
+            "She loves any new gadget that makes work easier."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "gag",
     "say": "gag",
     "forms": [
@@ -83,6 +111,34 @@
             "Our galaxy is called the Milky Way.",
             "A galaxy can contain billions of stars.",
             "The galaxy looked like a swirl of light."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gallant",
+    "say": "GAL-unt",
+    "forms": [
+      "gallantly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Brave, noble and polite.",
+          "examples": [
+            "The gallant knight helped the lady.",
+            "A gallant hero.",
+            "He was gallant."
+          ]
+        },
+        "more": {
+          "def": "Brave, kind and polite, especially in old stories.",
+          "examples": [
+            "The gallant knight helped the lady across the stream.",
+            "In the story, a gallant hero saved the town.",
+            "He made a gallant offer to carry her bags."
           ]
         }
       }
@@ -349,6 +405,35 @@
     ]
   },
   {
+    "word": "gardener",
+    "say": "GAR-dun-er",
+    "emoji": "🧑‍🌾",
+    "forms": [
+      "gardeners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who grows plants and flowers.",
+          "examples": [
+            "The gardener watered the roses.",
+            "My grandpa is a gardener.",
+            "The gardener planted seeds."
+          ]
+        },
+        "more": {
+          "def": "A person who works in a garden or grows plants, as a job or for fun.",
+          "examples": [
+            "The gardener pulled the weeds from the bed of tulips.",
+            "My aunt is a happy gardener who grows tomatoes every summer.",
+            "The park hired a gardener to look after the flower beds."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "garlic",
     "say": "GAR-lik",
     "emoji": "🧄",
@@ -530,6 +615,83 @@
             "The class gathered around the teacher to hear the story.",
             "Squirrels gather nuts for the winter.",
             "A crowd gathered to watch the street performer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gator",
+    "say": "GAY-ter",
+    "forms": [
+      "gators"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short name for an alligator.",
+          "examples": [
+            "A gator swam in the swamp.",
+            "I saw a gator.",
+            "The gator has big teeth."
+          ]
+        },
+        "more": {
+          "def": "A short name for an alligator.",
+          "examples": [
+            "A gator lay still on the bank of the swamp.",
+            "We saw a gator sunning itself on a log.",
+            "The gator slid quietly into the water."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gaze",
+    "say": "gayz",
+    "forms": [
+      "gazes",
+      "gazed",
+      "gazing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look at something for a long time.",
+          "examples": [
+            "I gaze at the stars.",
+            "She gazed out the window.",
+            "The cat gazed at the bird."
+          ]
+        },
+        "more": {
+          "def": "To look at something steadily and for a long time.",
+          "examples": [
+            "I gazed at the stars on a clear night.",
+            "She gazed out the window at the falling snow.",
+            "The cat gazed at the bird outside."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, steady look.",
+          "examples": [
+            "The cat's gaze was steady.",
+            "She met his gaze.",
+            "His gaze fell on the toy."
+          ]
+        },
+        "more": {
+          "def": "A long, steady look.",
+          "examples": [
+            "The cat's gaze followed the bird across the yard.",
+            "She met his gaze and smiled.",
+            "His gaze fell on the toy at the back of the shelf."
           ]
         }
       }

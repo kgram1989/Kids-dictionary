@@ -1,5 +1,91 @@
 [
   {
+    "word": "wacky",
+    "say": "WAK-ee",
+    "forms": [
+      "wackier",
+      "wackiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Silly in a fun way.",
+          "examples": [
+            "A wacky hat.",
+            "The wacky clown made us laugh.",
+            "We had a wacky idea."
+          ]
+        },
+        "more": {
+          "def": "Funny, silly or very strange in a way that is fun.",
+          "examples": [
+            "A wacky hat sat on the clown's head.",
+            "We had a wacky idea to wear our clothes backward.",
+            "The cartoon was full of wacky characters."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "waffle",
+    "say": "WOF-ul",
+    "emoji": "🧇",
+    "forms": [
+      "waffles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat breakfast cake with little square holes.",
+          "examples": [
+            "I eat a waffle with syrup.",
+            "Dad made waffles.",
+            "The waffle has square holes."
+          ]
+        },
+        "more": {
+          "def": "A thin, crisp cake cooked in a special iron so that it has a pattern of little squares.",
+          "examples": [
+            "We had waffles with strawberries and cream on Sunday morning.",
+            "He poured maple syrup into every square of his waffle.",
+            "The waffle iron clicked when the waffle was ready."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wages",
+    "say": "WAY-jiz",
+    "forms": [
+      "wage"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money that a person is paid for work.",
+          "examples": [
+            "He earns good wages.",
+            "The wages are paid every week.",
+            "Her wages are low."
+          ]
+        },
+        "more": {
+          "def": "The money that a person is paid for work, usually counted by the hour or week.",
+          "examples": [
+            "He earns good wages at the bakery.",
+            "The wages are paid every Friday.",
+            "The workers asked for higher wages."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wagon",
     "say": "WAG-un",
     "emoji": "🛒",
@@ -23,6 +109,55 @@
             "The kids pulled the wagon to the park.",
             "Settlers crossed the plains in covered wagons.",
             "The farmer filled the wagon with hay."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wail",
+    "say": "wayl",
+    "forms": [
+      "wails",
+      "wailed",
+      "wailing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cry out loudly in a long, sad sound.",
+          "examples": [
+            "The baby began to wail.",
+            "The wind wailed at night.",
+            "The puppy wailed for its mom."
+          ]
+        },
+        "more": {
+          "def": "To make a long, high cry because you are sad or in pain, or to make a sound like that.",
+          "examples": [
+            "The baby wailed until her mother picked her up.",
+            "The wind wailed through the cracks in the old barn.",
+            "A siren wailed in the distance as the fire truck sped by."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, high, sad cry.",
+          "examples": [
+            "I heard a wail.",
+            "The baby let out a wail.",
+            "The wail of the wind scared me."
+          ]
+        },
+        "more": {
+          "def": "A long, loud cry or sound that is sad or full of pain.",
+          "examples": [
+            "A loud wail came from the toddler who dropped his ice cream.",
+            "The wail of the siren grew louder and louder.",
+            "We heard the wail of a wolf far away."
           ]
         }
       }
@@ -300,6 +435,34 @@
     ]
   },
   {
+    "word": "wallpaper",
+    "say": "WALL-pay-per",
+    "forms": [
+      "wallpapers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Paper with a pattern that is put on walls.",
+          "examples": [
+            "The wallpaper has flowers.",
+            "We put up new wallpaper.",
+            "The wallpaper is blue."
+          ]
+        },
+        "more": {
+          "def": "Paper with a pattern or picture that is stuck to the walls of a room.",
+          "examples": [
+            "The wallpaper in my room has stars on it.",
+            "Mom put up new wallpaper with stripes.",
+            "The old wallpaper was peeling from the wall."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "waltz",
     "say": "wawlts",
     "forms": [
@@ -324,6 +487,34 @@
             "They danced a waltz at the party.",
             "The orchestra played a slow waltz.",
             "The waltz has a rhythm of one, two, three."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wand",
+    "say": "wond",
+    "forms": [
+      "wands"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin stick used by a magician.",
+          "examples": [
+            "The magician waved the wand.",
+            "A wand is magic.",
+            "I have a wand."
+          ]
+        },
+        "more": {
+          "def": "A thin stick that a magician or fairy waves to do magic.",
+          "examples": [
+            "The magician waved his wand and a rabbit appeared.",
+            "The fairy's wand sparkled with glitter.",
+            "I made a wand from a stick for the play."
           ]
         }
       }
@@ -628,6 +819,31 @@
             "She greeted us warmly at the door.",
             "He thanked the helpers warmly.",
             "She dressed warmly for the snow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "warmth",
+    "say": "wormth",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The feeling of being nice and warm.",
+          "examples": [
+            "I felt the warmth of the sun.",
+            "The fire gave warmth.",
+            "She felt the warmth of the blanket."
+          ]
+        },
+        "more": {
+          "def": "The quality or feeling of being warm, or of being kind and friendly.",
+          "examples": [
+            "We sat close to the fire to feel its warmth.",
+            "The warmth of the sun made the cat fall asleep.",
+            "Her warmth made the new students feel welcome."
           ]
         }
       }

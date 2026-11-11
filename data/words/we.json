@@ -54,6 +54,36 @@
     ]
   },
   {
+    "word": "weaken",
+    "say": "WEE-kun",
+    "forms": [
+      "weakens",
+      "weakened",
+      "weakening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To become less strong or to make something less strong.",
+          "examples": [
+            "The storm weakened the tree.",
+            "Illness can weaken you.",
+            "The sun weakens the color."
+          ]
+        },
+        "more": {
+          "def": "To make something less strong, or to become less strong.",
+          "examples": [
+            "The storm weakened the old tree.",
+            "Being sick can weaken you for a few days.",
+            "The sun weakened the color of the paint over time."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "weakness",
     "say": "WEEK-niss",
     "forms": [
@@ -279,6 +309,56 @@
     ]
   },
   {
+    "word": "weave",
+    "say": "weev",
+    "forms": [
+      "weaves",
+      "wove",
+      "woven",
+      "weaving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make cloth by crossing threads over and under.",
+          "examples": [
+            "She weaves a basket.",
+            "Grandma weaves cloth.",
+            "They wove a rug."
+          ]
+        },
+        "more": {
+          "def": "To make cloth or baskets by passing strips or threads over and under one another.",
+          "examples": [
+            "She wove a basket from long grasses.",
+            "Grandma weaves wool into cloth on her loom.",
+            "The spider weaves a web between the branches."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move around things, going in and out.",
+          "examples": [
+            "The bike weaves between cones.",
+            "He wove through the crowd.",
+            "The runner weaves."
+          ]
+        },
+        "more": {
+          "def": "To move along a path by turning and going around things.",
+          "examples": [
+            "The bike weaved between the cones.",
+            "He wove through the crowd to find his mom.",
+            "The road weaves through the hills."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "web",
     "say": "web",
     "emoji": "🕸️",
@@ -327,6 +407,35 @@
     ]
   },
   {
+    "word": "website",
+    "say": "WEB-syt",
+    "emoji": "💻",
+    "forms": [
+      "websites"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of pages on the internet that belong together.",
+          "examples": [
+            "I visited the website.",
+            "The website has pictures.",
+            "Our school has a website."
+          ]
+        },
+        "more": {
+          "def": "A place on the internet with pages of information about a person, group or topic.",
+          "examples": [
+            "I visited the zoo's website to see the animals.",
+            "Our school has a website with the lunch menu.",
+            "The website shows pictures of baby penguins."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wedding",
     "say": "WED-ing",
     "emoji": "💒",
@@ -350,6 +459,55 @@
             "My cousin's wedding was in a garden.",
             "Everyone danced at the wedding.",
             "The wedding cake had three layers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wedge",
+    "say": "wej",
+    "forms": [
+      "wedges",
+      "wedged",
+      "wedging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece that is thick at one end and thin at the other.",
+          "examples": [
+            "I ate a wedge of pie.",
+            "She put a wedge under the door.",
+            "Dad cut a wedge of melon."
+          ]
+        },
+        "more": {
+          "def": "A piece of something shaped like a triangle, thick at one end and thin at the other.",
+          "examples": [
+            "I cut a wedge of cheese.",
+            "She put a wooden wedge under the door to hold it open.",
+            "A wedge of lemon sat on the side of the glass."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To push something into a tight space.",
+          "examples": [
+            "I wedge the book in.",
+            "He wedged the door open.",
+            "She wedged the box in the car."
+          ]
+        },
+        "more": {
+          "def": "To fit something into a narrow space so that it cannot move.",
+          "examples": [
+            "I wedged the book onto the full shelf.",
+            "He wedged a stone under the door to hold it open.",
+            "She wedged the box between two seats."
           ]
         }
       }
@@ -476,6 +634,51 @@
             "We go hiking on the weekend.",
             "She visits her grandma every weekend.",
             "The weekend was rainy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "weekly",
+    "say": "WEEK-lee",
+    "emoji": "📅",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happening once each week.",
+          "examples": [
+            "We have a weekly spelling test.",
+            "I get a weekly allowance.",
+            "The weekly meeting is on Monday."
+          ]
+        },
+        "more": {
+          "def": "Done or happening once every week.",
+          "examples": [
+            "Our class has a weekly trip to the library on Fridays.",
+            "The town sends out a weekly newspaper about local news.",
+            "She goes to her weekly piano lesson on Tuesday afternoon."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "One time each week.",
+          "examples": [
+            "We have art weekly.",
+            "The mail comes weekly.",
+            "She calls Grandma weekly."
+          ]
+        },
+        "more": {
+          "def": "Once every week; each week.",
+          "examples": [
+            "The club meets weekly in the school gym.",
+            "The paper is printed weekly and delivered on Sundays.",
+            "He waters the plants weekly during the summer."
           ]
         }
       }

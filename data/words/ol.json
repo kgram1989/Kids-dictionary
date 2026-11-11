@@ -52,5 +52,35 @@
         }
       }
     ]
+  },
+  {
+    "word": "Olympics",
+    "say": "uh-LIM-piks",
+    "emoji": "🏅",
+    "forms": [
+      "olympics",
+      "Olympic"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big sports event held every four years.",
+          "examples": [
+            "The Olympics are every four years.",
+            "We watched the Olympics.",
+            "She won a medal at the Olympics."
+          ]
+        },
+        "more": {
+          "def": "A sports contest held every four years, in which athletes from many countries compete.",
+          "examples": [
+            "Athletes from all over the world come to the Olympics.",
+            "We watched the swimming races at the Olympics on TV.",
+            "The next Olympics will be held in a different city."
+          ]
+        }
+      }
+    ]
   }
 ]

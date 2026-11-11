@@ -239,6 +239,56 @@
     ]
   },
   {
+    "word": "secondary",
+    "say": "SEK-un-dair-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Coming second in order or importance.",
+          "examples": [
+            "The main road and a secondary road meet here.",
+            "Safety is more important than speed, which is secondary.",
+            "A secondary color is made by mixing two colors."
+          ]
+        },
+        "more": {
+          "def": "Not the most important; coming after the first or main one.",
+          "examples": [
+            "The main road meets a secondary road at the bridge.",
+            "Green is a secondary color, made by mixing blue and yellow.",
+            "Winning is secondary to having fun with your team."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "secrecy",
+    "say": "SEE-kruh-see",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Keeping something hidden from others.",
+          "examples": [
+            "The plan was done in secrecy.",
+            "We worked in secrecy.",
+            "Secrecy was important."
+          ]
+        },
+        "more": {
+          "def": "The act of keeping something hidden or not telling others.",
+          "examples": [
+            "We planned the party in secrecy so she would not know.",
+            "The club works in secrecy and has a secret handshake.",
+            "The surprise needed total secrecy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "secret",
     "say": "SEE-krit",
     "emoji": "🤐",
@@ -514,6 +564,34 @@
     ]
   },
   {
+    "word": "seedling",
+    "say": "SEED-ling",
+    "forms": [
+      "seedlings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very young plant that has grown from a seed.",
+          "examples": [
+            "A seedling pushed up.",
+            "The seedling is small.",
+            "We planted a seedling."
+          ]
+        },
+        "more": {
+          "def": "A young plant that has just grown from a seed.",
+          "examples": [
+            "A small seedling pushed up through the soil.",
+            "We planted a seedling by the fence.",
+            "Each seedling needs sun and water."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "seek",
     "say": "seek",
     "forms": [
@@ -568,6 +646,31 @@
             "The night seems quiet when it snows.",
             "She seemed nervous before the big spelling bee.",
             "The test did not seem hard to me."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "segregation",
+    "say": "seg-rih-GAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Keeping groups of people apart, which is not fair.",
+          "examples": [
+            "Segregation kept people apart.",
+            "Segregation was against the law.",
+            "We learned about segregation."
+          ]
+        },
+        "more": {
+          "def": "The unfair practice of keeping groups of people apart, especially by race.",
+          "examples": [
+            "Segregation kept Black and white children in separate schools.",
+            "Brave people worked to end segregation.",
+            "We learned about segregation in our history class."
           ]
         }
       }
@@ -913,6 +1016,34 @@
     ]
   },
   {
+    "word": "sensational",
+    "say": "sen-SAY-shun-ul",
+    "forms": [
+      "sensationally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wonderful and very exciting.",
+          "examples": [
+            "The show was sensational.",
+            "She gave a sensational performance.",
+            "We had a sensational day."
+          ]
+        },
+        "more": {
+          "def": "Extremely good or exciting.",
+          "examples": [
+            "The magic show was sensational, and everyone clapped.",
+            "She gave a sensational performance in the school play.",
+            "We had a sensational view from the top of the tower."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sense",
     "say": "senss",
     "forms": [
@@ -1072,6 +1203,34 @@
             "The teacher asked us to write a sentence using the new word.",
             "A sentence has to have a subject and a verb.",
             "He read the first sentence of the story slowly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sentry",
+    "say": "SEN-tree",
+    "forms": [
+      "sentries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A guard who stands watch at a gate or door.",
+          "examples": [
+            "A sentry stood at the gate.",
+            "The sentry saw us.",
+            "The sentry kept watch."
+          ]
+        },
+        "more": {
+          "def": "A guard who stands in one place to keep watch and let people in or keep them out.",
+          "examples": [
+            "A sentry stood at the gate of the old fort.",
+            "The sentry kept watch through the night.",
+            "The sentry asked us for a password before opening the door."
           ]
         }
       }
@@ -1353,6 +1512,62 @@
             "I take my homework seriously.",
             "She nodded seriously and listened.",
             "He was seriously upset about the loss."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sermon",
+    "say": "SER-mun",
+    "forms": [
+      "sermons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A talk about religion or good behavior given at a church.",
+          "examples": [
+            "The pastor gave a sermon.",
+            "The sermon was short.",
+            "We listened to the sermon."
+          ]
+        },
+        "more": {
+          "def": "A talk given at a religious service, usually about how to live a good life.",
+          "examples": [
+            "The pastor gave a sermon about being kind.",
+            "The sermon lasted twenty minutes.",
+            "We listened to the sermon on Sunday morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "serum",
+    "say": "SEER-um",
+    "forms": [
+      "serums"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A liquid that is used in medicine.",
+          "examples": [
+            "The nurse gave a serum.",
+            "Doctors use a serum.",
+            "The serum helps."
+          ]
+        },
+        "more": {
+          "def": "A liquid that is given as medicine to stop or treat an illness, or the clear part of blood.",
+          "examples": [
+            "The nurse gave her a serum to help her fight the illness.",
+            "Doctors used a serum to treat the snake bite.",
+            "The lab tested the serum to make sure it was safe."
           ]
         }
       }
@@ -1834,6 +2049,36 @@
     ]
   },
   {
+    "word": "sever",
+    "say": "SEV-er",
+    "forms": [
+      "severs",
+      "severed",
+      "severing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cut something right off or apart.",
+          "examples": [
+            "A storm can sever a wire.",
+            "He severed the rope.",
+            "The tree branch severed the cable."
+          ]
+        },
+        "more": {
+          "def": "To cut through something completely, so that it is in two parts.",
+          "examples": [
+            "The falling branch severed the power line during the storm.",
+            "Workers severed the rope to let the big flag drop.",
+            "The two countries severed their old trade link and stopped sending goods."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "several",
     "say": "SEV-rul",
     "senses": [
@@ -1965,6 +2210,31 @@
             "Rain flows into the sewer.",
             "The sewer runs under the street.",
             "Workers fixed the broken sewer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sewing",
+    "say": "SOH-ing",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Making or fixing clothes with a needle and thread.",
+          "examples": [
+            "I like sewing.",
+            "Sewing takes time.",
+            "Grandma loves sewing."
+          ]
+        },
+        "more": {
+          "def": "The art of joining cloth with a needle and thread.",
+          "examples": [
+            "Grandma taught me sewing, and I made a pillow.",
+            "Sewing a button back on takes just a minute.",
+            "She has a sewing machine in her craft room."
           ]
         }
       }

@@ -1,5 +1,33 @@
 [
   {
+    "word": "duchess",
+    "say": "DUCH-iss",
+    "forms": [
+      "duchesses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A woman of high rank in a royal family.",
+          "examples": [
+            "The duchess lived in a castle.",
+            "A duchess wears a crown.",
+            "We read about a duchess."
+          ]
+        },
+        "more": {
+          "def": "A woman of very high rank in some countries, or the wife of a duke.",
+          "examples": [
+            "The duchess waved to the crowd from her carriage.",
+            "In the fairy tale, the duchess lives in a grand castle.",
+            "The painting showed a duchess in a long silk gown."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "duck",
     "say": "duk",
     "emoji": "🦆",
@@ -44,6 +72,34 @@
             "She ducked under the low branch.",
             "He ducked when the ball flew by.",
             "We ducked under the table."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "duct",
+    "say": "dukt",
+    "forms": [
+      "ducts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pipe or tube that carries air or liquid.",
+          "examples": [
+            "The air comes out of the duct.",
+            "A duct is in the ceiling.",
+            "A tear duct is by your eye."
+          ]
+        },
+        "more": {
+          "def": "A tube or pipe that carries air, liquid or wires from one place to another.",
+          "examples": [
+            "Warm air flows through a duct in the ceiling.",
+            "Tears flow out through a small duct near the eye.",
+            "The workers cleaned the dust out of the air duct."
           ]
         }
       }
@@ -267,6 +323,160 @@
             "The garbage truck drove to the dump.",
             "Seagulls fly over the town dump.",
             "We took the old couch to the dump."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dumpster",
+    "say": "DUMP-ster",
+    "forms": [
+      "dumpsters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big metal bin for trash.",
+          "examples": [
+            "The trash goes in the dumpster.",
+            "The dumpster is full.",
+            "A dumpster is behind the store."
+          ]
+        },
+        "more": {
+          "def": "A very large metal container used to hold trash and be hauled away.",
+          "examples": [
+            "Workers threw the old boards into the dumpster.",
+            "A big green dumpster stood behind the school.",
+            "The truck came to empty the dumpster on Monday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dungeon",
+    "say": "DUN-jun",
+    "forms": [
+      "dungeons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dark prison room under a castle.",
+          "examples": [
+            "The dungeon is dark.",
+            "The knight was in the dungeon.",
+            "A dungeon is in the castle."
+          ]
+        },
+        "more": {
+          "def": "A dark underground room in a castle, used long ago as a prison.",
+          "examples": [
+            "The dungeon was dark and cold.",
+            "In the story, the knight was locked in the dungeon.",
+            "A dungeon is below the castle."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dunk",
+    "say": "dungk",
+    "forms": [
+      "dunks",
+      "dunked",
+      "dunking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To dip something into a liquid for a moment.",
+          "examples": [
+            "I dunk a chip in dip.",
+            "She dunked the bread.",
+            "He dunked his hand in the water."
+          ]
+        },
+        "more": {
+          "def": "To dip something quickly into a liquid.",
+          "examples": [
+            "I dunk my cookie in milk.",
+            "She dunked her bread into the soup.",
+            "He dunked the apple in water to wash it."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To jump and push a basketball down through the hoop.",
+          "examples": [
+            "He can dunk the ball.",
+            "She dunked it.",
+            "The player dunked."
+          ]
+        },
+        "more": {
+          "def": "To jump up and push a basketball down through the hoop with force.",
+          "examples": [
+            "The tall player can dunk the ball.",
+            "He jumped up and dunked the ball with one hand.",
+            "The crowd cheered when she dunked the ball."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "duplicate",
+    "say": "DOO-plih-kit",
+    "forms": [
+      "duplicates",
+      "duplicated",
+      "duplicating"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An exact copy of something.",
+          "examples": [
+            "I have a duplicate of my key.",
+            "This is a duplicate.",
+            "She made a duplicate."
+          ]
+        },
+        "more": {
+          "def": "An exact copy of something.",
+          "examples": [
+            "I have a duplicate of the key in case I lose it.",
+            "This card is a duplicate of one I already have.",
+            "She made a duplicate of the picture for her friend."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make an exact copy of something.",
+          "examples": [
+            "I duplicate the key.",
+            "The machine duplicates papers.",
+            "She duplicated the picture."
+          ]
+        },
+        "more": {
+          "def": "To make an exact copy of something.",
+          "examples": [
+            "The machine can duplicate a key in a minute.",
+            "She duplicated the picture so both friends had one.",
+            "It is hard to duplicate the taste of Grandma's soup."
           ]
         }
       }

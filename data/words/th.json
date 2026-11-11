@@ -739,6 +739,34 @@
     ]
   },
   {
+    "word": "thingy",
+    "say": "THING-ee",
+    "forms": [
+      "thingies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word for something when you do not know its name.",
+          "examples": [
+            "Hand me that thingy.",
+            "What is that thingy?",
+            "I lost the thingy."
+          ]
+        },
+        "more": {
+          "def": "An informal word for something whose name you cannot remember or do not know.",
+          "examples": [
+            "Hand me that thingy on the table.",
+            "What is that little thingy for?",
+            "I lost the thingy that goes on top of the jar."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "think",
     "say": "think",
     "forms": [
@@ -788,6 +816,35 @@
             "My brother came in third place in the race.",
             "We live on the third floor.",
             "It was the third time we visited the zoo."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thirst",
+    "say": "therst",
+    "forms": [
+      "thirsts",
+      "thirsty"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The feeling that you need to drink.",
+          "examples": [
+            "I felt thirst after the race.",
+            "The water stopped her thirst.",
+            "He drank to stop his thirst."
+          ]
+        },
+        "more": {
+          "def": "The need or wish to drink something.",
+          "examples": [
+            "I felt great thirst after the long run.",
+            "A cold drink stopped her thirst on the hot day.",
+            "The hikers were suffering from thirst after hours in the sun."
           ]
         }
       }
@@ -896,6 +953,65 @@
             "This is the book I told you about.",
             "Try this juice, because it is made from fresh pears.",
             "These shoes are too small for me now."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thorough",
+    "say": "THER-oh",
+    "forms": [
+      "thoroughly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Complete, with nothing missed.",
+          "examples": [
+            "She did a thorough job cleaning.",
+            "The teacher gave a thorough lesson.",
+            "Mom made a thorough check of the house."
+          ]
+        },
+        "more": {
+          "def": "Careful and complete, with nothing left out.",
+          "examples": [
+            "He did a thorough job of cleaning up after the party.",
+            "The doctor gave her a thorough check for any problems.",
+            "We made a thorough search of the yard for the lost key."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "thoroughness",
+        "def": "The way of being thorough."
+      }
+    ]
+  },
+  {
+    "word": "thoroughly",
+    "say": "THER-oh-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a complete way, with nothing left out.",
+          "examples": [
+            "Wash your hands thoroughly.",
+            "I thoroughly cleaned my room.",
+            "We thoroughly enjoyed the trip."
+          ]
+        },
+        "more": {
+          "def": "Completely and carefully, leaving nothing out.",
+          "examples": [
+            "He washed his hands thoroughly with soap and warm water.",
+            "The detective thoroughly searched the room for clues.",
+            "We thoroughly enjoyed the long day at the beach."
           ]
         }
       }
@@ -1178,6 +1294,34 @@
     ]
   },
   {
+    "word": "threshold",
+    "say": "THRESH-ohld",
+    "forms": [
+      "thresholds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The strip of floor at the bottom of a door.",
+          "examples": [
+            "Step over the threshold.",
+            "He stood at the threshold.",
+            "The cat sat on the threshold."
+          ]
+        },
+        "more": {
+          "def": "The piece of floor at the bottom of a doorway, or the point where something begins.",
+          "examples": [
+            "The bride was carried over the threshold of the house.",
+            "A cold draft came in under the threshold of the door.",
+            "Scientists said that the lab stood on the threshold of an exciting discovery."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thrill",
     "say": "thril",
     "forms": [
@@ -1221,6 +1365,31 @@
             "The magic show thrilled the children.",
             "The fast ride thrilled us all.",
             "The big game thrilled the whole town."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thrilling",
+    "say": "THRIL-ing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very exciting.",
+          "examples": [
+            "The ride was thrilling.",
+            "A thrilling story.",
+            "The race was thrilling."
+          ]
+        },
+        "more": {
+          "def": "Very exciting and full of action.",
+          "examples": [
+            "The roller coaster ride was thrilling.",
+            "We read a thrilling story about pirates.",
+            "The race was thrilling right to the last second."
           ]
         }
       }
@@ -1365,6 +1534,54 @@
     ]
   },
   {
+    "word": "thrust",
+    "say": "thrust",
+    "forms": [
+      "thrusts",
+      "thrusting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To push something hard and fast.",
+          "examples": [
+            "He thrust his hand in his pocket.",
+            "She thrust the paper at me.",
+            "The knight thrust his sword."
+          ]
+        },
+        "more": {
+          "def": "To push something quickly and hard in a direction.",
+          "examples": [
+            "He thrust his hands into his pockets because it was cold.",
+            "She thrust the paper into my hand and ran off.",
+            "The rocket's engines thrust it up through the clouds."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong push forward.",
+          "examples": [
+            "The thrust of the engine pushed the plane.",
+            "A thrust sent the boat ahead.",
+            "The thrust was strong."
+          ]
+        },
+        "more": {
+          "def": "A strong push or force that moves something forward.",
+          "examples": [
+            "The thrust of the engines pushed the plane down the runway.",
+            "A rocket needs a great thrust to leave the ground.",
+            "With one thrust of the oar, the boat shot ahead."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thumb",
     "say": "thum",
     "emoji": "👍",
@@ -1388,6 +1605,55 @@
             "I hit my thumb with the hammer.",
             "He gave a thumbs up.",
             "Your thumb helps you hold a pencil."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thump",
+    "say": "thump",
+    "forms": [
+      "thumps",
+      "thumped",
+      "thumping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dull sound, like something heavy falling.",
+          "examples": [
+            "I heard a thump.",
+            "The book fell with a thump.",
+            "A thump came from upstairs."
+          ]
+        },
+        "more": {
+          "def": "A dull, heavy sound made when something falls or hits a surface.",
+          "examples": [
+            "I heard a thump from the attic.",
+            "The book fell to the floor with a thump.",
+            "A loud thump woke me up in the night."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit something with a dull sound.",
+          "examples": [
+            "The rabbit thumps its foot.",
+            "I thumped the table.",
+            "My heart thumped."
+          ]
+        },
+        "more": {
+          "def": "To hit or fall with a dull, heavy sound.",
+          "examples": [
+            "The rabbit thumped its foot on the ground.",
+            "I thumped on the door to be let in.",
+            "My heart thumped when I heard the noise."
           ]
         }
       }

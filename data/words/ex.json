@@ -208,6 +208,36 @@
     ]
   },
   {
+    "word": "exceed",
+    "say": "ik-SEED",
+    "forms": [
+      "exceeds",
+      "exceeded",
+      "exceeding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go beyond a limit or be more than expected.",
+          "examples": [
+            "Do not exceed the speed limit.",
+            "The test exceeded my hopes.",
+            "The cost exceeds ten dollars."
+          ]
+        },
+        "more": {
+          "def": "To be more than a set amount or limit.",
+          "examples": [
+            "Do not exceed the speed limit when you drive.",
+            "The test results exceeded my hopes.",
+            "The cost of the trip will exceed one hundred dollars."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "excellent",
     "say": "EK-suh-lunt",
     "senses": [
@@ -286,6 +316,34 @@
     ]
   },
   {
+    "word": "excess",
+    "say": "EK-sess",
+    "forms": [
+      "excesses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "More than you need.",
+          "examples": [
+            "There is an excess of food.",
+            "Wipe off the excess.",
+            "We have excess toys."
+          ]
+        },
+        "more": {
+          "def": "An amount that is more than is needed or allowed.",
+          "examples": [
+            "There was an excess of food at the party.",
+            "Wipe off the excess glue with a cloth.",
+            "The store gave away its excess toys to the shelter."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "exchange",
     "say": "iks-CHAYNJ",
     "forms": [
@@ -329,6 +387,36 @@
             "The class held a book exchange in the library.",
             "We made an exchange: my apple for his cookie.",
             "An exchange of letters kept the two friends close."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "excite",
+    "say": "ik-SYT",
+    "forms": [
+      "excites",
+      "excited",
+      "exciting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone feel happy and eager.",
+          "examples": [
+            "The news excites me.",
+            "The show excited the kids.",
+            "Snow excites my dog."
+          ]
+        },
+        "more": {
+          "def": "To fill someone with strong, happy feelings or eagerness.",
+          "examples": [
+            "The news about the trip excites me.",
+            "The magic show excited the kids.",
+            "A new puppy can excite the whole family."
           ]
         }
       }
@@ -854,6 +942,34 @@
     ]
   },
   {
+    "word": "expanse",
+    "say": "ik-SPANSS",
+    "forms": [
+      "expanses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very large open space.",
+          "examples": [
+            "We looked at the wide expanse of sea.",
+            "An expanse of snow lay in front of us.",
+            "The sky is a big blue expanse."
+          ]
+        },
+        "more": {
+          "def": "A wide, open area that seems to go on and on, such as the sea, the sky or a desert.",
+          "examples": [
+            "The plane flew over an endless expanse of desert.",
+            "A vast expanse of grass stretched toward the hills.",
+            "Sailors stared out at the empty expanse of ocean."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "expect",
     "say": "ik-SPEKT",
     "forms": [
@@ -1102,6 +1218,34 @@
     ]
   },
   {
+    "word": "experimental",
+    "say": "ek-sper-ih-MEN-tul",
+    "forms": [
+      "experimentally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Used to try out something new.",
+          "examples": [
+            "It is an experimental toy.",
+            "The plane is experimental.",
+            "We use experimental methods."
+          ]
+        },
+        "more": {
+          "def": "New and being used to test an idea or to see how well something works.",
+          "examples": [
+            "The company tested an experimental toy with kids.",
+            "The experimental plane flew for the first time today.",
+            "Scientists use experimental methods to see what works."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "expert",
     "say": "EK-spert",
     "forms": [
@@ -1124,6 +1268,61 @@
             "The bird expert identified the song.",
             "An expert fixed the broken clock.",
             "She is an expert at chess."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "expertise",
+    "say": "ek-sper-TEEZ",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Great skill or knowledge in one subject.",
+          "examples": [
+            "She has expertise in math.",
+            "His expertise is cooking.",
+            "We needed her expertise."
+          ]
+        },
+        "more": {
+          "def": "Special skill or great knowledge about something.",
+          "examples": [
+            "She has great expertise in fixing computers.",
+            "We asked the gardener for her expertise about roses.",
+            "His expertise in building boats helped the whole team."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "expire",
+    "say": "ik-SPYR",
+    "forms": [
+      "expires",
+      "expired",
+      "expiring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop being good to use after a day.",
+          "examples": [
+            "My library card will expire.",
+            "The milk has expired.",
+            "The coupon expires today."
+          ]
+        },
+        "more": {
+          "def": "To reach the end of the time that something can be used.",
+          "examples": [
+            "My library card expires at the end of the year.",
+            "Throw out the milk after the date it expires.",
+            "The coupon expired last week, so we could not use it."
           ]
         }
       }
@@ -1506,6 +1705,34 @@
     ]
   },
   {
+    "word": "extent",
+    "say": "ik-STENT",
+    "forms": [
+      "extents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How far or how big something is.",
+          "examples": [
+            "We saw the extent of the lake.",
+            "The extent of the flood was wide.",
+            "I know to some extent."
+          ]
+        },
+        "more": {
+          "def": "The size, length or range of something.",
+          "examples": [
+            "We were amazed at the extent of the cave.",
+            "The extent of the damage from the storm was clear by morning.",
+            "To some extent, I agree with you."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "extinct",
     "say": "ek-STINKT",
     "emoji": "🦖",
@@ -1551,6 +1778,74 @@
             "Bring an extra sweater in case it gets cold.",
             "We had extra time before the bus came.",
             "Add an extra spoon of sugar."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "extract",
+    "say": "ik-STRAKT",
+    "forms": [
+      "extracts",
+      "extracted",
+      "extracting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pull or take something out.",
+          "examples": [
+            "The dentist will extract a loose tooth.",
+            "We extract juice from oranges.",
+            "He extracted a coin from the jar."
+          ]
+        },
+        "more": {
+          "def": "To take something out, often with effort or care.",
+          "examples": [
+            "Bees collect nectar and the farmer extracts the honey from the comb.",
+            "The scientist extracted a small sample from the rock.",
+            "The nurse carefully extracted a splinter from his finger."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something strong made from a plant or food.",
+          "examples": [
+            "I put vanilla extract in the cake.",
+            "The extract smells like mint.",
+            "Mom bought lemon extract."
+          ]
+        },
+        "more": {
+          "def": "A strong liquid taken from a plant or food, used to give flavor or for medicine.",
+          "examples": [
+            "A few drops of vanilla extract made the cookies smell wonderful.",
+            "The soap contains an extract of lavender flowers.",
+            "The recipe calls for a teaspoon of almond extract."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short part taken from a book or song.",
+          "examples": [
+            "We read an extract from the book.",
+            "The extract was one page.",
+            "She read an extract aloud."
+          ]
+        },
+        "more": {
+          "def": "A short piece taken from a longer book, poem or piece of music.",
+          "examples": [
+            "The teacher read us an extract from a famous adventure novel.",
+            "The textbook included an extract from a diary written long ago.",
+            "We listened to an extract of the symphony before the concert."
           ]
         }
       }

@@ -1,5 +1,54 @@
 [
   {
+    "word": "swab",
+    "say": "swob",
+    "forms": [
+      "swabs",
+      "swabbed",
+      "swabbing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small stick with cotton on the end.",
+          "examples": [
+            "The nurse used a swab.",
+            "A cotton swab is soft.",
+            "He used a swab."
+          ]
+        },
+        "more": {
+          "def": "A small piece of cotton or cloth on a stick, used for cleaning or putting on medicine.",
+          "examples": [
+            "The nurse cleaned the cut with a cotton swab.",
+            "The doctor took a swab from my throat.",
+            "He used a swab to put medicine on the sore spot."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To clean with a mop or cloth.",
+          "examples": [
+            "The sailor swabs the deck.",
+            "She swabbed the floor.",
+            "He swabbed the cut."
+          ]
+        },
+        "more": {
+          "def": "To clean or wipe something with a mop or cloth.",
+          "examples": [
+            "The sailors swabbed the deck of the ship.",
+            "She swabbed the floor with a wet mop.",
+            "The nurse swabbed the cut with a clean cloth."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "swallow",
     "say": "SWOL-oh",
     "forms": [
@@ -107,6 +156,66 @@
             "We swapped stickers at recess.",
             "I swapped seats with my friend.",
             "She swapped her apple for a cookie."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "swat",
+    "say": "swot",
+    "forms": [
+      "swats",
+      "swatted",
+      "swatting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit something quickly with a flat hand or tool.",
+          "examples": [
+            "I swat a fly.",
+            "She swatted the bug.",
+            "Dad swatted a mosquito."
+          ]
+        },
+        "more": {
+          "def": "To hit something sharply and quickly, especially an insect, with something flat.",
+          "examples": [
+            "I swatted a fly that was buzzing around the kitchen.",
+            "She swatted the mosquito with a rolled-up newspaper.",
+            "The cat swatted at the toy that was dangling above her."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sway",
+    "say": "sway",
+    "forms": [
+      "sways",
+      "swayed",
+      "swaying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move slowly from side to side.",
+          "examples": [
+            "The flowers sway in the wind.",
+            "The boat swayed.",
+            "I sway to the music."
+          ]
+        },
+        "more": {
+          "def": "To move slowly from one side to the other.",
+          "examples": [
+            "The trees sway in the wind.",
+            "The boat swayed gently on the water.",
+            "She swayed to the music in her chair."
           ]
         }
       }
@@ -235,6 +344,35 @@
             "I put on a sweater because it was cold.",
             "Grandma knitted me a red sweater.",
             "The sweater kept me warm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sweaty",
+    "say": "SWET-ee",
+    "forms": [
+      "sweatier",
+      "sweatiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wet with sweat.",
+          "examples": [
+            "My hands are sweaty.",
+            "I got sweaty at the game.",
+            "The sweaty shirt is in the wash."
+          ]
+        },
+        "more": {
+          "def": "Covered with sweat or wet from sweating.",
+          "examples": [
+            "I was hot and sweaty after soccer practice.",
+            "My hands got sweaty before I went on stage.",
+            "He tossed his sweaty socks into the laundry basket."
           ]
         }
       }
@@ -377,6 +515,31 @@
     ]
   },
   {
+    "word": "sweetly",
+    "say": "SWEET-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a kind, gentle or pleasing way.",
+          "examples": [
+            "The baby smiled sweetly.",
+            "The bird sang sweetly.",
+            "She spoke sweetly."
+          ]
+        },
+        "more": {
+          "def": "In a gentle, kind or pleasing way, or with a sweet taste or sound.",
+          "examples": [
+            "The baby smiled sweetly at everyone in the room.",
+            "The bird sang sweetly from the top of the tree.",
+            "The cake smelled sweetly of vanilla and sugar."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "swell",
     "say": "swel",
     "forms": [
@@ -402,6 +565,36 @@
             "His ankle swelled after he twisted it.",
             "The river swelled after days of heavy rain.",
             "The sponge swells when it soaks up water."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "swift",
+    "say": "swift",
+    "forms": [
+      "swifter",
+      "swiftest",
+      "swiftly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very fast.",
+          "examples": [
+            "The swift horse ran.",
+            "A swift river.",
+            "The cat was swift."
+          ]
+        },
+        "more": {
+          "def": "Moving or happening very fast.",
+          "examples": [
+            "The swift horse ran across the field.",
+            "A swift river carried the leaf away.",
+            "The cat made a swift jump onto the table."
           ]
         }
       }
@@ -519,6 +712,32 @@
     ]
   },
   {
+    "word": "swine",
+    "say": "swyn",
+    "emoji": "🐖",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Pigs.",
+          "examples": [
+            "The farmer raises swine.",
+            "The swine ate in the pen.",
+            "Swine live on the farm."
+          ]
+        },
+        "more": {
+          "def": "Pigs, or a pig; a word used mostly for farm animals.",
+          "examples": [
+            "The farmer raises swine and chickens on his land.",
+            "A herd of swine rolled in the mud on a hot day.",
+            "The county fair had a contest for the best swine."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "swing",
     "say": "swing",
     "emoji": "🛝",
@@ -563,6 +782,55 @@
             "The monkey swung from branch to branch.",
             "The door swung open in the wind.",
             "She swung the bat and hit the ball."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "swipe",
+    "say": "swyp",
+    "forms": [
+      "swipes",
+      "swiped",
+      "swiping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move something across a surface in one quick motion.",
+          "examples": [
+            "I swipe the screen.",
+            "She swiped her card.",
+            "He swiped his finger."
+          ]
+        },
+        "more": {
+          "def": "To move a finger or card quickly across something.",
+          "examples": [
+            "I swipe the screen to see the next picture.",
+            "She swiped her card at the door.",
+            "He swiped his finger across the tablet."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit at something with a fast swing.",
+          "examples": [
+            "The cat swiped at the string.",
+            "He swiped at the fly.",
+            "The bear swiped at the bees."
+          ]
+        },
+        "more": {
+          "def": "To hit or reach at something with a fast sweeping movement.",
+          "examples": [
+            "The cat swiped at the dangling string.",
+            "He swiped at the fly with his hand.",
+            "The bear swiped at the buzzing bees."
           ]
         }
       }

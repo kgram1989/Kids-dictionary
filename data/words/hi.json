@@ -135,6 +135,61 @@
     ]
   },
   {
+    "word": "highlight",
+    "say": "HY-lyt",
+    "forms": [
+      "highlights",
+      "highlighted",
+      "highlighting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To mark words with a bright color so they stand out.",
+          "examples": [
+            "I highlight the words.",
+            "She highlighted the page.",
+            "He highlighted the date."
+          ]
+        },
+        "more": {
+          "def": "To mark something with a bright color or to make it easy to notice.",
+          "examples": [
+            "I highlighted the key words in yellow.",
+            "She highlighted the date on the calendar with a red pen.",
+            "The teacher highlighted the most important part of the lesson."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The best part of something.",
+          "examples": [
+            "The trip was the highlight of my summer.",
+            "The highlight was the cake.",
+            "Recess was the highlight of my day."
+          ]
+        },
+        "more": {
+          "def": "The most exciting or important part of something.",
+          "examples": [
+            "The trip to the zoo was the highlight of my week.",
+            "The highlight of the show was the magic trick.",
+            "Meeting the author was the highlight of the school visit."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "highlighter",
+        "def": "A pen that marks words in a bright color."
+      }
+    ]
+  },
+  {
     "word": "highly",
     "say": "HY-lee",
     "senses": [
@@ -533,6 +588,31 @@
             "The historian wrote a book about the Civil War.",
             "A historian visited our class.",
             "The historian studied old letters."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "historic",
+    "say": "hiss-TOR-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Important in history.",
+          "examples": [
+            "It was a historic day.",
+            "A historic house.",
+            "We saw a historic place."
+          ]
+        },
+        "more": {
+          "def": "Important or famous in history.",
+          "examples": [
+            "July fourth is a historic day for the country.",
+            "We toured a historic house built over two hundred years ago.",
+            "The team won a historic victory."
           ]
         }
       }

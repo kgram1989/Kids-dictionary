@@ -384,6 +384,55 @@
     ]
   },
   {
+    "word": "bleep",
+    "say": "bleep",
+    "forms": [
+      "bleeps",
+      "bleeped",
+      "bleeping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short, high sound that a machine makes.",
+          "examples": [
+            "The machine made a bleep.",
+            "I heard a bleep.",
+            "The bleep woke me up."
+          ]
+        },
+        "more": {
+          "def": "A short, high sound made by a machine.",
+          "examples": [
+            "The machine made a bleep when it turned on.",
+            "A bleep from the alarm told us it was time.",
+            "I heard a bleep when I pressed the button."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a short, high sound.",
+          "examples": [
+            "The machine bleeps.",
+            "The phone bleeped.",
+            "The alarm bleeped."
+          ]
+        },
+        "more": {
+          "def": "To give out a short, high electronic sound.",
+          "examples": [
+            "The machine bleeps when it is ready.",
+            "My phone bleeped when a message came in.",
+            "The monitor bleeped every few seconds."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "blend",
     "say": "blend",
     "forms": [
@@ -491,6 +540,34 @@
             "Her kind teacher was a blessing in her life.",
             "The rain after the long dry spell was a blessing.",
             "The family said a blessing before the meal."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blessings",
+    "say": "BLES-ingz",
+    "forms": [
+      "blessing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Good things that make you feel thankful.",
+          "examples": [
+            "Count your blessings.",
+            "Good friends are blessings.",
+            "I am thankful for my blessings."
+          ]
+        },
+        "more": {
+          "def": "Things that bring happiness and good fortune, and for which people are thankful.",
+          "examples": [
+            "She counted her blessings and thanked her family.",
+            "Good health and good friends are two great blessings.",
+            "We are thankful for the blessings of a warm home and food."
           ]
         }
       }
@@ -894,6 +971,92 @@
     ]
   },
   {
+    "word": "bluebell",
+    "say": "BLOO-bel",
+    "emoji": "🔔",
+    "forms": [
+      "bluebells"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small flower shaped like a bell, usually blue.",
+          "examples": [
+            "A bluebell grew in the woods.",
+            "The bluebell is blue.",
+            "We picked a bluebell."
+          ]
+        },
+        "more": {
+          "def": "A wild plant with small blue flowers shaped like bells.",
+          "examples": [
+            "A carpet of bluebells covered the forest floor in spring.",
+            "The bluebell nodded in the soft breeze.",
+            "We found a patch of bluebells near the stream."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blueberry",
+    "say": "BLOO-bair-ee",
+    "emoji": "🫐",
+    "forms": [
+      "blueberries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, round, blue fruit.",
+          "examples": [
+            "I ate a blueberry.",
+            "The blueberry is sweet.",
+            "Blueberries are in the muffin."
+          ]
+        },
+        "more": {
+          "def": "A small, round, sweet berry that is dark blue and grows on bushes.",
+          "examples": [
+            "I ate a blueberry muffin for breakfast.",
+            "We picked blueberries from the bush behind the barn.",
+            "Blueberries are full of vitamins and taste good in pancakes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blueprint",
+    "say": "BLOO-print",
+    "forms": [
+      "blueprints"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A plan that shows how to build something.",
+          "examples": [
+            "The builder looked at the blueprint.",
+            "The blueprint shows the rooms.",
+            "We drew a blueprint."
+          ]
+        },
+        "more": {
+          "def": "A detailed plan or drawing that shows how something will be built.",
+          "examples": [
+            "The builder studied the blueprint for the new house.",
+            "The blueprint shows where each room and window will go.",
+            "We drew a blueprint of our clubhouse before we started building."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "blues",
     "say": "blooz",
     "senses": [
@@ -981,6 +1144,56 @@
             "She bluffed during the card game.",
             "He tried to bluff his way out of trouble.",
             "I bluffed when I did not know the answer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blunt",
+    "say": "blunt",
+    "forms": [
+      "blunter",
+      "bluntest",
+      "bluntly",
+      "blunted"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not sharp.",
+          "examples": [
+            "The knife is blunt.",
+            "The pencil is blunt.",
+            "I need a blunt pair of scissors."
+          ]
+        },
+        "more": {
+          "def": "Not sharp or pointed at the end.",
+          "examples": [
+            "The scissors were blunt and could not cut the paper well.",
+            "A blunt pencil makes a thick line.",
+            "Children's safety scissors have blunt tips."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Saying exactly what you think, without being gentle.",
+          "examples": [
+            "He was blunt about the test.",
+            "Her answer was blunt.",
+            "The coach was blunt."
+          ]
+        },
+        "more": {
+          "def": "Speaking in a plain, direct way that may seem rude.",
+          "examples": [
+            "He gave a blunt answer and told us the truth.",
+            "The coach was blunt and said we needed more practice.",
+            "She is blunt, so you always know what she is thinking."
           ]
         }
       }

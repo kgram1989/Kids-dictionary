@@ -378,6 +378,35 @@
     ]
   },
   {
+    "word": "piggy",
+    "say": "PIG-ee",
+    "emoji": "🐖",
+    "forms": [
+      "piggies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A little pig.",
+          "examples": [
+            "The piggy rolled in the mud.",
+            "I saw a piggy on the farm.",
+            "A piggy oinked at me."
+          ]
+        },
+        "more": {
+          "def": "A pig, especially a small or young one.",
+          "examples": [
+            "A little piggy rolled in the mud on the farm.",
+            "Every piggy in the pen wanted a turn at the trough.",
+            "The children laughed as the piggy chased the farmer for food."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pile",
     "say": "pyl",
     "forms": [
@@ -668,6 +697,55 @@
     ]
   },
   {
+    "word": "ping",
+    "say": "ping",
+    "forms": [
+      "pings",
+      "pinged",
+      "pinging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short, high sound like a small bell or a message alert.",
+          "examples": [
+            "I heard a ping.",
+            "My phone made a ping.",
+            "The ping was loud."
+          ]
+        },
+        "more": {
+          "def": "A short, high, ringing sound, such as the sound of a small bell or a message arriving.",
+          "examples": [
+            "I heard a ping when a message came in.",
+            "A ping told us the oven was ready.",
+            "The ping of the bell echoed in the room."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a short, high ringing sound.",
+          "examples": [
+            "My phone pings.",
+            "The oven pinged.",
+            "The bell pinged."
+          ]
+        },
+        "more": {
+          "def": "To make a short, high ringing sound, or to send a quick message to someone.",
+          "examples": [
+            "My phone pings when I get a message.",
+            "The oven pinged when the cake was ready.",
+            "A bell pinged softly in the hallway."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pink",
     "say": "pink",
     "emoji": "🩷",
@@ -711,6 +789,83 @@
             "Mix red and white to make pink.",
             "The sky glowed in shades of pink.",
             "Pink is a soft color."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pint",
+    "say": "pynt",
+    "forms": [
+      "pints"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small amount of liquid, about two cups.",
+          "examples": [
+            "We bought a pint of milk.",
+            "A pint of berries is small.",
+            "He drank a pint of water."
+          ]
+        },
+        "more": {
+          "def": "A measure of liquid equal to two cups, or half a quart.",
+          "examples": [
+            "The recipe calls for a pint of cream.",
+            "We bought a pint of strawberries at the market.",
+            "Two pints make one quart."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pioneer",
+    "say": "py-uh-NEER",
+    "forms": [
+      "pioneers",
+      "pioneered",
+      "pioneering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who goes first to a new place and makes a home there.",
+          "examples": [
+            "The pioneers moved west.",
+            "A pioneer built a cabin.",
+            "Pioneers worked hard."
+          ]
+        },
+        "more": {
+          "def": "A person who is one of the first to explore or live in a new place.",
+          "examples": [
+            "The pioneers traveled west in covered wagons.",
+            "A pioneer built a log cabin by the river.",
+            "Pioneers worked hard to build homes in the wild land."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is first to try something new.",
+          "examples": [
+            "She is a pioneer in science.",
+            "He is a pioneer of flight.",
+            "A pioneer of music."
+          ]
+        },
+        "more": {
+          "def": "A person who is among the first to try a new idea or way of doing something.",
+          "examples": [
+            "She is a pioneer in science and has made new discoveries.",
+            "The Wright brothers were pioneers of flight.",
+            "He was a pioneer of music for children."
           ]
         }
       }
@@ -884,6 +1039,81 @@
             "A violin plays a high pitch, and a tuba a low one.",
             "The pitch of her voice rose when she got excited.",
             "The tuner checks the pitch of each piano string."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pitcher",
+    "say": "PICH-er",
+    "forms": [
+      "pitchers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The baseball player who throws the ball to the batter.",
+          "examples": [
+            "The pitcher threw the ball.",
+            "He is the pitcher.",
+            "The pitcher is fast."
+          ]
+        },
+        "more": {
+          "def": "The baseball player who throws the ball for the batter to hit.",
+          "examples": [
+            "The pitcher threw a fast ball over the plate.",
+            "He is the best pitcher on our team.",
+            "The pitcher wound up and threw a curve."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tall container for pouring liquids.",
+          "examples": [
+            "The pitcher is full of juice.",
+            "Pour from the pitcher.",
+            "Mom filled the pitcher."
+          ]
+        },
+        "more": {
+          "def": "A container with a handle and a lip for pouring drinks.",
+          "examples": [
+            "The pitcher is full of cold lemonade.",
+            "Mom filled the pitcher with water.",
+            "She poured juice from the pitcher into everyone's cup."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pitiful",
+    "say": "PIT-ih-ful",
+    "forms": [
+      "pitifully"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "So sad that you feel sorry for it.",
+          "examples": [
+            "The kitten gave a pitiful cry.",
+            "The pitiful puppy was wet.",
+            "It looked pitiful."
+          ]
+        },
+        "more": {
+          "def": "Very sad, in a way that makes you feel sorry.",
+          "examples": [
+            "The kitten gave a pitiful cry from the rainy yard.",
+            "The pitiful puppy shivered in the cold.",
+            "The garden looked pitiful after the long dry spell."
           ]
         }
       }

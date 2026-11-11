@@ -206,6 +206,81 @@
     ]
   },
   {
+    "word": "skid",
+    "say": "skid",
+    "forms": [
+      "skids",
+      "skidded",
+      "skidding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To slide out of control.",
+          "examples": [
+            "The car skidded on the ice.",
+            "My bike skidded.",
+            "The truck skidded."
+          ]
+        },
+        "more": {
+          "def": "To slide sideways or forward without control, usually on a wet or slippery surface.",
+          "examples": [
+            "The car skidded on the icy road.",
+            "My bike skidded on the wet leaves.",
+            "The truck skidded to a stop in the snow."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A slide that is out of control.",
+          "examples": [
+            "The car went into a skid.",
+            "I felt a skid.",
+            "The skid was scary."
+          ]
+        },
+        "more": {
+          "def": "A slide of a vehicle out of control on a slippery road.",
+          "examples": [
+            "The car went into a skid on the ice.",
+            "I felt the bike go into a skid.",
+            "The driver steered out of the skid."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "skiing",
+    "say": "SKEE-ing",
+    "emoji": "⛷️",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Sliding over snow on long, thin boards called skis.",
+          "examples": [
+            "I like skiing.",
+            "We go skiing in winter.",
+            "Skiing is fun in the snow."
+          ]
+        },
+        "more": {
+          "def": "The sport or activity of sliding over snow on skis.",
+          "examples": [
+            "We go skiing in the mountains every winter.",
+            "Skiing down the hill was fast and fun.",
+            "He took lessons in skiing and learned to stop on the slope."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "skill",
     "say": "skil",
     "forms": [
@@ -411,6 +486,35 @@
             "Your skull protects your brain.",
             "The museum has a dinosaur skull.",
             "A helmet protects your skull."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "skunk",
+    "say": "skungk",
+    "emoji": "🦨",
+    "forms": [
+      "skunks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A black and white animal that sprays a very bad smell.",
+          "examples": [
+            "The skunk sprayed.",
+            "I smelled a skunk.",
+            "A skunk lives under the porch."
+          ]
+        },
+        "more": {
+          "def": "A small black and white animal that sprays a strong, bad-smelling liquid when it is scared.",
+          "examples": [
+            "The skunk lifted its tail and sprayed a terrible smell.",
+            "A skunk has a bold white stripe down its back.",
+            "Our dog got sprayed by a skunk and had to take a bath."
           ]
         }
       }

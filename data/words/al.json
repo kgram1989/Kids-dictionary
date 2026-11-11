@@ -28,6 +28,31 @@
     ]
   },
   {
+    "word": "alas",
+    "say": "uh-LASS",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A word used to show sadness.",
+          "examples": [
+            "Alas, the party is over.",
+            "Alas, I cannot go.",
+            "Alas, it is gone."
+          ]
+        },
+        "more": {
+          "def": "A word used in a story or poem to show that you feel sad or sorry.",
+          "examples": [
+            "Alas, the party is over!",
+            "Alas, I cannot come to your game this weekend.",
+            "Alas, the last cookie was gone."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "album",
     "say": "AL-bum",
     "forms": [
@@ -276,6 +301,34 @@
     ]
   },
   {
+    "word": "allegiance",
+    "say": "uh-LEE-junss",
+    "forms": [
+      "allegiances"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being loyal to a country, a leader or a cause.",
+          "examples": [
+            "I pledge allegiance.",
+            "I have allegiance to my team.",
+            "She showed her allegiance."
+          ]
+        },
+        "more": {
+          "def": "Loyalty to a country, a person, a group or a cause.",
+          "examples": [
+            "We pledge allegiance to the flag.",
+            "I have allegiance to my team and always cheer for it.",
+            "She showed her allegiance by helping the club."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "allergic",
     "say": "uh-LER-jik",
     "senses": [
@@ -295,6 +348,34 @@
             "I am allergic to cats and sneeze around them.",
             "She is allergic to peanuts.",
             "He is allergic to pollen in spring."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "allergy",
+    "say": "AL-er-jee",
+    "forms": [
+      "allergies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When your body reacts badly to something that is not harmful to most people.",
+          "examples": [
+            "I have an allergy to peanuts.",
+            "My sister has an allergy to cats.",
+            "An allergy can make you sneeze."
+          ]
+        },
+        "more": {
+          "def": "A reaction of the body, such as sneezing or itching, to something like pollen, dust or certain foods.",
+          "examples": [
+            "I have an allergy to cats, so I sneeze when I pet them.",
+            "Spring flowers can cause an allergy and a runny nose.",
+            "A food allergy means you must stay away from the food that makes you sick."
           ]
         }
       }
@@ -323,6 +404,35 @@
             "The cat slipped down the alley.",
             "We took a shortcut through the alley behind the shop.",
             "Trash cans lined the alley."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "alligator",
+    "say": "AL-uh-gay-ter",
+    "emoji": "🐊",
+    "forms": [
+      "alligators"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big animal with a long mouth and sharp teeth that lives in swamps.",
+          "examples": [
+            "The alligator swam in the pond.",
+            "An alligator has sharp teeth.",
+            "We saw an alligator at the zoo."
+          ]
+        },
+        "more": {
+          "def": "A large reptile with a broad snout, thick skin and a strong tail that lives in warm swamps and rivers.",
+          "examples": [
+            "An alligator lay still in the sun along the riverbank.",
+            "Alligators lay their eggs in nests made of plants and mud.",
+            "The guide steered the boat quietly past an alligator in the swamp."
           ]
         }
       }
@@ -686,6 +796,55 @@
     ]
   },
   {
+    "word": "alternate",
+    "say": "AWL-ter-nut",
+    "forms": [
+      "alternates",
+      "alternated",
+      "alternating"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Every other one.",
+          "examples": [
+            "We go on alternate days.",
+            "The alternate road is longer.",
+            "We have an alternate plan."
+          ]
+        },
+        "more": {
+          "def": "Happening or coming every second time; or another choice.",
+          "examples": [
+            "We meet on alternate Fridays.",
+            "We took an alternate road because of the traffic.",
+            "I made an alternate plan in case it rained."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take turns, one after the other.",
+          "examples": [
+            "We alternate days.",
+            "The lights alternate red and green.",
+            "They alternate turns."
+          ]
+        },
+        "more": {
+          "def": "To change back and forth between two things, one after the other.",
+          "examples": [
+            "We alternate who sets the table each night.",
+            "The lights alternated between red and green.",
+            "The weather alternated between sun and rain all week."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "alternative",
     "say": "awl-TER-nuh-tiv",
     "forms": [
@@ -733,6 +892,34 @@
             "Although it was cold, we went outside.",
             "She smiled, although she was nervous.",
             "We stayed, although the movie was long."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "altitude",
+    "say": "AL-tih-tood",
+    "forms": [
+      "altitudes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How high something is above the ground or the sea.",
+          "examples": [
+            "The plane flew at a high altitude.",
+            "A mountain has a high altitude.",
+            "The altitude was big."
+          ]
+        },
+        "more": {
+          "def": "The height of something above the level of the sea or the ground.",
+          "examples": [
+            "The plane flew at a high altitude above the clouds.",
+            "It is hard to breathe at the high altitude of the mountain.",
+            "The balloon rose to an altitude of one thousand feet."
           ]
         }
       }

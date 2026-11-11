@@ -36,6 +36,31 @@
     ]
   },
   {
+    "word": "gladly",
+    "say": "GLAD-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a happy and willing way.",
+          "examples": [
+            "I will gladly help.",
+            "She gladly shared.",
+            "He gladly came."
+          ]
+        },
+        "more": {
+          "def": "With happiness or a willingness.",
+          "examples": [
+            "I will gladly help you carry the boxes.",
+            "She gladly shared her snack.",
+            "He gladly came to our party."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "glance",
     "say": "glanss",
     "forms": [
@@ -134,6 +159,55 @@
       {
         "word": "glassy",
         "def": "Smooth and shiny like glass."
+      }
+    ]
+  },
+  {
+    "word": "glimpse",
+    "say": "glimps",
+    "forms": [
+      "glimpses",
+      "glimpsed",
+      "glimpsing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very quick look.",
+          "examples": [
+            "I caught a glimpse of a deer.",
+            "He got a glimpse of the cake.",
+            "We had a glimpse of the stage."
+          ]
+        },
+        "more": {
+          "def": "A very quick look at something.",
+          "examples": [
+            "I caught a glimpse of a deer in the woods.",
+            "He got a glimpse of the surprise before it was hidden.",
+            "We had a glimpse of the sea through the trees."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To see something for just a moment.",
+          "examples": [
+            "I glimpsed a fox.",
+            "She glimpsed the star.",
+            "We glimpsed the bird."
+          ]
+        },
+        "more": {
+          "def": "To see something for a very short time.",
+          "examples": [
+            "I glimpsed a fox at the edge of the woods.",
+            "She glimpsed a shooting star across the sky.",
+            "We glimpsed a bird before it flew away."
+          ]
+        }
       }
     ]
   },

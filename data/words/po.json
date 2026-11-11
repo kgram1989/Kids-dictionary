@@ -212,6 +212,34 @@
     ]
   },
   {
+    "word": "pointless",
+    "say": "POYNT-liss",
+    "forms": [
+      "pointlessly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having no use or reason.",
+          "examples": [
+            "It is pointless to argue.",
+            "The game felt pointless.",
+            "A pointless task."
+          ]
+        },
+        "more": {
+          "def": "Having no purpose or meaning; not worth doing.",
+          "examples": [
+            "It is pointless to argue with a rock.",
+            "The game felt pointless when no one kept score.",
+            "Walking in circles is pointless if you have no goal."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "poison",
     "say": "POY-zun",
     "forms": [
@@ -234,6 +262,31 @@
             "Some snakes have poison in their fangs.",
             "The label warns that the cleaner is poison.",
             "Some wild mushrooms are poison."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "poisonous",
+    "say": "POY-zun-us",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to make you sick or kill you if eaten or touched.",
+          "examples": [
+            "The berry is poisonous.",
+            "A poisonous snake.",
+            "That plant is poisonous."
+          ]
+        },
+        "more": {
+          "def": "Containing poison that can harm or kill, if swallowed or touched.",
+          "examples": [
+            "The berry is poisonous, so do not eat it.",
+            "A poisonous snake bit the mouse.",
+            "That plant is poisonous to cats."
           ]
         }
       }
@@ -605,6 +658,31 @@
     ]
   },
   {
+    "word": "polo",
+    "say": "POH-loh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A game played on horses with long sticks and a ball.",
+          "examples": [
+            "They play polo.",
+            "Polo is played on horses.",
+            "We watched polo."
+          ]
+        },
+        "more": {
+          "def": "A game in which two teams on horses hit a ball with long sticks.",
+          "examples": [
+            "They play polo on a big grass field.",
+            "Polo is played on horses by two teams.",
+            "We watched a polo match on a sunny day."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pond",
     "say": "pond",
     "emoji": "🦆",
@@ -657,6 +735,35 @@
             "The children took turns riding the pony.",
             "A pony is smaller than a horse.",
             "The pony trotted around the ring."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "poodle",
+    "say": "POO-dul",
+    "emoji": "🐩",
+    "forms": [
+      "poodles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind of dog with thick, curly hair.",
+          "examples": [
+            "The poodle has curly fur.",
+            "A poodle is smart.",
+            "We have a poodle."
+          ]
+        },
+        "more": {
+          "def": "A kind of smart dog with thick, curly fur.",
+          "examples": [
+            "The poodle has soft, curly fur.",
+            "A poodle is a smart dog that is easy to train.",
+            "The groomer trimmed the poodle's fur into a fancy shape."
           ]
         }
       }
@@ -1017,6 +1124,31 @@
     ]
   },
   {
+    "word": "portable",
+    "say": "POR-tuh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Easy to carry or move.",
+          "examples": [
+            "The radio is portable.",
+            "I have a portable game.",
+            "A portable chair is easy to pack."
+          ]
+        },
+        "more": {
+          "def": "Small and light enough to carry or move easily.",
+          "examples": [
+            "We took a portable radio to the beach.",
+            "A portable chair folds up and fits in a bag.",
+            "The portable heater can be moved from room to room."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "portal",
     "say": "POR-tul",
     "forms": [
@@ -1241,6 +1373,78 @@
             "I am positive that I locked the door.",
             "He was positive about the answer.",
             "She was positive the bus was late."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "positively",
+    "say": "POZ-uh-tiv-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that is very sure.",
+          "examples": [
+            "I am positively sure I locked the door.",
+            "That is positively the best pizza ever.",
+            "She is positively happy about the news."
+          ]
+        },
+        "more": {
+          "def": "Without any doubt at all; used to stress that something is completely true.",
+          "examples": [
+            "The weather was positively freezing on the mountain that morning.",
+            "He was positively certain that he had seen the missing key.",
+            "The puppy was positively delighted to see us come home."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "posse",
+    "say": "POSS-ee",
+    "forms": [
+      "posses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group that helps a sheriff in old stories.",
+          "examples": [
+            "The posse rode out of town.",
+            "The sheriff called a posse.",
+            "A posse chased the horse."
+          ]
+        },
+        "more": {
+          "def": "A group of people called together by a sheriff, in the old West, to help search for someone.",
+          "examples": [
+            "The sheriff gathered a posse of ten riders.",
+            "The posse rode across the desert at dawn.",
+            "In the old film, the posse searched the hills on horseback."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of friends.",
+          "examples": [
+            "My posse and I played ball.",
+            "Her posse sat together.",
+            "He and his posse went to the park."
+          ]
+        },
+        "more": {
+          "def": "A group of friends who spend time together.",
+          "examples": [
+            "She walked into class with her posse of best friends.",
+            "He and his posse of cousins played soccer all afternoon.",
+            "My posse of friends went to the park after school."
           ]
         }
       }
@@ -1730,6 +1934,31 @@
     ]
   },
   {
+    "word": "poverty",
+    "say": "POV-er-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being very poor.",
+          "examples": [
+            "Some families live in poverty.",
+            "Poverty means having little money.",
+            "People help to fight poverty."
+          ]
+        },
+        "more": {
+          "def": "The state of having very little money or not enough to live on.",
+          "examples": [
+            "Many families in the town lived in poverty and needed help.",
+            "Volunteers worked to fight poverty by giving out food and clothing.",
+            "He grew up in poverty but worked hard to build a better life."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "powder",
     "say": "POW-der",
     "forms": [
@@ -1825,6 +2054,31 @@
             "The powerful engine lifted the rocket.",
             "A powerful storm knocked down trees.",
             "The king was a powerful ruler."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "powerless",
+    "say": "POW-er-liss",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not able to do anything.",
+          "examples": [
+            "I felt powerless.",
+            "The storm left us powerless.",
+            "The town was powerless."
+          ]
+        },
+        "more": {
+          "def": "Without strength, control or the ability to act.",
+          "examples": [
+            "I felt powerless when I could not help my friend.",
+            "The little boat was powerless against the big waves.",
+            "They were powerless to stop the rain."
           ]
         }
       }
