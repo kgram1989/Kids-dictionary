@@ -27,5 +27,36 @@
         }
       }
     ]
+  },
+  {
+    "word": "eclipse",
+    "say": "ih-KLIPS",
+    "emoji": "🌑",
+    "forms": [
+      "eclipses",
+      "eclipsed",
+      "eclipsing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When the moon hides the sun for a short time.",
+          "examples": [
+            "We saw an eclipse of the sun.",
+            "The eclipse made the sky dark.",
+            "The eclipse lasted a few minutes."
+          ]
+        },
+        "more": {
+          "def": "An event when the moon, the Earth or the sun blocks the light from another, so that part of the sky goes dark for a while.",
+          "examples": [
+            "During the eclipse of the sun, the sky grew dark in the middle of the day.",
+            "We wore special glasses to watch the eclipse safely.",
+            "The moon turned red and dim during the eclipse."
+          ]
+        }
+      }
+    ]
   }
 ]

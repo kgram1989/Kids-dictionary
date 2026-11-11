@@ -796,6 +796,35 @@
     ]
   },
   {
+    "word": "monument",
+    "say": "MON-yuh-munt",
+    "emoji": "🗽",
+    "forms": [
+      "monuments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big statue or building that helps us remember something.",
+          "examples": [
+            "We visited a monument in the park.",
+            "The monument is made of stone.",
+            "A tall monument stood in the town."
+          ]
+        },
+        "more": {
+          "def": "A statue, building or other structure built to help people remember a person or an important event.",
+          "examples": [
+            "The tall monument in the capital honors a president from long ago.",
+            "We took pictures of the stone monument beside the old battlefield.",
+            "A small monument in the town square reminds people of the town's founders."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mood",
     "say": "mood",
     "forms": [
@@ -1604,6 +1633,36 @@
             "We hiked up the steep mountainside.",
             "Snow covered the mountainside all winter.",
             "Mountain goats climbed along the rocky mountainside."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mourn",
+    "say": "morn",
+    "forms": [
+      "mourns",
+      "mourned",
+      "mourning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To feel very sad because someone has died.",
+          "examples": [
+            "We mourn our old cat.",
+            "The family mourned for a week.",
+            "They mourn their friend."
+          ]
+        },
+        "more": {
+          "def": "To feel deep sadness and show it after a person or pet has died.",
+          "examples": [
+            "The whole town came together to mourn the loss of their kind neighbor.",
+            "We mourned our old dog, but we also shared happy memories of him.",
+            "The family mourned quietly and held each other close."
           ]
         }
       }
