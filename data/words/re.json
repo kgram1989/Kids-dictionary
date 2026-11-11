@@ -1517,6 +1517,55 @@
     ]
   },
   {
+    "word": "referee",
+    "say": "ref-er-EE",
+    "forms": [
+      "referees",
+      "refereed",
+      "refereeing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The person who makes sure the rules are followed in a game.",
+          "examples": [
+            "The referee blew the whistle.",
+            "The referee is fair.",
+            "A referee watched."
+          ]
+        },
+        "more": {
+          "def": "A person who makes sure the players follow the rules in a game.",
+          "examples": [
+            "The referee blew the whistle to stop the game.",
+            "The referee gave the ball to our team.",
+            "A referee watches the players and settles any arguments."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be the person who makes sure the rules are followed.",
+          "examples": [
+            "Dad referees the game.",
+            "She refereed the match.",
+            "He referees on Saturday."
+          ]
+        },
+        "more": {
+          "def": "To make sure the players follow the rules in a game.",
+          "examples": [
+            "Dad referees our soccer games on Saturday.",
+            "She refereed the match with a loud whistle.",
+            "My uncle refereed the basketball game at the school gym."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "reference",
     "say": "REF-er-unss",
     "forms": [
@@ -1558,6 +1607,55 @@
             "An atlas is a handy reference for finding countries.",
             "She used an encyclopedia as a reference.",
             "The librarian showed us the reference section."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "refill",
+    "say": "REE-fil",
+    "forms": [
+      "refills",
+      "refilled",
+      "refilling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To fill something again.",
+          "examples": [
+            "I refill my water bottle.",
+            "Dad refilled the cup.",
+            "She refilled the tank."
+          ]
+        },
+        "more": {
+          "def": "To fill something up again after it has been used.",
+          "examples": [
+            "I refill my water bottle at the fountain.",
+            "Dad refilled my cup with juice.",
+            "She refilled the feeder with seeds for the birds."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A new supply of something to fill up what was used.",
+          "examples": [
+            "I need a refill.",
+            "The pen needs a refill.",
+            "Can I have a refill?"
+          ]
+        },
+        "more": {
+          "def": "A new supply or another serving of something to fill up what was used.",
+          "examples": [
+            "The pen needs a refill of ink.",
+            "Can I have a refill of my drink?",
+            "We bought a refill of soap for the dispenser."
           ]
         }
       }
@@ -1706,6 +1804,31 @@
     ]
   },
   {
+    "word": "refreshing",
+    "say": "rih-FRESH-ing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making you feel cool, fresh and awake.",
+          "examples": [
+            "A cold drink is refreshing.",
+            "The breeze was refreshing.",
+            "A refreshing swim."
+          ]
+        },
+        "more": {
+          "def": "Making you feel cooler, fresher or full of energy again.",
+          "examples": [
+            "A cold glass of water is refreshing on a hot day.",
+            "The breeze was refreshing after the long walk.",
+            "We took a refreshing dip in the cool lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "refrigerator",
     "say": "rih-FRIJ-er-ay-ter",
     "emoji": "🧊",
@@ -1729,6 +1852,34 @@
             "Put the milk in the refrigerator.",
             "The refrigerator hummed in the kitchen.",
             "We keep the leftovers in the refrigerator."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "refuge",
+    "say": "REF-yooj",
+    "forms": [
+      "refuges"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A safe place that protects you from danger.",
+          "examples": [
+            "The barn was a refuge from rain.",
+            "The animals found refuge.",
+            "A refuge for birds."
+          ]
+        },
+        "more": {
+          "def": "A place that gives shelter and safety from danger or trouble.",
+          "examples": [
+            "The cave was a refuge from the storm.",
+            "The animals found refuge in the forest.",
+            "The wildlife refuge is a safe place for birds."
           ]
         }
       }
@@ -2140,6 +2291,55 @@
     ]
   },
   {
+    "word": "reign",
+    "say": "rayn",
+    "forms": [
+      "reigns",
+      "reigned",
+      "reigning"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The time when a king or queen rules.",
+          "examples": [
+            "The king's reign was long.",
+            "The queen's reign was peaceful.",
+            "His reign lasted ten years."
+          ]
+        },
+        "more": {
+          "def": "The period of time when a king or queen rules.",
+          "examples": [
+            "The queen's reign lasted for fifty years.",
+            "The king's long reign was a peaceful time.",
+            "Many castles were built during his reign."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rule as a king or queen.",
+          "examples": [
+            "The prince will reign one day.",
+            "The king reigns over the land.",
+            "She reigned wisely."
+          ]
+        },
+        "more": {
+          "def": "To rule a country as a king or queen.",
+          "examples": [
+            "The queen reigned for many years.",
+            "In the story, a wise king reigned over the land.",
+            "The team reigned as champions for three seasons."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "reinforcement",
     "say": "ree-in-FORSS-munt",
     "forms": [
@@ -2400,6 +2600,31 @@
             "I felt relaxed after a warm bath.",
             "The cat looked relaxed on the couch.",
             "She had a relaxed smile."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "relaxing",
+    "say": "rih-LAK-sing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making you feel calm and rested.",
+          "examples": [
+            "A bath is relaxing.",
+            "The music was relaxing.",
+            "We took a relaxing walk."
+          ]
+        },
+        "more": {
+          "def": "Helping you feel calm, rested and free from worry.",
+          "examples": [
+            "A warm bath is relaxing.",
+            "The soft music was relaxing.",
+            "We took a relaxing walk on the beach."
           ]
         }
       }
@@ -3773,6 +3998,64 @@
     ]
   },
   {
+    "word": "resemblance",
+    "say": "rih-ZEM-blunss",
+    "forms": [
+      "resemblances"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Looking like someone or something.",
+          "examples": [
+            "There is a resemblance between the twins.",
+            "The cloud has a resemblance to a rabbit.",
+            "I see the resemblance."
+          ]
+        },
+        "more": {
+          "def": "A likeness between people or things.",
+          "examples": [
+            "There is a strong resemblance between the twins.",
+            "The cloud had a resemblance to a rabbit.",
+            "I can see the resemblance between you and your dad."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "resemble",
+    "say": "rih-ZEM-bul",
+    "forms": [
+      "resembles",
+      "resembled",
+      "resembling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look like or be like something.",
+          "examples": [
+            "The cloud resembles a rabbit.",
+            "I resemble my dad.",
+            "The twins resemble each other."
+          ]
+        },
+        "more": {
+          "def": "To look like or be similar to someone or something.",
+          "examples": [
+            "The cloud resembles a rabbit with long ears.",
+            "I resemble my dad because we have the same nose.",
+            "The twins resemble each other so much that people mix them up."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "reservation",
     "say": "rez-er-VAY-shun",
     "forms": [
@@ -3844,6 +4127,35 @@
             "We keep a reserve of food in the pantry.",
             "The camp has a reserve of water in case of trouble.",
             "The team had a strong player in reserve."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "reset",
+    "say": "ree-SET",
+    "forms": [
+      "resets",
+      "resetting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To set something again.",
+          "examples": [
+            "I reset the clock.",
+            "She reset the game.",
+            "Dad reset the alarm."
+          ]
+        },
+        "more": {
+          "def": "To set something again, or to put it back to how it was at first.",
+          "examples": [
+            "I reset the clock after the power went out.",
+            "She reset the game to start over.",
+            "Dad reset the alarm for six in the morning."
           ]
         }
       }
@@ -4754,6 +5066,34 @@
             "The magician revealed the card hidden up his sleeve.",
             "She revealed the answer to the riddle.",
             "The low tide revealed shells on the sand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "revelation",
+    "say": "rev-uh-LAY-shun",
+    "forms": [
+      "revelations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A surprising fact that you did not know before.",
+          "examples": [
+            "It was a revelation to me.",
+            "The news was a revelation.",
+            "The revelation was surprising."
+          ]
+        },
+        "more": {
+          "def": "A surprising fact that is made known, or something that opens your eyes.",
+          "examples": [
+            "It was a revelation to learn that my teacher plays the drums.",
+            "The secret was a revelation to the whole class.",
+            "Seeing the stars through a telescope was a revelation."
           ]
         }
       }

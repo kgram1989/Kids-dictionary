@@ -130,6 +130,62 @@
     ]
   },
   {
+    "word": "twinkle",
+    "say": "TWING-kul",
+    "forms": [
+      "twinkles",
+      "twinkled",
+      "twinkling",
+      "twinkly"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shine with little flashes of light.",
+          "examples": [
+            "The stars twinkle.",
+            "Her eyes twinkled.",
+            "The lights twinkled."
+          ]
+        },
+        "more": {
+          "def": "To shine with small, quick flashes of light.",
+          "examples": [
+            "The stars twinkle in the night sky.",
+            "Her eyes twinkled when she smiled.",
+            "The lights on the tree twinkled in the dark room."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, quick flash of light.",
+          "examples": [
+            "I saw a twinkle in the sky.",
+            "He had a twinkle in his eye.",
+            "The twinkle was bright."
+          ]
+        },
+        "more": {
+          "def": "A tiny, sparkling light that comes and goes.",
+          "examples": [
+            "I saw a twinkle in the sky and made a wish.",
+            "He had a twinkle in his eye when he told the joke.",
+            "The twinkle of the lights made the room feel happy."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "twinkly",
+        "def": "Shining with little flashes of light."
+      }
+    ]
+  },
+  {
     "word": "twist",
     "say": "twist",
     "forms": [
@@ -181,6 +237,55 @@
       {
         "word": "twisty",
         "def": "Full of twists and turns."
+      }
+    ]
+  },
+  {
+    "word": "twitch",
+    "say": "twich",
+    "forms": [
+      "twitches",
+      "twitched",
+      "twitching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a quick little movement that you do not plan.",
+          "examples": [
+            "My eye twitches.",
+            "The rabbit's nose twitched.",
+            "The cat's tail twitches."
+          ]
+        },
+        "more": {
+          "def": "To move or jerk suddenly with a quick, small movement.",
+          "examples": [
+            "My eye twitches when I am tired.",
+            "The rabbit's nose twitched as it smelled the carrot.",
+            "The sleeping dog's legs twitched as it dreamed."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A quick little movement of a muscle.",
+          "examples": [
+            "I felt a twitch in my eye.",
+            "The twitch was small.",
+            "There was a twitch in his nose."
+          ]
+        },
+        "more": {
+          "def": "A sudden, quick movement of a muscle.",
+          "examples": [
+            "I felt a twitch in my eyelid.",
+            "A twitch of the cat's ear showed that it heard something.",
+            "He gave a little twitch and then smiled."
+          ]
+        }
       }
     ]
   },

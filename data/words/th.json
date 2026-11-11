@@ -739,6 +739,34 @@
     ]
   },
   {
+    "word": "thingy",
+    "say": "THING-ee",
+    "forms": [
+      "thingies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word for something when you do not know its name.",
+          "examples": [
+            "Hand me that thingy.",
+            "What is that thingy?",
+            "I lost the thingy."
+          ]
+        },
+        "more": {
+          "def": "An informal word for something whose name you cannot remember or do not know.",
+          "examples": [
+            "Hand me that thingy on the table.",
+            "What is that little thingy for?",
+            "I lost the thingy that goes on top of the jar."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "think",
     "say": "think",
     "forms": [
@@ -788,6 +816,35 @@
             "My brother came in third place in the race.",
             "We live on the third floor.",
             "It was the third time we visited the zoo."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thirst",
+    "say": "therst",
+    "forms": [
+      "thirsts",
+      "thirsty"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The feeling that you need to drink.",
+          "examples": [
+            "I felt thirst after the race.",
+            "The water stopped her thirst.",
+            "He drank to stop his thirst."
+          ]
+        },
+        "more": {
+          "def": "The need or wish to drink something.",
+          "examples": [
+            "I felt great thirst after the long run.",
+            "A cold drink stopped her thirst on the hot day.",
+            "The hikers were suffering from thirst after hours in the sun."
           ]
         }
       }
@@ -1523,6 +1580,55 @@
             "I hit my thumb with the hammer.",
             "He gave a thumbs up.",
             "Your thumb helps you hold a pencil."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thump",
+    "say": "thump",
+    "forms": [
+      "thumps",
+      "thumped",
+      "thumping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dull sound, like something heavy falling.",
+          "examples": [
+            "I heard a thump.",
+            "The book fell with a thump.",
+            "A thump came from upstairs."
+          ]
+        },
+        "more": {
+          "def": "A dull, heavy sound made when something falls or hits a surface.",
+          "examples": [
+            "I heard a thump from the attic.",
+            "The book fell to the floor with a thump.",
+            "A loud thump woke me up in the night."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit something with a dull sound.",
+          "examples": [
+            "The rabbit thumps its foot.",
+            "I thumped the table.",
+            "My heart thumped."
+          ]
+        },
+        "more": {
+          "def": "To hit or fall with a dull, heavy sound.",
+          "examples": [
+            "The rabbit thumped its foot on the ground.",
+            "I thumped on the door to be let in.",
+            "My heart thumped when I heard the noise."
           ]
         }
       }

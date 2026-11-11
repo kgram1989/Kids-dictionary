@@ -124,6 +124,55 @@
     ]
   },
   {
+    "word": "smear",
+    "say": "smeer",
+    "forms": [
+      "smears",
+      "smeared",
+      "smearing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To spread something sticky or messy over a surface.",
+          "examples": [
+            "I smeared butter on my bread.",
+            "He smeared the paint.",
+            "The baby smeared food on her face."
+          ]
+        },
+        "more": {
+          "def": "To spread something thick or sticky across a surface, often in a messy way.",
+          "examples": [
+            "I smeared jam on my toast.",
+            "He smeared paint across the page by accident.",
+            "The baby smeared food all over her face."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A messy mark left by something sticky.",
+          "examples": [
+            "There is a smear on the window.",
+            "A smear of mud was on my shoe.",
+            "I saw a smear of jam."
+          ]
+        },
+        "more": {
+          "def": "A dirty or messy mark left on a surface.",
+          "examples": [
+            "There is a smear of jam on the window.",
+            "A smear of mud ran down my shoe.",
+            "A smear of paint stained the shirt."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "smell",
     "say": "smel",
     "emoji": "👃",
@@ -354,6 +403,36 @@
       {
         "word": "smoothness",
         "def": "Being smooth."
+      }
+    ]
+  },
+  {
+    "word": "smuggle",
+    "say": "SMUG-ul",
+    "forms": [
+      "smuggles",
+      "smuggled",
+      "smuggling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take something secretly where it is not allowed.",
+          "examples": [
+            "The kids tried to smuggle a snack in.",
+            "She smuggled the cat in.",
+            "He smuggled cookies out."
+          ]
+        },
+        "more": {
+          "def": "To take something secretly into or out of a place where it is not allowed.",
+          "examples": [
+            "The kids tried to smuggle a snack into the movie.",
+            "She smuggled the kitten into her room.",
+            "He smuggled a cookie out of the kitchen in his pocket."
+          ]
+        }
       }
     ]
   }

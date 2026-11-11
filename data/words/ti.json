@@ -378,6 +378,55 @@
     ]
   },
   {
+    "word": "tile",
+    "say": "tyl",
+    "forms": [
+      "tiles",
+      "tiled",
+      "tiling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin, flat square piece used to cover floors and walls.",
+          "examples": [
+            "The kitchen floor has tile.",
+            "The tile is cold.",
+            "A tile broke."
+          ]
+        },
+        "more": {
+          "def": "A thin, flat piece of clay, plastic or stone used to cover floors, walls and roofs.",
+          "examples": [
+            "The kitchen floor is made of blue tile.",
+            "A cracked tile needed to be fixed.",
+            "The roof was covered with red clay tiles."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small piece used in a game.",
+          "examples": [
+            "I moved the tile.",
+            "Each tile has a letter.",
+            "Pick a tile."
+          ]
+        },
+        "more": {
+          "def": "A flat piece used in a board game, such as one marked with a letter or number.",
+          "examples": [
+            "I picked a letter tile from the bag.",
+            "Each tile in the game has a number on it.",
+            "She placed the last tile on the board."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "till",
     "say": "til",
     "senses": [
@@ -416,6 +465,55 @@
             "Stir the batter till it is smooth.",
             "We kept playing till it got dark.",
             "Please wait till the light turns green."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tilt",
+    "say": "tilt",
+    "forms": [
+      "tilts",
+      "tilted",
+      "tilting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To lean to one side.",
+          "examples": [
+            "I tilt my head.",
+            "She tilted the cup.",
+            "The boat tilted."
+          ]
+        },
+        "more": {
+          "def": "To lean or slant to one side, or to make something do so.",
+          "examples": [
+            "I tilted my head to look at the picture upside down.",
+            "She tilted the cup so she could drink the last drop.",
+            "The boat tilted when everyone moved to one side."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A lean to one side.",
+          "examples": [
+            "The table has a tilt.",
+            "She gave her head a tilt.",
+            "The tilt of the boat."
+          ]
+        },
+        "more": {
+          "def": "A leaning or slanting position.",
+          "examples": [
+            "The table has a tilt, so my ball rolls off.",
+            "With a tilt of his head, he looked puzzled.",
+            "The tilt of the boat made us hold on tight."
           ]
         }
       }

@@ -1,5 +1,54 @@
 [
   {
+    "word": "swab",
+    "say": "swob",
+    "forms": [
+      "swabs",
+      "swabbed",
+      "swabbing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small stick with cotton on the end.",
+          "examples": [
+            "The nurse used a swab.",
+            "A cotton swab is soft.",
+            "He used a swab."
+          ]
+        },
+        "more": {
+          "def": "A small piece of cotton or cloth on a stick, used for cleaning or putting on medicine.",
+          "examples": [
+            "The nurse cleaned the cut with a cotton swab.",
+            "The doctor took a swab from my throat.",
+            "He used a swab to put medicine on the sore spot."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To clean with a mop or cloth.",
+          "examples": [
+            "The sailor swabs the deck.",
+            "She swabbed the floor.",
+            "He swabbed the cut."
+          ]
+        },
+        "more": {
+          "def": "To clean or wipe something with a mop or cloth.",
+          "examples": [
+            "The sailors swabbed the deck of the ship.",
+            "She swabbed the floor with a wet mop.",
+            "The nurse swabbed the cut with a clean cloth."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "swallow",
     "say": "SWOL-oh",
     "forms": [
@@ -733,6 +782,55 @@
             "The monkey swung from branch to branch.",
             "The door swung open in the wind.",
             "She swung the bat and hit the ball."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "swipe",
+    "say": "swyp",
+    "forms": [
+      "swipes",
+      "swiped",
+      "swiping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move something across a surface in one quick motion.",
+          "examples": [
+            "I swipe the screen.",
+            "She swiped her card.",
+            "He swiped his finger."
+          ]
+        },
+        "more": {
+          "def": "To move a finger or card quickly across something.",
+          "examples": [
+            "I swipe the screen to see the next picture.",
+            "She swiped her card at the door.",
+            "He swiped his finger across the tablet."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit at something with a fast swing.",
+          "examples": [
+            "The cat swiped at the string.",
+            "He swiped at the fly.",
+            "The bear swiped at the bees."
+          ]
+        },
+        "more": {
+          "def": "To hit or reach at something with a fast sweeping movement.",
+          "examples": [
+            "The cat swiped at the dangling string.",
+            "He swiped at the fly with his hand.",
+            "The bear swiped at the buzzing bees."
           ]
         }
       }

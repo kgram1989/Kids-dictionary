@@ -697,6 +697,55 @@
     ]
   },
   {
+    "word": "ping",
+    "say": "ping",
+    "forms": [
+      "pings",
+      "pinged",
+      "pinging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short, high sound like a small bell or a message alert.",
+          "examples": [
+            "I heard a ping.",
+            "My phone made a ping.",
+            "The ping was loud."
+          ]
+        },
+        "more": {
+          "def": "A short, high, ringing sound, such as the sound of a small bell or a message arriving.",
+          "examples": [
+            "I heard a ping when a message came in.",
+            "A ping told us the oven was ready.",
+            "The ping of the bell echoed in the room."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a short, high ringing sound.",
+          "examples": [
+            "My phone pings.",
+            "The oven pinged.",
+            "The bell pinged."
+          ]
+        },
+        "more": {
+          "def": "To make a short, high ringing sound, or to send a quick message to someone.",
+          "examples": [
+            "My phone pings when I get a message.",
+            "The oven pinged when the cake was ready.",
+            "A bell pinged softly in the hallway."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pink",
     "say": "pink",
     "emoji": "🩷",
@@ -941,6 +990,81 @@
             "A violin plays a high pitch, and a tuba a low one.",
             "The pitch of her voice rose when she got excited.",
             "The tuner checks the pitch of each piano string."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pitcher",
+    "say": "PICH-er",
+    "forms": [
+      "pitchers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The baseball player who throws the ball to the batter.",
+          "examples": [
+            "The pitcher threw the ball.",
+            "He is the pitcher.",
+            "The pitcher is fast."
+          ]
+        },
+        "more": {
+          "def": "The baseball player who throws the ball for the batter to hit.",
+          "examples": [
+            "The pitcher threw a fast ball over the plate.",
+            "He is the best pitcher on our team.",
+            "The pitcher wound up and threw a curve."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tall container for pouring liquids.",
+          "examples": [
+            "The pitcher is full of juice.",
+            "Pour from the pitcher.",
+            "Mom filled the pitcher."
+          ]
+        },
+        "more": {
+          "def": "A container with a handle and a lip for pouring drinks.",
+          "examples": [
+            "The pitcher is full of cold lemonade.",
+            "Mom filled the pitcher with water.",
+            "She poured juice from the pitcher into everyone's cup."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "pitiful",
+    "say": "PIT-ih-ful",
+    "forms": [
+      "pitifully"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "So sad that you feel sorry for it.",
+          "examples": [
+            "The kitten gave a pitiful cry.",
+            "The pitiful puppy was wet.",
+            "It looked pitiful."
+          ]
+        },
+        "more": {
+          "def": "Very sad, in a way that makes you feel sorry.",
+          "examples": [
+            "The kitten gave a pitiful cry from the rainy yard.",
+            "The pitiful puppy shivered in the cold.",
+            "The garden looked pitiful after the long dry spell."
           ]
         }
       }

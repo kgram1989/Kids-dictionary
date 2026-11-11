@@ -403,6 +403,55 @@
     ]
   },
   {
+    "word": "peer",
+    "say": "peer",
+    "forms": [
+      "peers",
+      "peered",
+      "peering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is your age or in your group.",
+          "examples": [
+            "She plays with her peers.",
+            "Kids learn from their peers.",
+            "My peers are my classmates."
+          ]
+        },
+        "more": {
+          "def": "A person who is the same age or in the same group as you.",
+          "examples": [
+            "She plays with her peers on the playground.",
+            "Kids often learn from their peers.",
+            "Her peers voted her class president."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look closely at something.",
+          "examples": [
+            "I peer through the window.",
+            "She peered at the map.",
+            "He peered into the hole."
+          ]
+        },
+        "more": {
+          "def": "To look hard at something, often because it is hard to see.",
+          "examples": [
+            "I peered through the window to see who was there.",
+            "She peered at the tiny writing on the map.",
+            "He peered into the dark cave."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pen",
     "say": "pen",
     "emoji": "🖊️",
@@ -903,6 +952,34 @@
     ]
   },
   {
+    "word": "performer",
+    "say": "per-FOR-mer",
+    "forms": [
+      "performers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who sings, dances or acts for an audience.",
+          "examples": [
+            "The performer sang a song.",
+            "A performer juggled.",
+            "The performers took a bow."
+          ]
+        },
+        "more": {
+          "def": "A person who sings, dances, acts or does tricks in front of an audience.",
+          "examples": [
+            "The performer sang a song for the crowd.",
+            "A circus performer juggled five balls.",
+            "The performers took a bow when the show was over."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "perfume",
     "say": "PER-fyoom",
     "forms": [
@@ -1027,6 +1104,42 @@
             "There was a quiet period after the storm."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "perish",
+    "say": "PAIR-ish",
+    "forms": [
+      "perishes",
+      "perished",
+      "perishing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To die or be destroyed.",
+          "examples": [
+            "The grass will perish without rain.",
+            "The flowers perished in the frost.",
+            "The ice will perish."
+          ]
+        },
+        "more": {
+          "def": "To die or be destroyed, often because of cold, lack of water or other harsh things.",
+          "examples": [
+            "Plants perish without water.",
+            "The flowers perished in the first frost of winter.",
+            "Many animals perished when the river dried up."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "perishable",
+        "def": "Likely to go bad soon."
       }
     ]
   },
@@ -1370,6 +1483,36 @@
             "The children petted the soft lambs at the farm.",
             "He petted the horse's nose.",
             "Cats purr when you pet them."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "petition",
+    "say": "puh-TISH-un",
+    "forms": [
+      "petitions",
+      "petitioned",
+      "petitioning"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A paper that many people sign to ask for a change.",
+          "examples": [
+            "We signed a petition.",
+            "The petition asks for a new park.",
+            "The class made a petition."
+          ]
+        },
+        "more": {
+          "def": "A written request signed by many people that asks someone in charge to do something.",
+          "examples": [
+            "We signed a petition asking for a new playground.",
+            "The class made a petition to keep the library open.",
+            "Hundreds of people put their names on the petition."
           ]
         }
       }

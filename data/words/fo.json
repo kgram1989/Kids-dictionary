@@ -1,5 +1,42 @@
 [
   {
+    "word": "foam",
+    "say": "fohm",
+    "forms": [
+      "foams",
+      "foamed",
+      "foaming",
+      "foamy"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mass of tiny bubbles.",
+          "examples": [
+            "The soap makes foam.",
+            "Foam is on the waves.",
+            "The foam is white."
+          ]
+        },
+        "more": {
+          "def": "A mass of tiny bubbles on top of a liquid, or a light material full of tiny air holes.",
+          "examples": [
+            "The soap made lots of foam in the sink.",
+            "White foam covered the top of the waves.",
+            "I sat on a foam cushion."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "foamy",
+        "def": "Full of foam."
+      }
+    ]
+  },
+  {
     "word": "focus",
     "say": "FOH-kus",
     "forms": [
@@ -817,6 +854,36 @@
     ]
   },
   {
+    "word": "forfeit",
+    "say": "FOR-fit",
+    "forms": [
+      "forfeits",
+      "forfeited",
+      "forfeiting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To lose something because you broke a rule or gave up.",
+          "examples": [
+            "The team forfeited the game.",
+            "He forfeited his turn.",
+            "They forfeit the match."
+          ]
+        },
+        "more": {
+          "def": "To give up or lose something, such as a game, because of a rule or a mistake.",
+          "examples": [
+            "The team forfeited the game because it did not have enough players.",
+            "He forfeited his turn by talking out of order.",
+            "They forfeited the match when they could not play."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "forget",
     "say": "fer-GET",
     "forms": [
@@ -1179,6 +1246,34 @@
             "The pendulum swung back and forth.",
             "The knights rode forth into the forest.",
             "She stepped forth to receive her prize."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fortress",
+    "say": "FOR-triss",
+    "forms": [
+      "fortresses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong building or place that is built to keep people safe from attack.",
+          "examples": [
+            "The fortress had thick walls.",
+            "We visited a fortress.",
+            "The fortress is made of stone."
+          ]
+        },
+        "more": {
+          "def": "A strong place with thick walls that is built to protect people from attack.",
+          "examples": [
+            "The fortress had thick stone walls and tall towers.",
+            "We visited an old fortress on a hill.",
+            "Soldiers once guarded the fortress day and night."
           ]
         }
       }

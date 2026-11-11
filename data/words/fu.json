@@ -1,5 +1,37 @@
 [
   {
+    "word": "fudge",
+    "say": "fuj",
+    "emoji": "🍫",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft, sweet candy made of sugar, butter and milk.",
+          "examples": [
+            "I ate fudge.",
+            "The fudge is chocolate.",
+            "Mom made fudge."
+          ]
+        },
+        "more": {
+          "def": "A soft, sweet candy made from sugar, butter and milk, often flavored with chocolate.",
+          "examples": [
+            "I ate a piece of chocolate fudge.",
+            "Mom made fudge for the holiday party.",
+            "The ice cream had a swirl of fudge in it."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "fudgy",
+        "def": "Like fudge; soft, sweet and rich."
+      }
+    ]
+  },
+  {
     "word": "fuel",
     "say": "FYOO-ul",
     "emoji": "⛽",
@@ -277,6 +309,35 @@
             "We started a fund to buy books for the library.",
             "The class raised a fund for the animal shelter.",
             "The fund will pay for the new playground."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fundamental",
+    "say": "fun-duh-MEN-tul",
+    "forms": [
+      "fundamentals",
+      "fundamentally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Most basic and important.",
+          "examples": [
+            "Reading is a fundamental skill.",
+            "Kindness is a fundamental rule.",
+            "A fundamental part."
+          ]
+        },
+        "more": {
+          "def": "Forming the basic part of something; very important.",
+          "examples": [
+            "Reading is a fundamental skill for school.",
+            "Kindness is a fundamental part of being a good friend.",
+            "The fundamental idea of the game is easy to learn."
           ]
         }
       }

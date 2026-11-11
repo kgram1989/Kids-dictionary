@@ -103,6 +103,55 @@
     ]
   },
   {
+    "word": "span",
+    "say": "span",
+    "forms": [
+      "spans",
+      "spanned",
+      "spanning"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A length of time.",
+          "examples": [
+            "He had a short attention span.",
+            "The span of a life.",
+            "A span of ten years."
+          ]
+        },
+        "more": {
+          "def": "The length of time that something lasts, or the distance from one side to the other.",
+          "examples": [
+            "A butterfly has a short life span.",
+            "The bridge has a span of one mile.",
+            "Over a span of ten years, the town grew a lot."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To reach across a space or time.",
+          "examples": [
+            "The bridge spans the river.",
+            "His career spanned years.",
+            "A rainbow spans the sky."
+          ]
+        },
+        "more": {
+          "def": "To stretch across a space or period of time.",
+          "examples": [
+            "A long bridge spans the river.",
+            "Her career as a nurse spanned forty years.",
+            "A rainbow spanned the whole sky after the storm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "spare",
     "say": "spair",
     "forms": [
@@ -489,6 +538,31 @@
             "The scientist examined a specimen of the plant.",
             "The museum has a rock specimen.",
             "The butterfly specimen was pinned to a card."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "speckled",
+    "say": "SPEK-uld",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Covered with tiny spots.",
+          "examples": [
+            "The egg is speckled.",
+            "A speckled hen.",
+            "The speckled rock."
+          ]
+        },
+        "more": {
+          "def": "Marked all over with small spots or dots.",
+          "examples": [
+            "The speckled egg lay in the grass.",
+            "A speckled hen walked through the farmyard.",
+            "The cat's speckled fur was gray and white."
           ]
         }
       }
@@ -1733,6 +1807,55 @@
     ]
   },
   {
+    "word": "spur",
+    "say": "sper",
+    "forms": [
+      "spurs",
+      "spurred",
+      "spurring"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A metal point worn on a rider's boot.",
+          "examples": [
+            "The rider wore a spur.",
+            "The spur is on the boot.",
+            "The cowboy's spurs jingled."
+          ]
+        },
+        "more": {
+          "def": "A small pointed tool worn on the heel of a rider's boot to make a horse go faster.",
+          "examples": [
+            "The cowboy's spurs jingled as he walked.",
+            "The rider wore a spur on each boot.",
+            "He tapped the horse's side with his spur."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone or something go faster or try harder.",
+          "examples": [
+            "The prize spurred us on.",
+            "Praise spurs me.",
+            "The coach spurred the team."
+          ]
+        },
+        "more": {
+          "def": "To encourage someone to do something or to go faster.",
+          "examples": [
+            "The prize spurred us on to finish the race.",
+            "Praise spurs me to work harder.",
+            "The coach's words spurred the team to play harder."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "spy",
     "say": "spy",
     "emoji": "🕵️",
@@ -1775,6 +1898,34 @@
             "I spy a bird in the tree.",
             "She spied a frog by the pond.",
             "He spied his friend in the crowd."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spyglass",
+    "say": "SPY-glass",
+    "forms": [
+      "spyglasses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small telescope that you use to see things far away.",
+          "examples": [
+            "The pirate looked through a spyglass.",
+            "The spyglass is brass.",
+            "I used a spyglass."
+          ]
+        },
+        "more": {
+          "def": "A small telescope that is used to look at things far away.",
+          "examples": [
+            "The captain looked through a spyglass to see the ship.",
+            "A brass spyglass sat on the old desk.",
+            "I used a spyglass to watch the birds across the field."
           ]
         }
       }

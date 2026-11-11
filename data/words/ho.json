@@ -843,6 +843,55 @@
     ]
   },
   {
+    "word": "hoot",
+    "say": "hoot",
+    "forms": [
+      "hoots",
+      "hooted",
+      "hooting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sound that an owl makes.",
+          "examples": [
+            "I heard a hoot.",
+            "The owl gave a hoot.",
+            "A hoot came from the tree."
+          ]
+        },
+        "more": {
+          "def": "The sound an owl makes, or a loud laugh.",
+          "examples": [
+            "We heard the hoot of an owl at night.",
+            "A hoot of laughter came from the next room.",
+            "The owl gave a long hoot from the tree."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make an owl's sound.",
+          "examples": [
+            "The owl hoots.",
+            "We heard the owl hoot.",
+            "The owl hooted at night."
+          ]
+        },
+        "more": {
+          "def": "To make the call of an owl, or to laugh or shout loudly.",
+          "examples": [
+            "The owl hooted from a branch in the dark forest.",
+            "The crowd hooted with laughter at the funny skit.",
+            "We hooted and cheered when our team scored."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hop",
     "say": "hop",
     "emoji": "🐸",
@@ -1428,6 +1477,34 @@
     ]
   },
   {
+    "word": "hotshot",
+    "say": "HOT-shot",
+    "forms": [
+      "hotshots"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who thinks they are very good at something.",
+          "examples": [
+            "He thinks he is a hotshot.",
+            "The hotshot ran fast.",
+            "A new hotshot joined our team."
+          ]
+        },
+        "more": {
+          "def": "A person who is very skilled or confident, and often likes to show it.",
+          "examples": [
+            "The new player is a hotshot on the basketball court.",
+            "He acted like a hotshot, but he missed the shot.",
+            "A hotshot at chess beat everyone in the club."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hound",
     "say": "hownd",
     "forms": [
@@ -1612,6 +1689,36 @@
     ]
   },
   {
+    "word": "hover",
+    "say": "HUV-er",
+    "forms": [
+      "hovers",
+      "hovered",
+      "hovering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stay in one place in the air.",
+          "examples": [
+            "A bee hovers by the flower.",
+            "The helicopter hovered.",
+            "The hummingbird hovers."
+          ]
+        },
+        "more": {
+          "def": "To stay in the air in one place without moving forward.",
+          "examples": [
+            "A bee hovered over the flower.",
+            "The helicopter hovered above the field.",
+            "The hummingbird hovered near the feeder."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "how",
     "say": "how",
     "senses": [
@@ -1656,6 +1763,55 @@
             "It was raining. However, we still went to the park.",
             "I wanted to go. However, I was too tired.",
             "The test was hard. However, most kids passed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "howl",
+    "say": "howl",
+    "forms": [
+      "howls",
+      "howled",
+      "howling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a long, loud, sad cry, like a wolf.",
+          "examples": [
+            "The dog howled all night.",
+            "The wind howls.",
+            "The dog howled."
+          ]
+        },
+        "more": {
+          "def": "To make a long, loud cry, like a wolf or the wind.",
+          "examples": [
+            "The wolf howled at the moon.",
+            "The wind howled around the corner of the house.",
+            "The dog howled when the siren went by."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, loud, sad cry.",
+          "examples": [
+            "I heard a howl.",
+            "The wolf gave a howl.",
+            "A howl came from the woods."
+          ]
+        },
+        "more": {
+          "def": "A long, loud cry made by a wolf, a dog or the wind.",
+          "examples": [
+            "I heard a howl from the woods.",
+            "The wolf let out a long howl.",
+            "A howl of wind rattled the window."
           ]
         }
       }

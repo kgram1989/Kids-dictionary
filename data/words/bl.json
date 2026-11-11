@@ -384,6 +384,55 @@
     ]
   },
   {
+    "word": "bleep",
+    "say": "bleep",
+    "forms": [
+      "bleeps",
+      "bleeped",
+      "bleeping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short, high sound that a machine makes.",
+          "examples": [
+            "The machine made a bleep.",
+            "I heard a bleep.",
+            "The bleep woke me up."
+          ]
+        },
+        "more": {
+          "def": "A short, high sound made by a machine.",
+          "examples": [
+            "The machine made a bleep when it turned on.",
+            "A bleep from the alarm told us it was time.",
+            "I heard a bleep when I pressed the button."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a short, high sound.",
+          "examples": [
+            "The machine bleeps.",
+            "The phone bleeped.",
+            "The alarm bleeped."
+          ]
+        },
+        "more": {
+          "def": "To give out a short, high electronic sound.",
+          "examples": [
+            "The machine bleeps when it is ready.",
+            "My phone bleeped when a message came in.",
+            "The monitor bleeped every few seconds."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "blend",
     "say": "blend",
     "forms": [
@@ -945,6 +994,63 @@
             "A carpet of bluebells covered the forest floor in spring.",
             "The bluebell nodded in the soft breeze.",
             "We found a patch of bluebells near the stream."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blueberry",
+    "say": "BLOO-bair-ee",
+    "emoji": "🫐",
+    "forms": [
+      "blueberries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, round, blue fruit.",
+          "examples": [
+            "I ate a blueberry.",
+            "The blueberry is sweet.",
+            "Blueberries are in the muffin."
+          ]
+        },
+        "more": {
+          "def": "A small, round, sweet berry that is dark blue and grows on bushes.",
+          "examples": [
+            "I ate a blueberry muffin for breakfast.",
+            "We picked blueberries from the bush behind the barn.",
+            "Blueberries are full of vitamins and taste good in pancakes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blueprint",
+    "say": "BLOO-print",
+    "forms": [
+      "blueprints"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A plan that shows how to build something.",
+          "examples": [
+            "The builder looked at the blueprint.",
+            "The blueprint shows the rooms.",
+            "We drew a blueprint."
+          ]
+        },
+        "more": {
+          "def": "A detailed plan or drawing that shows how something will be built.",
+          "examples": [
+            "The builder studied the blueprint for the new house.",
+            "The blueprint shows where each room and window will go.",
+            "We drew a blueprint of our clubhouse before we started building."
           ]
         }
       }

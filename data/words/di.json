@@ -303,6 +303,35 @@
     ]
   },
   {
+    "word": "dictionary",
+    "say": "DIK-shuh-nair-ee",
+    "emoji": "📖",
+    "forms": [
+      "dictionaries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A book or website that tells what words mean.",
+          "examples": [
+            "I looked it up in the dictionary.",
+            "The dictionary has many words.",
+            "Use a dictionary to find a word."
+          ]
+        },
+        "more": {
+          "def": "A book or website that lists words and tells what they mean and how to spell them.",
+          "examples": [
+            "I looked up the word in the dictionary.",
+            "A dictionary also shows how to say each word.",
+            "The class used a dictionary to find the meaning of each new word."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "die",
     "say": "dy",
     "forms": [
@@ -1299,6 +1328,55 @@
     ]
   },
   {
+    "word": "disarm",
+    "say": "dis-ARM",
+    "forms": [
+      "disarms",
+      "disarmed",
+      "disarming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To take away someone's weapons.",
+          "examples": [
+            "The guards disarm the thief.",
+            "They disarmed the bomb.",
+            "The police disarmed the man."
+          ]
+        },
+        "more": {
+          "def": "To take away weapons from someone, or to make a bomb safe.",
+          "examples": [
+            "The guards disarmed the intruder.",
+            "Experts disarmed the old bomb so it was safe.",
+            "The two countries agreed to disarm and make peace."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone feel friendly and less angry.",
+          "examples": [
+            "Her smile disarmed me.",
+            "The puppy disarmed him.",
+            "A joke can disarm a tense room."
+          ]
+        },
+        "more": {
+          "def": "To make someone feel less angry or worried by being kind or charming.",
+          "examples": [
+            "Her warm smile disarmed me.",
+            "The puppy's wagging tail disarmed the nervous visitor.",
+            "A funny joke disarmed the grumpy crowd."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "disaster",
     "say": "dih-ZAS-ter",
     "forms": [
@@ -2114,6 +2192,36 @@
     ]
   },
   {
+    "word": "dissolve",
+    "say": "dih-ZOLV",
+    "forms": [
+      "dissolves",
+      "dissolved",
+      "dissolving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To mix into a liquid and seem to disappear.",
+          "examples": [
+            "Sugar dissolves in water.",
+            "The salt dissolved.",
+            "The tablet dissolves."
+          ]
+        },
+        "more": {
+          "def": "To mix completely into a liquid so that it cannot be seen.",
+          "examples": [
+            "Sugar dissolves in hot tea.",
+            "The salt dissolved in the water.",
+            "The tablet dissolved in a glass of water."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "distance",
     "say": "DIS-tunss",
     "emoji": "📏",
@@ -2308,6 +2416,36 @@
             "The kitten was in distress, stuck in the tree.",
             "She cried in distress when she lost her toy.",
             "The ship sent out a signal of distress."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "distribute",
+    "say": "dis-TRIB-yoot",
+    "forms": [
+      "distributes",
+      "distributed",
+      "distributing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give out things to many people.",
+          "examples": [
+            "The teacher distributes the papers.",
+            "We distributed flyers.",
+            "Mom distributed the snacks."
+          ]
+        },
+        "more": {
+          "def": "To hand out or share something among many people.",
+          "examples": [
+            "The teacher distributed the papers to the class.",
+            "We distributed flyers about the school fair.",
+            "Volunteers distributed food to families in need."
           ]
         }
       }

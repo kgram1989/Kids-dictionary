@@ -208,6 +208,36 @@
     ]
   },
   {
+    "word": "exceed",
+    "say": "ik-SEED",
+    "forms": [
+      "exceeds",
+      "exceeded",
+      "exceeding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go beyond a limit or be more than expected.",
+          "examples": [
+            "Do not exceed the speed limit.",
+            "The test exceeded my hopes.",
+            "The cost exceeds ten dollars."
+          ]
+        },
+        "more": {
+          "def": "To be more than a set amount or limit.",
+          "examples": [
+            "Do not exceed the speed limit when you drive.",
+            "The test results exceeded my hopes.",
+            "The cost of the trip will exceed one hundred dollars."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "excellent",
     "say": "EK-suh-lunt",
     "senses": [
@@ -1124,6 +1154,34 @@
             "Our science experiment showed that plants grow toward light.",
             "The scientist repeated the experiment to check her results.",
             "As an experiment, we tried baking the bread without sugar."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "experimental",
+    "say": "ek-sper-ih-MEN-tul",
+    "forms": [
+      "experimentally"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Used to try out something new.",
+          "examples": [
+            "It is an experimental toy.",
+            "The plane is experimental.",
+            "We use experimental methods."
+          ]
+        },
+        "more": {
+          "def": "New and being used to test an idea or to see how well something works.",
+          "examples": [
+            "The company tested an experimental toy with kids.",
+            "The experimental plane flew for the first time today.",
+            "Scientists use experimental methods to see what works."
           ]
         }
       }

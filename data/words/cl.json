@@ -88,6 +88,55 @@
     ]
   },
   {
+    "word": "clamor",
+    "say": "KLAM-er",
+    "forms": [
+      "clamors",
+      "clamored",
+      "clamoring"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loud, confused noise.",
+          "examples": [
+            "There was a clamor in the hall.",
+            "The clamor was loud.",
+            "I heard a clamor outside."
+          ]
+        },
+        "more": {
+          "def": "A loud noise made by many people or things at once.",
+          "examples": [
+            "There was a clamor in the hall when the bell rang.",
+            "The clamor of the crowd rose as the team ran out.",
+            "We could hear the clamor of the busy market from far away."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shout or ask for something loudly.",
+          "examples": [
+            "The kids clamor for ice cream.",
+            "Fans clamored for the singer.",
+            "They clamored to get in."
+          ]
+        },
+        "more": {
+          "def": "To demand something loudly, in a group.",
+          "examples": [
+            "The kids clamored for ice cream on the hot day.",
+            "Fans clamored for the singer to come back on stage.",
+            "The crowd clamored to get tickets for the show."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clamp",
     "say": "klamp",
     "forms": [
@@ -918,6 +967,55 @@
             "We watched a clip from the movie.",
             "The funny clip made us laugh.",
             "The news showed a clip of the storm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cloak",
+    "say": "klohk",
+    "forms": [
+      "cloaks",
+      "cloaked",
+      "cloaking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long coat that has no sleeves and hangs from the shoulders.",
+          "examples": [
+            "The knight wore a cloak.",
+            "The cloak is long.",
+            "She wore a red cloak."
+          ]
+        },
+        "more": {
+          "def": "A long, loose piece of clothing without sleeves that is worn over other clothes.",
+          "examples": [
+            "The knight wore a heavy cloak over his armor.",
+            "She wrapped her cloak tight against the wind.",
+            "A red cloak hung by the door in the castle."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cover or hide something.",
+          "examples": [
+            "Fog cloaked the hills.",
+            "The night cloaked the house.",
+            "The mist cloaked the valley."
+          ]
+        },
+        "more": {
+          "def": "To cover or hide something completely, like a thick blanket.",
+          "examples": [
+            "Fog cloaked the hills and the valley.",
+            "Darkness cloaked the old house.",
+            "A thick mist cloaked the lake in the morning."
           ]
         }
       }

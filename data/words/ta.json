@@ -516,6 +516,55 @@
     ]
   },
   {
+    "word": "tally",
+    "say": "TAL-ee",
+    "forms": [
+      "tallies",
+      "tallied",
+      "tallying"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A count of how many there are.",
+          "examples": [
+            "Keep a tally of the points.",
+            "The tally was ten.",
+            "I made a tally."
+          ]
+        },
+        "more": {
+          "def": "A count or record of numbers or scores.",
+          "examples": [
+            "Keep a tally of the points as we play.",
+            "The tally of votes showed that the red team won.",
+            "I made a tally of the birds I saw at the feeder."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To count up a number.",
+          "examples": [
+            "I tally the votes.",
+            "We tallied the points.",
+            "She tallied the cookies."
+          ]
+        },
+        "more": {
+          "def": "To count up a total of something.",
+          "examples": [
+            "I tally the votes at the end of the day.",
+            "We tallied the points after the last game.",
+            "She tallied the cookies that were sold at the bake sale."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tame",
     "say": "taym",
     "forms": [
@@ -617,6 +666,61 @@
             "The sun gave us a tan."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "tangle",
+    "say": "TANG-gul",
+    "forms": [
+      "tangles",
+      "tangled",
+      "tangling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A messy bunch of things twisted together.",
+          "examples": [
+            "My hair is in a tangle.",
+            "The string is a tangle.",
+            "A tangle of wires."
+          ]
+        },
+        "more": {
+          "def": "A messy mass of things twisted together.",
+          "examples": [
+            "My hair is in a big tangle.",
+            "The kite string was a tangle of knots.",
+            "A tangle of vines covered the old fence."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To twist together in a messy way.",
+          "examples": [
+            "The strings tangled.",
+            "My hair tangles.",
+            "The fishing line tangled."
+          ]
+        },
+        "more": {
+          "def": "To twist things together so they are hard to pull apart.",
+          "examples": [
+            "The kite strings tangled in the wind.",
+            "My hair tangles when I run fast.",
+            "The fishing line tangled around the branch."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "untangle",
+        "def": "To undo a tangle."
       }
     ]
   },
@@ -788,6 +892,34 @@
             "Tape the poster to the wall.",
             "She taped the box shut.",
             "He taped the map to the window."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tar",
+    "say": "tar",
+    "forms": [
+      "tars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Thick, black, sticky stuff used to make roads.",
+          "examples": [
+            "The road is made of tar.",
+            "Tar is sticky.",
+            "I stepped in tar."
+          ]
+        },
+        "more": {
+          "def": "A thick, black, sticky substance made from coal or wood that is used to cover roads and roofs.",
+          "examples": [
+            "Workers poured hot tar on the road.",
+            "The tar was black and sticky on my shoe.",
+            "Tar helps keep rain out of the roof."
           ]
         }
       }

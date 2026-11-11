@@ -54,6 +54,36 @@
     ]
   },
   {
+    "word": "weaken",
+    "say": "WEE-kun",
+    "forms": [
+      "weakens",
+      "weakened",
+      "weakening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To become less strong or to make something less strong.",
+          "examples": [
+            "The storm weakened the tree.",
+            "Illness can weaken you.",
+            "The sun weakens the color."
+          ]
+        },
+        "more": {
+          "def": "To make something less strong, or to become less strong.",
+          "examples": [
+            "The storm weakened the old tree.",
+            "Being sick can weaken you for a few days.",
+            "The sun weakened the color of the paint over time."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "weakness",
     "say": "WEEK-niss",
     "forms": [
@@ -327,6 +357,35 @@
     ]
   },
   {
+    "word": "website",
+    "say": "WEB-syt",
+    "emoji": "💻",
+    "forms": [
+      "websites"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of pages on the internet that belong together.",
+          "examples": [
+            "I visited the website.",
+            "The website has pictures.",
+            "Our school has a website."
+          ]
+        },
+        "more": {
+          "def": "A place on the internet with pages of information about a person, group or topic.",
+          "examples": [
+            "I visited the zoo's website to see the animals.",
+            "Our school has a website with the lunch menu.",
+            "The website shows pictures of baby penguins."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wedding",
     "say": "WED-ing",
     "emoji": "💒",
@@ -350,6 +409,55 @@
             "My cousin's wedding was in a garden.",
             "Everyone danced at the wedding.",
             "The wedding cake had three layers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wedge",
+    "say": "wej",
+    "forms": [
+      "wedges",
+      "wedged",
+      "wedging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece that is thick at one end and thin at the other.",
+          "examples": [
+            "I ate a wedge of pie.",
+            "She put a wedge under the door.",
+            "Dad cut a wedge of melon."
+          ]
+        },
+        "more": {
+          "def": "A piece of something shaped like a triangle, thick at one end and thin at the other.",
+          "examples": [
+            "I cut a wedge of cheese.",
+            "She put a wooden wedge under the door to hold it open.",
+            "A wedge of lemon sat on the side of the glass."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To push something into a tight space.",
+          "examples": [
+            "I wedge the book in.",
+            "He wedged the door open.",
+            "She wedged the box in the car."
+          ]
+        },
+        "more": {
+          "def": "To fit something into a narrow space so that it cannot move.",
+          "examples": [
+            "I wedged the book onto the full shelf.",
+            "He wedged a stone under the door to hold it open.",
+            "She wedged the box between two seats."
           ]
         }
       }

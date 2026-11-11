@@ -110,6 +110,31 @@
     ]
   },
   {
+    "word": "incidentally",
+    "say": "in-sih-DEN-tuh-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "By the way.",
+          "examples": [
+            "Incidentally, I saw your friend today.",
+            "Incidentally, it is my birthday.",
+            "He said, \"Incidentally, we have no milk.\""
+          ]
+        },
+        "more": {
+          "def": "Used to add a side comment to what you are saying.",
+          "examples": [
+            "Incidentally, I saw your cousin at the store today.",
+            "We are going to the park, and, incidentally, it is a nice day.",
+            "The soup is ready and, incidentally, so is the bread."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "incline",
     "say": "in-KLYN",
     "forms": [
@@ -675,6 +700,31 @@
     ]
   },
   {
+    "word": "info",
+    "say": "IN-foh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short word for information.",
+          "examples": [
+            "I need info on the trip.",
+            "Look up the info.",
+            "The sign has info."
+          ]
+        },
+        "more": {
+          "def": "A short, informal word for information.",
+          "examples": [
+            "I need some info on the trip.",
+            "Look up the info about the museum on the web.",
+            "The sign had all the info we needed about the park."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "inform",
     "say": "in-FORM",
     "forms": [
@@ -1127,6 +1177,36 @@
     ]
   },
   {
+    "word": "inquire",
+    "say": "in-KWYR",
+    "forms": [
+      "inquires",
+      "inquired",
+      "inquiring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To ask about something.",
+          "examples": [
+            "I inquire at the desk.",
+            "She inquired about the price.",
+            "He inquired about the bus."
+          ]
+        },
+        "more": {
+          "def": "To ask a question to get information.",
+          "examples": [
+            "I inquired at the desk about the lost mittens.",
+            "She inquired about the price of the book.",
+            "He inquired when the next bus would come."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "insane",
     "say": "in-SAYN",
     "senses": [
@@ -1228,6 +1308,34 @@
     ]
   },
   {
+    "word": "insensitive",
+    "say": "in-SEN-sih-tiv",
+    "forms": [
+      "insensitively"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not caring about other people's feelings.",
+          "examples": [
+            "It was insensitive to laugh.",
+            "He was insensitive.",
+            "The insensitive comment hurt."
+          ]
+        },
+        "more": {
+          "def": "Not thinking about or caring for other people's feelings.",
+          "examples": [
+            "It was insensitive to laugh when she dropped her tray.",
+            "His insensitive comment hurt his friend.",
+            "She apologized for being insensitive."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "insert",
     "say": "in-SERT",
     "forms": [
@@ -1296,6 +1404,34 @@
             "It started to rain, so we went inside.",
             "The dog barked until we let him inside.",
             "We stayed inside all day because of the snow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "insight",
+    "say": "IN-syt",
+    "forms": [
+      "insights"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A clear idea about what something really means.",
+          "examples": [
+            "She had an insight.",
+            "The book gave me insight.",
+            "He had a good insight."
+          ]
+        },
+        "more": {
+          "def": "A deep understanding of something, or a clear idea of how it works.",
+          "examples": [
+            "The book gave me insight into how bees live.",
+            "She had an insight that helped her solve the puzzle.",
+            "Talking to my grandfather gave me insight into what school was like long ago."
           ]
         }
       }
@@ -2616,6 +2752,36 @@
     ]
   },
   {
+    "word": "intimidate",
+    "say": "in-TIM-ih-dayt",
+    "forms": [
+      "intimidates",
+      "intimidated",
+      "intimidating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone feel scared or afraid.",
+          "examples": [
+            "The big dog may intimidate you.",
+            "I felt intimidated by the tall boy.",
+            "The high wall intimidated me."
+          ]
+        },
+        "more": {
+          "def": "To make someone feel afraid or less confident, often by being big or strong.",
+          "examples": [
+            "The large dog intimidated the little kids.",
+            "I felt intimidated by the tall wall.",
+            "The big class intimidated the new student at first."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "into",
     "say": "IN-too",
     "senses": [
@@ -2757,6 +2923,34 @@
             "The security camera caught the intruder.",
             "The alarm went off when the intruder came in.",
             "An intruder was found in the garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "intuition",
+    "say": "in-too-ISH-un",
+    "forms": [
+      "intuitions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A feeling that you know something without being told.",
+          "examples": [
+            "I had an intuition.",
+            "My intuition was right.",
+            "She trusts her intuition."
+          ]
+        },
+        "more": {
+          "def": "A feeling that something is true without needing proof.",
+          "examples": [
+            "I had an intuition that it would rain, and it did.",
+            "Her intuition told her that her friend was sad.",
+            "He followed his intuition and went left."
           ]
         }
       }
