@@ -50,6 +50,62 @@
     ]
   },
   {
+    "word": "skateboard",
+    "say": "SKAYT-bord",
+    "emoji": "🛹",
+    "forms": [
+      "skateboards",
+      "skateboarded",
+      "skateboarding"
+    ],
+    "related": [
+      {
+        "word": "skateboarder",
+        "def": "A person who rides a skateboard."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A board with wheels that you stand on and ride.",
+          "examples": [
+            "I ride my skateboard.",
+            "The skateboard has four wheels.",
+            "He fell off his skateboard."
+          ]
+        },
+        "more": {
+          "def": "A short board with four small wheels that you stand on and ride along the ground.",
+          "examples": [
+            "I wore a helmet and knee pads when I rode my skateboard.",
+            "He learned to do a trick on his skateboard at the park.",
+            "The skateboard rolled down the hill by itself."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To ride on a board with wheels.",
+          "examples": [
+            "I skateboard at the park.",
+            "He skateboards to school.",
+            "They skateboarded all day."
+          ]
+        },
+        "more": {
+          "def": "To ride along on a short board with small wheels.",
+          "examples": [
+            "My cousin skateboards at the park every Saturday.",
+            "He skateboarded down the sidewalk, wearing a helmet.",
+            "She is learning to skateboard on the smooth, flat path."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "skater",
     "say": "SKAY-ter",
     "emoji": "⛸️",

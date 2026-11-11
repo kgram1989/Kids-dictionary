@@ -72,5 +72,41 @@
         }
       }
     ]
+  },
+  {
+    "word": "odor",
+    "say": "OH-der",
+    "forms": [
+      "odors",
+      "odour",
+      "odours"
+    ],
+    "related": [
+      {
+        "word": "odorless",
+        "def": "Having no smell."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A smell, often a bad one.",
+          "examples": [
+            "A strange odor filled the room.",
+            "The trash had a bad odor.",
+            "I noticed an odor."
+          ]
+        },
+        "more": {
+          "def": "A smell, especially one that is strong or unpleasant.",
+          "examples": [
+            "A strong odor of fish filled the kitchen.",
+            "The gym bag had a bad odor after the game.",
+            "The soap left a pleasant odor in the air."
+          ]
+        }
+      }
+    ]
   }
 ]

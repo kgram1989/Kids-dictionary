@@ -787,5 +787,35 @@
         "def": "To unfasten something hitched."
       }
     ]
+  },
+  {
+    "word": "hitchhike",
+    "say": "HICH-hyk",
+    "forms": [
+      "hitchhikes",
+      "hitchhiked",
+      "hitchhiking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To ask for a ride from strangers on the road.",
+          "examples": [
+            "Never hitchhike.",
+            "He hitchhiked home.",
+            "They hitchhiked across the country."
+          ]
+        },
+        "more": {
+          "def": "To travel by asking drivers you do not know for a ride, which can be unsafe.",
+          "examples": [
+            "It is not safe to hitchhike, so a child should never ask a stranger for a ride.",
+            "The character in the book hitchhiked across the country.",
+            "The two students hitchhiked to the next town."
+          ]
+        }
+      }
+    ]
   }
 ]

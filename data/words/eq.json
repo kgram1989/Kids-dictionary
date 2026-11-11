@@ -138,5 +138,52 @@
         }
       }
     ]
+  },
+  {
+    "word": "equivalent",
+    "say": "ih-KWIV-uh-lunt",
+    "forms": [
+      "equivalents"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Equal in size, value or meaning.",
+          "examples": [
+            "Two halves are equivalent to a whole.",
+            "The two prices are equivalent.",
+            "These words are equivalent."
+          ]
+        },
+        "more": {
+          "def": "Equal in value, amount or meaning to something else.",
+          "examples": [
+            "Two halves are equivalent to one whole.",
+            "One dollar is equivalent to four quarters.",
+            "The two answers are equivalent, even though they look different."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that is equal to something else.",
+          "examples": [
+            "Four quarters is the equivalent of a dollar.",
+            "What is the equivalent?",
+            "I need the equivalent."
+          ]
+        },
+        "more": {
+          "def": "A thing that has the same value, amount or meaning as something else.",
+          "examples": [
+            "Four quarters are the equivalent of one dollar.",
+            "A kilometer is about the equivalent of six tenths of a mile.",
+            "The French word for \"cat\" is the equivalent of the English word."
+          ]
+        }
+      }
+    ]
   }
 ]

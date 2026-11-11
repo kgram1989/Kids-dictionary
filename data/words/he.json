@@ -524,6 +524,31 @@
     ]
   },
   {
+    "word": "heating",
+    "say": "HEE-ting",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The system that makes a building warm.",
+          "examples": [
+            "The heating is on.",
+            "Our heating broke.",
+            "The heating keeps us warm."
+          ]
+        },
+        "more": {
+          "def": "A system that warms a house or other building, or the act of making something hot.",
+          "examples": [
+            "The heating came on early when the weather turned cold.",
+            "The school's heating broke down, so we wore our coats in class.",
+            "The heating of the water took only a few minutes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "heave",
     "say": "heev",
     "forms": [
@@ -1056,6 +1081,34 @@
     ]
   },
   {
+    "word": "helper",
+    "say": "HEL-per",
+    "forms": [
+      "helpers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who helps.",
+          "examples": [
+            "She is my helper.",
+            "The helper carried the box.",
+            "Every helper got a sticker."
+          ]
+        },
+        "more": {
+          "def": "A person or thing that helps someone do a job.",
+          "examples": [
+            "My brother is a good helper in the kitchen.",
+            "The teacher chose a helper to hand out the papers.",
+            "A friendly helper carried the groceries for us."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "helpful",
     "say": "HELP-ful",
     "forms": [
@@ -1197,6 +1250,55 @@
             "We threw a party to thank her for the help.",
             "Her bicycle has a bell and a basket.",
             "The teacher asked her to read the poem aloud."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "herald",
+    "say": "HAIR-uld",
+    "forms": [
+      "heralds",
+      "heralded",
+      "heralding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who brings news long ago.",
+          "examples": [
+            "The herald blew a horn.",
+            "A herald came with news.",
+            "The king's herald spoke."
+          ]
+        },
+        "more": {
+          "def": "A person in the past whose job was to bring news and make announcements for a king or queen.",
+          "examples": [
+            "The herald blew a trumpet and read the king's message to the town.",
+            "A herald rode into the village with big news.",
+            "The herald stood on the castle steps and announced the feast."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To announce that something is coming.",
+          "examples": [
+            "Birds herald spring.",
+            "The bell heralded the start.",
+            "A trumpet heralded the king."
+          ]
+        },
+        "more": {
+          "def": "To show or announce that something is about to happen.",
+          "examples": [
+            "Robins heralded the spring by singing in the trees.",
+            "A trumpet heralded the arrival of the king.",
+            "The first snow heralded the start of winter."
           ]
         }
       }
