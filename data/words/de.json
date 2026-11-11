@@ -2669,6 +2669,34 @@
     ]
   },
   {
+    "word": "descent",
+    "say": "dih-SENT",
+    "forms": [
+      "descents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Going down.",
+          "examples": [
+            "The descent was fast.",
+            "We began our descent.",
+            "The plane's descent was smooth."
+          ]
+        },
+        "more": {
+          "def": "The act of going down, or a slope that goes downward.",
+          "examples": [
+            "The plane began its slow descent toward the airport.",
+            "The descent down the mountain took only two hours.",
+            "A steep descent led to the river."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "describe",
     "say": "dih-SKRYB",
     "forms": [
@@ -3733,6 +3761,42 @@
             "The story had a devil with a pointed tail.",
             "In the old tale, a devil tricks a farmer.",
             "Some people dress as devils for a costume party."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "devote",
+    "say": "dih-VOHT",
+    "forms": [
+      "devotes",
+      "devoted",
+      "devoting"
+    ],
+    "related": [
+      {
+        "word": "devotion",
+        "def": "Strong love and loyalty."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give your time and care to something.",
+          "examples": [
+            "I devote time to my pet.",
+            "She devotes her time to art.",
+            "He devoted a day to the garden."
+          ]
+        },
+        "more": {
+          "def": "To give a lot of your time, energy or love to something or someone.",
+          "examples": [
+            "She devotes an hour every day to practicing the violin.",
+            "The scientist devoted her life to studying birds.",
+            "He devoted the weekend to painting the fence."
           ]
         }
       }
