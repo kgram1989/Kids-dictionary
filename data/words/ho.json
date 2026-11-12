@@ -54,6 +54,37 @@
     ]
   },
   {
+    "word": "hoe",
+    "say": "hoh",
+    "forms": [
+      "hoes",
+      "hoed",
+      "hoeing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "say": "hoh",
+        "easy": {
+          "def": "A garden tool with a long handle and a flat blade.",
+          "examples": [
+            "I used a hoe.",
+            "The hoe is in the shed.",
+            "Dad dug with a hoe."
+          ]
+        },
+        "more": {
+          "def": "A garden tool with a long handle and a flat blade that is used to dig up weeds and loosen the soil.",
+          "examples": [
+            "Dad used a hoe to dig up the weeds in the garden.",
+            "She hung the hoe on a hook in the shed.",
+            "The farmer worked the soil with a hoe."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hog",
     "say": "hog",
     "emoji": "🐖",
@@ -908,6 +939,31 @@
     ]
   },
   {
+    "word": "honorary",
+    "say": "ON-uh-rair-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Given as an honor, not for real.",
+          "examples": [
+            "An honorary member.",
+            "An honorary title.",
+            "She is an honorary citizen."
+          ]
+        },
+        "more": {
+          "def": "Given as an honor and not because the person earned or has the real position.",
+          "examples": [
+            "The class made our guest an honorary member of the club.",
+            "She received an honorary award for her kind work.",
+            "He was named honorary mayor for a day."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hood",
     "say": "huud",
     "forms": [
@@ -1335,6 +1391,31 @@
             "A ship appeared as a tiny dot on the horizon.",
             "Dark clouds gathered on the horizon.",
             "The road stretched all the way to the horizon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "horizontal",
+    "say": "hor-ih-ZON-tul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Flat and going from side to side.",
+          "examples": [
+            "A horizontal line.",
+            "The bar is horizontal.",
+            "A horizontal stripe."
+          ]
+        },
+        "more": {
+          "def": "Going from side to side and level with the ground, like the horizon.",
+          "examples": [
+            "Draw a horizontal line across the page.",
+            "The flag has three horizontal stripes of red, white and blue.",
+            "The horizontal bar was level with the floor."
           ]
         }
       }

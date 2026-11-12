@@ -188,5 +188,39 @@
         }
       }
     ]
+  },
+  {
+    "word": "jitter",
+    "say": "JIT-er",
+    "forms": [
+      "jitters"
+    ],
+    "related": [
+      {
+        "word": "jittery",
+        "def": "Nervous and shaky."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A nervous, shaky feeling.",
+          "examples": [
+            "I have the jitters.",
+            "Jitters before the show.",
+            "The jitters went away."
+          ]
+        },
+        "more": {
+          "def": "A feeling of being nervous and shaky, usually before something important.",
+          "examples": [
+            "I got the jitters before the spelling bee.",
+            "She had a case of the jitters before her solo.",
+            "The jitters went away once I started to play."
+          ]
+        }
+      }
+    ]
   }
 ]
