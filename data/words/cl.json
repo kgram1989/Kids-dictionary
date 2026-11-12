@@ -1660,6 +1660,34 @@
     ]
   },
   {
+    "word": "clipboard",
+    "say": "KLIP-bord",
+    "forms": [
+      "clipboards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A board with a clip that holds paper.",
+          "examples": [
+            "The coach has a clipboard.",
+            "The clipboard holds papers.",
+            "I wrote on the clipboard."
+          ]
+        },
+        "more": {
+          "def": "A flat board with a clip at the top that holds papers for writing.",
+          "examples": [
+            "The coach held a clipboard with the team list.",
+            "I wrote my notes on a clipboard.",
+            "The nurse checked the clipboard."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clipper",
     "say": "KLIP-er",
     "forms": [
@@ -2481,6 +2509,42 @@
             "She felt clueless on her first day at the new school."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "clump",
+    "say": "klump",
+    "forms": [
+      "clumps",
+      "clumped",
+      "clumping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small group of things stuck together.",
+          "examples": [
+            "A clump of grass.",
+            "A clump of mud.",
+            "A clump of trees."
+          ]
+        },
+        "more": {
+          "def": "A small group of things growing or stuck closely together.",
+          "examples": [
+            "A clump of grass grew by the rock.",
+            "A clump of mud fell off my shoe.",
+            "A clump of trees stood in the field."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "clumpy",
+        "def": "Full of clumps."
       }
     ]
   },

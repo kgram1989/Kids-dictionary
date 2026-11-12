@@ -681,6 +681,35 @@
     ]
   },
   {
+    "word": "slender",
+    "say": "SLEN-der",
+    "forms": [
+      "slenderer",
+      "slenderest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Thin in a nice way.",
+          "examples": [
+            "The tree is slender.",
+            "She has slender fingers.",
+            "A slender vase."
+          ]
+        },
+        "more": {
+          "def": "Thin and graceful.",
+          "examples": [
+            "She has long, slender fingers.",
+            "A slender vase held one flower.",
+            "The slender tree swayed in the breeze."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "slew",
     "say": "sloo",
     "forms": [
@@ -1237,6 +1266,42 @@
     ]
   },
   {
+    "word": "slither",
+    "say": "SLITH-er",
+    "forms": [
+      "slithers",
+      "slithered",
+      "slithering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move by sliding along the ground, like a snake.",
+          "examples": [
+            "The snake will slither.",
+            "It slithered into the grass.",
+            "Worms slither."
+          ]
+        },
+        "more": {
+          "def": "To glide along a surface in a twisting way, like a snake.",
+          "examples": [
+            "The snake slithered through the grass.",
+            "An eel slithered across the muddy bank.",
+            "A worm slithered over the damp soil."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "slithery",
+        "def": "Sliding like a snake."
+      }
+    ]
+  },
+  {
     "word": "slobber",
     "say": "SLOB-er",
     "forms": [
@@ -1642,6 +1707,31 @@
             "The slugger hit the ball over the fence.",
             "Fans cheered for the team's best slugger.",
             "The slugger smashed a home run in the ninth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sluggish",
+    "say": "SLUG-ish",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Slow and not lively.",
+          "examples": [
+            "I feel sluggish.",
+            "The snail is sluggish.",
+            "A sluggish river."
+          ]
+        },
+        "more": {
+          "def": "Slow-moving and lacking energy.",
+          "examples": [
+            "I felt sluggish after a big lunch.",
+            "The sluggish river barely moved.",
+            "The cold made the lizard sluggish."
           ]
         }
       }
