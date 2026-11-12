@@ -59,6 +59,61 @@
     ]
   },
   {
+    "word": "fib",
+    "say": "fib",
+    "forms": [
+      "fibs",
+      "fibbed",
+      "fibbing"
+    ],
+    "related": [
+      {
+        "word": "fibber",
+        "def": "A person who tells fibs."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small lie.",
+          "examples": [
+            "I told a fib.",
+            "That is a fib.",
+            "A little fib."
+          ]
+        },
+        "more": {
+          "def": "A small, unimportant lie.",
+          "examples": [
+            "He told a fib and said he had finished his homework.",
+            "Telling a fib can get you into bigger trouble.",
+            "It was only a little fib, but she felt bad about it."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell a small lie.",
+          "examples": [
+            "Don't fib.",
+            "He fibbed.",
+            "She fibs a lot."
+          ]
+        },
+        "more": {
+          "def": "To tell a small, unimportant lie.",
+          "examples": [
+            "He fibbed about eating the last cookie.",
+            "Do not fib to your teacher.",
+            "She fibbed because she was afraid."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fiber",
     "say": "FY-ber",
     "forms": [
@@ -951,6 +1006,34 @@
     ]
   },
   {
+    "word": "finalist",
+    "say": "FY-nuh-list",
+    "forms": [
+      "finalists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who reaches the last round of a contest.",
+          "examples": [
+            "She was a finalist.",
+            "The finalists stood on stage.",
+            "A finalist in the spelling bee."
+          ]
+        },
+        "more": {
+          "def": "A person or a team that takes part in the final round of a contest or competition.",
+          "examples": [
+            "She was one of three finalists in the spelling bee.",
+            "The finalists waited on the stage for the judges.",
+            "Our team was a finalist in the science fair."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "finally",
     "say": "FY-nul-ee",
     "senses": [
@@ -1325,6 +1408,35 @@
             "The firefighter sprayed water on the flames with a long hose.",
             "A firefighter climbed a ladder to rescue the cat from the tree.",
             "The firefighters visited our school to teach fire safety."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "firefly",
+    "say": "FYR-fly",
+    "emoji": "✨",
+    "forms": [
+      "fireflies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small flying bug that lights up at night.",
+          "examples": [
+            "I caught a firefly.",
+            "Fireflies glow.",
+            "The firefly blinked."
+          ]
+        },
+        "more": {
+          "def": "A small flying beetle that gives off flashes of light at night, also called a lightning bug.",
+          "examples": [
+            "We caught fireflies in a jar on a warm summer night.",
+            "A firefly flashed its light in the dark yard.",
+            "Fireflies blink their lights to signal each other."
           ]
         }
       }
