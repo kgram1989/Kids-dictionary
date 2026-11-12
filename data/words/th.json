@@ -1807,6 +1807,37 @@
     ]
   },
   {
+    "word": "thrift",
+    "say": "thrift",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Using money carefully.",
+          "examples": [
+            "Thrift is saving.",
+            "She learned thrift.",
+            "Thrift means no waste."
+          ]
+        },
+        "more": {
+          "def": "Careful use of money and things so as not to waste them.",
+          "examples": [
+            "She learned thrift from her grandmother.",
+            "Thrift means saving instead of wasting.",
+            "The family's thrift paid for the trip."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "thrifty",
+        "def": "Careful with money."
+      }
+    ]
+  },
+  {
     "word": "thrill",
     "say": "thril",
     "forms": [
@@ -1987,6 +2018,55 @@
             "Water slid down my throat.",
             "I have a sore throat from yelling.",
             "The doctor looked at my throat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "throb",
+    "say": "throb",
+    "forms": [
+      "throbs",
+      "throbbed",
+      "throbbing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To beat or ache with a steady pulse.",
+          "examples": [
+            "My toe throbs.",
+            "His head throbbed.",
+            "The music throbbed."
+          ]
+        },
+        "more": {
+          "def": "To beat or ache with a strong, steady pulse.",
+          "examples": [
+            "My toe throbbed after I stubbed it.",
+            "Her heart throbbed with excitement.",
+            "The drums throbbed in the distance."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A steady beat or ache.",
+          "examples": [
+            "I felt a throb.",
+            "A throb in my thumb.",
+            "The throb of the engine."
+          ]
+        },
+        "more": {
+          "def": "A strong, steady beat or pulse, or a steady ache.",
+          "examples": [
+            "I felt a throb in my sore thumb.",
+            "The throb of the engine shook the boat.",
+            "A throb of music filled the air."
           ]
         }
       }

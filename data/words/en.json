@@ -60,6 +60,36 @@
     ]
   },
   {
+    "word": "enchant",
+    "say": "in-CHANT",
+    "forms": [
+      "enchants",
+      "enchanted",
+      "enchanting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To fill with magic or charm.",
+          "examples": [
+            "The story will enchant you.",
+            "The music enchanted us.",
+            "The witch enchanted the broom."
+          ]
+        },
+        "more": {
+          "def": "To put under a spell, or to charm someone very much.",
+          "examples": [
+            "The witch enchanted the broom in the story.",
+            "The music enchanted the audience.",
+            "The garden enchanted every visitor."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "enchanted",
     "say": "en-CHAN-tid",
     "senses": [
@@ -189,6 +219,34 @@
             "A fence encloses the yard.",
             "I enclosed a photo with the letter.",
             "A glass roof enclosed the pool."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "enclosure",
+    "say": "in-KLOH-zher",
+    "forms": [
+      "enclosures"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fenced place.",
+          "examples": [
+            "The animals are in an enclosure.",
+            "The enclosure has a fence.",
+            "A fenced enclosure."
+          ]
+        },
+        "more": {
+          "def": "An area surrounded by a fence or wall.",
+          "examples": [
+            "The lions lived in a large enclosure at the zoo.",
+            "A fenced enclosure kept the sheep safe.",
+            "The enclosure had a gate."
           ]
         }
       }

@@ -1876,6 +1876,34 @@
     ]
   },
   {
+    "word": "moped",
+    "say": "MOH-ped",
+    "forms": [
+      "mopeds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small motorbike.",
+          "examples": [
+            "He rode a moped.",
+            "The moped is small.",
+            "A moped buzzed by."
+          ]
+        },
+        "more": {
+          "def": "A small, light motorbike with pedals and a small engine.",
+          "examples": [
+            "He rode a moped to school.",
+            "The moped buzzed down the street.",
+            "A moped is slower than a motorcycle."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "moral",
     "say": "MOR-ul",
     "forms": [
@@ -2435,6 +2463,31 @@
             "The motherless lamb was fed with a bottle.",
             "A motherless kitten needed a new home.",
             "The farmer raised the motherless calf."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "motherly",
+    "say": "MUTH-er-lee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Like a mother.",
+          "examples": [
+            "She gave a motherly hug.",
+            "A motherly smile.",
+            "The nurse was motherly."
+          ]
+        },
+        "more": {
+          "def": "Kind and caring like a mother.",
+          "examples": [
+            "She gave him a motherly hug.",
+            "A motherly nurse took care of the child.",
+            "Her motherly smile made me feel safe."
           ]
         }
       }
@@ -3293,6 +3346,37 @@
             "The dentist told us not to swallow mouthwash."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "movable",
+    "say": "MOO-vuh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to be moved.",
+          "examples": [
+            "The chairs are movable.",
+            "A movable wall.",
+            "The movable stage."
+          ]
+        },
+        "more": {
+          "def": "Able to be moved from one place to another.",
+          "examples": [
+            "The chairs are movable, so we can change the room.",
+            "A movable wall divides the gym.",
+            "The tent is movable and easy to carry."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "removable",
+        "def": "Able to be taken off."
       }
     ]
   },
