@@ -953,6 +953,36 @@
     ]
   },
   {
+    "word": "mince",
+    "say": "minss",
+    "forms": [
+      "minces",
+      "minced",
+      "mincing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cut into very small bits.",
+          "examples": [
+            "Mom will mince the garlic.",
+            "She minced the onion.",
+            "Dad minced the herbs."
+          ]
+        },
+        "more": {
+          "def": "To chop food into very small pieces.",
+          "examples": [
+            "Mom minced the garlic for the sauce.",
+            "She minced the onion into tiny bits.",
+            "Dad minced the parsley."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mind",
     "say": "mynd",
     "forms": [
@@ -1969,6 +1999,31 @@
             "The wrong sign misled us, so we took the wrong road.",
             "Do not mislead your friends with a fib.",
             "The fox misled the hunters by running in the wrong direction."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "misleading",
+    "say": "mis-LEE-ding",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Giving the wrong idea.",
+          "examples": [
+            "The sign was misleading.",
+            "A misleading map.",
+            "The title is misleading."
+          ]
+        },
+        "more": {
+          "def": "Giving a wrong idea so that people believe something untrue.",
+          "examples": [
+            "The sign was misleading and sent us the wrong way.",
+            "The map was misleading about the road.",
+            "The title of the book was misleading."
           ]
         }
       }
