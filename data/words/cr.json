@@ -675,6 +675,61 @@
     ]
   },
   {
+    "word": "creak",
+    "say": "kreek",
+    "forms": [
+      "creaks",
+      "creaked",
+      "creaking"
+    ],
+    "related": [
+      {
+        "word": "creaky",
+        "def": "Making creaking sounds."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a long, squeaky sound.",
+          "examples": [
+            "The door creaked.",
+            "The stairs creak.",
+            "The old floor creaked."
+          ]
+        },
+        "more": {
+          "def": "To make a long, high, squeaky sound, as old wood or an unoiled hinge does.",
+          "examples": [
+            "The old door creaked open slowly.",
+            "The stairs creak when you step on them.",
+            "The floorboards creaked under his feet."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, squeaky sound.",
+          "examples": [
+            "I heard a creak.",
+            "The creak of the door.",
+            "A creak on the stairs."
+          ]
+        },
+        "more": {
+          "def": "A long, high, squeaky sound, as made by old wood or a hinge.",
+          "examples": [
+            "We heard a creak from the attic.",
+            "The door opened with a loud creak.",
+            "A creak on the stairs told us someone was coming."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cream",
     "say": "kreem",
     "forms": [
@@ -1186,6 +1241,34 @@
             "The ship's crew raised the sails.",
             "A road crew repaired the broken street.",
             "The film crew set up the cameras."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crewman",
+    "say": "KROO-mun",
+    "forms": [
+      "crewmen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man who works on a ship or a plane.",
+          "examples": [
+            "The crewman helped.",
+            "A crewman waved.",
+            "The crewman tied the rope."
+          ]
+        },
+        "more": {
+          "def": "A man who is a member of the crew that works on a ship, a plane or a spacecraft.",
+          "examples": [
+            "A crewman tied the rope to the dock.",
+            "The crewman checked the sails before the race.",
+            "Each crewman on the boat has a job to do."
           ]
         }
       }

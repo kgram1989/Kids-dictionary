@@ -696,6 +696,55 @@
     ]
   },
   {
+    "word": "mime",
+    "say": "mym",
+    "forms": [
+      "mimes",
+      "mimed",
+      "miming"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who acts without talking.",
+          "examples": [
+            "The mime acted.",
+            "A mime in the park.",
+            "The mime made us laugh."
+          ]
+        },
+        "more": {
+          "def": "A performer who acts out a story or an idea using movements and faces, but no words.",
+          "examples": [
+            "The mime pretended to be stuck inside a box.",
+            "A mime in white face paint entertained the crowd in the park.",
+            "The mime made us laugh without saying a word."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To act something out without words.",
+          "examples": [
+            "She mimed a swim.",
+            "Mime a cat.",
+            "He mimed eating."
+          ]
+        },
+        "more": {
+          "def": "To act something out using only movements and your face, without speaking.",
+          "examples": [
+            "She mimed climbing a ladder.",
+            "We mimed our favorite animals for the guessing game.",
+            "He mimed eating a big sandwich."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mind",
     "say": "mynd",
     "forms": [
@@ -1511,6 +1560,31 @@
             "It was our misfortune to be caught in the rain without umbrellas.",
             "The family had the misfortune of losing their house in a flood.",
             "Breaking her leg just before the trip was a real misfortune."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "misguided",
+    "say": "mis-GY-did",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wrong because you did not think it through.",
+          "examples": [
+            "It was a misguided plan.",
+            "A misguided idea.",
+            "He was misguided."
+          ]
+        },
+        "more": {
+          "def": "Having the wrong idea or plan, often because of a mistake in thinking.",
+          "examples": [
+            "It was a misguided plan to cross the frozen pond.",
+            "Her misguided idea of washing the cat did not work.",
+            "He was misguided in thinking that no one would notice."
           ]
         }
       }

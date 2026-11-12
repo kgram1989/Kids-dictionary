@@ -1182,5 +1182,30 @@
         "def": "Interested in art."
       }
     ]
+  },
+  {
+    "word": "artwork",
+    "say": "ART-werk",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Pictures and things that people make as art.",
+          "examples": [
+            "The artwork is colorful.",
+            "We hung our artwork.",
+            "Her artwork is on the wall."
+          ]
+        },
+        "more": {
+          "def": "Paintings, drawings and other things that people make as art.",
+          "examples": [
+            "Our class hung our artwork in the hallway.",
+            "The museum has artwork from many countries.",
+            "Her artwork won a prize at the fair."
+          ]
+        }
+      }
+    ]
   }
 ]

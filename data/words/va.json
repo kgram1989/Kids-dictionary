@@ -1,5 +1,33 @@
 [
   {
+    "word": "vacancy",
+    "say": "VAY-kun-see",
+    "forms": [
+      "vacancies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An empty room or job that is free to take.",
+          "examples": [
+            "The hotel has a vacancy.",
+            "A job vacancy.",
+            "No vacancy."
+          ]
+        },
+        "more": {
+          "def": "A room or a job that is empty and available for someone to take.",
+          "examples": [
+            "The sign said \"Vacancy,\" so we knew the hotel had a free room.",
+            "There is a vacancy for a teacher at our school.",
+            "The motel had no vacancy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vacant",
     "say": "VAY-kunt",
     "senses": [
@@ -696,6 +724,34 @@
       {
         "word": "vastness",
         "def": "Being very big."
+      }
+    ]
+  },
+  {
+    "word": "vat",
+    "say": "vat",
+    "forms": [
+      "vats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large tank for holding liquid.",
+          "examples": [
+            "A vat of paint.",
+            "The vat was full.",
+            "A giant vat."
+          ]
+        },
+        "more": {
+          "def": "A very large tank or container for holding liquids, such as in a factory.",
+          "examples": [
+            "A giant vat of chocolate stirred in the candy factory.",
+            "The vat was filled with dye.",
+            "Workers poured the milk into a large vat."
+          ]
+        }
       }
     ]
   },
