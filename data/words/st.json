@@ -323,6 +323,34 @@
     ]
   },
   {
+    "word": "stair",
+    "say": "stair",
+    "forms": [
+      "stairs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One step in a set of steps.",
+          "examples": [
+            "I sat on the bottom stair.",
+            "The stair is wet.",
+            "A cat sat on the top stair."
+          ]
+        },
+        "more": {
+          "def": "One of the steps in a set of steps that go up or down.",
+          "examples": [
+            "He tripped on the last stair.",
+            "She sat on the bottom stair to tie her shoes.",
+            "Each stair of the old staircase creaked."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "staircase",
     "say": "STAIR-kays",
     "forms": [
@@ -4198,6 +4226,34 @@
             "The parade marched down the main street.",
             "Our street has tall trees on both sides.",
             "Shops and cafes lined the busy street."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "streetcar",
+    "say": "STREET-kar",
+    "forms": [
+      "streetcars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bus-like train that rides on tracks in the street.",
+          "examples": [
+            "We rode the streetcar.",
+            "The streetcar goes down the street.",
+            "A streetcar stopped."
+          ]
+        },
+        "more": {
+          "def": "A passenger vehicle that runs on rails set in the streets of a city.",
+          "examples": [
+            "Long ago, many cities had a streetcar line.",
+            "We took the streetcar downtown.",
+            "The streetcar clanged its bell at every stop."
           ]
         }
       }

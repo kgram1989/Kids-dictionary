@@ -251,6 +251,40 @@
     ]
   },
   {
+    "word": "craftsman",
+    "say": "KRAFTS-mun",
+    "forms": [
+      "craftsmen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who makes things by hand with skill.",
+          "examples": [
+            "The craftsman made a chair.",
+            "A craftsman carved the wood.",
+            "The craftsman is very good."
+          ]
+        },
+        "more": {
+          "def": "A skilled worker who makes things by hand.",
+          "examples": [
+            "The craftsman carved a bird from a block of wood.",
+            "A craftsman built the fine cabinet by hand.",
+            "The old craftsman took great pride in his work."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "craftsmanship",
+        "def": "The skill of a craftsman."
+      }
+    ]
+  },
+  {
     "word": "cram",
     "say": "kram",
     "forms": [
@@ -1458,6 +1492,50 @@
             "The police caught the criminal.",
             "The criminal was sent to court.",
             "The detective chased the criminal."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crimson",
+    "say": "KRIM-zun",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A deep red color.",
+          "examples": [
+            "The apple is crimson.",
+            "She wore a crimson cape.",
+            "The crimson sun set."
+          ]
+        },
+        "more": {
+          "def": "A deep, rich red color.",
+          "examples": [
+            "The crimson sunset lit up the whole sky.",
+            "She wore a crimson scarf in the snow.",
+            "Crimson leaves fell from the maple tree."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A deep red color.",
+          "examples": [
+            "I like crimson.",
+            "The flag is crimson.",
+            "The paint is crimson."
+          ]
+        },
+        "more": {
+          "def": "A deep, rich red.",
+          "examples": [
+            "The artist mixed crimson and gold for the painting.",
+            "The curtains were a dark crimson.",
+            "The sky turned a bright crimson at sunset."
           ]
         }
       }
