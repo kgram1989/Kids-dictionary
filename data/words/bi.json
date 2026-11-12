@@ -1,5 +1,34 @@
 [
   {
+    "word": "bias",
+    "say": "BY-us",
+    "forms": [
+      "biases",
+      "biased"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Liking one thing more in an unfair way.",
+          "examples": [
+            "The judge showed no bias.",
+            "Bias is unfair.",
+            "A bias for one team."
+          ]
+        },
+        "more": {
+          "def": "An unfair liking or dislike for one person or thing over another, without good reason.",
+          "examples": [
+            "The referee showed no bias and treated both teams fairly.",
+            "A bias for one team can make you an unfair judge.",
+            "The news story was written with a bias."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "Bible",
     "say": "BY-bul",
     "emoji": "📖",
@@ -23,6 +52,31 @@
             "The family read from the Bible.",
             "Many stories in the Bible are very old.",
             "The Bible has been translated into many languages."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "biblical",
+    "say": "BIB-lih-kul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with the Bible.",
+          "examples": [
+            "It is a biblical story.",
+            "The biblical tale of Noah.",
+            "A biblical name."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the Bible, or found in it.",
+          "examples": [
+            "The story of Noah and the ark is a biblical tale.",
+            "David is a biblical name.",
+            "The painting showed a biblical scene."
           ]
         }
       }
@@ -100,6 +154,34 @@
             "I bid ten dollars for the chair.",
             "She bid on the old lamp.",
             "They bid against each other for the painting."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bidder",
+    "say": "BID-er",
+    "forms": [
+      "bidders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who offers money for something at a sale.",
+          "examples": [
+            "The bidder raised her hand.",
+            "The highest bidder won.",
+            "A bidder at the sale."
+          ]
+        },
+        "more": {
+          "def": "A person who offers an amount of money for something at an auction.",
+          "examples": [
+            "The highest bidder won the painting at the auction.",
+            "A bidder raised his hand to offer fifty dollars.",
+            "Bidders gathered at the school fair to bid on baskets."
           ]
         }
       }
@@ -204,6 +286,34 @@
     ]
   },
   {
+    "word": "biker",
+    "say": "BY-ker",
+    "forms": [
+      "bikers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who rides a bike.",
+          "examples": [
+            "The biker rode up the hill.",
+            "A biker passed us.",
+            "The biker wore a helmet."
+          ]
+        },
+        "more": {
+          "def": "A person who rides a bicycle or a motorcycle.",
+          "examples": [
+            "The biker wore a helmet and rode carefully down the path.",
+            "A group of bikers rode through the park on Saturday.",
+            "The biker stopped at the red light."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bikini",
     "say": "buh-KEE-nee",
     "forms": [
@@ -232,6 +342,34 @@
     ]
   },
   {
+    "word": "billboard",
+    "say": "BIL-bord",
+    "forms": [
+      "billboards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very large sign beside a road.",
+          "examples": [
+            "We saw a billboard.",
+            "The billboard was huge.",
+            "A billboard for pizza."
+          ]
+        },
+        "more": {
+          "def": "A very large sign beside a road or on a building that is used to advertise something.",
+          "examples": [
+            "A giant billboard for ice cream stood beside the highway.",
+            "We read the billboard as we drove by.",
+            "The billboard showed a smiling family."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "billion",
     "say": "BIL-yun",
     "forms": [
@@ -254,6 +392,34 @@
             "There are billions of stars in the galaxy.",
             "A billion is a thousand millions.",
             "The earth has about eight billion people."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "billionaire",
+    "say": "bil-yuh-NAIR",
+    "forms": [
+      "billionaires"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person with a thousand million dollars or more.",
+          "examples": [
+            "The billionaire gave money.",
+            "A billionaire is very rich.",
+            "The billionaire built a school."
+          ]
+        },
+        "more": {
+          "def": "A person who has a billion dollars or more, so that they are very, very rich.",
+          "examples": [
+            "The billionaire gave a large amount of money to build a new library.",
+            "A billionaire is someone with at least a thousand million dollars.",
+            "The billionaire owned a company that made computers."
           ]
         }
       }
@@ -312,6 +478,87 @@
             "I bound the sticks together with a string.",
             "She bound her hair with a ribbon.",
             "Dad bound the books with a rubber band."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "binding",
+    "say": "BYN-ding",
+    "forms": [
+      "bindings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The cover that holds the pages of a book together.",
+          "examples": [
+            "The book has a red binding.",
+            "The binding is strong.",
+            "The binding broke."
+          ]
+        },
+        "more": {
+          "def": "The cover and stitching that hold the pages of a book together, or something that holds something else together.",
+          "examples": [
+            "The old book had a leather binding.",
+            "A strong binding keeps the pages from falling out.",
+            "The ski boot clicked into the binding."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "binoculars",
+    "say": "bih-NOK-yuh-lerz",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool you look through to see far away things up close.",
+          "examples": [
+            "I looked through binoculars.",
+            "The binoculars are heavy.",
+            "We used binoculars to watch birds."
+          ]
+        },
+        "more": {
+          "def": "A tool with two small telescopes joined together, which you hold to your eyes to see things far away.",
+          "examples": [
+            "I used binoculars to watch the birds in the tree.",
+            "The sailor looked through the binoculars at the distant ship.",
+            "The binoculars made the faraway mountain look close."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "biography",
+    "say": "by-OG-ruh-fee",
+    "forms": [
+      "biographies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A book about a person's life.",
+          "examples": [
+            "I read a biography.",
+            "The biography is about a scientist.",
+            "A biography of a queen."
+          ]
+        },
+        "more": {
+          "def": "A book or a story that tells about the life of a real person, written by someone else.",
+          "examples": [
+            "I read a biography of a famous scientist for my school report.",
+            "The biography told about her childhood and her career.",
+            "The library has biographies of presidents and explorers."
           ]
         }
       }
@@ -425,6 +672,31 @@
     ]
   },
   {
+    "word": "birdsong",
+    "say": "BERD-song",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sweet sound that birds make.",
+          "examples": [
+            "I love birdsong in the morning.",
+            "We heard birdsong.",
+            "Birdsong filled the woods."
+          ]
+        },
+        "more": {
+          "def": "The musical sounds that birds make, especially in the early morning.",
+          "examples": [
+            "We woke up to the sound of birdsong outside the window.",
+            "Birdsong filled the woods in the early spring.",
+            "She recorded the birdsong with her tablet."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "birth",
     "say": "berth",
     "emoji": "👶",
@@ -477,6 +749,34 @@
             "My birthday is in the spring.",
             "We sang to Grandpa on his birthday.",
             "She turned eight on her birthday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "birthmark",
+    "say": "BERTH-mark",
+    "forms": [
+      "birthmarks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mark on the skin that you were born with.",
+          "examples": [
+            "She has a birthmark.",
+            "A birthmark on his arm.",
+            "The birthmark is small."
+          ]
+        },
+        "more": {
+          "def": "A colored mark on the skin that a person has had since they were born.",
+          "examples": [
+            "She has a small birthmark on her arm shaped like a heart.",
+            "A birthmark is something that you are born with.",
+            "He has a birthmark on his cheek."
           ]
         }
       }
@@ -553,6 +853,32 @@
             "I moved my bishop across the board.",
             "The bishop captured the knight.",
             "A bishop stays on the same color of squares."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bison",
+    "say": "BY-sun",
+    "emoji": "🦬",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large, shaggy animal like a buffalo.",
+          "examples": [
+            "A bison ate grass.",
+            "The bison is big.",
+            "We saw a bison."
+          ]
+        },
+        "more": {
+          "def": "A large, shaggy wild animal with a big head and a hump on its back, found on the grasslands of North America.",
+          "examples": [
+            "A herd of bison grazed on the open prairie.",
+            "The bison has a big head and a hump on its shoulders.",
+            "Long ago, millions of bison roamed the plains."
           ]
         }
       }

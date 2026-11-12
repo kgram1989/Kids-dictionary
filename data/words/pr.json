@@ -77,6 +77,34 @@
     ]
   },
   {
+    "word": "prairie",
+    "say": "PRAIR-ee",
+    "forms": [
+      "prairies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big, flat, grassy piece of land.",
+          "examples": [
+            "Wild horses ran on the prairie.",
+            "The prairie is flat.",
+            "We saw a prairie with tall grass."
+          ]
+        },
+        "more": {
+          "def": "A wide, flat area of land covered in grass, with very few trees, found in the middle of North America.",
+          "examples": [
+            "Herds of buffalo once roamed freely across the prairie.",
+            "The wind blew across the prairie and made the tall grass ripple like waves.",
+            "Pioneers crossed the prairie in wagons pulled by oxen."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "praise",
     "say": "prayz",
     "emoji": "👏",
@@ -121,6 +149,36 @@
             "The teacher praised him for helping a new student.",
             "Everyone praised the singer after the show.",
             "Dad praised us for cleaning the kitchen."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prance",
+    "say": "prans",
+    "forms": [
+      "prances",
+      "pranced",
+      "prancing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To walk with high, bouncy steps.",
+          "examples": [
+            "The horse pranced.",
+            "She pranced across the stage.",
+            "The puppy prances."
+          ]
+        },
+        "more": {
+          "def": "To move with high, springy steps in a proud or playful way.",
+          "examples": [
+            "The horse pranced around the ring with its head held high.",
+            "She pranced across the stage in her costume.",
+            "The puppy pranced happily around the yard."
           ]
         }
       }
@@ -272,6 +330,65 @@
     ]
   },
   {
+    "word": "precede",
+    "say": "prih-SEED",
+    "forms": [
+      "precedes",
+      "preceded",
+      "preceding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To come before something.",
+          "examples": [
+            "Spring precedes summer.",
+            "A flash precedes thunder.",
+            "Monday precedes Tuesday."
+          ]
+        },
+        "more": {
+          "def": "To come before something else in time, order or place.",
+          "examples": [
+            "Spring precedes summer in the cycle of seasons.",
+            "A flash of lightning precedes the sound of thunder.",
+            "The letter A precedes B in the alphabet."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "precedent",
+    "say": "PRES-ih-dunt",
+    "forms": [
+      "precedents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "say": "PRES-ih-dunt",
+        "easy": {
+          "def": "Something done before that people copy later.",
+          "examples": [
+            "The first game set a precedent.",
+            "It was a precedent for others.",
+            "This will be a precedent."
+          ]
+        },
+        "more": {
+          "def": "An earlier action or decision that is used as an example or a guide for what is done later.",
+          "examples": [
+            "The judge looked at an earlier case as a precedent before deciding.",
+            "Letting one student stay late set a precedent for everyone else.",
+            "There was no precedent for such a big snowstorm in our town."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "precious",
     "say": "PRESH-us",
     "emoji": "💎",
@@ -386,6 +503,34 @@
     ]
   },
   {
+    "word": "predicament",
+    "say": "prih-DIK-uh-munt",
+    "forms": [
+      "predicaments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hard spot that is not easy to get out of.",
+          "examples": [
+            "I was in a predicament.",
+            "It was a sticky predicament.",
+            "He found himself in a predicament."
+          ]
+        },
+        "more": {
+          "def": "A difficult or awkward situation that is hard to get out of.",
+          "examples": [
+            "I was in a predicament when I lost my lunch money and my bus pass.",
+            "The cat was in a predicament, stuck high up in the tree.",
+            "He explained his predicament to the teacher."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "predict",
     "say": "prih-DIKT",
     "emoji": "🔮",
@@ -417,6 +562,59 @@
     ]
   },
   {
+    "word": "predictable",
+    "say": "prih-DIK-tuh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Easy to know before it happens.",
+          "examples": [
+            "The ending was predictable.",
+            "His answer was predictable.",
+            "Her day is predictable."
+          ]
+        },
+        "more": {
+          "def": "Easy to know or guess before it happens, because it follows a usual pattern.",
+          "examples": [
+            "The ending of the story was so predictable that I guessed it on page one.",
+            "Summer weather in the desert is predictable: hot and dry.",
+            "The dog's morning walk is predictable, so he waits by the door."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prediction",
+    "say": "prih-DIK-shun",
+    "forms": [
+      "predictions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A guess about what will happen.",
+          "examples": [
+            "My prediction was right.",
+            "Make a prediction.",
+            "Her prediction came true."
+          ]
+        },
+        "more": {
+          "def": "A statement about what you think will happen in the future, based on what you know.",
+          "examples": [
+            "My prediction was that it would rain, and I was right.",
+            "The scientist made a prediction about the storm.",
+            "Before reading the end, make a prediction about what will happen."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "prefer",
     "say": "prih-FER",
     "forms": [
@@ -441,6 +639,34 @@
             "I prefer pizza to pasta.",
             "She prefers reading to watching TV.",
             "Many people prefer summer to winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "preference",
+    "say": "PREF-er-unss",
+    "forms": [
+      "preferences"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Liking one thing more than another.",
+          "examples": [
+            "My preference is red.",
+            "Her preference is pizza.",
+            "What is your preference?"
+          ]
+        },
+        "more": {
+          "def": "The choice of one thing over another because you like it better.",
+          "examples": [
+            "My preference is chocolate, but my sister likes vanilla.",
+            "Do you have a preference for which game we play?",
+            "The teacher asked about our preference for the class pet."
           ]
         }
       }
@@ -500,6 +726,31 @@
     ]
   },
   {
+    "word": "prehistoric",
+    "say": "pree-his-TOR-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "From the time before people wrote things down.",
+          "examples": [
+            "Dinosaurs are prehistoric.",
+            "A prehistoric cave painting.",
+            "Prehistoric people hunted."
+          ]
+        },
+        "more": {
+          "def": "From the time long ago before people wrote about what happened.",
+          "examples": [
+            "Dinosaurs are prehistoric animals that lived millions of years ago.",
+            "We saw prehistoric paintings on the walls of the cave.",
+            "The museum has prehistoric tools made of stone."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "prejudice",
     "say": "PREJ-uh-diss",
     "forms": [
@@ -523,6 +774,31 @@
             "Prejudice is wrong because it treats people unfairly.",
             "We learned about prejudice and how to be fair to everyone.",
             "She faced prejudice for being different, but she stayed strong."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prejudiced",
+    "say": "PREJ-uh-dist",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not fair to people because they are different.",
+          "examples": [
+            "Do not be prejudiced.",
+            "A prejudiced person is unfair.",
+            "It is wrong to be prejudiced."
+          ]
+        },
+        "more": {
+          "def": "Having an unfair dislike of people before you know them, because of who they are or what group they belong to.",
+          "examples": [
+            "It is wrong to be prejudiced against someone because of how they look.",
+            "A prejudiced person judges others without getting to know them.",
+            "The story is about a boy who learns not to be prejudiced."
           ]
         }
       }
@@ -578,6 +854,34 @@
     ]
   },
   {
+    "word": "premium",
+    "say": "PREE-mee-um",
+    "forms": [
+      "premiums"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Of the best kind, and costing more.",
+          "examples": [
+            "It is premium chocolate.",
+            "A premium seat.",
+            "Premium gas."
+          ]
+        },
+        "more": {
+          "def": "Of high quality, and usually costing more than the regular kind.",
+          "examples": [
+            "The shop sold premium chocolate made from the best cocoa beans.",
+            "We bought premium seats near the stage.",
+            "The car runs best on premium gasoline."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "premonition",
     "say": "prem-uh-NISH-un",
     "forms": [
@@ -600,6 +904,31 @@
             "She had a premonition that it was going to rain.",
             "In the story, a premonition warned him not to go out.",
             "He felt a premonition that something was wrong at home."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "preoccupied",
+    "say": "pree-OK-yuh-pyd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Busy thinking about something else.",
+          "examples": [
+            "She was preoccupied.",
+            "He looked preoccupied.",
+            "I felt preoccupied."
+          ]
+        },
+        "more": {
+          "def": "Busy thinking about something so much that you do not notice other things.",
+          "examples": [
+            "She was preoccupied with her science project and forgot to eat lunch.",
+            "He looked preoccupied, as if his mind were somewhere else.",
+            "I was too preoccupied to hear the bell."
           ]
         }
       }
@@ -919,6 +1248,34 @@
     ]
   },
   {
+    "word": "presidency",
+    "say": "PREZ-ih-dun-see",
+    "forms": [
+      "presidencies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The job or time of being a president.",
+          "examples": [
+            "She wants the presidency.",
+            "The presidency lasts four years.",
+            "His presidency was long."
+          ]
+        },
+        "more": {
+          "def": "The job of being the leader of a country or an organization, or the time when a person has this job.",
+          "examples": [
+            "The presidency of the United States lasts four years at a time.",
+            "She ran for the presidency of the school council.",
+            "The bridge was built during his presidency."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "president",
     "say": "PREZ-ih-dent",
     "forms": [
@@ -1114,6 +1471,34 @@
     ]
   },
   {
+    "word": "pretender",
+    "say": "prih-TEN-der",
+    "forms": [
+      "pretenders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who pretends to be something they are not.",
+          "examples": [
+            "The pretender was found out.",
+            "A pretender in the story.",
+            "The pretender wore a crown."
+          ]
+        },
+        "more": {
+          "def": "A person who pretends to be something or someone they are not, especially one who falsely claims to be a ruler.",
+          "examples": [
+            "In the tale, the pretender wore a crown but was not the real king.",
+            "The pretender was found out when he could not remember the royal song.",
+            "The true prince returned to chase away the pretender."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pretty",
     "say": "PRIT-ee",
     "senses": [
@@ -1187,6 +1572,36 @@
     ]
   },
   {
+    "word": "prevail",
+    "say": "prih-VAYL",
+    "forms": [
+      "prevails",
+      "prevailed",
+      "prevailing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To win in the end.",
+          "examples": [
+            "Good will prevail.",
+            "Our team prevailed.",
+            "The kind hero prevailed."
+          ]
+        },
+        "more": {
+          "def": "To win or succeed in the end, especially after a struggle or a long wait.",
+          "examples": [
+            "After a close game, our team finally prevailed by one point.",
+            "In the story, kindness prevails over greed.",
+            "The brave little tugboat prevailed against the storm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "prevent",
     "say": "prih-VENT",
     "forms": [
@@ -1211,6 +1626,36 @@
             "A helmet can prevent a head injury.",
             "The fence prevents the dog from running into the road.",
             "Washing your hands can prevent colds."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "preview",
+    "say": "PREE-vyoo",
+    "forms": [
+      "previews",
+      "previewed",
+      "previewing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short look at something before it comes out.",
+          "examples": [
+            "We saw a preview of the movie.",
+            "A preview of the show.",
+            "The preview was funny."
+          ]
+        },
+        "more": {
+          "def": "A short look at something before it is shown to everyone, such as a trailer for a movie.",
+          "examples": [
+            "We saw a preview of the new movie before the main film.",
+            "The book had a preview of the next chapter at the end.",
+            "The art show held a preview for the teachers."
           ]
         }
       }
@@ -1417,6 +1862,31 @@
             "The priest led the service at the church.",
             "The priest blessed the new building.",
             "The priest visited the sick."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "primarily",
+    "say": "pry-MAIR-ih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Mostly or mainly.",
+          "examples": [
+            "The field is primarily grass.",
+            "She is primarily a singer.",
+            "We primarily eat fruit."
+          ]
+        },
+        "more": {
+          "def": "Mainly or mostly; for the most part.",
+          "examples": [
+            "The field is primarily grass, with a few wildflowers.",
+            "She is primarily a singer, but she also plays the piano.",
+            "The soup is made primarily of potatoes."
           ]
         }
       }
@@ -1735,6 +2205,34 @@
     ]
   },
   {
+    "word": "printer",
+    "say": "PRIN-ter",
+    "forms": [
+      "printers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that puts words and pictures on paper.",
+          "examples": [
+            "The printer is out of paper.",
+            "I use the printer at school.",
+            "The printer made a copy."
+          ]
+        },
+        "more": {
+          "def": "A machine that prints words or pictures from a computer onto paper, or a person who prints books and newspapers.",
+          "examples": [
+            "I sent my story to the printer, and a page came out a moment later.",
+            "The printer ran out of ink, so we had to change it.",
+            "Long ago, a printer set each letter by hand to make a book."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "printing",
     "say": "PRIN-ting",
     "senses": [
@@ -2020,6 +2518,34 @@
     ]
   },
   {
+    "word": "probability",
+    "say": "prob-uh-BIL-ih-tee",
+    "forms": [
+      "probabilities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How likely it is that something will happen.",
+          "examples": [
+            "The probability of rain is high.",
+            "What is the probability?",
+            "The probability is small."
+          ]
+        },
+        "more": {
+          "def": "How likely it is that something will happen, often shown as a number.",
+          "examples": [
+            "The probability of rolling a six with one die is one in six.",
+            "There is a high probability of rain, so take an umbrella.",
+            "We learned about probability by flipping a coin many times."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "probably",
     "say": "PROB-uh-blee",
     "senses": [
@@ -2193,6 +2719,31 @@
             "The bus driver proceeded down the road after the light turned green.",
             "After the speech, the guests proceeded to the dining room.",
             "Please proceed to the front of the line."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "proceedings",
+    "say": "pruh-SEE-dingz",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things that happen at a meeting or event.",
+          "examples": [
+            "We watched the proceedings.",
+            "The proceedings began.",
+            "Everyone listened to the proceedings."
+          ]
+        },
+        "more": {
+          "def": "The things that happen at a meeting, a ceremony or in a court, in order.",
+          "examples": [
+            "The class watched the proceedings of the town meeting.",
+            "The proceedings began when the mayor rang a bell.",
+            "A reporter wrote down everything that happened during the proceedings."
           ]
         }
       }
@@ -2533,6 +3084,37 @@
     ]
   },
   {
+    "word": "productive",
+    "say": "pruh-DUK-tiv",
+    "related": [
+      {
+        "word": "unproductive",
+        "def": "Not productive."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Getting a lot done.",
+          "examples": [
+            "It was a productive day.",
+            "The farm is productive.",
+            "A productive meeting."
+          ]
+        },
+        "more": {
+          "def": "Producing or getting a lot of good work done.",
+          "examples": [
+            "We had a productive day and finished the whole project.",
+            "The farm was very productive this year, with lots of corn.",
+            "She is most productive in the morning, when it is quiet."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "profession",
     "say": "pruh-FESH-un",
     "forms": [
@@ -2752,6 +3334,31 @@
     ]
   },
   {
+    "word": "programming",
+    "say": "PROH-gram-ing",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Writing the steps that tell a computer what to do.",
+          "examples": [
+            "I like programming games.",
+            "Programming takes patience.",
+            "She learned programming at camp."
+          ]
+        },
+        "more": {
+          "def": "The work of writing the instructions, called code, that tell a computer or robot what to do.",
+          "examples": [
+            "Programming a robot to turn left means writing exact steps for it to follow.",
+            "My brother taught himself programming so he could make his own video game.",
+            "Our class club started learning programming with colorful blocks on a screen."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "progress",
     "say": "PROG-ress",
     "forms": [
@@ -2801,6 +3408,36 @@
     ]
   },
   {
+    "word": "prohibit",
+    "say": "proh-HIB-it",
+    "forms": [
+      "prohibits",
+      "prohibited",
+      "prohibiting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not allow something.",
+          "examples": [
+            "The sign prohibits parking.",
+            "Rules prohibit running.",
+            "The law prohibits it."
+          ]
+        },
+        "more": {
+          "def": "To say that something is not allowed, by a rule or a law.",
+          "examples": [
+            "The sign prohibits swimming in the lake.",
+            "Rules prohibit running in the hallway.",
+            "The law prohibits cars from driving on the path."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "project",
     "say": "PROJ-ekt",
     "forms": [
@@ -2829,6 +3466,53 @@
     ]
   },
   {
+    "word": "projection",
+    "say": "pruh-JEK-shun",
+    "forms": [
+      "projections"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture shown on a screen or wall.",
+          "examples": [
+            "We watched a projection on the wall.",
+            "The projection showed the stars.",
+            "A projection lit up the screen."
+          ]
+        },
+        "more": {
+          "def": "A picture or image shown on a screen or wall by a machine, or a guess about the future based on facts.",
+          "examples": [
+            "The projection of the film on the white wall made the whole class gasp.",
+            "Scientists made a projection of how many people will live in the city in ten years.",
+            "The planetarium's projection of the night sky filled the dome with stars."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part that sticks out.",
+          "examples": [
+            "A projection stuck out of the wall.",
+            "I bumped into a projection.",
+            "The ledge is a small projection."
+          ]
+        },
+        "more": {
+          "def": "A part of something that sticks out past the rest.",
+          "examples": [
+            "A rocky projection on the cliff gave the climbers a place to rest.",
+            "The coat hung on a metal projection beside the door.",
+            "The bird built its nest on a projection high on the wall."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "prom",
     "say": "prom",
     "forms": [
@@ -2851,6 +3535,31 @@
             "My cousin wore a blue dress to the prom.",
             "The prom is held in the school gym.",
             "They danced all night at the prom."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prominent",
+    "say": "PROM-ih-nunt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Easy to see or well known.",
+          "examples": [
+            "She has prominent ears.",
+            "A prominent hill.",
+            "He is a prominent doctor."
+          ]
+        },
+        "more": {
+          "def": "Easy to see because it sticks out or stands out, or important and well known.",
+          "examples": [
+            "A prominent tower stood in the middle of the town.",
+            "The prominent scientist gave a talk at our school.",
+            "The red barn is the most prominent building on the farm."
           ]
         }
       }
@@ -2949,6 +3658,87 @@
     ]
   },
   {
+    "word": "prompt",
+    "say": "prompt",
+    "forms": [
+      "prompts",
+      "prompted",
+      "prompting",
+      "promptly"
+    ],
+    "related": [
+      {
+        "word": "promptness",
+        "def": "Being quick and on time."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Quick and on time.",
+          "examples": [
+            "She gave a prompt answer.",
+            "Be prompt for school.",
+            "The prompt reply came."
+          ]
+        },
+        "more": {
+          "def": "Done quickly and without delay, or on time.",
+          "examples": [
+            "She gave a prompt reply to my letter.",
+            "The teacher asked us to be prompt for the bus.",
+            "The firefighters were prompt and put out the fire quickly."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To help someone remember what to say.",
+          "examples": [
+            "The teacher prompted me.",
+            "She prompted the actor.",
+            "Mom prompted him to say thanks."
+          ]
+        },
+        "more": {
+          "def": "To cause something to happen, or to remind someone of what to say or do.",
+          "examples": [
+            "The rain prompted us to go inside.",
+            "The teacher prompted me when I forgot the next line of the poem.",
+            "A loud noise prompted the dog to bark."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "promptly",
+    "say": "PROMPT-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Right away, or on time.",
+          "examples": [
+            "She answered promptly.",
+            "Come promptly at noon.",
+            "He promptly left."
+          ]
+        },
+        "more": {
+          "def": "Right away and without delay, or exactly on time.",
+          "examples": [
+            "She answered the phone promptly after the first ring.",
+            "We arrived promptly at noon.",
+            "The firefighters came promptly when the alarm rang."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "pronounce",
     "say": "pruh-NOWNSS",
     "forms": [
@@ -2981,6 +3771,31 @@
       {
         "word": "mispronounce",
         "def": "To say a word wrong."
+      }
+    ]
+  },
+  {
+    "word": "pronto",
+    "say": "PRON-toh",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Right away.",
+          "examples": [
+            "Come here, pronto!",
+            "Clean up your room, pronto.",
+            "Let's go, pronto!"
+          ]
+        },
+        "more": {
+          "def": "Right away, very quickly; a casual word used in speech.",
+          "examples": [
+            "\"Get your shoes on, pronto,\" Dad said, \"or we will miss the bus.\"",
+            "The coach told us to line up pronto.",
+            "I will be there pronto, as soon as I find my coat."
+          ]
+        }
       }
     ]
   },
@@ -3032,6 +3847,34 @@
             "The actor held a prop cup.",
             "The stage crew moved the props.",
             "The props for the play were kept in a box."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "propeller",
+    "say": "pruh-PEL-er",
+    "forms": [
+      "propellers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Spinning blades that push a boat or plane.",
+          "examples": [
+            "The plane has a propeller.",
+            "The propeller spins fast.",
+            "A boat propeller."
+          ]
+        },
+        "more": {
+          "def": "A set of spinning blades that push a plane or a boat forward through the air or water.",
+          "examples": [
+            "The propeller on the little plane spun so fast that it was a blur.",
+            "A boat's propeller pushes it through the water.",
+            "The ship's propeller churned the sea into foam."
           ]
         }
       }
@@ -3135,6 +3978,34 @@
             "The prophet shared a message of peace.",
             "In the story, a prophet spoke to the people.",
             "The prophet was wise and kind."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "proportion",
+    "say": "pruh-POR-shun",
+    "forms": [
+      "proportions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of a whole.",
+          "examples": [
+            "A large proportion of the class came.",
+            "The proportion is small.",
+            "Mix in equal proportion."
+          ]
+        },
+        "more": {
+          "def": "The size of one part compared with the whole or with another part.",
+          "examples": [
+            "A large proportion of the class walks to school.",
+            "The head is too big in proportion to the body in my drawing.",
+            "Mix flour and water in equal proportions to make a paste."
           ]
         }
       }
@@ -3251,6 +4122,61 @@
             "The prospect of rain worried us.",
             "She has good prospects of winning.",
             "The prospect of a trip made us happy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prosper",
+    "say": "PROS-per",
+    "forms": [
+      "prospers",
+      "prospered",
+      "prospering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To do well and be successful.",
+          "examples": [
+            "The farm prospered.",
+            "Plants prosper in sun.",
+            "Her shop prospered."
+          ]
+        },
+        "more": {
+          "def": "To do very well and become successful, especially in business or in growing.",
+          "examples": [
+            "The little shop prospered and soon opened a second store.",
+            "Plants prosper in warm, sunny places.",
+            "The town prospered after the railroad arrived."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prosperity",
+    "say": "pros-PAIR-ih-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Having a lot of money and being successful.",
+          "examples": [
+            "The town enjoyed prosperity.",
+            "A time of prosperity.",
+            "Prosperity came."
+          ]
+        },
+        "more": {
+          "def": "The condition of being successful and having enough money to live well.",
+          "examples": [
+            "The new factory brought prosperity to the town.",
+            "The farmers enjoyed prosperity after a good harvest.",
+            "We wish you health and prosperity in the new year."
           ]
         }
       }
@@ -3564,6 +4490,34 @@
     ]
   },
   {
+    "word": "provider",
+    "say": "pruh-VY-der",
+    "forms": [
+      "providers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person or a company that gives you something you need.",
+          "examples": [
+            "Dad is the provider.",
+            "The provider sends the bill.",
+            "A food provider."
+          ]
+        },
+        "more": {
+          "def": "A person or a company that supplies something that people need, such as food, a service or care.",
+          "examples": [
+            "Our internet provider sent a worker to fix the line.",
+            "Mom and Dad are the family's providers.",
+            "The food provider delivered boxes of fruit to the school."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "province",
     "say": "PROV-inss",
     "forms": [
@@ -3616,6 +4570,85 @@
             "Loud noises can provoke a cat to hiss.",
             "The teasing provoked a loud argument.",
             "The noise provoked the bees."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prowl",
+    "say": "prowl",
+    "forms": [
+      "prowls",
+      "prowled",
+      "prowling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move around quietly, looking for something.",
+          "examples": [
+            "The cat prowled.",
+            "A fox prowls at night.",
+            "The lion prowled the grass."
+          ]
+        },
+        "more": {
+          "def": "To move around quietly and secretly, as an animal does when looking for food.",
+          "examples": [
+            "The cat prowled around the yard looking for mice.",
+            "A fox prowls near the farm at night.",
+            "The lion prowled through the tall grass."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "prune",
+    "say": "proon",
+    "forms": [
+      "prunes",
+      "pruned",
+      "pruning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cut off branches to help a plant grow better.",
+          "examples": [
+            "Dad pruned the tree.",
+            "I prune the bushes.",
+            "She pruned the rose."
+          ]
+        },
+        "more": {
+          "def": "To cut off some branches or stems from a plant so that it will grow better.",
+          "examples": [
+            "Dad pruned the apple tree in the winter so it would grow more fruit.",
+            "She pruned the dead branches off the rose bush.",
+            "The gardener pruned the hedge into a neat shape."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dried plum.",
+          "examples": [
+            "I ate a prune.",
+            "Prunes are sweet.",
+            "A prune is wrinkly."
+          ]
+        },
+        "more": {
+          "def": "A plum that has been dried so that it is wrinkled, dark and sweet.",
+          "examples": [
+            "Grandma eats prunes for breakfast.",
+            "A prune is a dried plum with a chewy, sweet taste.",
+            "I put a few prunes in the oatmeal."
           ]
         }
       }

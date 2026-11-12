@@ -1,5 +1,33 @@
 [
   {
+    "word": "woe",
+    "say": "woh",
+    "forms": [
+      "woes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Great sadness.",
+          "examples": [
+            "The old tale was full of woe.",
+            "She cried in woe.",
+            "Woe came to the village."
+          ]
+        },
+        "more": {
+          "def": "Deep sadness or trouble, or a big problem.",
+          "examples": [
+            "The story told of the woe of a lost puppy looking for its home.",
+            "The farmer's woes began when the rain stopped for a whole summer.",
+            "She told us all about her woes with the broken bike."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wolf",
     "say": "wuulf",
     "emoji": "🐺",
@@ -271,6 +299,62 @@
     ]
   },
   {
+    "word": "woof",
+    "say": "wuuf",
+    "forms": [
+      "woofs",
+      "woofed",
+      "woofing"
+    ],
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "The sound a dog makes.",
+          "examples": [
+            "Woof! said the dog.",
+            "The puppy said woof.",
+            "I heard a loud woof."
+          ]
+        },
+        "more": {
+          "def": "A word for the deep sound a dog makes when it barks.",
+          "examples": [
+            "\"Woof!\" barked the big dog at the gate.",
+            "The puppy answered with a happy woof when she called its name.",
+            "Woof, woof! I could hear the dogs next door."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wool",
+    "say": "wuul",
+    "emoji": "🐑",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The soft, thick hair of a sheep.",
+          "examples": [
+            "Sheep have thick wool.",
+            "My hat is made of wool.",
+            "The wool keeps me warm."
+          ]
+        },
+        "more": {
+          "def": "The soft, thick hair of sheep, which is spun into yarn and used to make warm clothes and blankets.",
+          "examples": [
+            "Farmers cut the wool off the sheep in the spring.",
+            "Grandma knitted a warm scarf from soft blue wool.",
+            "Wool socks kept our feet warm on the snowy hike."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "woolly",
     "say": "WUUL-ee",
     "forms": [
@@ -464,6 +548,118 @@
     ]
   },
   {
+    "word": "workman",
+    "say": "WERK-mun",
+    "forms": [
+      "workmen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man who does work with his hands, like building or fixing.",
+          "examples": [
+            "The workman fixed the roof.",
+            "A workman came to the house.",
+            "The workman had tools."
+          ]
+        },
+        "more": {
+          "def": "A man whose job is to do physical work such as building or repairing.",
+          "examples": [
+            "The workman climbed the ladder to fix the roof.",
+            "A skilled workman built the stone wall.",
+            "The workmen wore hard hats."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "workout",
+    "say": "WERK-owt",
+    "forms": [
+      "workouts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Exercise that makes your body strong.",
+          "examples": [
+            "We did a workout after school.",
+            "I like a morning workout.",
+            "The workout made me tired."
+          ]
+        },
+        "more": {
+          "def": "A period of exercise to make your body stronger or to practice a sport.",
+          "examples": [
+            "The team did a hard workout of running and jumping before the game.",
+            "Mom goes for a workout at the gym on Tuesday.",
+            "A dance class is a fun workout."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "workplace",
+    "say": "WERK-plays",
+    "forms": [
+      "workplaces"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where people work.",
+          "examples": [
+            "The workplace is busy.",
+            "My mom's workplace is an office.",
+            "We visited a workplace."
+          ]
+        },
+        "more": {
+          "def": "A place where people go to do their jobs, such as an office, a factory or a shop.",
+          "examples": [
+            "My mom's workplace is a big office downtown.",
+            "We visited the fire station, and it was a busy workplace.",
+            "A safe workplace has rules to protect the workers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "workshop",
+    "say": "WERK-shop",
+    "forms": [
+      "workshops"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A room where people build or fix things.",
+          "examples": [
+            "Dad has a workshop in the garage.",
+            "The workshop is full of tools.",
+            "We built a birdhouse in the workshop."
+          ]
+        },
+        "more": {
+          "def": "A room or building where people make or repair things, or a short class where people learn by doing.",
+          "examples": [
+            "Grandpa keeps his hammers and saws in his workshop behind the house.",
+            "We joined a drawing workshop at the library on Saturday.",
+            "The workshop taught us how to build and launch a small rocket."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "world",
     "say": "werld",
     "forms": [
@@ -486,6 +682,75 @@
             "The Amazon is one of the largest rain forests in the world.",
             "People all over the world celebrate the new year.",
             "Our teacher showed us a map of the world."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "worldly",
+    "say": "WERLD-lee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with life on Earth, not spiritual things.",
+          "examples": [
+            "Worldly goods.",
+            "A worldly person.",
+            "Worldly things."
+          ]
+        },
+        "more": {
+          "def": "Having to do with life in this world, such as money and things; or having a lot of experience of the world.",
+          "examples": [
+            "The monk gave up his worldly goods and lived simply.",
+            "The worldly traveler had visited many countries.",
+            "Fame and money are worldly things."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "worldwide",
+    "say": "werld-WYD",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "All around the world.",
+          "examples": [
+            "It is a worldwide game.",
+            "The singer has worldwide fans.",
+            "A worldwide club met online."
+          ]
+        },
+        "more": {
+          "def": "Reaching or found in every part of the world.",
+          "examples": [
+            "Soccer is a worldwide sport that people love in almost every country.",
+            "The new book became a worldwide success.",
+            "Scientists from many countries joined a worldwide search for the rare bird."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "All around the world.",
+          "examples": [
+            "The song is loved worldwide.",
+            "They sell toys worldwide.",
+            "People worldwide watched the game."
+          ]
+        },
+        "more": {
+          "def": "In every part of the world.",
+          "examples": [
+            "The movie was shown worldwide in more than fifty languages.",
+            "Millions of people worldwide watched the rocket take off.",
+            "The company sells its toys worldwide."
           ]
         }
       }

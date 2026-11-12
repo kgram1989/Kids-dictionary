@@ -106,6 +106,55 @@
     ]
   },
   {
+    "word": "crackle",
+    "say": "KRAK-ul",
+    "forms": [
+      "crackles",
+      "crackled",
+      "crackling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make quick, sharp popping sounds.",
+          "examples": [
+            "The fire crackled.",
+            "Leaves crackle under my feet.",
+            "The radio crackled."
+          ]
+        },
+        "more": {
+          "def": "To make a lot of quick, sharp popping sounds, like burning wood or dry leaves.",
+          "examples": [
+            "The campfire crackled and popped as we roasted marshmallows.",
+            "Dry leaves crackled under our boots on the path.",
+            "The old radio crackled before the music came on."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A quick, sharp, popping sound.",
+          "examples": [
+            "We heard a crackle.",
+            "The crackle of the fire.",
+            "A crackle came from the radio."
+          ]
+        },
+        "more": {
+          "def": "A series of quick, sharp popping sounds, like a fire burning or a bad radio.",
+          "examples": [
+            "We listened to the crackle of the logs in the fireplace.",
+            "A crackle of static came from the radio.",
+            "The crackle of lightning made us jump."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cradle",
     "say": "KRAY-dul",
     "forms": [
@@ -202,6 +251,36 @@
     ]
   },
   {
+    "word": "cram",
+    "say": "kram",
+    "forms": [
+      "crams",
+      "crammed",
+      "cramming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To push too much into a small space.",
+          "examples": [
+            "I crammed my clothes into the bag.",
+            "He crammed books in his desk.",
+            "Cram it in the box."
+          ]
+        },
+        "more": {
+          "def": "To push or pack a lot of things into a space that is almost too small for them.",
+          "examples": [
+            "She crammed her coat and boots into the tiny locker.",
+            "We crammed five people into the back seat of the car.",
+            "The squirrel crammed nuts into its cheeks."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cramp",
     "say": "kramp",
     "forms": [
@@ -251,6 +330,35 @@
             "The room was cramped with six people.",
             "The back seat was cramped.",
             "We slept in a cramped tent."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cranberry",
+    "say": "KRAN-bair-ee",
+    "emoji": "🫐",
+    "forms": [
+      "cranberries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, sour red berry.",
+          "examples": [
+            "We had cranberry sauce.",
+            "A cranberry is red.",
+            "I drank cranberry juice."
+          ]
+        },
+        "more": {
+          "def": "A small, sour red berry that grows on low plants in wet places and is often made into sauce or juice.",
+          "examples": [
+            "Our family eats cranberry sauce with turkey on Thanksgiving.",
+            "Cranberries grow on low vines in wet fields called bogs.",
+            "The muffins were full of sweet and sour cranberries."
           ]
         }
       }
@@ -393,6 +501,93 @@
     ]
   },
   {
+    "word": "crater",
+    "say": "KRAY-ter",
+    "emoji": "🌋",
+    "forms": [
+      "craters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big round hole in the ground.",
+          "examples": [
+            "The moon has a crater.",
+            "We saw a crater on the hill.",
+            "A crater formed by a rock."
+          ]
+        },
+        "more": {
+          "def": "A large, bowl-shaped hole in the ground, made by a rock from space hitting it or by the top of a volcano.",
+          "examples": [
+            "The moon is covered in craters made by rocks that crashed into it long ago.",
+            "We looked down into the crater at the top of the volcano.",
+            "Rain filled the crater and made a small lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crave",
+    "say": "krayv",
+    "forms": [
+      "craves",
+      "craved",
+      "craving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To want something very much.",
+          "examples": [
+            "I crave a cold drink.",
+            "She craves pizza.",
+            "The puppy craves attention."
+          ]
+        },
+        "more": {
+          "def": "To want something very much, often food or attention.",
+          "examples": [
+            "After the long hike, I craved a big glass of cold water.",
+            "The puppy craves attention and follows me everywhere.",
+            "She craved something sweet after dinner."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "craving",
+    "say": "KRAY-ving",
+    "forms": [
+      "cravings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong wish for something, like food.",
+          "examples": [
+            "I have a craving for pizza.",
+            "She had a craving for sweets.",
+            "A craving came over him."
+          ]
+        },
+        "more": {
+          "def": "A very strong wish for something, especially a certain food.",
+          "examples": [
+            "After the long hike, I had a craving for a big bowl of pasta.",
+            "She had a craving for something sweet after dinner.",
+            "His craving for ice cream grew on the hot afternoon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "crawl",
     "say": "krawl",
     "emoji": "🐛",
@@ -430,6 +625,60 @@
     ]
   },
   {
+    "word": "crayon",
+    "say": "KRAY-on",
+    "emoji": "🖍️",
+    "forms": [
+      "crayons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A stick of colored wax that you draw with.",
+          "examples": [
+            "I drew with a crayon.",
+            "The red crayon broke.",
+            "A box of crayons."
+          ]
+        },
+        "more": {
+          "def": "A small stick of colored wax or chalk that is used for drawing or coloring.",
+          "examples": [
+            "I colored the sun with a yellow crayon.",
+            "The crayon melted in the hot car.",
+            "The box has sixty-four crayons in many colors."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crazed",
+    "say": "krayzd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wild and not thinking clearly.",
+          "examples": [
+            "The crazed crowd ran.",
+            "A crazed look.",
+            "The crazed bull ran."
+          ]
+        },
+        "more": {
+          "def": "Wild and out of control, as if not thinking clearly.",
+          "examples": [
+            "The crazed bull ran through the gate and across the field.",
+            "He ran about the house with a crazed look when the bees got in.",
+            "The crowd was crazed with excitement."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "crazy",
     "say": "KRAY-zee",
     "senses": [
@@ -449,6 +698,61 @@
             "The clown wore a crazy hat with a flower on top.",
             "It was a crazy day, with snow in the morning and sun by lunch.",
             "My cousin has a crazy plan to build a boat out of boxes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "creak",
+    "say": "kreek",
+    "forms": [
+      "creaks",
+      "creaked",
+      "creaking"
+    ],
+    "related": [
+      {
+        "word": "creaky",
+        "def": "Making creaking sounds."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a long, squeaky sound.",
+          "examples": [
+            "The door creaked.",
+            "The stairs creak.",
+            "The old floor creaked."
+          ]
+        },
+        "more": {
+          "def": "To make a long, high, squeaky sound, as old wood or an unoiled hinge does.",
+          "examples": [
+            "The old door creaked open slowly.",
+            "The stairs creak when you step on them.",
+            "The floorboards creaked under his feet."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, squeaky sound.",
+          "examples": [
+            "I heard a creak.",
+            "The creak of the door.",
+            "A creak on the stairs."
+          ]
+        },
+        "more": {
+          "def": "A long, high, squeaky sound, as made by old wood or a hinge.",
+          "examples": [
+            "We heard a creak from the attic.",
+            "The door opened with a loud creak.",
+            "A creak on the stairs told us someone was coming."
           ]
         }
       }
@@ -496,6 +800,55 @@
             "Mom put cream on my dry hands.",
             "Put on sun cream before you swim.",
             "The nurse gave me cream for the rash."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crease",
+    "say": "krees",
+    "forms": [
+      "creases",
+      "creased",
+      "creasing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A line made when something is folded.",
+          "examples": [
+            "There is a crease in my pants.",
+            "A crease in the paper.",
+            "Iron out the crease."
+          ]
+        },
+        "more": {
+          "def": "A line made on paper or cloth when it is folded or pressed.",
+          "examples": [
+            "Dad ironed the crease in his pants.",
+            "I made a sharp crease in the paper before I folded it into a plane.",
+            "There was a crease in the map where it was folded."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a line in something by folding it.",
+          "examples": [
+            "Don't crease the paper.",
+            "She creased the cloth.",
+            "The paper creased."
+          ]
+        },
+        "more": {
+          "def": "To make a line or fold in paper or cloth, or to get wrinkled.",
+          "examples": [
+            "Do not crease the paper, or it will not be smooth.",
+            "She creased the card down the middle.",
+            "His shirt creased in the suitcase."
           ]
         }
       }
@@ -589,6 +942,59 @@
     ]
   },
   {
+    "word": "creativity",
+    "say": "kree-ay-TIV-ih-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Thinking of new and different ideas.",
+          "examples": [
+            "Art needs creativity.",
+            "She showed creativity.",
+            "Creativity is fun."
+          ]
+        },
+        "more": {
+          "def": "The ability to think of new, original ideas or to make something new.",
+          "examples": [
+            "Painting and writing stories help to grow your creativity.",
+            "She showed great creativity when she built a robot from boxes.",
+            "The class art show was full of creativity."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "creator",
+    "say": "kree-AY-ter",
+    "forms": [
+      "creators"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who makes something new.",
+          "examples": [
+            "The creator of the game is here.",
+            "She is the creator of this song.",
+            "Who is the creator of this picture?"
+          ]
+        },
+        "more": {
+          "def": "A person who invents or makes something new, such as a story, a game or a design.",
+          "examples": [
+            "The creator of the cartoon visited our school to show how she draws.",
+            "He was the creator of the board game and wrote all the rules.",
+            "Many video creators share their ideas with people around the world."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "creature",
     "say": "KREE-cher",
     "emoji": "🐾",
@@ -659,6 +1065,34 @@
             "They bought the couch on credit.",
             "He used a credit card to pay for the tickets.",
             "The store lets you buy on credit."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "creed",
+    "say": "kreed",
+    "forms": [
+      "creeds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A set of beliefs that people share.",
+          "examples": [
+            "Their creed is kindness.",
+            "The club has a creed.",
+            "The group has a creed."
+          ]
+        },
+        "more": {
+          "def": "A set of beliefs or rules that a person or group follows.",
+          "examples": [
+            "The scout's creed asks members to help other people at all times.",
+            "The club's creed says that all members will be kind and fair.",
+            "Their family creed was to always tell the truth."
           ]
         }
       }
@@ -758,6 +1192,62 @@
     ]
   },
   {
+    "word": "crest",
+    "say": "krest",
+    "forms": [
+      "crests"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The top of a hill or a wave.",
+          "examples": [
+            "We reached the crest of the hill.",
+            "A wave's crest.",
+            "The bird has a crest."
+          ]
+        },
+        "more": {
+          "def": "The top of a hill, a mountain or a wave, or a tuft of feathers on a bird's head.",
+          "examples": [
+            "We climbed to the crest of the hill and saw the whole valley.",
+            "A wave reached its crest before it crashed on the beach.",
+            "The cardinal has a bright red crest on its head."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crevice",
+    "say": "KREV-iss",
+    "forms": [
+      "crevices"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin crack in a rock or a wall.",
+          "examples": [
+            "A lizard hid in a crevice.",
+            "A small plant grew in the crevice.",
+            "The coin fell into a crevice."
+          ]
+        },
+        "more": {
+          "def": "A narrow opening or crack, especially in a rock, where small animals or plants can live.",
+          "examples": [
+            "The lizard slipped into a crevice in the rock to stay cool.",
+            "Tiny ferns grew in every crevice of the old stone wall.",
+            "The crab hid in a crevice when the tide went out."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "crew",
     "say": "croo",
     "forms": [
@@ -780,6 +1270,34 @@
             "The ship's crew raised the sails.",
             "A road crew repaired the broken street.",
             "The film crew set up the cameras."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crewman",
+    "say": "KROO-mun",
+    "forms": [
+      "crewmen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man who works on a ship or a plane.",
+          "examples": [
+            "The crewman helped.",
+            "A crewman waved.",
+            "The crewman tied the rope."
+          ]
+        },
+        "more": {
+          "def": "A man who is a member of the crew that works on a ship, a plane or a spacecraft.",
+          "examples": [
+            "A crewman tied the rope to the dock.",
+            "The crewman checked the sails before the race.",
+            "Each crewman on the boat has a job to do."
           ]
         }
       }
@@ -1045,6 +1563,35 @@
     ]
   },
   {
+    "word": "crispy",
+    "say": "KRIS-pee",
+    "forms": [
+      "crispier",
+      "crispiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Hard and crunchy.",
+          "examples": [
+            "The bacon is crispy.",
+            "The fries are crispy.",
+            "A crispy chip."
+          ]
+        },
+        "more": {
+          "def": "Hard, dry and crunchy in a pleasant way, so that it snaps or crunches when you bite it.",
+          "examples": [
+            "The fries were golden and crispy on the outside.",
+            "I love the crispy skin of baked chicken.",
+            "The apples were fresh and crispy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "critic",
     "say": "KRIT-ik",
     "forms": [
@@ -1178,6 +1725,169 @@
     ]
   },
   {
+    "word": "critter",
+    "say": "KRIT-er",
+    "forms": [
+      "critters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal, usually a small one.",
+          "examples": [
+            "A little critter ran by.",
+            "The critters hide at night.",
+            "What critter is that?"
+          ]
+        },
+        "more": {
+          "def": "An animal, especially a small one, such as a mouse, squirrel or insect.",
+          "examples": [
+            "A small critter scurried under the porch when we walked up.",
+            "We saw all kinds of critters in the pond: frogs, bugs and fish.",
+            "Something rustled in the leaves, and a tiny critter ran away."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "croak",
+    "say": "krohk",
+    "forms": [
+      "croaks",
+      "croaked",
+      "croaking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a low, rough sound, like a frog.",
+          "examples": [
+            "The frog croaked.",
+            "A raven croaks.",
+            "My voice croaked."
+          ]
+        },
+        "more": {
+          "def": "To make a low, rough sound like the sound of a frog or a crow, or to speak in a rough, hoarse voice.",
+          "examples": [
+            "The frog croaked loudly by the pond at night.",
+            "A crow croaked from the top of the tree.",
+            "With a sore throat, my voice croaked."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A low, rough sound.",
+          "examples": [
+            "I heard a croak.",
+            "The frog's croak.",
+            "A croak came from the pond."
+          ]
+        },
+        "more": {
+          "def": "A low, rough sound like the call of a frog or a crow.",
+          "examples": [
+            "We heard the croak of a frog from the pond.",
+            "The old gate opened with a croak.",
+            "He spoke in a hoarse croak."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crock",
+    "say": "krok",
+    "forms": [
+      "crocks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big pot made of clay.",
+          "examples": [
+            "The soup is in a crock.",
+            "A crock of butter.",
+            "The crock is heavy."
+          ]
+        },
+        "more": {
+          "def": "A large pot or jar made of baked clay, used for cooking or for keeping food.",
+          "examples": [
+            "Grandma kept pickles in a big clay crock.",
+            "A crock of soup simmered on the stove all afternoon.",
+            "The old crock was filled with butter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crocodile",
+    "say": "KROK-uh-dyl",
+    "emoji": "🐊",
+    "forms": [
+      "crocodiles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big animal with scaly skin and strong jaws that lives in water.",
+          "examples": [
+            "A crocodile swam in the river.",
+            "The crocodile has big teeth.",
+            "We saw a crocodile at the zoo."
+          ]
+        },
+        "more": {
+          "def": "A large reptile with a long snout, strong jaws and thick, scaly skin that lives in rivers and swamps in warm countries.",
+          "examples": [
+            "A crocodile lay still in the muddy river, with only its eyes above the water.",
+            "The crocodile has a long, narrow snout and powerful jaws.",
+            "Crocodiles lay their eggs on the riverbank."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "croissant",
+    "say": "kruh-SAHNT",
+    "emoji": "🥐",
+    "forms": [
+      "croissants"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft, curved pastry that is flaky.",
+          "examples": [
+            "I ate a croissant.",
+            "The croissant is warm.",
+            "A buttery croissant."
+          ]
+        },
+        "more": {
+          "def": "A soft, flaky, curved roll made with lots of butter, often eaten for breakfast.",
+          "examples": [
+            "I ate a warm, buttery croissant for breakfast.",
+            "The croissant was flaky and left crumbs on my plate.",
+            "A croissant is a curved pastry from France."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "crooked",
     "say": "KRUUK-id",
     "senses": [
@@ -1293,6 +2003,89 @@
             "He was cross because his sister borrowed his bike.",
             "The cross cat hissed at the dog.",
             "Do not be cross with me."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crossroads",
+    "say": "KRAWS-rohdz",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where two roads meet.",
+          "examples": [
+            "We stopped at the crossroads.",
+            "The crossroads had a sign.",
+            "Turn left at the crossroads."
+          ]
+        },
+        "more": {
+          "def": "A place where two or more roads cross, or an important time when you must make a big choice.",
+          "examples": [
+            "We stopped at the crossroads to check the map.",
+            "A signpost at the crossroads pointed to three towns.",
+            "She was at a crossroads in her life and had to decide on a school."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crossword",
+    "say": "KRAWS-werd",
+    "forms": [
+      "crosswords"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word puzzle where you write words in boxes.",
+          "examples": [
+            "I did a crossword.",
+            "The crossword has clues.",
+            "She likes crosswords."
+          ]
+        },
+        "more": {
+          "def": "A word puzzle in which you fill in boxes with letters to make words that cross each other, using clues.",
+          "examples": [
+            "I filled in the crossword using the clues.",
+            "Grandpa does a crossword puzzle every morning with his coffee.",
+            "The crossword had a clue for a five-letter animal."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crouch",
+    "say": "krowch",
+    "forms": [
+      "crouches",
+      "crouched",
+      "crouching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To bend your knees and lower your body.",
+          "examples": [
+            "The cat crouched.",
+            "I crouched behind the sofa.",
+            "He crouched down."
+          ]
+        },
+        "more": {
+          "def": "To bend your knees and lower your body close to the ground.",
+          "examples": [
+            "The cat crouched in the grass, ready to pounce.",
+            "We crouched behind the bush and waited.",
+            "He crouched down to tie his shoe."
           ]
         }
       }
@@ -1451,6 +2244,78 @@
             "Water is crucial for every plant and animal on Earth.",
             "It was crucial that we arrive before the show started.",
             "She scored the crucial goal in the last minute of the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crucifix",
+    "say": "KROO-suh-fiks",
+    "forms": [
+      "crucifixes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cross with a figure of Jesus on it.",
+          "examples": [
+            "A crucifix hung on the wall.",
+            "The church has a crucifix.",
+            "She wore a crucifix."
+          ]
+        },
+        "more": {
+          "def": "A cross with a figure of Jesus on it, used as a symbol in some Christian churches and homes.",
+          "examples": [
+            "A crucifix hung on the wall of the church.",
+            "She wore a small gold crucifix on a chain.",
+            "Many Christians keep a crucifix at home."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crude",
+    "say": "krood",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Simple and rough, not finished well.",
+          "examples": [
+            "He made a crude boat.",
+            "A crude drawing.",
+            "The table was crude."
+          ]
+        },
+        "more": {
+          "def": "Made in a simple, rough way, without much care or skill.",
+          "examples": [
+            "He built a crude raft out of logs and rope.",
+            "She drew a crude map of the island with a stick in the sand.",
+            "The crude shelter kept off the wind but not the rain."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Natural and not cleaned yet, like oil straight from the ground.",
+          "examples": [
+            "Crude oil is black.",
+            "The crude oil came out of the ground.",
+            "Crude oil is thick and sticky."
+          ]
+        },
+        "more": {
+          "def": "In its natural state, before it has been cleaned or made into something else.",
+          "examples": [
+            "Crude oil is a thick black liquid that comes out of the ground.",
+            "Workers pump crude oil from deep wells.",
+            "Crude oil is cleaned in a factory to make gasoline."
           ]
         }
       }
@@ -1834,6 +2699,34 @@
             "The Earth's crust is made of solid rock.",
             "A thin crust of ice formed on the pond overnight.",
             "Volcanoes burst through the crust of the Earth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "crutch",
+    "say": "kruch",
+    "forms": [
+      "crutches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A stick that helps you walk when your leg is hurt.",
+          "examples": [
+            "He walks with a crutch.",
+            "She has two crutches.",
+            "The crutch helped me walk."
+          ]
+        },
+        "more": {
+          "def": "A stick that fits under the arm and helps a person walk when a leg or foot is hurt.",
+          "examples": [
+            "After he twisted his ankle, he used crutches to get around school.",
+            "She leaned her crutch against the wall while she sat down.",
+            "The nurse showed me how to walk with the crutches."
           ]
         }
       }

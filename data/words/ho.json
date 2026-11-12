@@ -54,6 +54,37 @@
     ]
   },
   {
+    "word": "hoe",
+    "say": "hoh",
+    "forms": [
+      "hoes",
+      "hoed",
+      "hoeing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "say": "hoh",
+        "easy": {
+          "def": "A garden tool with a long handle and a flat blade.",
+          "examples": [
+            "I used a hoe.",
+            "The hoe is in the shed.",
+            "Dad dug with a hoe."
+          ]
+        },
+        "more": {
+          "def": "A garden tool with a long handle and a flat blade that is used to dig up weeds and loosen the soil.",
+          "examples": [
+            "Dad used a hoe to dig up the weeds in the garden.",
+            "She hung the hoe on a hook in the shed.",
+            "The farmer worked the soil with a hoe."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hog",
     "say": "hog",
     "emoji": "🐖",
@@ -143,6 +174,62 @@
     ]
   },
   {
+    "word": "holder",
+    "say": "HOHL-der",
+    "forms": [
+      "holders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that holds or keeps things.",
+          "examples": [
+            "I put the pen in the holder.",
+            "A cup holder is in the car.",
+            "The candle holder is gold."
+          ]
+        },
+        "more": {
+          "def": "A thing made to hold something, or a person who has or owns something.",
+          "examples": [
+            "She put the candle in a glass holder.",
+            "The car has a holder for drinks.",
+            "The holder of the record for the longest jump visited our school."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "holdup",
+    "say": "HOHLD-up",
+    "forms": [
+      "holdups"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that makes you late.",
+          "examples": [
+            "There was a holdup on the road.",
+            "What is the holdup?",
+            "The holdup made us late."
+          ]
+        },
+        "more": {
+          "def": "A delay, or something that makes things take longer than expected.",
+          "examples": [
+            "A holdup on the road made us late for the game.",
+            "What is the holdup? We have been waiting for ten minutes.",
+            "A broken machine caused a holdup at the factory."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hole",
     "say": "hohl",
     "emoji": "🕳️",
@@ -220,6 +307,31 @@
             "They took a holiday at the beach.",
             "Our school has a long holiday in summer.",
             "Dad took a holiday from work to go camping."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "holiness",
+    "say": "HOH-lee-nis",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being very good and special in a way that is close to God.",
+          "examples": [
+            "People spoke of the holiness of the temple.",
+            "The monk was known for his holiness.",
+            "They felt holiness in the quiet church."
+          ]
+        },
+        "more": {
+          "def": "The quality of being holy, or very special and deserving great respect, especially in religion.",
+          "examples": [
+            "Visitors spoke softly in the temple out of respect for its holiness.",
+            "People travel far to the place because of its holiness.",
+            "The monk was known for his kindness and holiness."
           ]
         }
       }
@@ -304,6 +416,34 @@
             "We hung holly on the door in December.",
             "The holly bush had bright red berries.",
             "Birds ate the berries of the holly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "holster",
+    "say": "HOHL-ster",
+    "forms": [
+      "holsters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A case you wear on your belt to hold a tool.",
+          "examples": [
+            "The cowboy had a holster.",
+            "A holster hangs on a belt.",
+            "The holster was leather."
+          ]
+        },
+        "more": {
+          "def": "A case, usually made of leather, that is worn on a belt to hold a tool or a small weapon.",
+          "examples": [
+            "The cowboy in the old movie wore a leather holster on his belt.",
+            "The park ranger kept her radio in a holster on her belt.",
+            "The holster hung from a strap on his hip."
           ]
         }
       }
@@ -420,6 +560,90 @@
             "The shelter helps homeless families.",
             "The homeless puppy was found in a box.",
             "After the fire, the family was homeless for a week."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "homemade",
+    "say": "HOHM-mayd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Made at home, not bought at a store.",
+          "examples": [
+            "Grandma baked homemade bread.",
+            "I love homemade soup.",
+            "This is a homemade card."
+          ]
+        },
+        "more": {
+          "def": "Made at home by a person, rather than made in a factory or bought at a store.",
+          "examples": [
+            "Grandma's homemade bread filled the whole house with a warm smell.",
+            "I gave my dad a homemade card with a drawing of his favorite fish.",
+            "We made homemade lemonade for the stand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "homeowner",
+    "say": "HOHM-oh-ner",
+    "forms": [
+      "homeowners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who owns a house.",
+          "examples": [
+            "The homeowner mowed the lawn.",
+            "A homeowner pays for repairs.",
+            "The homeowner waved."
+          ]
+        },
+        "more": {
+          "def": "A person who owns the house or apartment that they live in.",
+          "examples": [
+            "The homeowner painted the fence a bright white.",
+            "Every homeowner on our street keeps the yard neat.",
+            "A homeowner has to pay for repairs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "homesick",
+    "say": "HOHM-sik",
+    "related": [
+      {
+        "word": "homesickness",
+        "def": "The sad feeling of missing home."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sad because you miss home.",
+          "examples": [
+            "I felt homesick at camp.",
+            "She was homesick.",
+            "He gets homesick."
+          ]
+        },
+        "more": {
+          "def": "Feeling sad because you are away from home and miss your family.",
+          "examples": [
+            "I felt homesick on the first night at camp.",
+            "She was homesick and called her mom to say goodnight.",
+            "Many children feel homesick when they sleep away from home."
           ]
         }
       }
@@ -715,6 +939,31 @@
     ]
   },
   {
+    "word": "honorary",
+    "say": "ON-uh-rair-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Given as an honor, not for real.",
+          "examples": [
+            "An honorary member.",
+            "An honorary title.",
+            "She is an honorary citizen."
+          ]
+        },
+        "more": {
+          "def": "Given as an honor and not because the person earned or has the real position.",
+          "examples": [
+            "The class made our guest an honorary member of the club.",
+            "She received an honorary award for her kind work.",
+            "He was named honorary mayor for a day."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hood",
     "say": "huud",
     "forms": [
@@ -1001,6 +1250,37 @@
     ]
   },
   {
+    "word": "hopeful",
+    "say": "HOHP-ful",
+    "related": [
+      {
+        "word": "hopefulness",
+        "def": "Being full of hope."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling that good things may happen.",
+          "examples": [
+            "I am hopeful about the test.",
+            "She felt hopeful.",
+            "We are hopeful that it will not rain."
+          ]
+        },
+        "more": {
+          "def": "Feeling that what you want is likely to happen, or showing that feeling.",
+          "examples": [
+            "We were hopeful that the sun would come out in time for the picnic.",
+            "The hopeful puppy sat by the door and wagged its tail.",
+            "She gave her teacher a hopeful smile before the results came out."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hopefully",
     "say": "HOHP-ful-ee",
     "senses": [
@@ -1060,6 +1340,34 @@
     ]
   },
   {
+    "word": "horde",
+    "say": "hord",
+    "forms": [
+      "hordes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very big crowd.",
+          "examples": [
+            "A horde of kids came.",
+            "A horde of ants.",
+            "The horde ran by."
+          ]
+        },
+        "more": {
+          "def": "A very large crowd of people or animals that move together.",
+          "examples": [
+            "A horde of ants swarmed over the picnic cake.",
+            "A horde of excited children ran out of the school.",
+            "Hordes of tourists visit the museum in summer."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "horizon",
     "say": "huh-RY-zun",
     "emoji": "🌅",
@@ -1083,6 +1391,31 @@
             "A ship appeared as a tiny dot on the horizon.",
             "Dark clouds gathered on the horizon.",
             "The road stretched all the way to the horizon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "horizontal",
+    "say": "hor-ih-ZON-tul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Flat and going from side to side.",
+          "examples": [
+            "A horizontal line.",
+            "The bar is horizontal.",
+            "A horizontal stripe."
+          ]
+        },
+        "more": {
+          "def": "Going from side to side and level with the ground, like the horizon.",
+          "examples": [
+            "Draw a horizontal line across the page.",
+            "The flag has three horizontal stripes of red, white and blue.",
+            "The horizontal bar was level with the floor."
           ]
         }
       }
@@ -1137,6 +1470,35 @@
     ]
   },
   {
+    "word": "hornet",
+    "say": "HOR-nit",
+    "emoji": "🐝",
+    "forms": [
+      "hornets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big wasp that can sting.",
+          "examples": [
+            "A hornet buzzed.",
+            "The hornet has a nest.",
+            "Stay away from the hornet."
+          ]
+        },
+        "more": {
+          "def": "A large wasp with a painful sting that builds a paper nest and can sting many times.",
+          "examples": [
+            "A hornet built a big paper nest under the eaves of the barn.",
+            "Hornets can sting more than once, so stay away from their nests.",
+            "The hornet buzzed angrily around the garbage can."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "horrible",
     "say": "HOR-uh-bul",
     "senses": [
@@ -1181,6 +1543,61 @@
             "The fish smelled horribly after a day in the sun.",
             "The old bus smelled horribly of smoke.",
             "He felt horribly sorry for the mistake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "horrid",
+    "say": "HOR-id",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very bad or nasty.",
+          "examples": [
+            "The weather was horrid.",
+            "A horrid smell.",
+            "He had a horrid cold."
+          ]
+        },
+        "more": {
+          "def": "Very unpleasant or nasty.",
+          "examples": [
+            "The soup had a horrid taste, so I could not finish it.",
+            "We had horrid weather on our trip, with cold rain every day.",
+            "A horrid smell came from the garbage can."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "horrify",
+    "say": "HOR-ih-fy",
+    "forms": [
+      "horrifies",
+      "horrified",
+      "horrifying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shock and scare someone.",
+          "examples": [
+            "The mess horrified Mom.",
+            "The sight horrified me.",
+            "The news horrified them."
+          ]
+        },
+        "more": {
+          "def": "To shock or frighten someone very much.",
+          "examples": [
+            "The mess in the kitchen horrified Mom.",
+            "The sight of the huge spider horrified me.",
+            "It horrified the class to find that the pet was missing."
           ]
         }
       }
@@ -1238,6 +1655,87 @@
             "Farmers once used a horse to pull plows.",
             "The horse galloped across the open field.",
             "She brushed the horse's mane and gave it an apple."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "horseback",
+    "say": "HORSS-bak",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The back of a horse.",
+          "examples": [
+            "We rode on horseback.",
+            "He traveled on horseback.",
+            "Riding on horseback is fun."
+          ]
+        },
+        "more": {
+          "def": "The back of a horse, as in riding a horse.",
+          "examples": [
+            "The cowboys traveled on horseback across the plains.",
+            "We went on a trail ride on horseback.",
+            "The soldier arrived on horseback."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "horseman",
+    "say": "HORSS-mun",
+    "forms": [
+      "horsemen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man who rides a horse.",
+          "examples": [
+            "The horseman rode fast.",
+            "A horseman came to town.",
+            "The horseman waved."
+          ]
+        },
+        "more": {
+          "def": "A man who rides horses, especially one who is skilled at riding.",
+          "examples": [
+            "The horseman galloped across the field with his cape flying.",
+            "A skilled horseman can guide a horse with just a touch.",
+            "The horsemen rode through the village at noon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "horseshoe",
+    "say": "HORSS-shoo",
+    "forms": [
+      "horseshoes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A curved piece of metal nailed to a horse's foot.",
+          "examples": [
+            "The horse lost a horseshoe.",
+            "A horseshoe is metal.",
+            "A lucky horseshoe."
+          ]
+        },
+        "more": {
+          "def": "A U-shaped piece of metal that is nailed to a horse's hoof to protect it; also thought to bring good luck.",
+          "examples": [
+            "The blacksmith nailed a new horseshoe onto the horse's hoof.",
+            "We hung a lucky horseshoe over the barn door.",
+            "A horseshoe is shaped like the letter U."
           ]
         }
       }
@@ -1506,6 +2004,34 @@
     ]
   },
   {
+    "word": "hotline",
+    "say": "HOT-lyn",
+    "forms": [
+      "hotlines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A phone line for getting help right away.",
+          "examples": [
+            "Call the hotline.",
+            "The hotline is open.",
+            "A hotline for help."
+          ]
+        },
+        "more": {
+          "def": "A telephone line that people can call to get help or information quickly, often in an emergency.",
+          "examples": [
+            "Call the help hotline if you need to ask a question.",
+            "The hotline was open all night.",
+            "The weather hotline gives updates on storms."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hotshot",
     "say": "HOT-shot",
     "forms": [
@@ -1668,6 +2194,31 @@
             "The housekeeper cleaned the whole house.",
             "A hotel housekeeper left fresh towels.",
             "The housekeeper made the beds each morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "housekeeping",
+    "say": "HOWS-kee-ping",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The work of keeping a home or hotel clean.",
+          "examples": [
+            "Mom does the housekeeping.",
+            "The hotel has housekeeping.",
+            "Housekeeping cleaned my room."
+          ]
+        },
+        "more": {
+          "def": "The job of keeping a home or hotel clean and tidy, including making beds, washing and shopping.",
+          "examples": [
+            "Housekeeping at the hotel changed the sheets and left fresh towels.",
+            "Grandma was in charge of the housekeeping on the farm.",
+            "Housekeeping is easier when everyone in the family helps."
           ]
         }
       }

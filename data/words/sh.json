@@ -1,5 +1,34 @@
 [
   {
+    "word": "shabby",
+    "say": "SHAB-ee",
+    "forms": [
+      "shabbier",
+      "shabbiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Old, worn and in poor shape.",
+          "examples": [
+            "The coat was shabby.",
+            "A shabby old chair.",
+            "The house looked shabby."
+          ]
+        },
+        "more": {
+          "def": "Old, worn out and in poor condition.",
+          "examples": [
+            "The old chair was shabby, with a torn seat and a loose leg.",
+            "He wore a shabby coat with patches on the elbows.",
+            "The shabby house needed a fresh coat of paint."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shack",
     "say": "shak",
     "forms": [
@@ -106,6 +135,60 @@
     ]
   },
   {
+    "word": "shadowy",
+    "say": "SHAD-oh-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Dark and full of shadows.",
+          "examples": [
+            "A shadowy room.",
+            "The shadowy forest.",
+            "A shadowy path."
+          ]
+        },
+        "more": {
+          "def": "Full of shadows, dark and hard to see clearly.",
+          "examples": [
+            "The shadowy hall was lit by a single candle.",
+            "A shadowy figure stood at the end of the path.",
+            "We walked through the shadowy woods at dusk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shady",
+    "say": "SHAY-dee",
+    "forms": [
+      "shadier",
+      "shadiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Covered with shade, not sunny.",
+          "examples": [
+            "We sat in a shady spot.",
+            "The path is shady.",
+            "A shady tree."
+          ]
+        },
+        "more": {
+          "def": "Giving shade or covered by shade, so that it is cool and out of the sun.",
+          "examples": [
+            "We ate lunch in a cool, shady spot under the oak tree.",
+            "The shady path through the woods was a relief on the hot day.",
+            "The old tree made the yard nice and shady."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shaft",
     "say": "shaft",
     "forms": [
@@ -188,6 +271,63 @@
             "Shake the bottle before you pour.",
             "The wet dog shook itself dry.",
             "The ground shook when the train passed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shaker",
+    "say": "SHAY-ker",
+    "forms": [
+      "shakers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A container that you shake to put out salt or pepper.",
+          "examples": [
+            "Pass the salt shaker.",
+            "The shaker is full.",
+            "I used the shaker."
+          ]
+        },
+        "more": {
+          "def": "A container with holes in the top that you shake to sprinkle things, such as salt, or a container used to mix drinks.",
+          "examples": [
+            "Please pass the salt shaker.",
+            "He used a shaker to mix the juice and ice.",
+            "The cheese shaker was empty."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shaky",
+    "say": "SHAY-kee",
+    "forms": [
+      "shakier",
+      "shakiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not steady.",
+          "examples": [
+            "The ladder is shaky.",
+            "I had a shaky voice.",
+            "The table felt shaky."
+          ]
+        },
+        "more": {
+          "def": "Not steady or strong, so that it wobbles or trembles.",
+          "examples": [
+            "The old bridge felt shaky as we walked across it.",
+            "Her voice was shaky when she began her speech.",
+            "He carried the shaky tower of blocks across the room very carefully."
           ]
         }
       }
@@ -289,6 +429,56 @@
             "It is a shame that it rained on the day of the picnic.",
             "What a shame that you cannot come.",
             "It would be a shame to waste the cake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shameful",
+    "say": "SHAYM-ful",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "So bad that you should feel sorry.",
+          "examples": [
+            "It was shameful to cheat.",
+            "A shameful act.",
+            "He felt it was shameful."
+          ]
+        },
+        "more": {
+          "def": "Causing a feeling of shame because it is wrong or very bad.",
+          "examples": [
+            "It was shameful to cheat on the test.",
+            "The mean trick was a shameful thing to do.",
+            "He felt it was shameful to laugh at someone who had fallen."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shameless",
+    "say": "SHAYM-lis",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not feeling sorry for doing something wrong.",
+          "examples": [
+            "It was a shameless trick.",
+            "He was shameless.",
+            "A shameless liar."
+          ]
+        },
+        "more": {
+          "def": "Not feeling or showing shame for doing something wrong or rude.",
+          "examples": [
+            "It was a shameless trick to take the biggest cookie.",
+            "The shameless puppy stole my sandwich and wagged its tail.",
+            "He was shameless about asking for seconds."
           ]
         }
       }
@@ -428,6 +618,34 @@
     ]
   },
   {
+    "word": "shareholder",
+    "say": "SHAIR-hohl-der",
+    "forms": [
+      "shareholders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who owns a small part of a company.",
+          "examples": [
+            "A shareholder owns a part.",
+            "The shareholders met.",
+            "She is a shareholder."
+          ]
+        },
+        "more": {
+          "def": "A person who owns shares, which are small parts, in a company.",
+          "examples": [
+            "Each shareholder gets a part of the company's profit.",
+            "The shareholders met once a year to vote.",
+            "My aunt is a shareholder in a bakery."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shark",
     "say": "shark",
     "emoji": "🦈",
@@ -494,6 +712,42 @@
     ]
   },
   {
+    "word": "sharpen",
+    "say": "SHAR-pun",
+    "forms": [
+      "sharpens",
+      "sharpened",
+      "sharpening"
+    ],
+    "related": [
+      {
+        "word": "sharpener",
+        "def": "A tool used to make things sharp."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something sharp.",
+          "examples": [
+            "I sharpen my pencil.",
+            "Dad sharpened the knife.",
+            "She sharpened the crayon."
+          ]
+        },
+        "more": {
+          "def": "To make something sharper, such as a pencil or a knife, by rubbing or cutting away the edge.",
+          "examples": [
+            "I sharpen my pencil before every test.",
+            "Dad sharpened the shovel with a metal file.",
+            "She sharpened the crayons with a small tool."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shatter",
     "say": "SHAT-er",
     "forms": [
@@ -548,6 +802,34 @@
             "Dad shaves his beard every morning.",
             "The farmers shave the wool off the sheep in spring.",
             "The barber shaved the back of his neck."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shawl",
+    "say": "shawl",
+    "forms": [
+      "shawls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large piece of cloth worn over the shoulders.",
+          "examples": [
+            "Grandma wore a shawl.",
+            "A warm shawl.",
+            "She wrapped herself in a shawl."
+          ]
+        },
+        "more": {
+          "def": "A large piece of cloth that is worn over the shoulders or head to keep warm.",
+          "examples": [
+            "Grandma wrapped a warm wool shawl around her shoulders.",
+            "She wore a lace shawl to the wedding.",
+            "The shawl was knitted from soft yarn."
           ]
         }
       }
@@ -651,6 +933,31 @@
             "The farmer sheared the sheep in spring.",
             "A flock of sheep grazed on the hill.",
             "Wool for my sweater came from a sheep."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sheepish",
+    "say": "SHEE-pish",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A little shy and silly because you did something wrong.",
+          "examples": [
+            "He gave a sheepish smile.",
+            "I felt sheepish about the mess.",
+            "She looked sheepish."
+          ]
+        },
+        "more": {
+          "def": "Feeling a little embarrassed because you have done something silly or made a small mistake.",
+          "examples": [
+            "Ben gave a sheepish grin when he realized he had put his shoes on the wrong feet.",
+            "She felt sheepish about being late again.",
+            "The dog looked sheepish after chewing the cushion."
           ]
         }
       }
@@ -1425,6 +1732,34 @@
     ]
   },
   {
+    "word": "shoelace",
+    "say": "SHOO-lays",
+    "forms": [
+      "shoelaces"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A string you tie to close your shoe.",
+          "examples": [
+            "I tied my shoelace.",
+            "My shoelace came undone.",
+            "A long shoelace."
+          ]
+        },
+        "more": {
+          "def": "A string or a cord that is threaded through the holes of a shoe and tied to keep the shoe on.",
+          "examples": [
+            "I bent down to tie my shoelace before the race.",
+            "My shoelace came undone and I tripped.",
+            "He learned to tie his shoelaces by himself."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shoot",
     "say": "shoot",
     "forms": [
@@ -1543,6 +1878,34 @@
     ]
   },
   {
+    "word": "shopper",
+    "say": "SHOP-er",
+    "forms": [
+      "shoppers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who buys things at a store.",
+          "examples": [
+            "The shopper filled the cart.",
+            "Shoppers were in line.",
+            "A busy shopper."
+          ]
+        },
+        "more": {
+          "def": "A person who goes to stores to buy things.",
+          "examples": [
+            "The shopper filled her cart with fruit and bread.",
+            "Shoppers crowded the mall on Saturday.",
+            "A smart shopper compares prices before buying."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shopping",
     "say": "SHOP-ing",
     "senses": [
@@ -1635,6 +1998,34 @@
     ]
   },
   {
+    "word": "shortage",
+    "say": "SHOR-tij",
+    "forms": [
+      "shortages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Not having enough of something.",
+          "examples": [
+            "There is a shortage of milk.",
+            "The shortage of paper made us sad.",
+            "A shortage of food worried them."
+          ]
+        },
+        "more": {
+          "def": "A situation in which there is not enough of something that people need.",
+          "examples": [
+            "A shortage of rain left the farmers' fields dry that summer.",
+            "The store had a shortage of milk after the big storm.",
+            "There is a shortage of books for our class, so we share."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shortcut",
     "say": "SHORT-kut",
     "forms": [
@@ -1657,6 +2048,36 @@
             "We took a shortcut across the field to get home sooner.",
             "Dad knew a shortcut that saved us ten minutes.",
             "There is no shortcut to learning how to play the piano."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shorten",
+    "say": "SHOR-tun",
+    "forms": [
+      "shortens",
+      "shortened",
+      "shortening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make shorter.",
+          "examples": [
+            "Mom shortened my pants.",
+            "Shorten the rope.",
+            "The days shorten in fall."
+          ]
+        },
+        "more": {
+          "def": "To make something shorter in length or time, or to become shorter.",
+          "examples": [
+            "Mom shortened my pants so that they would not drag on the ground.",
+            "The days shorten in the fall as winter comes.",
+            "We shortened our trip because of the storm."
           ]
         }
       }
@@ -2038,6 +2459,113 @@
     ]
   },
   {
+    "word": "shrew",
+    "say": "shroo",
+    "emoji": "🐭",
+    "forms": [
+      "shrews"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny animal like a mouse with a long nose.",
+          "examples": [
+            "A shrew ran by.",
+            "The shrew is tiny.",
+            "We saw a shrew."
+          ]
+        },
+        "more": {
+          "def": "A tiny animal like a mouse that has a long, pointed nose and eats insects and worms.",
+          "examples": [
+            "A tiny shrew scurried under the leaves looking for insects.",
+            "A shrew has a long, pointed nose and very small eyes.",
+            "Shrews must eat all day because they burn so much energy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shrewd",
+    "say": "shrood",
+    "forms": [
+      "shrewder",
+      "shrewdest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Clever about how to get what you want.",
+          "examples": [
+            "A shrewd fox.",
+            "The shrewd girl won.",
+            "A shrewd plan."
+          ]
+        },
+        "more": {
+          "def": "Clever and quick to see how to get what you want, especially in making choices.",
+          "examples": [
+            "The shrewd fox waited until the farmer left before sneaking in.",
+            "She made a shrewd choice and saved her money for a bigger toy.",
+            "The shrewd shopper found the best price."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shriek",
+    "say": "shreek",
+    "forms": [
+      "shrieks",
+      "shrieked",
+      "shrieking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give a loud, high cry.",
+          "examples": [
+            "She shrieked with joy.",
+            "The kids shrieked.",
+            "He shrieked when he saw a mouse."
+          ]
+        },
+        "more": {
+          "def": "To give a loud, sharp, high cry because of fear, excitement or pain.",
+          "examples": [
+            "The children shrieked with joy as they ran through the sprinkler.",
+            "She shrieked when a spider dropped onto her arm.",
+            "The seagulls shrieked above the beach."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loud, high cry.",
+          "examples": [
+            "I heard a shriek.",
+            "A shriek came from the pool.",
+            "She let out a shriek."
+          ]
+        },
+        "more": {
+          "def": "A loud, sharp, high cry.",
+          "examples": [
+            "A shriek of laughter came from the playground.",
+            "The kettle gave a shriek when the water boiled.",
+            "We heard a shriek and ran to see what had happened."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shrill",
     "say": "shril",
     "forms": [
@@ -2096,6 +2624,34 @@
     ]
   },
   {
+    "word": "shrine",
+    "say": "shryn",
+    "forms": [
+      "shrines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A special place where people go to show respect.",
+          "examples": [
+            "We visited a shrine on our trip.",
+            "A small shrine stood on the hill.",
+            "People left flowers at the shrine."
+          ]
+        },
+        "more": {
+          "def": "A holy or special place where people come to pray, remember someone or show their respect.",
+          "examples": [
+            "Visitors walked up the long stairs to the quiet mountain shrine.",
+            "A small shrine near the village held flowers and candles.",
+            "The museum was once a shrine to honor a famous poet."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shrink",
     "say": "shringk",
     "forms": [
@@ -2121,6 +2677,36 @@
             "My sweater shrank in the dryer.",
             "The puddle shrank in the hot sun.",
             "The balloon shrinks as the air leaks out."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shudder",
+    "say": "SHUD-er",
+    "forms": [
+      "shudders",
+      "shuddered",
+      "shuddering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shake because of fear or cold.",
+          "examples": [
+            "I shuddered.",
+            "She shuddered in the cold.",
+            "The thought made me shudder."
+          ]
+        },
+        "more": {
+          "def": "To shake suddenly for a moment, because of fear, cold or disgust.",
+          "examples": [
+            "I shuddered when I touched the cold, slimy frog.",
+            "She shuddered in the freezing wind.",
+            "The thought of eating snails made him shudder."
           ]
         }
       }
@@ -2176,6 +2762,36 @@
     ]
   },
   {
+    "word": "shush",
+    "say": "shush",
+    "forms": [
+      "shushes",
+      "shushed",
+      "shushing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell someone to be quiet.",
+          "examples": [
+            "The librarian shushed us.",
+            "Mom shushed the baby.",
+            "I shushed my friend."
+          ]
+        },
+        "more": {
+          "def": "To tell someone to be quiet, usually by saying \"shh\" or holding a finger to the lips.",
+          "examples": [
+            "The librarian shushed us when we started talking too loudly.",
+            "Dad shushed the children so the baby could sleep.",
+            "She shushed her brother and pointed to the sleeping cat."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shut",
     "say": "shut",
     "forms": [
@@ -2199,6 +2815,62 @@
             "Please shut the gate so the sheep stay in the field.",
             "He shut the lid on the box.",
             "The shop shuts at six o'clock."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shutdown",
+    "say": "SHUT-down",
+    "forms": [
+      "shutdowns"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When a machine or business stops for a time.",
+          "examples": [
+            "There was a shutdown.",
+            "The shutdown lasted a day.",
+            "A computer shutdown."
+          ]
+        },
+        "more": {
+          "def": "The act of stopping a machine, a factory or a business from working for a time.",
+          "examples": [
+            "The factory had a shutdown for repairs.",
+            "A power cut caused the computer shutdown.",
+            "The storm led to a shutdown of the airport."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shutter",
+    "say": "SHUT-er",
+    "forms": [
+      "shutters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cover that opens and closes over a window.",
+          "examples": [
+            "Close the shutter.",
+            "The window has shutters.",
+            "The shutters are blue."
+          ]
+        },
+        "more": {
+          "def": "A cover on the outside of a window that closes to keep out light or wind, or the part of a camera that lets in light.",
+          "examples": [
+            "We closed the shutters before the windy storm began.",
+            "The camera's shutter clicked as she took the photo.",
+            "Green shutters framed each window of the little house."
           ]
         }
       }

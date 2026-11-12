@@ -1,5 +1,61 @@
 [
   {
+    "word": "sycamore",
+    "say": "SIK-uh-mor",
+    "forms": [
+      "sycamores"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big tree with wide leaves and bark that peels.",
+          "examples": [
+            "The sycamore is tall.",
+            "We sat under the sycamore.",
+            "The sycamore has big leaves."
+          ]
+        },
+        "more": {
+          "def": "A large tree with wide leaves and bark that peels off in patches, found beside rivers and streets.",
+          "examples": [
+            "A giant sycamore shaded the whole front yard.",
+            "The bark of the sycamore peels off in patches, showing the white wood underneath.",
+            "Wide sycamore leaves turned yellow in the fall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "syllable",
+    "say": "SIL-uh-bul",
+    "forms": [
+      "syllables"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of a word with one beat.",
+          "examples": [
+            "\"Cat\" has one syllable.",
+            "Clap each syllable.",
+            "\"Water\" has two syllables."
+          ]
+        },
+        "more": {
+          "def": "A part of a word that has one vowel sound and is said in one beat, such as \"pen\" and \"cil\" in \"pencil.\"",
+          "examples": [
+            "The word \"cat\" has one syllable, and \"butter\" has two.",
+            "We clapped once for each syllable in the word.",
+            "The stress is on the first syllable of \"happy.\""
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "symbol",
     "say": "SIM-bul",
     "forms": [
@@ -28,6 +84,31 @@
     ]
   },
   {
+    "word": "symbolic",
+    "say": "sim-BOL-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Standing for something else.",
+          "examples": [
+            "The dove is symbolic of peace.",
+            "A symbolic gift.",
+            "A symbolic act."
+          ]
+        },
+        "more": {
+          "def": "Standing for or showing an idea in a way that is not literal.",
+          "examples": [
+            "The white dove is symbolic of peace.",
+            "The flag is symbolic of the country.",
+            "Giving a ring is a symbolic act of love."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sympathetic",
     "say": "sim-puh-THET-ik",
     "forms": [
@@ -50,6 +131,36 @@
             "The nurse was sympathetic when I hurt my knee.",
             "A sympathetic friend listened when I felt sad.",
             "He gave me a sympathetic look and said he was sorry."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sympathize",
+    "say": "SIM-puh-thyz",
+    "forms": [
+      "sympathizes",
+      "sympathized",
+      "sympathizing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To feel sorry for someone who is sad.",
+          "examples": [
+            "I sympathize with you.",
+            "She sympathized with her friend.",
+            "We sympathize."
+          ]
+        },
+        "more": {
+          "def": "To show that you understand and care about how someone else feels, especially when they are sad.",
+          "examples": [
+            "I sympathize with you; I lost a tooth, too, and it hurt.",
+            "She sympathized with her friend who had lost the game.",
+            "We sympathized with the family whose house flooded."
           ]
         }
       }
@@ -135,6 +246,59 @@
             "A runny nose is a symptom of a cold.",
             "A fever is a common symptom of the flu.",
             "The doctor asked about her symptoms."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "synthetic",
+    "say": "sin-THET-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Made by people, not found in nature.",
+          "examples": [
+            "The jacket is synthetic.",
+            "Plastic is synthetic.",
+            "This rope is synthetic."
+          ]
+        },
+        "more": {
+          "def": "Made by people from chemicals or other materials, rather than coming from nature.",
+          "examples": [
+            "Nylon is a synthetic cloth made in factories, not from plants or animals.",
+            "The toy was made from synthetic rubber.",
+            "Her jacket was synthetic, not made of real wool."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "syringe",
+    "say": "suh-RINJ",
+    "forms": [
+      "syringes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool with a needle that nurses use for shots.",
+          "examples": [
+            "The nurse used a syringe.",
+            "A syringe holds medicine.",
+            "He saw a syringe."
+          ]
+        },
+        "more": {
+          "def": "A tube with a plunger and often a needle, used by doctors and nurses to give medicine or to take blood.",
+          "examples": [
+            "The nurse filled the syringe with medicine before giving the shot.",
+            "A syringe has a plunger that pushes liquid out through the needle.",
+            "The vet used a syringe to give the dog a vaccine."
           ]
         }
       }

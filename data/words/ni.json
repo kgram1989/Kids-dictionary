@@ -193,6 +193,59 @@
     ]
   },
   {
+    "word": "nightfall",
+    "say": "NYT-fawl",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The time when it gets dark.",
+          "examples": [
+            "We came home at nightfall.",
+            "Owls hunt at nightfall.",
+            "By nightfall, we were tired."
+          ]
+        },
+        "more": {
+          "def": "The time of day when it starts to get dark.",
+          "examples": [
+            "We reached the campsite just before nightfall.",
+            "Bats come out to hunt at nightfall.",
+            "By nightfall the storm had passed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "nightgown",
+    "say": "NYT-gown",
+    "forms": [
+      "nightgowns"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, loose shirt you wear to bed.",
+          "examples": [
+            "She wore a nightgown.",
+            "My nightgown is soft.",
+            "Put on your nightgown."
+          ]
+        },
+        "more": {
+          "def": "A long, loose piece of clothing that you wear in bed, usually like a dress.",
+          "examples": [
+            "She put on a soft flannel nightgown and climbed into bed.",
+            "My nightgown has small stars on it.",
+            "Grandma wore a long cotton nightgown."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nightmare",
     "say": "NYT-mair",
     "forms": [
@@ -223,6 +276,31 @@
       {
         "word": "nightmarish",
         "def": "Very scary, like a bad dream."
+      }
+    ]
+  },
+  {
+    "word": "nighttime",
+    "say": "NYT-tym",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The time when it is dark outside.",
+          "examples": [
+            "Owls hunt at nighttime.",
+            "The nighttime sky.",
+            "I sleep at nighttime."
+          ]
+        },
+        "more": {
+          "def": "The time of day when it is dark and most people are asleep.",
+          "examples": [
+            "Owls hunt in the nighttime when most animals are sleeping.",
+            "The nighttime sky was full of stars.",
+            "We went camping and heard strange noises in the nighttime."
+          ]
+        }
       }
     ]
   },

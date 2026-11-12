@@ -50,6 +50,91 @@
     ]
   },
   {
+    "word": "skateboard",
+    "say": "SKAYT-bord",
+    "emoji": "🛹",
+    "forms": [
+      "skateboards",
+      "skateboarded",
+      "skateboarding"
+    ],
+    "related": [
+      {
+        "word": "skateboarder",
+        "def": "A person who rides a skateboard."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A board with wheels that you stand on and ride.",
+          "examples": [
+            "I ride my skateboard.",
+            "The skateboard has four wheels.",
+            "He fell off his skateboard."
+          ]
+        },
+        "more": {
+          "def": "A short board with four small wheels that you stand on and ride along the ground.",
+          "examples": [
+            "I wore a helmet and knee pads when I rode my skateboard.",
+            "He learned to do a trick on his skateboard at the park.",
+            "The skateboard rolled down the hill by itself."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To ride on a board with wheels.",
+          "examples": [
+            "I skateboard at the park.",
+            "He skateboards to school.",
+            "They skateboarded all day."
+          ]
+        },
+        "more": {
+          "def": "To ride along on a short board with small wheels.",
+          "examples": [
+            "My cousin skateboards at the park every Saturday.",
+            "He skateboarded down the sidewalk, wearing a helmet.",
+            "She is learning to skateboard on the smooth, flat path."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "skater",
+    "say": "SKAY-ter",
+    "emoji": "⛸️",
+    "forms": [
+      "skaters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who skates.",
+          "examples": [
+            "The skater glided on the ice.",
+            "She is a fast skater.",
+            "A skater jumped and spun."
+          ]
+        },
+        "more": {
+          "def": "A person who moves along on ice skates, roller skates or a skateboard.",
+          "examples": [
+            "The skater glided across the frozen pond with her arms out wide.",
+            "A group of skaters practiced tricks at the park.",
+            "The young skater spun twice in the air and landed smoothly."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "skeleton",
     "say": "SKEL-uh-tun",
     "emoji": "💀",
@@ -73,6 +158,34 @@
             "The museum has the skeleton of a huge dinosaur.",
             "The human skeleton has more than two hundred bones.",
             "We found the skeleton of a small bird in the woods."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "skeptical",
+    "say": "SKEP-tih-kul",
+    "forms": [
+      "sceptical"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not sure that something is true.",
+          "examples": [
+            "I am skeptical.",
+            "A skeptical look.",
+            "She was skeptical."
+          ]
+        },
+        "more": {
+          "def": "Having doubts and not quick to believe that something is true.",
+          "examples": [
+            "I was skeptical when he said he had seen a unicorn.",
+            "She gave a skeptical look at the claim.",
+            "A good scientist is skeptical and asks for proof."
           ]
         }
       }
@@ -303,6 +416,61 @@
             "Riding a bike takes skill.",
             "She has great skill at playing the piano.",
             "Reading is a skill that gets better with practice."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "skilled",
+    "say": "skild",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very good at something.",
+          "examples": [
+            "She is a skilled painter.",
+            "A skilled player.",
+            "He is skilled at chess."
+          ]
+        },
+        "more": {
+          "def": "Having the training and practice to do something very well.",
+          "examples": [
+            "She is a skilled painter who can mix any color.",
+            "A skilled carpenter built the wooden bridge.",
+            "He is skilled at chess and rarely loses."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "skim",
+    "say": "skim",
+    "forms": [
+      "skims",
+      "skimmed",
+      "skimming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To glide lightly over a surface.",
+          "examples": [
+            "The bird skimmed the water.",
+            "I skim stones on the lake.",
+            "The boat skims."
+          ]
+        },
+        "more": {
+          "def": "To move lightly over the surface of something, or to read something quickly without looking at every word.",
+          "examples": [
+            "The bird skimmed over the surface of the lake looking for fish.",
+            "We skim stones across the pond.",
+            "I skimmed the chapter to find the date I needed."
           ]
         }
       }
@@ -544,6 +712,35 @@
             "The sky turned orange at sunset.",
             "A kite danced in the windy sky.",
             "Stars fill the sky on a clear night."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "skyscraper",
+    "say": "SKY-skray-per",
+    "emoji": "🏙️",
+    "forms": [
+      "skyscrapers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very tall building.",
+          "examples": [
+            "The skyscraper is tall.",
+            "We saw a skyscraper.",
+            "A skyscraper in the city."
+          ]
+        },
+        "more": {
+          "def": "A very tall building with many floors, usually found in a big city.",
+          "examples": [
+            "The skyscraper was so tall that its top was in the clouds.",
+            "We rode the elevator to the top floor of the skyscraper.",
+            "New York City has many famous skyscrapers."
           ]
         }
       }

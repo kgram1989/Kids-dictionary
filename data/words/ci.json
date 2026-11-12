@@ -1,5 +1,30 @@
 [
   {
+    "word": "cider",
+    "say": "SY-der",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A drink made from apples.",
+          "examples": [
+            "We drank apple cider.",
+            "The cider is sweet.",
+            "Warm cider is tasty."
+          ]
+        },
+        "more": {
+          "def": "A drink made by squeezing apples, often served warm in the fall.",
+          "examples": [
+            "We drank warm apple cider on the hayride.",
+            "The farmer pressed apples to make fresh cider.",
+            "Cider tastes sweet and a little tart."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cinch",
     "say": "sinch",
     "forms": [
@@ -52,6 +77,32 @@
             "We went to the cinema to watch the new cartoon.",
             "The cinema had a big screen and soft seats.",
             "She studies cinema and wants to make her own movies."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cinnamon",
+    "say": "SIN-uh-mun",
+    "emoji": "🍂",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet brown spice that smells good.",
+          "examples": [
+            "I like cinnamon on toast.",
+            "The cookies had cinnamon.",
+            "The cinnamon smells sweet."
+          ]
+        },
+        "more": {
+          "def": "A sweet-smelling brown spice made from the bark of a tree, often used in baking.",
+          "examples": [
+            "Mom sprinkled cinnamon on the apple slices before she baked them.",
+            "Cinnamon comes from the bark of a tropical tree.",
+            "The whole kitchen smelled of warm cinnamon rolls."
           ]
         }
       }
@@ -130,6 +181,61 @@
             "The circuit has a battery and a bulb.",
             "A broken circuit made the light go out.",
             "We built a simple circuit in science class."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "circular",
+    "say": "SER-kyuh-ler",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Round like a circle.",
+          "examples": [
+            "The table is circular.",
+            "A circular path.",
+            "The mirror is circular."
+          ]
+        },
+        "more": {
+          "def": "Shaped like a circle, or moving around in a circle.",
+          "examples": [
+            "The table was circular, so everyone could see each other.",
+            "We walked along a circular path around the pond.",
+            "The circular saw spun very fast."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "circulate",
+    "say": "SER-kyuh-layt",
+    "forms": [
+      "circulates",
+      "circulated",
+      "circulating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move around and around.",
+          "examples": [
+            "Blood circulates in your body.",
+            "Air circulates in the room.",
+            "The fan circulates the air."
+          ]
+        },
+        "more": {
+          "def": "To move around in a circle, or to pass from one place or person to another.",
+          "examples": [
+            "Blood circulates through your body, carried by your heart.",
+            "A fan helped circulate the air in the stuffy room.",
+            "The teacher circulated around the classroom to help each group."
           ]
         }
       }

@@ -81,6 +81,55 @@
     ]
   },
   {
+    "word": "jog",
+    "say": "jog",
+    "forms": [
+      "jogs",
+      "jogged",
+      "jogging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To run slowly for exercise.",
+          "examples": [
+            "Dad jogs each morning.",
+            "I jogged around the park.",
+            "We jog to school."
+          ]
+        },
+        "more": {
+          "def": "To run at a slow, steady speed, usually as exercise.",
+          "examples": [
+            "My dad jogs around the park every morning before work.",
+            "We jogged slowly to the corner and then walked the rest of the way.",
+            "The coach asked us to jog two laps around the field."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A slow run.",
+          "examples": [
+            "We went for a jog.",
+            "A morning jog is fun.",
+            "She took a jog by the lake."
+          ]
+        },
+        "more": {
+          "def": "A slow, steady run for exercise.",
+          "examples": [
+            "We went for a jog along the river after school.",
+            "A short jog warms up your muscles before a game.",
+            "He takes a jog around the block every morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "join",
     "say": "joyn",
     "forms": [
@@ -303,6 +352,55 @@
     ]
   },
   {
+    "word": "jolt",
+    "say": "johlt",
+    "forms": [
+      "jolts",
+      "jolted",
+      "jolting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sudden shake or shock.",
+          "examples": [
+            "The car gave a jolt.",
+            "I felt a jolt.",
+            "A jolt shook the bus."
+          ]
+        },
+        "more": {
+          "def": "A sudden, rough shake or bump, or a sudden shock.",
+          "examples": [
+            "The bus gave a jolt as it hit a bump.",
+            "The loud noise gave us a jolt.",
+            "I felt a jolt when I touched the cold wall."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shake suddenly.",
+          "examples": [
+            "The bus jolted.",
+            "The noise jolted me.",
+            "The car jolted."
+          ]
+        },
+        "more": {
+          "def": "To move or shake with a sudden rough movement.",
+          "examples": [
+            "The bus jolted as it went over the bump.",
+            "The loud noise jolted me awake.",
+            "The truck jolted down the rough road."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "jostle",
     "say": "JOS-ul",
     "forms": [
@@ -443,6 +541,36 @@
     ]
   },
   {
+    "word": "joust",
+    "say": "jowst",
+    "forms": [
+      "jousts",
+      "jousted",
+      "jousting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To fight on horses with long poles, as knights did long ago.",
+          "examples": [
+            "The knights joust.",
+            "They jousted at the fair.",
+            "A knight jousted."
+          ]
+        },
+        "more": {
+          "def": "To have a contest on horseback in which two knights charge at each other with long poles, as they did in the Middle Ages.",
+          "examples": [
+            "Knights jousted on horseback at the royal fair.",
+            "At the festival, actors in armor jousted for the crowd.",
+            "The two knights jousted to win the prize."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "joy",
     "say": "joy",
     "emoji": "😄",
@@ -466,6 +594,31 @@
             "Her face was full of joy when she saw her grandparents.",
             "The team jumped for joy when they won.",
             "Reading is one of the great joys of my life."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "joyful",
+    "say": "JOY-ful",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Full of happiness.",
+          "examples": [
+            "A joyful song.",
+            "The joyful kids danced.",
+            "She was joyful."
+          ]
+        },
+        "more": {
+          "def": "Feeling or showing great happiness.",
+          "examples": [
+            "The joyful children danced around the room.",
+            "We sang a joyful song at the party.",
+            "She gave a joyful shout when she heard the news."
           ]
         }
       }

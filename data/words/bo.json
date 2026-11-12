@@ -1,5 +1,33 @@
 [
   {
+    "word": "boar",
+    "say": "bor",
+    "forms": [
+      "boars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wild pig.",
+          "examples": [
+            "A boar ran through the woods.",
+            "The boar has tusks.",
+            "We saw a wild boar."
+          ]
+        },
+        "more": {
+          "def": "A wild pig with tusks, or a male pig on a farm.",
+          "examples": [
+            "A wild boar rooted for acorns in the forest.",
+            "The boar has two long tusks that curve upward.",
+            "The farmer kept one boar and many sows on the farm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "board",
     "say": "bord",
     "forms": [
@@ -93,6 +121,71 @@
     ]
   },
   {
+    "word": "boardwalk",
+    "say": "BORD-wawk",
+    "forms": [
+      "boardwalks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "say": "BORD-wawk",
+        "easy": {
+          "def": "A path made of wood boards by the sea.",
+          "examples": [
+            "We walked on the boardwalk.",
+            "The boardwalk is by the beach.",
+            "A boardwalk has shops."
+          ]
+        },
+        "more": {
+          "def": "A wide walkway made of wooden boards, usually next to a beach.",
+          "examples": [
+            "We strolled along the boardwalk and ate ice cream.",
+            "The boardwalk has shops, games and rides beside the sea.",
+            "He rode his bike along the boardwalk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "boast",
+    "say": "bohst",
+    "forms": [
+      "boasts",
+      "boasted",
+      "boasting"
+    ],
+    "related": [
+      {
+        "word": "boastful",
+        "def": "Boasting a lot."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To brag about something you did.",
+          "examples": [
+            "Do not boast.",
+            "He boasted about his score.",
+            "She boasts about her pet."
+          ]
+        },
+        "more": {
+          "def": "To talk about yourself or what you own in a proud way that makes others feel bad.",
+          "examples": [
+            "He boasted about his high score until his friends felt bored.",
+            "She boasts about her new bike.",
+            "Do not boast about winning; just be happy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "boat",
     "say": "boht",
     "emoji": "⛵",
@@ -116,6 +209,31 @@
             "We paddled the boat across the lake.",
             "A fishing boat left the harbor at dawn.",
             "The sailboat leaned in the wind."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bodily",
+    "say": "BOD-ih-lee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with the body.",
+          "examples": [
+            "Hunger is a bodily need.",
+            "Bodily strength.",
+            "A bodily feeling."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the human body.",
+          "examples": [
+            "Food and sleep are bodily needs that everyone has.",
+            "Exercise improves your bodily strength.",
+            "Hunger is a bodily feeling that tells you to eat."
           ]
         }
       }
@@ -178,6 +296,59 @@
     ]
   },
   {
+    "word": "bog",
+    "say": "bog",
+    "forms": [
+      "bogs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An area of wet, soft ground.",
+          "examples": [
+            "The bog was muddy.",
+            "Frogs live in the bog.",
+            "We walked around the bog."
+          ]
+        },
+        "more": {
+          "def": "An area of wet, soft, spongy ground where mosses and other plants grow.",
+          "examples": [
+            "Frogs and dragonflies live in the wet bog.",
+            "Our boots sank into the soft ground of the bog.",
+            "Cranberries grow in a bog."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bogus",
+    "say": "BOH-gus",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Fake and not real.",
+          "examples": [
+            "The coin was bogus.",
+            "He gave a bogus excuse.",
+            "It was a bogus ticket."
+          ]
+        },
+        "more": {
+          "def": "Not real or true, but made to look like it is.",
+          "examples": [
+            "The bogus coin was made of plastic, not gold.",
+            "His bogus excuse about a lost shoe did not fool the teacher.",
+            "The ticket turned out to be bogus, so we could not go in."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "boil",
     "say": "boyl",
     "forms": [
@@ -202,6 +373,34 @@
             "Mom boiled the water for tea.",
             "Boil the potatoes until they are soft.",
             "The water boils at a high heat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "boiler",
+    "say": "BOY-ler",
+    "forms": [
+      "boilers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big tank that heats water for a building.",
+          "examples": [
+            "The boiler is in the basement.",
+            "Our boiler heats the house.",
+            "The boiler made a noise."
+          ]
+        },
+        "more": {
+          "def": "A large metal tank in which water is heated to warm a building or to make steam.",
+          "examples": [
+            "The boiler in the basement heats the water for the whole school.",
+            "The old steam engine burned coal to heat its boiler.",
+            "A repairman came to fix the broken boiler on the coldest day of winter."
           ]
         }
       }
@@ -346,6 +545,34 @@
     ]
   },
   {
+    "word": "bonanza",
+    "say": "buh-NAN-zuh",
+    "forms": [
+      "bonanzas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A lot of something good.",
+          "examples": [
+            "It was a bonanza of fruit.",
+            "A bonanza of toys.",
+            "The garden was a bonanza."
+          ]
+        },
+        "more": {
+          "def": "A source of a great amount of something good, such as money or a large supply of something.",
+          "examples": [
+            "The apple tree was a bonanza that gave us fruit all fall.",
+            "The miners hoped to find a gold bonanza.",
+            "The yard sale was a bonanza of bargains."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bone",
     "say": "bohn",
     "emoji": "🦴",
@@ -377,6 +604,62 @@
       {
         "word": "boneless",
         "def": "Without bones."
+      }
+    ]
+  },
+  {
+    "word": "bonfire",
+    "say": "BON-fyr",
+    "forms": [
+      "bonfires"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big fire outside.",
+          "examples": [
+            "We sat by the bonfire.",
+            "The bonfire was warm.",
+            "They lit a bonfire."
+          ]
+        },
+        "more": {
+          "def": "A large fire that is built outdoors, often for a celebration or to keep people warm.",
+          "examples": [
+            "We roasted marshmallows around the bonfire on the beach.",
+            "The bonfire crackled and sent sparks into the night sky.",
+            "The town lit a bonfire to celebrate the harvest."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bonnet",
+    "say": "BON-it",
+    "forms": [
+      "bonnets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hat that ties under the chin.",
+          "examples": [
+            "The baby wore a bonnet.",
+            "A pink bonnet.",
+            "She tied her bonnet."
+          ]
+        },
+        "more": {
+          "def": "A hat that is tied under the chin, worn by babies or by women in the past.",
+          "examples": [
+            "The baby wore a white bonnet tied with a ribbon.",
+            "The pioneer girl wore a bonnet to keep the sun off her face.",
+            "Her Easter bonnet had flowers on it."
+          ]
+        }
       }
     ]
   },
@@ -718,6 +1001,31 @@
     ]
   },
   {
+    "word": "borderline",
+    "say": "BOR-der-lyn",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Right on the edge between two things.",
+          "examples": [
+            "A borderline case.",
+            "The score was borderline.",
+            "It was borderline."
+          ]
+        },
+        "more": {
+          "def": "Right on the line between two things, so that it is hard to say which one it belongs to.",
+          "examples": [
+            "Her test score was borderline, just between a pass and a fail.",
+            "It was a borderline call, and the umpire had to think.",
+            "The weather was borderline, not quite warm enough for a swim."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bore",
     "say": "bor",
     "forms": [
@@ -787,6 +1095,31 @@
             "I was bored on the long car ride.",
             "The bored cat stared out the window.",
             "She felt bored until her friend arrived."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "boredom",
+    "say": "BOR-dum",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The feeling of having nothing fun to do.",
+          "examples": [
+            "Boredom made me yawn.",
+            "I felt boredom.",
+            "Boredom is no fun."
+          ]
+        },
+        "more": {
+          "def": "The tired feeling that you get when you have nothing interesting to do.",
+          "examples": [
+            "On the long car ride, boredom set in, so we played word games.",
+            "The rainy day filled us with boredom until Mom brought out the board games.",
+            "He drew pictures to beat the boredom."
           ]
         }
       }
@@ -896,6 +1229,35 @@
             "The boss thanked the workers for finishing early.",
             "My dad asked his boss for a day off.",
             "The bakery's boss starts work before dawn."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bossy",
+    "say": "BOS-ee",
+    "forms": [
+      "bossier",
+      "bossiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Always telling others what to do.",
+          "examples": [
+            "She is bossy.",
+            "Don't be bossy.",
+            "A bossy kid."
+          ]
+        },
+        "more": {
+          "def": "Fond of telling other people what to do in a rude or too forceful way.",
+          "examples": [
+            "My older sister is bossy and tells me where to sit.",
+            "Don't be bossy; let everyone have a turn to choose.",
+            "The bossy parrot squawked orders at everyone."
           ]
         }
       }
@@ -1077,6 +1439,35 @@
             "The bounce of the basketball echoed through the gym.",
             "The bounce of the rubber ball surprised us.",
             "A high bounce sent it over the fence."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bouncy",
+    "say": "BOWN-see",
+    "forms": [
+      "bouncier",
+      "bounciest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Full of bounce.",
+          "examples": [
+            "A bouncy ball.",
+            "The bed is bouncy.",
+            "The puppy is bouncy."
+          ]
+        },
+        "more": {
+          "def": "Full of bounce, so that it springs back or moves in a lively way.",
+          "examples": [
+            "A bouncy ball sprang high off the pavement.",
+            "The bouncy castle was a hit at the party.",
+            "The puppy was so bouncy that it leaped all around the yard."
           ]
         }
       }
@@ -1321,6 +1712,34 @@
     ]
   },
   {
+    "word": "bowler",
+    "say": "BOH-ler",
+    "forms": [
+      "bowlers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who rolls the ball in bowling, or a round hat.",
+          "examples": [
+            "The bowler rolled the ball.",
+            "A bowler hat.",
+            "The bowler got a strike."
+          ]
+        },
+        "more": {
+          "def": "A person who plays bowling, or the player in cricket who throws the ball; also a round hat with a small brim.",
+          "examples": [
+            "The bowler rolled the ball down the lane and knocked down every pin.",
+            "In cricket, the bowler throws the ball to the batter.",
+            "He wore a black bowler hat."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bowling",
     "say": "BOH-ling",
     "emoji": "🎳",
@@ -1471,6 +1890,36 @@
             "The boy on the bus gave his seat to an older lady.",
             "A group of boys was building a sandcastle at the beach.",
             "He was a curious boy who asked questions about everything."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "boycott",
+    "say": "BOY-kot",
+    "forms": [
+      "boycotts",
+      "boycotted",
+      "boycotting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To refuse to buy or use something as a protest.",
+          "examples": [
+            "They boycott the store.",
+            "The group boycotted the shop.",
+            "We boycott the game."
+          ]
+        },
+        "more": {
+          "def": "To refuse to buy something, use something or take part in something as a way of protesting.",
+          "examples": [
+            "The neighbors decided to boycott the shop until it changed its unfair prices.",
+            "Some students boycotted the school lunch because it was bad.",
+            "The people boycotted the buses to protest the unfair rule."
           ]
         }
       }

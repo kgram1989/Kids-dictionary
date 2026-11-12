@@ -225,6 +225,55 @@
     ]
   },
   {
+    "word": "thaw",
+    "say": "thaw",
+    "forms": [
+      "thaws",
+      "thawed",
+      "thawing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To melt or get warm after being frozen.",
+          "examples": [
+            "The ice will thaw.",
+            "Mom let the meat thaw.",
+            "Snow thaws in spring."
+          ]
+        },
+        "more": {
+          "def": "To become soft or liquid after having been frozen, or to make something do this.",
+          "examples": [
+            "The snow began to thaw as the spring sun grew warm.",
+            "Mom left the frozen peas on the counter to thaw.",
+            "The pond thawed in April."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A warm spell when ice melts.",
+          "examples": [
+            "The thaw came in March.",
+            "A thaw melted the snow.",
+            "We waited for the thaw."
+          ]
+        },
+        "more": {
+          "def": "A period of warmer weather when snow and ice melt.",
+          "examples": [
+            "The first thaw of the spring turned the snow to slush.",
+            "A sudden thaw in January melted the ice on the road.",
+            "We waited eagerly for the thaw to start planting."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "the",
     "say": "thuh",
     "senses": [
@@ -272,6 +321,31 @@
             "We watched a movie at the theater.",
             "The school theater has a big stage.",
             "A play is on at the theater tonight."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "theatrical",
+    "say": "thee-AT-rih-kul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with plays and acting.",
+          "examples": [
+            "She loves theatrical shows.",
+            "It was a theatrical event.",
+            "He is very theatrical."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the theater, or acting in a dramatic way, as if on a stage.",
+          "examples": [
+            "The school held a theatrical show with songs and costumes.",
+            "He gave a theatrical sigh and fell onto the couch.",
+            "She has a theatrical voice and loves to act."
           ]
         }
       }
@@ -490,6 +564,34 @@
     ]
   },
   {
+    "word": "therapy",
+    "say": "THAIR-uh-pee",
+    "forms": [
+      "therapies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Treatment that helps you feel better.",
+          "examples": [
+            "She has therapy.",
+            "Therapy helps.",
+            "Physical therapy."
+          ]
+        },
+        "more": {
+          "def": "Treatment that helps a person get better from an illness or an injury, or helps them with their feelings.",
+          "examples": [
+            "After he broke his arm, he went to therapy to make it strong again.",
+            "Talking to a counselor is a kind of therapy.",
+            "Swimming was good therapy for her sore back."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "there",
     "say": "thair",
     "senses": [
@@ -534,6 +636,34 @@
             "The road was icy, and therefore the bus drove slowly.",
             "She studied hard and therefore did well on the test.",
             "It was cold; therefore we wore our coats."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thermometer",
+    "say": "ther-MOM-uh-ter",
+    "forms": [
+      "thermometers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool that tells how hot or cold something is.",
+          "examples": [
+            "The thermometer says fifty.",
+            "I used a thermometer.",
+            "The nurse used a thermometer."
+          ]
+        },
+        "more": {
+          "def": "A tool that measures how hot or cold something is, such as the air, the weather or your body.",
+          "examples": [
+            "The thermometer outside showed that it was ten degrees below zero.",
+            "The nurse put a thermometer under my tongue to check for a fever.",
+            "Mom used a thermometer to check the temperature of the soup."
           ]
         }
       }
@@ -791,6 +921,34 @@
             "I think it will rain before lunch because the clouds are dark.",
             "He is thinking about what to draw for the art show.",
             "What do you think the answer is?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thinker",
+    "say": "THINGK-er",
+    "forms": [
+      "thinkers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who thinks hard and has good ideas.",
+          "examples": [
+            "She is a deep thinker.",
+            "The thinker sat quietly.",
+            "A clear thinker."
+          ]
+        },
+        "more": {
+          "def": "A person who thinks carefully and deeply about ideas.",
+          "examples": [
+            "She is a deep thinker who asks big questions about the universe.",
+            "The class was full of creative thinkers.",
+            "The old thinker sat by the fire and pondered."
           ]
         }
       }
@@ -1371,6 +1529,34 @@
     ]
   },
   {
+    "word": "thriller",
+    "say": "THRIL-er",
+    "forms": [
+      "thrillers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An exciting story or movie that keeps you on the edge of your seat.",
+          "examples": [
+            "We watched a thriller.",
+            "The thriller was exciting.",
+            "A mystery thriller."
+          ]
+        },
+        "more": {
+          "def": "A book, a movie or a play with an exciting story full of suspense that keeps you waiting to see what happens.",
+          "examples": [
+            "The thriller was full of twists, and I could not stop reading.",
+            "We watched a mystery thriller on a rainy afternoon.",
+            "The movie was a thriller about a missing treasure."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thrilling",
     "say": "THRIL-ing",
     "senses": [
@@ -1390,6 +1576,37 @@
             "The roller coaster ride was thrilling.",
             "We read a thrilling story about pirates.",
             "The race was thrilling right to the last second."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thrive",
+    "say": "thryv",
+    "forms": [
+      "thrives",
+      "thrived",
+      "thriving",
+      "throve"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To grow well and be healthy.",
+          "examples": [
+            "Plants thrive in the sun.",
+            "The puppy thrived.",
+            "Fish thrive in clean water."
+          ]
+        },
+        "more": {
+          "def": "To grow strong and healthy, or to do very well.",
+          "examples": [
+            "Tomato plants thrive in warm, sunny weather.",
+            "The new puppy thrived with good food and lots of love.",
+            "Some animals thrive in the cold of the Arctic."
           ]
         }
       }
@@ -1447,6 +1664,36 @@
             "The king sat on his golden throne.",
             "The queen's throne was covered in jewels.",
             "The throne stood at the end of the great hall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "throttle",
+    "say": "THROT-ul",
+    "forms": [
+      "throttles",
+      "throttled",
+      "throttling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part you push to make a vehicle go faster.",
+          "examples": [
+            "He pushed the throttle.",
+            "The throttle makes the boat go.",
+            "She held the throttle."
+          ]
+        },
+        "more": {
+          "def": "A lever or handle that controls how fast an engine runs, such as on a boat or a motorcycle.",
+          "examples": [
+            "The driver pushed the throttle forward and the boat sped up.",
+            "She eased the throttle back to slow down.",
+            "The pilot held the throttle at half power."
           ]
         }
       }
@@ -1582,6 +1829,83 @@
     ]
   },
   {
+    "word": "thruster",
+    "say": "THRUS-ter",
+    "forms": [
+      "thrusters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small engine that pushes a spaceship.",
+          "examples": [
+            "The thruster fired.",
+            "A spaceship has thrusters.",
+            "The thruster moved the ship."
+          ]
+        },
+        "more": {
+          "def": "A small engine on a spacecraft that pushes it forward or turns it.",
+          "examples": [
+            "The astronaut fired the thruster to turn the spacecraft around.",
+            "Small thrusters help a satellite stay in the right place in space.",
+            "The rocket's thrusters pushed the ship toward the moon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thud",
+    "say": "thud",
+    "forms": [
+      "thuds",
+      "thudded",
+      "thudding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dull sound of something heavy falling.",
+          "examples": [
+            "I heard a thud.",
+            "The book fell with a thud.",
+            "A thud came from upstairs."
+          ]
+        },
+        "more": {
+          "def": "A dull, heavy sound that is made when something falls or hits a soft surface.",
+          "examples": [
+            "The heavy book hit the floor with a loud thud.",
+            "We heard a thud from upstairs when the box fell off the shelf.",
+            "The apple fell from the tree with a soft thud."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To fall or hit with a dull sound.",
+          "examples": [
+            "The ball thudded on the grass.",
+            "The bag thudded down.",
+            "My feet thudded on the stairs."
+          ]
+        },
+        "more": {
+          "def": "To hit something with a dull, heavy sound.",
+          "examples": [
+            "The bag of flour thudded onto the counter.",
+            "Our boots thudded on the wooden stairs.",
+            "The ball thudded against the wall."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thumb",
     "say": "thum",
     "emoji": "👍",
@@ -1688,6 +2012,34 @@
       {
         "word": "thunderous",
         "def": "Very loud, like thunder."
+      }
+    ]
+  },
+  {
+    "word": "thunderbolt",
+    "say": "THUN-der-bohlt",
+    "forms": [
+      "thunderbolts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flash of lightning with a crash of thunder.",
+          "examples": [
+            "A thunderbolt lit the sky.",
+            "The thunderbolt was loud.",
+            "We saw a thunderbolt."
+          ]
+        },
+        "more": {
+          "def": "A flash of lightning that comes with a loud crash of thunder.",
+          "examples": [
+            "A thunderbolt lit up the whole sky for a moment.",
+            "The thunderbolt was followed by a loud crash.",
+            "In the myth, Zeus threw a thunderbolt from the clouds."
+          ]
+        }
       }
     ]
   },

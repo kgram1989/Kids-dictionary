@@ -1,5 +1,88 @@
 [
   {
+    "word": "vacancy",
+    "say": "VAY-kun-see",
+    "forms": [
+      "vacancies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An empty room or job that is free to take.",
+          "examples": [
+            "The hotel has a vacancy.",
+            "A job vacancy.",
+            "No vacancy."
+          ]
+        },
+        "more": {
+          "def": "A room or a job that is empty and available for someone to take.",
+          "examples": [
+            "The sign said \"Vacancy,\" so we knew the hotel had a free room.",
+            "There is a vacancy for a teacher at our school.",
+            "The motel had no vacancy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vacant",
+    "say": "VAY-kunt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Empty and not being used.",
+          "examples": [
+            "The seat is vacant.",
+            "A vacant house.",
+            "The room was vacant."
+          ]
+        },
+        "more": {
+          "def": "Empty and not being used or lived in by anyone.",
+          "examples": [
+            "There was a vacant seat in the front row, so I sat down.",
+            "The old house on the corner has been vacant for years.",
+            "A vacant lot beside the school became a community garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vacate",
+    "say": "VAY-kayt",
+    "forms": [
+      "vacates",
+      "vacated",
+      "vacating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To leave a place and make it empty.",
+          "examples": [
+            "Vacate the room.",
+            "They vacated the house.",
+            "Please vacate your seat."
+          ]
+        },
+        "more": {
+          "def": "To leave a place, such as a room or a seat, so that it is empty for someone else.",
+          "examples": [
+            "The guests must vacate the room by noon.",
+            "Please vacate your seat for the next rider.",
+            "The family vacated the house after the flood."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vacation",
     "say": "vay-KAY-shun",
     "emoji": "🏖️",
@@ -23,6 +106,34 @@
             "Our family spent summer vacation camping in the mountains.",
             "He sent a postcard while on vacation in Italy.",
             "The store owner is taking a week of vacation."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vaccine",
+    "say": "vak-SEEN",
+    "forms": [
+      "vaccines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shot that helps keep you from getting sick.",
+          "examples": [
+            "I got a vaccine.",
+            "The vaccine keeps me safe.",
+            "The nurse gave me a vaccine."
+          ]
+        },
+        "more": {
+          "def": "A medicine, often given as a shot, that helps your body fight a certain disease so that you do not get it.",
+          "examples": [
+            "The nurse gave me a vaccine to protect me from the flu.",
+            "A vaccine helps your body learn how to fight a germ.",
+            "Scientists worked hard to make a vaccine for the disease."
           ]
         }
       }
@@ -179,6 +290,31 @@
             "The valiant knight rode toward the castle.",
             "We made a valiant effort to climb the hill.",
             "The valiant firefighter ran into the building to help."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "valid",
+    "say": "VAL-id",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Right or good enough to be accepted.",
+          "examples": [
+            "Your ticket is valid.",
+            "That is a valid answer.",
+            "She had a valid reason."
+          ]
+        },
+        "more": {
+          "def": "Acceptable because it is correct, fair or allowed by the rules.",
+          "examples": [
+            "A ticket is only valid for the day printed on it.",
+            "Tom had a valid reason for being late, since the bus broke down.",
+            "Your library card is valid for one more year."
           ]
         }
       }
@@ -431,6 +567,81 @@
     ]
   },
   {
+    "word": "variable",
+    "say": "VAIR-ee-uh-bul",
+    "forms": [
+      "variables"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Likely to change.",
+          "examples": [
+            "The weather is variable.",
+            "A variable speed.",
+            "Prices are variable."
+          ]
+        },
+        "more": {
+          "def": "Likely to change or able to be changed.",
+          "examples": [
+            "The weather in spring is variable, with sun one minute and rain the next.",
+            "The fan has a variable speed that you can set high or low.",
+            "The price of fruit is variable throughout the year."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing in math or science that can change.",
+          "examples": [
+            "The letter x is a variable.",
+            "A variable can change.",
+            "Change the variable."
+          ]
+        },
+        "more": {
+          "def": "A letter or a thing in math or a science test that can change or take different values.",
+          "examples": [
+            "In math, the letter x is a variable that stands for a number.",
+            "In our plant experiment, the amount of water was the variable.",
+            "A scientist changes only one variable at a time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "variation",
+    "say": "vair-ee-AY-shun",
+    "forms": [
+      "variations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small change or a different kind.",
+          "examples": [
+            "The song has a variation.",
+            "A variation of the game.",
+            "There is a variation in size."
+          ]
+        },
+        "more": {
+          "def": "A change or a difference from what is usual, or a different form of the same thing.",
+          "examples": [
+            "The musician played a variation of the tune with a faster beat.",
+            "There is a lot of variation in the size of the dogs at the park.",
+            "Her recipe is a variation of my grandmother's."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "variety",
     "say": "vuh-RY-uh-tee",
     "forms": [
@@ -543,6 +754,34 @@
       {
         "word": "vastness",
         "def": "Being very big."
+      }
+    ]
+  },
+  {
+    "word": "vat",
+    "say": "vat",
+    "forms": [
+      "vats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large tank for holding liquid.",
+          "examples": [
+            "A vat of paint.",
+            "The vat was full.",
+            "A giant vat."
+          ]
+        },
+        "more": {
+          "def": "A very large tank or container for holding liquids, such as in a factory.",
+          "examples": [
+            "A giant vat of chocolate stirred in the candy factory.",
+            "The vat was filled with dye.",
+            "Workers poured the milk into a large vat."
+          ]
+        }
       }
     ]
   },

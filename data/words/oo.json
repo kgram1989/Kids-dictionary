@@ -23,5 +23,54 @@
         }
       }
     ]
+  },
+  {
+    "word": "ooze",
+    "say": "ooz",
+    "forms": [
+      "oozes",
+      "oozed",
+      "oozing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To flow out slowly.",
+          "examples": [
+            "Honey oozed from the jar.",
+            "Mud oozed between my toes.",
+            "The paint oozed out."
+          ]
+        },
+        "more": {
+          "def": "To flow out slowly and in small amounts, as a thick liquid does.",
+          "examples": [
+            "Honey oozed slowly out of the jar.",
+            "Mud oozed between my toes as I walked through the swamp.",
+            "Sap oozed from the cut in the tree."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Soft, wet mud or slime.",
+          "examples": [
+            "I stepped in the ooze.",
+            "The ooze was green.",
+            "Ooze covered the floor."
+          ]
+        },
+        "more": {
+          "def": "Soft, wet mud or slime, especially at the bottom of a pond or sea.",
+          "examples": [
+            "My boots sank into the ooze at the edge of the pond.",
+            "The ooze at the bottom of the lake was thick and brown.",
+            "Tiny creatures live in the ooze on the sea floor."
+          ]
+        }
+      }
+    ]
   }
 ]

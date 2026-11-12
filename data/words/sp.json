@@ -48,6 +48,31 @@
     ]
   },
   {
+    "word": "spacecraft",
+    "say": "SPAYSS-kraft",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A ship that travels in space.",
+          "examples": [
+            "The spacecraft flew to the moon.",
+            "A spacecraft is fast.",
+            "We saw a spacecraft launch."
+          ]
+        },
+        "more": {
+          "def": "A vehicle that is built to travel in outer space.",
+          "examples": [
+            "The spacecraft carried the astronauts to the moon.",
+            "A rocket launched the spacecraft into orbit around the Earth.",
+            "The robot spacecraft sent back pictures of Mars."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "spaceship",
     "say": "SPAYSS-ship",
     "emoji": "🚀",
@@ -71,6 +96,34 @@
             "The spaceship flew to the moon and back.",
             "I drew a spaceship with silver wings.",
             "The astronauts climbed into the spaceship and waved goodbye."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spade",
+    "say": "spayd",
+    "forms": [
+      "spades"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool for digging, with a flat blade.",
+          "examples": [
+            "I dug with a spade.",
+            "The spade is in the garden.",
+            "Dad used a spade."
+          ]
+        },
+        "more": {
+          "def": "A tool with a flat blade and a long handle that is used for digging in the ground.",
+          "examples": [
+            "Dad dug a hole for the new tree with a spade.",
+            "I used a small spade to plant flower bulbs.",
+            "The gardener leaned her spade against the shed."
           ]
         }
       }
@@ -226,6 +279,136 @@
             "A spark flew from the campfire.",
             "The wires gave off a spark.",
             "The flint made a spark when he struck it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sparkle",
+    "say": "SPAR-kul",
+    "forms": [
+      "sparkles",
+      "sparkled",
+      "sparkling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shine with little flashes of light.",
+          "examples": [
+            "The stars sparkle.",
+            "The ring sparkled.",
+            "Water sparkles in the sun."
+          ]
+        },
+        "more": {
+          "def": "To shine with many tiny, bright flashes of light.",
+          "examples": [
+            "The snow sparkled in the morning sunlight.",
+            "Her eyes sparkled with joy when she saw the cake.",
+            "The ocean sparkled under the sun."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A little flash of light.",
+          "examples": [
+            "I saw a sparkle.",
+            "The ring had a sparkle.",
+            "A sparkle in her eye."
+          ]
+        },
+        "more": {
+          "def": "A small, bright flash of light, or a lively look of happiness.",
+          "examples": [
+            "The diamond had a bright sparkle in the sun.",
+            "There was a sparkle in her eyes when she smiled.",
+            "The ice gave off a sparkle."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sparkling",
+    "say": "SPAR-kling",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Shining with little flashes of light.",
+          "examples": [
+            "The sparkling water.",
+            "A sparkling star.",
+            "Her eyes were sparkling."
+          ]
+        },
+        "more": {
+          "def": "Shining with many tiny flashes of light, or full of bubbles.",
+          "examples": [
+            "The sparkling snow glittered in the morning sun.",
+            "She drank sparkling water with lots of bubbles.",
+            "The stars were sparkling in the dark sky."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spasm",
+    "say": "SPAZ-um",
+    "forms": [
+      "spasms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sudden tightening of a muscle that you cannot stop.",
+          "examples": [
+            "I had a spasm in my leg.",
+            "A muscle spasm.",
+            "The spasm hurt."
+          ]
+        },
+        "more": {
+          "def": "A sudden tightening of a muscle that you cannot control.",
+          "examples": [
+            "I had a muscle spasm in my leg while I was swimming.",
+            "A spasm of coughing shook him.",
+            "The spasm lasted only a few seconds."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spat",
+    "say": "spat",
+    "forms": [
+      "spats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, quick fight with words.",
+          "examples": [
+            "They had a spat.",
+            "A little spat over a toy.",
+            "The spat ended fast."
+          ]
+        },
+        "more": {
+          "def": "A small, short argument about something not very important.",
+          "examples": [
+            "The two friends had a spat over who would play first.",
+            "The little spat ended when they agreed to take turns.",
+            "A spat between siblings is usually forgotten by dinner."
           ]
         }
       }
@@ -516,6 +699,36 @@
     ]
   },
   {
+    "word": "specify",
+    "say": "SPES-uh-fy",
+    "forms": [
+      "specifies",
+      "specified",
+      "specifying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say exactly what you want.",
+          "examples": [
+            "Please specify the color.",
+            "She specified the size.",
+            "The recipe specifies two eggs."
+          ]
+        },
+        "more": {
+          "def": "To say or write exactly and clearly what is needed.",
+          "examples": [
+            "The recipe specifies two eggs and a cup of flour.",
+            "Please specify which color you want.",
+            "The teacher specified how long the essay should be."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "specimen",
     "say": "SPES-uh-men",
     "forms": [
@@ -538,6 +751,34 @@
             "The scientist examined a specimen of the plant.",
             "The museum has a rock specimen.",
             "The butterfly specimen was pinned to a card."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "speck",
+    "say": "spek",
+    "forms": [
+      "specks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very tiny spot or bit.",
+          "examples": [
+            "A speck of dust.",
+            "I saw a speck.",
+            "A speck in my eye."
+          ]
+        },
+        "more": {
+          "def": "A very small spot or tiny piece of something.",
+          "examples": [
+            "A speck of dust floated in the sunlight.",
+            "I got a speck of dirt in my eye.",
+            "The plane was just a speck in the sky."
           ]
         }
       }
@@ -625,6 +866,34 @@
     ]
   },
   {
+    "word": "spectator",
+    "say": "SPEK-tay-ter",
+    "forms": [
+      "spectators"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who watches a game or a show.",
+          "examples": [
+            "The spectators cheered.",
+            "A spectator sat in the stands.",
+            "Many spectators came."
+          ]
+        },
+        "more": {
+          "def": "A person who watches an event, such as a game, a race or a show, without taking part.",
+          "examples": [
+            "The spectators cheered when the home team scored.",
+            "A spectator caught the ball in the stands.",
+            "Thousands of spectators lined the street to watch the parade."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "speech",
     "say": "speech",
     "forms": [
@@ -666,6 +935,31 @@
             "The principal gave a speech at assembly.",
             "I practiced my speech in front of the mirror.",
             "The mayor's speech lasted ten minutes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "speechless",
+    "say": "SPEECH-lis",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not able to speak because you are so surprised.",
+          "examples": [
+            "I was speechless.",
+            "The news left her speechless.",
+            "He was speechless with joy."
+          ]
+        },
+        "more": {
+          "def": "Unable to speak because you are very surprised, happy or upset.",
+          "examples": [
+            "I was speechless when I saw the surprise party.",
+            "The beautiful view left us speechless.",
+            "She was speechless with joy."
           ]
         }
       }
@@ -716,6 +1010,35 @@
             "The race car sped around the track.",
             "We sped down the hill on our sleds.",
             "The train speeds across the country."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "speedy",
+    "say": "SPEE-dee",
+    "forms": [
+      "speedier",
+      "speediest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Fast.",
+          "examples": [
+            "A speedy rabbit.",
+            "The speedy train.",
+            "She gave a speedy reply."
+          ]
+        },
+        "more": {
+          "def": "Moving fast or done quickly.",
+          "examples": [
+            "The speedy rabbit zipped across the field.",
+            "We wished her a speedy recovery.",
+            "The speedy train got us there in an hour."
           ]
         }
       }
@@ -840,6 +1163,63 @@
             "We spent the whole summer at my grandparents' farm.",
             "He spends an hour each night reading.",
             "The owl spends the daytime sleeping in a hollow tree."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spender",
+    "say": "SPEN-der",
+    "forms": [
+      "spenders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who spends money.",
+          "examples": [
+            "He is a big spender.",
+            "A careful spender.",
+            "The spender bought a lot."
+          ]
+        },
+        "more": {
+          "def": "A person who spends money, such as a big spender or a careful one.",
+          "examples": [
+            "She is a careful spender and saves most of her allowance.",
+            "The big spender bought three toys at once.",
+            "Wise spenders think before they buy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sphere",
+    "say": "sfeer",
+    "emoji": "⚽",
+    "forms": [
+      "spheres"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shape like a ball.",
+          "examples": [
+            "A ball is a sphere.",
+            "The moon is a sphere.",
+            "I drew a sphere."
+          ]
+        },
+        "more": {
+          "def": "A perfectly round solid shape, like a ball, in which every point on the surface is the same distance from the center.",
+          "examples": [
+            "A basketball is a sphere, and so is a marble.",
+            "The Earth is shaped like a sphere, although it is a little flat at the poles.",
+            "We made a sphere from clay and rolled it across the table."
           ]
         }
       }
@@ -1031,6 +1411,32 @@
     ]
   },
   {
+    "word": "spinach",
+    "say": "SPIN-ich",
+    "emoji": "🥬",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A green plant with leaves that you eat.",
+          "examples": [
+            "I ate spinach in my salad.",
+            "The spinach is green.",
+            "We grew spinach."
+          ]
+        },
+        "more": {
+          "def": "A plant with dark green leaves that are eaten cooked or raw and are full of vitamins.",
+          "examples": [
+            "We added fresh spinach to the pasta for a healthy meal.",
+            "Spinach is full of vitamins that help your body stay strong.",
+            "She picked spinach leaves from the garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "spinal",
     "say": "SPY-nul",
     "senses": [
@@ -1050,6 +1456,34 @@
             "The spinal cord runs through the bones of your back.",
             "The doctor checked his spinal bones during the exam.",
             "A spinal bone is called a vertebra."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spindle",
+    "say": "SPIN-dul",
+    "forms": [
+      "spindles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin rod used to spin thread.",
+          "examples": [
+            "She spun thread on a spindle.",
+            "The spindle turned.",
+            "The spindle was wooden."
+          ]
+        },
+        "more": {
+          "def": "A thin rod or pin that spins around, such as one used to twist wool into thread.",
+          "examples": [
+            "The woman twisted wool into thread using a wooden spindle.",
+            "In the fairy tale, the princess pricked her finger on a spindle.",
+            "A spindle in the machine spins the wheel."
           ]
         }
       }
@@ -1105,6 +1539,55 @@
       {
         "word": "spiny",
         "def": "Covered with sharp points."
+      }
+    ]
+  },
+  {
+    "word": "spiral",
+    "say": "SPY-rul",
+    "forms": [
+      "spirals",
+      "spiraled",
+      "spiraling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shape that winds around and around.",
+          "examples": [
+            "A snail shell is a spiral.",
+            "I drew a spiral.",
+            "The stairs make a spiral."
+          ]
+        },
+        "more": {
+          "def": "A shape that winds around and around a center point, getting wider or higher as it goes.",
+          "examples": [
+            "A snail's shell grows in a spiral.",
+            "The stairs wound up the tower in a tight spiral.",
+            "I drew a spiral on the paper, starting from the middle."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move around and around in a curve.",
+          "examples": [
+            "The smoke spiraled up.",
+            "The leaf spiraled down.",
+            "The bird spiraled."
+          ]
+        },
+        "more": {
+          "def": "To move or grow in a curve that winds around and around.",
+          "examples": [
+            "The smoke spiraled up from the campfire.",
+            "The leaf spiraled slowly down to the ground.",
+            "The kite spiraled to the earth when the string broke."
+          ]
+        }
       }
     ]
   },
@@ -1300,6 +1783,36 @@
     ]
   },
   {
+    "word": "splatter",
+    "say": "SPLAT-er",
+    "forms": [
+      "splatters",
+      "splattered",
+      "splattering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To splash in drops all over.",
+          "examples": [
+            "The paint splattered.",
+            "Mud splattered my shoes.",
+            "The rain splattered on the glass."
+          ]
+        },
+        "more": {
+          "def": "To splash drops of liquid or soft stuff in all directions.",
+          "examples": [
+            "Paint splattered across the floor when I dropped the can.",
+            "Mud splattered my pants as the car drove by.",
+            "The rain splattered on the window."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "splendid",
     "say": "SPLEN-did",
     "forms": [
@@ -1322,6 +1835,36 @@
             "The palace looked splendid in the sunlight.",
             "We had a splendid time at the fair.",
             "The band gave a splendid show."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "splinter",
+    "say": "SPLIN-ter",
+    "forms": [
+      "splinters",
+      "splintered",
+      "splintering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny, sharp piece of wood stuck in your skin.",
+          "examples": [
+            "I got a splinter in my finger.",
+            "The splinter hurt.",
+            "Dad pulled out the splinter."
+          ]
+        },
+        "more": {
+          "def": "A thin, sharp piece of wood, glass or metal that has broken off, especially one stuck in your skin.",
+          "examples": [
+            "I got a splinter in my finger from the rough wooden fence.",
+            "Dad pulled the tiny splinter out with tweezers.",
+            "Wear gloves when you carry the logs so that you do not get a splinter."
           ]
         }
       }
@@ -1661,6 +2204,160 @@
     ]
   },
   {
+    "word": "spotlight",
+    "say": "SPOT-lyt",
+    "forms": [
+      "spotlights"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong light that shines on one place.",
+          "examples": [
+            "The spotlight was on the singer.",
+            "A spotlight lit the stage.",
+            "We stood in the spotlight."
+          ]
+        },
+        "more": {
+          "def": "A very bright light that shines on one person or place, or the attention that people give to someone.",
+          "examples": [
+            "A spotlight followed the dancer across the stage.",
+            "She stepped into the spotlight to sing her solo.",
+            "The new puppy was the center of the spotlight all day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spouse",
+    "say": "sprowss",
+    "forms": [
+      "spouses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A husband or a wife.",
+          "examples": [
+            "Her spouse came to dinner.",
+            "My aunt and her spouse live here.",
+            "A spouse is a husband or wife."
+          ]
+        },
+        "more": {
+          "def": "A person's husband or wife.",
+          "examples": [
+            "The mayor and her spouse waved to the crowd.",
+            "He brought his spouse to the school concert.",
+            "On the form, write the name of your spouse."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spout",
+    "say": "spowt",
+    "forms": [
+      "spouts",
+      "spouted",
+      "spouting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tube on a kettle or can that liquid pours out of.",
+          "examples": [
+            "Water came out of the spout.",
+            "The teapot has a spout.",
+            "Pour from the spout."
+          ]
+        },
+        "more": {
+          "def": "A tube or lip on a pot, can or pipe, through which liquid pours out.",
+          "examples": [
+            "Steam came out of the spout of the kettle.",
+            "The watering can has a long spout.",
+            "Water ran from the spout of the gutter."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shoot out in a stream.",
+          "examples": [
+            "The whale spouted water.",
+            "Water spouts out.",
+            "The fountain spouted."
+          ]
+        },
+        "more": {
+          "def": "To shoot out liquid in a strong stream.",
+          "examples": [
+            "The whale spouted water high into the air.",
+            "The fountain spouted in the middle of the square.",
+            "Water spouted from the broken pipe."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sprain",
+    "say": "sprayn",
+    "forms": [
+      "sprains",
+      "sprained",
+      "spraining"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hurt a body part by twisting it.",
+          "examples": [
+            "I sprained my ankle.",
+            "She sprained her wrist.",
+            "He sprained his foot."
+          ]
+        },
+        "more": {
+          "def": "To hurt a joint, such as an ankle or wrist, by twisting it too far.",
+          "examples": [
+            "I sprained my ankle when I stepped on a rock.",
+            "She sprained her wrist when she fell off her bike.",
+            "The player sprained his knee during the game."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A twist that hurts a part of the body.",
+          "examples": [
+            "I have a sprain.",
+            "Her sprain is sore.",
+            "He wore a bandage for his sprain."
+          ]
+        },
+        "more": {
+          "def": "An injury to a joint caused by twisting it, which makes it swollen and sore.",
+          "examples": [
+            "The doctor said I had a sprain and told me to rest my ankle.",
+            "A sprain can take a few weeks to heal.",
+            "She wore a bandage on her wrist to help the sprain."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sprawl",
     "say": "sprawl",
     "forms": [
@@ -1795,6 +2492,34 @@
     ]
   },
   {
+    "word": "spree",
+    "say": "spree",
+    "forms": [
+      "sprees"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short time of doing something a lot.",
+          "examples": [
+            "We went on a shopping spree.",
+            "A spree of laughs.",
+            "A spree of fun."
+          ]
+        },
+        "more": {
+          "def": "A short period of doing one thing in a wild and eager way, such as shopping or laughing.",
+          "examples": [
+            "We went on a shopping spree and bought new shoes, a hat and a bag.",
+            "The children went on a laughing spree at the silly movie.",
+            "He went on a reading spree and finished five books in a week."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "spring",
     "say": "spring",
     "emoji": "🌷",
@@ -1865,6 +2590,60 @@
     ]
   },
   {
+    "word": "springtime",
+    "say": "SPRING-tym",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The season of spring.",
+          "examples": [
+            "Flowers bloom in springtime.",
+            "I love springtime.",
+            "It was springtime."
+          ]
+        },
+        "more": {
+          "def": "The season of spring, when plants begin to grow and the weather gets warmer.",
+          "examples": [
+            "Flowers bloom everywhere in springtime.",
+            "Baby birds hatch in springtime.",
+            "Springtime brings warm days and gentle rain."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "springy",
+    "say": "SPRING-ee",
+    "forms": [
+      "springier",
+      "springiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to bounce back into shape.",
+          "examples": [
+            "The bed is springy.",
+            "A springy mattress.",
+            "The grass felt springy."
+          ]
+        },
+        "more": {
+          "def": "Able to bend and bounce back into shape, like a spring.",
+          "examples": [
+            "The springy mattress bounced me up and down.",
+            "The grass was thick and springy under my feet.",
+            "A springy branch snapped back when I let go."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sprinkle",
     "say": "SPRING-kul",
     "forms": [
@@ -1908,6 +2687,133 @@
             "I put sprinkles on my cupcake.",
             "The ice cream was topped with rainbow sprinkles.",
             "She added sprinkles to the cookies."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sprinkler",
+    "say": "SPRING-kler",
+    "forms": [
+      "sprinklers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing that sprays water on grass.",
+          "examples": [
+            "We ran through the sprinkler.",
+            "The sprinkler is on.",
+            "The sprinkler waters the lawn."
+          ]
+        },
+        "more": {
+          "def": "A device that sprays water over a lawn or garden, or one on a ceiling that sprays water in case of fire.",
+          "examples": [
+            "We ran through the sprinkler on the hot day.",
+            "The sprinkler watered the lawn every morning.",
+            "A ceiling sprinkler sprays water if there is a fire."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sprout",
+    "say": "sprowt",
+    "emoji": "🌱",
+    "forms": [
+      "sprouts",
+      "sprouted",
+      "sprouting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To start to grow.",
+          "examples": [
+            "The seeds will sprout.",
+            "Beans sprout in the soil.",
+            "Flowers sprouted in spring."
+          ]
+        },
+        "more": {
+          "def": "To begin to grow, as a plant does when a shoot comes up from a seed.",
+          "examples": [
+            "The bean seeds sprouted within a week on the damp paper towel.",
+            "Green shoots sprouted from the ground after the spring rain.",
+            "A tiny plant sprouted from the crack in the pavement."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A baby plant that has just come up.",
+          "examples": [
+            "A sprout came out of the soil.",
+            "I saw a tiny sprout.",
+            "The sprout is green."
+          ]
+        },
+        "more": {
+          "def": "A young shoot of a plant, or a tiny plant that has just started to grow from a seed.",
+          "examples": [
+            "A bean sprout pushed through the soil toward the light.",
+            "Alfalfa sprouts are tiny, crunchy plants you can eat in a sandwich.",
+            "We watched the first sprout of the pea plant grow taller each day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spruce",
+    "say": "sproos",
+    "forms": [
+      "spruces",
+      "spruced",
+      "sprucing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind of evergreen tree with short needles.",
+          "examples": [
+            "A spruce stood in the yard.",
+            "The spruce is tall.",
+            "We cut a spruce for the holiday."
+          ]
+        },
+        "more": {
+          "def": "An evergreen tree with short, sharp needles that is often used as a Christmas tree.",
+          "examples": [
+            "A tall spruce stood in the corner of the yard.",
+            "The spruce keeps its green needles all year.",
+            "Wood from the spruce is used to make paper."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something look neat and nice.",
+          "examples": [
+            "Spruce up the room.",
+            "She spruced up the yard.",
+            "We spruced up the house."
+          ]
+        },
+        "more": {
+          "def": "To make something neater or nicer, usually with \"up.\"",
+          "examples": [
+            "We spruced up the room with a fresh coat of paint.",
+            "She spruced up the yard before the party.",
+            "He spruced himself up for the school photo."
           ]
         }
       }

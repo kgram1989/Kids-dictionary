@@ -1,5 +1,94 @@
 [
   {
+    "word": "nab",
+    "say": "nab",
+    "forms": [
+      "nabs",
+      "nabbed",
+      "nabbing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To grab or catch quickly.",
+          "examples": [
+            "I nabbed the last seat.",
+            "She nabbed the ball.",
+            "He nabbed a cookie."
+          ]
+        },
+        "more": {
+          "def": "To grab, catch or get something quickly.",
+          "examples": [
+            "I nabbed the last seat on the bus.",
+            "She nabbed the ball before it rolled away.",
+            "He nabbed a cookie from the plate."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "nacho",
+    "say": "NAH-choh",
+    "forms": [
+      "nachos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "say": "NAH-chohz",
+        "easy": {
+          "def": "A corn chip with melted cheese on it.",
+          "examples": [
+            "I ate nachos.",
+            "The nachos have cheese.",
+            "We shared a plate of nachos."
+          ]
+        },
+        "more": {
+          "def": "A crisp corn chip that is topped with melted cheese and sometimes beans or other toppings.",
+          "examples": [
+            "We shared a plate of nachos with cheese and beans.",
+            "Each nacho was covered with melted cheese.",
+            "He dipped the nacho into the salsa."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "nag",
+    "say": "nag",
+    "forms": [
+      "nags",
+      "nagged",
+      "nagging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To keep asking someone to do something.",
+          "examples": [
+            "Mom had to nag me about my room.",
+            "Don't nag me.",
+            "The little kids nag all day."
+          ]
+        },
+        "more": {
+          "def": "To keep asking or complaining to someone about something until they get annoyed.",
+          "examples": [
+            "My little brother nagged me all afternoon to play with him.",
+            "Mom had to nag us to clean our rooms.",
+            "Do not nag the teacher about homework."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nail",
     "say": "nayl",
     "forms": [
@@ -262,6 +351,31 @@
             "The street was so narrow that only one car could pass.",
             "The bridge is too narrow for trucks.",
             "A narrow stream ran through the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "nasal",
+    "say": "NAY-zul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with the nose.",
+          "examples": [
+            "She had a nasal voice.",
+            "A nasal spray.",
+            "The cold made her nasal."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the nose, or sounding as if a person is talking through the nose.",
+          "examples": [
+            "When I have a cold, my voice sounds nasal.",
+            "The doctor gave me a nasal spray to help me breathe.",
+            "The nasal passages carry air from your nose to your throat."
           ]
         }
       }
@@ -538,6 +652,56 @@
     ]
   },
   {
+    "word": "nausea",
+    "say": "NAW-zee-uh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sick feeling in your stomach.",
+          "examples": [
+            "The ride gave me nausea.",
+            "I felt nausea.",
+            "Nausea went away."
+          ]
+        },
+        "more": {
+          "def": "A sick feeling in your stomach, as if you might throw up.",
+          "examples": [
+            "The bumpy boat ride gave me a feeling of nausea.",
+            "She felt nausea after eating too much candy.",
+            "The nausea passed after she drank some water."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "nauseous",
+    "say": "NAW-shus",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling like you might throw up.",
+          "examples": [
+            "The bumpy ride made me nauseous.",
+            "He felt nauseous.",
+            "I was nauseous on the boat."
+          ]
+        },
+        "more": {
+          "def": "Feeling sick to your stomach, as if you might throw up.",
+          "examples": [
+            "The winding road made me feel nauseous.",
+            "She felt nauseous after riding the spinning ride three times.",
+            "The strong smell of the paint made him nauseous."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "naval",
     "say": "NAY-vul",
     "senses": [
@@ -557,6 +721,89 @@
             "A naval ship docked in the harbor.",
             "The naval officer wore a white uniform.",
             "The naval base was near the sea."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "navigate",
+    "say": "NAV-ih-gayt",
+    "forms": [
+      "navigates",
+      "navigated",
+      "navigating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To find the way.",
+          "examples": [
+            "I navigate with a map.",
+            "The captain navigated the ship.",
+            "She navigated the road."
+          ]
+        },
+        "more": {
+          "def": "To find your way from one place to another, using a map, a compass or other tools.",
+          "examples": [
+            "The captain navigated the ship through the foggy sea using a compass.",
+            "Dad used a map to navigate through the unfamiliar city.",
+            "Can you navigate the maze without getting lost?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "navigation",
+    "say": "nav-ih-GAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Finding the way from one place to another.",
+          "examples": [
+            "The ship uses navigation.",
+            "Navigation helps us find the way.",
+            "A navigation map."
+          ]
+        },
+        "more": {
+          "def": "The skill or the process of finding the way from one place to another, using maps, a compass or other tools.",
+          "examples": [
+            "The captain used a compass for navigation at sea.",
+            "The car has a screen for navigation that shows the roads.",
+            "Sailors long ago used the stars for navigation."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "navigator",
+    "say": "NAV-ih-gay-ter",
+    "forms": [
+      "navigators"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who finds the way for a ship or plane.",
+          "examples": [
+            "The navigator read the map.",
+            "A navigator helps the ship.",
+            "The navigator found the way."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to find the right way for a ship, a plane or a car to travel, using maps and instruments.",
+          "examples": [
+            "The navigator on the ship used a compass and a map to find the island.",
+            "Dad was the navigator on our road trip, reading the map aloud.",
+            "The pilot and navigator planned the route across the ocean."
           ]
         }
       }

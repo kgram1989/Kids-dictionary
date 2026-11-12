@@ -49,6 +49,80 @@
     ]
   },
   {
+    "word": "quake",
+    "say": "kwayk",
+    "forms": [
+      "quakes",
+      "quaked",
+      "quaking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shake.",
+          "examples": [
+            "The ground quaked.",
+            "I quake with fear.",
+            "The leaves quaked."
+          ]
+        },
+        "more": {
+          "def": "To shake or tremble, as the ground does in an earthquake or as a person does from fear.",
+          "examples": [
+            "The ground quaked beneath our feet during the earthquake.",
+            "The little mouse quaked with fear.",
+            "His voice quaked when he began to speak."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shaking of the ground.",
+          "examples": [
+            "We felt a quake.",
+            "The quake was small.",
+            "A quake shook the town."
+          ]
+        },
+        "more": {
+          "def": "A shaking of the ground, short for earthquake.",
+          "examples": [
+            "A small quake rattled the dishes in the kitchen.",
+            "The quake lasted only a few seconds.",
+            "The town felt a strong quake in the night."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "qualifications",
+    "say": "kwol-ih-fih-KAY-shunz",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The skills or training that make you right for a job.",
+          "examples": [
+            "She has the right qualifications.",
+            "His qualifications are great.",
+            "What are your qualifications?"
+          ]
+        },
+        "more": {
+          "def": "The skills, training or tests that make a person right for a job or a position.",
+          "examples": [
+            "The new teacher has all the right qualifications for the job.",
+            "A lifeguard needs special qualifications, such as a swimming test.",
+            "The list of qualifications was posted on the door."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "qualified",
     "say": "KWOL-ih-fyd",
     "senses": [
@@ -194,6 +268,62 @@
     ]
   },
   {
+    "word": "quarry",
+    "say": "KWOR-ee",
+    "forms": [
+      "quarries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big pit where stone is dug out of the ground.",
+          "examples": [
+            "Stone comes from a quarry.",
+            "We saw a quarry.",
+            "The quarry is deep."
+          ]
+        },
+        "more": {
+          "def": "A large pit from which stone, such as granite or limestone, is cut or dug out of the ground; also an animal that is hunted.",
+          "examples": [
+            "Workers cut big blocks of stone from the quarry.",
+            "The quarry was a deep pit with sheer walls.",
+            "The hawk circled high above, looking for its quarry."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "quart",
+    "say": "kwort",
+    "forms": [
+      "quarts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way to measure milk or water; four make a gallon.",
+          "examples": [
+            "Mom bought a quart of milk.",
+            "We need a quart of juice.",
+            "Pour one quart of water."
+          ]
+        },
+        "more": {
+          "def": "A unit for measuring liquid in the U.S., equal to two pints or one quarter of a gallon.",
+          "examples": [
+            "The recipe needs a quart of milk, which is the same as four cups.",
+            "Four quarts of water fill a one-gallon jug.",
+            "She drank a whole quart of juice at the picnic."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "quarter",
     "say": "KWOR-ter",
     "emoji": "🪙",
@@ -264,6 +394,34 @@
             "The quarterback threw a long pass.",
             "He is the quarterback on our team.",
             "The quarterback called the play."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "quartet",
+    "say": "kwor-TET",
+    "forms": [
+      "quartets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of four people who sing or play music together.",
+          "examples": [
+            "The quartet sang.",
+            "A string quartet.",
+            "Four singers make a quartet."
+          ]
+        },
+        "more": {
+          "def": "A group of four singers or players, or a piece of music for four.",
+          "examples": [
+            "The string quartet played a lovely song at the wedding.",
+            "A quartet of four friends sang in the choir.",
+            "The piece was written for a quartet."
           ]
         }
       }
@@ -423,6 +581,31 @@
     ]
   },
   {
+    "word": "questionable",
+    "say": "KWES-chun-uh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not sure to be right or good.",
+          "examples": [
+            "The answer is questionable.",
+            "A questionable idea.",
+            "His story is questionable."
+          ]
+        },
+        "more": {
+          "def": "Doubtful, so that you are not sure it is true, right or good.",
+          "examples": [
+            "His story about the missing cookie sounded questionable.",
+            "It is questionable whether the old bridge is safe.",
+            "The chef had a questionable idea for the dessert: peanut butter pizza."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "quick",
     "say": "kwik",
     "forms": [
@@ -478,6 +661,31 @@
             "She quickly finished her homework so she could play outside.",
             "News of the win spread quickly.",
             "The nurse quickly put a bandage on the cut."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "quicksand",
+    "say": "KWIK-sand",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Wet, loose sand that you can sink into.",
+          "examples": [
+            "He stepped in quicksand.",
+            "Quicksand is soft.",
+            "The explorer avoided the quicksand."
+          ]
+        },
+        "more": {
+          "def": "Soft, wet sand that you can sink into if you step on it, so that it is hard to get out.",
+          "examples": [
+            "In the movie, the explorer stepped into quicksand and had to be pulled out.",
+            "Quicksand is wet sand that looks solid but is soft.",
+            "Stay on the path to keep away from quicksand."
           ]
         }
       }
@@ -593,6 +801,34 @@
             "The museum was quite crowded on Saturday afternoon.",
             "It took quite a long time to walk up the mountain.",
             "He was quite sure that he had seen a fox in the garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "quitter",
+    "say": "KWIT-er",
+    "forms": [
+      "quitters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who gives up too easily.",
+          "examples": [
+            "Do not be a quitter.",
+            "He is not a quitter.",
+            "A quitter gives up."
+          ]
+        },
+        "more": {
+          "def": "A person who gives up easily instead of trying again.",
+          "examples": [
+            "She is no quitter and kept practicing until she could ride the bike.",
+            "A good team does not call anyone a quitter.",
+            "He did not want to be a quitter, so he tried again."
           ]
         }
       }

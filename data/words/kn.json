@@ -1,5 +1,58 @@
 [
   {
+    "word": "knack",
+    "say": "nak",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A special skill for doing something.",
+          "examples": [
+            "She has a knack for drawing.",
+            "He has a knack for fixing things.",
+            "I have a knack for it."
+          ]
+        },
+        "more": {
+          "def": "A special ability to do something well, often without effort.",
+          "examples": [
+            "She has a knack for making people laugh.",
+            "My uncle has a knack for fixing broken bikes.",
+            "It took me a while to get the knack of riding a skateboard."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "knapsack",
+    "say": "NAP-sak",
+    "forms": [
+      "knapsacks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bag you carry on your back.",
+          "examples": [
+            "I carried a knapsack.",
+            "The knapsack is heavy.",
+            "He packed his knapsack."
+          ]
+        },
+        "more": {
+          "def": "A bag with straps that you carry on your back, used for carrying things on a hike or to school.",
+          "examples": [
+            "I packed a lunch in my knapsack for the hike.",
+            "The hiker carried a knapsack with a map and a water bottle.",
+            "He swung his knapsack over his shoulder."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "knee",
     "say": "nee",
     "forms": [
@@ -111,6 +164,36 @@
             "The knight promised to protect the castle.",
             "The queen made the brave soldier a knight.",
             "In the story, the knight fights a dragon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "knit",
+    "say": "nit",
+    "forms": [
+      "knits",
+      "knitted",
+      "knitting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make cloth by looping yarn with long needles.",
+          "examples": [
+            "Grandma knits scarves.",
+            "She knitted a hat.",
+            "I want to learn to knit."
+          ]
+        },
+        "more": {
+          "def": "To make cloth or clothing by looping yarn together using two long needles or a machine.",
+          "examples": [
+            "Grandma knitted a warm scarf for me out of soft blue yarn.",
+            "She learned to knit by watching her mother.",
+            "He knitted a pair of socks for the winter."
           ]
         }
       }

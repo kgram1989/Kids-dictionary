@@ -96,5 +96,63 @@
         }
       }
     ]
+  },
+  {
+    "word": "dwelling",
+    "say": "DWEL-ing",
+    "forms": [
+      "dwellings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where someone lives.",
+          "examples": [
+            "The cave was their dwelling.",
+            "A small dwelling.",
+            "A dwelling by the lake."
+          ]
+        },
+        "more": {
+          "def": "A house or another place where people live.",
+          "examples": [
+            "The cave was the dwelling of an early family.",
+            "The village had a few small dwellings along the river.",
+            "The cliff dwelling was built into the rock."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dwindle",
+    "say": "DWIN-dul",
+    "forms": [
+      "dwindles",
+      "dwindled",
+      "dwindling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get smaller and smaller.",
+          "examples": [
+            "Our food dwindled.",
+            "The crowd dwindled.",
+            "The snow dwindled in the sun."
+          ]
+        },
+        "more": {
+          "def": "To slowly become smaller, fewer or weaker until there is very little left.",
+          "examples": [
+            "Our supply of firewood dwindled as the nights got colder.",
+            "The crowd at the fair dwindled as the sun went down.",
+            "The pile of snow dwindled in the warm spring sun."
+          ]
+        }
+      }
+    ]
   }
 ]

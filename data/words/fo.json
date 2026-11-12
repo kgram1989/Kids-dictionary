@@ -120,6 +120,34 @@
     ]
   },
   {
+    "word": "foe",
+    "say": "foh",
+    "forms": [
+      "foes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An enemy.",
+          "examples": [
+            "The hero fought his foe.",
+            "A foe is an enemy.",
+            "The foe was strong."
+          ]
+        },
+        "more": {
+          "def": "An enemy or someone who is against you.",
+          "examples": [
+            "In the story, the brave knight faced his greatest foe.",
+            "The fox and the rabbit are natural foes.",
+            "The two teams were friendly foes on the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fog",
     "say": "fog",
     "emoji": "🌫️",
@@ -151,6 +179,84 @@
     ]
   },
   {
+    "word": "foggy",
+    "say": "FOG-ee",
+    "forms": [
+      "foggier",
+      "foggiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Covered with fog.",
+          "examples": [
+            "It is a foggy day.",
+            "The foggy road.",
+            "A foggy morning."
+          ]
+        },
+        "more": {
+          "def": "Full of fog, so that it is hard to see, or not clear.",
+          "examples": [
+            "It was a foggy morning, and we could barely see the road.",
+            "The foggy harbor was quiet.",
+            "I have a foggy memory of the trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "foil",
+    "say": "foyl",
+    "forms": [
+      "foils",
+      "foiled",
+      "foiling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin, shiny sheet of metal for wrapping food.",
+          "examples": [
+            "Wrap it in foil.",
+            "The foil is shiny.",
+            "Mom used foil."
+          ]
+        },
+        "more": {
+          "def": "A very thin, shiny sheet of metal, usually aluminum, that is used for wrapping and covering food.",
+          "examples": [
+            "Mom wrapped the sandwich in foil.",
+            "We covered the baking dish with foil.",
+            "The candy was wrapped in colored foil."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop someone's plan.",
+          "examples": [
+            "The hero foiled the plan.",
+            "Rain foiled our picnic.",
+            "The dog foiled the thief."
+          ]
+        },
+        "more": {
+          "def": "To stop someone's plan or to keep it from working.",
+          "examples": [
+            "The hero foiled the villain's plan in the story.",
+            "The rain foiled our plans for a picnic.",
+            "The guard dog foiled the thief."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fold",
     "say": "fohld",
     "forms": [
@@ -175,6 +281,34 @@
             "I folded the paper in half.",
             "She folded the clean shirts and put them away.",
             "Dad folded the map and put it in the car."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "folder",
+    "say": "FOHL-der",
+    "forms": [
+      "folders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cover that holds papers.",
+          "examples": [
+            "Put it in the folder.",
+            "My folder is blue.",
+            "The folder has my papers."
+          ]
+        },
+        "more": {
+          "def": "A piece of folded cardboard or plastic that holds loose papers, or a place on a computer where files are kept together.",
+          "examples": [
+            "I keep my homework papers in a blue folder.",
+            "She made a folder on the computer for her photos.",
+            "The teacher handed out folders to everyone."
           ]
         }
       }
@@ -280,6 +414,34 @@
             "The leader walked with his followers behind him.",
             "She is a loyal follower of the team.",
             "The singer has thousands of followers online."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "folly",
+    "say": "FOL-ee",
+    "forms": [
+      "follies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A silly act or idea.",
+          "examples": [
+            "It was folly to go out in the storm.",
+            "What folly!",
+            "A foolish folly."
+          ]
+        },
+        "more": {
+          "def": "A silly or unwise idea or action.",
+          "examples": [
+            "It was folly to go out in the storm without coats.",
+            "The story is about the folly of a king who trusted a fox.",
+            "Building a house on sand is a folly."
           ]
         }
       }
@@ -422,6 +584,56 @@
     ]
   },
   {
+    "word": "foolishness",
+    "say": "FOO-lish-nis",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Silly behavior or lack of good sense.",
+          "examples": [
+            "That is foolishness.",
+            "The foolishness made us laugh.",
+            "What foolishness!"
+          ]
+        },
+        "more": {
+          "def": "Silly behavior or a lack of good sense.",
+          "examples": [
+            "Running on the wet floor was pure foolishness.",
+            "The class giggled at the foolishness of the clown.",
+            "It was foolishness to skip breakfast before the long hike."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "foolproof",
+    "say": "FOOL-proof",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "So simple that it cannot go wrong.",
+          "examples": [
+            "The plan is foolproof.",
+            "A foolproof recipe.",
+            "This is foolproof."
+          ]
+        },
+        "more": {
+          "def": "So simple and well made that it cannot go wrong or be used the wrong way.",
+          "examples": [
+            "The recipe is foolproof, so even a beginner can make it.",
+            "The game has foolproof rules that are easy to follow.",
+            "He thought his plan was foolproof, but it had a flaw."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "foot",
     "say": "fuut",
     "emoji": "🦶",
@@ -556,6 +768,62 @@
             "He threw the football across the field.",
             "She caught the football with both hands.",
             "The football bounced off the goal post."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "foothold",
+    "say": "FUUT-hohld",
+    "forms": [
+      "footholds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small place where you can put your foot when you climb.",
+          "examples": [
+            "The climber found a foothold.",
+            "A foothold in the rock.",
+            "She had no foothold."
+          ]
+        },
+        "more": {
+          "def": "A small place or ledge where you can safely put your foot when you are climbing, or a first step that helps you succeed.",
+          "examples": [
+            "The climber found a small foothold in the rock and pulled herself up.",
+            "The tree had a foothold for the squirrel in the bark.",
+            "The new shop got a foothold in the town by selling cheap books."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "footpath",
+    "say": "FUUT-path",
+    "forms": [
+      "footpaths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A narrow path for people to walk on.",
+          "examples": [
+            "We walked along a footpath.",
+            "The footpath goes to the lake.",
+            "A footpath crosses the field."
+          ]
+        },
+        "more": {
+          "def": "A narrow path that is made for people to walk along, not for cars.",
+          "examples": [
+            "We followed a footpath through the woods to the lake.",
+            "The footpath crosses the field and joins the road.",
+            "Hikers use the footpath along the river."
           ]
         }
       }
@@ -795,6 +1063,84 @@
     ]
   },
   {
+    "word": "forecast",
+    "say": "FOR-kast",
+    "forms": [
+      "forecasts",
+      "forecasted",
+      "forecasting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A guess about what will happen, like the weather.",
+          "examples": [
+            "The forecast says rain.",
+            "Check the weather forecast.",
+            "The forecast was right."
+          ]
+        },
+        "more": {
+          "def": "A statement about what is likely to happen, especially about the weather.",
+          "examples": [
+            "The weather forecast says it will rain tomorrow.",
+            "We checked the forecast before planning the picnic.",
+            "The forecast was for snow in the mountains."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say what will probably happen.",
+          "examples": [
+            "They forecast rain.",
+            "The weatherman forecasts snow.",
+            "She forecast a sunny day."
+          ]
+        },
+        "more": {
+          "def": "To say what is likely to happen in the future, especially the weather.",
+          "examples": [
+            "The weather service forecast heavy rain for the weekend.",
+            "She forecast that the team would win the game.",
+            "Scientists forecast storms by studying the clouds."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "forefinger",
+    "say": "FOR-fing-ger",
+    "emoji": "☝️",
+    "forms": [
+      "forefingers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The finger next to your thumb.",
+          "examples": [
+            "I pointed with my forefinger.",
+            "Hold the pencil with your forefinger.",
+            "She put her forefinger on her lips."
+          ]
+        },
+        "more": {
+          "def": "The finger next to the thumb, which people often use to point at things.",
+          "examples": [
+            "He pressed the button with his forefinger.",
+            "She traced the line on the map with her forefinger.",
+            "Hold the tiny seed between your thumb and forefinger."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "forehead",
     "say": "FOR-hed",
     "forms": [
@@ -905,6 +1251,37 @@
     ]
   },
   {
+    "word": "foresee",
+    "say": "for-SEE",
+    "forms": [
+      "foresees",
+      "foresaw",
+      "foreseen",
+      "foreseeing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To know before it happens.",
+          "examples": [
+            "I foresaw the rain.",
+            "Can you foresee the end?",
+            "She foresaw trouble."
+          ]
+        },
+        "more": {
+          "def": "To know or guess that something will happen before it happens.",
+          "examples": [
+            "The farmer foresaw the storm when he saw the dark clouds.",
+            "No one could foresee how big the party would get.",
+            "I did not foresee that the bus would be late."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "forest",
     "say": "FOR-ist",
     "emoji": "🌲",
@@ -983,6 +1360,34 @@
             "The team forfeited the game because it did not have enough players.",
             "He forfeited his turn by talking out of order.",
             "They forfeited the match when they could not play."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "forgery",
+    "say": "FOR-jer-ee",
+    "forms": [
+      "forgeries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fake copy of something made to trick people.",
+          "examples": [
+            "The painting was a forgery.",
+            "The note was a forgery.",
+            "A forgery is not real."
+          ]
+        },
+        "more": {
+          "def": "A fake copy of something, such as a painting or a signature, that is made to trick people into believing it is real.",
+          "examples": [
+            "The museum found that the painting was a forgery, not the real one.",
+            "The signature on the letter turned out to be a forgery.",
+            "Experts can tell a forgery from the real coin."
           ]
         }
       }
@@ -1082,6 +1487,31 @@
             "She asked for forgiveness after breaking the vase.",
             "His forgiveness made her feel better.",
             "Forgiveness helps friends stay friends."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "forgiving",
+    "say": "for-GIV-ing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Willing to stop being angry at someone.",
+          "examples": [
+            "My mom is forgiving.",
+            "A forgiving friend.",
+            "She was forgiving."
+          ]
+        },
+        "more": {
+          "def": "Willing to forgive other people and not stay angry about their mistakes.",
+          "examples": [
+            "My grandmother is forgiving and never stays angry for long.",
+            "A forgiving friend says it is okay when you make a mistake.",
+            "The forgiving teacher gave us another chance to hand in the work."
           ]
         }
       }
@@ -1304,6 +1734,31 @@
     ]
   },
   {
+    "word": "formidable",
+    "say": "FOR-mih-duh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Strong and hard to beat.",
+          "examples": [
+            "The champion was a formidable player.",
+            "A formidable mountain.",
+            "A formidable team."
+          ]
+        },
+        "more": {
+          "def": "Strong, powerful or difficult in a way that makes people respect or fear it.",
+          "examples": [
+            "The champion team was a formidable opponent that few could beat.",
+            "Climbing the steep mountain was a formidable task.",
+            "The castle's thick walls gave it a formidable look."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "formula",
     "say": "FOR-myuh-luh",
     "forms": [
@@ -1326,6 +1781,37 @@
             "The formula for the area of a rectangle is length times width.",
             "The scientist wrote the formula on the board.",
             "The formula for the potion was a secret."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "forsake",
+    "say": "for-SAYK",
+    "forms": [
+      "forsakes",
+      "forsook",
+      "forsaken",
+      "forsaking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To leave someone or something for good.",
+          "examples": [
+            "Do not forsake your friends.",
+            "He would never forsake his dog.",
+            "She forsook the old house."
+          ]
+        },
+        "more": {
+          "def": "To leave someone or something behind completely, especially a person who needs you.",
+          "examples": [
+            "A good friend will never forsake you when you are in trouble.",
+            "The farmer would not forsake his land, even in a hard year.",
+            "In the old tale, the knight forsook his castle and set out alone."
           ]
         }
       }
@@ -1635,6 +2121,54 @@
             "The house has a strong foundation of stone.",
             "Workers poured the concrete foundation first.",
             "A good foundation keeps the walls from cracking."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "founder",
+    "say": "FOWN-der",
+    "forms": [
+      "founders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who starts a school, a club or a town.",
+          "examples": [
+            "The founder of our school was kind.",
+            "She is the founder of the club.",
+            "A statue of the founder stands here."
+          ]
+        },
+        "more": {
+          "def": "A person who starts something new, such as a town, a school or a business.",
+          "examples": [
+            "The founder of our town built the first house beside the river.",
+            "A statue of the school's founder stands near the front gate.",
+            "The founder of the company started by selling lemonade on the street."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "say": "FOWN-der",
+        "easy": {
+          "def": "To fill with water and sink.",
+          "examples": [
+            "The old boat foundered.",
+            "The ship foundered in the storm.",
+            "The raft foundered near the rocks."
+          ]
+        },
+        "more": {
+          "def": "To fill with water and sink, or to fail completely.",
+          "examples": [
+            "The little boat foundered on the rocks and began to fill with water.",
+            "The plan foundered when the money ran out.",
+            "The ship foundered in the big storm and sank to the bottom."
           ]
         }
       }

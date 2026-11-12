@@ -326,6 +326,31 @@
     ]
   },
   {
+    "word": "modesty",
+    "say": "MOD-iss-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Not bragging about yourself.",
+          "examples": [
+            "She showed modesty.",
+            "He won, but he showed modesty.",
+            "Modesty is kind."
+          ]
+        },
+        "more": {
+          "def": "The quality of not boasting about yourself or your abilities.",
+          "examples": [
+            "The winner showed modesty and thanked her teammates.",
+            "He accepted the prize with modesty.",
+            "Modesty means not bragging about what you do well."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "moist",
     "say": "moyst",
     "senses": [
@@ -447,6 +472,34 @@
     ]
   },
   {
+    "word": "molecule",
+    "say": "MOL-uh-kyool",
+    "forms": [
+      "molecules"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny piece of something, too small to see.",
+          "examples": [
+            "Water is made of molecules.",
+            "A molecule is small.",
+            "Air has molecules."
+          ]
+        },
+        "more": {
+          "def": "The smallest bit of a substance, made of atoms joined together, that is too small to see.",
+          "examples": [
+            "A water molecule is made of two hydrogen atoms and one oxygen atom.",
+            "Molecules in hot water move faster than molecules in cold water.",
+            "Air is made of tiny molecules that are always moving."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mom",
     "say": "mom",
     "forms": [
@@ -497,6 +550,31 @@
             "Wait a moment while I find my shoes.",
             "At that moment, the lights went out.",
             "The best moment of the trip was seeing the whale."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "momentum",
+    "say": "moh-MEN-tum",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The push that keeps something moving.",
+          "examples": [
+            "The sled had momentum.",
+            "The ball lost momentum.",
+            "The team gained momentum."
+          ]
+        },
+        "more": {
+          "def": "The force that keeps a moving thing going, or the speed that something gains as it moves or grows.",
+          "examples": [
+            "The sled gained momentum as it raced down the hill.",
+            "The team gained momentum after scoring two goals.",
+            "The ball kept rolling because of its momentum."
           ]
         }
       }
@@ -739,6 +817,34 @@
     ]
   },
   {
+    "word": "monopoly",
+    "say": "muh-NOP-uh-lee",
+    "forms": [
+      "monopolies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When only one company sells something.",
+          "examples": [
+            "One shop had a monopoly.",
+            "The monopoly set high prices.",
+            "A monopoly is not fair."
+          ]
+        },
+        "more": {
+          "def": "A situation in which one company or person controls all of a product or service, so there is no one else to buy it from.",
+          "examples": [
+            "When only one company sold electricity in town, it had a monopoly.",
+            "A monopoly can charge high prices because there is nowhere else to shop.",
+            "The old railway company held a monopoly on travel across the region."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "monster",
     "say": "MON-ster",
     "emoji": "👹",
@@ -762,6 +868,31 @@
             "The monster in the story turned out to be friendly.",
             "She drew a purple monster with three eyes.",
             "The children dressed as monsters for the party."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "monstrous",
+    "say": "MON-strus",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very big and scary.",
+          "examples": [
+            "A monstrous wave came.",
+            "The monstrous creature roared.",
+            "A monstrous truck."
+          ]
+        },
+        "more": {
+          "def": "Very large and frightening, like a monster, or very wrong or cruel.",
+          "examples": [
+            "A monstrous wave rose up and crashed over the boat.",
+            "The monstrous creature in the story had three heads.",
+            "The truck was monstrous and almost filled the road."
           ]
         }
       }
@@ -796,6 +927,128 @@
     ]
   },
   {
+    "word": "monthly",
+    "say": "MUNTH-lee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happening once every month.",
+          "examples": [
+            "We have a monthly meeting.",
+            "The monthly bill came.",
+            "It is a monthly magazine."
+          ]
+        },
+        "more": {
+          "def": "Happening or appearing once a month.",
+          "examples": [
+            "The library holds a monthly book club on the first Saturday.",
+            "My dad pays the monthly water bill online.",
+            "She got a monthly magazine about animals in the mail."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Once every month.",
+          "examples": [
+            "We visit monthly.",
+            "The club meets monthly.",
+            "I get a haircut monthly."
+          ]
+        },
+        "more": {
+          "def": "Once a month, every month.",
+          "examples": [
+            "The scouts meet monthly to plan their next hike.",
+            "The magazine comes out monthly.",
+            "Mom pays the bills monthly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "monument",
+    "say": "MON-yuh-munt",
+    "emoji": "🗽",
+    "forms": [
+      "monuments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big statue or building that helps us remember something.",
+          "examples": [
+            "We visited a monument in the park.",
+            "The monument is made of stone.",
+            "A tall monument stood in the town."
+          ]
+        },
+        "more": {
+          "def": "A statue, building or other structure built to help people remember a person or an important event.",
+          "examples": [
+            "The tall monument in the capital honors a president from long ago.",
+            "We took pictures of the stone monument beside the old battlefield.",
+            "A small monument in the town square reminds people of the town's founders."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "moo",
+    "say": "moo",
+    "forms": [
+      "moos",
+      "mooed",
+      "mooing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make the sound a cow makes.",
+          "examples": [
+            "The cow mooed.",
+            "Cows moo at the gate.",
+            "I heard it moo."
+          ]
+        },
+        "more": {
+          "def": "To make the low, long sound that a cow makes.",
+          "examples": [
+            "The cow mooed at the farmer when he brought the hay.",
+            "Cows moo to call their calves.",
+            "We heard a cow moo across the field."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sound a cow makes.",
+          "examples": [
+            "I heard a loud moo.",
+            "The cow said moo.",
+            "A moo came from the barn."
+          ]
+        },
+        "more": {
+          "def": "The low, long sound a cow makes.",
+          "examples": [
+            "A deep moo came from the barn as the farmer opened the door.",
+            "The calf answered with a soft moo.",
+            "We played a game where you guess the animal by its moo."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mood",
     "say": "mood",
     "forms": [
@@ -818,6 +1071,35 @@
             "I'm in a cheerful mood today.",
             "Dad was in a good mood after the game.",
             "The rainy day put her in a quiet mood."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "moody",
+    "say": "MOO-dee",
+    "forms": [
+      "moodier",
+      "moodiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happy one minute and cross the next.",
+          "examples": [
+            "He is moody today.",
+            "A moody cat.",
+            "She gets moody when tired."
+          ]
+        },
+        "more": {
+          "def": "Having moods that change quickly, or often being cross or sad.",
+          "examples": [
+            "He was moody on Monday, quiet one minute and cheerful the next.",
+            "The cat was moody and hissed when we came close.",
+            "She gets moody when she is tired or hungry."
           ]
         }
       }
@@ -973,6 +1255,36 @@
     ]
   },
   {
+    "word": "mope",
+    "say": "mohp",
+    "forms": [
+      "mopes",
+      "moped",
+      "moping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be sad and not want to do anything.",
+          "examples": [
+            "Don't mope.",
+            "He moped in his room.",
+            "She moped all day."
+          ]
+        },
+        "more": {
+          "def": "To feel sad and gloomy and not do anything fun.",
+          "examples": [
+            "Don't mope about the rain; let's play a game instead.",
+            "He moped around the house after his friend moved away.",
+            "She moped in her room all afternoon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "moral",
     "say": "MOR-ul",
     "forms": [
@@ -1039,6 +1351,31 @@
             "The team's morale was high after the big win.",
             "A kind note from the coach raised everyone's morale.",
             "Morale was low when the rain would not stop for a week."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "morals",
+    "say": "MOR-ulz",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Ideas about what is right and wrong.",
+          "examples": [
+            "Good morals help us be kind.",
+            "She has strong morals.",
+            "The story teaches morals."
+          ]
+        },
+        "more": {
+          "def": "A person's ideas about what is right and what is wrong, and how they behave because of those ideas.",
+          "examples": [
+            "Her good morals made her return the wallet she found.",
+            "The fables told by the farmer taught the children about honesty and morals.",
+            "He has strong morals and always tells the truth."
           ]
         }
       }
@@ -1498,6 +1835,34 @@
     ]
   },
   {
+    "word": "mound",
+    "say": "mownd",
+    "forms": [
+      "mounds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small hill or a heap.",
+          "examples": [
+            "A mound of dirt.",
+            "The ants built a mound.",
+            "A mound of snow."
+          ]
+        },
+        "more": {
+          "def": "A small hill or a pile of earth, stones or other things.",
+          "examples": [
+            "The ants built a tall mound of sand in the garden.",
+            "A mound of snow was left after the plow went by.",
+            "The pitcher stood on the mound and threw the ball."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mount",
     "say": "mownt",
     "forms": [
@@ -1604,6 +1969,36 @@
             "We hiked up the steep mountainside.",
             "Snow covered the mountainside all winter.",
             "Mountain goats climbed along the rocky mountainside."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mourn",
+    "say": "morn",
+    "forms": [
+      "mourns",
+      "mourned",
+      "mourning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To feel very sad because someone has died.",
+          "examples": [
+            "We mourn our old cat.",
+            "The family mourned for a week.",
+            "They mourn their friend."
+          ]
+        },
+        "more": {
+          "def": "To feel deep sadness and show it after a person or pet has died.",
+          "examples": [
+            "The whole town came together to mourn the loss of their kind neighbor.",
+            "We mourned our old dog, but we also shared happy memories of him.",
+            "The family mourned quietly and held each other close."
           ]
         }
       }
@@ -1736,6 +2131,34 @@
     ]
   },
   {
+    "word": "mouthful",
+    "say": "MOWTH-ful",
+    "forms": [
+      "mouthfuls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "As much food as you can fit in your mouth.",
+          "examples": [
+            "Take a mouthful.",
+            "A big mouthful of soup.",
+            "I ate a mouthful."
+          ]
+        },
+        "more": {
+          "def": "The amount of food or drink that fills your mouth, or a word that is long and hard to say.",
+          "examples": [
+            "Take a small mouthful and chew slowly.",
+            "He swallowed a big mouthful of milk.",
+            "\"Supercalifragilistic\" is a mouthful to say."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "move",
     "say": "moov",
     "forms": [
@@ -1832,6 +2255,34 @@
     ]
   },
   {
+    "word": "mover",
+    "say": "MOO-ver",
+    "forms": [
+      "movers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who helps carry your things when you move.",
+          "examples": [
+            "The movers carried the sofa.",
+            "The movers are here.",
+            "A mover lifted the box."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to carry furniture and boxes from one home to another when people move.",
+          "examples": [
+            "The movers carried the sofa and boxes into the truck.",
+            "We hired movers to help us move to the new house.",
+            "The movers wrapped the lamps in blankets."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "movie",
     "say": "MOO-vee",
     "emoji": "🎬",
@@ -1886,6 +2337,34 @@
             "Dad mows the lawn every Saturday.",
             "I mowed the grass in the front yard.",
             "The farmer mowed the hay field before it rained."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mower",
+    "say": "MOH-er",
+    "forms": [
+      "mowers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that cuts grass.",
+          "examples": [
+            "Dad used the mower.",
+            "The mower is loud.",
+            "A lawn mower cuts grass."
+          ]
+        },
+        "more": {
+          "def": "A machine with sharp blades that cuts grass on a lawn or a field.",
+          "examples": [
+            "Dad pushed the mower across the lawn on Saturday.",
+            "The mower made a loud noise.",
+            "A ride-on mower cut the big field."
           ]
         }
       }

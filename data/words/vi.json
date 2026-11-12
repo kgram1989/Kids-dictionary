@@ -1,5 +1,88 @@
 [
   {
+    "word": "vial",
+    "say": "VY-ul",
+    "forms": [
+      "vials"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny bottle for liquid.",
+          "examples": [
+            "The vial is small.",
+            "A vial of perfume.",
+            "She held a vial."
+          ]
+        },
+        "more": {
+          "def": "A very small glass or plastic bottle that holds liquid, such as medicine or a science sample.",
+          "examples": [
+            "The scientist poured a few drops into a small glass vial.",
+            "The nurse held up a vial of medicine.",
+            "He kept a vial of sand from the beach."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vibrant",
+    "say": "VY-brunt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Bright and full of life.",
+          "examples": [
+            "The flowers are vibrant.",
+            "A vibrant color.",
+            "She is vibrant."
+          ]
+        },
+        "more": {
+          "def": "Full of energy and life, or bright and strong in color.",
+          "examples": [
+            "The vibrant colors of the parade filled the street.",
+            "The market was vibrant with music and laughter.",
+            "She wore a vibrant red scarf."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vibrate",
+    "say": "VY-brayt",
+    "forms": [
+      "vibrates",
+      "vibrated",
+      "vibrating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shake very fast in small, quick movements.",
+          "examples": [
+            "The phone vibrates.",
+            "The guitar string vibrated.",
+            "The floor vibrated."
+          ]
+        },
+        "more": {
+          "def": "To move back and forth very quickly in tiny movements, often making a sound or a buzzing feeling.",
+          "examples": [
+            "My phone vibrates on the table when a message comes in.",
+            "A guitar string vibrates when you pluck it, and that makes a sound.",
+            "The windows vibrated when the heavy truck drove past."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vibration",
     "say": "vy-BRAY-shun",
     "forms": [
@@ -22,6 +105,34 @@
             "I felt the vibration of the truck through the floor.",
             "My phone gave a quick vibration when a message came.",
             "The vibration of the guitar string makes the sound."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vicinity",
+    "say": "vih-SIN-ih-tee",
+    "forms": [
+      "vicinities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The area close to a place.",
+          "examples": [
+            "Is there a store in the vicinity?",
+            "No cars are in the vicinity.",
+            "We live in the vicinity of the park."
+          ]
+        },
+        "more": {
+          "def": "The area near or around a place.",
+          "examples": [
+            "There are several good parks in the vicinity of our school.",
+            "No bears were seen in the vicinity of our campsite.",
+            "Is there a library anywhere in this vicinity?"
           ]
         }
       }
@@ -304,6 +415,34 @@
     ]
   },
   {
+    "word": "villager",
+    "say": "VIL-ij-er",
+    "forms": [
+      "villagers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who lives in a village.",
+          "examples": [
+            "The villager sold eggs.",
+            "Every villager came to the party.",
+            "A villager waved to us."
+          ]
+        },
+        "more": {
+          "def": "A person who lives in a small town or village.",
+          "examples": [
+            "Every villager came to the square for the harvest party.",
+            "A friendly villager showed us the way to the old well.",
+            "The villagers worked together to build a new bridge."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "villain",
     "say": "VIL-un",
     "forms": [
@@ -360,6 +499,56 @@
             "The vine grew up the wall of the house.",
             "Grapes grow in bunches on a vine.",
             "The monkey swung through the forest from vine to vine."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vinegar",
+    "say": "VIN-ih-ger",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sour liquid used in salads and for cleaning.",
+          "examples": [
+            "Add vinegar to the salad.",
+            "Vinegar tastes sour.",
+            "We used vinegar to clean."
+          ]
+        },
+        "more": {
+          "def": "A sour liquid, made from wine or apples, that is used in salad dressing and for pickling or cleaning.",
+          "examples": [
+            "Mom mixed oil and vinegar to make salad dressing.",
+            "Vinegar tastes sour and sharp.",
+            "We mixed baking soda and vinegar to make a fizzy volcano."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vintage",
+    "say": "VIN-tij",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Old, but still good and valued.",
+          "examples": [
+            "A vintage car.",
+            "I like vintage toys.",
+            "The vintage dress is pretty."
+          ]
+        },
+        "more": {
+          "def": "Old and of high quality, often because it is from an earlier time and is still valued.",
+          "examples": [
+            "Grandpa has a vintage car that he keeps shiny.",
+            "She found a vintage dress at the thrift store.",
+            "The shop sells vintage toys from fifty years ago."
           ]
         }
       }
@@ -534,6 +723,59 @@
             "A viper is a poisonous snake.",
             "The viper coiled under the rock.",
             "The zoo keeper showed us a viper in the glass case."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "virtual",
+    "say": "VER-choo-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Seen on a screen, not in real life.",
+          "examples": [
+            "We took a virtual tour.",
+            "A virtual class.",
+            "I play a virtual game."
+          ]
+        },
+        "more": {
+          "def": "Existing or happening on a computer or on the internet, rather than in the real world.",
+          "examples": [
+            "We took a virtual tour of the museum on a computer.",
+            "The class held a virtual meeting using a video call.",
+            "In the virtual game, you can build a city without any bricks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "virtue",
+    "say": "VER-choo",
+    "forms": [
+      "virtues"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A good quality in a person.",
+          "examples": [
+            "Kindness is a virtue.",
+            "Being honest is a virtue.",
+            "Patience is a great virtue."
+          ]
+        },
+        "more": {
+          "def": "A good quality in a person's character, such as honesty, kindness or courage.",
+          "examples": [
+            "Honesty is a virtue that people admire in a friend.",
+            "Her greatest virtue was her patience with the little children.",
+            "The book tells of a hero who showed the virtue of courage."
           ]
         }
       }
@@ -749,6 +991,36 @@
     ]
   },
   {
+    "word": "visualize",
+    "say": "VIZH-oo-uh-lyz",
+    "forms": [
+      "visualizes",
+      "visualized",
+      "visualizing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To picture something in your mind.",
+          "examples": [
+            "I visualize the beach.",
+            "Visualize the story.",
+            "She visualized the park."
+          ]
+        },
+        "more": {
+          "def": "To form a picture of something in your mind.",
+          "examples": [
+            "Close your eyes and visualize a quiet beach at sunset.",
+            "I try to visualize the story as I read.",
+            "The coach asked us to visualize scoring a goal."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vital",
     "say": "VY-tul",
     "forms": [
@@ -771,6 +1043,34 @@
             "Water is vital for all living things.",
             "Vital supplies were flown to the town after the flood.",
             "The bridge is a vital link between the towns."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vitamin",
+    "say": "VY-tuh-min",
+    "forms": [
+      "vitamins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something in food that helps your body stay healthy.",
+          "examples": [
+            "Oranges have vitamin C.",
+            "I take a vitamin.",
+            "Carrots have vitamins."
+          ]
+        },
+        "more": {
+          "def": "A substance in food that your body needs in small amounts to stay healthy and grow.",
+          "examples": [
+            "Oranges are full of vitamin C, which helps keep you from getting sick.",
+            "Carrots have a vitamin that is good for your eyes.",
+            "Doctors say a healthy diet gives you all the vitamins you need."
           ]
         }
       }

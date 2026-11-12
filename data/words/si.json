@@ -1,5 +1,33 @@
 [
   {
+    "word": "sibling",
+    "say": "SIB-ling",
+    "forms": [
+      "siblings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A brother or a sister.",
+          "examples": [
+            "I have one sibling.",
+            "My sibling is older.",
+            "She plays with her sibling."
+          ]
+        },
+        "more": {
+          "def": "A brother or a sister.",
+          "examples": [
+            "I share a room with my younger sibling.",
+            "The two siblings helped each other make dinner.",
+            "Do you have any siblings at home?"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sick",
     "say": "sik",
     "emoji": "🤒",
@@ -111,6 +139,62 @@
     ]
   },
   {
+    "word": "sidekick",
+    "say": "SYD-kik",
+    "forms": [
+      "sidekicks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A friend who helps the main hero.",
+          "examples": [
+            "The dog is the hero's sidekick.",
+            "Every hero needs a sidekick.",
+            "Her sidekick helped her find the key."
+          ]
+        },
+        "more": {
+          "def": "A close friend or helper who goes along with a main character and helps them in a story or adventure.",
+          "examples": [
+            "The funny parrot is the pirate's sidekick in the cartoon.",
+            "Every detective in the book had a loyal sidekick to help solve the mystery.",
+            "I was my cousin's sidekick on the treasure hunt."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sideline",
+    "say": "SYD-lyn",
+    "forms": [
+      "sidelines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The line along the side of a field.",
+          "examples": [
+            "The coach stood on the sideline.",
+            "Stay on the sideline.",
+            "The ball went out at the sideline."
+          ]
+        },
+        "more": {
+          "def": "A line along the side of a playing field or court, or a job you do in addition to your main one.",
+          "examples": [
+            "The coach stood on the sideline and shouted tips to the players.",
+            "The ball rolled out past the sideline.",
+            "She sells her paintings as a sideline to her regular job."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sidewalk",
     "say": "SYD-wawk",
     "forms": [
@@ -158,6 +242,36 @@
             "The crab scuttled sideways.",
             "I turned sideways to fit through the gap.",
             "The picture hung sideways on the wall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sift",
+    "say": "sift",
+    "forms": [
+      "sifts",
+      "sifted",
+      "sifting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shake flour or sand through a screen to get out lumps.",
+          "examples": [
+            "Sift the flour.",
+            "I sifted the sand.",
+            "She sifts the flour."
+          ]
+        },
+        "more": {
+          "def": "To pass flour, sand or another powder through a fine screen to remove lumps or to separate the fine part from the coarse.",
+          "examples": [
+            "Mom sifted the flour before she added it to the cake mix.",
+            "The children sifted the sand to find small shells.",
+            "We sifted through the old photos to find a picture of Grandpa."
           ]
         }
       }
@@ -236,6 +350,59 @@
             "The rainbow over the barn was a lovely sight.",
             "We saw the sights of the city.",
             "A herd of deer was a rare sight."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sighting",
+    "say": "SY-ting",
+    "forms": [
+      "sightings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Seeing something that is rare.",
+          "examples": [
+            "We had a sighting of a whale.",
+            "A bear sighting was in the news.",
+            "The sighting was exciting."
+          ]
+        },
+        "more": {
+          "def": "An occasion when something is seen, especially something rare or far away.",
+          "examples": [
+            "The hikers reported a sighting of a rare eagle near the lake.",
+            "A whale sighting made the whole boat cheer.",
+            "Scientists recorded every sighting of the comet in the night sky."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sightseeing",
+    "say": "SYT-see-ing",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Visiting places to look at the sights.",
+          "examples": [
+            "We went sightseeing.",
+            "Sightseeing is fun.",
+            "A sightseeing tour."
+          ]
+        },
+        "more": {
+          "def": "The activity of visiting interesting places as a tourist and looking around.",
+          "examples": [
+            "We went sightseeing in Paris and saw the famous tower.",
+            "A sightseeing bus took us around the city.",
+            "Sightseeing can be tiring, so wear comfortable shoes."
           ]
         }
       }
@@ -630,6 +797,31 @@
     ]
   },
   {
+    "word": "silverware",
+    "say": "SIL-ver-wair",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Forks, knives and spoons.",
+          "examples": [
+            "Set the silverware on the table.",
+            "The silverware is shiny.",
+            "Put away the silverware."
+          ]
+        },
+        "more": {
+          "def": "The forks, knives and spoons that people use to eat.",
+          "examples": [
+            "I helped set the table with plates and silverware.",
+            "The silverware went into the dishwasher after dinner.",
+            "Grandma polished the silverware before the holiday."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "similar",
     "say": "SIM-uh-ler",
     "senses": [
@@ -657,6 +849,64 @@
       {
         "word": "dissimilar",
         "def": "Not alike."
+      }
+    ]
+  },
+  {
+    "word": "similarity",
+    "say": "sim-uh-LAIR-ih-tee",
+    "forms": [
+      "similarities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way two things are alike.",
+          "examples": [
+            "There is a similarity between the two.",
+            "The similarity is clear.",
+            "I found a similarity."
+          ]
+        },
+        "more": {
+          "def": "A way in which two or more things are alike.",
+          "examples": [
+            "There is a strong similarity between the twins.",
+            "One similarity between cats and dogs is that they are both pets.",
+            "We found many similarities between the two stories."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "simmer",
+    "say": "SIM-er",
+    "forms": [
+      "simmers",
+      "simmered",
+      "simmering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cook gently just below boiling.",
+          "examples": [
+            "Let the soup simmer.",
+            "The sauce simmered.",
+            "Mom simmers the beans."
+          ]
+        },
+        "more": {
+          "def": "To cook food gently in liquid that is just below the boiling point, so that small bubbles rise.",
+          "examples": [
+            "Let the soup simmer for an hour so that the flavors blend.",
+            "The sauce simmered on the stove while we set the table.",
+            "Mom simmered the beans until they were soft."
+          ]
+        }
       }
     ]
   },
@@ -709,6 +959,34 @@
             "I simply wanted to say thank you.",
             "The teacher explained it simply.",
             "He simply smiled and walked away."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "simulation",
+    "say": "sim-yuh-LAY-shun",
+    "forms": [
+      "simulations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A copy of the real thing used to practice or learn.",
+          "examples": [
+            "We did a flight simulation.",
+            "The simulation was fun.",
+            "A computer simulation."
+          ]
+        },
+        "more": {
+          "def": "A copy of something real, often made on a computer, used to practice or to study how the real thing works.",
+          "examples": [
+            "Pilots practice flying in a computer simulation before they fly a real plane.",
+            "The class ran a simulation of how a volcano erupts.",
+            "The game was a simulation of running a zoo."
           ]
         }
       }
@@ -840,6 +1118,56 @@
     ]
   },
   {
+    "word": "sincerity",
+    "say": "sin-SAIR-ih-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Meaning what you say and being honest.",
+          "examples": [
+            "She spoke with sincerity.",
+            "His sincerity was clear.",
+            "I thanked her with sincerity."
+          ]
+        },
+        "more": {
+          "def": "The quality of being honest and really meaning what you say or feel.",
+          "examples": [
+            "She said \"thank you\" with real sincerity.",
+            "I could hear the sincerity in his voice when he said sorry.",
+            "The teacher praised him for his sincerity."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sinful",
+    "say": "SIN-ful",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wrong, especially in a religious way.",
+          "examples": [
+            "It was a sinful act.",
+            "A sinful thought.",
+            "The story had a sinful king."
+          ]
+        },
+        "more": {
+          "def": "Wrong or against the rules of a religion.",
+          "examples": [
+            "Stealing is thought to be sinful in many religions.",
+            "In the story, the sinful king was punished.",
+            "He felt that telling a lie was sinful."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sing",
     "say": "sing",
     "emoji": "🎤",
@@ -866,6 +1194,36 @@
             "The choir will sing three songs at the winter concert.",
             "Whales sing songs that travel far through the ocean.",
             "He sang quietly while he washed the dishes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "singe",
+    "say": "sinj",
+    "forms": [
+      "singes",
+      "singed",
+      "singeing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To burn something a little at the edge.",
+          "examples": [
+            "The flame singed the paper.",
+            "Do not singe your hair.",
+            "The toast was singed."
+          ]
+        },
+        "more": {
+          "def": "To burn the surface or edge of something slightly, so that it turns brown or black.",
+          "examples": [
+            "The flame singed the edge of the paper and left a brown mark.",
+            "Be careful not to singe your sleeve near the candle.",
+            "The campfire sparks singed a small hole in my sock."
           ]
         }
       }
@@ -964,6 +1322,31 @@
     ]
   },
   {
+    "word": "sinister",
+    "say": "SIN-iss-ter",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Scary and seeming to be bad.",
+          "examples": [
+            "The house looked sinister.",
+            "A sinister laugh.",
+            "A sinister shadow."
+          ]
+        },
+        "more": {
+          "def": "Seeming evil or threatening, so that it makes you feel that something bad may happen.",
+          "examples": [
+            "The old house looked sinister in the dark with its broken windows.",
+            "The villain in the story had a sinister laugh.",
+            "A sinister shadow crept across the wall."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sink",
     "say": "sink",
     "forms": [
@@ -1008,6 +1391,34 @@
             "The heavy rock sank to the bottom of the pond.",
             "The boat began to sink.",
             "Metal coins sink in water."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sinus",
+    "say": "SY-nus",
+    "forms": [
+      "sinuses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An air space inside your head, near your nose.",
+          "examples": [
+            "I have a stuffy sinus.",
+            "The sinus hurts.",
+            "Your sinuses are in your head."
+          ]
+        },
+        "more": {
+          "def": "One of the empty spaces in the bones of your face and head that are connected to your nose.",
+          "examples": [
+            "When I have a cold, my sinuses fill up and my nose gets stuffy.",
+            "The doctor said the pain above my eyes was in my sinuses.",
+            "Your sinuses help make your voice sound the way it does."
           ]
         }
       }
@@ -1162,6 +1573,34 @@
     ]
   },
   {
+    "word": "sitcom",
+    "say": "SIT-kom",
+    "forms": [
+      "sitcoms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A funny TV show about a family or friends.",
+          "examples": [
+            "We watched a sitcom.",
+            "The sitcom was funny.",
+            "A sitcom about a family."
+          ]
+        },
+        "more": {
+          "def": "A funny television show about the same characters in different everyday situations each week; short for situation comedy.",
+          "examples": [
+            "We laughed at the sitcom about a family with a talking dog.",
+            "A sitcom is a funny show about everyday life.",
+            "My favorite sitcom is on every Tuesday."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "site",
     "say": "syt",
     "forms": [
@@ -1184,6 +1623,34 @@
             "The workers cleaned the building site.",
             "The campers chose a flat site by the stream.",
             "The old castle is a famous historic site."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sitter",
+    "say": "SIT-er",
+    "forms": [
+      "sitters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who looks after kids or pets while parents are away.",
+          "examples": [
+            "The sitter came.",
+            "Our sitter is kind.",
+            "The sitter read us a story."
+          ]
+        },
+        "more": {
+          "def": "A person who takes care of children or pets for a short time while the parents or owners are away.",
+          "examples": [
+            "Our sitter came over and played games with us while Mom was at work.",
+            "The sitter gave the dog dinner.",
+            "A pet sitter looked after the cat while we were on vacation."
           ]
         }
       }
@@ -1371,6 +1838,36 @@
       {
         "word": "midsize",
         "def": "Not big and not small."
+      }
+    ]
+  },
+  {
+    "word": "sizzle",
+    "say": "SIZ-ul",
+    "forms": [
+      "sizzles",
+      "sizzled",
+      "sizzling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a hissing sound when cooking.",
+          "examples": [
+            "The bacon sizzled.",
+            "The pan sizzles.",
+            "Sausages sizzle on the grill."
+          ]
+        },
+        "more": {
+          "def": "To make a hissing, crackling sound, as food does when it is cooking in hot fat.",
+          "examples": [
+            "The bacon sizzled in the hot pan.",
+            "The sausages sizzled on the grill.",
+            "Water sizzled when it hit the hot stove."
+          ]
+        }
       }
     ]
   }

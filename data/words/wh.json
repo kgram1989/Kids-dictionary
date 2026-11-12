@@ -59,6 +59,31 @@
     ]
   },
   {
+    "word": "wham",
+    "say": "wam",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A word for a loud, hard hit.",
+          "examples": [
+            "Wham! The door shut.",
+            "The ball hit with a wham.",
+            "Wham went the drum."
+          ]
+        },
+        "more": {
+          "def": "A word used for the sound of a hard, sudden hit or crash.",
+          "examples": [
+            "Wham! The door slammed shut in the wind.",
+            "The ball hit the wall with a loud wham.",
+            "Wham! The bat hit the ball over the fence."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "what",
     "say": "wut",
     "senses": [
@@ -230,6 +255,70 @@
             "He rolls his wheelchair down the ramp.",
             "The school has ramps for wheelchairs.",
             "She moved her wheelchair up to the table."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wheelie",
+    "say": "WEE-lee",
+    "forms": [
+      "wheelies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bike trick where you ride on one wheel.",
+          "examples": [
+            "He did a wheelie.",
+            "A wheelie is a trick.",
+            "She tried a wheelie."
+          ]
+        },
+        "more": {
+          "def": "A trick in which you ride a bicycle or a motorbike with the front wheel lifted off the ground.",
+          "examples": [
+            "He lifted the front wheel and did a wheelie down the driveway.",
+            "It takes practice to ride a wheelie without falling.",
+            "She tried a wheelie on her bike and wobbled."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wheeze",
+    "say": "weez",
+    "forms": [
+      "wheezes",
+      "wheezed",
+      "wheezing"
+    ],
+    "related": [
+      {
+        "word": "wheezy",
+        "def": "Wheezing a lot."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To breathe with a whistling sound.",
+          "examples": [
+            "He wheezed when he ran.",
+            "The cold made me wheeze.",
+            "The old dog wheezes."
+          ]
+        },
+        "more": {
+          "def": "To breathe noisily with a high whistling sound, often because of a cold or trouble breathing.",
+          "examples": [
+            "He wheezed after he ran up the stairs.",
+            "The cold air made her wheeze.",
+            "The old dog wheezed as it slept."
           ]
         }
       }
@@ -455,6 +544,78 @@
     ]
   },
   {
+    "word": "whichever",
+    "say": "wich-EV-er",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "Any one you like out of a group.",
+          "examples": [
+            "Take whichever you want.",
+            "Whichever you pick is fine.",
+            "Choose whichever is closest."
+          ]
+        },
+        "more": {
+          "def": "Any one of a group that someone picks, when it does not matter which.",
+          "examples": [
+            "You can have whichever of the three books you like best.",
+            "Whichever you choose, I will help you carry it.",
+            "Pick whichever is nearest and we will start the game."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "No matter which one.",
+          "examples": [
+            "Whichever hat you wear, you look nice.",
+            "Take whichever seat you like.",
+            "Whichever road we take, we get there."
+          ]
+        },
+        "more": {
+          "def": "Used to show that it does not matter which one of a group is chosen.",
+          "examples": [
+            "Whichever flavor you choose, the ice cream will taste delicious.",
+            "Whichever way you walk to the park, it takes ten minutes.",
+            "Whichever team wins, we will all clap for them."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "whiff",
+    "say": "wif",
+    "forms": [
+      "whiffs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A quick, light smell.",
+          "examples": [
+            "I caught a whiff of pizza.",
+            "A whiff of flowers.",
+            "He got a whiff of smoke."
+          ]
+        },
+        "more": {
+          "def": "A quick, light smell of something, or a small puff of air.",
+          "examples": [
+            "I caught a whiff of fresh bread as we walked past the bakery.",
+            "A whiff of smoke drifted over from the campfire.",
+            "She got a whiff of the flowers and smiled."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "while",
     "say": "wyl",
     "senses": [
@@ -493,6 +654,34 @@
             "It took a while for the paint to dry.",
             "We waited for a while at the bus stop.",
             "She has not played the piano in a long while."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "whim",
+    "say": "wim",
+    "forms": [
+      "whims"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sudden wish to do something for no reason.",
+          "examples": [
+            "On a whim, we went to the park.",
+            "He bought a hat on a whim.",
+            "It was just a whim."
+          ]
+        },
+        "more": {
+          "def": "A sudden idea or wish to do something, which comes without careful thought.",
+          "examples": [
+            "On a whim, we decided to take a different road home.",
+            "She bought a bright yellow umbrella on a whim.",
+            "It was just a whim, but the picnic turned out great."
           ]
         }
       }
@@ -663,6 +852,55 @@
     ]
   },
   {
+    "word": "whirl",
+    "say": "werl",
+    "forms": [
+      "whirls",
+      "whirled",
+      "whirling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To spin around fast.",
+          "examples": [
+            "The leaves whirled.",
+            "She whirled around.",
+            "Whirl the top."
+          ]
+        },
+        "more": {
+          "def": "To spin or turn around very fast.",
+          "examples": [
+            "Leaves whirled in the wind.",
+            "She whirled around when she heard her name.",
+            "The dancers whirled across the floor."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fast spin.",
+          "examples": [
+            "A whirl of leaves.",
+            "The dance was a whirl.",
+            "We gave it a whirl."
+          ]
+        },
+        "more": {
+          "def": "A fast spinning movement, or a busy time.",
+          "examples": [
+            "A whirl of leaves blew past us.",
+            "The party was a whirl of music and dancing.",
+            "Let's give the new game a whirl."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "whisker",
     "say": "WIS-ker",
     "forms": [
@@ -685,6 +923,31 @@
             "The cat's whiskers twitched.",
             "A mouse uses its whiskers to feel its way.",
             "The dog had a few gray whiskers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "whiskers",
+    "say": "WIS-kerz",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The long, stiff hairs near a cat's nose.",
+          "examples": [
+            "The cat has whiskers.",
+            "Her whiskers twitched.",
+            "The mouse has whiskers."
+          ]
+        },
+        "more": {
+          "def": "The long, stiff hairs that grow near the nose and mouth of a cat, a mouse or another animal, which help it feel things.",
+          "examples": [
+            "The cat's whiskers twitched when it smelled the fish.",
+            "Whiskers help a cat feel its way in the dark.",
+            "The mouse sniffed the air with its tiny whiskers."
           ]
         }
       }
@@ -980,6 +1243,31 @@
             "He ate the whole sandwich and was still hungry.",
             "The whole class went on the trip to the zoo.",
             "We looked for the whole afternoon but could not find the key."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wholesome",
+    "say": "HOHL-sum",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Good for your body and mind.",
+          "examples": [
+            "A wholesome meal.",
+            "Wholesome fun.",
+            "Wholesome food."
+          ]
+        },
+        "more": {
+          "def": "Good for your health, or good in a clean and kind way.",
+          "examples": [
+            "Mom made a wholesome meal of vegetables and rice.",
+            "We had a wholesome afternoon playing outside.",
+            "The show was wholesome and full of kindness."
           ]
         }
       }

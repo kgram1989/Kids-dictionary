@@ -165,6 +165,34 @@
     ]
   },
   {
+    "word": "hairdresser",
+    "say": "HAIR-dres-er",
+    "forms": [
+      "hairdressers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who cuts and styles hair.",
+          "examples": [
+            "The hairdresser cut my hair.",
+            "I went to the hairdresser.",
+            "The hairdresser was nice."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to cut, wash and style people's hair.",
+          "examples": [
+            "The hairdresser trimmed my hair and asked what style I wanted.",
+            "My aunt is a hairdresser and has a little shop on Main Street.",
+            "The hairdresser braided her hair for the dance."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hairy",
     "say": "HAIR-ee",
     "forms": [
@@ -320,6 +348,36 @@
     ]
   },
   {
+    "word": "hallucinate",
+    "say": "huh-LOO-sih-nayt",
+    "forms": [
+      "hallucinates",
+      "hallucinated",
+      "hallucinating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To see or hear things that are not really there.",
+          "examples": [
+            "He was so sick he hallucinated.",
+            "A high fever can make you hallucinate.",
+            "She hallucinated a sound."
+          ]
+        },
+        "more": {
+          "def": "To seem to see or hear things that are not really there, often because of a high fever or illness.",
+          "examples": [
+            "He had such a high fever that he began to hallucinate and saw patterns on the wall.",
+            "The tired traveler in the desert hallucinated a lake that was not real.",
+            "The doctor explained that a fever can make a person hallucinate."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hallway",
     "say": "HAWL-way",
     "forms": [
@@ -342,6 +400,35 @@
             "We walked down the hallway to class.",
             "Coats hung along the hallway.",
             "The hallway was quiet during class time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "halo",
+    "say": "HAY-loh",
+    "forms": [
+      "halos",
+      "haloes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A ring of light around a head or the moon.",
+          "examples": [
+            "The angel had a halo.",
+            "A halo around the moon.",
+            "The halo glowed."
+          ]
+        },
+        "more": {
+          "def": "A ring of light shown around the head of a holy person in pictures, or a ring of light around the sun or moon.",
+          "examples": [
+            "The angel in the painting had a golden halo above her head.",
+            "A faint halo shone around the moon on the cold night.",
+            "The streetlight made a halo in the fog."
           ]
         }
       }
@@ -483,6 +570,113 @@
     ]
   },
   {
+    "word": "hammock",
+    "say": "HAM-uk",
+    "emoji": "🌴",
+    "forms": [
+      "hammocks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hanging bed made of cloth or net.",
+          "examples": [
+            "I lay in a hammock.",
+            "The hammock swings.",
+            "A hammock between two trees."
+          ]
+        },
+        "more": {
+          "def": "A bed made of cloth or net that hangs between two trees or posts and swings gently.",
+          "examples": [
+            "I read a book in the hammock between two trees.",
+            "The hammock swayed in the breeze.",
+            "We took a nap in the hammock after lunch."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hamper",
+    "say": "HAM-per",
+    "forms": [
+      "hampers",
+      "hampered",
+      "hampering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big basket for dirty clothes or food.",
+          "examples": [
+            "Put it in the hamper.",
+            "The picnic hamper.",
+            "The hamper is full."
+          ]
+        },
+        "more": {
+          "def": "A large basket with a lid, used for carrying food or for holding dirty clothes.",
+          "examples": [
+            "Put your dirty clothes in the hamper.",
+            "We packed a picnic hamper with sandwiches and fruit.",
+            "The gift hamper was full of cheese and crackers."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something harder to do.",
+          "examples": [
+            "The rain hampered us.",
+            "Mud hampers the cars.",
+            "The cast hampered his work."
+          ]
+        },
+        "more": {
+          "def": "To make it harder for someone to do something or to move freely.",
+          "examples": [
+            "The rain hampered our work in the garden.",
+            "Heavy snow hampered the traffic.",
+            "His sore foot hampered his running."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hamster",
+    "say": "HAM-ster",
+    "emoji": "🐹",
+    "forms": [
+      "hamsters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small furry pet with big cheeks.",
+          "examples": [
+            "I have a pet hamster.",
+            "The hamster is in its cage.",
+            "A hamster runs on a wheel."
+          ]
+        },
+        "more": {
+          "def": "A small, furry pet animal with a short tail and big cheek pouches that it uses for carrying food.",
+          "examples": [
+            "My hamster stuffs seeds into its cheeks to save for later.",
+            "The hamster ran for hours on its wheel at night.",
+            "A hamster sleeps during the day and is awake at night."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hand",
     "say": "hand",
     "forms": [
@@ -610,6 +804,35 @@
             "She tossed a handful of flower petals.",
             "She threw a handful of sand into the air.",
             "Only a handful of people came."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "handicap",
+    "say": "HAN-dee-kap",
+    "forms": [
+      "handicaps",
+      "handicapped"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that makes a job harder.",
+          "examples": [
+            "Rain was a handicap for the race.",
+            "A sore foot is a handicap.",
+            "Being small was a handicap."
+          ]
+        },
+        "more": {
+          "def": "Something that makes it harder for someone to do or win something.",
+          "examples": [
+            "A broken pencil was a handicap during the spelling test.",
+            "The bad weather was a handicap for the soccer team.",
+            "Not having a map was a big handicap on the hike."
           ]
         }
       }
@@ -852,6 +1075,34 @@
     ]
   },
   {
+    "word": "handyman",
+    "say": "HAN-dee-man",
+    "forms": [
+      "handymen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who can fix many things.",
+          "examples": [
+            "The handyman fixed the door.",
+            "We called a handyman.",
+            "The handyman has tools."
+          ]
+        },
+        "more": {
+          "def": "A person who does small repairs and different jobs around a house or a building.",
+          "examples": [
+            "The handyman came to fix the leaky faucet.",
+            "We called a handyman to paint the fence.",
+            "The handyman carried his tools in a big box."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hang",
     "say": "hang",
     "forms": [
@@ -911,6 +1162,34 @@
             "The plane was rolled into the hangar for repairs.",
             "The hangar was big enough for several planes.",
             "Mechanics worked on the jet inside the hangar."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hanger",
+    "say": "HANG-er",
+    "forms": [
+      "hangers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing for hanging clothes on.",
+          "examples": [
+            "Put your coat on a hanger.",
+            "The hanger is in the closet.",
+            "A wire hanger."
+          ]
+        },
+        "more": {
+          "def": "A frame of wire, plastic or wood that is used for hanging clothes in a closet.",
+          "examples": [
+            "I hung my coat on a hanger in the closet.",
+            "The dress was on a pink plastic hanger.",
+            "Mom gave each of us a wooden hanger for our shirts."
           ]
         }
       }
@@ -1129,6 +1408,34 @@
     ]
   },
   {
+    "word": "hardship",
+    "say": "HARD-ship",
+    "forms": [
+      "hardships"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hard, difficult time.",
+          "examples": [
+            "The family faced hardship.",
+            "They survived hardship.",
+            "It was a time of hardship."
+          ]
+        },
+        "more": {
+          "def": "A difficult time or condition in which you do not have what you need, such as food or money.",
+          "examples": [
+            "The pioneers faced great hardship on their long trip west.",
+            "The family went through hardship when the factory closed.",
+            "She worked hard to get through the hardships."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hardware",
     "say": "HARD-wair",
     "senses": [
@@ -1173,6 +1480,31 @@
     ]
   },
   {
+    "word": "hardworking",
+    "say": "hard-WER-king",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Working hard at what you do.",
+          "examples": [
+            "A hardworking girl.",
+            "The farmer is hardworking.",
+            "Hardworking ants."
+          ]
+        },
+        "more": {
+          "def": "Putting a lot of effort and time into your work.",
+          "examples": [
+            "She is a hardworking student who always finishes her homework.",
+            "The hardworking farmer got up before sunrise.",
+            "Ants are hardworking insects that carry food all day."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hare",
     "say": "hair",
     "emoji": "🐇",
@@ -1196,6 +1528,36 @@
             "The hare ran across the field.",
             "In the old story, the hare and the tortoise had a race.",
             "A hare can run much faster than a rabbit."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hark",
+    "say": "hark",
+    "forms": [
+      "harks",
+      "harked",
+      "harking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To listen carefully.",
+          "examples": [
+            "Hark! A bell is ringing.",
+            "Hark, the herald angels sing.",
+            "Hark to the sound."
+          ]
+        },
+        "more": {
+          "def": "To listen carefully; an old-fashioned word that you may see in songs and old stories.",
+          "examples": [
+            "\"Hark! I hear a bell,\" said the knight.",
+            "In the old song, the choir sings, \"Hark, the herald angels sing.\"",
+            "The storyteller said, \"Hark, and I will tell you a tale.\""
           ]
         }
       }
@@ -1270,6 +1632,34 @@
             "The garden snake is harmless.",
             "The dog looks big but is harmless.",
             "It was a harmless joke."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "harmonica",
+    "say": "har-MON-ih-kuh",
+    "forms": [
+      "harmonicas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small instrument that you play by blowing into it.",
+          "examples": [
+            "He plays the harmonica.",
+            "The harmonica is small.",
+            "I blew the harmonica."
+          ]
+        },
+        "more": {
+          "def": "A small musical instrument that you hold to your mouth and play by blowing and drawing air through holes.",
+          "examples": [
+            "He played a tune on his harmonica around the campfire.",
+            "A harmonica is small enough to fit in your pocket.",
+            "The cowboy in the story played a sad song on the harmonica."
           ]
         }
       }
@@ -1575,6 +1965,31 @@
     ]
   },
   {
+    "word": "haste",
+    "say": "hayst",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Doing something very fast.",
+          "examples": [
+            "In haste, I forgot my hat.",
+            "She left in haste.",
+            "Haste makes waste."
+          ]
+        },
+        "more": {
+          "def": "A great hurry, or the act of doing something too quickly.",
+          "examples": [
+            "In my haste to leave, I forgot my lunch.",
+            "She packed her bag in haste.",
+            "Haste can lead to mistakes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hastily",
     "say": "HAYS-tih-lee",
     "senses": [
@@ -1690,6 +2105,34 @@
     ]
   },
   {
+    "word": "hatchet",
+    "say": "HACH-it",
+    "forms": [
+      "hatchets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small ax with a short handle.",
+          "examples": [
+            "Dad used a hatchet.",
+            "The hatchet is sharp.",
+            "He split wood with a hatchet."
+          ]
+        },
+        "more": {
+          "def": "A small ax with a short handle that is held in one hand, used for chopping wood.",
+          "examples": [
+            "Dad used a hatchet to chop kindling for the campfire.",
+            "The hatchet is a tool that must be used carefully.",
+            "A hatchet hung on the wall of the shed."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hate",
     "say": "hayt",
     "forms": [
@@ -1714,6 +2157,31 @@
             "I hate it when my socks get wet in the rain.",
             "My brother hates loud noises.",
             "She hated saying goodbye to her friends."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hateful",
+    "say": "HAYT-ful",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Full of meanness or hate.",
+          "examples": [
+            "That was a hateful thing to say.",
+            "A hateful look.",
+            "Hateful words hurt."
+          ]
+        },
+        "more": {
+          "def": "Full of hate, or very mean and unkind.",
+          "examples": [
+            "It was hateful to call someone a bad name.",
+            "The hateful words hurt her feelings.",
+            "In the story, the hateful stepsister was jealous."
           ]
         }
       }
@@ -1860,6 +2328,34 @@
     ]
   },
   {
+    "word": "haystack",
+    "say": "HAY-stak",
+    "forms": [
+      "haystacks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big pile of hay.",
+          "examples": [
+            "A needle in a haystack.",
+            "The haystack is tall.",
+            "The cat slept in the haystack."
+          ]
+        },
+        "more": {
+          "def": "A large pile of hay stacked outdoors, often in a field.",
+          "examples": [
+            "The cat curled up in the warm haystack.",
+            "Looking for the lost key was like looking for a needle in a haystack.",
+            "The farmer built a tall haystack in the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hazard",
     "say": "HAZ-erd",
     "forms": [
@@ -1882,6 +2378,31 @@
             "A wet floor can be a hazard, so watch your step.",
             "The sign warned drivers of ice, a hazard on the road.",
             "Loose rocks are a hazard to anyone hiking on the trail."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hazardous",
+    "say": "HAZ-er-dus",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Dangerous.",
+          "examples": [
+            "The ice is hazardous.",
+            "A hazardous road.",
+            "Hazardous waste."
+          ]
+        },
+        "more": {
+          "def": "Dangerous or risky, so that it could cause harm.",
+          "examples": [
+            "The icy road was hazardous, so we drove slowly.",
+            "The sign warned of hazardous chemicals.",
+            "Climbing without a rope is hazardous."
           ]
         }
       }

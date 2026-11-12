@@ -106,6 +106,35 @@
     ]
   },
   {
+    "word": "dragonfly",
+    "say": "DRAG-un-fly",
+    "emoji": "🪰",
+    "forms": [
+      "dragonflies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An insect with a long body and four wings.",
+          "examples": [
+            "A dragonfly landed on the pond.",
+            "The dragonfly has long wings.",
+            "We saw a blue dragonfly."
+          ]
+        },
+        "more": {
+          "def": "A flying insect with a long thin body and four clear wings that lives near water and catches other insects.",
+          "examples": [
+            "A blue dragonfly hovered over the pond, then darted away.",
+            "Dragonflies catch mosquitoes in the air.",
+            "Baby dragonflies live underwater before they grow wings."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drain",
     "say": "drayn",
     "forms": [
@@ -261,6 +290,31 @@
             "The heavy drapes kept out the bright morning sun.",
             "She pulled back the drape and looked out the window.",
             "The old house had long velvet drapes in every room."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drastic",
+    "say": "DRAS-tik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very strong or very big.",
+          "examples": [
+            "It was a drastic change.",
+            "They took drastic steps.",
+            "A drastic drop in temperature."
+          ]
+        },
+        "more": {
+          "def": "Very strong, sudden or extreme, and likely to have a big effect.",
+          "examples": [
+            "There was a drastic drop in temperature overnight, and the pond froze.",
+            "The town took drastic steps to save water during the dry summer.",
+            "She made a drastic change and cut off all her hair."
           ]
         }
       }
@@ -588,6 +642,64 @@
     ]
   },
   {
+    "word": "dreamy",
+    "say": "DREE-mee",
+    "forms": [
+      "dreamier",
+      "dreamiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Like a dream, or thinking about other things.",
+          "examples": [
+            "A dreamy look.",
+            "The dreamy music.",
+            "She felt dreamy."
+          ]
+        },
+        "more": {
+          "def": "Like a dream, or not paying attention because you are lost in thought.",
+          "examples": [
+            "She had a dreamy look on her face as she looked out the window.",
+            "The dreamy music made me feel sleepy.",
+            "The garden looked dreamy in the soft evening light."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dreary",
+    "say": "DREER-ee",
+    "forms": [
+      "drearier",
+      "dreariest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Gloomy and dull.",
+          "examples": [
+            "It was a dreary day.",
+            "The dreary rain fell.",
+            "A dreary room."
+          ]
+        },
+        "more": {
+          "def": "Gloomy, dull and making you feel sad.",
+          "examples": [
+            "It was a dreary, gray day with rain all afternoon.",
+            "The dreary old room had no windows.",
+            "We found the long speech dreary."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dress",
     "say": "dres",
     "emoji": "👗",
@@ -688,6 +800,55 @@
             "I like ranch dressing on my salad.",
             "Mom mixed oil and lemon juice to make a dressing.",
             "He poured the dressing over the lettuce."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dribble",
+    "say": "DRIB-ul",
+    "forms": [
+      "dribbles",
+      "dribbled",
+      "dribbling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To bounce a ball again and again as you move.",
+          "examples": [
+            "I dribble the ball.",
+            "She dribbled down the court.",
+            "He dribbled past the player."
+          ]
+        },
+        "more": {
+          "def": "To move a ball along by bouncing it with your hand or kicking it a little at a time, as in basketball or soccer.",
+          "examples": [
+            "She dribbled the basketball down the court and passed it to her teammate.",
+            "He dribbled the soccer ball past two players.",
+            "I practice how to dribble with my left hand."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To let liquid fall in small drops.",
+          "examples": [
+            "Water dribbled from the tap.",
+            "The baby dribbled milk.",
+            "Juice dribbled down my chin."
+          ]
+        },
+        "more": {
+          "def": "To let a liquid fall in small drops, or to flow in a thin, slow stream.",
+          "examples": [
+            "Water dribbled from the leaky tap into the sink.",
+            "Juice dribbled down my chin as I ate the orange.",
+            "Honey dribbled slowly off the spoon."
           ]
         }
       }
@@ -1183,6 +1344,34 @@
       {
         "word": "dropper",
         "def": "A small tube that lets out one drop at a time."
+      }
+    ]
+  },
+  {
+    "word": "droplet",
+    "say": "DROP-lit",
+    "forms": [
+      "droplets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very small drop of water.",
+          "examples": [
+            "A droplet fell on my nose.",
+            "Droplets hung on the leaf.",
+            "I saw a droplet on the glass."
+          ]
+        },
+        "more": {
+          "def": "A tiny drop of liquid, such as a bead of water on a leaf or a window.",
+          "examples": [
+            "A droplet of dew shone on the spider's web in the morning sun.",
+            "Droplets of rain ran down the window.",
+            "A single droplet fell from the leaky tap."
+          ]
+        }
       }
     ]
   },

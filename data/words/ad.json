@@ -244,6 +244,31 @@
     ]
   },
   {
+    "word": "adequate",
+    "say": "AD-ih-kwit",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Enough, but not great.",
+          "examples": [
+            "We have adequate food.",
+            "The room is adequate.",
+            "Her work was adequate."
+          ]
+        },
+        "more": {
+          "def": "Good enough or big enough for what is needed, but not more than that.",
+          "examples": [
+            "We had adequate food for the trip, but nothing extra.",
+            "The small tent was adequate for two people.",
+            "Her answer was adequate, but she could have given more detail."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "adjust",
     "say": "uh-JUST",
     "forms": [
@@ -360,6 +385,31 @@
             "The admiral led the fleet of ships.",
             "The admiral wore a uniform with gold stripes.",
             "The sailors saluted the admiral."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "admiration",
+    "say": "ad-muh-RAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong liking and respect for someone.",
+          "examples": [
+            "She looked with admiration.",
+            "I have admiration for my teacher.",
+            "He showed admiration."
+          ]
+        },
+        "more": {
+          "def": "A feeling of respect and liking for someone or something that you think is very good.",
+          "examples": [
+            "She looked at her older sister with admiration.",
+            "I have great admiration for firefighters.",
+            "The crowd clapped in admiration."
           ]
         }
       }
@@ -659,6 +709,31 @@
     ]
   },
   {
+    "word": "adrenaline",
+    "say": "uh-DREN-uh-lin",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A chemical in the body that gives you a burst of energy.",
+          "examples": [
+            "Adrenaline made me fast.",
+            "Adrenaline gives energy.",
+            "I felt adrenaline."
+          ]
+        },
+        "more": {
+          "def": "A chemical made by the body when you are excited or scared, which makes your heart beat faster and gives you a burst of energy.",
+          "examples": [
+            "Adrenaline made my heart pound as I stood at the top of the slide.",
+            "The runner felt a rush of adrenaline at the start of the race.",
+            "Adrenaline helps your body get ready to act quickly."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "adult",
     "say": "uh-DULT",
     "emoji": "🧑",
@@ -821,6 +896,64 @@
       {
         "word": "misadventure",
         "def": "An adventure that goes wrong."
+      }
+    ]
+  },
+  {
+    "word": "advertise",
+    "say": "AD-ver-tyz",
+    "forms": [
+      "advertises",
+      "advertised",
+      "advertising"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell people about something so that they will buy it or come.",
+          "examples": [
+            "The store advertises on the radio.",
+            "They advertised the show.",
+            "We advertise our sale with a sign."
+          ]
+        },
+        "more": {
+          "def": "To tell people about a product, a service or an event, so they will want to buy it or come to it.",
+          "examples": [
+            "The bakery put up a sign to advertise its fresh bread.",
+            "The school advertised the book fair with colorful posters.",
+            "Many stores advertise their sales on television."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "advertisement",
+    "say": "ad-ver-TYZ-munt",
+    "forms": [
+      "advertisements"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short message that tries to get you to buy something.",
+          "examples": [
+            "I saw an advertisement on TV.",
+            "The advertisement had a song.",
+            "An advertisement for toys."
+          ]
+        },
+        "more": {
+          "def": "A picture, a message or a short video that tells people about something for sale and tries to get them to buy it.",
+          "examples": [
+            "I saw an advertisement for a new toy on television.",
+            "The advertisement had a catchy song.",
+            "The newspaper had an advertisement for the circus."
+          ]
+        }
       }
     ]
   },

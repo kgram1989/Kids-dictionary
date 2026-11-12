@@ -1,5 +1,54 @@
 [
   {
+    "word": "dab",
+    "say": "dab",
+    "forms": [
+      "dabs",
+      "dabbed",
+      "dabbing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To touch lightly with something soft.",
+          "examples": [
+            "She dabbed her eyes.",
+            "Dab the paint.",
+            "I dabbed the cut."
+          ]
+        },
+        "more": {
+          "def": "To touch something lightly and quickly with something soft, or to put on a small amount.",
+          "examples": [
+            "She dabbed her eyes with a tissue.",
+            "Dab a little paint on the corner of the picture.",
+            "I dabbed the cut with a clean cloth."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small amount.",
+          "examples": [
+            "A dab of paint.",
+            "Put a dab on it.",
+            "A dab of butter."
+          ]
+        },
+        "more": {
+          "def": "A small amount of something soft or wet.",
+          "examples": [
+            "She put a dab of paint on her nose.",
+            "I added a dab of butter to the potatoes.",
+            "A dab of glue held the paper in place."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dad",
     "say": "dad",
     "forms": [
@@ -81,6 +130,34 @@
     ]
   },
   {
+    "word": "dairy",
+    "say": "DAIR-ee",
+    "forms": [
+      "dairies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place that makes milk foods, like cheese and butter.",
+          "examples": [
+            "We visited a dairy.",
+            "The dairy has cows.",
+            "Milk comes from the dairy."
+          ]
+        },
+        "more": {
+          "def": "A farm or business that makes milk and foods from milk, such as cheese, butter and yogurt.",
+          "examples": [
+            "We took a trip to a dairy to watch the cows being milked.",
+            "The dairy delivers milk and butter to the stores in town.",
+            "Cheese and yogurt are called dairy foods."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dam",
     "say": "dam",
     "forms": [
@@ -133,6 +210,41 @@
             "The storm damaged the roof of the barn.",
             "Too much sun can damage your skin.",
             "Hail damaged the cars parked on the street."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "damp",
+    "say": "damp",
+    "forms": [
+      "damper",
+      "dampest"
+    ],
+    "related": [
+      {
+        "word": "dampness",
+        "def": "Being a little wet."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A little bit wet.",
+          "examples": [
+            "The grass is damp.",
+            "My towel is damp.",
+            "The air felt damp."
+          ]
+        },
+        "more": {
+          "def": "Slightly wet, but not dripping.",
+          "examples": [
+            "The grass was damp with morning dew.",
+            "Wipe the table with a damp cloth.",
+            "The cave was cool and damp inside."
           ]
         }
       }
@@ -319,6 +431,61 @@
             "The car drove dangerously close to the curb.",
             "The truck swerved dangerously close to the wall.",
             "He leaned dangerously over the edge."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dangle",
+    "say": "DANG-gul",
+    "forms": [
+      "dangles",
+      "dangled",
+      "dangling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hang and swing loosely.",
+          "examples": [
+            "My feet dangle from the chair.",
+            "The keys dangled.",
+            "A spider dangles from a thread."
+          ]
+        },
+        "more": {
+          "def": "To hang loosely so that something swings back and forth, or to hold something so that it hangs and swings.",
+          "examples": [
+            "She sat on the dock and let her feet dangle in the cool water.",
+            "A spider dangled from the ceiling on a silky thread.",
+            "He dangled a toy mouse above the kitten."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dappled",
+    "say": "DAP-uld",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Marked with small spots of light or color.",
+          "examples": [
+            "The horse has a dappled coat.",
+            "Sun fell in dappled light.",
+            "A dappled deer."
+          ]
+        },
+        "more": {
+          "def": "Marked with small, rounded spots or patches of light, shade or color.",
+          "examples": [
+            "Sunlight came through the leaves and made dappled light on the path.",
+            "The dappled deer was almost invisible among the trees.",
+            "The horse had a gray dappled coat."
           ]
         }
       }
@@ -548,6 +715,55 @@
     ]
   },
   {
+    "word": "dart",
+    "say": "dart",
+    "forms": [
+      "darts",
+      "darted",
+      "darting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move quickly and suddenly.",
+          "examples": [
+            "The fish darted away.",
+            "A bird darted by.",
+            "She darted across the road."
+          ]
+        },
+        "more": {
+          "def": "To move quickly and suddenly in one direction.",
+          "examples": [
+            "The little fish darted between the rocks.",
+            "A squirrel darted up the tree.",
+            "She darted out of the room to answer the phone."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small pointed stick that you throw at a target.",
+          "examples": [
+            "He threw a dart.",
+            "The dart hit the board.",
+            "A dart is small."
+          ]
+        },
+        "more": {
+          "def": "A small, thin, pointed object that is thrown at a target in a game or shot from a toy.",
+          "examples": [
+            "He threw a dart at the board and hit the bullseye.",
+            "The toy gun shoots a foam dart.",
+            "A tranquilizer dart helped the vet calm the animal safely."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dash",
     "say": "dash",
     "forms": [
@@ -591,6 +807,31 @@
             "He won the hundred-yard dash.",
             "Add a dash between the two words.",
             "We made a dash for the car in the rain."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dashing",
+    "say": "DASH-ing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Looking bold, smart and full of style.",
+          "examples": [
+            "The prince looked dashing.",
+            "A dashing hat.",
+            "He wore a dashing coat."
+          ]
+        },
+        "more": {
+          "def": "Having a bold, lively and stylish look.",
+          "examples": [
+            "The prince looked dashing in his red coat and tall boots.",
+            "She wore a dashing hat with a long feather.",
+            "The dashing pirate captain waved to the crowd."
           ]
         }
       }
@@ -758,6 +999,80 @@
     ]
   },
   {
+    "word": "daycare",
+    "say": "DAY-kair",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where young children are looked after during the day.",
+          "examples": [
+            "My sister goes to daycare.",
+            "The daycare is fun.",
+            "A daycare for little kids."
+          ]
+        },
+        "more": {
+          "def": "A place where young children are cared for during the day while their parents are at work.",
+          "examples": [
+            "My little brother goes to daycare while Mom is at work.",
+            "The daycare has a playground and lots of toys.",
+            "A teacher at the daycare read a story."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "daydream",
+    "say": "DAY-dreem",
+    "forms": [
+      "daydreams",
+      "daydreamed",
+      "daydreaming"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Happy thoughts you have while you are awake.",
+          "examples": [
+            "I had a daydream in class.",
+            "Her daydream was about a beach.",
+            "His daydream was of flying."
+          ]
+        },
+        "more": {
+          "def": "A set of happy or pleasant thoughts you have while you are awake, often about things you would like to happen.",
+          "examples": [
+            "I had a daydream about flying over the mountains in a hot-air balloon.",
+            "Her daydream was interrupted when the teacher called her name.",
+            "A long car ride is a good time for a daydream."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To think happy thoughts while awake.",
+          "examples": [
+            "I daydream in the car.",
+            "She daydreamed in class.",
+            "He is daydreaming."
+          ]
+        },
+        "more": {
+          "def": "To think happy, pleasant thoughts about things you would like to do, instead of paying attention to what is around you.",
+          "examples": [
+            "I daydreamed about summer vacation while the teacher talked.",
+            "She likes to daydream on long bus rides.",
+            "He daydreamed about becoming a famous soccer player."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "daylight",
     "say": "DAY-lyt",
     "emoji": "☀️",
@@ -803,6 +1118,36 @@
             "We play outside in the daytime.",
             "Owls sleep in the daytime and hunt at night.",
             "The daytime was warm, but the night was cold."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dazzle",
+    "say": "DAZ-ul",
+    "forms": [
+      "dazzles",
+      "dazzled",
+      "dazzling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shine so brightly that you cannot see, or to amaze.",
+          "examples": [
+            "The sun dazzled me.",
+            "The show dazzled us.",
+            "The lights dazzle."
+          ]
+        },
+        "more": {
+          "def": "To shine so brightly that you cannot see well, or to amaze people with something wonderful.",
+          "examples": [
+            "The bright sun dazzled my eyes.",
+            "The magician dazzled the crowd with his tricks.",
+            "The fireworks dazzled the night sky."
           ]
         }
       }

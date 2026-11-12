@@ -1,5 +1,41 @@
 [
   {
+    "word": "ignite",
+    "say": "ig-NYT",
+    "forms": [
+      "ignites",
+      "ignited",
+      "igniting"
+    ],
+    "related": [
+      {
+        "word": "ignition",
+        "def": "The start of burning, or what starts a car."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To start to burn.",
+          "examples": [
+            "Dry leaves can ignite.",
+            "The spark ignited the paper.",
+            "A match ignites."
+          ]
+        },
+        "more": {
+          "def": "To start burning, or to make something start burning.",
+          "examples": [
+            "Dry leaves can ignite easily when a spark lands on them.",
+            "The spark ignited the paper and it burned quickly.",
+            "The grown-up used a match to ignite the campfire."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ignorance",
     "say": "IG-ner-unss",
     "senses": [

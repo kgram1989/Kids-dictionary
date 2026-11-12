@@ -1,5 +1,35 @@
 [
   {
+    "word": "tweak",
+    "say": "tweek",
+    "forms": [
+      "tweaks",
+      "tweaked",
+      "tweaking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To change something a little to make it better.",
+          "examples": [
+            "I tweaked my drawing.",
+            "She tweaked the recipe.",
+            "Tweak the plan."
+          ]
+        },
+        "more": {
+          "def": "To make a small change to something to improve it.",
+          "examples": [
+            "I tweaked my story to make the ending better.",
+            "She tweaked the recipe by adding a little more cinnamon.",
+            "The coach tweaked the plan before the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "twelve",
     "say": "twelv",
     "emoji": "1️⃣",
@@ -101,6 +131,60 @@
     ]
   },
   {
+    "word": "twig",
+    "say": "twig",
+    "forms": [
+      "twigs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, thin branch.",
+          "examples": [
+            "The bird carried a twig.",
+            "I snapped a twig.",
+            "A twig fell."
+          ]
+        },
+        "more": {
+          "def": "A small, thin branch of a tree or a bush.",
+          "examples": [
+            "The bird carried a twig to build its nest.",
+            "We collected twigs to light the campfire.",
+            "I snapped a dry twig in two."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "twilight",
+    "say": "TWY-lyt",
+    "emoji": "🌆",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The soft light after the sun goes down.",
+          "examples": [
+            "We played outside at twilight.",
+            "The sky was pink at twilight.",
+            "Bats come out at twilight."
+          ]
+        },
+        "more": {
+          "def": "The faint, soft light in the sky just after sunset, before it gets completely dark.",
+          "examples": [
+            "At twilight, the sky turned purple and the first stars appeared.",
+            "Bats flew out of the cave as twilight settled over the valley.",
+            "We walked home slowly in the twilight."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "twin",
     "say": "twin",
     "emoji": "👯",
@@ -186,6 +270,55 @@
     ]
   },
   {
+    "word": "twirl",
+    "say": "twerl",
+    "forms": [
+      "twirls",
+      "twirled",
+      "twirling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To spin around and around.",
+          "examples": [
+            "She twirled in her dress.",
+            "I twirl my baton.",
+            "The skater twirled."
+          ]
+        },
+        "more": {
+          "def": "To turn around and around quickly, or to make something spin.",
+          "examples": [
+            "She twirled in her new dress until she got dizzy.",
+            "The cook twirled spaghetti around a fork.",
+            "He twirled the baton in the air and caught it."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fast spin.",
+          "examples": [
+            "She did a twirl.",
+            "The dancer made a twirl.",
+            "A twirl of the skirt."
+          ]
+        },
+        "more": {
+          "def": "A quick, turning movement around in a circle.",
+          "examples": [
+            "The dancer finished with a graceful twirl.",
+            "With a twirl, she showed off her new skirt.",
+            "He gave the baton a twirl."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "twist",
     "say": "twist",
     "forms": [
@@ -237,6 +370,34 @@
       {
         "word": "twisty",
         "def": "Full of twists and turns."
+      }
+    ]
+  },
+  {
+    "word": "twister",
+    "say": "TWIS-ter",
+    "forms": [
+      "twisters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong spinning wind storm, also called a tornado.",
+          "examples": [
+            "A twister hit the town.",
+            "The twister spun.",
+            "We hid from the twister."
+          ]
+        },
+        "more": {
+          "def": "A very strong storm with a funnel of wind that spins very fast, also called a tornado.",
+          "examples": [
+            "A twister swept across the plains and tore up trees.",
+            "We went to the cellar when we heard the twister warning.",
+            "The twister lasted only a few minutes."
+          ]
+        }
       }
     ]
   },

@@ -77,6 +77,34 @@
     ]
   },
   {
+    "word": "blacksmith",
+    "say": "BLAK-smith",
+    "forms": [
+      "blacksmiths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who makes things from hot iron.",
+          "examples": [
+            "The blacksmith made a horseshoe.",
+            "A blacksmith hits hot iron.",
+            "We watched the blacksmith."
+          ]
+        },
+        "more": {
+          "def": "A person who makes and fixes things out of iron by heating it and hammering it into shape.",
+          "examples": [
+            "The blacksmith heated the iron in the fire and shaped it into a horseshoe.",
+            "Long ago, every village had a blacksmith.",
+            "We watched the blacksmith hammer the glowing metal."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "blade",
     "say": "blayd",
     "forms": [
@@ -255,6 +283,36 @@
     ]
   },
   {
+    "word": "blare",
+    "say": "blair",
+    "forms": [
+      "blares",
+      "blared",
+      "blaring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a very loud sound.",
+          "examples": [
+            "The horn blared.",
+            "Music blared from the car.",
+            "The alarm blares every morning."
+          ]
+        },
+        "more": {
+          "def": "To make a very loud, harsh sound that is hard to ignore.",
+          "examples": [
+            "The trumpets blared as the parade marched down the street.",
+            "The alarm clock blared at six o'clock and woke the whole house.",
+            "Loud music blared from the speakers at the fair."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "blast",
     "say": "blast",
     "emoji": "💨",
@@ -348,6 +406,83 @@
             "The fire blazed in the fireplace.",
             "The sun blazed down on the desert.",
             "Lights blazed in every window."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blazer",
+    "say": "BLAY-zer",
+    "forms": [
+      "blazers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A jacket worn with pants or a skirt.",
+          "examples": [
+            "He wore a blazer.",
+            "The blazer is blue.",
+            "A school blazer."
+          ]
+        },
+        "more": {
+          "def": "A smart jacket, often worn as part of a school uniform or with pants or a skirt.",
+          "examples": [
+            "He wore a navy blue blazer to the school concert.",
+            "The school blazer had a badge on the pocket.",
+            "She put on her blazer over her blouse."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bleach",
+    "say": "bleech",
+    "forms": [
+      "bleaches",
+      "bleached",
+      "bleaching"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong liquid that cleans and makes cloth white.",
+          "examples": [
+            "Bleach is used to clean.",
+            "Never drink bleach.",
+            "Mom used bleach."
+          ]
+        },
+        "more": {
+          "def": "A strong chemical liquid used to make things white or to clean and kill germs; children should never touch it without help.",
+          "examples": [
+            "Mom added a small amount of bleach to the white laundry.",
+            "Bleach can hurt your skin, so grown-ups wear gloves when they use it.",
+            "The bleach made the stained shirt white again."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something whiter.",
+          "examples": [
+            "The sun bleached the shirt.",
+            "She bleached the cloth.",
+            "The sun can bleach wood."
+          ]
+        },
+        "more": {
+          "def": "To make something white or pale, by using a chemical or the sun.",
+          "examples": [
+            "The sun bleached the old fence until it was nearly white.",
+            "She bleached the stained towels to make them look new.",
+            "The coral turned white as the warm water bleached it."
           ]
         }
       }
@@ -457,6 +592,34 @@
             "I blended the paint to make green.",
             "She blended the milk and eggs in a bowl.",
             "The cook blended the fruit into a smoothie."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blender",
+    "say": "BLEN-der",
+    "forms": [
+      "blenders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kitchen machine that mixes food and drinks.",
+          "examples": [
+            "Mom used the blender.",
+            "The blender is loud.",
+            "I made a shake in the blender."
+          ]
+        },
+        "more": {
+          "def": "A kitchen machine with a tall jar and sharp blades that mixes foods and drinks together until they are smooth.",
+          "examples": [
+            "Mom made a banana smoothie in the blender.",
+            "The blender was loud when it spun.",
+            "Put the lid on before you turn on the blender."
           ]
         }
       }
@@ -599,6 +762,80 @@
     ]
   },
   {
+    "word": "blindfold",
+    "say": "BLYND-fohld",
+    "forms": [
+      "blindfolds",
+      "blindfolded",
+      "blindfolding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cloth tied over your eyes so you cannot see.",
+          "examples": [
+            "I wore a blindfold in the game.",
+            "She tied the blindfold on.",
+            "Take off the blindfold now."
+          ]
+        },
+        "more": {
+          "def": "A strip of cloth tied over the eyes so a person cannot see, as in some party games.",
+          "examples": [
+            "The birthday girl wore a blindfold while she tried to pin the tail on the donkey.",
+            "Dad used a scarf as a blindfold for the guessing game.",
+            "Please take off your blindfold and look at the surprise."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cover someone's eyes with cloth.",
+          "examples": [
+            "We blindfolded Mia for the game.",
+            "He blindfolds his little sister.",
+            "They blindfolded me to hide the gift."
+          ]
+        },
+        "more": {
+          "def": "To cover a person's eyes with a cloth so that they cannot see.",
+          "examples": [
+            "We blindfolded Jack before leading him out to see his surprise party.",
+            "The players were blindfolded and had to guess each object by touch.",
+            "She blindfolded her brother and spun him around three times."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blinding",
+    "say": "BLYN-ding",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "So bright that you cannot see.",
+          "examples": [
+            "A blinding light.",
+            "The sun was blinding.",
+            "A blinding flash."
+          ]
+        },
+        "more": {
+          "def": "So bright that it hurts your eyes and you cannot see for a moment.",
+          "examples": [
+            "A blinding flash of lightning lit up the sky.",
+            "The sun on the snow was blinding.",
+            "The headlights were blinding in the dark."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "blink",
     "say": "blingk",
     "emoji": "👀",
@@ -624,6 +861,116 @@
             "I blinked in the bright sun.",
             "She blinked and then smiled.",
             "The owl blinked slowly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bliss",
+    "say": "bliss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Great happiness.",
+          "examples": [
+            "A warm bath was pure bliss.",
+            "The cake was bliss.",
+            "She sighed with bliss."
+          ]
+        },
+        "more": {
+          "def": "A feeling of complete and perfect happiness.",
+          "examples": [
+            "Lying in the soft grass on a warm day felt like pure bliss.",
+            "The puppy's face showed bliss as we scratched its ears.",
+            "After the long hike, a cold drink of water was bliss."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blister",
+    "say": "BLIS-ter",
+    "forms": [
+      "blisters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small bubble on your skin that has liquid in it.",
+          "examples": [
+            "I have a blister on my heel.",
+            "New shoes gave me a blister.",
+            "The blister hurt."
+          ]
+        },
+        "more": {
+          "def": "A small, painful bubble on the skin that is filled with clear liquid, caused by rubbing or by a burn.",
+          "examples": [
+            "My new shoes rubbed my heel and gave me a blister.",
+            "She put a bandage on the blister to protect it.",
+            "Hold a rake with gloves on, or the handle will give you a blister."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blizzard",
+    "say": "BLIZ-erd",
+    "emoji": "❄️",
+    "forms": [
+      "blizzards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big snowstorm with strong wind.",
+          "examples": [
+            "A blizzard hit the town.",
+            "The blizzard was loud.",
+            "School closed for the blizzard."
+          ]
+        },
+        "more": {
+          "def": "A heavy snowstorm with strong winds that makes it hard to see and to travel.",
+          "examples": [
+            "A blizzard hit the town and closed the schools for two days.",
+            "The blizzard blew snow into drifts higher than the fence.",
+            "We stayed inside by the fire during the blizzard."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blob",
+    "say": "blob",
+    "forms": [
+      "blobs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, soft lump of something.",
+          "examples": [
+            "A blob of paint.",
+            "A blob of jam.",
+            "The blob fell."
+          ]
+        },
+        "more": {
+          "def": "A small, soft lump of a thick liquid, or a shape with no clear edges.",
+          "examples": [
+            "A blob of paint dropped on the floor.",
+            "She put a blob of jam on her toast.",
+            "From far away, the boat looked like a small blob."
           ]
         }
       }
@@ -704,6 +1051,36 @@
     ]
   },
   {
+    "word": "blockade",
+    "say": "blok-AYD",
+    "forms": [
+      "blockades",
+      "blockaded",
+      "blockading"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that blocks a road or a port.",
+          "examples": [
+            "A blockade stopped the ships.",
+            "A road blockade.",
+            "The blockade was long."
+          ]
+        },
+        "more": {
+          "def": "Something, such as a line of ships or a barrier, that blocks a place so that people and goods cannot get in or out.",
+          "examples": [
+            "A blockade of ships stopped boats from entering the harbor.",
+            "The fallen trees formed a blockade across the road.",
+            "The blockade lasted for many months."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "blonde",
     "say": "blond",
     "forms": [
@@ -758,6 +1135,60 @@
     ]
   },
   {
+    "word": "bloodhound",
+    "say": "BLUD-hownd",
+    "emoji": "🐕",
+    "forms": [
+      "bloodhounds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dog with a great sense of smell that finds people.",
+          "examples": [
+            "A bloodhound sniffed the trail.",
+            "The bloodhound has long ears.",
+            "The bloodhound found him."
+          ]
+        },
+        "more": {
+          "def": "A large dog with long, floppy ears and a great sense of smell, used to follow trails and find missing people.",
+          "examples": [
+            "The bloodhound sniffed the ground and followed the trail.",
+            "A bloodhound has long ears and a wrinkled face.",
+            "The police used a bloodhound to find the lost hiker."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bloodstream",
+    "say": "BLUD-streem",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The blood that flows through your body.",
+          "examples": [
+            "Food gets into the bloodstream.",
+            "The medicine enters the bloodstream.",
+            "Your bloodstream carries oxygen."
+          ]
+        },
+        "more": {
+          "def": "The blood that flows around the body through the veins and arteries, carrying oxygen and food to all the parts.",
+          "examples": [
+            "Oxygen travels through your bloodstream to every part of your body.",
+            "Medicine goes into the bloodstream and helps you get better.",
+            "The bloodstream carries food from the stomach to the muscles."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bloom",
     "say": "bloom",
     "emoji": "🌸",
@@ -802,6 +1233,31 @@
             "The pink bloom opened in the sun.",
             "I smelled a rose bloom.",
             "The garden was full of blooms."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blooming",
+    "say": "BLOOM-ing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Full of flowers.",
+          "examples": [
+            "The blooming garden.",
+            "A blooming tree.",
+            "The blooming flowers smelled sweet."
+          ]
+        },
+        "more": {
+          "def": "Having many flowers open, or healthy and growing well.",
+          "examples": [
+            "The blooming garden was full of roses and tulips.",
+            "A blooming cherry tree stood in the yard.",
+            "She looked healthy and blooming after her vacation."
           ]
         }
       }
@@ -910,6 +1366,31 @@
             "A cold wind blew across the empty field.",
             "The paper blew out of my hand and landed in a puddle.",
             "Dust blew through the open window in the desert."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blubber",
+    "say": "BLUB-er",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The thick layer of fat under the skin of a whale or seal.",
+          "examples": [
+            "A whale has blubber.",
+            "Blubber keeps seals warm.",
+            "The blubber is thick."
+          ]
+        },
+        "more": {
+          "def": "The thick layer of fat under the skin of whales and seals that keeps them warm in cold water.",
+          "examples": [
+            "The whale's thick blubber keeps it warm in the icy sea.",
+            "Seals have a layer of blubber under their skin.",
+            "Blubber was once used to make oil for lamps."
           ]
         }
       }
@@ -1150,6 +1631,55 @@
     ]
   },
   {
+    "word": "blunder",
+    "say": "BLUN-der",
+    "forms": [
+      "blunders",
+      "blundered",
+      "blundering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big, silly mistake.",
+          "examples": [
+            "That was a blunder.",
+            "I made a blunder.",
+            "A big blunder."
+          ]
+        },
+        "more": {
+          "def": "A careless or foolish mistake.",
+          "examples": [
+            "Forgetting my lunch was a blunder.",
+            "The player made a blunder and dropped the ball.",
+            "The teacher laughed at his blunder, and so did he."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a big, silly mistake.",
+          "examples": [
+            "I blundered.",
+            "He blundered in the test.",
+            "She blundered into the wall."
+          ]
+        },
+        "more": {
+          "def": "To make a careless mistake, or to move clumsily.",
+          "examples": [
+            "I blundered when I added the numbers the wrong way.",
+            "He blundered through the dark room and bumped the chair.",
+            "The team blundered and lost the lead."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "blunt",
     "say": "blunt",
     "forms": [
@@ -1194,6 +1724,55 @@
             "He gave a blunt answer and told us the truth.",
             "The coach was blunt and said we needed more practice.",
             "She is blunt, so you always know what she is thinking."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "blur",
+    "say": "bler",
+    "forms": [
+      "blurs",
+      "blurred",
+      "blurring"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you cannot see clearly.",
+          "examples": [
+            "The photo was a blur.",
+            "The bike was a blur.",
+            "Everything was a blur."
+          ]
+        },
+        "more": {
+          "def": "Something that looks fuzzy and unclear because it is moving fast or you cannot focus on it.",
+          "examples": [
+            "The race car was just a blur as it sped past.",
+            "Without my glasses, the writing on the board is a blur.",
+            "The days at camp passed in a happy blur."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something hard to see clearly.",
+          "examples": [
+            "Tears blurred my eyes.",
+            "Rain blurred the window.",
+            "Steam blurs my glasses."
+          ]
+        },
+        "more": {
+          "def": "To make something look fuzzy or unclear, or to become hard to see clearly.",
+          "examples": [
+            "Steam from the soup blurred my glasses.",
+            "The rain blurred the lights of the cars outside.",
+            "Fast moving legs blurred the picture of the runner."
           ]
         }
       }

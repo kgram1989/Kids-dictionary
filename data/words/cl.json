@@ -195,6 +195,104 @@
     ]
   },
   {
+    "word": "clang",
+    "say": "klang",
+    "forms": [
+      "clangs",
+      "clanged",
+      "clanging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a loud metal ringing sound.",
+          "examples": [
+            "The bell clanged.",
+            "The pans clanged.",
+            "The gate clanged shut."
+          ]
+        },
+        "more": {
+          "def": "To make a loud, ringing sound like metal being hit.",
+          "examples": [
+            "The big bell clanged to call us for dinner.",
+            "The pots and pans clanged as they fell to the floor.",
+            "The iron gate clanged shut behind us."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loud metal ringing sound.",
+          "examples": [
+            "I heard a clang.",
+            "The clang of the bell.",
+            "A clang rang out."
+          ]
+        },
+        "more": {
+          "def": "A loud, ringing sound made by metal being hit.",
+          "examples": [
+            "We heard a loud clang as the pot hit the floor.",
+            "The clang of the school bell made us hurry.",
+            "The knight's armor made a clang when he fell."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clank",
+    "say": "klangk",
+    "forms": [
+      "clanks",
+      "clanked",
+      "clanking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a loud, heavy metal sound.",
+          "examples": [
+            "The chains clanked.",
+            "The pipe clanks.",
+            "The knight's armor clanked."
+          ]
+        },
+        "more": {
+          "def": "To make a loud, dull sound like metal hitting metal.",
+          "examples": [
+            "The chains clanked as the gate swung open.",
+            "The old pipes clank when the heat comes on.",
+            "The knight's armor clanked as he walked."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loud, heavy metal sound.",
+          "examples": [
+            "I heard a clank.",
+            "The clank of chains.",
+            "A clank came from the engine."
+          ]
+        },
+        "more": {
+          "def": "A loud, dull metallic sound.",
+          "examples": [
+            "We heard a loud clank from under the car.",
+            "The clank of the heavy chain echoed in the cellar.",
+            "The pipe made a clank when it was hit."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clap",
     "say": "klap",
     "emoji": "👏",
@@ -239,6 +337,109 @@
             "A clap of thunder shook the house.",
             "The clap of the book hitting the floor made me jump.",
             "The clap echoed down the hall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clarinet",
+    "say": "klair-ih-NET",
+    "emoji": "🎷",
+    "forms": [
+      "clarinets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, thin instrument you blow into.",
+          "examples": [
+            "She plays the clarinet.",
+            "The clarinet is black.",
+            "He blew the clarinet."
+          ]
+        },
+        "more": {
+          "def": "A long, thin wind instrument made of wood or plastic that you play by blowing into a mouthpiece and pressing keys.",
+          "examples": [
+            "She plays the clarinet in the school band.",
+            "The clarinet has a smooth, warm sound.",
+            "He practiced a song on his clarinet every day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clarity",
+    "say": "KLAIR-ih-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being clear and easy to understand.",
+          "examples": [
+            "I spoke with clarity.",
+            "The water had clarity.",
+            "Her writing has clarity."
+          ]
+        },
+        "more": {
+          "def": "The quality of being clear and easy to see, hear or understand.",
+          "examples": [
+            "The teacher explained the rule with great clarity.",
+            "The water was so clear that we could see the fish with clarity.",
+            "Her writing is full of clarity."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clash",
+    "say": "klash",
+    "forms": [
+      "clashes",
+      "clashed",
+      "clashing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To come together with a loud crash, or to not go well together.",
+          "examples": [
+            "The cymbals clashed.",
+            "The colors clash.",
+            "They clashed over the rules."
+          ]
+        },
+        "more": {
+          "def": "To crash together with a loud noise, to disagree strongly, or to look bad together.",
+          "examples": [
+            "The cymbals clashed with a loud ring.",
+            "Her red shirt clashed with her pink pants.",
+            "The two teams clashed in the final game."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loud crash, or a strong disagreement.",
+          "examples": [
+            "I heard the clash of cymbals.",
+            "A clash of colors.",
+            "There was a clash."
+          ]
+        },
+        "more": {
+          "def": "A loud crashing sound, a strong disagreement, or a fight between two sides.",
+          "examples": [
+            "We heard the clash of the cymbals in the band.",
+            "There was a clash between the two teams.",
+            "A clash of colors made the room look odd."
           ]
         }
       }
@@ -424,6 +625,55 @@
     ]
   },
   {
+    "word": "clatter",
+    "say": "KLAT-er",
+    "forms": [
+      "clatters",
+      "clattered",
+      "clattering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a loud, rattling noise.",
+          "examples": [
+            "The pans clattered.",
+            "The cart clattered down the road.",
+            "Dishes clatter in the sink."
+          ]
+        },
+        "more": {
+          "def": "To make a loud noise like hard things banging together.",
+          "examples": [
+            "The pots clattered to the floor when I dropped the box.",
+            "The wagon clattered down the stony road.",
+            "Plates clattered in the kitchen as Dad cleaned up."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loud, rattling noise.",
+          "examples": [
+            "I heard a clatter.",
+            "The clatter woke the baby.",
+            "A clatter came from the kitchen."
+          ]
+        },
+        "more": {
+          "def": "A loud noise made by hard things banging together.",
+          "examples": [
+            "A clatter in the kitchen told us that someone had dropped the pans.",
+            "The clatter of hooves came down the road.",
+            "We covered our ears at the clatter of the dishes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "claw",
     "say": "klaw",
     "forms": [
@@ -570,6 +820,61 @@
             "The cleaner smelled like lemons.",
             "Dad sprayed cleaner on the counter.",
             "The glass cleaner left the window sparkling."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cleanse",
+    "say": "klenz",
+    "forms": [
+      "cleanses",
+      "cleansed",
+      "cleansing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make very clean.",
+          "examples": [
+            "Cleanse the cut.",
+            "She cleansed her face.",
+            "Water cleanses."
+          ]
+        },
+        "more": {
+          "def": "To make something completely clean, especially a cut or the skin.",
+          "examples": [
+            "The nurse used a wipe to cleanse the cut on my knee.",
+            "She cleansed her face with warm water and soap.",
+            "Rain cleanses the air and washes away the dust."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cleanup",
+    "say": "KLEEN-up",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Cleaning a place that is messy.",
+          "examples": [
+            "We had a cleanup day.",
+            "Help with the cleanup.",
+            "The cleanup took an hour."
+          ]
+        },
+        "more": {
+          "def": "The act of cleaning up a place after it has become messy.",
+          "examples": [
+            "Our class joined the beach cleanup on Saturday.",
+            "After the party, the cleanup took an hour.",
+            "Everyone helped with the cleanup of the park."
           ]
         }
       }
@@ -817,6 +1122,34 @@
     ]
   },
   {
+    "word": "climax",
+    "say": "KLY-maks",
+    "forms": [
+      "climaxes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The most exciting part of a story.",
+          "examples": [
+            "The climax was exciting.",
+            "I loved the climax.",
+            "The climax of the movie."
+          ]
+        },
+        "more": {
+          "def": "The most exciting or important part of a story, a game or an event, just before the end.",
+          "examples": [
+            "The climax of the story came when the hero crossed the burning bridge.",
+            "The game reached its climax in the last minute.",
+            "Everyone held their breath at the climax of the movie."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "climb",
     "say": "klym",
     "forms": [
@@ -905,6 +1238,56 @@
     ]
   },
   {
+    "word": "clink",
+    "say": "klingk",
+    "forms": [
+      "clinks",
+      "clinked",
+      "clinking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "say": "klingk",
+        "easy": {
+          "def": "To make a light ringing sound, like glass hitting.",
+          "examples": [
+            "The glasses clinked.",
+            "Coins clink in my pocket.",
+            "The spoons clinked."
+          ]
+        },
+        "more": {
+          "def": "To make a light, short ringing sound, like the sound of glass or metal hitting together.",
+          "examples": [
+            "The glasses clinked when we all said cheers.",
+            "Coins clinked in my pocket as I walked.",
+            "Spoons clinked against the bowls at breakfast."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A light ringing sound.",
+          "examples": [
+            "I heard a clink.",
+            "The clink of coins.",
+            "A clink of glass."
+          ]
+        },
+        "more": {
+          "def": "A light, short ringing sound made by glass or metal hitting together.",
+          "examples": [
+            "We heard the clink of ice in the glass.",
+            "A clink of keys told us that Dad was home.",
+            "The clink of silverware filled the dining room."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clip",
     "say": "klip",
     "forms": [
@@ -967,6 +1350,62 @@
             "We watched a clip from the movie.",
             "The funny clip made us laugh.",
             "The news showed a clip of the storm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clipper",
+    "say": "KLIP-er",
+    "forms": [
+      "clippers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool for cutting nails or hair.",
+          "examples": [
+            "Use the nail clipper.",
+            "The clipper is sharp.",
+            "Dad used clippers."
+          ]
+        },
+        "more": {
+          "def": "A tool used for cutting or trimming, such as for nails or hair; also a fast sailing ship of long ago.",
+          "examples": [
+            "I used a clipper to trim my fingernails.",
+            "The barber used clippers to cut his hair.",
+            "The tall clipper ship raced across the ocean with all its sails."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clipping",
+    "say": "KLIP-ing",
+    "forms": [
+      "clippings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece cut out of a paper or magazine.",
+          "examples": [
+            "I saved a clipping.",
+            "A newspaper clipping.",
+            "She kept the clipping."
+          ]
+        },
+        "more": {
+          "def": "A piece that has been cut out of a newspaper or magazine, or a small piece trimmed off a plant or a nail.",
+          "examples": [
+            "Grandma kept a newspaper clipping of my big win in a scrapbook.",
+            "The gardener swept up the grass clippings after mowing.",
+            "Dad saved a clipping about our school play."
           ]
         }
       }
@@ -1045,6 +1484,55 @@
             "The clock on the wall says half past nine.",
             "I set the clock for seven.",
             "The clock chimed at noon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clog",
+    "say": "klog",
+    "forms": [
+      "clogs",
+      "clogged",
+      "clogging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To block a pipe so things cannot pass through.",
+          "examples": [
+            "Hair can clog the drain.",
+            "The sink is clogged.",
+            "Leaves clogged the pipe."
+          ]
+        },
+        "more": {
+          "def": "To block something, such as a pipe or a drain, so that water or air cannot get through.",
+          "examples": [
+            "Leaves clogged the gutter, and the rain ran over the edge.",
+            "Too much paper can clog the toilet.",
+            "Grease can clog the kitchen drain."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wooden shoe.",
+          "examples": [
+            "She wore a clog.",
+            "The clogs are made of wood.",
+            "He put on his clogs."
+          ]
+        },
+        "more": {
+          "def": "A shoe with a thick, wooden bottom, or a heavy, thick-soled shoe.",
+          "examples": [
+            "She wore wooden clogs that clacked on the stone path.",
+            "In the Netherlands, some people wear clogs made of wood.",
+            "He took off his clogs by the door."
           ]
         }
       }
@@ -1231,6 +1719,36 @@
     ]
   },
   {
+    "word": "clothe",
+    "say": "klohth",
+    "forms": [
+      "clothes",
+      "clothed",
+      "clothing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To dress someone.",
+          "examples": [
+            "Mom clothes the baby.",
+            "They clothed the child.",
+            "Clothe yourself warmly."
+          ]
+        },
+        "more": {
+          "def": "To dress someone, or to give them what they need to wear.",
+          "examples": [
+            "Mom clothed the baby in a warm sweater.",
+            "The charity helps to feed and clothe children who need help.",
+            "He was clothed in a long coat and boots."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clothes",
     "say": "klohz",
     "emoji": "👕",
@@ -1320,6 +1838,64 @@
     ]
   },
   {
+    "word": "cloudy",
+    "say": "KLOW-dee",
+    "forms": [
+      "cloudier",
+      "cloudiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Full of clouds.",
+          "examples": [
+            "It is a cloudy day.",
+            "The sky is cloudy.",
+            "A cloudy night."
+          ]
+        },
+        "more": {
+          "def": "Covered with clouds, or not clear.",
+          "examples": [
+            "It was cloudy all day, so we could not see the sun.",
+            "The water in the pond looked cloudy after the rain.",
+            "A cloudy sky hung over the town."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clover",
+    "say": "KLOH-ver",
+    "emoji": "🍀",
+    "forms": [
+      "clovers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small plant with three round leaves.",
+          "examples": [
+            "I found a clover.",
+            "The grass has clover.",
+            "A four-leaf clover is lucky."
+          ]
+        },
+        "more": {
+          "def": "A small plant with leaves in groups of three and small round flowers; a four-leaf kind is thought to bring good luck.",
+          "examples": [
+            "We searched the grass for a four-leaf clover.",
+            "Bees love the sweet flowers of the clover.",
+            "Cows ate the clover in the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clown",
     "say": "klown",
     "emoji": "🤡",
@@ -1396,6 +1972,83 @@
     ]
   },
   {
+    "word": "clubhouse",
+    "say": "KLUB-hows",
+    "forms": [
+      "clubhouses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small building where a club meets.",
+          "examples": [
+            "We met at the clubhouse.",
+            "The clubhouse is in the yard.",
+            "We built a clubhouse."
+          ]
+        },
+        "more": {
+          "def": "A building or a room where the members of a club meet, or a small hideout that kids build.",
+          "examples": [
+            "The kids built a clubhouse in the backyard out of old boards.",
+            "The golf club has a large clubhouse with a snack bar.",
+            "We held our club meeting in the clubhouse."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cluck",
+    "say": "kluk",
+    "forms": [
+      "clucks",
+      "clucked",
+      "clucking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make the sound a hen makes.",
+          "examples": [
+            "The hen clucked.",
+            "Chickens cluck.",
+            "I heard it cluck."
+          ]
+        },
+        "more": {
+          "def": "To make the short, low sound that a hen makes.",
+          "examples": [
+            "The hen clucked as she led her chicks across the yard.",
+            "Chickens cluck softly when they are happy.",
+            "The hens clucked and pecked at the grain."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sound a hen makes.",
+          "examples": [
+            "I heard a cluck.",
+            "The cluck of the hen.",
+            "A cluck came from the coop."
+          ]
+        },
+        "more": {
+          "def": "The short, low sound that a hen makes.",
+          "examples": [
+            "We heard the cluck of the hens in the barn.",
+            "A cluck came from the nest.",
+            "She imitated the cluck of a chicken."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clue",
     "say": "kloo",
     "emoji": "🔎",
@@ -1419,6 +2072,31 @@
             "The muddy footprints were a clue to who had been in the kitchen.",
             "The word puzzle has a clue for every box.",
             "The detective found a clue in the garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clueless",
+    "say": "KLOO-lis",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not knowing anything about something.",
+          "examples": [
+            "I was clueless.",
+            "He was clueless about the plan.",
+            "She felt clueless."
+          ]
+        },
+        "more": {
+          "def": "Having no idea about something, or not understanding what is going on.",
+          "examples": [
+            "I was clueless about how to play the new game.",
+            "He was clueless about the surprise party.",
+            "She felt clueless on her first day at the new school."
           ]
         }
       }
@@ -1457,6 +2135,55 @@
       {
         "word": "clumsiness",
         "def": "Being clumsy."
+      }
+    ]
+  },
+  {
+    "word": "cluster",
+    "say": "KLUS-ter",
+    "forms": [
+      "clusters",
+      "clustered",
+      "clustering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small group of things close together.",
+          "examples": [
+            "A cluster of grapes.",
+            "A cluster of stars.",
+            "A cluster of flowers."
+          ]
+        },
+        "more": {
+          "def": "A small group of things that grow or are gathered close together.",
+          "examples": [
+            "A cluster of grapes hung from the vine.",
+            "We saw a cluster of stars in the night sky.",
+            "A cluster of kids stood by the door."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To gather close together.",
+          "examples": [
+            "The kids clustered around.",
+            "Birds cluster on the wire.",
+            "We clustered together."
+          ]
+        },
+        "more": {
+          "def": "To gather or grow close together in a small group.",
+          "examples": [
+            "The children clustered around the teacher to hear the story.",
+            "Penguins cluster together to keep warm.",
+            "The houses cluster around the small village green."
+          ]
+        }
       }
     ]
   },
@@ -1523,6 +2250,36 @@
             "A clutch of three blue eggs lay in the nest.",
             "The turtle laid a clutch of eggs in the sand.",
             "The hen sat patiently on her clutch of eggs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clutter",
+    "say": "KLUT-er",
+    "forms": [
+      "clutters",
+      "cluttered",
+      "cluttering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A messy pile of things.",
+          "examples": [
+            "My room is full of clutter.",
+            "The clutter is everywhere.",
+            "Clean up the clutter."
+          ]
+        },
+        "more": {
+          "def": "A messy collection of things that are left lying around.",
+          "examples": [
+            "My desk was covered with clutter, so I tidied it.",
+            "The clutter in the garage made it hard to find the bikes.",
+            "We cleared the clutter off the table before dinner."
           ]
         }
       }

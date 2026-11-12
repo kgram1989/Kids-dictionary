@@ -1,5 +1,33 @@
 [
   {
+    "word": "fraction",
+    "say": "FRAK-shun",
+    "forms": [
+      "fractions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of a whole number, like half.",
+          "examples": [
+            "Half is a fraction.",
+            "We cut the pie in fractions.",
+            "One fourth is a fraction."
+          ]
+        },
+        "more": {
+          "def": "A number that shows part of a whole, such as one half or three fourths.",
+          "examples": [
+            "We learned that one half is a fraction that equals two fourths.",
+            "If you cut a pizza into eight slices, each slice is a fraction of the pizza.",
+            "The teacher drew a fraction on the board with a line between two numbers."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fracture",
     "say": "FRAK-cher",
     "forms": [
@@ -84,6 +112,35 @@
     ]
   },
   {
+    "word": "frail",
+    "say": "frayl",
+    "forms": [
+      "frailer",
+      "frailest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Weak and easily hurt.",
+          "examples": [
+            "The old man was frail.",
+            "A frail branch.",
+            "A frail bird."
+          ]
+        },
+        "more": {
+          "def": "Weak and easily broken or hurt.",
+          "examples": [
+            "The old man was frail and walked with a cane.",
+            "The frail branch snapped in the wind.",
+            "A frail little bird lay in the nest."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "frame",
     "say": "fraym",
     "emoji": "🖼️",
@@ -134,6 +191,31 @@
             "Frankly, I did not like that movie very much.",
             "He spoke frankly about his mistake and said sorry.",
             "The doctor talked frankly to us about what to expect."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frantic",
+    "say": "FRAN-tik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very worried and in a big hurry.",
+          "examples": [
+            "We made a frantic dash.",
+            "A frantic search.",
+            "She was frantic."
+          ]
+        },
+        "more": {
+          "def": "Wild with worry or in a great rush, because of fear or excitement.",
+          "examples": [
+            "We made a frantic dash for the bus when we saw it pulling away.",
+            "He made a frantic search for his lost keys.",
+            "The mother ducks were frantic when one of the ducklings went missing."
           ]
         }
       }
@@ -496,6 +578,62 @@
     ]
   },
   {
+    "word": "freighter",
+    "say": "FRAY-ter",
+    "forms": [
+      "freighters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big ship or plane that carries goods.",
+          "examples": [
+            "A freighter carries goods.",
+            "The freighter sailed.",
+            "A freighter brought the cars."
+          ]
+        },
+        "more": {
+          "def": "A large ship or plane that carries goods rather than passengers.",
+          "examples": [
+            "A huge freighter carried boxes of toys across the ocean.",
+            "The freighter arrived at the port early in the morning.",
+            "Cars were loaded onto the freighter by a crane."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frenzy",
+    "say": "FREN-zee",
+    "forms": [
+      "frenzies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wild, excited rush.",
+          "examples": [
+            "The kids were in a frenzy.",
+            "A frenzy of activity.",
+            "The shoppers were in a frenzy."
+          ]
+        },
+        "more": {
+          "def": "A state of wild excitement or busy rushing about.",
+          "examples": [
+            "The children were in a frenzy of excitement on the last day of school.",
+            "The shoppers rushed about in a frenzy before the big sale.",
+            "A frenzy of barking broke out when the mail arrived."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "frequency",
     "say": "FREE-kwen-see",
     "forms": [
@@ -644,6 +782,36 @@
     ]
   },
   {
+    "word": "freshen",
+    "say": "FRESH-un",
+    "forms": [
+      "freshens",
+      "freshened",
+      "freshening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something fresh again.",
+          "examples": [
+            "Open the window to freshen the room.",
+            "The rain freshened the air.",
+            "A bath will freshen you up."
+          ]
+        },
+        "more": {
+          "def": "To make something cleaner, newer or better smelling.",
+          "examples": [
+            "We opened the windows to freshen the air in the stuffy classroom.",
+            "A new coat of paint will freshen the old fence.",
+            "The cool breeze freshened the hot afternoon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "freshly",
     "say": "FRESH-lee",
     "senses": [
@@ -691,6 +859,64 @@
             "My brother is a freshman in high school.",
             "The freshmen toured the school on the first day.",
             "She is a freshman at the university."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fret",
+    "say": "fret",
+    "forms": [
+      "frets",
+      "fretted",
+      "fretting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To worry about little things.",
+          "examples": [
+            "Do not fret.",
+            "He fretted about the test.",
+            "She frets about her pet."
+          ]
+        },
+        "more": {
+          "def": "To worry about something, especially a small thing, in a way that makes you uneasy.",
+          "examples": [
+            "Do not fret about the test; you studied hard.",
+            "She fretted all morning about the weather for the picnic.",
+            "The baby fretted and cried until Mom rocked her."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "friar",
+    "say": "FRY-er",
+    "forms": [
+      "friars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man who lives and works for a church.",
+          "examples": [
+            "The friar wore a robe.",
+            "A friar in the story.",
+            "The friar prayed."
+          ]
+        },
+        "more": {
+          "def": "A man who belongs to a religious group and lives a simple life, helping others, especially in the Middle Ages.",
+          "examples": [
+            "The friar wore a brown robe and sandals.",
+            "In the story of Robin Hood, Friar Tuck was a jolly man.",
+            "The friar helped the poor people of the town."
           ]
         }
       }
@@ -873,6 +1099,34 @@
     ]
   },
   {
+    "word": "fright",
+    "say": "fryt",
+    "forms": [
+      "frights"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sudden, strong feeling of fear.",
+          "examples": [
+            "The loud noise gave me a fright.",
+            "She screamed in fright.",
+            "The cat jumped in fright."
+          ]
+        },
+        "more": {
+          "def": "A sudden feeling of fear, or a shock that scares you.",
+          "examples": [
+            "The loud bang gave us a fright, but it was only a balloon popping.",
+            "The cat jumped in fright when the door slammed.",
+            "She gave a little cry of fright at the sight of a spider."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "frighten",
     "say": "FRY-tun",
     "forms": [
@@ -948,6 +1202,93 @@
             "The thunderstorm was frightening.",
             "The story was too frightening for little kids.",
             "The loud noise was frightening."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frilly",
+    "say": "FRIL-ee",
+    "forms": [
+      "frillier",
+      "frilliest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having fancy, ruffled edges.",
+          "examples": [
+            "She wore a frilly dress.",
+            "The curtains are frilly.",
+            "A frilly collar."
+          ]
+        },
+        "more": {
+          "def": "Decorated with fancy ruffles or folds of cloth along the edges.",
+          "examples": [
+            "She wore a frilly pink dress with lace at the sleeves.",
+            "The frilly curtains swayed in the open window.",
+            "My doll has a frilly hat tied with a ribbon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fringe",
+    "say": "frinj",
+    "forms": [
+      "fringes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A border of hanging threads or strips.",
+          "examples": [
+            "The scarf has a fringe.",
+            "A fringe on the jacket.",
+            "The rug has a fringe."
+          ]
+        },
+        "more": {
+          "def": "A decorative edge of hanging threads or strips, or the outer edge of something.",
+          "examples": [
+            "The scarf had a long fringe at each end.",
+            "The cowboy's jacket had a fringe along the sleeves.",
+            "We lived on the fringe of the forest."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frisk",
+    "say": "frisk",
+    "forms": [
+      "frisks",
+      "frisked",
+      "frisking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To jump and play in a lively way.",
+          "examples": [
+            "The lambs frisk in the field.",
+            "The puppy frisked.",
+            "Kittens frisk around."
+          ]
+        },
+        "more": {
+          "def": "To skip, jump and play in a lively, happy way.",
+          "examples": [
+            "The lambs frisked about in the spring meadow.",
+            "The puppy frisked around the yard after the ball.",
+            "Children frisked in the snow."
           ]
         }
       }
@@ -1077,6 +1418,60 @@
             "The pioneers moved to the western frontier.",
             "Life on the frontier was hard but exciting.",
             "Space is sometimes called the final frontier."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frosting",
+    "say": "FROS-ting",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sweet, creamy topping on a cake.",
+          "examples": [
+            "I licked the frosting.",
+            "The cake has pink frosting.",
+            "Spread the frosting."
+          ]
+        },
+        "more": {
+          "def": "A sweet, creamy mixture that is spread on top of cakes and cookies.",
+          "examples": [
+            "I licked the chocolate frosting off the spoon.",
+            "She spread pink frosting on the cupcakes.",
+            "The cake had thick vanilla frosting."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frosty",
+    "say": "FROS-tee",
+    "forms": [
+      "frostier",
+      "frostiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very cold, with frost.",
+          "examples": [
+            "It was a frosty morning.",
+            "The grass is frosty.",
+            "A frosty window."
+          ]
+        },
+        "more": {
+          "def": "Very cold, or covered with a thin layer of ice crystals called frost.",
+          "examples": [
+            "It was a frosty morning, and the grass sparkled with ice.",
+            "The frosty window made pretty patterns.",
+            "I put on a warm hat for the frosty walk to school."
           ]
         }
       }
@@ -1243,6 +1638,34 @@
     ]
   },
   {
+    "word": "fruitcake",
+    "say": "FROOT-kayk",
+    "forms": [
+      "fruitcakes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A heavy cake with bits of fruit and nuts.",
+          "examples": [
+            "Grandma made a fruitcake.",
+            "The fruitcake is sweet.",
+            "We ate fruitcake at Christmas."
+          ]
+        },
+        "more": {
+          "def": "A heavy, sweet cake filled with dried fruit and nuts, often eaten at Christmas.",
+          "examples": [
+            "Grandma baked a fruitcake full of cherries and raisins for the holidays.",
+            "The fruitcake was dense and spicy.",
+            "We cut the fruitcake into thin slices."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "frustrated",
     "say": "FRUS-tray-tid",
     "senses": [
@@ -1262,6 +1685,31 @@
             "I was frustrated when the game would not work.",
             "She was frustrated with the hard puzzle.",
             "He felt frustrated at the long wait."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frustrating",
+    "say": "FRUS-tray-ting",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making you feel upset because things go wrong.",
+          "examples": [
+            "The game was frustrating.",
+            "It is frustrating when it breaks.",
+            "A frustrating puzzle."
+          ]
+        },
+        "more": {
+          "def": "Making you feel annoyed or upset because you cannot do or get what you want.",
+          "examples": [
+            "The puzzle was so frustrating that I almost gave up.",
+            "It is frustrating when the video keeps stopping.",
+            "The slow computer made the homework frustrating."
           ]
         }
       }

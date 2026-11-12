@@ -323,6 +323,34 @@
     ]
   },
   {
+    "word": "immigrant",
+    "say": "IM-ih-grunt",
+    "forms": [
+      "immigrants"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who moves to live in a new country.",
+          "examples": [
+            "My neighbor is an immigrant.",
+            "The immigrant came by ship.",
+            "Many immigrants live in our town."
+          ]
+        },
+        "more": {
+          "def": "A person who comes to live in a country that is not the one where they were born.",
+          "examples": [
+            "My grandmother was an immigrant who came to America by ship when she was ten.",
+            "Many immigrants bring new foods, music and customs to their new home.",
+            "The immigrant family opened a small bakery on our street."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "immortal",
     "say": "ih-MOR-tul",
     "senses": [
@@ -398,6 +426,36 @@
             "The child was impatient and tapped his foot.",
             "I am impatient to open my gift.",
             "She grew impatient waiting in the long line."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "impersonate",
+    "say": "im-PER-suh-nayt",
+    "forms": [
+      "impersonates",
+      "impersonated",
+      "impersonating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To act or sound like someone else.",
+          "examples": [
+            "He can impersonate a duck.",
+            "She impersonated her teacher.",
+            "I impersonate a cat."
+          ]
+        },
+        "more": {
+          "def": "To act or talk like another person or animal, often to be funny or to trick people.",
+          "examples": [
+            "My brother can impersonate a duck so well that the dog looked for it.",
+            "She impersonated our teacher, and the class laughed.",
+            "The actor impersonated a famous singer."
           ]
         }
       }
@@ -583,6 +641,36 @@
     ]
   },
   {
+    "word": "impostor",
+    "say": "im-POS-ter",
+    "forms": [
+      "impostors",
+      "imposter",
+      "imposters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who pretends to be someone else.",
+          "examples": [
+            "The impostor wore a mask.",
+            "Who is the impostor?",
+            "The impostor fooled us."
+          ]
+        },
+        "more": {
+          "def": "A person who pretends to be someone else in order to trick others.",
+          "examples": [
+            "In the mystery game, one player is secretly an impostor.",
+            "The prince was really an impostor who had borrowed the royal robe.",
+            "The impostor was found out when he could not remember the answer."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "impress",
     "say": "im-PRESS",
     "forms": [
@@ -671,6 +759,85 @@
       {
         "word": "unimpressive",
         "def": "Not impressive."
+      }
+    ]
+  },
+  {
+    "word": "imprint",
+    "say": "IM-print",
+    "forms": [
+      "imprints",
+      "imprinted",
+      "imprinting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mark made by pressing on something.",
+          "examples": [
+            "I left an imprint in the sand.",
+            "An imprint of a hand.",
+            "The foot made an imprint."
+          ]
+        },
+        "more": {
+          "def": "A mark or a picture that is made by pressing something into a soft surface.",
+          "examples": [
+            "My foot left an imprint in the wet sand.",
+            "The coin left an imprint in the clay.",
+            "She pressed her hand into the cement to leave an imprint."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To press a mark into something.",
+          "examples": [
+            "I imprinted my hand.",
+            "The stamp imprinted the paper.",
+            "Imprint the design."
+          ]
+        },
+        "more": {
+          "def": "To press or stamp a mark into something.",
+          "examples": [
+            "She imprinted her hand in the wet clay.",
+            "The stamp imprinted a star on each page.",
+            "The seal imprinted the shape of an eagle in the wax."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "imprison",
+    "say": "im-PRIZ-un",
+    "forms": [
+      "imprisons",
+      "imprisoned",
+      "imprisoning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To keep someone locked up.",
+          "examples": [
+            "The king imprisoned the thief.",
+            "The giant imprisoned the elf.",
+            "They imprisoned the bird."
+          ]
+        },
+        "more": {
+          "def": "To put someone in a prison or keep them locked up so that they cannot leave.",
+          "examples": [
+            "In the fairy tale, the wicked king imprisoned the princess in a tall tower.",
+            "The judge ordered that the thief be imprisoned.",
+            "The cage imprisoned the bird until we set it free."
+          ]
+        }
       }
     ]
   },
@@ -786,6 +953,31 @@
             "I had an impulse to jump in the puddle.",
             "She bought the toy on impulse.",
             "He fought the impulse to shout."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "impulsive",
+    "say": "im-PUL-siv",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Doing things fast without thinking first.",
+          "examples": [
+            "He is an impulsive child.",
+            "It was an impulsive choice.",
+            "Her impulsive jump."
+          ]
+        },
+        "more": {
+          "def": "Acting quickly because of a sudden feeling, without stopping to think first.",
+          "examples": [
+            "She was impulsive and jumped in the pool without testing the water.",
+            "It was an impulsive choice to buy the bright red hat.",
+            "An impulsive child might grab a toy without asking."
           ]
         }
       }

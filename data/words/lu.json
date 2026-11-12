@@ -1,5 +1,33 @@
 [
   {
+    "word": "luau",
+    "say": "LOO-ow",
+    "forms": [
+      "luaus"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A Hawaiian party with food, music and dancing.",
+          "examples": [
+            "We went to a luau.",
+            "The luau had hula dancers.",
+            "A luau is a party."
+          ]
+        },
+        "more": {
+          "def": "A party in Hawaii with a big feast, music and dancing.",
+          "examples": [
+            "We ate roast pork and fruit at the luau.",
+            "Hula dancers performed at the luau.",
+            "The luau was held on the beach at sunset."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "luck",
     "say": "luk",
     "emoji": "🍀",
@@ -107,6 +135,132 @@
     ]
   },
   {
+    "word": "lull",
+    "say": "lul",
+    "forms": [
+      "lulls",
+      "lulled",
+      "lulling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short quiet time in the middle of noise or activity.",
+          "examples": [
+            "There was a lull in the storm.",
+            "A lull in the talk.",
+            "The lull was short."
+          ]
+        },
+        "more": {
+          "def": "A short period of calm or quiet in the middle of something busy or noisy.",
+          "examples": [
+            "There was a lull in the storm, and we ran to the car.",
+            "During a lull in the game, we ate snacks.",
+            "A lull in the conversation let me ask my question."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone calm or sleepy.",
+          "examples": [
+            "The song lulled the baby.",
+            "The rain lulled me to sleep.",
+            "A lullaby lulls a child."
+          ]
+        },
+        "more": {
+          "def": "To calm someone or make them sleepy with a soft, gentle sound or movement.",
+          "examples": [
+            "The soft music lulled the baby to sleep.",
+            "The sound of rain on the roof lulled me.",
+            "The gentle rocking lulled the kitten."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lullaby",
+    "say": "LUL-uh-by",
+    "forms": [
+      "lullabies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft song to help a baby sleep.",
+          "examples": [
+            "Mom sang a lullaby.",
+            "The lullaby was sweet.",
+            "The baby loved the lullaby."
+          ]
+        },
+        "more": {
+          "def": "A soft, gentle song that is sung to help a baby or a child go to sleep.",
+          "examples": [
+            "Mom sang a lullaby, and the baby fell asleep.",
+            "Grandma hummed a lullaby from her childhood.",
+            "The soft lullaby made me feel sleepy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lumber",
+    "say": "LUM-ber",
+    "forms": [
+      "lumbers",
+      "lumbered",
+      "lumbering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Wood that is cut into boards.",
+          "examples": [
+            "We bought lumber for the fence.",
+            "The lumber is in a pile.",
+            "Dad cut the lumber."
+          ]
+        },
+        "more": {
+          "def": "Wood from trees that has been cut into boards and beams for building.",
+          "examples": [
+            "Trucks carried lumber from the sawmill to the building site.",
+            "Dad bought lumber to build a shed in the yard.",
+            "The pile of lumber smelled of fresh pine."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To walk slowly and heavily.",
+          "examples": [
+            "The bear lumbered along.",
+            "An elephant lumbers by.",
+            "The big truck lumbered up the hill."
+          ]
+        },
+        "more": {
+          "def": "To move slowly and heavily, with big, clumsy steps.",
+          "examples": [
+            "The bear lumbered out of the cave after its long winter sleep.",
+            "The old truck lumbered up the steep hill.",
+            "An elephant lumbered across the dusty plain."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "luminous",
     "say": "LOO-min-us",
     "senses": [
@@ -154,6 +308,61 @@
             "She rolled the lump of clay into a ball.",
             "I put a lump of sugar in my tea.",
             "There was a lump under the blanket."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lumpy",
+    "say": "LUM-pee",
+    "forms": [
+      "lumpier",
+      "lumpiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Full of lumps.",
+          "examples": [
+            "The gravy was lumpy.",
+            "A lumpy bed.",
+            "The oatmeal is lumpy."
+          ]
+        },
+        "more": {
+          "def": "Full of small, hard lumps, or not smooth.",
+          "examples": [
+            "The gravy was lumpy because the flour had not been stirred well.",
+            "The old mattress was lumpy and uncomfortable.",
+            "We walked across the lumpy ground."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lunar",
+    "say": "LOO-ner",
+    "senses": [
+      {
+        "pos": "adjective",
+        "say": "LOO-ner",
+        "easy": {
+          "def": "Having to do with the moon.",
+          "examples": [
+            "A lunar eclipse.",
+            "The lunar surface.",
+            "A lunar landing."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the moon.",
+          "examples": [
+            "We watched a lunar eclipse, when the Earth's shadow covers the moon.",
+            "The astronauts took a lunar rock back to Earth.",
+            "A lunar month is about twenty-nine days."
           ]
         }
       }
@@ -211,6 +420,34 @@
             "We went to a luncheon for the new mayor.",
             "The luncheon was held at noon in a nice hall.",
             "Grandma hosted a luncheon for her friends."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lunchtime",
+    "say": "LUNCH-tym",
+    "forms": [
+      "lunchtimes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The time of day when you eat lunch.",
+          "examples": [
+            "It is lunchtime.",
+            "We play at lunchtime.",
+            "Lunchtime is at noon."
+          ]
+        },
+        "more": {
+          "def": "The time in the middle of the day when people usually eat lunch.",
+          "examples": [
+            "At lunchtime, the whole school filled the cafeteria.",
+            "The bell rang for lunchtime.",
+            "We play outside at lunchtime if the weather is nice."
           ]
         }
       }
@@ -320,6 +557,36 @@
             "The fish took the shiny lure.",
             "I tied a lure to my fishing line.",
             "The lure looked like a small insect."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lurk",
+    "say": "lerk",
+    "forms": [
+      "lurks",
+      "lurked",
+      "lurking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hide and wait quietly.",
+          "examples": [
+            "A cat lurked behind the door.",
+            "Frogs lurk in the pond.",
+            "Something lurks under the bed."
+          ]
+        },
+        "more": {
+          "def": "To stay hidden and quiet, often while waiting to jump out or watching what is going on.",
+          "examples": [
+            "The crocodile lurked beneath the muddy water, waiting for a thirsty zebra.",
+            "My cat lurked behind the sofa until I walked past.",
+            "Shadows seemed to lurk in the corners of the old attic."
           ]
         }
       }
