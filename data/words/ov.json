@@ -216,6 +216,31 @@
     ]
   },
   {
+    "word": "overcast",
+    "say": "OH-ver-kast",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Covered with clouds.",
+          "examples": [
+            "The sky is overcast.",
+            "An overcast day.",
+            "The overcast sky is gray."
+          ]
+        },
+        "more": {
+          "def": "Covered with clouds so the sky is gray.",
+          "examples": [
+            "The sky was overcast all morning.",
+            "It was an overcast day with no sun.",
+            "Overcast skies hid the stars."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "overcharge",
     "say": "oh-ver-CHARJ",
     "forms": [
@@ -1351,6 +1376,36 @@
             "The overwhelming smell of paint filled the room.",
             "She felt an overwhelming joy.",
             "The smell of smoke was overwhelming."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overwork",
+    "say": "oh-ver-WERK",
+    "forms": [
+      "overworks",
+      "overworked",
+      "overworking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To work too hard.",
+          "examples": [
+            "Do not overwork yourself.",
+            "The farmer overworked the horse.",
+            "She overworked."
+          ]
+        },
+        "more": {
+          "def": "To work too hard or make someone work too hard.",
+          "examples": [
+            "Do not overwork yourself on the project.",
+            "The farmer did not overwork his horses.",
+            "He overworked and fell ill."
           ]
         }
       }
