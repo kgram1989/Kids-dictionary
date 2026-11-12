@@ -58,6 +58,36 @@
     ]
   },
   {
+    "word": "sicken",
+    "say": "SIK-un",
+    "forms": [
+      "sickens",
+      "sickened",
+      "sickening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make or get sick.",
+          "examples": [
+            "Bad food can sicken you.",
+            "The smell sickened me.",
+            "He began to sicken."
+          ]
+        },
+        "more": {
+          "def": "To make someone feel ill, or to become ill.",
+          "examples": [
+            "The smell of the old fish sickened me.",
+            "The sad news sickened her.",
+            "Bad water can sicken people who drink it."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sickness",
     "say": "SIK-niss",
     "forms": [
@@ -1120,6 +1150,34 @@
             "Pilots practice flying in a computer simulation before they fly a real plane.",
             "The class ran a simulation of how a volcano erupts.",
             "The game was a simulation of running a zoo."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "simulator",
+    "say": "SIM-yuh-lay-ter",
+    "forms": [
+      "simulators"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that feels like the real thing for practice.",
+          "examples": [
+            "The pilot used a simulator.",
+            "A flight simulator is fun.",
+            "The simulator feels real."
+          ]
+        },
+        "more": {
+          "def": "A machine that copies the feel of something real so people can practice.",
+          "examples": [
+            "Pilots practice in a flight simulator before flying a plane.",
+            "The driving simulator felt like a real car.",
+            "We rode a space simulator at the museum."
           ]
         }
       }

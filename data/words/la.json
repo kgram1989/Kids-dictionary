@@ -1230,6 +1230,56 @@
     ]
   },
   {
+    "word": "lasso",
+    "say": "LAS-oh",
+    "forms": [
+      "lassos",
+      "lassoes",
+      "lassoed",
+      "lassoing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rope with a loop that cowboys throw.",
+          "examples": [
+            "The cowboy threw a lasso.",
+            "The lasso is a rope.",
+            "A lasso catches cows."
+          ]
+        },
+        "more": {
+          "def": "A long rope with a loop at one end that is thrown to catch cattle.",
+          "examples": [
+            "The cowboy twirled his lasso and caught the calf.",
+            "A lasso is made of strong rope.",
+            "She learned to throw a lasso at the ranch."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To catch with a rope loop.",
+          "examples": [
+            "He will lasso the calf.",
+            "The cowboy lassoed a horse.",
+            "She can lasso a post."
+          ]
+        },
+        "more": {
+          "def": "To catch an animal with a looped rope.",
+          "examples": [
+            "The cowboy lassoed the calf.",
+            "She lassoed a fence post just for fun.",
+            "He lassoed the runaway horse."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "last",
     "say": "last",
     "senses": [
@@ -2053,6 +2103,34 @@
             "The cake had three layers.",
             "A layer of snow covered the road.",
             "I wore a sweater as a second layer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "layman",
+    "say": "LAY-mun",
+    "forms": [
+      "laymen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is not an expert.",
+          "examples": [
+            "He is a layman.",
+            "A layman can learn it.",
+            "The layman asked questions."
+          ]
+        },
+        "more": {
+          "def": "A person who is not trained in a certain subject or job.",
+          "examples": [
+            "The doctor explained the illness in words a layman could understand.",
+            "A layman may not know the science words.",
+            "The book is written for the layman."
           ]
         }
       }

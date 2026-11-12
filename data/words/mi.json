@@ -599,6 +599,34 @@
     ]
   },
   {
+    "word": "milkman",
+    "say": "MILK-man",
+    "forms": [
+      "milkmen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man who brings milk to your house.",
+          "examples": [
+            "The milkman came.",
+            "A milkman left milk.",
+            "The milkman drove a truck."
+          ]
+        },
+        "more": {
+          "def": "A man who brings bottles of milk to people's homes.",
+          "examples": [
+            "Long ago, the milkman came every morning.",
+            "The milkman left two bottles at the door.",
+            "Grandpa remembers the milkman and his truck."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "milkshake",
     "say": "MILK-shayk",
     "forms": [
@@ -2362,6 +2390,55 @@
             "It was only a misunderstanding, and we laughed.",
             "A misunderstanding made us go to the wrong room.",
             "They cleared up the misunderstanding with a talk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "misuse",
+    "say": "mis-YOOSS",
+    "forms": [
+      "misuses",
+      "misused",
+      "misusing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Using something in the wrong way.",
+          "examples": [
+            "Misuse can break the toy.",
+            "The misuse of the tool was unsafe.",
+            "That is a misuse of time."
+          ]
+        },
+        "more": {
+          "def": "The wrong or careless use of something.",
+          "examples": [
+            "The misuse of the tool broke it.",
+            "Misuse of the computer can cause problems.",
+            "He was told that was a misuse of the class time."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To use something in the wrong way.",
+          "examples": [
+            "Do not misuse the tools.",
+            "He misused the pen.",
+            "Never misuse the water."
+          ]
+        },
+        "more": {
+          "def": "To use something in a wrong or careless way.",
+          "examples": [
+            "Do not misuse the scissors.",
+            "She misused the word in her sentence.",
+            "The boy misused the swing and broke it."
           ]
         }
       }

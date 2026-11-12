@@ -905,6 +905,31 @@
     ]
   },
   {
+    "word": "cleansing",
+    "say": "KLEN-zing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making clean.",
+          "examples": [
+            "The cleansing soap is mild.",
+            "We had a cleansing rain.",
+            "He used a cleansing cloth."
+          ]
+        },
+        "more": {
+          "def": "Used for cleaning something.",
+          "examples": [
+            "She used a cleansing cloth to wipe her face.",
+            "A cleansing rain washed the dust from the streets.",
+            "The cleansing soap is gentle on skin."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cleanup",
     "say": "KLEEN-up",
     "senses": [
@@ -1030,6 +1055,42 @@
             "The rules were clearly written on the board."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "clench",
+    "say": "klench",
+    "forms": [
+      "clenches",
+      "clenched",
+      "clenching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To close tightly.",
+          "examples": [
+            "Clench your fist.",
+            "She clenched her teeth.",
+            "He clenched his hand."
+          ]
+        },
+        "more": {
+          "def": "To squeeze or close something tightly.",
+          "examples": [
+            "He clenched his fist around the coin.",
+            "She clenched her teeth in the cold.",
+            "The baby clenched my finger."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unclench",
+        "def": "To open after clenching."
       }
     ]
   },

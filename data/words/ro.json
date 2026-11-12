@@ -85,6 +85,34 @@
     ]
   },
   {
+    "word": "roadside",
+    "say": "ROHD-syde",
+    "forms": [
+      "roadsides"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The edge of a road.",
+          "examples": [
+            "Flowers grew at the roadside.",
+            "We stopped at the roadside.",
+            "The car was on the roadside."
+          ]
+        },
+        "more": {
+          "def": "The land along the edge of a road.",
+          "examples": [
+            "Wildflowers grew along the roadside.",
+            "We stopped at a roadside stand to buy peaches.",
+            "The car pulled over to the roadside."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "roam",
     "say": "rohm",
     "forms": [
@@ -968,6 +996,55 @@
             "My roommate at camp snores a little.",
             "She and her roommate share a small apartment.",
             "The roommates take turns washing the dishes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "roost",
+    "say": "roost",
+    "forms": [
+      "roosts",
+      "roosted",
+      "roosting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where birds rest or sleep.",
+          "examples": [
+            "The birds went to the roost.",
+            "The hens are on the roost.",
+            "An owl's roost is in the barn."
+          ]
+        },
+        "more": {
+          "def": "A place where birds rest or sleep, such as a perch or branch.",
+          "examples": [
+            "The hens went to their roost at dusk.",
+            "An owl made its roost in the old barn.",
+            "Thousands of birds gathered at the roost."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rest or sleep, like birds do.",
+          "examples": [
+            "The hens roost at night.",
+            "Birds roost in the tree.",
+            "The owl roosted on a branch."
+          ]
+        },
+        "more": {
+          "def": "To settle on a perch to rest or sleep, as birds do.",
+          "examples": [
+            "The hens roost on a high bar at night.",
+            "Bats roost in the dark cave.",
+            "The pigeons roosted on the roof."
           ]
         }
       }
