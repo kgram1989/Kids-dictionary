@@ -48,6 +48,34 @@
     ]
   },
   {
+    "word": "gecko",
+    "say": "GEK-oh",
+    "forms": [
+      "geckos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small lizard that can climb walls.",
+          "examples": [
+            "A gecko climbed the wall.",
+            "The gecko is small.",
+            "We saw a gecko."
+          ]
+        },
+        "more": {
+          "def": "A small lizard with sticky feet that can climb walls and ceilings.",
+          "examples": [
+            "A gecko clung to the ceiling of the porch.",
+            "The gecko's sticky feet grip smooth glass.",
+            "Geckos live in warm places."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "gel",
     "say": "jel",
     "forms": [
@@ -72,6 +100,31 @@
             "He combed a little gel into his hair.",
             "The cold pack was filled with a blue gel.",
             "Aloe gel helped soothe my sunburn."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gelatin",
+    "say": "JEL-uh-tin",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A food that makes things wobble when it sets.",
+          "examples": [
+            "The dessert has gelatin.",
+            "Gelatin is jiggly.",
+            "I ate gelatin."
+          ]
+        },
+        "more": {
+          "def": "A clear, tasteless substance used to make jelly desserts set.",
+          "examples": [
+            "The fruit dessert was set with gelatin.",
+            "Gelatin makes the jelly wobble.",
+            "We stirred gelatin into the warm liquid."
           ]
         }
       }
@@ -597,6 +650,56 @@
     ]
   },
   {
+    "word": "geographic",
+    "say": "jee-uh-GRAF-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About places and maps.",
+          "examples": [
+            "We looked at a geographic map.",
+            "The geographic facts are here.",
+            "A geographic book showed rivers."
+          ]
+        },
+        "more": {
+          "def": "Having to do with geography, which is the study of the earth and its places.",
+          "examples": [
+            "The map shows geographic features such as rivers and mountains.",
+            "We learned about the geographic location of each country.",
+            "The geographic area around the lake is flat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "geographical",
+    "say": "jee-uh-GRAF-ih-kul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with places and land.",
+          "examples": [
+            "A geographical map.",
+            "The geographical facts.",
+            "A geographical feature."
+          ]
+        },
+        "more": {
+          "def": "Having to do with geography, which is the study of places and the Earth.",
+          "examples": [
+            "We studied the geographical features of the country.",
+            "The geographical map showed rivers and mountains.",
+            "A river is a geographical feature."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "geography",
     "say": "jee-OG-ruh-fee",
     "senses": [
@@ -616,6 +719,165 @@
             "In geography class we learned about the mountains and rivers of Asia.",
             "She loves geography and can name every country on the map.",
             "The geography of the island includes a tall mountain and a long beach."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "geological",
+    "say": "jee-uh-LOJ-ih-kul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About rocks and the earth.",
+          "examples": [
+            "A geological map.",
+            "The geological find.",
+            "We saw a geological site."
+          ]
+        },
+        "more": {
+          "def": "Having to do with geology, which is the study of rocks and the Earth.",
+          "examples": [
+            "The class studied a geological map of the area.",
+            "A geological survey found gold.",
+            "The canyon is a famous geological site."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "geologist",
+    "say": "jee-OL-uh-jist",
+    "forms": [
+      "geologists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A scientist who studies rocks and the earth.",
+          "examples": [
+            "The geologist looked at a rock.",
+            "A geologist studies mountains.",
+            "The geologist found a fossil."
+          ]
+        },
+        "more": {
+          "def": "A scientist who studies rocks, soil and how the Earth is made.",
+          "examples": [
+            "The geologist hiked up the mountain to collect rocks.",
+            "A geologist can tell how old a rock is.",
+            "The geologist explained how canyons are cut by rivers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "geology",
+    "say": "jee-OL-uh-jee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The study of rocks and the earth.",
+          "examples": [
+            "Geology is about rocks.",
+            "I like geology.",
+            "She studies geology."
+          ]
+        },
+        "more": {
+          "def": "The science of the Earth, its rocks and how they change over time.",
+          "examples": [
+            "Geology tells how mountains were made.",
+            "She studies geology and collects rocks.",
+            "We learned about volcanoes in geology."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "geometric",
+    "say": "jee-uh-MET-rik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Made of shapes like circles and squares.",
+          "examples": [
+            "A geometric pattern.",
+            "The geometric design.",
+            "The rug is geometric."
+          ]
+        },
+        "more": {
+          "def": "Having to do with shapes and lines, or made of them.",
+          "examples": [
+            "The rug had a geometric pattern of squares and triangles.",
+            "She drew a geometric design.",
+            "The tiles formed a geometric shape."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gerbil",
+    "say": "JER-bul",
+    "forms": [
+      "gerbils"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small furry pet with long back legs.",
+          "examples": [
+            "I have a gerbil.",
+            "The gerbil runs fast.",
+            "A gerbil is small."
+          ]
+        },
+        "more": {
+          "def": "A small, furry animal with long back legs that is often kept as a pet.",
+          "examples": [
+            "My gerbil likes to run on its wheel.",
+            "The gerbil stuffed seeds in its cheeks.",
+            "Gerbils dig tunnels in wood shavings."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "germ",
+    "say": "jerm",
+    "forms": [
+      "germs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny living thing that can make you sick.",
+          "examples": [
+            "Washing your hands gets rid of germs.",
+            "A germ is very small.",
+            "Germs can make you sick."
+          ]
+        },
+        "more": {
+          "def": "A tiny living thing that can cause illness.",
+          "examples": [
+            "Sneezing into your elbow stops germs from spreading.",
+            "A germ is too small to see without a microscope.",
+            "Germs spread when people cough without covering their mouths."
           ]
         }
       }
@@ -749,6 +1011,34 @@
             "We took a weekend getaway to the beach.",
             "The cabin in the woods is a peaceful getaway.",
             "A getaway to the mountains made a nice break from school."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "getup",
+    "say": "GET-up",
+    "forms": [
+      "getups"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A funny set of clothes.",
+          "examples": [
+            "He wore a silly getup.",
+            "Her getup was a clown costume.",
+            "What a getup!"
+          ]
+        },
+        "more": {
+          "def": "An outfit of clothes, especially one that looks odd.",
+          "examples": [
+            "He wore a silly getup with a big hat.",
+            "The clown's getup had huge shoes.",
+            "She showed up in a pirate getup."
           ]
         }
       }

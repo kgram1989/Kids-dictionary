@@ -1,5 +1,33 @@
 [
   {
+    "word": "saber",
+    "say": "SAY-ber",
+    "forms": [
+      "sabers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A curved sword.",
+          "examples": [
+            "The pirate had a saber.",
+            "A saber hung on the wall.",
+            "He held a saber."
+          ]
+        },
+        "more": {
+          "def": "A heavy sword with a curved blade, once used by soldiers on horses.",
+          "examples": [
+            "A saber hung on the wall of the museum.",
+            "The pirate waved his saber in the story.",
+            "Soldiers on horses once carried a saber."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sabotage",
     "say": "SAB-uh-tahzh",
     "forms": [
@@ -155,6 +183,36 @@
             "He felt sad when his friend moved away.",
             "It was a sad movie about a lost puppy.",
             "She was sad because the party was over."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sadden",
+    "say": "SAD-un",
+    "forms": [
+      "saddens",
+      "saddened",
+      "saddening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make sad.",
+          "examples": [
+            "The news will sadden her.",
+            "It saddened me.",
+            "Rain can sadden you."
+          ]
+        },
+        "more": {
+          "def": "To make someone feel sad.",
+          "examples": [
+            "The news of the move saddened the whole class.",
+            "It saddens me to see litter in the park.",
+            "The loss of the puppy saddened the family."
           ]
         }
       }
@@ -365,6 +423,31 @@
     ]
   },
   {
+    "word": "safekeeping",
+    "say": "SAYF-kee-ping",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Keeping something safe.",
+          "examples": [
+            "I gave it to him for safekeeping.",
+            "The money is in safekeeping.",
+            "The ring is in safekeeping."
+          ]
+        },
+        "more": {
+          "def": "The act of keeping something safe, or the state of being kept safe.",
+          "examples": [
+            "I gave my coins to Mom for safekeeping.",
+            "The jewels were left in the bank for safekeeping.",
+            "Grandpa put the old watch in a box for safekeeping."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "safely",
     "say": "SAYF-lee",
     "senses": [
@@ -415,6 +498,64 @@
     ]
   },
   {
+    "word": "sag",
+    "say": "sag",
+    "forms": [
+      "sags",
+      "sagged",
+      "sagging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To sink or droop in the middle.",
+          "examples": [
+            "The old bed will sag.",
+            "The rope sagged.",
+            "The roof sagged under snow."
+          ]
+        },
+        "more": {
+          "def": "To sink down or hang loosely in the middle because of weight.",
+          "examples": [
+            "The old bed sags in the middle.",
+            "The clothesline sagged under the wet towels.",
+            "The roof sagged under the heavy snow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "saga",
+    "say": "SAH-guh",
+    "forms": [
+      "sagas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long story full of adventures.",
+          "examples": [
+            "The saga was long.",
+            "We read a saga.",
+            "A saga is a big story."
+          ]
+        },
+        "more": {
+          "def": "A long story full of adventures, especially from old times.",
+          "examples": [
+            "The Viking saga told of brave sailors.",
+            "We read a saga about a hero and a dragon.",
+            "The family saga took many years to tell."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sage",
     "say": "sayj",
     "forms": [
@@ -456,6 +597,35 @@
             "Grandpa gave us sage advice about saving money.",
             "It was a sage decision to bring an umbrella.",
             "The old woman spoke sage words."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "saggy",
+    "say": "SAG-ee",
+    "forms": [
+      "saggier",
+      "saggiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Drooping or hanging low.",
+          "examples": [
+            "The saggy couch.",
+            "A saggy rope.",
+            "The balloon is saggy."
+          ]
+        },
+        "more": {
+          "def": "Hanging down or sinking in the middle.",
+          "examples": [
+            "The old couch was saggy and soft.",
+            "A saggy rope hung between the posts.",
+            "The tent was saggy after the rain."
           ]
         }
       }
@@ -811,6 +981,36 @@
     ]
   },
   {
+    "word": "salivate",
+    "say": "SAL-ih-vayt",
+    "forms": [
+      "salivates",
+      "salivated",
+      "salivating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make spit in your mouth.",
+          "examples": [
+            "I salivate at the smell of pizza.",
+            "The dog salivated.",
+            "We salivate when we see cake."
+          ]
+        },
+        "more": {
+          "def": "To produce spit in the mouth, often when you see or smell good food.",
+          "examples": [
+            "I salivate at the smell of fresh bread.",
+            "The dog salivated at the sight of the treat.",
+            "Our mouths salivate when we see lemons."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "salmon",
     "say": "SAM-un",
     "emoji": "🐟",
@@ -915,6 +1115,84 @@
             "She sprinkled salt on the popcorn.",
             "Ocean water is full of salt.",
             "Add a pinch of salt to the soup."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "salted",
+    "say": "SAWL-tid",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "With salt on it.",
+          "examples": [
+            "The nuts are salted.",
+            "Salted popcorn.",
+            "I like salted peanuts."
+          ]
+        },
+        "more": {
+          "def": "Containing or covered with salt.",
+          "examples": [
+            "I ate salted peanuts at the game.",
+            "The cook added salted butter.",
+            "Salted fish keeps for a long time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "saltine",
+    "say": "sawl-TEEN",
+    "forms": [
+      "saltines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin, salty cracker.",
+          "examples": [
+            "I ate a saltine.",
+            "The saltine is crisp.",
+            "A saltine cracker."
+          ]
+        },
+        "more": {
+          "def": "A thin, crisp cracker with salt on top.",
+          "examples": [
+            "I ate a saltine with my soup.",
+            "The saltine was crisp and salty.",
+            "Mom packed saltines for the trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "saltwater",
+    "say": "SAWLT-waw-ter",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Water from the sea, which has salt.",
+          "examples": [
+            "Fish swim in saltwater.",
+            "The saltwater tastes salty.",
+            "The sea is saltwater."
+          ]
+        },
+        "more": {
+          "def": "Water that has salt in it, such as the water in the sea.",
+          "examples": [
+            "Many fish live in saltwater.",
+            "Saltwater tastes very salty.",
+            "We rinsed our feet after swimming in saltwater."
           ]
         }
       }
@@ -1107,6 +1385,34 @@
     ]
   },
   {
+    "word": "sampler",
+    "say": "SAM-pler",
+    "forms": [
+      "samplers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece of sewn art, or a box with a little of many things.",
+          "examples": [
+            "A cross-stitch sampler.",
+            "The sampler has letters.",
+            "A sampler of cheeses."
+          ]
+        },
+        "more": {
+          "def": "A piece of cloth embroidered with letters to show skill, or a collection of small samples.",
+          "examples": [
+            "The girl stitched an alphabet sampler.",
+            "We bought a sampler of chocolates.",
+            "The sampler of cheeses had four kinds."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "samurai",
     "say": "SAM-uh-ry",
     "senses": [
@@ -1219,6 +1525,90 @@
     ]
   },
   {
+    "word": "sandbag",
+    "say": "SAND-bag",
+    "forms": [
+      "sandbags"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bag filled with sand, used to hold back water.",
+          "examples": [
+            "They stacked sandbags.",
+            "The sandbag is heavy.",
+            "Sandbags keep out water."
+          ]
+        },
+        "more": {
+          "def": "A sack filled with sand, used to hold back floodwater or to add weight.",
+          "examples": [
+            "Workers stacked sandbags beside the river.",
+            "The sandbag was heavy to lift.",
+            "Sandbags kept the water out of the shop."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sandbox",
+    "say": "SAND-boks",
+    "forms": [
+      "sandboxes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A box of sand for kids to play in.",
+          "examples": [
+            "I play in the sandbox.",
+            "The sandbox has toys.",
+            "We dug in the sandbox."
+          ]
+        },
+        "more": {
+          "def": "A low box filled with sand for children to play in.",
+          "examples": [
+            "We dug tunnels in the sandbox.",
+            "The baby sat in the sandbox with a pail.",
+            "A cat napped in the sandbox."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sandcastle",
+    "say": "SAND-kas-ul",
+    "forms": [
+      "sandcastles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A castle made of sand at the beach.",
+          "examples": [
+            "We built a sandcastle.",
+            "The sandcastle fell.",
+            "My sandcastle has a tower."
+          ]
+        },
+        "more": {
+          "def": "A model of a castle built from wet sand, usually at the beach.",
+          "examples": [
+            "We built a sandcastle with towers and a moat.",
+            "The tide washed away our sandcastle.",
+            "She decorated the sandcastle with shells."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sandman",
     "say": "SAND-man",
     "senses": [
@@ -1238,6 +1628,59 @@
             "In the old story, the sandman visits children at night and sprinkles sleepy sand in their eyes.",
             "Dad said the sandman was coming, so it was time for bed.",
             "The song asks the sandman to bring a dream."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sandpaper",
+    "say": "SAND-pay-per",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Rough paper used to smooth wood.",
+          "examples": [
+            "Dad used sandpaper.",
+            "The sandpaper is rough.",
+            "I smoothed it with sandpaper."
+          ]
+        },
+        "more": {
+          "def": "Strong paper coated with sand, used to rub wood or metal smooth.",
+          "examples": [
+            "Dad rubbed the wood with sandpaper.",
+            "The sandpaper felt rough on my hand.",
+            "She used sandpaper to smooth the edges."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sandstorm",
+    "say": "SAND-storm",
+    "forms": [
+      "sandstorms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A storm where strong wind blows lots of sand.",
+          "examples": [
+            "A sandstorm came.",
+            "The sandstorm is in the desert.",
+            "We saw a sandstorm."
+          ]
+        },
+        "more": {
+          "def": "A strong wind in a desert that blows clouds of sand.",
+          "examples": [
+            "A sandstorm hid the sun in the desert.",
+            "The travelers covered their faces during the sandstorm.",
+            "The sandstorm lasted for two hours."
           ]
         }
       }
@@ -1331,6 +1774,62 @@
     ]
   },
   {
+    "word": "sanitary",
+    "say": "SAN-ih-tair-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Clean and free of germs.",
+          "examples": [
+            "The kitchen is sanitary.",
+            "Sanitary tools.",
+            "Wash for sanitary reasons."
+          ]
+        },
+        "more": {
+          "def": "Clean and free of germs, so it is healthy.",
+          "examples": [
+            "The kitchen was kept clean and sanitary.",
+            "Doctors use sanitary tools to keep patients safe.",
+            "Washing hands is a sanitary habit."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unsanitary",
+        "def": "Not clean and full of germs."
+      }
+    ]
+  },
+  {
+    "word": "sanitation",
+    "say": "san-ih-TAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Keeping places clean to stop sickness.",
+          "examples": [
+            "Sanitation keeps towns clean.",
+            "Good sanitation stops germs.",
+            "Good sanitation keeps us well."
+          ]
+        },
+        "more": {
+          "def": "Ways of keeping places clean and healthy, such as clean water and trash pickup.",
+          "examples": [
+            "Good sanitation keeps a town clean and healthy.",
+            "The sanitation workers collect trash every week.",
+            "Clean water and sewers are part of a city's sanitation."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sanity",
     "say": "SAN-ih-tee",
     "senses": [
@@ -1415,6 +1914,35 @@
     ]
   },
   {
+    "word": "sappy",
+    "say": "SAP-ee",
+    "forms": [
+      "sappier",
+      "sappiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Too sweet or too sentimental.",
+          "examples": [
+            "It was a sappy movie.",
+            "A sappy song.",
+            "The sappy card made her smile."
+          ]
+        },
+        "more": {
+          "def": "Too sentimental or full of mushy feelings.",
+          "examples": [
+            "The sappy movie made everyone cry.",
+            "She wrote a sappy card full of hearts.",
+            "He rolled his eyes at the sappy song."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sarcasm",
     "say": "SAR-kaz-um",
     "senses": [
@@ -1488,6 +2016,34 @@
             "A cat ate a sardine from the can.",
             "Sardines swim in big groups in the sea.",
             "We were packed in the bus like sardines in a can."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sash",
+    "say": "sash",
+    "forms": [
+      "sashes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wide strip of cloth worn on a dress.",
+          "examples": [
+            "She tied a sash on her dress.",
+            "The sash is red.",
+            "He wore a sash."
+          ]
+        },
+        "more": {
+          "def": "A long, wide band of cloth worn around the waist or over one shoulder.",
+          "examples": [
+            "She tied a blue sash around her dress.",
+            "The winner wore a sash across her chest.",
+            "A silk sash held the robe closed."
           ]
         }
       }
@@ -1738,6 +2294,31 @@
     ]
   },
   {
+    "word": "saturated",
+    "say": "SACH-uh-ray-tid",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Soaked with water.",
+          "examples": [
+            "The ground is saturated.",
+            "The towel was saturated.",
+            "The saturated sponge dripped."
+          ]
+        },
+        "more": {
+          "def": "Soaked through with water or another liquid.",
+          "examples": [
+            "The ground was saturated after the long rain.",
+            "The saturated sponge dripped on the floor.",
+            "Her coat was saturated by the downpour."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "Saturday",
     "say": "SAT-er-day",
     "emoji": "📅",
@@ -1864,6 +2445,88 @@
             "In the story, a silver saucer landed in the field.",
             "The toy saucer spun and glowed.",
             "The movie had a flying saucer and a friendly alien."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "saucy",
+    "say": "SAW-see",
+    "forms": [
+      "saucier",
+      "sauciest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Bold and a little cheeky in a funny way.",
+          "examples": [
+            "The saucy parrot made us laugh.",
+            "She gave a saucy grin.",
+            "He made a saucy reply."
+          ]
+        },
+        "more": {
+          "def": "Bold and a little rude in a playful, funny way.",
+          "examples": [
+            "The saucy parrot squawked a joke at the cat.",
+            "She gave her brother a saucy grin.",
+            "His saucy answer made the whole class laugh."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sauerkraut",
+    "say": "SOW-er-krowt",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Cabbage that has been cut up and soured.",
+          "examples": [
+            "We ate sauerkraut.",
+            "The sauerkraut is sour.",
+            "I put sauerkraut on my hot dog."
+          ]
+        },
+        "more": {
+          "def": "Finely cut cabbage that has been salted and left to turn sour.",
+          "examples": [
+            "Dad put sauerkraut on his sandwich.",
+            "Sauerkraut has a sour, tangy taste.",
+            "Grandma made sauerkraut from cabbage."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sauna",
+    "say": "SAW-nuh",
+    "forms": [
+      "saunas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small hot room where people sit and sweat.",
+          "examples": [
+            "Dad sat in the sauna.",
+            "The sauna is very hot.",
+            "The sauna at the gym is small."
+          ]
+        },
+        "more": {
+          "def": "A small room filled with dry heat, where people sit to relax and sweat.",
+          "examples": [
+            "The hotel has a sauna next to the pool.",
+            "After skiing, they warmed up in a wooden sauna.",
+            "In Finland, many homes have their own sauna."
           ]
         }
       }
@@ -2006,6 +2669,34 @@
     ]
   },
   {
+    "word": "saver",
+    "say": "SAY-ver",
+    "forms": [
+      "savers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who saves things like money.",
+          "examples": [
+            "She is a saver.",
+            "A saver keeps coins.",
+            "The saver filled her bank."
+          ]
+        },
+        "more": {
+          "def": "A person who saves money or other things, or a thing that saves.",
+          "examples": [
+            "She is a good saver and puts coins in her bank.",
+            "A saver keeps money for later.",
+            "The new light bulb is an energy saver."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "savings",
     "say": "SAY-vingz",
     "senses": [
@@ -2053,6 +2744,89 @@
             "The firefighter was our savior when the kitchen caught fire.",
             "In the story, a brave girl became the savior of her village.",
             "The kind stranger was my savior when I lost my way."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "savor",
+    "say": "SAY-ver",
+    "forms": [
+      "savors",
+      "savored",
+      "savoring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To enjoy something slowly.",
+          "examples": [
+            "I savor the cake.",
+            "He savored the berries.",
+            "We savor each bite."
+          ]
+        },
+        "more": {
+          "def": "To enjoy something slowly and fully, especially food or a moment.",
+          "examples": [
+            "She savored every bite of the warm apple pie.",
+            "We savored the last day of summer vacation.",
+            "He sat down to savor the sweet orange."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sawdust",
+    "say": "SAW-dust",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Tiny bits of wood made when you saw.",
+          "examples": [
+            "Sawdust is on the floor.",
+            "Dad made sawdust.",
+            "The sawdust is soft."
+          ]
+        },
+        "more": {
+          "def": "Fine bits of wood that fall when wood is sawed.",
+          "examples": [
+            "Sawdust covered the floor of the workshop.",
+            "Dad swept up the sawdust.",
+            "The saw made a pile of sawdust."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sawmill",
+    "say": "SAW-mil",
+    "forms": [
+      "sawmills"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where logs are cut into boards.",
+          "examples": [
+            "The logs go to the sawmill.",
+            "The sawmill is loud.",
+            "Boards come from a sawmill."
+          ]
+        },
+        "more": {
+          "def": "A factory where logs are cut into boards with big saws.",
+          "examples": [
+            "Trucks carried the logs to the sawmill.",
+            "The sawmill cut the trees into boards.",
+            "The sawmill was loud and smelled of fresh wood."
           ]
         }
       }

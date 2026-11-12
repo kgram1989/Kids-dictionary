@@ -94,6 +94,31 @@
     ]
   },
   {
+    "word": "oncoming",
+    "say": "ON-kum-ing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Coming toward you.",
+          "examples": [
+            "The oncoming car.",
+            "An oncoming train.",
+            "The oncoming storm."
+          ]
+        },
+        "more": {
+          "def": "Coming closer, moving toward you.",
+          "examples": [
+            "The driver slowed for the oncoming car.",
+            "An oncoming train whistled.",
+            "We watched the oncoming storm clouds."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "one",
     "say": "wun",
     "senses": [
@@ -245,6 +270,34 @@
             "There is only one flavor of ice cream left.",
             "I only need a minute to finish this drawing.",
             "The shop is open only on weekdays."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "onset",
+    "say": "ON-set",
+    "forms": [
+      "onsets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The beginning of something.",
+          "examples": [
+            "The onset of winter.",
+            "The onset of rain.",
+            "The cold onset came."
+          ]
+        },
+        "more": {
+          "def": "The start of something, often something unpleasant.",
+          "examples": [
+            "The onset of winter brought snow.",
+            "We hurried home at the onset of the storm.",
+            "The onset of the cold made her sneeze."
           ]
         }
       }

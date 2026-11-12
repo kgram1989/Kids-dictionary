@@ -1,5 +1,35 @@
 [
   {
+    "word": "wrangle",
+    "say": "RANG-gul",
+    "forms": [
+      "wrangles",
+      "wrangled",
+      "wrangling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To argue, or to herd animals.",
+          "examples": [
+            "They wrangle over a toy.",
+            "The cowboy wrangled the horses.",
+            "We wrangled over who was first."
+          ]
+        },
+        "more": {
+          "def": "To argue noisily, or to round up horses or cattle.",
+          "examples": [
+            "The cowboys wrangled the horses into the corral.",
+            "The brothers wrangled over the last cookie.",
+            "She wrangled the little kids into a line."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wrap",
     "say": "rap",
     "forms": [
@@ -83,6 +113,64 @@
     ]
   },
   {
+    "word": "wreak",
+    "say": "reek",
+    "forms": [
+      "wreaks",
+      "wreaked",
+      "wreaking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cause a lot of damage.",
+          "examples": [
+            "A storm can wreak damage.",
+            "The flood wreaked trouble.",
+            "Wild weather can wreak harm."
+          ]
+        },
+        "more": {
+          "def": "To cause great harm or damage, or to make something happen.",
+          "examples": [
+            "The storm wreaked damage across the town.",
+            "The puppy wreaked havoc in the kitchen.",
+            "A flood can wreak harm on farms."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wreath",
+    "say": "reeth",
+    "forms": [
+      "wreaths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A ring of leaves or flowers.",
+          "examples": [
+            "We hung a wreath on the door.",
+            "The wreath is green.",
+            "A wreath of flowers sat on the table."
+          ]
+        },
+        "more": {
+          "def": "A ring made of leaves, flowers or branches, used for decoration.",
+          "examples": [
+            "A green wreath hung on the front door at winter.",
+            "She made a wreath from daisies.",
+            "The winner wore a wreath of leaves in the old story."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wreck",
     "say": "rek",
     "forms": [
@@ -151,6 +239,34 @@
             "Pieces of wreckage from the old ship washed up on the beach.",
             "Workers cleared the wreckage from the road after the storm.",
             "Divers explored the wreckage of the sunken boat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wrecker",
+    "say": "REK-er",
+    "forms": [
+      "wreckers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person or thing that destroys.",
+          "examples": [
+            "The wrecker towed the car.",
+            "A wrecker truck.",
+            "The wrecker cleared the road."
+          ]
+        },
+        "more": {
+          "def": "A person or truck that pulls away wrecked cars, or a person who damages things.",
+          "examples": [
+            "A wrecker towed the broken car away.",
+            "The storm was a wrecker of boats.",
+            "The wrecker truck arrived within minutes."
           ]
         }
       }
@@ -463,6 +579,34 @@
     ]
   },
   {
+    "word": "wristwatch",
+    "say": "RIST-woch",
+    "forms": [
+      "wristwatches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small clock that you wear on your arm.",
+          "examples": [
+            "Dad wears a wristwatch.",
+            "My wristwatch tells the time.",
+            "I got a wristwatch."
+          ]
+        },
+        "more": {
+          "def": "A small watch worn on the wrist.",
+          "examples": [
+            "Dad looked at his wristwatch to check the time.",
+            "She got a blue wristwatch for her birthday.",
+            "His wristwatch has a loud alarm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "write",
     "say": "ryt",
     "forms": [
@@ -585,6 +729,59 @@
             "It is wrong to copy someone else's work.",
             "He felt sorry because he knew he had done something wrong.",
             "Telling a lie to a friend is wrong."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wrongdoing",
+    "say": "RONG-doo-ing",
+    "forms": [
+      "wrongdoings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something bad that someone does.",
+          "examples": [
+            "He admitted his wrongdoing.",
+            "The wrongdoing was small.",
+            "She said sorry for her wrongdoing."
+          ]
+        },
+        "more": {
+          "def": "Bad behavior or something wrong that a person does.",
+          "examples": [
+            "He admitted his wrongdoing and said sorry.",
+            "The wrongdoing was small, but it hurt her.",
+            "She apologized for her wrongdoing."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wrongful",
+    "say": "RONG-ful",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not fair or not right.",
+          "examples": [
+            "It was a wrongful act.",
+            "The wrongful blame hurt.",
+            "That was a wrongful choice."
+          ]
+        },
+        "more": {
+          "def": "Not fair, right or legal.",
+          "examples": [
+            "It was wrongful to blame the new boy.",
+            "The team protested the wrongful call.",
+            "The wrongful rule was changed."
           ]
         }
       }

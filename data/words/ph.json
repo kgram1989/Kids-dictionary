@@ -141,6 +141,34 @@
     ]
   },
   {
+    "word": "pheasant",
+    "say": "FEZ-unt",
+    "forms": [
+      "pheasants"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big bird with a long tail and bright feathers.",
+          "examples": [
+            "A pheasant walked by.",
+            "The pheasant has a long tail.",
+            "I saw a pheasant in the grass."
+          ]
+        },
+        "more": {
+          "def": "A large bird with a long tail and bright feathers that lives on the ground.",
+          "examples": [
+            "A pheasant strutted across the field.",
+            "The male pheasant has bright feathers and a long tail.",
+            "Pheasants hide in tall grass."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "phenomenal",
     "say": "fih-NOM-uh-nul",
     "senses": [
@@ -276,6 +304,34 @@
     ]
   },
   {
+    "word": "phobia",
+    "say": "FOH-bee-uh",
+    "forms": [
+      "phobias"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very strong fear of one thing.",
+          "examples": [
+            "She has a phobia of spiders.",
+            "He has a phobia of heights.",
+            "A phobia can be hard."
+          ]
+        },
+        "more": {
+          "def": "A very strong, lasting fear of something that is not really dangerous.",
+          "examples": [
+            "Her phobia of spiders made her jump at every web.",
+            "He had a phobia of heights and would not climb the ladder.",
+            "A doctor can help a person with a phobia feel braver."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "phone",
     "say": "fohn",
     "forms": [
@@ -300,6 +356,34 @@
             "I called my grandmother on the phone.",
             "The phone rang, and my dad answered it.",
             "She used her phone to take a picture of the rainbow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "phonograph",
+    "say": "FOH-nuh-graf",
+    "forms": [
+      "phonographs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An old machine that plays records.",
+          "examples": [
+            "Grandma has a phonograph.",
+            "The phonograph plays music.",
+            "We played a record on the phonograph."
+          ]
+        },
+        "more": {
+          "def": "An old machine that plays music from round, flat discs called records.",
+          "examples": [
+            "Grandpa played an old record on his phonograph.",
+            "The phonograph had a big horn.",
+            "The needle of the phonograph touched the spinning record."
           ]
         }
       }
@@ -335,6 +419,31 @@
     ]
   },
   {
+    "word": "phooey",
+    "say": "FOO-ee",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A word you say when something is silly or goes wrong.",
+          "examples": [
+            "Phooey, I dropped it!",
+            "Phooey, I lost.",
+            "Phooey! It rained."
+          ]
+        },
+        "more": {
+          "def": "A word used to show that you are annoyed or do not believe something.",
+          "examples": [
+            "\"Phooey, I missed the bus!\" he said.",
+            "\"Phooey, that is a silly idea,\" she said.",
+            "\"Phooey! My balloon popped,\" said the little boy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "photo",
     "say": "FOH-toh",
     "emoji": "📷",
@@ -358,6 +467,55 @@
             "I took a photo of the sunset.",
             "Grandma has a photo of me on the wall.",
             "The photo shows our whole family."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "photocopy",
+    "say": "FOH-toh-kop-ee",
+    "forms": [
+      "photocopies",
+      "photocopied",
+      "photocopying"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A copy of a paper made on a machine.",
+          "examples": [
+            "I made a photocopy.",
+            "The photocopy is clear.",
+            "I need a photocopy."
+          ]
+        },
+        "more": {
+          "def": "A copy of a page or picture made with a copier.",
+          "examples": [
+            "I made a photocopy of my homework.",
+            "The photocopy was a little dark.",
+            "Please make a photocopy of the map."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a copy of a paper on a machine.",
+          "examples": [
+            "Photocopy the page.",
+            "I photocopied my drawing.",
+            "She will photocopy the letter."
+          ]
+        },
+        "more": {
+          "def": "To make a copy of a page using a copying machine.",
+          "examples": [
+            "Please photocopy this page for the class.",
+            "I photocopied my drawing to share.",
+            "She photocopied the old photo."
           ]
         }
       }

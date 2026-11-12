@@ -25,6 +25,34 @@
     ]
   },
   {
+    "word": "nucleus",
+    "say": "NOO-klee-us",
+    "forms": [
+      "nuclei"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The middle part of a cell.",
+          "examples": [
+            "The cell has a nucleus.",
+            "The nucleus is in the middle.",
+            "We drew a nucleus."
+          ]
+        },
+        "more": {
+          "def": "The central part of a cell or an atom, which controls what it does.",
+          "examples": [
+            "The nucleus is the control center of a cell.",
+            "The atom has a tiny nucleus at its center.",
+            "We drew a cell with a round nucleus."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nudge",
     "say": "nuj",
     "forms": [
@@ -292,6 +320,34 @@
     ]
   },
   {
+    "word": "nursemaid",
+    "say": "NERSS-mayd",
+    "forms": [
+      "nursemaids"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A woman who cares for children.",
+          "examples": [
+            "The nursemaid sang to the baby.",
+            "A nursemaid watched the kids.",
+            "The nursemaid was kind."
+          ]
+        },
+        "more": {
+          "def": "A woman hired to take care of young children, in old stories.",
+          "examples": [
+            "In the story, the nursemaid sang to the baby.",
+            "A nursemaid watched the children play.",
+            "The queen hired a nursemaid for the prince."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nursery",
     "say": "NER-suh-ree",
     "forms": [
@@ -364,6 +420,36 @@
     ]
   },
   {
+    "word": "nurture",
+    "say": "NER-cher",
+    "forms": [
+      "nurtures",
+      "nurtured",
+      "nurturing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To help something grow and be healthy.",
+          "examples": [
+            "Plants need water to nurture them.",
+            "She nurtures the baby bird.",
+            "We nurtured the seed."
+          ]
+        },
+        "more": {
+          "def": "To care for and help someone or something grow and be strong.",
+          "examples": [
+            "A gardener nurtures seedlings with water and sunlight.",
+            "Parents nurture their children with love and care.",
+            "The teacher tried to nurture each child's talents."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nut",
     "say": "nut",
     "forms": [
@@ -411,6 +497,62 @@
     ]
   },
   {
+    "word": "nutcracker",
+    "say": "NUT-krak-er",
+    "forms": [
+      "nutcrackers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool for cracking nuts.",
+          "examples": [
+            "Dad used a nutcracker.",
+            "The nutcracker cracks nuts.",
+            "A nutcracker is a tool."
+          ]
+        },
+        "more": {
+          "def": "A tool used to crack the hard shells of nuts.",
+          "examples": [
+            "Dad used a nutcracker to open the walnuts.",
+            "The nutcracker is carved like a soldier.",
+            "We watched the ballet The Nutcracker."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "nutmeg",
+    "say": "NUT-meg",
+    "forms": [
+      "nutmegs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A spice used in baking.",
+          "examples": [
+            "Mom added nutmeg.",
+            "Nutmeg smells good.",
+            "The cookies have nutmeg."
+          ]
+        },
+        "more": {
+          "def": "A brown spice made from the seed of a tropical tree, used in baking.",
+          "examples": [
+            "Mom sprinkled nutmeg on the eggnog.",
+            "Nutmeg gives the pie a warm flavor.",
+            "The pumpkin cake had cinnamon and nutmeg."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nutrient",
     "say": "NOO-tree-unt",
     "forms": [
@@ -433,6 +575,84 @@
             "Plants take in nutrients from the soil through their roots.",
             "Vegetables are full of important nutrients.",
             "Fertilizer adds nutrients to the soil."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "nutrition",
+    "say": "noo-TRISH-un",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The food that keeps your body healthy.",
+          "examples": [
+            "Good nutrition helps you grow.",
+            "Fruit is good nutrition.",
+            "We learned about nutrition."
+          ]
+        },
+        "more": {
+          "def": "The food a body needs to grow and stay healthy, or the study of that food.",
+          "examples": [
+            "Good nutrition helps children grow strong.",
+            "We learned about nutrition in health class.",
+            "Fruits and vegetables give your body good nutrition."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "nutritious",
+    "say": "noo-TRISH-us",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Good for your body.",
+          "examples": [
+            "Fruit is nutritious.",
+            "A nutritious lunch.",
+            "Milk is nutritious."
+          ]
+        },
+        "more": {
+          "def": "Full of what the body needs to grow and be healthy.",
+          "examples": [
+            "Fruit and vegetables are nutritious.",
+            "She packed a nutritious lunch with fruit and nuts.",
+            "Milk is a nutritious drink for children."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "nutshell",
+    "say": "NUT-shel",
+    "forms": [
+      "nutshells"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The hard outside of a nut.",
+          "examples": [
+            "A mouse hid in a nutshell.",
+            "The nutshell is hard.",
+            "I cracked a nutshell."
+          ]
+        },
+        "more": {
+          "def": "The hard outer covering of a nut.",
+          "examples": [
+            "A tiny doll's bed was made from a nutshell.",
+            "A tiny boat was made from a half nutshell.",
+            "In a nutshell means in a few words."
           ]
         }
       }

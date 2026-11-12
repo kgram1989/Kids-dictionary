@@ -1,5 +1,119 @@
 [
   {
+    "word": "hoard",
+    "say": "hord",
+    "forms": [
+      "hoards",
+      "hoarded",
+      "hoarding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hidden pile of things saved up.",
+          "examples": [
+            "The squirrel has a hoard of nuts.",
+            "A dragon had a hoard of gold.",
+            "He kept a hoard of candy."
+          ]
+        },
+        "more": {
+          "def": "A large amount of things that are saved or hidden away.",
+          "examples": [
+            "The squirrel stored a hoard of acorns for winter.",
+            "In the story, the dragon guarded a hoard of gold.",
+            "Kids found an old hoard of coins buried in the yard."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To save and keep a lot of something.",
+          "examples": [
+            "Squirrels hoard nuts.",
+            "He hoarded candy.",
+            "Do not hoard all the toys."
+          ]
+        },
+        "more": {
+          "def": "To collect and keep a large supply of something, often hidden.",
+          "examples": [
+            "Squirrels hoard nuts for the winter.",
+            "The boy hoarded all the stickers and would not share.",
+            "The dragon hoarded gold in his cave."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hoarse",
+    "say": "hors",
+    "forms": [
+      "hoarser",
+      "hoarsest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Rough and low in the voice.",
+          "examples": [
+            "My voice is hoarse.",
+            "The hoarse singer coughed.",
+            "He had a hoarse cough."
+          ]
+        },
+        "more": {
+          "def": "Having a rough, low voice, often from a sore throat.",
+          "examples": [
+            "My voice was hoarse after cheering.",
+            "The coach was hoarse after yelling all game.",
+            "He had a hoarse voice from his cold."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "hoarseness",
+        "def": "Having a hoarse voice."
+      }
+    ]
+  },
+  {
+    "word": "hobble",
+    "say": "HOB-ul",
+    "forms": [
+      "hobbles",
+      "hobbled",
+      "hobbling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To walk with difficulty and a limp.",
+          "examples": [
+            "He will hobble.",
+            "The old dog hobbled.",
+            "I hobbled on my sore foot."
+          ]
+        },
+        "more": {
+          "def": "To walk in a slow, uneven way because of pain.",
+          "examples": [
+            "He hobbled on his sore foot.",
+            "The old dog hobbled to the door.",
+            "She hobbled across the room with a cane."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hobby",
     "say": "HOB-ee",
     "forms": [
@@ -114,6 +228,31 @@
     ]
   },
   {
+    "word": "hogwash",
+    "say": "HOG-wosh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Nonsense.",
+          "examples": [
+            "That is hogwash.",
+            "The story was hogwash.",
+            "Hogwash! It isn't true."
+          ]
+        },
+        "more": {
+          "def": "Silly or untrue talk.",
+          "examples": [
+            "That story about the moon being cheese is hogwash.",
+            "The claim was nothing but hogwash.",
+            "He said the rumor was hogwash."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hoist",
     "say": "hoyst",
     "forms": [
@@ -138,6 +277,35 @@
             "They hoisted the flag up the pole.",
             "He hoisted the sack onto his shoulder.",
             "The crane hoisted the steel beam."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hokey",
+    "say": "HOH-kee",
+    "forms": [
+      "hokier",
+      "hokiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Silly and not natural.",
+          "examples": [
+            "The show was hokey.",
+            "A hokey joke.",
+            "The movie was hokey."
+          ]
+        },
+        "more": {
+          "def": "Corny, fake or silly in an obvious way.",
+          "examples": [
+            "The movie was hokey, with a talking sock.",
+            "A hokey joke made us groan.",
+            "The hokey costumes looked homemade."
           ]
         }
       }
@@ -422,6 +590,34 @@
     ]
   },
   {
+    "word": "hologram",
+    "say": "HOL-uh-gram",
+    "forms": [
+      "holograms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture that looks like it is floating in the air.",
+          "examples": [
+            "I saw a hologram.",
+            "The hologram floated.",
+            "The card has a hologram."
+          ]
+        },
+        "more": {
+          "def": "A picture made with light that looks as if it is floating in the air in three dimensions.",
+          "examples": [
+            "The museum had a hologram of a dinosaur.",
+            "A hologram on the card shows it is real.",
+            "The hologram of the planet seemed to float."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "holster",
     "say": "HOHL-ster",
     "forms": [
@@ -509,6 +705,34 @@
       {
         "word": "homey",
         "def": "Cozy, like a home."
+      }
+    ]
+  },
+  {
+    "word": "homecoming",
+    "say": "HOHM-kum-ing",
+    "forms": [
+      "homecomings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Coming back home after being away.",
+          "examples": [
+            "Dad's homecoming made us glad.",
+            "We had a party for her homecoming.",
+            "The dog loved Dad's homecoming."
+          ]
+        },
+        "more": {
+          "def": "A return to one's home after being away, or a yearly school event for visitors who used to go there.",
+          "examples": [
+            "Our whole family cheered for Dad's homecoming.",
+            "The dog wagged its tail at the sailor's homecoming.",
+            "The school's homecoming game is held every fall."
+          ]
+        }
       }
     ]
   },
@@ -619,6 +843,34 @@
     ]
   },
   {
+    "word": "homeroom",
+    "say": "HOHM-room",
+    "forms": [
+      "homerooms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The classroom where your class meets each morning.",
+          "examples": [
+            "We start in homeroom.",
+            "The homeroom teacher says hello.",
+            "Homeroom is on the first floor."
+          ]
+        },
+        "more": {
+          "def": "The classroom where a class of students meets at the start of the school day.",
+          "examples": [
+            "Students check in at homeroom before the first class.",
+            "Our homeroom teacher takes attendance every morning.",
+            "The bell for homeroom rang at eight."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "homesick",
     "say": "HOHM-sik",
     "related": [
@@ -672,6 +924,31 @@
             "My hometown is a small town with one school.",
             "He missed his hometown and his friends back home.",
             "She visits her hometown every summer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "homeward",
+    "say": "HOHM-werd",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Toward home.",
+          "examples": [
+            "We went homeward.",
+            "The bus is heading homeward.",
+            "The birds flew homeward."
+          ]
+        },
+        "more": {
+          "def": "Toward home.",
+          "examples": [
+            "We turned homeward as the sun set.",
+            "The geese flew homeward in a V.",
+            "The tired hikers walked homeward."
           ]
         }
       }
@@ -798,6 +1075,34 @@
             "Bees make honey from the nectar of flowers.",
             "I stirred a spoonful of honey into my tea.",
             "The honey dripped from the comb onto the biscuit."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "honeycomb",
+    "say": "HUN-ee-kohm",
+    "forms": [
+      "honeycombs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The wax cells where bees store honey.",
+          "examples": [
+            "A bee made a honeycomb.",
+            "The honeycomb has holes.",
+            "The honeycomb is full of honey."
+          ]
+        },
+        "more": {
+          "def": "A group of six-sided wax cells that bees build to store honey.",
+          "examples": [
+            "The bees stored honey in the honeycomb.",
+            "The honeycomb is made of six-sided cells.",
+            "We saw a honeycomb in the glass hive."
           ]
         }
       }
@@ -1340,6 +1645,31 @@
     ]
   },
   {
+    "word": "hopscotch",
+    "say": "HOP-skotch",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A game where you hop on squares made on the ground.",
+          "examples": [
+            "We played hopscotch at recess.",
+            "She drew a hopscotch with chalk.",
+            "I hop on one foot in hopscotch."
+          ]
+        },
+        "more": {
+          "def": "A children's game in which players toss a marker and hop through numbered squares drawn on the ground.",
+          "examples": [
+            "We drew a hopscotch on the sidewalk with chalk.",
+            "In hopscotch, you must not step on the lines.",
+            "The girls played hopscotch until the bell rang."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "horde",
     "say": "hord",
     "forms": [
@@ -1470,6 +1800,31 @@
     ]
   },
   {
+    "word": "horned",
+    "say": "hornd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having horns.",
+          "examples": [
+            "The horned owl.",
+            "A horned toad.",
+            "The horned goat."
+          ]
+        },
+        "more": {
+          "def": "Having horns or a horn-like part.",
+          "examples": [
+            "The horned owl has tufts on its head.",
+            "A horned toad lives in the desert.",
+            "The horned goat butted the gate."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hornet",
     "say": "HOR-nit",
     "emoji": "🐝",
@@ -1493,6 +1848,59 @@
             "A hornet built a big paper nest under the eaves of the barn.",
             "Hornets can sting more than once, so stay away from their nests.",
             "The hornet buzzed angrily around the garbage can."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "horoscope",
+    "say": "HOR-uh-skohp",
+    "forms": [
+      "horoscopes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A guess about your day, based on the stars.",
+          "examples": [
+            "She read her horoscope in the paper.",
+            "My horoscope said I would have fun.",
+            "The horoscope is in the news."
+          ]
+        },
+        "more": {
+          "def": "A short writing that claims to tell what will happen to you, based on the day you were born and the position of the stars.",
+          "examples": [
+            "Some people read a horoscope each morning for fun.",
+            "The newspaper prints a horoscope for each birthday month.",
+            "Scientists say a horoscope cannot really tell the future."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "horrendous",
+    "say": "huh-REN-dus",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Terrible.",
+          "examples": [
+            "The storm was horrendous.",
+            "The traffic was horrendous.",
+            "A horrendous smell."
+          ]
+        },
+        "more": {
+          "def": "Very bad or shocking.",
+          "examples": [
+            "The traffic was horrendous this morning.",
+            "The storm made a horrendous noise.",
+            "The smell from the old trash was horrendous."
           ]
         }
       }
@@ -1568,6 +1976,31 @@
             "The soup had a horrid taste, so I could not finish it.",
             "We had horrid weather on our trip, with cold rain every day.",
             "A horrid smell came from the garbage can."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "horrific",
+    "say": "huh-RIF-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very scary or very bad.",
+          "examples": [
+            "The storm was horrific.",
+            "The noise was horrific.",
+            "It was a horrific smell."
+          ]
+        },
+        "more": {
+          "def": "Terrible and very frightening.",
+          "examples": [
+            "The storm was so loud that it was horrific.",
+            "The room had a horrific smell.",
+            "The toy monster in the film looked horrific."
           ]
         }
       }
@@ -1714,6 +2147,56 @@
     ]
   },
   {
+    "word": "horsepower",
+    "say": "HORSS-pow-er",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way to measure how strong an engine is.",
+          "examples": [
+            "The engine has more horsepower.",
+            "The truck has lots of horsepower.",
+            "Horsepower tells engine strength."
+          ]
+        },
+        "more": {
+          "def": "A unit used to measure the power of an engine.",
+          "examples": [
+            "The truck's engine has lots of horsepower.",
+            "A lawn mower has less horsepower than a car.",
+            "The boat's motor had a hundred horsepower."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "horseradish",
+    "say": "HORS-rad-ish",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sharp white sauce root.",
+          "examples": [
+            "Dad likes horseradish.",
+            "The horseradish is hot.",
+            "Put horseradish on it."
+          ]
+        },
+        "more": {
+          "def": "A plant with a strong, hot taste, whose root is grated and used as a spicy sauce.",
+          "examples": [
+            "Dad put horseradish on his sandwich.",
+            "The horseradish had a sharp, hot taste.",
+            "Grated horseradish made my eyes water."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "horseshoe",
     "say": "HORSS-shoo",
     "forms": [
@@ -1736,6 +2219,35 @@
             "The blacksmith nailed a new horseshoe onto the horse's hoof.",
             "We hung a lucky horseshoe over the barn door.",
             "A horseshoe is shaped like the letter U."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "horsey",
+    "say": "HOR-see",
+    "forms": [
+      "horsier",
+      "horsiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Like a horse, or loving horses.",
+          "examples": [
+            "The horsey girl rode.",
+            "A horsey smell.",
+            "She is horsey."
+          ]
+        },
+        "more": {
+          "def": "Having to do with horses, or looking like a horse.",
+          "examples": [
+            "The horsey girl spent every weekend at the stable.",
+            "The barn had a horsey smell.",
+            "He gave a horsey laugh."
           ]
         }
       }
@@ -1818,6 +2330,36 @@
             "We thanked our hosts for their warm hospitality.",
             "The family showed great hospitality and gave us dinner and a bed.",
             "Hotels are part of the hospitality business."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hospitalize",
+    "say": "HOS-pih-tul-yze",
+    "forms": [
+      "hospitalizes",
+      "hospitalized",
+      "hospitalizing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put someone in a hospital.",
+          "examples": [
+            "The doctor had to hospitalize him.",
+            "She was hospitalized for a day.",
+            "Grandpa was hospitalized for a night."
+          ]
+        },
+        "more": {
+          "def": "To send someone to a hospital to be treated and cared for.",
+          "examples": [
+            "The doctor decided to hospitalize the boy for a few days.",
+            "Her grandfather was hospitalized after he fell.",
+            "A bad cold hospitalized the sick child overnight."
           ]
         }
       }
@@ -1975,6 +2517,62 @@
     ]
   },
   {
+    "word": "hotcake",
+    "say": "HOT-kayk",
+    "forms": [
+      "hotcakes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pancake.",
+          "examples": [
+            "I ate a hotcake.",
+            "The hotcake is round.",
+            "Hotcakes have syrup."
+          ]
+        },
+        "more": {
+          "def": "A flat round cake cooked on a griddle, also called a pancake.",
+          "examples": [
+            "I ate hotcakes with syrup.",
+            "The hotcake was golden.",
+            "Dad flipped the hotcakes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hotdog",
+    "say": "HOT-dawg",
+    "forms": [
+      "hotdogs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sausage in a long bun.",
+          "examples": [
+            "I ate a hotdog.",
+            "The hotdog has mustard.",
+            "We grilled a hotdog."
+          ]
+        },
+        "more": {
+          "def": "A cooked sausage served in a long, soft roll.",
+          "examples": [
+            "I ate a hotdog with mustard at the game.",
+            "Dad grilled hotdogs for dinner.",
+            "The hotdog was served in a soft bun."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hotel",
     "say": "hoh-TEL",
     "emoji": "🏨",
@@ -2116,6 +2714,78 @@
     ]
   },
   {
+    "word": "hourglass",
+    "say": "OW-er-glas",
+    "forms": [
+      "hourglasses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A glass with sand that runs through to show time.",
+          "examples": [
+            "The hourglass has sand.",
+            "Sand flows in the hourglass.",
+            "I turned the hourglass."
+          ]
+        },
+        "more": {
+          "def": "A glass container with two bulbs, where sand runs from the top one to the bottom to measure time.",
+          "examples": [
+            "We watched the sand fall in the hourglass.",
+            "The hourglass measures one minute.",
+            "She turned the hourglass over to start the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hourly",
+    "say": "OW-er-lee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Every hour.",
+          "examples": [
+            "The bus runs hourly.",
+            "An hourly check.",
+            "The clock gives an hourly ring."
+          ]
+        },
+        "more": {
+          "def": "Happening once every hour.",
+          "examples": [
+            "The bus runs on an hourly schedule.",
+            "The clock gives an hourly chime.",
+            "An hourly weather report is on the radio."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Every hour.",
+          "examples": [
+            "The bell rings hourly.",
+            "The train leaves hourly.",
+            "We check hourly."
+          ]
+        },
+        "more": {
+          "def": "Once every hour.",
+          "examples": [
+            "The clock chimes hourly.",
+            "Trains leave the station hourly.",
+            "The nurse checks on the patient hourly."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "house",
     "say": "howss",
     "forms": [
@@ -2138,6 +2808,87 @@
             "Our house has a front porch and a small garden.",
             "The old house at the end of the street has been empty for years.",
             "The builders worked all summer to finish the house."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "houseboat",
+    "say": "HOWSS-boht",
+    "forms": [
+      "houseboats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A boat you can live in.",
+          "examples": [
+            "We stayed on a houseboat.",
+            "A houseboat floats.",
+            "The houseboat has a kitchen."
+          ]
+        },
+        "more": {
+          "def": "A boat with a cabin that is built for people to live in.",
+          "examples": [
+            "We stayed on a houseboat on the lake.",
+            "The houseboat had a kitchen and two beds.",
+            "A houseboat floated by the dock."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "housebroken",
+    "say": "HOWSS-broh-kun",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Trained to go outside to use the bathroom.",
+          "examples": [
+            "The puppy is housebroken.",
+            "A housebroken dog is clean.",
+            "Our cat is housebroken."
+          ]
+        },
+        "more": {
+          "def": "Trained to go outside or in the right place to use the bathroom.",
+          "examples": [
+            "Our puppy is housebroken now.",
+            "A housebroken dog waits to go outside.",
+            "The housebroken cat uses its box."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "houseguest",
+    "say": "HOWSS-gest",
+    "forms": [
+      "houseguests"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who stays at your home.",
+          "examples": [
+            "We have a houseguest.",
+            "The houseguest stayed a week.",
+            "A houseguest slept in the spare room."
+          ]
+        },
+        "more": {
+          "def": "A person who stays in someone else's home for a visit.",
+          "examples": [
+            "We had a houseguest for a week.",
+            "The houseguest brought flowers for the host.",
+            "Our houseguest helped wash the dishes."
           ]
         }
       }
@@ -2225,6 +2976,31 @@
     ]
   },
   {
+    "word": "housework",
+    "say": "HOWSS-werk",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Jobs like cleaning that are done at home.",
+          "examples": [
+            "Mom did the housework.",
+            "I help with housework.",
+            "Housework can be boring."
+          ]
+        },
+        "more": {
+          "def": "The cleaning and other jobs that are done to keep a house tidy.",
+          "examples": [
+            "We split up the housework on Saturday.",
+            "Sweeping and dusting are part of the housework.",
+            "She finished the housework before the guests came."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "housing",
     "say": "HOW-zing",
     "senses": [
@@ -2293,6 +3069,34 @@
             "A bee hovered over the flower.",
             "The helicopter hovered above the field.",
             "The hummingbird hovered near the feeder."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hovercraft",
+    "say": "HUV-er-kraft",
+    "forms": [
+      "hovercrafts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A vehicle that floats above water on a cushion of air.",
+          "examples": [
+            "The hovercraft floats.",
+            "A hovercraft flew over the water.",
+            "We rode a hovercraft."
+          ]
+        },
+        "more": {
+          "def": "A vehicle that rides over land or water on a cushion of air made by fans.",
+          "examples": [
+            "The hovercraft skimmed across the water.",
+            "A hovercraft can travel over sand or ice.",
+            "We took a hovercraft across the bay."
           ]
         }
       }

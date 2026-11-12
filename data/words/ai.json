@@ -77,6 +77,89 @@
     ]
   },
   {
+    "word": "ail",
+    "say": "ayl",
+    "forms": [
+      "ails",
+      "ailed",
+      "ailing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be sick or to make someone sick.",
+          "examples": [
+            "What ails you?",
+            "The old dog ails.",
+            "A cold ails her."
+          ]
+        },
+        "more": {
+          "def": "To make someone feel ill, or to be sick and weak.",
+          "examples": [
+            "What ails the old dog today?",
+            "A cold ailed her all week.",
+            "The ailing king stayed in bed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ailing",
+    "say": "AYL-ing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sick or weak.",
+          "examples": [
+            "The ailing dog rested.",
+            "An ailing plant.",
+            "The ailing king stayed in bed."
+          ]
+        },
+        "more": {
+          "def": "Sick or weak, or in poor condition.",
+          "examples": [
+            "The ailing dog rested by the fire.",
+            "An ailing plant drooped in the pot.",
+            "The ailing shop was losing customers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ailment",
+    "say": "AYL-munt",
+    "forms": [
+      "ailments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small sickness.",
+          "examples": [
+            "A cold is an ailment.",
+            "He had an ailment.",
+            "A small ailment kept her home."
+          ]
+        },
+        "more": {
+          "def": "A small illness or health problem.",
+          "examples": [
+            "A cold is a common ailment.",
+            "A minor ailment kept him home from school.",
+            "The doctor treated her ailment with rest."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "aim",
     "say": "aym",
     "emoji": "🎯",
@@ -271,6 +354,34 @@
     ]
   },
   {
+    "word": "airliner",
+    "say": "AIR-ly-ner",
+    "forms": [
+      "airliners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big plane that carries many people.",
+          "examples": [
+            "An airliner flew over.",
+            "The airliner is big.",
+            "We rode in an airliner."
+          ]
+        },
+        "more": {
+          "def": "A large passenger airplane.",
+          "examples": [
+            "A big airliner flew over our town.",
+            "We boarded the airliner at noon.",
+            "The airliner landed safely."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "airlock",
     "say": "AIR-lok",
     "forms": [
@@ -350,6 +461,112 @@
             "We waited at the airport for our plane.",
             "The airport is busy during the holidays.",
             "Planes line up at the airport to take off."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "airship",
+    "say": "AIR-ship",
+    "forms": [
+      "airships"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big balloon-like aircraft that can be steered.",
+          "examples": [
+            "An airship floated.",
+            "The airship is huge.",
+            "We saw an airship."
+          ]
+        },
+        "more": {
+          "def": "A large, gas-filled aircraft with engines that can be steered through the air.",
+          "examples": [
+            "An airship floated over the city.",
+            "The airship carried passengers long ago.",
+            "A blimp is a kind of airship."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "airspeed",
+    "say": "AIR-speed",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How fast a plane is flying.",
+          "examples": [
+            "The plane's airspeed is high.",
+            "Check the airspeed.",
+            "The airspeed is slow."
+          ]
+        },
+        "more": {
+          "def": "The speed of an aircraft through the air.",
+          "examples": [
+            "The pilot checked the plane's airspeed.",
+            "A strong tailwind raised the airspeed.",
+            "The airspeed dropped as the plane climbed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "airstrip",
+    "say": "AIR-strip",
+    "forms": [
+      "airstrips"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, flat strip of land for planes to land on.",
+          "examples": [
+            "The plane landed on the airstrip.",
+            "The airstrip is short.",
+            "We saw an airstrip."
+          ]
+        },
+        "more": {
+          "def": "A short, simple runway where small planes take off and land.",
+          "examples": [
+            "The small plane landed on a grassy airstrip.",
+            "A dirt airstrip was cut into the jungle.",
+            "The pilot saw the airstrip through the clouds."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "airtight",
+    "say": "AIR-tyte",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Closed so that no air can get in or out.",
+          "examples": [
+            "Keep the food in an airtight box.",
+            "The jar is airtight.",
+            "The lid is airtight."
+          ]
+        },
+        "more": {
+          "def": "Closed so tightly that no air can get in or out.",
+          "examples": [
+            "Keep the cookies in an airtight jar so they stay fresh.",
+            "The airtight lid kept the soup from spilling.",
+            "Astronauts live in an airtight spaceship."
           ]
         }
       }

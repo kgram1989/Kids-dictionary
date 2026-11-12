@@ -1,5 +1,83 @@
 [
   {
+    "word": "wobble",
+    "say": "WOB-ul",
+    "forms": [
+      "wobbles",
+      "wobbled",
+      "wobbling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shake from side to side.",
+          "examples": [
+            "The table will wobble.",
+            "My tooth wobbles.",
+            "The bike wobbled."
+          ]
+        },
+        "more": {
+          "def": "To move unsteadily from side to side.",
+          "examples": [
+            "The table wobbles when I lean on it.",
+            "The bike wobbled when I first learned to ride.",
+            "The baby wobbled across the floor."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shaky movement.",
+          "examples": [
+            "The wheel has a wobble.",
+            "There was a wobble.",
+            "I felt a wobble."
+          ]
+        },
+        "more": {
+          "def": "An unsteady movement from side to side.",
+          "examples": [
+            "The wheel had a wobble that shook the bike.",
+            "I felt a wobble in my loose tooth.",
+            "A wobble in his voice showed he was nervous."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wobbly",
+    "say": "WOB-lee",
+    "forms": [
+      "wobblier",
+      "wobbliest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Shaky.",
+          "examples": [
+            "The table is wobbly.",
+            "A wobbly tooth.",
+            "My legs feel wobbly."
+          ]
+        },
+        "more": {
+          "def": "Shaking from side to side in an unsteady way.",
+          "examples": [
+            "The wobbly table needed a folded paper under one leg.",
+            "I have a wobbly tooth that will fall out soon.",
+            "My legs felt wobbly after the long run."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "woe",
     "say": "woh",
     "forms": [
@@ -51,6 +129,34 @@
             "A wolf lifted its head and howled at the moon.",
             "Wolves live in groups called packs.",
             "The gray wolf walked quietly through the snowy woods."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wolverine",
+    "say": "WUUL-ver-een",
+    "forms": [
+      "wolverines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong, furry animal of cold places.",
+          "examples": [
+            "A wolverine lives in the cold.",
+            "The wolverine is strong.",
+            "We saw a wolverine."
+          ]
+        },
+        "more": {
+          "def": "A strong, fierce animal of cold northern forests with thick brown fur.",
+          "examples": [
+            "A wolverine roams the cold forests.",
+            "The wolverine is small but very strong.",
+            "Wolverines have thick fur to keep warm."
           ]
         }
       }
@@ -249,6 +355,34 @@
     ]
   },
   {
+    "word": "woodcutter",
+    "say": "WUUD-kut-er",
+    "forms": [
+      "woodcutters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person whose job is to cut down trees.",
+          "examples": [
+            "The woodcutter had a big axe.",
+            "A woodcutter lived in the woods.",
+            "The woodcutter chopped logs."
+          ]
+        },
+        "more": {
+          "def": "A person who cuts down trees or chops wood for a living.",
+          "examples": [
+            "In the fairy tale, a kind woodcutter helped the lost children.",
+            "The woodcutter stacked logs beside his cabin.",
+            "A woodcutter sharpened his axe before work."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wooden",
     "say": "WUUD-en",
     "senses": [
@@ -274,6 +408,63 @@
     ]
   },
   {
+    "word": "woodland",
+    "say": "WUUD-lund",
+    "forms": [
+      "woodlands"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Land covered with trees.",
+          "examples": [
+            "We walked in the woodland.",
+            "Deer live in the woodland.",
+            "The woodland is quiet."
+          ]
+        },
+        "more": {
+          "def": "Land that is covered with trees.",
+          "examples": [
+            "Deer live in the quiet woodland.",
+            "We hiked through the woodland to the lake.",
+            "Woodlands are home to owls and foxes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "woodpecker",
+    "say": "WUUD-pek-er",
+    "emoji": "🐦",
+    "forms": [
+      "woodpeckers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bird that pecks holes in trees.",
+          "examples": [
+            "A woodpecker tapped the tree.",
+            "The woodpecker has a sharp beak.",
+            "I heard a woodpecker."
+          ]
+        },
+        "more": {
+          "def": "A bird with a strong, sharp beak that pecks holes in trees to find insects.",
+          "examples": [
+            "A woodpecker tapped on the tree trunk all morning.",
+            "The woodpecker drilled a hole to find insects.",
+            "Woodpeckers make their nests in holes in trees."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "woods",
     "say": "wuudz",
     "senses": [
@@ -293,6 +484,87 @@
             "We walked through the woods behind the school.",
             "Deer live in the quiet woods.",
             "A cabin stood deep in the woods."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "woodshed",
+    "say": "WUUD-shed",
+    "forms": [
+      "woodsheds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small building where wood is stored.",
+          "examples": [
+            "The wood is in the woodshed.",
+            "The woodshed is small.",
+            "We went to the woodshed."
+          ]
+        },
+        "more": {
+          "def": "A small building where firewood is kept.",
+          "examples": [
+            "Dad stacked firewood in the woodshed.",
+            "The woodshed was behind the house.",
+            "We fetched logs from the woodshed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "woodsman",
+    "say": "WUUDZ-mun",
+    "forms": [
+      "woodsmen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man who lives or works in the woods.",
+          "examples": [
+            "The woodsman knew the forest.",
+            "A woodsman cut a tree.",
+            "The woodsman lived in a cabin."
+          ]
+        },
+        "more": {
+          "def": "A man who lives or works in the woods and knows the forest well.",
+          "examples": [
+            "The woodsman knew every trail in the forest.",
+            "A woodsman cut firewood by the cabin.",
+            "The old woodsman found the lost child."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "woodwork",
+    "say": "WUUD-werk",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things made of wood, like doors and frames.",
+          "examples": [
+            "The woodwork is painted white.",
+            "I like the woodwork in this house.",
+            "The woodwork is old."
+          ]
+        },
+        "more": {
+          "def": "Parts of a building made of wood, such as doors and trim, or the craft of making things from wood.",
+          "examples": [
+            "The woodwork in the old house was carved by hand.",
+            "Dad painted the woodwork around the windows.",
+            "I learned woodwork at school and built a birdhouse."
           ]
         }
       }
@@ -355,6 +627,31 @@
     ]
   },
   {
+    "word": "woolen",
+    "say": "WUUL-un",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Made of wool.",
+          "examples": [
+            "A woolen coat.",
+            "The woolen hat is warm.",
+            "A woolen sock."
+          ]
+        },
+        "more": {
+          "def": "Made of wool.",
+          "examples": [
+            "She wore a woolen scarf in the snow.",
+            "The woolen blanket kept us warm.",
+            "He knitted woolen socks for winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "woolly",
     "say": "WUUL-ee",
     "forms": [
@@ -378,6 +675,35 @@
             "The woolly sheep grazed on the hill.",
             "The woolly mammoth lived long ago.",
             "She wore a warm, woolly hat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "woozy",
+    "say": "WOO-zee",
+    "forms": [
+      "woozier",
+      "wooziest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Dizzy and a little sick.",
+          "examples": [
+            "I felt woozy.",
+            "The woozy boy sat.",
+            "She was woozy after spinning."
+          ]
+        },
+        "more": {
+          "def": "Feeling dizzy or weak and a little sick.",
+          "examples": [
+            "I felt woozy after spinning in circles.",
+            "The woozy boy sat down until it passed.",
+            "She was woozy after the long, hot ride."
           ]
         }
       }
@@ -492,6 +818,34 @@
     ]
   },
   {
+    "word": "workaholic",
+    "say": "werk-uh-HOL-ik",
+    "forms": [
+      "workaholics"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who works too much.",
+          "examples": [
+            "Dad is a workaholic.",
+            "A workaholic never rests.",
+            "The workaholic worked late."
+          ]
+        },
+        "more": {
+          "def": "A person who works too much and finds it hard to rest.",
+          "examples": [
+            "Dad is such a workaholic that he works on weekends.",
+            "A workaholic may forget to play.",
+            "The workaholic did not take a vacation."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "workbench",
     "say": "WERK-bench",
     "forms": [
@@ -548,6 +902,59 @@
     ]
   },
   {
+    "word": "workings",
+    "say": "WER-kingz",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How something works inside.",
+          "examples": [
+            "I saw the workings of the clock.",
+            "The workings are small.",
+            "We looked at the workings."
+          ]
+        },
+        "more": {
+          "def": "The parts of something and how they work together.",
+          "examples": [
+            "We looked at the inner workings of the clock.",
+            "The teacher explained the workings of a pump.",
+            "He studied the workings of the machine."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "workload",
+    "say": "WERK-lohd",
+    "forms": [
+      "workloads"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The amount of work you have to do.",
+          "examples": [
+            "I have a big workload.",
+            "The workload is heavy.",
+            "Her workload is light."
+          ]
+        },
+        "more": {
+          "def": "The amount of work that a person or machine has to do.",
+          "examples": [
+            "The teacher has a big workload this week.",
+            "A heavy workload kept her busy all night.",
+            "Sharing the chores lightens everyone's workload."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "workman",
     "say": "WERK-mun",
     "forms": [
@@ -570,6 +977,31 @@
             "The workman climbed the ladder to fix the roof.",
             "A skilled workman built the stone wall.",
             "The workmen wore hard hats."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "workmanship",
+    "say": "WERK-mun-ship",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The skill shown in making something.",
+          "examples": [
+            "The workmanship is fine.",
+            "I admire the workmanship.",
+            "The table shows good workmanship."
+          ]
+        },
+        "more": {
+          "def": "The skill and care shown in making something.",
+          "examples": [
+            "The workmanship on the table is excellent.",
+            "I admired the fine workmanship of the chair.",
+            "The craftsman's workmanship was carefully done."
           ]
         }
       }
@@ -792,6 +1224,34 @@
     ]
   },
   {
+    "word": "wormhole",
+    "say": "WERM-hohl",
+    "forms": [
+      "wormholes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small hole that a worm makes.",
+          "examples": [
+            "I saw a wormhole in the apple.",
+            "A wormhole was in the wood.",
+            "The wormhole was tiny."
+          ]
+        },
+        "more": {
+          "def": "A tunnel made by a worm or insect, or in stories, a shortcut through space.",
+          "examples": [
+            "We found a wormhole in the old apple.",
+            "In the science fiction movie, the ship flew through a wormhole to another galaxy.",
+            "The old wood had a tiny wormhole in it."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "worried",
     "say": "WER-eed",
     "emoji": "😟",
@@ -892,6 +1352,36 @@
             "The dark clouds were worrying.",
             "The long silence was worrying.",
             "It was worrying to see the river rise."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "worsen",
+    "say": "WER-sun",
+    "forms": [
+      "worsens",
+      "worsened",
+      "worsening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get worse.",
+          "examples": [
+            "The storm may worsen.",
+            "The cold worsened.",
+            "The weather worsens."
+          ]
+        },
+        "more": {
+          "def": "To become or make something worse.",
+          "examples": [
+            "The storm began to worsen at night.",
+            "Her cough worsened, so she saw the doctor.",
+            "The traffic worsens at five o'clock."
           ]
         }
       }

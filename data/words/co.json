@@ -77,6 +77,35 @@
     ]
   },
   {
+    "word": "coarse",
+    "say": "kors",
+    "forms": [
+      "coarser",
+      "coarsest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Rough, not smooth.",
+          "examples": [
+            "The sand is coarse.",
+            "His beard felt coarse.",
+            "The rope was coarse."
+          ]
+        },
+        "more": {
+          "def": "Rough to touch, or made of big pieces.",
+          "examples": [
+            "The coarse rope scratched my hands.",
+            "Coarse sand felt scratchy under our feet.",
+            "The wool blanket was too coarse to wear on bare skin."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "coast",
     "say": "kohst",
     "emoji": "🏖️",
@@ -102,6 +131,31 @@
             "Crabs and shells wash up on the coast after a storm.",
             "The ship stayed close to the coast.",
             "Lighthouses warn sailors of rocks near the coast."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "coastal",
+    "say": "KOH-stul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Near the sea shore.",
+          "examples": [
+            "A coastal town.",
+            "The coastal road has views.",
+            "We live in a coastal city."
+          ]
+        },
+        "more": {
+          "def": "Having to do with a coast, which is land beside the sea.",
+          "examples": [
+            "We live in a coastal town by the sea.",
+            "The coastal road winds along the cliffs.",
+            "Coastal birds nest along the shore."
           ]
         }
       }
@@ -156,6 +210,34 @@
     ]
   },
   {
+    "word": "coastline",
+    "say": "KOHST-lyne",
+    "forms": [
+      "coastlines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The edge of land where it meets the sea.",
+          "examples": [
+            "We drove along the coastline.",
+            "The coastline is long.",
+            "The coastline has cliffs."
+          ]
+        },
+        "more": {
+          "def": "The outline of a coast where the land meets the sea.",
+          "examples": [
+            "We drove along the rocky coastline.",
+            "The map shows the long coastline of Italy.",
+            "Cliffs and beaches line the coastline."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "coat",
     "say": "koht",
     "emoji": "🧥",
@@ -198,6 +280,34 @@
             "The dog's thick coat keeps it warm in winter.",
             "The wall needs two coats of paint.",
             "A coat of snow covered the roof."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "coating",
+    "say": "KOH-ting",
+    "forms": [
+      "coatings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin layer over something.",
+          "examples": [
+            "The cake has a chocolate coating.",
+            "A coating of snow.",
+            "A coating of dust."
+          ]
+        },
+        "more": {
+          "def": "A thin layer that covers something.",
+          "examples": [
+            "The cake had a chocolate coating.",
+            "A coating of frost covered the window.",
+            "The pan has a nonstick coating."
           ]
         }
       }
@@ -313,6 +423,34 @@
             "The cobra raised its head and spread its hood.",
             "A cobra can sway like it is dancing.",
             "We watched a cobra at the zoo from behind thick glass."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cobweb",
+    "say": "KOB-web",
+    "forms": [
+      "cobwebs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A spider's old web.",
+          "examples": [
+            "A cobweb hung in the corner.",
+            "The cobweb is dusty.",
+            "I saw a cobweb."
+          ]
+        },
+        "more": {
+          "def": "A spider's web, especially an old one covered with dust.",
+          "examples": [
+            "A cobweb hung in the corner of the attic.",
+            "The dusty cobweb floated in the breeze.",
+            "Dad cleaned the cobwebs off the ceiling."
           ]
         }
       }
@@ -457,6 +595,34 @@
     ]
   },
   {
+    "word": "cocoon",
+    "say": "kuh-KOON",
+    "forms": [
+      "cocoons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft case that some bugs make to rest in.",
+          "examples": [
+            "The caterpillar is in a cocoon.",
+            "A moth came out of the cocoon.",
+            "The cocoon hangs on a twig."
+          ]
+        },
+        "more": {
+          "def": "A covering of silk that an insect larva spins around itself while it changes into an adult.",
+          "examples": [
+            "A silkworm spins a cocoon of fine silk thread.",
+            "The moth broke out of its cocoon in the spring.",
+            "Inside the cocoon, the larva slowly turns into a moth."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cod",
     "say": "kod",
     "emoji": "🐟",
@@ -573,6 +739,90 @@
             "My aunt drinks a cup of coffee every morning before work.",
             "The smell of fresh coffee filled the small cafe.",
             "Coffee beans grow on trees in warm countries."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "coffeehouse",
+    "say": "KAW-fee-howss",
+    "forms": [
+      "coffeehouses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cafe that serves coffee and snacks.",
+          "examples": [
+            "The coffeehouse is on the corner.",
+            "We went to a coffeehouse.",
+            "Grandpa met friends at the coffeehouse."
+          ]
+        },
+        "more": {
+          "def": "A small cafe that sells coffee, tea and light snacks.",
+          "examples": [
+            "Grandpa meets his friends at the coffeehouse.",
+            "A coffeehouse on the corner sells muffins.",
+            "Musicians play at the coffeehouse on Fridays."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "coffeemaker",
+    "say": "KAW-fee-may-ker",
+    "forms": [
+      "coffeemakers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that makes coffee.",
+          "examples": [
+            "Mom has a coffeemaker.",
+            "The coffeemaker is on.",
+            "The coffeemaker hums."
+          ]
+        },
+        "more": {
+          "def": "A machine that makes coffee.",
+          "examples": [
+            "Mom turned on the coffeemaker.",
+            "The coffeemaker made a bubbling sound.",
+            "A coffeemaker sat on the counter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "coffeepot",
+    "say": "KAW-fee-pot",
+    "forms": [
+      "coffeepots"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pot for making or serving coffee.",
+          "examples": [
+            "The coffeepot is hot.",
+            "Mom poured from the coffeepot.",
+            "A coffeepot sat on the stove."
+          ]
+        },
+        "more": {
+          "def": "A pot in which coffee is made or served.",
+          "examples": [
+            "The old coffeepot whistled on the camp stove.",
+            "A silver coffeepot sat on the table.",
+            "The coffeepot bubbled on the stove."
           ]
         }
       }
@@ -741,6 +991,31 @@
     ]
   },
   {
+    "word": "coincidental",
+    "say": "koh-in-sih-DEN-tul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happening by chance at the same time.",
+          "examples": [
+            "It was coincidental.",
+            "A coincidental meeting.",
+            "The coincidental match was fun."
+          ]
+        },
+        "more": {
+          "def": "Happening by chance at the same time, without being planned.",
+          "examples": [
+            "It was coincidental that we wore the same shirt.",
+            "They had a coincidental meeting at the store.",
+            "Our matching bags were coincidental."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cola",
     "say": "KOH-luh",
     "forms": [
@@ -820,6 +1095,87 @@
       {
         "word": "coldness",
         "def": "Being cold."
+      }
+    ]
+  },
+  {
+    "word": "coleslaw",
+    "say": "KOHL-slaw",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cold salad made of chopped cabbage.",
+          "examples": [
+            "We ate coleslaw with lunch.",
+            "The coleslaw is cold.",
+            "Dad made coleslaw."
+          ]
+        },
+        "more": {
+          "def": "A salad of finely chopped raw cabbage mixed with a creamy sauce.",
+          "examples": [
+            "We had coleslaw with our sandwiches.",
+            "Mom shredded the cabbage to make coleslaw.",
+            "The picnic had potato salad and crunchy coleslaw."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "collaboration",
+    "say": "kuh-lab-uh-RAY-shun",
+    "forms": [
+      "collaborations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Working together with others.",
+          "examples": [
+            "The art was a collaboration.",
+            "It was a team collaboration.",
+            "Our collaboration was fun."
+          ]
+        },
+        "more": {
+          "def": "Working together with others to make or do something.",
+          "examples": [
+            "The mural was a collaboration between two classes.",
+            "Good collaboration helped the team finish quickly.",
+            "The song is a collaboration between two singers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "collage",
+    "say": "kuh-LAZH",
+    "forms": [
+      "collages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture made by gluing pieces of paper or objects.",
+          "examples": [
+            "I made a collage.",
+            "The collage has paper.",
+            "Our collage is on the wall."
+          ]
+        },
+        "more": {
+          "def": "An artwork made by gluing pieces of paper, cloth and other things onto a surface.",
+          "examples": [
+            "I made a collage from old magazines.",
+            "Our class collage hangs on the wall.",
+            "She glued leaves and flowers into a collage."
+          ]
+        }
       }
     ]
   },
@@ -907,6 +1263,34 @@
     ]
   },
   {
+    "word": "collarbone",
+    "say": "KOL-er-bohn",
+    "forms": [
+      "collarbones"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The bone between your neck and your shoulder.",
+          "examples": [
+            "He broke his collarbone.",
+            "The collarbone is long.",
+            "I felt my collarbone."
+          ]
+        },
+        "more": {
+          "def": "A long bone that runs from the neck to the shoulder.",
+          "examples": [
+            "He fell and hurt his collarbone.",
+            "You can feel your collarbone below your neck.",
+            "The doctor checked her collarbone."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "collect",
     "say": "kuh-LEKT",
     "forms": [
@@ -931,6 +1315,34 @@
             "He collects stamps from countries all around the world.",
             "A truck collects the trash every Tuesday.",
             "Bees collect nectar from flowers to make honey."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "collectible",
+    "say": "kuh-LEK-tuh-bul",
+    "forms": [
+      "collectibles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something people like to collect.",
+          "examples": [
+            "Stamps are collectibles.",
+            "The coin is a collectible.",
+            "I keep a collectible."
+          ]
+        },
+        "more": {
+          "def": "An item that people like to collect, such as stamps or coins.",
+          "examples": [
+            "Old stamps are popular collectibles.",
+            "He keeps his rare coins as a collectible.",
+            "The shop sells collectibles like toy cars and stamps."
           ]
         }
       }
@@ -1076,6 +1488,34 @@
     ]
   },
   {
+    "word": "collie",
+    "say": "KOL-ee",
+    "forms": [
+      "collies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dog with long fur and a narrow face.",
+          "examples": [
+            "The collie has long fur.",
+            "We have a collie.",
+            "A collie ran in the field."
+          ]
+        },
+        "more": {
+          "def": "A dog with long, thick fur and a narrow face, often used to herd sheep.",
+          "examples": [
+            "The collie herded the sheep into the pen.",
+            "A collie has a long, soft coat.",
+            "Our neighbor's collie barks at the mail truck."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "collision",
     "say": "kuh-LIZH-un",
     "forms": [
@@ -1204,6 +1644,34 @@
             "We toured a colonial village where people wore clothes from the 1700s.",
             "The colonial house had a big stone chimney.",
             "Colonial farmers grew corn, wheat and tobacco."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "colonist",
+    "say": "KOL-uh-nist",
+    "forms": [
+      "colonists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who settles in a new land.",
+          "examples": [
+            "The colonist built a home.",
+            "A colonist farmed.",
+            "The colonists came by boat."
+          ]
+        },
+        "more": {
+          "def": "A person who settles in a new place and lives there as part of a colony.",
+          "examples": [
+            "The colonists built homes along the shore.",
+            "Early colonists farmed the land.",
+            "The colonist sailed across the sea."
           ]
         }
       }
@@ -1397,6 +1865,31 @@
     ]
   },
   {
+    "word": "colossal",
+    "say": "kuh-LOS-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very, very big.",
+          "examples": [
+            "A colossal whale swam by.",
+            "The tree is colossal.",
+            "We saw a colossal rock."
+          ]
+        },
+        "more": {
+          "def": "Extremely large in size, amount or strength.",
+          "examples": [
+            "The museum had a colossal statue in its main hall.",
+            "A colossal wave rolled toward the shore.",
+            "The giant dinosaur skeleton was colossal."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "column",
     "say": "KOL-um",
     "forms": [
@@ -1438,6 +1931,34 @@
             "The newspaper has three columns on each page.",
             "Add the numbers in the first column.",
             "She wrote the names in a column."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "columnist",
+    "say": "KOL-um-nist",
+    "forms": [
+      "columnists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A writer who has a regular part in a newspaper.",
+          "examples": [
+            "A columnist writes for the paper.",
+            "The columnist told a story.",
+            "I read the columnist each week."
+          ]
+        },
+        "more": {
+          "def": "A writer who writes a regular article in a newspaper or magazine.",
+          "examples": [
+            "The columnist wrote about the town fair.",
+            "A newspaper columnist shares her opinions every Sunday.",
+            "The columnist wrote a funny story about her dog."
           ]
         }
       }
@@ -1629,6 +2150,31 @@
             "I ordered the sandwich and soup combo for lunch.",
             "Peanut butter and jelly is a classic combo.",
             "The band was a combo of two guitars, drums and a piano."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "combustible",
+    "say": "kum-BUS-tuh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to burn.",
+          "examples": [
+            "Gas is combustible.",
+            "Wood is combustible.",
+            "Keep combustible things away."
+          ]
+        },
+        "more": {
+          "def": "Able to catch fire and burn easily.",
+          "examples": [
+            "Gasoline is highly combustible.",
+            "Keep combustible materials away from the stove.",
+            "Dry leaves are combustible."
           ]
         }
       }
@@ -1873,6 +2419,34 @@
     ]
   },
   {
+    "word": "comforter",
+    "say": "KUM-fer-ter",
+    "forms": [
+      "comforters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thick, warm bed cover.",
+          "examples": [
+            "My comforter is warm.",
+            "The comforter is fluffy.",
+            "I snuggled under the comforter."
+          ]
+        },
+        "more": {
+          "def": "A thick, soft blanket for a bed, or a person who comforts.",
+          "examples": [
+            "I snuggled under the fluffy comforter.",
+            "A comforter kept us warm in winter.",
+            "The nurse was a comforter to the sad child."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "comforting",
     "say": "KUM-fer-ting",
     "senses": [
@@ -1974,6 +2548,31 @@
     ]
   },
   {
+    "word": "comical",
+    "say": "KOM-ih-kul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Funny.",
+          "examples": [
+            "The clown looked comical.",
+            "A comical face.",
+            "The puppy's jump was comical."
+          ]
+        },
+        "more": {
+          "def": "Funny in a way that makes people laugh.",
+          "examples": [
+            "The clown looked comical in his big shoes.",
+            "The puppy's comical jump made us laugh.",
+            "She made a comical face at the camera."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "comics",
     "say": "KOM-iks",
     "forms": [
@@ -1996,6 +2595,34 @@
             "I read the comics in the Sunday paper.",
             "She draws her own comics with funny animals.",
             "A stack of comics sat next to his bed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "comma",
+    "say": "KOM-uh",
+    "forms": [
+      "commas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mark like this (,) that gives a short pause.",
+          "examples": [
+            "Put a comma here.",
+            "A comma is a small mark.",
+            "The sentence needs a comma."
+          ]
+        },
+        "more": {
+          "def": "A punctuation mark (,) used to separate parts of a sentence or items in a list.",
+          "examples": [
+            "Use a comma between the items in a list.",
+            "The teacher showed us where to put a comma in the sentence.",
+            "A comma tells the reader to pause for a moment."
           ]
         }
       }
@@ -2186,6 +2813,31 @@
             "The teacher commended the class for working so quietly.",
             "The mayor commended the firefighters for their bravery.",
             "I commend you for telling the truth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "commendable",
+    "say": "kuh-MEN-duh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Worth praising.",
+          "examples": [
+            "Her work is commendable.",
+            "A commendable effort.",
+            "Helping others is commendable."
+          ]
+        },
+        "more": {
+          "def": "Deserving praise because it is good or brave.",
+          "examples": [
+            "Her kindness to the new student was commendable.",
+            "The team showed commendable effort in the rain.",
+            "It is commendable to tell the truth."
           ]
         }
       }
@@ -2484,6 +3136,59 @@
     ]
   },
   {
+    "word": "commoner",
+    "say": "KOM-un-er",
+    "forms": [
+      "commoners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is not a king, queen or noble.",
+          "examples": [
+            "A commoner could not live in the castle.",
+            "The commoner farmed the land.",
+            "The king spoke with a commoner."
+          ]
+        },
+        "more": {
+          "def": "An ordinary person who is not part of a royal or noble family.",
+          "examples": [
+            "In the story, a young commoner became a hero.",
+            "Most people in the old village were commoners who worked the land.",
+            "The queen met a commoner at the market."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "commonplace",
+    "say": "KOM-un-playss",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not special, because it is seen often.",
+          "examples": [
+            "Cell phones are commonplace.",
+            "A commonplace thing.",
+            "Rain is commonplace here."
+          ]
+        },
+        "more": {
+          "def": "Seen or happening so often that it is not unusual.",
+          "examples": [
+            "Cell phones are commonplace today.",
+            "Rain is commonplace in spring.",
+            "Snow is commonplace in the mountains."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "commotion",
     "say": "kuh-MOH-shun",
     "forms": [
@@ -2573,6 +3278,34 @@
       {
         "word": "miscommunication",
         "def": "A mix-up in sharing what you mean."
+      }
+    ]
+  },
+  {
+    "word": "communicator",
+    "say": "kuh-MYOO-nih-kay-ter",
+    "forms": [
+      "communicators"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is good at sharing ideas.",
+          "examples": [
+            "She is a good communicator.",
+            "The teacher is a communicator.",
+            "A communicator speaks well."
+          ]
+        },
+        "more": {
+          "def": "A person who is good at sharing ideas and information with others.",
+          "examples": [
+            "She is a clear communicator who explains well.",
+            "A good communicator listens as well as speaks.",
+            "The doctor is a kind communicator."
+          ]
+        }
       }
     ]
   },
@@ -2831,6 +3564,31 @@
     ]
   },
   {
+    "word": "comparable",
+    "say": "KOM-per-uh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About the same.",
+          "examples": [
+            "The two sizes are comparable.",
+            "Comparable prices.",
+            "They are comparable."
+          ]
+        },
+        "more": {
+          "def": "Similar enough to be compared, or about equal.",
+          "examples": [
+            "The two bikes are comparable in size.",
+            "The shops have comparable prices.",
+            "Her skill is comparable to mine."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "compare",
     "say": "kum-PAIR",
     "forms": [
@@ -2984,6 +3742,31 @@
             "She showed compassion by helping the hurt bird.",
             "The teacher showed compassion to the crying child.",
             "The nurse treated every patient with compassion."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "compatibility",
+    "say": "kum-pat-ih-BIL-ih-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Getting along or working well together.",
+          "examples": [
+            "Their compatibility is clear.",
+            "The two toys have compatibility.",
+            "Compatibility matters."
+          ]
+        },
+        "more": {
+          "def": "The ability of people or things to work or live well together.",
+          "examples": [
+            "Their compatibility made them good partners.",
+            "The compatibility of the two parts is important.",
+            "Compatibility between old and new devices can be a problem."
           ]
         }
       }
@@ -3236,6 +4019,36 @@
             "I made a complaint about the loud music.",
             "The teacher listened to every complaint.",
             "His main complaint was that the soup was cold."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "complement",
+    "say": "KOM-pluh-ment",
+    "forms": [
+      "complements",
+      "complemented",
+      "complementing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go well with something.",
+          "examples": [
+            "The scarf will complement the coat.",
+            "Red wine complements cheese.",
+            "Her hat complemented her dress."
+          ]
+        },
+        "more": {
+          "def": "To go well with something and make it better.",
+          "examples": [
+            "The blue scarf complements her gray coat.",
+            "A crisp salad complements the soup.",
+            "His hat complemented his jacket."
           ]
         }
       }
@@ -3726,6 +4539,36 @@
     ]
   },
   {
+    "word": "compost",
+    "say": "KOM-pohst",
+    "forms": [
+      "composts",
+      "composted",
+      "composting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Rotted leaves and food scraps that help plants grow.",
+          "examples": [
+            "We make compost.",
+            "The compost is dark.",
+            "I put peels in the compost."
+          ]
+        },
+        "more": {
+          "def": "A mix of rotted leaves and food scraps that is used to feed soil.",
+          "examples": [
+            "We add apple peels to the compost.",
+            "The garden soil was rich with compost.",
+            "Worms help turn scraps into compost."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "compound",
     "say": "KOM-pownd",
     "forms": [
@@ -3784,6 +4627,86 @@
     ]
   },
   {
+    "word": "comprehension",
+    "say": "kom-prih-HEN-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Understanding what you read or hear.",
+          "examples": [
+            "Reading comprehension is important.",
+            "His comprehension is good.",
+            "The test checks comprehension."
+          ]
+        },
+        "more": {
+          "def": "The ability to understand what you hear or read.",
+          "examples": [
+            "The quiz tested our comprehension of the story.",
+            "Her reading comprehension improved after she read more books.",
+            "The teacher asked questions to check our comprehension."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "compress",
+    "say": "kum-PRESS",
+    "forms": [
+      "compresses",
+      "compressed",
+      "compressing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To squeeze something so it takes less space.",
+          "examples": [
+            "Compress the clothes.",
+            "I compressed the bag.",
+            "She will compress the foam."
+          ]
+        },
+        "more": {
+          "def": "To press something together so that it takes up less space.",
+          "examples": [
+            "I compressed my clothes to fit in the bag.",
+            "Compress the foam and it gets smaller.",
+            "The machine compressed the cans into small blocks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "compressed",
+    "say": "kum-PRESST",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Squeezed so it takes less space.",
+          "examples": [
+            "The compressed air shot out.",
+            "I saw a compressed sponge.",
+            "The box was compressed."
+          ]
+        },
+        "more": {
+          "def": "Squeezed or pressed so that it takes up less space.",
+          "examples": [
+            "The compressed air made the tire full.",
+            "The compressed foam slowly grew back to its shape.",
+            "The compressed sponge was tiny until it got wet."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "compromise",
     "say": "KOM-pruh-myz",
     "forms": [
@@ -3814,6 +4737,36 @@
     ]
   },
   {
+    "word": "compute",
+    "say": "kum-PYOOT",
+    "forms": [
+      "computes",
+      "computed",
+      "computing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To work out an answer with numbers.",
+          "examples": [
+            "I can compute the answer.",
+            "She computed the cost.",
+            "The machine will compute."
+          ]
+        },
+        "more": {
+          "def": "To work out an answer using numbers.",
+          "examples": [
+            "She computed the total cost of the trip.",
+            "A calculator can compute a sum very fast.",
+            "We computed how far the car had driven."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "computer",
     "say": "kum-PYOO-ter",
     "emoji": "💻",
@@ -3837,6 +4790,56 @@
             "I write my reports on the computer.",
             "The library has computers for children.",
             "A computer can do math very fast."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "computerized",
+    "say": "kum-PYOO-tuh-ryzd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Run by a computer.",
+          "examples": [
+            "The store is computerized.",
+            "A computerized game.",
+            "The computerized system is fast."
+          ]
+        },
+        "more": {
+          "def": "Controlled or done by a computer.",
+          "examples": [
+            "The store has a computerized checkout.",
+            "The computerized system keeps track of books.",
+            "Many cars have computerized controls."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "computing",
+    "say": "kum-PYOO-ting",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Using computers.",
+          "examples": [
+            "I like computing.",
+            "Computing is fun.",
+            "She studies computing."
+          ]
+        },
+        "more": {
+          "def": "The use of computers and the study of how they work.",
+          "examples": [
+            "She studies computing at school.",
+            "Computing has changed how we work.",
+            "The class learned about computing."
           ]
         }
       }
@@ -3895,6 +4898,31 @@
             "I concealed the gift under the bed.",
             "The fog concealed the road ahead of us.",
             "She concealed her smile behind her hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "concealment",
+    "say": "kun-SEEL-munt",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Hiding something.",
+          "examples": [
+            "The concealment was good.",
+            "The cat's concealment.",
+            "The concealment of the gift."
+          ]
+        },
+        "more": {
+          "def": "The act of hiding something so it cannot be seen.",
+          "examples": [
+            "The cat's concealment under the bed was perfect.",
+            "The concealment of the gift was easy.",
+            "The deer relied on concealment among the trees."
           ]
         }
       }
@@ -4256,6 +5284,36 @@
     ]
   },
   {
+    "word": "concoct",
+    "say": "kun-KOKT",
+    "forms": [
+      "concocts",
+      "concocted",
+      "concocting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something by mixing things.",
+          "examples": [
+            "I concoct a drink.",
+            "She concocted a soup.",
+            "He will concoct a plan."
+          ]
+        },
+        "more": {
+          "def": "To make something by mixing different things together, or to invent a story or plan.",
+          "examples": [
+            "She concocted a soup from leftover vegetables.",
+            "The children concocted a plan for a surprise party.",
+            "He concocted a funny story to make us laugh."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "concrete",
     "say": "KON-kreet",
     "senses": [
@@ -4322,6 +5380,34 @@
             "The doctor said a concussion means you need to rest for a few days.",
             "Helmets help protect against a concussion while biking.",
             "She had a concussion after falling off her bike, so she stayed home from school."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "condiment",
+    "say": "KON-duh-munt",
+    "forms": [
+      "condiments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sauce or spice for food, like ketchup.",
+          "examples": [
+            "Ketchup is a condiment.",
+            "The condiment is on the table.",
+            "I like the condiment."
+          ]
+        },
+        "more": {
+          "def": "A sauce or spice, such as ketchup or mustard, that adds flavor to food.",
+          "examples": [
+            "Ketchup is a popular condiment for fries.",
+            "The table had condiments like mustard and relish.",
+            "Salt and pepper are common condiments."
           ]
         }
       }
@@ -4694,6 +5780,59 @@
     ]
   },
   {
+    "word": "confetti",
+    "say": "kun-FET-ee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Little bits of colored paper thrown at a party.",
+          "examples": [
+            "We threw confetti.",
+            "The confetti is colorful.",
+            "Confetti fell on us."
+          ]
+        },
+        "more": {
+          "def": "Tiny pieces of colored paper that are thrown at celebrations.",
+          "examples": [
+            "We threw confetti when the parade went by.",
+            "Bits of confetti fell like rain.",
+            "The confetti was stuck in her hair."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "confidant",
+    "say": "KON-fih-dant",
+    "forms": [
+      "confidants"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person you tell your secrets to.",
+          "examples": [
+            "She is my confidant.",
+            "He told his confidant.",
+            "The confidant kept the secret."
+          ]
+        },
+        "more": {
+          "def": "A close friend you trust with private thoughts and secrets.",
+          "examples": [
+            "She is my best friend and my confidant.",
+            "The king trusted his confidant with his secret plan.",
+            "A good confidant never tells what you share."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "confide",
     "say": "kun-FYD",
     "forms": [
@@ -4832,6 +5971,31 @@
             "We confined the puppy to the kitchen with a gate.",
             "A broken leg confined him to bed for a week.",
             "The fence confines the sheep to a small field."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "confinement",
+    "say": "kun-FYNE-munt",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being kept in a small space.",
+          "examples": [
+            "The bird hated confinement.",
+            "The pup lives in confinement.",
+            "Confinement was hard."
+          ]
+        },
+        "more": {
+          "def": "The state of being kept in a place that you cannot leave.",
+          "examples": [
+            "The bird did not like confinement in the small cage.",
+            "The long confinement indoors made the kids restless.",
+            "Animals in zoos need space and not confinement."
           ]
         }
       }
@@ -5147,6 +6311,31 @@
     ]
   },
   {
+    "word": "congestion",
+    "say": "kun-JES-chun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Too many things crowded together.",
+          "examples": [
+            "Traffic congestion slowed us.",
+            "There was congestion on the road.",
+            "Nose congestion made me sniffle."
+          ]
+        },
+        "more": {
+          "def": "A crowded, blocked state, such as heavy traffic or a stuffy nose.",
+          "examples": [
+            "Traffic congestion slowed the bus.",
+            "There was congestion at the doors.",
+            "A cold gave me nose congestion."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "congratulate",
     "say": "kun-GRACH-uh-layt",
     "forms": [
@@ -5177,6 +6366,34 @@
     ]
   },
   {
+    "word": "congratulation",
+    "say": "kun-grach-uh-LAY-shun",
+    "forms": [
+      "congratulations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words that say you are glad about someone's good news.",
+          "examples": [
+            "Congratulations on your win!",
+            "A congratulation came.",
+            "She got many congratulations."
+          ]
+        },
+        "more": {
+          "def": "Words that show you are happy about another person's success.",
+          "examples": [
+            "Congratulations on your birthday!",
+            "She received many congratulations for winning.",
+            "He sent a card of congratulation."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "congratulations",
     "say": "kun-grach-uh-LAY-shunz",
     "senses": [
@@ -5196,6 +6413,36 @@
             "Congratulations on winning the spelling bee!",
             "Congratulations to the graduating class!",
             "Congratulations on your new puppy!"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "congregate",
+    "say": "KONG-grih-gayt",
+    "forms": [
+      "congregates",
+      "congregated",
+      "congregating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To gather together.",
+          "examples": [
+            "Birds congregate by the lake.",
+            "The kids congregated.",
+            "People congregate at the park."
+          ]
+        },
+        "more": {
+          "def": "To come together in a group.",
+          "examples": [
+            "Birds congregate by the lake at dusk.",
+            "The students congregated in the hall.",
+            "People congregate in the square on Fridays."
           ]
         }
       }
@@ -5280,6 +6527,34 @@
             "The congressman shook hands with voters.",
             "He is a congressman from our state.",
             "The congressman voted on the new law."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "conjunction",
+    "say": "kun-JUNK-shun",
+    "forms": [
+      "conjunctions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word that joins words or parts of a sentence.",
+          "examples": [
+            "\"And\" is a conjunction.",
+            "\"But\" is a conjunction.",
+            "Use a conjunction to join two parts."
+          ]
+        },
+        "more": {
+          "def": "A word such as \"and,\" \"but\" or \"or\" that joins words or parts of a sentence.",
+          "examples": [
+            "\"And\" is a conjunction that joins two words.",
+            "In \"I like cake but not pie,\" the word \"but\" is a conjunction.",
+            "We circled each conjunction in the sentence."
           ]
         }
       }
@@ -5627,6 +6902,61 @@
     ]
   },
   {
+    "word": "conservation",
+    "say": "kon-ser-VAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Taking care of nature and not wasting it.",
+          "examples": [
+            "Conservation saves water.",
+            "We learned about conservation.",
+            "Conservation helps animals."
+          ]
+        },
+        "more": {
+          "def": "The protection of nature and the careful use of things such as water and energy.",
+          "examples": [
+            "Conservation of water is important in dry places.",
+            "The park works on conservation of wildlife.",
+            "We learned about the conservation of forests."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "conserve",
+    "say": "kun-SERV",
+    "forms": [
+      "conserves",
+      "conserved",
+      "conserving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To save and not waste.",
+          "examples": [
+            "We conserve water.",
+            "Turn off the light to conserve power.",
+            "They conserve food."
+          ]
+        },
+        "more": {
+          "def": "To protect something and use it carefully so it does not get used up.",
+          "examples": [
+            "We conserve water by turning off the tap.",
+            "Turning off lights helps conserve electricity.",
+            "Parks work to conserve forests and wildlife."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "consider",
     "say": "kun-SID-er",
     "forms": [
@@ -5815,6 +7145,34 @@
     ]
   },
   {
+    "word": "consistency",
+    "say": "kun-SIS-tun-see",
+    "forms": [
+      "consistencies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How thick or thin a mix is, or staying the same.",
+          "examples": [
+            "The batter has a smooth consistency.",
+            "Her work has consistency.",
+            "The soup has the right consistency."
+          ]
+        },
+        "more": {
+          "def": "How thick, thin or smooth something is, or the quality of always being the same.",
+          "examples": [
+            "The batter should have the consistency of cream.",
+            "The coach praised the team's consistency.",
+            "The soup had a thick consistency."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "consistent",
     "say": "kun-SIS-tunt",
     "forms": [
@@ -5968,6 +7326,35 @@
             "The phone rang constantly all morning.",
             "She constantly asks questions about space.",
             "The river flows constantly to the sea."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "constellation",
+    "say": "kon-stuh-LAY-shun",
+    "emoji": "⭐",
+    "forms": [
+      "constellations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of stars that makes a picture in the sky.",
+          "examples": [
+            "The Big Dipper is a constellation.",
+            "I saw a constellation.",
+            "We learned a constellation at night."
+          ]
+        },
+        "more": {
+          "def": "A group of stars that seems to form a shape or picture in the night sky.",
+          "examples": [
+            "The Big Dipper is part of a larger constellation called the Great Bear.",
+            "We used a map to find each constellation in the sky.",
+            "Ancient people told stories about every constellation."
           ]
         }
       }
@@ -6140,6 +7527,34 @@
     ]
   },
   {
+    "word": "consultation",
+    "say": "kon-sul-TAY-shun",
+    "forms": [
+      "consultations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A talk with an expert to get help.",
+          "examples": [
+            "We had a consultation with the vet.",
+            "The consultation was short.",
+            "Mom had a consultation with the teacher."
+          ]
+        },
+        "more": {
+          "def": "A meeting in which you ask an expert for advice or help.",
+          "examples": [
+            "After a short consultation, the doctor said the cut would heal.",
+            "A consultation with the coach helped her fix her swing.",
+            "The family held a consultation with an architect about the new house."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "consume",
     "say": "kun-SOOM",
     "forms": [
@@ -6164,6 +7579,34 @@
             "We consume a lot of water in summer.",
             "The car consumes a lot of gas.",
             "The fire quickly consumed the dry wood."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "consumer",
+    "say": "kun-SOO-mer",
+    "forms": [
+      "consumers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who buys things.",
+          "examples": [
+            "The consumer bought a toy.",
+            "A consumer picks a store.",
+            "Consumers like low prices."
+          ]
+        },
+        "more": {
+          "def": "A person who buys and uses goods or services.",
+          "examples": [
+            "The store wants happy consumers who come back.",
+            "Consumers compared prices before buying the bike.",
+            "In nature, an animal is a consumer because it eats plants or other animals."
           ]
         }
       }
@@ -6559,6 +8002,34 @@
     ]
   },
   {
+    "word": "continuation",
+    "say": "kun-tin-yoo-AY-shun",
+    "forms": [
+      "continuations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The next part.",
+          "examples": [
+            "A continuation of the story.",
+            "The continuation begins.",
+            "It is a continuation."
+          ]
+        },
+        "more": {
+          "def": "A part that goes on from an earlier part.",
+          "examples": [
+            "The second book is a continuation of the first.",
+            "The continuation of the story is on the next page.",
+            "The road is a continuation of the trail."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "continue",
     "say": "kun-TIN-yoo",
     "forms": [
@@ -6873,6 +8344,34 @@
     ]
   },
   {
+    "word": "contributor",
+    "say": "kun-TRIB-yuh-ter",
+    "forms": [
+      "contributors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who gives or helps with something.",
+          "examples": [
+            "A contributor gave money.",
+            "She is a contributor to the paper.",
+            "Each contributor got thanks."
+          ]
+        },
+        "more": {
+          "def": "A person who gives money, help or writing to something.",
+          "examples": [
+            "Each contributor to the food drive got a thank-you note.",
+            "She is a contributor to the school paper.",
+            "A kind contributor gave books to the library."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "control",
     "say": "kun-TROHL",
     "forms": [
@@ -7112,6 +8611,59 @@
     ]
   },
   {
+    "word": "conversational",
+    "say": "kon-ver-SAY-shuh-nul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Like a friendly talk.",
+          "examples": [
+            "A conversational tone.",
+            "Her voice is conversational.",
+            "He spoke in a conversational way."
+          ]
+        },
+        "more": {
+          "def": "In a relaxed style, like ordinary talk.",
+          "examples": [
+            "She spoke in a friendly, conversational tone.",
+            "The writer used a conversational style.",
+            "His voice was conversational, not formal."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "conversion",
+    "say": "kun-VER-zhun",
+    "forms": [
+      "conversions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A change from one thing to another.",
+          "examples": [
+            "The conversion took one day.",
+            "A conversion of the barn made a house.",
+            "Do the conversion from inches to feet."
+          ]
+        },
+        "more": {
+          "def": "The act of changing something from one form, use or system to another.",
+          "examples": [
+            "The conversion of the old barn into a house took a year.",
+            "A conversion chart helped us change inches into centimeters.",
+            "The conversion of sunlight into energy happens in solar panels."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "convert",
     "say": "kun-VERT",
     "forms": [
@@ -7228,6 +8780,36 @@
     ]
   },
   {
+    "word": "coo",
+    "say": "koo",
+    "forms": [
+      "coos",
+      "cooed",
+      "cooing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a soft sound like a dove.",
+          "examples": [
+            "Doves coo.",
+            "The baby cooed.",
+            "A pigeon cooed on the roof."
+          ]
+        },
+        "more": {
+          "def": "To make a soft, low sound like a dove or a happy baby.",
+          "examples": [
+            "The doves cooed on the roof.",
+            "The baby cooed in her crib.",
+            "She cooed softly to the kitten."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cook",
     "say": "kuuk",
     "emoji": "👩‍🍳",
@@ -7272,6 +8854,62 @@
             "The cook at the camp made pancakes.",
             "My uncle is a cook at a restaurant.",
             "The cook chopped the carrots."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cookbook",
+    "say": "KUUK-buuk",
+    "forms": [
+      "cookbooks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A book with recipes.",
+          "examples": [
+            "Mom used a cookbook.",
+            "The cookbook has recipes.",
+            "I read the cookbook."
+          ]
+        },
+        "more": {
+          "def": "A book of recipes and directions for cooking.",
+          "examples": [
+            "Mom followed a recipe in the cookbook.",
+            "The cookbook has a recipe for every kind of pie.",
+            "I picked a cake from the cookbook."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cooker",
+    "say": "KUUK-er",
+    "forms": [
+      "cookers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pot or machine for cooking.",
+          "examples": [
+            "The cooker is hot.",
+            "A rice cooker.",
+            "Mom used the cooker."
+          ]
+        },
+        "more": {
+          "def": "A pot, pan or machine used for cooking food.",
+          "examples": [
+            "Mom made rice in the rice cooker.",
+            "A slow cooker simmered the soup all day.",
+            "The cooker is on the stove."
           ]
         }
       }
@@ -7327,6 +8965,34 @@
             "Grandpa's cooking is the best in the family.",
             "Cooking dinner takes about an hour.",
             "We learned about cooking in class."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cookout",
+    "say": "KUUK-owt",
+    "forms": [
+      "cookouts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A meal cooked and eaten outside.",
+          "examples": [
+            "We had a cookout.",
+            "The cookout was fun.",
+            "Dad grilled at the cookout."
+          ]
+        },
+        "more": {
+          "def": "A meal that is cooked and eaten outdoors, often on a grill.",
+          "examples": [
+            "We had a cookout in the backyard.",
+            "Dad grilled burgers at the cookout.",
+            "Neighbors came to the summer cookout."
           ]
         }
       }
@@ -7558,6 +9224,34 @@
     ]
   },
   {
+    "word": "cootie",
+    "say": "KOO-tee",
+    "forms": [
+      "cooties"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An imaginary germ in a children's game.",
+          "examples": [
+            "He has cooties.",
+            "Cooties are make-believe.",
+            "They played a game about cooties."
+          ]
+        },
+        "more": {
+          "def": "A make-believe germ that children joke about in a playground game.",
+          "examples": [
+            "The kids joked that he had cooties.",
+            "Cooties are only pretend.",
+            "They played a silly game of cooties."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cop",
     "say": "kop",
     "emoji": "👮",
@@ -7611,6 +9305,62 @@
             "I cope with feeling nervous by taking deep breaths.",
             "The family coped with the long, cold winter by staying cozy at home.",
             "She learned to cope with a new school by making friends."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "copier",
+    "say": "KOP-ee-er",
+    "forms": [
+      "copiers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that makes copies of papers.",
+          "examples": [
+            "The copier makes copies.",
+            "I used the copier.",
+            "The copier is loud."
+          ]
+        },
+        "more": {
+          "def": "A machine that makes copies of pages.",
+          "examples": [
+            "The teacher used the copier to make worksheets.",
+            "The copier ran out of paper.",
+            "I made a copy of my picture at the copier."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "copilot",
+    "say": "KOH-py-lut",
+    "forms": [
+      "copilots"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The second pilot who helps fly a plane.",
+          "examples": [
+            "The copilot helped the pilot.",
+            "A copilot sat next to her.",
+            "The copilot read the map."
+          ]
+        },
+        "more": {
+          "def": "The second pilot on a plane, who helps the main pilot.",
+          "examples": [
+            "The copilot checked the dials.",
+            "The pilot and copilot greeted the passengers.",
+            "A copilot can take over if the pilot needs a rest."
           ]
         }
       }
@@ -7685,6 +9435,34 @@
             "I made a copy of my report.",
             "She bought a copy of the book.",
             "The museum has a copy of the old map."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "copycat",
+    "say": "KOP-ee-kat",
+    "forms": [
+      "copycats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who copies others.",
+          "examples": [
+            "Do not be a copycat.",
+            "My little brother is a copycat.",
+            "The copycat did what I did."
+          ]
+        },
+        "more": {
+          "def": "A person who copies what someone else does or says.",
+          "examples": [
+            "My little sister is a copycat and wears my hat.",
+            "Do not be a copycat, think for yourself.",
+            "The parrot was a copycat and said what I said."
           ]
         }
       }
@@ -7773,6 +9551,31 @@
     ]
   },
   {
+    "word": "corduroy",
+    "say": "KOR-duh-roy",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thick cloth with soft ridges.",
+          "examples": [
+            "His pants are corduroy.",
+            "Corduroy is soft.",
+            "I like corduroy."
+          ]
+        },
+        "more": {
+          "def": "A thick cotton cloth with soft, raised lines or ridges.",
+          "examples": [
+            "His corduroy pants were soft and warm.",
+            "Corduroy has ridges you can feel with your fingers.",
+            "She sewed a jacket from brown corduroy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "core",
     "say": "kor",
     "forms": [
@@ -7830,6 +9633,34 @@
     ]
   },
   {
+    "word": "corkscrew",
+    "say": "KORK-skroo",
+    "forms": [
+      "corkscrews"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A twisty tool for opening bottles.",
+          "examples": [
+            "Dad used a corkscrew.",
+            "The corkscrew is a spiral.",
+            "A corkscrew opens a bottle."
+          ]
+        },
+        "more": {
+          "def": "A tool with a spiral metal point used to pull corks from bottles.",
+          "examples": [
+            "Dad twisted the corkscrew into the cork.",
+            "The corkscrew has a spiral of silver metal.",
+            "The curly tail of the pig looked like a corkscrew."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "corn",
     "say": "korn",
     "emoji": "🌽",
@@ -7850,6 +9681,59 @@
             "Corn grew in tall rows across the field.",
             "We ate corn on the cob at the picnic.",
             "Popcorn is made from a special kind of corn."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cornball",
+    "say": "KORN-bawl",
+    "forms": [
+      "cornballs"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Silly in an old-fashioned way.",
+          "examples": [
+            "A cornball joke.",
+            "The cornball movie.",
+            "His jokes are cornball."
+          ]
+        },
+        "more": {
+          "def": "Silly or sentimental in an old-fashioned way.",
+          "examples": [
+            "He told a cornball joke that made us groan.",
+            "The cornball movie had a happy ending.",
+            "Her cornball songs made us laugh."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cornbread",
+    "say": "KORN-bred",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bread made from corn meal.",
+          "examples": [
+            "We had cornbread.",
+            "The cornbread is yellow.",
+            "I like cornbread."
+          ]
+        },
+        "more": {
+          "def": "A bread made with cornmeal that is baked until golden.",
+          "examples": [
+            "We ate chili with warm cornbread.",
+            "The cornbread was crumbly and sweet.",
+            "Grandma baked cornbread in an iron pan."
           ]
         }
       }
@@ -7878,6 +9762,59 @@
             "The lamp stood in the corner of the room.",
             "Turn left at the next corner.",
             "Fold down the corner of the page."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cornfield",
+    "say": "KORN-feeld",
+    "forms": [
+      "cornfields"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A field where corn grows.",
+          "examples": [
+            "The cornfield is tall.",
+            "We played in the cornfield.",
+            "The cornfield is green."
+          ]
+        },
+        "more": {
+          "def": "A field of land where corn is grown.",
+          "examples": [
+            "The cornfield was tall and green in July.",
+            "A scarecrow stood in the cornfield.",
+            "We walked through the cornfield in the fall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cornflakes",
+    "say": "KORN-flayks",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A breakfast cereal made from corn.",
+          "examples": [
+            "I ate cornflakes.",
+            "The cornflakes are crisp.",
+            "Cornflakes are in a box."
+          ]
+        },
+        "more": {
+          "def": "A crunchy breakfast cereal made from flakes of corn.",
+          "examples": [
+            "I ate cornflakes with milk.",
+            "The cornflakes got soggy.",
+            "Mom poured cornflakes into my bowl."
           ]
         }
       }
@@ -8107,6 +10044,31 @@
     ]
   },
   {
+    "word": "corrective",
+    "say": "kuh-REK-tiv",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Meant to fix a problem.",
+          "examples": [
+            "Corrective glasses help.",
+            "A corrective step.",
+            "The corrective action worked."
+          ]
+        },
+        "more": {
+          "def": "Meant to fix or make right a problem.",
+          "examples": [
+            "Corrective glasses help him see better.",
+            "The teacher took corrective steps.",
+            "The corrective action fixed the leak."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "correctly",
     "say": "kuh-REKT-lee",
     "senses": [
@@ -8151,6 +10113,31 @@
             "My grandmother kept her correspondence in a shoebox.",
             "The two pen pals continued their correspondence for years.",
             "The mayor answers her correspondence every morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "corresponding",
+    "say": "kor-ih-SPON-ding",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Matching in some way.",
+          "examples": [
+            "Match the corresponding pictures.",
+            "The corresponding numbers.",
+            "Find the corresponding word."
+          ]
+        },
+        "more": {
+          "def": "Matching or related to something else.",
+          "examples": [
+            "Match each word with its corresponding picture.",
+            "Each key has a corresponding lock.",
+            "The map has a corresponding legend."
           ]
         }
       }
@@ -9167,6 +11154,31 @@
     ]
   },
   {
+    "word": "courteous",
+    "say": "KER-tee-us",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Polite and kind to others.",
+          "examples": [
+            "The boy was courteous.",
+            "She is a courteous girl.",
+            "A courteous driver waited."
+          ]
+        },
+        "more": {
+          "def": "Polite and showing respect for others.",
+          "examples": [
+            "The courteous boy held the door for everyone.",
+            "A courteous driver stopped to let us cross.",
+            "She was courteous to the guests and said thank you."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "courtesy",
     "say": "KER-tuh-see",
     "forms": [
@@ -9514,6 +11526,36 @@
             "The cowboy rode out at dawn to check the herd.",
             "He wore a big hat and boots like a cowboy.",
             "The cowboys moved the cattle across the plains."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cower",
+    "say": "KOW-er",
+    "forms": [
+      "cowers",
+      "cowered",
+      "cowering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shrink back in fear.",
+          "examples": [
+            "The dog cowered.",
+            "The kitten cowers under the bed.",
+            "The puppy cowered during the storm."
+          ]
+        },
+        "more": {
+          "def": "To crouch or shrink away because you are afraid.",
+          "examples": [
+            "The puppy cowered under the bed during the storm.",
+            "The little mouse cowered in its hole.",
+            "The dog cowered when thunder boomed."
           ]
         }
       }

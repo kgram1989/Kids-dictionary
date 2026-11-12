@@ -47,6 +47,35 @@
     ]
   },
   {
+    "word": "drafty",
+    "say": "DRAF-tee",
+    "forms": [
+      "draftier",
+      "draftiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "With cold air coming in.",
+          "examples": [
+            "The room is drafty.",
+            "A drafty window.",
+            "The drafty house is cold."
+          ]
+        },
+        "more": {
+          "def": "Having cold air blowing in through gaps.",
+          "examples": [
+            "The old house was cold and drafty.",
+            "A drafty window let in the wind.",
+            "We put a blanket on the drafty floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drag",
     "say": "drag",
     "forms": [
@@ -178,6 +207,59 @@
             "Drain the water from the pasta.",
             "We drained the bathtub after our bath.",
             "The rain drained away down the hill."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drainage",
+    "say": "DRAY-nij",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way for water to flow away.",
+          "examples": [
+            "The yard has good drainage.",
+            "Drainage is important.",
+            "The ditch gives drainage."
+          ]
+        },
+        "more": {
+          "def": "The way that water runs off or is carried away from a place.",
+          "examples": [
+            "The yard has good drainage, so it is not muddy.",
+            "Ditches provide drainage after heavy rain.",
+            "The garden needs better drainage."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drainpipe",
+    "say": "DRAYN-pyp",
+    "forms": [
+      "drainpipes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pipe that carries water away.",
+          "examples": [
+            "Water runs down the drainpipe.",
+            "The drainpipe is metal.",
+            "A drainpipe is on the house."
+          ]
+        },
+        "more": {
+          "def": "A pipe that carries water away from a roof or sink.",
+          "examples": [
+            "Rain water ran down the drainpipe.",
+            "A bird built a nest in the drainpipe.",
+            "Leaves clogged the drainpipe."
           ]
         }
       }
@@ -377,6 +459,62 @@
     ]
   },
   {
+    "word": "drawback",
+    "say": "DRAW-bak",
+    "forms": [
+      "drawbacks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bad part of something.",
+          "examples": [
+            "The drawback is the cost.",
+            "One drawback is the long ride.",
+            "The drawback of the plan is the rain."
+          ]
+        },
+        "more": {
+          "def": "A problem or disadvantage that makes something less good.",
+          "examples": [
+            "The only drawback of the apartment is its small kitchen.",
+            "One drawback of the trip is the long bus ride.",
+            "A drawback of the toy is that it breaks easily."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drawbridge",
+    "say": "DRAW-brij",
+    "forms": [
+      "drawbridges"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bridge that lifts up.",
+          "examples": [
+            "The castle has a drawbridge.",
+            "The drawbridge went up.",
+            "We crossed the drawbridge."
+          ]
+        },
+        "more": {
+          "def": "A bridge that can be lifted up, as over a castle moat or for boats to pass.",
+          "examples": [
+            "The knight crossed the drawbridge into the castle.",
+            "The drawbridge was raised at night.",
+            "Boats passed when the drawbridge went up."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drawer",
     "say": "DROR",
     "forms": [
@@ -505,6 +643,31 @@
             "I have a dread of tests.",
             "She felt dread as the storm came near.",
             "He had a dread of speaking in front of the class."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dreaded",
+    "say": "DRED-id",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feared by many.",
+          "examples": [
+            "The dreaded test is today.",
+            "We faced the dreaded bath.",
+            "The dreaded day came."
+          ]
+        },
+        "more": {
+          "def": "Feared or not wanted because it seems bad.",
+          "examples": [
+            "The dreaded math test finally arrived.",
+            "The knight faced the dreaded dragon in the story.",
+            "The dreaded day of the dentist visit came at last."
           ]
         }
       }
@@ -642,6 +805,31 @@
     ]
   },
   {
+    "word": "dreamland",
+    "say": "DREEM-land",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The place you go in your sleep.",
+          "examples": [
+            "He drifted off to dreamland.",
+            "Dreamland is for sleep.",
+            "The baby went to dreamland."
+          ]
+        },
+        "more": {
+          "def": "A make-believe place you seem to visit when you sleep.",
+          "examples": [
+            "The baby drifted off to dreamland.",
+            "Close your eyes and go to dreamland.",
+            "The story takes place in a magic dreamland."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dreamy",
     "say": "DREE-mee",
     "forms": [
@@ -694,6 +882,36 @@
             "It was a dreary, gray day with rain all afternoon.",
             "The dreary old room had no windows.",
             "We found the long speech dreary."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drench",
+    "say": "drench",
+    "forms": [
+      "drenches",
+      "drenched",
+      "drenching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make very wet.",
+          "examples": [
+            "Rain will drench us.",
+            "The splash drenched me.",
+            "The rain drenched the park."
+          ]
+        },
+        "more": {
+          "def": "To make something completely soaked with water.",
+          "examples": [
+            "The sudden rain drenched us on the walk home.",
+            "The big splash drenched my shirt.",
+            "The hose drenched the dog."
           ]
         }
       }
@@ -806,6 +1024,63 @@
     ]
   },
   {
+    "word": "dressmaker",
+    "say": "DRESS-may-ker",
+    "forms": [
+      "dressmakers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who makes dresses.",
+          "examples": [
+            "The dressmaker sewed.",
+            "A dressmaker made my dress.",
+            "The dressmaker used pins."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to make dresses and clothes.",
+          "examples": [
+            "The dressmaker sewed a gown for the wedding.",
+            "A dressmaker measured my arm.",
+            "The dressmaker pinned the hem."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dressy",
+    "say": "DRES-ee",
+    "forms": [
+      "dressier",
+      "dressiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Fancy and good for a party.",
+          "examples": [
+            "A dressy shirt.",
+            "The dressy shoes are shiny.",
+            "She wore a dressy dress."
+          ]
+        },
+        "more": {
+          "def": "Fancy enough for a special event.",
+          "examples": [
+            "She wore a dressy outfit to the wedding.",
+            "The dressy shoes were shiny.",
+            "A dressy shirt is good for a party."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dribble",
     "say": "DRIB-ul",
     "forms": [
@@ -898,6 +1173,59 @@
             "A drift of snow blocked the front door.",
             "We dug a path through the deep drift.",
             "Sand drifts formed in the desert."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drifter",
+    "say": "DRIF-ter",
+    "forms": [
+      "drifters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who goes from place to place.",
+          "examples": [
+            "The drifter walked into town.",
+            "A drifter slept in the barn.",
+            "The old drifter had a big bag."
+          ]
+        },
+        "more": {
+          "def": "A person who moves from place to place without staying long or having a settled home.",
+          "examples": [
+            "In the old story, a drifter came to town looking for work.",
+            "The drifter traveled from farm to farm in the summer.",
+            "A drifter stopped to ask for water and then went on his way."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "driftwood",
+    "say": "DRIFT-wuud",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Wood that washes up on a beach.",
+          "examples": [
+            "We found driftwood.",
+            "The driftwood is smooth.",
+            "We made a fire from driftwood."
+          ]
+        },
+        "more": {
+          "def": "Pieces of wood that have been washed up on a shore by the sea or a river.",
+          "examples": [
+            "We collected smooth driftwood on the beach.",
+            "She made a sculpture from driftwood.",
+            "The driftwood was bleached white by the sun."
           ]
         }
       }
@@ -1165,6 +1493,55 @@
     ]
   },
   {
+    "word": "drizzle",
+    "say": "DRIZ-ul",
+    "forms": [
+      "drizzles",
+      "drizzled",
+      "drizzling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very light rain.",
+          "examples": [
+            "We had a drizzle.",
+            "The drizzle is soft.",
+            "A drizzle fell."
+          ]
+        },
+        "more": {
+          "def": "A very light rain with fine drops.",
+          "examples": [
+            "We walked home in the drizzle.",
+            "A soft drizzle fell all morning.",
+            "The drizzle made the street shiny."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rain very lightly.",
+          "examples": [
+            "It will drizzle.",
+            "The rain drizzled.",
+            "It drizzled all day."
+          ]
+        },
+        "more": {
+          "def": "To rain lightly in fine drops, or to pour in a thin stream.",
+          "examples": [
+            "It drizzled all morning, so we stayed in.",
+            "Mom drizzled honey on the toast.",
+            "The sky drizzled on the picnic."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drone",
     "say": "drohn",
     "forms": [
@@ -1293,6 +1670,35 @@
     ]
   },
   {
+    "word": "droopy",
+    "say": "DROO-pee",
+    "forms": [
+      "droopier",
+      "droopiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Hanging down.",
+          "examples": [
+            "The flower is droopy.",
+            "The droopy ears of the dog.",
+            "A droopy hat."
+          ]
+        },
+        "more": {
+          "def": "Hanging down or bending over.",
+          "examples": [
+            "The flower was droopy without water.",
+            "The dog's droopy ears flopped.",
+            "A droopy hat shaded his eyes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drop",
     "say": "drop",
     "forms": [
@@ -1376,6 +1782,34 @@
     ]
   },
   {
+    "word": "dropout",
+    "say": "DROP-owt",
+    "forms": [
+      "dropouts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who leaves school or a program before finishing.",
+          "examples": [
+            "The dropout left school.",
+            "He was a dropout.",
+            "A dropout missed class."
+          ]
+        },
+        "more": {
+          "def": "A person who leaves school or a course before it is finished.",
+          "examples": [
+            "The dropout later went back to school and graduated.",
+            "A few students became dropouts from the program.",
+            "Teachers try to help every student so no one becomes a dropout."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drought",
     "say": "drowt",
     "forms": [
@@ -1428,6 +1862,35 @@
             "Lifeguards are trained to rescue swimmers who might drown.",
             "The little mouse nearly drowned when it fell in the rain barrel.",
             "The sailors wore life jackets, so they did not drown when the boat tipped."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drowsy",
+    "say": "DROW-zee",
+    "forms": [
+      "drowsier",
+      "drowsiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sleepy.",
+          "examples": [
+            "I am drowsy.",
+            "The drowsy cat yawned.",
+            "The drowsy child nodded."
+          ]
+        },
+        "more": {
+          "def": "Feeling sleepy and ready to go to sleep.",
+          "examples": [
+            "I felt drowsy after the long walk.",
+            "The drowsy cat curled up on the couch.",
+            "A warm bath made the child drowsy."
           ]
         }
       }
@@ -1545,6 +2008,34 @@
             "The drummer kept the beat while the band played.",
             "My brother is a drummer in the school band.",
             "The drummer struck the cymbals at the end of the song."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drumstick",
+    "say": "DRUM-stik",
+    "forms": [
+      "drumsticks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A stick for playing a drum, or a chicken leg.",
+          "examples": [
+            "The drummer holds a drumstick.",
+            "I ate a drumstick.",
+            "The drumstick is wood."
+          ]
+        },
+        "more": {
+          "def": "A stick used to hit a drum, or the lower part of a cooked chicken or turkey leg.",
+          "examples": [
+            "The drummer twirled his drumstick.",
+            "I ate a chicken drumstick for dinner.",
+            "Her drumstick tapped the drum."
           ]
         }
       }

@@ -132,6 +132,31 @@
     ]
   },
   {
+    "word": "volcanic",
+    "say": "vol-KAN-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with volcanoes.",
+          "examples": [
+            "The island is volcanic.",
+            "We saw volcanic rock.",
+            "Volcanic ash fell."
+          ]
+        },
+        "more": {
+          "def": "Made by or having to do with volcanoes.",
+          "examples": [
+            "The island was formed by volcanic action.",
+            "We found black volcanic rock on the beach.",
+            "Volcanic ash covered the town after the eruption."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "volcano",
     "say": "vol-KAY-noh",
     "emoji": "🌋",
@@ -156,6 +181,63 @@
             "When the volcano erupted, lava flowed down its sides.",
             "The island was formed by a volcano long ago.",
             "Ash from the volcano covered the nearby town."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "volley",
+    "say": "VOL-ee",
+    "forms": [
+      "volleys"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hit of a ball before it touches the ground.",
+          "examples": [
+            "She hit a volley.",
+            "The volley was long.",
+            "The tennis volley was great."
+          ]
+        },
+        "more": {
+          "def": "A hit of a ball before it bounces, or a rapid burst of many things at once.",
+          "examples": [
+            "She hit a volley across the net.",
+            "A volley of questions came at the speaker.",
+            "The players hit a long volley over the net."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "volleyball",
+    "say": "VOL-ee-bawl",
+    "emoji": "🏐",
+    "forms": [
+      "volleyballs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A game where teams hit a ball over a net.",
+          "examples": [
+            "We play volleyball.",
+            "The volleyball went over the net.",
+            "I like volleyball."
+          ]
+        },
+        "more": {
+          "def": "A game in which two teams hit a ball back and forth over a high net with their hands.",
+          "examples": [
+            "We played volleyball on the beach.",
+            "In volleyball, a team gets three hits before the ball goes over.",
+            "She spiked the volleyball over the net."
           ]
         }
       }
@@ -409,6 +491,34 @@
     ]
   },
   {
+    "word": "voucher",
+    "say": "VOW-cher",
+    "forms": [
+      "vouchers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A paper that you can use instead of money.",
+          "examples": [
+            "I got a voucher for free pizza.",
+            "Use this voucher at the shop.",
+            "The voucher is for one ice cream."
+          ]
+        },
+        "more": {
+          "def": "A printed paper that can be used in place of money to pay for something.",
+          "examples": [
+            "Our class got a voucher for a free book at the fair.",
+            "The restaurant gave us a voucher for a free dessert.",
+            "She traded her voucher for a ticket to the show."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vow",
     "say": "vow",
     "forms": [
@@ -452,6 +562,34 @@
             "She vowed to keep the secret.",
             "He vowed to try harder next time.",
             "The knight vowed to protect the village."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vowel",
+    "say": "VOW-ul",
+    "forms": [
+      "vowels"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The letters a, e, i, o and u.",
+          "examples": [
+            "\"A\" is a vowel.",
+            "Every word has a vowel.",
+            "The vowel is the letter \"e.\""
+          ]
+        },
+        "more": {
+          "def": "A letter such as a, e, i, o or u that stands for an open speech sound.",
+          "examples": [
+            "The letters a, e, i, o and u are vowels.",
+            "The word \"cat\" has the vowel \"a.\"",
+            "We circled every vowel in the sentence."
           ]
         }
       }

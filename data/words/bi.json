@@ -29,6 +29,59 @@
     ]
   },
   {
+    "word": "biased",
+    "say": "BY-ust",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not fair to everyone.",
+          "examples": [
+            "The referee was biased.",
+            "I saw a biased story.",
+            "The judge was not biased."
+          ]
+        },
+        "more": {
+          "def": "Favoring one side unfairly.",
+          "examples": [
+            "The referee was biased and favored one team.",
+            "A biased story only told one side.",
+            "The judges said they would not be biased."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bib",
+    "say": "bib",
+    "forms": [
+      "bibs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cloth tied under a baby's chin to keep food off clothes.",
+          "examples": [
+            "The baby wears a bib.",
+            "The bib is wet.",
+            "Put on your bib."
+          ]
+        },
+        "more": {
+          "def": "A cloth or piece of plastic tied under a chin to keep clothes clean while eating.",
+          "examples": [
+            "The baby wore a bib to catch the spills.",
+            "A bib kept his shirt clean.",
+            "She wiped the bib after lunch."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "Bible",
     "say": "BY-bul",
     "emoji": "📖",
@@ -77,6 +130,61 @@
             "The story of Noah and the ark is a biblical tale.",
             "David is a biblical name.",
             "The painting showed a biblical scene."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "biceps",
+    "say": "BY-seps",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The big muscle at the front of your upper arm.",
+          "examples": [
+            "He flexed his biceps.",
+            "The biceps is a muscle.",
+            "Her biceps are strong."
+          ]
+        },
+        "more": {
+          "def": "A large muscle on the front of the upper arm that bends the elbow.",
+          "examples": [
+            "He flexed his biceps to show how strong he was.",
+            "Lifting weights makes the biceps bigger.",
+            "The biceps helps you bend your arm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bicker",
+    "say": "BIK-er",
+    "forms": [
+      "bickers",
+      "bickered",
+      "bickering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To argue about small things.",
+          "examples": [
+            "The kids bicker.",
+            "They bickered over the toy.",
+            "Do not bicker."
+          ]
+        },
+        "more": {
+          "def": "To argue in a petty way about small things.",
+          "examples": [
+            "The sisters bickered over who sat by the window.",
+            "They bickered about whose turn it was.",
+            "Do not bicker about little things."
           ]
         }
       }
@@ -370,6 +478,31 @@
     ]
   },
   {
+    "word": "billiards",
+    "say": "BIL-yerdz",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A game played on a table with a stick and balls.",
+          "examples": [
+            "They play billiards.",
+            "Billiards uses balls.",
+            "Billiards is a game."
+          ]
+        },
+        "more": {
+          "def": "A game played on a table with balls that you hit with a long stick.",
+          "examples": [
+            "Dad plays billiards with his friends.",
+            "A billiards table has a green top.",
+            "Billiards is played with a long stick called a cue."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "billion",
     "say": "BIL-yun",
     "forms": [
@@ -484,6 +617,34 @@
     ]
   },
   {
+    "word": "binder",
+    "say": "BYN-der",
+    "forms": [
+      "binders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cover with rings that holds papers.",
+          "examples": [
+            "I put the paper in my binder.",
+            "My binder is blue.",
+            "Open your binder."
+          ]
+        },
+        "more": {
+          "def": "A cover with rings or clips that holds papers together.",
+          "examples": [
+            "I put the worksheet in my binder.",
+            "My blue binder is full of notes.",
+            "The teacher asked us to open our binders."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "binding",
     "say": "BYN-ding",
     "forms": [
@@ -531,6 +692,34 @@
             "I used binoculars to watch the birds in the tree.",
             "The sailor looked through the binoculars at the distant ship.",
             "The binoculars made the faraway mountain look close."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "biographer",
+    "say": "by-OG-ruh-fer",
+    "forms": [
+      "biographers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who writes about someone's life.",
+          "examples": [
+            "The biographer wrote a book.",
+            "A biographer tells a life story.",
+            "The biographer wrote about the president."
+          ]
+        },
+        "more": {
+          "def": "A writer who writes the story of another person's life.",
+          "examples": [
+            "The biographer wrote a book about the famous scientist.",
+            "A biographer spent years studying her subject.",
+            "The biographer interviewed the family."
           ]
         }
       }
@@ -590,6 +779,35 @@
     ]
   },
   {
+    "word": "biologist",
+    "say": "by-OL-uh-jist",
+    "emoji": "🔬",
+    "forms": [
+      "biologists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A scientist who studies plants and animals.",
+          "examples": [
+            "A biologist studies plants.",
+            "The biologist looked at a frog.",
+            "My aunt is a biologist."
+          ]
+        },
+        "more": {
+          "def": "A scientist who studies living things such as plants, animals and tiny cells.",
+          "examples": [
+            "The biologist counted the fish in the pond.",
+            "A biologist looked at pond water under a microscope.",
+            "The biologist studied how bees find flowers."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "biology",
     "say": "by-OL-uh-jee",
     "senses": [
@@ -638,6 +856,34 @@
             "A bird built a nest in the tree.",
             "Penguins are birds that cannot fly.",
             "Owls are birds that hunt at night."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "birdcage",
+    "say": "BERD-kayj",
+    "forms": [
+      "birdcages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cage for pet birds.",
+          "examples": [
+            "The bird is in the birdcage.",
+            "A birdcage has bars.",
+            "The birdcage is big."
+          ]
+        },
+        "more": {
+          "def": "A cage with bars where a pet bird is kept.",
+          "examples": [
+            "The parrot sat in its birdcage.",
+            "A birdcage hung by the window.",
+            "She cleaned the birdcage every week."
           ]
         }
       }
@@ -755,6 +1001,31 @@
     ]
   },
   {
+    "word": "birthing",
+    "say": "BER-thing",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Giving birth.",
+          "examples": [
+            "The birthing of a calf.",
+            "Birthing takes time.",
+            "Birthing is hard."
+          ]
+        },
+        "more": {
+          "def": "The act of giving birth to a baby or young animal.",
+          "examples": [
+            "The farmer watched the birthing of a calf.",
+            "The nurse helped with the birthing.",
+            "The zoo planned the birthing of the baby panda."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "birthmark",
     "say": "BERTH-mark",
     "forms": [
@@ -777,6 +1048,34 @@
             "She has a small birthmark on her arm shaped like a heart.",
             "A birthmark is something that you are born with.",
             "He has a birthmark on his cheek."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "birthplace",
+    "say": "BERTH-playss",
+    "forms": [
+      "birthplaces"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The place where someone was born.",
+          "examples": [
+            "His birthplace is Texas.",
+            "The birthplace is small.",
+            "I visited my birthplace."
+          ]
+        },
+        "more": {
+          "def": "The town or place where a person was born.",
+          "examples": [
+            "His birthplace is a small town in Texas.",
+            "We visited the president's birthplace.",
+            "The birthplace of the song is a village."
           ]
         }
       }
@@ -982,6 +1281,31 @@
     ]
   },
   {
+    "word": "bitsy",
+    "say": "BIT-see",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very small.",
+          "examples": [
+            "I saw a bitsy bug.",
+            "I saw the bitsy puppy.",
+            "A bitsy bug crawled by."
+          ]
+        },
+        "more": {
+          "def": "Very small.",
+          "examples": [
+            "A bitsy bug crawled on the leaf.",
+            "The bitsy puppy fit in my hand.",
+            "She wore bitsy earrings."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bitter",
     "say": "BIT-er",
     "forms": [
@@ -1023,6 +1347,31 @@
             "A bitter wind blew across the lake.",
             "It was a bitter winter night.",
             "We wore thick coats against the bitter cold."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bitterness",
+    "say": "BIT-er-ness",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sharp taste that is not sweet.",
+          "examples": [
+            "I did not like the bitterness of the lemon peel.",
+            "Dark chocolate has a little bitterness.",
+            "The coffee had a bitterness."
+          ]
+        },
+        "more": {
+          "def": "A sharp taste that is not sweet, or a lasting feeling of anger about something unfair.",
+          "examples": [
+            "The bitterness of the strong tea made me frown.",
+            "She spoke of the old fight with bitterness.",
+            "Bitterness in his heart faded when they made up."
           ]
         }
       }

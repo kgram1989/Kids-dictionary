@@ -47,6 +47,56 @@
     ]
   },
   {
+    "word": "imagery",
+    "say": "IM-ij-ree",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words that make pictures in your mind.",
+          "examples": [
+            "The poem has lovely imagery.",
+            "I like the imagery in that story.",
+            "The imagery made me see the sea."
+          ]
+        },
+        "more": {
+          "def": "Descriptive language or pictures that help the reader see, hear or feel what is being described.",
+          "examples": [
+            "The poet used imagery of golden leaves to describe autumn.",
+            "Her story is full of imagery about the quiet forest.",
+            "Strong imagery in a book helps readers picture the scene."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "imaginable",
+    "say": "ih-MAJ-ih-nuh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Possible to think of.",
+          "examples": [
+            "Every color imaginable was there.",
+            "It was the best day imaginable.",
+            "They had every toy imaginable."
+          ]
+        },
+        "more": {
+          "def": "Able to be thought of or pictured in your mind.",
+          "examples": [
+            "The store sold every color imaginable.",
+            "It was the happiest day imaginable.",
+            "They tried every game imaginable at the party."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "imaginary",
     "say": "ih-MAJ-ih-nair-ee",
     "senses": [
@@ -100,6 +150,37 @@
     ]
   },
   {
+    "word": "imaginative",
+    "say": "ih-MAJ-ih-nuh-tiv",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Good at thinking up new ideas.",
+          "examples": [
+            "She is an imaginative girl.",
+            "His story is imaginative.",
+            "An imaginative child made a fort."
+          ]
+        },
+        "more": {
+          "def": "Good at thinking up new and creative ideas.",
+          "examples": [
+            "The imaginative girl turned a box into a spaceship.",
+            "His imaginative story had talking trees.",
+            "An imaginative artist painted a purple sky."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unimaginative",
+        "def": "Not imaginative."
+      }
+    ]
+  },
+  {
     "word": "imagine",
     "say": "ih-MAJ-in",
     "emoji": "💭",
@@ -125,6 +206,59 @@
             "Try to imagine what our town looked like one hundred years ago.",
             "Imagine how cold it must be at the North Pole.",
             "I cannot imagine life without music."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "imaging",
+    "say": "IM-ij-ing",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Making pictures of things inside the body or far away.",
+          "examples": [
+            "The doctor used imaging.",
+            "Imaging shows a bone.",
+            "Space imaging shows planets."
+          ]
+        },
+        "more": {
+          "def": "The process of making pictures of things, such as with a scan or telescope.",
+          "examples": [
+            "Doctors use imaging to see inside the body.",
+            "Space imaging gave us clear photos of Jupiter.",
+            "Scientists use imaging to make maps of the ocean floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "imbalance",
+    "say": "im-BAL-unss",
+    "forms": [
+      "imbalances"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When things are not equal.",
+          "examples": [
+            "There is an imbalance on the scale.",
+            "The seesaw has an imbalance.",
+            "An imbalance made the table wobble."
+          ]
+        },
+        "more": {
+          "def": "A lack of balance, or a difference in amount between two things.",
+          "examples": [
+            "An imbalance in weight made the boat tip.",
+            "There was an imbalance in the number of boys and girls.",
+            "The scale showed an imbalance between the two sides."
           ]
         }
       }
@@ -189,6 +323,31 @@
             "The toy is an imitation of a real car.",
             "This necklace is an imitation of a real gem.",
             "She did a funny imitation of a cat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "immaculate",
+    "say": "ih-MAK-yuh-lit",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Perfectly clean.",
+          "examples": [
+            "The room is immaculate.",
+            "An immaculate kitchen.",
+            "Her shirt is immaculate."
+          ]
+        },
+        "more": {
+          "def": "Perfectly clean and neat.",
+          "examples": [
+            "The kitchen was immaculate after we cleaned.",
+            "He wore an immaculate white shirt.",
+            "Her room is always immaculate."
           ]
         }
       }
@@ -323,6 +482,36 @@
     ]
   },
   {
+    "word": "immerse",
+    "say": "ih-MERSS",
+    "forms": [
+      "immerses",
+      "immersed",
+      "immersing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put something fully into water.",
+          "examples": [
+            "Immerse the cloth in water.",
+            "She immersed her feet in the pool.",
+            "He immersed the cup."
+          ]
+        },
+        "more": {
+          "def": "To put something completely under a liquid, or to be deeply involved in something.",
+          "examples": [
+            "Immerse the eggs in boiling water.",
+            "She immersed herself in a good book.",
+            "He immersed his hands in the warm soapy water."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "immigrant",
     "say": "IM-ih-grunt",
     "forms": [
@@ -351,6 +540,31 @@
     ]
   },
   {
+    "word": "immobile",
+    "say": "ih-MOH-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not moving.",
+          "examples": [
+            "The cat was immobile.",
+            "An immobile statue.",
+            "He stood immobile."
+          ]
+        },
+        "more": {
+          "def": "Not moving or not able to be moved.",
+          "examples": [
+            "The cat sat immobile, watching the bird.",
+            "The immobile statue stood in the square.",
+            "The deer stood immobile in the headlights."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "immortal",
     "say": "ih-MOR-tul",
     "senses": [
@@ -370,6 +584,36 @@
             "The gods in the story were immortal.",
             "The hero's fame seemed immortal.",
             "No person is immortal."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "immortalize",
+    "say": "ih-MOR-tuh-lyze",
+    "forms": [
+      "immortalizes",
+      "immortalized",
+      "immortalizing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make last forever in memory.",
+          "examples": [
+            "The painting will immortalize her.",
+            "The statue immortalizes him.",
+            "The song immortalized the hero."
+          ]
+        },
+        "more": {
+          "def": "To make a person or thing remembered forever.",
+          "examples": [
+            "The painting immortalized the queen.",
+            "A statue immortalized the hero.",
+            "The song immortalized the old town."
           ]
         }
       }
@@ -404,6 +648,31 @@
     ]
   },
   {
+    "word": "impatience",
+    "say": "im-PAY-shunss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Not wanting to wait.",
+          "examples": [
+            "His impatience showed.",
+            "She tapped her foot in impatience.",
+            "Impatience made him rush."
+          ]
+        },
+        "more": {
+          "def": "A feeling of being unable to wait or put up with delay.",
+          "examples": [
+            "His impatience grew as the bus kept being late.",
+            "His impatience showed as he kept checking the clock.",
+            "The long line tested everyone's impatience."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "impatient",
     "say": "im-PAY-shunt",
     "forms": [
@@ -426,6 +695,84 @@
             "The child was impatient and tapped his foot.",
             "I am impatient to open my gift.",
             "She grew impatient waiting in the long line."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "imperfect",
+    "say": "im-PER-fikt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not perfect.",
+          "examples": [
+            "The cup is imperfect.",
+            "I saw an imperfect circle.",
+            "My drawing is imperfect."
+          ]
+        },
+        "more": {
+          "def": "Having a fault or mistake, and not perfect.",
+          "examples": [
+            "The cup has a crack, so it is imperfect.",
+            "I drew an imperfect circle, but it was fine.",
+            "No one is perfect; we are all imperfect."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "imperfection",
+    "say": "im-per-FEK-shun",
+    "forms": [
+      "imperfections"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small fault.",
+          "examples": [
+            "There is an imperfection.",
+            "The vase has an imperfection.",
+            "I found an imperfection."
+          ]
+        },
+        "more": {
+          "def": "A small fault or flaw that makes something not perfect.",
+          "examples": [
+            "There was a tiny imperfection in the glass.",
+            "The vase had an imperfection that made it special.",
+            "I found an imperfection in my drawing."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "impersonal",
+    "say": "im-PER-suh-nul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not friendly or personal.",
+          "examples": [
+            "The letter was impersonal.",
+            "An impersonal note.",
+            "The big room felt impersonal."
+          ]
+        },
+        "more": {
+          "def": "Not showing personal feeling or friendliness.",
+          "examples": [
+            "The letter was cold and impersonal.",
+            "The big office felt impersonal.",
+            "An impersonal machine answered the phone."
           ]
         }
       }
@@ -462,6 +809,62 @@
     ]
   },
   {
+    "word": "impersonation",
+    "say": "im-per-suh-NAY-shun",
+    "forms": [
+      "impersonations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Copying how someone talks and acts.",
+          "examples": [
+            "He did an impersonation.",
+            "The impersonation was funny.",
+            "She did a bird impersonation."
+          ]
+        },
+        "more": {
+          "def": "The act of copying the voice and actions of another person or animal.",
+          "examples": [
+            "He did a funny impersonation of the teacher.",
+            "Her bird impersonation fooled the dog.",
+            "The class loved his impersonation of a monkey."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "impersonator",
+    "say": "im-PER-suh-nay-ter",
+    "forms": [
+      "impersonators"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who copies how someone talks and acts.",
+          "examples": [
+            "The impersonator was funny.",
+            "An impersonator did a show.",
+            "She is an impersonator."
+          ]
+        },
+        "more": {
+          "def": "A performer who copies the voice and actions of another person to be funny.",
+          "examples": [
+            "The impersonator did a funny show copying a singer.",
+            "She is a good impersonator of animal sounds.",
+            "An impersonator made the crowd laugh."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "imply",
     "say": "im-PLY",
     "forms": [
@@ -486,6 +889,31 @@
             "Dark clouds imply that rain is on the way.",
             "His silence implied that he was angry.",
             "The sign implies that the road is closed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "impolite",
+    "say": "im-puh-LYTE",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not polite.",
+          "examples": [
+            "It is impolite to shout.",
+            "The impolite boy pushed.",
+            "That was an impolite thing to say."
+          ]
+        },
+        "more": {
+          "def": "Not showing good manners or respect for others.",
+          "examples": [
+            "It is impolite to talk with your mouth full.",
+            "The impolite visitor did not say thank you.",
+            "She felt it was impolite to interrupt."
           ]
         }
       }
@@ -616,6 +1044,34 @@
     ]
   },
   {
+    "word": "impossibility",
+    "say": "im-pos-ih-BIL-ih-tee",
+    "forms": [
+      "impossibilities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that cannot happen.",
+          "examples": [
+            "It is an impossibility.",
+            "Flying alone is an impossibility.",
+            "The task was an impossibility."
+          ]
+        },
+        "more": {
+          "def": "Something that cannot be done or cannot happen.",
+          "examples": [
+            "Counting every grain of sand is an impossibility.",
+            "It was an impossibility to finish by noon.",
+            "The impossibility of the plan was clear."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "impossible",
     "say": "im-POSS-uh-bul",
     "senses": [
@@ -729,6 +1185,31 @@
     ]
   },
   {
+    "word": "impressionable",
+    "say": "im-PRESH-uh-nuh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Easily influenced by others.",
+          "examples": [
+            "Young children are impressionable.",
+            "An impressionable child copies.",
+            "Be careful with impressionable kids."
+          ]
+        },
+        "more": {
+          "def": "Easy to influence, especially because of being young.",
+          "examples": [
+            "Young children are impressionable and copy what they see.",
+            "The impressionable boy copied his big brother.",
+            "Teachers know that impressionable students watch them."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "impressive",
     "say": "im-PRES-iv",
     "forms": [
@@ -836,6 +1317,31 @@
             "In the fairy tale, the wicked king imprisoned the princess in a tall tower.",
             "The judge ordered that the thief be imprisoned.",
             "The cage imprisoned the bird until we set it free."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "improper",
+    "say": "im-PROP-er",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not right or not suitable.",
+          "examples": [
+            "That is improper.",
+            "Using the wrong tool is improper.",
+            "It was improper to shout."
+          ]
+        },
+        "more": {
+          "def": "Not correct or not suitable for the time or place.",
+          "examples": [
+            "It is improper to talk during the show.",
+            "He used the improper tool, so the screw bent.",
+            "An improper answer was written on the test."
           ]
         }
       }
@@ -978,6 +1484,34 @@
             "She was impulsive and jumped in the pool without testing the water.",
             "It was an impulsive choice to buy the bright red hat.",
             "An impulsive child might grab a toy without asking."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "impurity",
+    "say": "im-PYUR-ih-tee",
+    "forms": [
+      "impurities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that makes a thing not clean.",
+          "examples": [
+            "There was an impurity in the water.",
+            "The impurity spoiled it.",
+            "Filters remove impurities."
+          ]
+        },
+        "more": {
+          "def": "Something in a substance that makes it dirty or not pure.",
+          "examples": [
+            "A tiny impurity in the metal made it weak.",
+            "The filter removes impurities.",
+            "A tiny impurity ruined the clear glass."
           ]
         }
       }

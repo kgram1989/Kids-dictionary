@@ -181,6 +181,59 @@
     ]
   },
   {
+    "word": "outage",
+    "say": "OWT-ij",
+    "forms": [
+      "outages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A time when power or water stops.",
+          "examples": [
+            "A power outage happened.",
+            "The outage was long.",
+            "There was an outage."
+          ]
+        },
+        "more": {
+          "def": "A period when power or another service stops working.",
+          "examples": [
+            "A power outage left the town in the dark.",
+            "The outage lasted three hours.",
+            "We lit candles during the outage."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "outback",
+    "say": "OWT-bak",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The dry, empty land in the middle of Australia.",
+          "examples": [
+            "He lives in the outback.",
+            "The outback is dry.",
+            "Kangaroos live in the outback."
+          ]
+        },
+        "more": {
+          "def": "The wide, dry, empty land in the middle of Australia.",
+          "examples": [
+            "Kangaroos live in the Australian outback.",
+            "The outback is hot and dry.",
+            "A farmer lives far out in the outback."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "outbreak",
     "say": "OWT-brayk",
     "forms": [
@@ -287,6 +340,31 @@
             "The outcome of the game was a tie.",
             "We waited to hear the outcome of the vote.",
             "The outcome of the experiment surprised the scientists."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "outdated",
+    "say": "owt-DAY-tid",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Old and not used anymore.",
+          "examples": [
+            "The map is outdated.",
+            "An outdated phone.",
+            "The outdated rule was dropped."
+          ]
+        },
+        "more": {
+          "def": "No longer in use because newer ones are better.",
+          "examples": [
+            "The outdated map did not show the new road.",
+            "His outdated phone could not run the new game.",
+            "The outdated textbook still said Pluto was a planet."
           ]
         }
       }
@@ -459,6 +537,95 @@
     ]
   },
   {
+    "word": "outgrow",
+    "say": "owt-GROH",
+    "forms": [
+      "outgrows",
+      "outgrew",
+      "outgrown",
+      "outgrowing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get too big for something.",
+          "examples": [
+            "I outgrow my shoes fast.",
+            "He outgrew his coat.",
+            "She will outgrow the bed."
+          ]
+        },
+        "more": {
+          "def": "To grow too big for something, or to stop liking something as you get older.",
+          "examples": [
+            "Babies outgrow their clothes quickly.",
+            "She outgrew her old bike last year.",
+            "He outgrew his fear of the dark."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "outing",
+    "say": "OWT-ing",
+    "forms": [
+      "outings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short trip for fun.",
+          "examples": [
+            "We went on an outing.",
+            "The outing was fun.",
+            "Our class had an outing."
+          ]
+        },
+        "more": {
+          "def": "A short trip taken for fun or pleasure.",
+          "examples": [
+            "Our class went on an outing to the zoo.",
+            "We packed lunch for the family outing.",
+            "The outing to the park was a lot of fun."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "outlast",
+    "say": "owt-LAST",
+    "forms": [
+      "outlasts",
+      "outlasted",
+      "outlasting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To last longer than.",
+          "examples": [
+            "The battery will outlast the toy.",
+            "The old chair outlasted the new.",
+            "Stone outlasts wood."
+          ]
+        },
+        "more": {
+          "def": "To last longer than something else.",
+          "examples": [
+            "The old chair will outlast the new one.",
+            "Stone houses outlast wooden ones.",
+            "The runner outlasted everyone in the race."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "outlet",
     "say": "OWT-let",
     "forms": [
@@ -610,6 +777,64 @@
     ]
   },
   {
+    "word": "outnumber",
+    "say": "owt-NUM-ber",
+    "forms": [
+      "outnumbers",
+      "outnumbered",
+      "outnumbering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be more than something else.",
+          "examples": [
+            "Girls outnumber boys here.",
+            "The ants outnumbered us.",
+            "Stars outnumber planets."
+          ]
+        },
+        "more": {
+          "def": "To be greater in number than another group.",
+          "examples": [
+            "Girls outnumber boys in our class.",
+            "The ants outnumbered the crumbs.",
+            "Stars far outnumber the planets we see."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "output",
+    "say": "OWT-puut",
+    "forms": [
+      "outputs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The amount that something makes.",
+          "examples": [
+            "The factory has a big output.",
+            "The farm's output was corn.",
+            "The machine's output went up."
+          ]
+        },
+        "more": {
+          "def": "The amount of something that a person, machine or place makes.",
+          "examples": [
+            "The factory's output doubled in a year.",
+            "The farm's output of milk was highest in spring.",
+            "A computer shows its output on the screen."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "outrage",
     "say": "OWT-rayj",
     "forms": [
@@ -659,6 +884,31 @@
     ]
   },
   {
+    "word": "outraged",
+    "say": "owt-RAYJD",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very, very angry because something is not fair.",
+          "examples": [
+            "He was outraged by the rule.",
+            "The crowd was outraged.",
+            "She felt outraged."
+          ]
+        },
+        "more": {
+          "def": "Extremely angry because something seems wrong or unfair.",
+          "examples": [
+            "The fans were outraged by the unfair call.",
+            "She was outraged when someone broke her project.",
+            "The neighbors were outraged by the loud noise at night."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "outrageous",
     "say": "owt-RAY-jus",
     "forms": [
@@ -681,6 +931,36 @@
             "The price of the toy was outrageous.",
             "He wore an outrageous hat with feathers.",
             "That is an outrageous story."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "outrank",
+    "say": "owt-RANK",
+    "forms": [
+      "outranks",
+      "outranked",
+      "outranking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be higher than someone else.",
+          "examples": [
+            "A captain outranks a sergeant.",
+            "The general outranked him.",
+            "She outranks him."
+          ]
+        },
+        "more": {
+          "def": "To have a higher rank or position than someone else.",
+          "examples": [
+            "A captain outranks a lieutenant.",
+            "The queen outranks all the other nobles.",
+            "He outranked everyone in the club."
           ]
         }
       }
@@ -808,6 +1088,31 @@
     ]
   },
   {
+    "word": "outskirts",
+    "say": "OWT-skerts",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The edges of a town.",
+          "examples": [
+            "We live on the outskirts.",
+            "The outskirts are quiet.",
+            "A farm on the outskirts of town."
+          ]
+        },
+        "more": {
+          "def": "The outer parts of a town or city.",
+          "examples": [
+            "We live on the outskirts of the city.",
+            "A small farm was on the outskirts of town.",
+            "The outskirts are quieter than downtown."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "outsmart",
     "say": "owt-SMART",
     "forms": [
@@ -882,6 +1187,66 @@
             "She ran to him with outstretched arms.",
             "The bird glided with outstretched wings.",
             "He waited with an outstretched hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "outweigh",
+    "say": "owt-WAY",
+    "forms": [
+      "outweighs",
+      "outweighed",
+      "outweighing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be heavier or more important than.",
+          "examples": [
+            "The elephant outweighs the horse.",
+            "The good outweighs the bad.",
+            "A truck outweighs a car."
+          ]
+        },
+        "more": {
+          "def": "To weigh more than something, or to be more important than something.",
+          "examples": [
+            "An elephant outweighs a horse.",
+            "The good things outweighed the bad.",
+            "The benefits outweigh the cost."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "outwit",
+    "say": "owt-WIT",
+    "forms": [
+      "outwits",
+      "outwitted",
+      "outwitting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To trick someone by being smarter.",
+          "examples": [
+            "The fox will outwit the dog.",
+            "She outwitted the cat.",
+            "He outwitted his friend."
+          ]
+        },
+        "more": {
+          "def": "To defeat someone by being cleverer or sneakier.",
+          "examples": [
+            "The clever fox outwitted the hounds.",
+            "She outwitted her brother at chess.",
+            "The mouse outwitted the cat."
           ]
         }
       }

@@ -179,6 +179,35 @@
     ]
   },
   {
+    "word": "leafy",
+    "say": "LEE-fee",
+    "forms": [
+      "leafier",
+      "leafiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Full of leaves.",
+          "examples": [
+            "A leafy tree.",
+            "The leafy garden.",
+            "The leafy path."
+          ]
+        },
+        "more": {
+          "def": "Covered with leaves or having many leaves.",
+          "examples": [
+            "We rested in the shade of a leafy tree.",
+            "The leafy path was cool.",
+            "Spinach is a leafy green vegetable."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "league",
     "say": "leeg",
     "forms": [
@@ -251,6 +280,63 @@
             "A leak in the water pipe soaked the floor.",
             "The plumber fixed the leak under the sink.",
             "A leak in the tire let the air out."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "leakage",
+    "say": "LEE-kij",
+    "forms": [
+      "leakages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Water or air that gets out of a hole.",
+          "examples": [
+            "There was leakage in the pipe.",
+            "The leakage dripped.",
+            "The leakage made a puddle."
+          ]
+        },
+        "more": {
+          "def": "The escape of liquid or gas through a hole or crack.",
+          "examples": [
+            "There was leakage under the sink.",
+            "The leakage from the pipe made a puddle.",
+            "Workers fixed the leakage in the roof."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "leaky",
+    "say": "LEE-kee",
+    "forms": [
+      "leakier",
+      "leakiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "With a hole that lets water out.",
+          "examples": [
+            "The boat is leaky.",
+            "A leaky pipe dripped.",
+            "My boot is leaky."
+          ]
+        },
+        "more": {
+          "def": "Having a hole or crack that lets liquid or air escape.",
+          "examples": [
+            "The leaky bucket lost all its water.",
+            "A leaky pipe dripped under the sink.",
+            "Dad patched the leaky roof before the rain."
           ]
         }
       }
@@ -369,6 +455,34 @@
             "Children learn to read by sounding out letters and words.",
             "He learned how to play the piano by practicing every day.",
             "Scientists are always learning new things about space."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "learner",
+    "say": "LER-ner",
+    "forms": [
+      "learners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is learning.",
+          "examples": [
+            "She is a quick learner.",
+            "The learner asked a question.",
+            "Every learner got a book."
+          ]
+        },
+        "more": {
+          "def": "A person who is learning something new.",
+          "examples": [
+            "She is a quick learner who loves new skills.",
+            "Each learner in the class got a pencil.",
+            "The learners practiced their new words."
           ]
         }
       }
@@ -532,6 +646,34 @@
     ]
   },
   {
+    "word": "lecturer",
+    "say": "LEK-cher-er",
+    "forms": [
+      "lecturers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who gives a talk to teach a group.",
+          "examples": [
+            "The lecturer spoke.",
+            "A lecturer came to our school.",
+            "The lecturer used slides."
+          ]
+        },
+        "more": {
+          "def": "A person who gives a talk to a group to teach them about a subject.",
+          "examples": [
+            "The lecturer spoke about the stars.",
+            "A famous lecturer came to our school.",
+            "The lecturer used pictures to explain her ideas."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ledge",
     "say": "lej",
     "forms": [
@@ -588,6 +730,34 @@
     ]
   },
   {
+    "word": "leek",
+    "say": "leek",
+    "forms": [
+      "leeks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long vegetable like a big green onion.",
+          "examples": [
+            "The soup has a leek.",
+            "A leek is long.",
+            "Mom chopped a leek."
+          ]
+        },
+        "more": {
+          "def": "A long vegetable with a white bottom and green leaves, used in soups and stews.",
+          "examples": [
+            "Mom chopped a leek for the soup.",
+            "The leek looks like a very large green onion.",
+            "The farmer pulled leeks out of the soil."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "left",
     "say": "left",
     "senses": [
@@ -607,6 +777,53 @@
             "Most people hold a fork in their left hand.",
             "The bakery is on the left side of the street.",
             "She tied her left shoe, then her right one."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "leftover",
+    "say": "LEFT-oh-ver",
+    "forms": [
+      "leftovers"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not used up.",
+          "examples": [
+            "We ate leftover pizza.",
+            "The leftover soup is cold.",
+            "I found a leftover cookie."
+          ]
+        },
+        "more": {
+          "def": "Remaining after the rest has been used or eaten.",
+          "examples": [
+            "We ate leftover pizza for lunch.",
+            "The leftover paint was stored in the garage.",
+            "She fed the leftover bread to the ducks."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Food that was not eaten.",
+          "examples": [
+            "We had leftovers for lunch.",
+            "The leftovers are in the fridge.",
+            "Mom heated the leftovers."
+          ]
+        },
+        "more": {
+          "def": "Food that remains after a meal and is saved to eat later.",
+          "examples": [
+            "We had leftovers from last night's dinner.",
+            "The leftovers are in a box in the fridge.",
+            "Dad warmed up the leftovers for lunch."
           ]
         }
       }
@@ -846,6 +1063,31 @@
     ]
   },
   {
+    "word": "legislation",
+    "say": "lej-ihs-LAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Laws made by a government.",
+          "examples": [
+            "The legislation was passed.",
+            "They voted on legislation.",
+            "New legislation is coming."
+          ]
+        },
+        "more": {
+          "def": "A law or set of laws made by a group of lawmakers.",
+          "examples": [
+            "The new legislation protects wild animals.",
+            "Lawmakers voted on the legislation.",
+            "Legislation about bike helmets was passed last year."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "legislature",
     "say": "LEJ-iss-lay-cher",
     "forms": [
@@ -893,6 +1135,31 @@
             "Reading is my favorite way to spend my leisure.",
             "We walked through the museum at our leisure, looking at whatever we liked.",
             "The new park gives families a place for leisure on weekends."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "leisurely",
+    "say": "LEE-zher-lee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Slow and relaxed.",
+          "examples": [
+            "We took a leisurely walk.",
+            "A leisurely day.",
+            "The leisurely pace was fun."
+          ]
+        },
+        "more": {
+          "def": "Done in a slow, relaxed way, without hurrying.",
+          "examples": [
+            "We took a leisurely walk by the lake.",
+            "They enjoyed a leisurely breakfast on Sunday.",
+            "The leisurely pace gave us time to look at flowers."
           ]
         }
       }
@@ -1019,6 +1286,65 @@
     ]
   },
   {
+    "word": "lengthen",
+    "say": "LENGK-thun",
+    "forms": [
+      "lengthens",
+      "lengthened",
+      "lengthening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make longer.",
+          "examples": [
+            "Lengthen the rope.",
+            "The days lengthen in spring.",
+            "She lengthened the skirt."
+          ]
+        },
+        "more": {
+          "def": "To make or become longer.",
+          "examples": [
+            "Shadows lengthen as the sun goes down.",
+            "She lengthened the skirt with a ribbon.",
+            "The workers lengthened the runway."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lengthy",
+    "say": "LENGK-thee",
+    "forms": [
+      "lengthier",
+      "lengthiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very long.",
+          "examples": [
+            "The speech was lengthy.",
+            "A lengthy trip.",
+            "The movie was lengthy."
+          ]
+        },
+        "more": {
+          "def": "Taking a long time or very long in size.",
+          "examples": [
+            "The speech was long and lengthy.",
+            "We took a lengthy trip to the coast.",
+            "A lengthy line formed at the door."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lens",
     "say": "lenz",
     "forms": [
@@ -1098,6 +1424,36 @@
             "In the Irish tale, a leprechaun hid his pot of gold at the end of the rainbow.",
             "The leprechaun wore a green coat and a tall hat.",
             "On St. Patrick's Day, we cut out paper leprechauns and hung them on the wall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lessen",
+    "say": "LES-un",
+    "forms": [
+      "lessens",
+      "lessened",
+      "lessening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make smaller.",
+          "examples": [
+            "The rain will lessen.",
+            "Medicine will lessen the pain.",
+            "The noise lessened."
+          ]
+        },
+        "more": {
+          "def": "To make or become smaller or less.",
+          "examples": [
+            "The rain began to lessen by noon.",
+            "Medicine can lessen the pain of a headache.",
+            "The noise lessened as the band walked away."
           ]
         }
       }
@@ -1272,6 +1628,31 @@
             "There are twenty-six letters in the alphabet.",
             "Her name starts with the letter M.",
             "He learned to write each letter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lettering",
+    "say": "LET-er-ing",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Letters drawn or painted by hand.",
+          "examples": [
+            "The lettering is pretty.",
+            "Her lettering is neat.",
+            "The sign has gold lettering."
+          ]
+        },
+        "more": {
+          "def": "Letters that are drawn, painted or printed, especially in a decorative way.",
+          "examples": [
+            "The sign had gold lettering.",
+            "Her neat lettering made the poster easy to read.",
+            "He practiced his lettering with a brush."
           ]
         }
       }

@@ -187,6 +187,36 @@
     ]
   },
   {
+    "word": "madden",
+    "say": "MAD-un",
+    "forms": [
+      "maddens",
+      "maddened",
+      "maddening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make very angry.",
+          "examples": [
+            "Noise can madden him.",
+            "The long wait maddened her.",
+            "It will madden me."
+          ]
+        },
+        "more": {
+          "def": "To make someone very angry or annoyed.",
+          "examples": [
+            "The constant noise began to madden the neighbors.",
+            "The long wait at the store maddened her.",
+            "It maddens me when people are late."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "madness",
     "say": "MAD-niss",
     "senses": [
@@ -234,6 +264,59 @@
             "Mom reads a cooking magazine.",
             "The magazine has a story about owls.",
             "A new issue of my magazine came in the mail."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mage",
+    "say": "mayj",
+    "forms": [
+      "mages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wizard in stories.",
+          "examples": [
+            "The mage cast a spell.",
+            "A mage lives in a tower.",
+            "The mage has a staff."
+          ]
+        },
+        "more": {
+          "def": "A person in stories who uses magic, like a wizard.",
+          "examples": [
+            "The mage cast a spell in the story.",
+            "A mage lived in a tall tower.",
+            "The mage waved a glowing staff."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "magenta",
+    "say": "muh-JEN-tuh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bright pink-purple color.",
+          "examples": [
+            "The flower is magenta.",
+            "I like magenta.",
+            "The marker is magenta."
+          ]
+        },
+        "more": {
+          "def": "A bright purplish-pink color.",
+          "examples": [
+            "The flower was a bright magenta.",
+            "The artist mixed red and blue to make magenta.",
+            "She wore a magenta scarf."
           ]
         }
       }
@@ -427,6 +510,81 @@
     ]
   },
   {
+    "word": "magnetism",
+    "say": "MAG-nuh-tiz-um",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The force that makes magnets pull on iron.",
+          "examples": [
+            "Magnetism pulls iron.",
+            "A magnet has magnetism.",
+            "Magnetism is invisible."
+          ]
+        },
+        "more": {
+          "def": "The invisible force that makes a magnet pull on some metals such as iron.",
+          "examples": [
+            "Magnetism makes the compass needle point north.",
+            "We tested magnetism with paper clips.",
+            "Magnetism pulls things made of iron."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "magnification",
+    "say": "mag-nuh-fih-KAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Making something look bigger.",
+          "examples": [
+            "The magnification was high.",
+            "A microscope has magnification.",
+            "The lens gives magnification."
+          ]
+        },
+        "more": {
+          "def": "The act of making something look larger, or how much larger it looks.",
+          "examples": [
+            "The microscope's magnification showed tiny cells.",
+            "A telescope gives great magnification.",
+            "The magnification made the ant look huge."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "magnificence",
+    "say": "mag-NIF-ih-sunss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Great beauty.",
+          "examples": [
+            "The magnificence of the mountains.",
+            "We saw the magnificence.",
+            "The castle has magnificence."
+          ]
+        },
+        "more": {
+          "def": "The quality of being very grand and beautiful.",
+          "examples": [
+            "We admired the magnificence of the palace.",
+            "The magnificence of the mountains took our breath away.",
+            "The castle's magnificence amazed the visitors."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "magnificent",
     "say": "mag-NIF-ih-sunt",
     "emoji": "✨",
@@ -447,6 +605,117 @@
             "From the top of the mountain, the view was magnificent.",
             "The peacock spread its magnificent tail.",
             "The palace has a magnificent hall with gold walls."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "magnify",
+    "say": "MAG-nuh-fy",
+    "forms": [
+      "magnifies",
+      "magnified",
+      "magnifying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something look bigger.",
+          "examples": [
+            "A glass can magnify.",
+            "A lens magnified the bug.",
+            "The microscope magnifies."
+          ]
+        },
+        "more": {
+          "def": "To make something look larger than it is, usually with a lens.",
+          "examples": [
+            "A magnifying glass will magnify the tiny words.",
+            "The microscope magnified the pond water.",
+            "The lens magnified the ant so we could see its legs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "magnifying",
+    "say": "MAG-nuh-fy-ing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making things look bigger.",
+          "examples": [
+            "I used a magnifying glass.",
+            "The magnifying glass is round.",
+            "I saw a magnifying lens."
+          ]
+        },
+        "more": {
+          "def": "Making something look larger, as a lens does.",
+          "examples": [
+            "I used a magnifying glass to look at the ant.",
+            "The magnifying glass made the tiny words easy to read.",
+            "A magnifying lens helped her see the stamp."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "magnolia",
+    "say": "mag-NOHL-yuh",
+    "forms": [
+      "magnolias"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tree with big, sweet-smelling white or pink flowers.",
+          "examples": [
+            "The magnolia is in bloom.",
+            "The magnolia smells sweet.",
+            "We have a magnolia."
+          ]
+        },
+        "more": {
+          "def": "A tree or bush with large, sweet-smelling white or pink flowers.",
+          "examples": [
+            "The magnolia in our yard has huge white flowers.",
+            "A magnolia petal is thick and soft.",
+            "The air smelled of magnolia."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "magpie",
+    "say": "MAG-py",
+    "forms": [
+      "magpies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A black and white bird that likes shiny things.",
+          "examples": [
+            "A magpie flew.",
+            "The magpie is black and white.",
+            "A magpie took the ring."
+          ]
+        },
+        "more": {
+          "def": "A noisy black and white bird with a long tail that likes to collect shiny objects.",
+          "examples": [
+            "A magpie picked up the shiny coin.",
+            "The magpie has a long tail.",
+            "Magpies chatter loudly in the trees."
           ]
         }
       }
@@ -588,6 +857,34 @@
     ]
   },
   {
+    "word": "mailing",
+    "say": "MAYL-ing",
+    "forms": [
+      "mailings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Sending something by mail.",
+          "examples": [
+            "The mailing of cards took an hour.",
+            "Mailing a letter is easy.",
+            "The mailing list has my name."
+          ]
+        },
+        "more": {
+          "def": "The act of sending something by mail, or something that is sent that way.",
+          "examples": [
+            "The mailing of the invitations took all afternoon.",
+            "Our school sent a mailing to every home in the town.",
+            "The mailing included a letter and a calendar."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mailman",
     "say": "MAYL-man",
     "forms": [
@@ -660,6 +957,34 @@
             "We took a ferry to the mainland.",
             "The island is a mile from the mainland.",
             "The mainland has big cities."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mainlander",
+    "say": "MAYN-lan-der",
+    "forms": [
+      "mainlanders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who lives on the mainland, not an island.",
+          "examples": [
+            "A mainlander visited.",
+            "The mainlander took the ferry.",
+            "The mainlanders came."
+          ]
+        },
+        "more": {
+          "def": "A person who lives on the mainland, the main part of a country, and not on an island.",
+          "examples": [
+            "The islanders welcomed the mainlander who came by ferry.",
+            "A mainlander visited the island for the weekend.",
+            "Mainlanders take the boat to the island."
           ]
         }
       }
@@ -766,6 +1091,31 @@
             "Farmers have grown maize in the Americas for thousands of years.",
             "Cornbread and tortillas can be made from ground maize.",
             "Rows of tall maize waved in the wind across the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "majestic",
+    "say": "muh-JES-tik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Grand and beautiful to see.",
+          "examples": [
+            "The mountain is majestic.",
+            "A majestic eagle flew.",
+            "The castle looks majestic."
+          ]
+        },
+        "more": {
+          "def": "Grand, beautiful and impressive to look at.",
+          "examples": [
+            "A majestic eagle soared over the mountain.",
+            "The majestic castle stood on a hill.",
+            "The waterfall was a majestic sight."
           ]
         }
       }
@@ -1108,6 +1458,34 @@
     ]
   },
   {
+    "word": "mallet",
+    "say": "MAL-it",
+    "forms": [
+      "mallets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hammer with a big wooden head.",
+          "examples": [
+            "He used a mallet.",
+            "The mallet is wooden.",
+            "A mallet hit the peg."
+          ]
+        },
+        "more": {
+          "def": "A hammer with a large head, often made of wood, used for pounding.",
+          "examples": [
+            "He tapped the tent peg with a mallet.",
+            "The croquet player hit the ball with a mallet.",
+            "The sculptor used a mallet and chisel."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "malt",
     "say": "mawlt",
     "senses": [
@@ -1184,6 +1562,53 @@
             "Whales are mammals, even though they live in the sea.",
             "Bats are the only mammals that can fly.",
             "Like all mammals, a baby elephant drinks its mother's milk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mammoth",
+    "say": "MAM-uth",
+    "forms": [
+      "mammoths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A huge, furry animal like an elephant that lived long ago.",
+          "examples": [
+            "The mammoth had tusks.",
+            "A mammoth was hairy.",
+            "We saw a mammoth in the museum."
+          ]
+        },
+        "more": {
+          "def": "A huge, hairy animal like an elephant with long tusks that lived long ago.",
+          "examples": [
+            "A mammoth had long tusks and thick fur.",
+            "The museum has a mammoth skeleton.",
+            "Mammoths lived in the ice age."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very, very big.",
+          "examples": [
+            "A mammoth rock.",
+            "The mammoth wave was huge.",
+            "They built a mammoth tower."
+          ]
+        },
+        "more": {
+          "def": "Extremely large.",
+          "examples": [
+            "The mammoth wave crashed on the shore.",
+            "They had a mammoth task ahead of them.",
+            "A mammoth whale swam past the boat."
           ]
         }
       }
@@ -1267,6 +1692,37 @@
     ]
   },
   {
+    "word": "manageable",
+    "say": "MAN-ij-uh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not too hard to handle.",
+          "examples": [
+            "The job is manageable.",
+            "A manageable amount.",
+            "The load is manageable."
+          ]
+        },
+        "more": {
+          "def": "Easy enough to handle or deal with.",
+          "examples": [
+            "The homework was long but manageable.",
+            "Mom cut the job into manageable pieces.",
+            "The class size is manageable."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unmanageable",
+        "def": "Too hard to handle."
+      }
+    ]
+  },
+  {
     "word": "management",
     "say": "MAN-ij-munt",
     "senses": [
@@ -1320,6 +1776,34 @@
     ]
   },
   {
+    "word": "mandarin",
+    "say": "MAN-duh-rin",
+    "forms": [
+      "mandarins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, sweet orange.",
+          "examples": [
+            "I ate a mandarin.",
+            "The mandarin is easy to peel.",
+            "Mom packed a mandarin."
+          ]
+        },
+        "more": {
+          "def": "A small, sweet orange fruit with a loose skin that peels off easily.",
+          "examples": [
+            "I peeled a mandarin and shared the slices.",
+            "A mandarin is smaller than most oranges.",
+            "She put a mandarin in her lunch box."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mandatory",
     "say": "MAN-duh-tor-ee",
     "senses": [
@@ -1339,6 +1823,34 @@
             "Wearing a helmet is mandatory for everyone who rides a bike here.",
             "The class is mandatory, so every student must go.",
             "It is mandatory to wear a seat belt in the car."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mane",
+    "say": "mayn",
+    "forms": [
+      "manes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The long hair on a horse's or lion's neck.",
+          "examples": [
+            "The lion has a mane.",
+            "The horse's mane is long.",
+            "I brushed the mane."
+          ]
+        },
+        "more": {
+          "def": "The long hair that grows on the neck of a horse or lion.",
+          "examples": [
+            "The lion shook his thick mane.",
+            "She braided the pony's mane.",
+            "The horse's mane blew in the wind."
           ]
         }
       }
@@ -1369,6 +1881,34 @@
             "The driver maneuvered the truck into the small space.",
             "I maneuvered the canoe around the rocks.",
             "She maneuvered the cart through the crowd."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "manger",
+    "say": "MAYN-jer",
+    "forms": [
+      "mangers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A box that holds food for farm animals.",
+          "examples": [
+            "The cow ate from the manger.",
+            "A manger holds hay.",
+            "The horse is at the manger."
+          ]
+        },
+        "more": {
+          "def": "A trough or open box that holds food for horses or cattle.",
+          "examples": [
+            "The cow ate hay from the manger.",
+            "A manger stood in the corner of the stable.",
+            "The horses crowded around the manger."
           ]
         }
       }
@@ -1428,6 +1968,34 @@
             "A mangy old dog wandered down the street looking for food.",
             "The mangy cat had bare patches in its fur.",
             "The mangy rug was full of holes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "manhole",
+    "say": "MAN-hohl",
+    "forms": [
+      "manholes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round hole in the street with a cover.",
+          "examples": [
+            "The manhole is in the road.",
+            "A manhole cover is round.",
+            "Workers went down the manhole."
+          ]
+        },
+        "more": {
+          "def": "A hole in a street, covered by a lid, that leads to pipes or sewers.",
+          "examples": [
+            "Workers climbed down the manhole to fix the pipe.",
+            "A round metal lid covered the manhole.",
+            "Steam rose from the manhole on the cold street."
           ]
         }
       }
@@ -1722,6 +2290,62 @@
             "The mansion had twenty rooms and a huge garden.",
             "A rich family lived in the mansion on the hill.",
             "We toured the old mansion."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mantel",
+    "say": "MAN-tul",
+    "forms": [
+      "mantels"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The shelf above a fireplace.",
+          "examples": [
+            "The clock is on the mantel.",
+            "The mantel is wood.",
+            "Photos sit on the mantel."
+          ]
+        },
+        "more": {
+          "def": "The shelf above a fireplace.",
+          "examples": [
+            "A clock sat on the mantel.",
+            "Family photos lined the mantel.",
+            "Stockings hung from the mantel at Christmas."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mantis",
+    "say": "MAN-tis",
+    "forms": [
+      "mantises"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A green insect that holds its front legs together as if praying.",
+          "examples": [
+            "A mantis sat still.",
+            "The mantis is green.",
+            "We saw a mantis."
+          ]
+        },
+        "more": {
+          "def": "A long green insect that holds its front legs up as if it were praying.",
+          "examples": [
+            "A mantis sat still on the leaf, waiting for a fly.",
+            "The mantis turned its head to look at us.",
+            "Mantises catch insects with their front legs."
           ]
         }
       }
@@ -2196,6 +2820,31 @@
     ]
   },
   {
+    "word": "margarine",
+    "say": "MAR-juh-rin",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A spread like butter.",
+          "examples": [
+            "Spread margarine on bread.",
+            "The margarine is soft.",
+            "We used margarine."
+          ]
+        },
+        "more": {
+          "def": "A soft food like butter, made from vegetable oils.",
+          "examples": [
+            "Mom spread margarine on the toast.",
+            "Margarine is often used instead of butter.",
+            "The tub of margarine was in the fridge."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "margin",
     "say": "MAR-jin",
     "forms": [
@@ -2218,6 +2867,61 @@
             "The teacher wrote a note in the margin of my story.",
             "Leave a wide margin on each side of your paper.",
             "Wild flowers grew along the margin of the pond."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "marinara",
+    "say": "mair-ih-NAIR-uh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tomato sauce for pasta.",
+          "examples": [
+            "We ate spaghetti with marinara.",
+            "The marinara is red.",
+            "Marinara has tomatoes."
+          ]
+        },
+        "more": {
+          "def": "A sauce made from tomatoes, garlic and herbs, often put on pasta.",
+          "examples": [
+            "We dipped bread in marinara.",
+            "The pasta came with marinara sauce.",
+            "Mom simmered marinara for dinner."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "marinate",
+    "say": "MAIR-ih-nayt",
+    "forms": [
+      "marinates",
+      "marinated",
+      "marinating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To soak food in a sauce before you cook it.",
+          "examples": [
+            "We marinate the chicken.",
+            "Mom marinated the meat.",
+            "Marinate the fish."
+          ]
+        },
+        "more": {
+          "def": "To soak food in a flavored liquid before cooking it.",
+          "examples": [
+            "Dad marinated the chicken in lemon juice.",
+            "Let the meat marinate for an hour before grilling.",
+            "She marinated the vegetables in oil and herbs."
           ]
         }
       }
@@ -2373,6 +3077,78 @@
             "We bought fruit and bread at the busy marketplace.",
             "The old marketplace was full of stalls and people.",
             "Farmers brought their goods to the marketplace."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "marmalade",
+    "say": "MAR-muh-layd",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet, sticky spread made from oranges.",
+          "examples": [
+            "I put marmalade on toast.",
+            "The marmalade is orange.",
+            "Grandma likes marmalade."
+          ]
+        },
+        "more": {
+          "def": "A sweet, thick spread made by boiling oranges or other citrus fruit with sugar.",
+          "examples": [
+            "I spread marmalade on my toast.",
+            "Grandma makes orange marmalade every winter.",
+            "The jar of marmalade had bits of peel in it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "maroon",
+    "say": "muh-ROON",
+    "forms": [
+      "maroons"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A dark reddish-brown color.",
+          "examples": [
+            "She wore a maroon coat.",
+            "The maroon sweater is warm.",
+            "The maroon car is mine."
+          ]
+        },
+        "more": {
+          "def": "Dark reddish-brown in color.",
+          "examples": [
+            "He wore a maroon sweater to school.",
+            "The team's maroon jerseys looked sharp.",
+            "Maroon curtains hung over the window."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dark reddish-brown color.",
+          "examples": [
+            "I like maroon.",
+            "The flag is maroon.",
+            "The walls were painted maroon."
+          ]
+        },
+        "more": {
+          "def": "A deep reddish-brown color.",
+          "examples": [
+            "The team's colors are maroon and gold.",
+            "She chose a rich maroon for the couch.",
+            "The paint was a dark maroon."
           ]
         }
       }
@@ -2620,6 +3396,31 @@
             "We had a marvelous time at the fair.",
             "The magician did marvelous tricks.",
             "The view from the hill was marvelous."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mascara",
+    "say": "mas-KAIR-uh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Dark makeup for the eyelashes.",
+          "examples": [
+            "She put on mascara.",
+            "The mascara is black.",
+            "Mom wore mascara."
+          ]
+        },
+        "more": {
+          "def": "A dark makeup that is brushed on the eyelashes to make them look longer.",
+          "examples": [
+            "She brushed mascara on her lashes before the show.",
+            "The actor wore mascara on stage.",
+            "The mascara smeared when she rubbed her eye."
           ]
         }
       }
@@ -3083,6 +3884,31 @@
     ]
   },
   {
+    "word": "mastery",
+    "say": "MAS-ter-ee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being very good at something.",
+          "examples": [
+            "She showed mastery.",
+            "His mastery of chess is great.",
+            "She works for mastery."
+          ]
+        },
+        "more": {
+          "def": "Great skill in or complete knowledge of something.",
+          "examples": [
+            "She showed mastery of the violin.",
+            "His mastery of chess won him the title.",
+            "The class worked toward mastery of times tables."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mat",
     "say": "mat",
     "forms": [
@@ -3187,6 +4013,34 @@
     ]
   },
   {
+    "word": "matchbook",
+    "say": "MACH-buuk",
+    "forms": [
+      "matchbooks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small paper folder with matches.",
+          "examples": [
+            "The matchbook was on the table.",
+            "I found a matchbook.",
+            "The matchbook is small."
+          ]
+        },
+        "more": {
+          "def": "A small folded paper cover holding a row of matches.",
+          "examples": [
+            "A matchbook sat on the old table.",
+            "He saved a matchbook from the restaurant.",
+            "Never play with a matchbook, because matches are dangerous."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "matching",
     "say": "MACH-ing",
     "senses": [
@@ -3287,6 +4141,36 @@
     ]
   },
   {
+    "word": "materialize",
+    "say": "muh-TEER-ee-uh-lyze",
+    "forms": [
+      "materializes",
+      "materialized",
+      "materializing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To appear or come to be real.",
+          "examples": [
+            "The ghost will materialize.",
+            "The plan materialized.",
+            "A bus materialized."
+          ]
+        },
+        "more": {
+          "def": "To appear suddenly, or to become real.",
+          "examples": [
+            "A bus finally materialized out of the fog.",
+            "The magician made a flower materialize.",
+            "The plan to build a park never materialized."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "math",
     "say": "math",
     "emoji": "➗",
@@ -3338,6 +4222,34 @@
     ]
   },
   {
+    "word": "mathematician",
+    "say": "math-uh-muh-TISH-un",
+    "forms": [
+      "mathematicians"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is an expert at math.",
+          "examples": [
+            "A mathematician solves numbers.",
+            "The mathematician wrote on the board.",
+            "My aunt is a mathematician."
+          ]
+        },
+        "more": {
+          "def": "A person who is an expert in math and studies numbers and shapes.",
+          "examples": [
+            "The mathematician solved a hard puzzle with numbers.",
+            "A famous mathematician came to visit our school.",
+            "Mathematicians study patterns in numbers and shapes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mathematics",
     "say": "math-uh-MAT-iks",
     "senses": [
@@ -3357,6 +4269,35 @@
             "In mathematics class we learned how to find the area of a rectangle.",
             "Mathematics helps builders measure and plan a house.",
             "She loves mathematics because she likes solving number puzzles."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "matinee",
+    "say": "mat-ih-NAY",
+    "emoji": "🎬",
+    "forms": [
+      "matinees"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A show or movie in the afternoon.",
+          "examples": [
+            "We saw a matinee on Saturday.",
+            "The matinee starts at two.",
+            "Grandma took us to a matinee."
+          ]
+        },
+        "more": {
+          "def": "A play or movie shown in the daytime, usually in the afternoon.",
+          "examples": [
+            "Tickets for the matinee cost less than for the evening show.",
+            "We went to the Sunday matinee of the school play.",
+            "The matinee ended in time for dinner."
           ]
         }
       }
@@ -3514,6 +4455,36 @@
             "She showed maturity by taking care of her little brother.",
             "The tree reached maturity after twenty years.",
             "Maturity means thinking before you act."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "maximize",
+    "say": "MAK-sih-myze",
+    "forms": [
+      "maximizes",
+      "maximized",
+      "maximizing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make as big as you can.",
+          "examples": [
+            "She wants to maximize the fun.",
+            "We maximize our time.",
+            "He maximized the window."
+          ]
+        },
+        "more": {
+          "def": "To make something as large or as great as possible.",
+          "examples": [
+            "We want to maximize our time at the park.",
+            "He maximized the window to fill the whole screen.",
+            "Good planning helps maximize the space in your room."
           ]
         }
       }

@@ -103,6 +103,63 @@
     ]
   },
   {
+    "word": "soapbox",
+    "say": "SOHP-boks",
+    "forms": [
+      "soapboxes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A box a person stands on to give a speech.",
+          "examples": [
+            "He stood on a soapbox.",
+            "A soapbox is a box.",
+            "She spoke from a soapbox."
+          ]
+        },
+        "more": {
+          "def": "A box or stand on which a person stands to make a speech to a crowd.",
+          "examples": [
+            "He stood on a soapbox in the park to speak.",
+            "A soapbox derby is a race of small cars.",
+            "Candidates once spoke from a soapbox on street corners."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "soapy",
+    "say": "SOH-pee",
+    "forms": [
+      "soapier",
+      "soapiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Full of soap.",
+          "examples": [
+            "The water is soapy.",
+            "Soapy hands.",
+            "The soapy dog splashed."
+          ]
+        },
+        "more": {
+          "def": "Covered with soap or full of soap bubbles.",
+          "examples": [
+            "The soapy water was full of bubbles.",
+            "The dog splashed in the soapy tub.",
+            "My hands were soapy and slippery."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "soar",
     "say": "sor",
     "forms": [
@@ -185,6 +242,37 @@
             "She scored a goal in soccer."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "sociable",
+    "say": "SOH-shuh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Friendly and liking to be with others.",
+          "examples": [
+            "She is sociable.",
+            "The dog is sociable.",
+            "He is a sociable boy."
+          ]
+        },
+        "more": {
+          "def": "Friendly and fond of being with other people.",
+          "examples": [
+            "She is sociable and loves parties.",
+            "The sociable dog greeted every visitor.",
+            "He is a sociable boy who talks to everyone."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unsociable",
+        "def": "Not sociable."
       }
     ]
   },
@@ -565,6 +653,62 @@
     ]
   },
   {
+    "word": "softener",
+    "say": "SOF-nur",
+    "forms": [
+      "softeners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that makes things soft.",
+          "examples": [
+            "Fabric softener.",
+            "The softener smells nice.",
+            "Mom added softener."
+          ]
+        },
+        "more": {
+          "def": "Something added to make things softer, such as for clothes or water.",
+          "examples": [
+            "Mom added fabric softener to the wash.",
+            "A water softener removes hard minerals.",
+            "The softener made the towels fluffy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "softie",
+    "say": "SOF-tee",
+    "forms": [
+      "softies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A gentle person who is easily moved.",
+          "examples": [
+            "Dad is a softie.",
+            "She is a softie about dogs.",
+            "He is a softie."
+          ]
+        },
+        "more": {
+          "def": "A person who is easily moved and not tough.",
+          "examples": [
+            "Dad is a softie and cries at sad movies.",
+            "She is a softie when it comes to puppies.",
+            "The big coach is a softie underneath."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "softly",
     "say": "SOFT-lee",
     "senses": [
@@ -584,6 +728,60 @@
             "She sang softly to the baby.",
             "Snow fell softly on the roofs.",
             "He knocked softly on the door."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "softness",
+    "say": "SOFT-ness",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How soft something is.",
+          "examples": [
+            "I like the softness of the kitten.",
+            "The softness of the blanket.",
+            "The softness is nice."
+          ]
+        },
+        "more": {
+          "def": "The quality of being soft.",
+          "examples": [
+            "I like the softness of the kitten's fur.",
+            "The softness of the pillow helped me sleep.",
+            "We felt the softness of the clay."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "soggy",
+    "say": "SOG-ee",
+    "forms": [
+      "soggier",
+      "soggiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wet and soft.",
+          "examples": [
+            "The bread is soggy.",
+            "My socks are soggy.",
+            "The soggy ground was muddy."
+          ]
+        },
+        "more": {
+          "def": "Very wet and soft, so that it is not pleasant.",
+          "examples": [
+            "The cereal got soggy in the milk.",
+            "We walked across the soggy field in our boots.",
+            "My soggy shoes squished with each step."
           ]
         }
       }
@@ -762,6 +960,31 @@
             "Ice is a solid, and water is a liquid.",
             "Rocks, wood and metal are solids.",
             "Solids keep their shape when you move them."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "solitaire",
+    "say": "SOL-ih-tair",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A card game for one person.",
+          "examples": [
+            "I play solitaire.",
+            "Grandma plays solitaire.",
+            "Solitaire is played alone."
+          ]
+        },
+        "more": {
+          "def": "A card game that one person plays alone.",
+          "examples": [
+            "Grandma played solitaire at the kitchen table.",
+            "You can play solitaire when no one else is around.",
+            "He laid out the cards for a game of solitaire."
           ]
         }
       }
@@ -1055,6 +1278,34 @@
     ]
   },
   {
+    "word": "somersault",
+    "say": "SUM-er-sawlt",
+    "forms": [
+      "somersaults"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A roll where your feet go over your head.",
+          "examples": [
+            "I did a somersault.",
+            "The somersault was fun.",
+            "She did a somersault on the grass."
+          ]
+        },
+        "more": {
+          "def": "A forward roll in which you turn heels over head.",
+          "examples": [
+            "I did a somersault on the grass.",
+            "The gymnast did a somersault in the air.",
+            "The puppy did a somersault and landed in the leaves."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "something",
     "say": "SUM-thing",
     "senses": [
@@ -1237,6 +1488,34 @@
     ]
   },
   {
+    "word": "songwriter",
+    "say": "SONG-ry-ter",
+    "forms": [
+      "songwriters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who writes songs.",
+          "examples": [
+            "The songwriter wrote a tune.",
+            "My aunt is a songwriter.",
+            "A songwriter visited school."
+          ]
+        },
+        "more": {
+          "def": "A person who writes the words or music for songs.",
+          "examples": [
+            "The songwriter wrote a happy tune about summer.",
+            "A songwriter played us her new song on the piano.",
+            "He is a songwriter who writes songs for children."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sonic",
     "say": "SON-ik",
     "senses": [
@@ -1281,6 +1560,31 @@
             "The bus will be here soon, so get your backpack.",
             "Soon after the rain stopped, the sun came out.",
             "I hope to see you again soon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "soot",
+    "say": "suut",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Black dust from smoke.",
+          "examples": [
+            "The chimney had soot.",
+            "Soot is black.",
+            "I wiped the soot away."
+          ]
+        },
+        "more": {
+          "def": "A fine black powder made when wood, coal or oil burns.",
+          "examples": [
+            "The chimney was covered with black soot.",
+            "The sweep cleaned the soot from the fireplace.",
+            "A layer of soot covered the old brick wall."
           ]
         }
       }
@@ -1367,6 +1671,31 @@
     ]
   },
   {
+    "word": "sophistication",
+    "say": "suh-fis-tih-KAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Knowing about fine things and acting in a grown-up way.",
+          "examples": [
+            "She dresses with sophistication.",
+            "The hotel has sophistication.",
+            "He has sophistication."
+          ]
+        },
+        "more": {
+          "def": "The quality of having good taste and knowing about the world.",
+          "examples": [
+            "The hotel had a feeling of sophistication.",
+            "She dressed with sophistication for the party.",
+            "The gadget's sophistication amazed us."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sophomore",
     "say": "SOF-uh-mor",
     "forms": [
@@ -1417,6 +1746,31 @@
             "The sorcerer waved a wand and the room glowed.",
             "In the story, a sorcerer lived in a tall tower.",
             "The sorcerer's spell turned the toad into a prince."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sorcery",
+    "say": "SOR-ser-ee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Magic done by a wizard in stories.",
+          "examples": [
+            "The wizard used sorcery.",
+            "Sorcery is magic.",
+            "The sorcery turned him into a frog."
+          ]
+        },
+        "more": {
+          "def": "Magic that is used by wizards and witches in stories.",
+          "examples": [
+            "In the tale, the wizard used sorcery to make fire.",
+            "The prince was turned into a frog by sorcery.",
+            "The story is full of sorcery and dragons."
           ]
         }
       }
@@ -1643,6 +1997,59 @@
     ]
   },
   {
+    "word": "soundproof",
+    "say": "SOWND-proof",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not letting sound in or out.",
+          "examples": [
+            "The room is soundproof.",
+            "A soundproof room is quiet.",
+            "The studio is soundproof."
+          ]
+        },
+        "more": {
+          "def": "Built so that sound cannot get in or out.",
+          "examples": [
+            "The band practiced in a soundproof room.",
+            "The soundproof walls kept the noise from the neighbors.",
+            "The recording studio is soundproof."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "soundtrack",
+    "say": "SOWND-trak",
+    "forms": [
+      "soundtracks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The music in a movie.",
+          "examples": [
+            "I like the soundtrack.",
+            "The soundtrack is fun.",
+            "The movie has a good soundtrack."
+          ]
+        },
+        "more": {
+          "def": "The music and sounds that go with a movie or show.",
+          "examples": [
+            "The movie's soundtrack has exciting music.",
+            "She bought the soundtrack to her favorite film.",
+            "We hummed the soundtrack all the way home."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "soup",
     "say": "soop",
     "emoji": "🍜",
@@ -1760,6 +2167,31 @@
     ]
   },
   {
+    "word": "southbound",
+    "say": "SOWTH-bownd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Going toward the south.",
+          "examples": [
+            "The southbound train left.",
+            "A southbound bus.",
+            "The southbound road is long."
+          ]
+        },
+        "more": {
+          "def": "Traveling or leading toward the south.",
+          "examples": [
+            "The southbound train left the station.",
+            "Traffic on the southbound road was slow.",
+            "We took the southbound bus to the beach."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "southeast",
     "say": "sowth-EEST",
     "senses": [
@@ -1823,6 +2255,34 @@
             "The southern part of the country is warmer.",
             "Many birds fly to the southern coast for winter.",
             "A warm southern breeze blew over the hills."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "southerner",
+    "say": "SUTH-er-ner",
+    "forms": [
+      "southerners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person from the south.",
+          "examples": [
+            "A southerner lives there.",
+            "The southerner spoke slowly.",
+            "He is a southerner."
+          ]
+        },
+        "more": {
+          "def": "A person who comes from the southern part of a country or the world.",
+          "examples": [
+            "The southerner spoke with a slow, friendly voice.",
+            "A southerner moved north.",
+            "Many southerners enjoy sweet tea."
           ]
         }
       }

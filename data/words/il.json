@@ -56,6 +56,89 @@
     ]
   },
   {
+    "word": "illogical",
+    "say": "ih-LOJ-ih-kul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not making sense.",
+          "examples": [
+            "The plan is illogical.",
+            "An illogical idea.",
+            "It is illogical to go in rain without a coat."
+          ]
+        },
+        "more": {
+          "def": "Not following sensible thinking.",
+          "examples": [
+            "It is illogical to wear shorts in the snow.",
+            "The illogical plan made no sense.",
+            "His answer was illogical."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "illuminate",
+    "say": "ih-LOO-mih-nayt",
+    "forms": [
+      "illuminates",
+      "illuminated",
+      "illuminating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To light up.",
+          "examples": [
+            "A lamp will illuminate the room.",
+            "The moon illuminated the path.",
+            "Candles illuminate the table."
+          ]
+        },
+        "more": {
+          "def": "To fill a place with light, or to make something clear.",
+          "examples": [
+            "A bright lamp illuminated the dark room.",
+            "The moon illuminated the path through the woods.",
+            "A flash of lightning illuminated the whole sky."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "illumination",
+    "say": "ih-loo-mih-NAY-shun",
+    "forms": [
+      "illuminations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Light that shines on something.",
+          "examples": [
+            "The illumination was bright.",
+            "There was little illumination.",
+            "The room had good illumination."
+          ]
+        },
+        "more": {
+          "def": "Light, or the act of lighting up something.",
+          "examples": [
+            "The illumination of the stage was bright.",
+            "There was little illumination in the dark cave.",
+            "Candles gave the room a soft illumination."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "illusion",
     "say": "ih-LOO-zhun",
     "forms": [
@@ -117,6 +200,34 @@
       {
         "word": "illustrator",
         "def": "A person who draws pictures for books."
+      }
+    ]
+  },
+  {
+    "word": "illustration",
+    "say": "il-uh-STRAY-shun",
+    "forms": [
+      "illustrations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture in a book.",
+          "examples": [
+            "The book has an illustration.",
+            "I like the illustration.",
+            "The illustration is of a dog."
+          ]
+        },
+        "more": {
+          "def": "A picture in a book, magazine or other writing that helps explain or decorate it.",
+          "examples": [
+            "The book has a colorful illustration on every page.",
+            "She drew an illustration of a dragon for the story.",
+            "The illustration shows how a plant grows."
+          ]
+        }
       }
     ]
   }

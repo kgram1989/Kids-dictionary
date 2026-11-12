@@ -1,5 +1,30 @@
 [
   {
+    "word": "auburn",
+    "say": "AW-bern",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A reddish-brown color.",
+          "examples": [
+            "Her hair is auburn.",
+            "The auburn leaves fell.",
+            "An auburn horse."
+          ]
+        },
+        "more": {
+          "def": "A reddish-brown color, often used for hair.",
+          "examples": [
+            "Her auburn hair shone in the sun.",
+            "The auburn leaves fell in October.",
+            "An auburn horse stood in the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "auction",
     "say": "AWK-shun",
     "forms": [
@@ -22,6 +47,34 @@
             "We went to an auction to buy an old clock.",
             "The auction was held in the barn.",
             "The painting sold at auction for a high price."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "auctioneer",
+    "say": "awk-shuh-NEER",
+    "forms": [
+      "auctioneers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who sells things at an auction by calling out prices.",
+          "examples": [
+            "The auctioneer called prices.",
+            "An auctioneer sells things.",
+            "The auctioneer talked fast."
+          ]
+        },
+        "more": {
+          "def": "A person who sells things to the highest bidder by calling out prices.",
+          "examples": [
+            "The auctioneer talked fast as the prices rose.",
+            "An auctioneer sold the old chair.",
+            "The auctioneer banged his gavel."
           ]
         }
       }
@@ -391,6 +444,59 @@
     ]
   },
   {
+    "word": "autobiographical",
+    "say": "aw-toh-by-oh-GRAF-ih-kul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About the writer's own life.",
+          "examples": [
+            "An autobiographical story.",
+            "The book is autobiographical.",
+            "Her autobiographical poem."
+          ]
+        },
+        "more": {
+          "def": "Telling the story of the writer's own life.",
+          "examples": [
+            "She wrote an autobiographical story about her childhood.",
+            "Her first novel is partly autobiographical.",
+            "His autobiographical essay described his school days."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "autobiography",
+    "say": "aw-toh-by-OG-ruh-fee",
+    "forms": [
+      "autobiographies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A book a person writes about their own life.",
+          "examples": [
+            "She wrote an autobiography.",
+            "An autobiography tells a life.",
+            "I read an autobiography."
+          ]
+        },
+        "more": {
+          "def": "The story of a person's life, written by that person.",
+          "examples": [
+            "She wrote an autobiography about growing up on a farm.",
+            "I read the autobiography of a famous scientist.",
+            "In an autobiography, the writer tells his own story."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "autograph",
     "say": "AW-tuh-graf",
     "forms": [
@@ -413,6 +519,31 @@
             "I asked the player for his autograph.",
             "The singer signed an autograph for a fan.",
             "My brother has the autograph of a pilot."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "autographed",
+    "say": "AW-tuh-graft",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Signed by a famous person.",
+          "examples": [
+            "I have an autographed ball.",
+            "The book is autographed.",
+            "She has an autographed poster."
+          ]
+        },
+        "more": {
+          "def": "Signed by a famous person with their own name.",
+          "examples": [
+            "He kept the autographed baseball on a shelf.",
+            "The author handed me an autographed copy of her book.",
+            "An autographed picture of the singer hung on the wall."
           ]
         }
       }
@@ -494,6 +625,59 @@
             "The automobile sped down the road.",
             "Henry Ford built many automobiles.",
             "We rode in an old automobile."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "automotive",
+    "say": "aw-tuh-MOH-tiv",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with cars.",
+          "examples": [
+            "An automotive shop.",
+            "The automotive class is fun.",
+            "He works in an automotive shop."
+          ]
+        },
+        "more": {
+          "def": "Having to do with cars and other motor vehicles.",
+          "examples": [
+            "He works in an automotive repair shop.",
+            "The school has an automotive class.",
+            "The museum has an automotive display."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "autopilot",
+    "say": "AW-toh-py-lut",
+    "forms": [
+      "autopilots"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A system that flies a plane by itself.",
+          "examples": [
+            "The plane is on autopilot.",
+            "The pilot used autopilot.",
+            "Autopilot flies the plane."
+          ]
+        },
+        "more": {
+          "def": "A device that steers a plane or ship without a person doing the work.",
+          "examples": [
+            "The pilot turned on the autopilot during the long flight.",
+            "The ship was on autopilot while the crew rested.",
+            "I did my chores on autopilot without thinking."
           ]
         }
       }

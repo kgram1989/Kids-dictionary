@@ -203,6 +203,31 @@
     ]
   },
   {
+    "word": "licorice",
+    "say": "LIK-er-ish",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A black or red chewy candy.",
+          "examples": [
+            "I like licorice.",
+            "The licorice is chewy.",
+            "She ate a licorice."
+          ]
+        },
+        "more": {
+          "def": "A chewy candy with a strong taste, often black or red.",
+          "examples": [
+            "I chewed a red licorice twist.",
+            "The black licorice had a strong taste.",
+            "She gave me a piece of licorice."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lid",
     "say": "lid",
     "forms": [
@@ -394,6 +419,84 @@
     ]
   },
   {
+    "word": "lifeless",
+    "say": "LYFE-less",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Without life, or dull.",
+          "examples": [
+            "The planet was lifeless.",
+            "A lifeless desert lay ahead.",
+            "The doll lay lifeless."
+          ]
+        },
+        "more": {
+          "def": "Without life, or without energy and interest.",
+          "examples": [
+            "The dry desert looked lifeless under the sun.",
+            "The lifeless doll lay on the shelf.",
+            "His lifeless voice made the story dull."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lifelike",
+    "say": "LYFE-lyke",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Looking real.",
+          "examples": [
+            "The doll is lifelike.",
+            "A lifelike statue.",
+            "The painting is lifelike."
+          ]
+        },
+        "more": {
+          "def": "Looking very real or like something alive.",
+          "examples": [
+            "The doll looked so lifelike that I stared.",
+            "The artist made a lifelike statue.",
+            "The lifelike painting seemed to move."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lifeline",
+    "say": "LYFE-lyne",
+    "forms": [
+      "lifelines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rope or help that keeps you safe.",
+          "examples": [
+            "The rope was a lifeline.",
+            "The phone is a lifeline.",
+            "Throw him a lifeline."
+          ]
+        },
+        "more": {
+          "def": "A rope used to save someone, or something you depend on in time of need.",
+          "examples": [
+            "The sailor threw a lifeline to the swimmer.",
+            "The radio was their lifeline during the storm.",
+            "A friend's kind words were a lifeline to her."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lifelong",
     "say": "LYF-long",
     "senses": [
@@ -413,6 +516,34 @@
             "She has been my lifelong friend since we were babies.",
             "His lifelong dream was to fly an airplane.",
             "Reading is a lifelong habit."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lifesaver",
+    "say": "LYFE-say-ver",
+    "forms": [
+      "lifesavers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person or thing that helps in a very important way.",
+          "examples": [
+            "You are a lifesaver!",
+            "The map was a lifesaver.",
+            "The snack was a lifesaver."
+          ]
+        },
+        "more": {
+          "def": "A person or thing that helps you in a time of need, or a person who saves people from drowning.",
+          "examples": [
+            "The umbrella was a lifesaver in the rain.",
+            "Thanks for the ride, you are a lifesaver.",
+            "The lifesaver at the pool pulled the child to safety."
           ]
         }
       }
@@ -524,6 +655,62 @@
     ]
   },
   {
+    "word": "lifter",
+    "say": "LIF-ter",
+    "forms": [
+      "lifters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person or thing that lifts.",
+          "examples": [
+            "The lifter raised the box.",
+            "A weight lifter is strong.",
+            "The lifter is a machine."
+          ]
+        },
+        "more": {
+          "def": "A person or machine that lifts things.",
+          "examples": [
+            "The weight lifter raised the bar over his head.",
+            "A machine lifter moved the heavy crates.",
+            "The lifter in the warehouse was busy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "liftoff",
+    "say": "LIFT-awf",
+    "forms": [
+      "liftoffs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When a rocket leaves the ground.",
+          "examples": [
+            "The liftoff was loud.",
+            "We watched the liftoff.",
+            "Liftoff is at noon."
+          ]
+        },
+        "more": {
+          "def": "The moment when a rocket or spacecraft leaves the ground.",
+          "examples": [
+            "We watched the rocket's liftoff on TV.",
+            "Liftoff happened at noon.",
+            "The crowd cheered at liftoff."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "light",
     "say": "lyt",
     "forms": [
@@ -577,6 +764,34 @@
       {
         "word": "relight",
         "def": "To light again."
+      }
+    ]
+  },
+  {
+    "word": "lightbulb",
+    "say": "LYTE-bulb",
+    "forms": [
+      "lightbulbs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A glass bulb that gives light.",
+          "examples": [
+            "The lightbulb is bright.",
+            "I changed a lightbulb.",
+            "The lightbulb burned out."
+          ]
+        },
+        "more": {
+          "def": "A glass bulb that gives off light when electricity passes through it.",
+          "examples": [
+            "Dad changed the lightbulb in the lamp.",
+            "A lightbulb hung from the ceiling by a long cord.",
+            "A lightbulb glowed above the table."
+          ]
+        }
       }
     ]
   },
@@ -716,6 +931,65 @@
     ]
   },
   {
+    "word": "lightweight",
+    "say": "LYTE-wayt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not heavy.",
+          "examples": [
+            "The bag is lightweight.",
+            "I have a lightweight coat.",
+            "The toy is lightweight."
+          ]
+        },
+        "more": {
+          "def": "Weighing very little.",
+          "examples": [
+            "The lightweight jacket was easy to pack.",
+            "She carried a lightweight tent on the hike.",
+            "The lightweight plastic cup floated on the water."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "likable",
+    "say": "LY-kuh-bul",
+    "forms": [
+      "likeable"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Easy to like.",
+          "examples": [
+            "The puppy is likable.",
+            "He is a likable boy.",
+            "She is a likable teacher."
+          ]
+        },
+        "more": {
+          "def": "Pleasant and easy to like.",
+          "examples": [
+            "The new boy was friendly and likable.",
+            "She is a likable character in the story.",
+            "The shy but likable puppy made friends fast."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unlikable",
+        "def": "Not easy to like."
+      }
+    ]
+  },
+  {
     "word": "like",
     "say": "lyk",
     "forms": [
@@ -759,6 +1033,31 @@
             "The clouds looked like cotton balls floating in the sky.",
             "She sings like a bird, with a clear and sweet voice.",
             "A zebra looks like a horse with stripes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "likelihood",
+    "say": "LYKE-lee-hud",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How likely something is.",
+          "examples": [
+            "There is a likelihood of rain.",
+            "The likelihood is small.",
+            "What is the likelihood of snow?"
+          ]
+        },
+        "more": {
+          "def": "The chance that something will happen.",
+          "examples": [
+            "There is a high likelihood of rain tomorrow.",
+            "The likelihood of finding a four-leaf clover is small.",
+            "With such dark clouds, the likelihood of a picnic was low."
           ]
         }
       }
@@ -822,6 +1121,34 @@
     ]
   },
   {
+    "word": "lilac",
+    "say": "LY-lak",
+    "forms": [
+      "lilacs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bush with sweet-smelling purple flowers.",
+          "examples": [
+            "The lilac smells sweet.",
+            "We picked a lilac.",
+            "The lilac is purple."
+          ]
+        },
+        "more": {
+          "def": "A bush with clusters of sweet-smelling pale purple or white flowers.",
+          "examples": [
+            "The lilac in our yard smells sweet in spring.",
+            "Mom put lilacs in a vase.",
+            "Bees buzzed around the lilac bush."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "limb",
     "say": "lim",
     "forms": [
@@ -844,6 +1171,36 @@
             "A tree limb fell in the storm.",
             "Your arms and legs are limbs.",
             "The bird sat on a high limb."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "limber",
+    "say": "LIM-ber",
+    "forms": [
+      "limbers",
+      "limbered",
+      "limbering"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to bend and move easily.",
+          "examples": [
+            "The dancer is limber.",
+            "I saw a limber cat.",
+            "She is limber."
+          ]
+        },
+        "more": {
+          "def": "Able to bend and move easily.",
+          "examples": [
+            "The limber gymnast bent over backwards.",
+            "The cat is limber and can squeeze through gaps.",
+            "He stretched to stay limber."
           ]
         }
       }
@@ -1006,6 +1363,31 @@
     ]
   },
   {
+    "word": "limitless",
+    "say": "LIM-it-less",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "With no end.",
+          "examples": [
+            "Her energy is limitless.",
+            "A limitless sky.",
+            "The ideas are limitless."
+          ]
+        },
+        "more": {
+          "def": "Having no limit or end.",
+          "examples": [
+            "The sky seemed limitless.",
+            "Her energy seemed limitless.",
+            "His imagination is limitless."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "limo",
     "say": "LIM-oh",
     "forms": [
@@ -1161,6 +1543,34 @@
     ]
   },
   {
+    "word": "linebacker",
+    "say": "LYNE-bak-er",
+    "forms": [
+      "linebackers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A football player who tries to stop the other team.",
+          "examples": [
+            "The linebacker tackled.",
+            "A linebacker is strong.",
+            "He is a linebacker."
+          ]
+        },
+        "more": {
+          "def": "A player on a football team who stands behind the front line to stop the other team.",
+          "examples": [
+            "The linebacker stopped the runner.",
+            "A linebacker has to be fast and strong.",
+            "He plays linebacker for the high school team."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "linen",
     "say": "LIN-un",
     "forms": [
@@ -1275,6 +1685,34 @@
     ]
   },
   {
+    "word": "lingo",
+    "say": "LING-goh",
+    "forms": [
+      "lingoes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The special words used by a group.",
+          "examples": [
+            "I learned the lingo.",
+            "Sailors have their own lingo.",
+            "The lingo was new to me."
+          ]
+        },
+        "more": {
+          "def": "The special words and way of speaking used by a certain group.",
+          "examples": [
+            "Sailors have their own lingo for parts of a ship.",
+            "Gamers use lingo that other people may not know.",
+            "I learned the lingo of the baseball team."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lining",
     "say": "LY-ning",
     "forms": [
@@ -1347,6 +1785,56 @@
             "Click the link to read more about whales.",
             "The teacher sent us a link to a video.",
             "There is a link at the bottom of the page."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "linoleum",
+    "say": "lih-NOH-lee-um",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A smooth floor covering.",
+          "examples": [
+            "The floor is linoleum.",
+            "The linoleum is shiny.",
+            "The linoleum is easy to clean."
+          ]
+        },
+        "more": {
+          "def": "A smooth, hard floor covering that is easy to wash.",
+          "examples": [
+            "The kitchen floor is covered with linoleum.",
+            "The linoleum was shiny and easy to mop.",
+            "We slid across the linoleum in our socks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lint",
+    "say": "lint",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Tiny bits of fluff from cloth.",
+          "examples": [
+            "There is lint on my shirt.",
+            "The dryer has lint.",
+            "I picked lint off my sweater."
+          ]
+        },
+        "more": {
+          "def": "Tiny bits of fluff from cloth that gather on clothes or in a dryer.",
+          "examples": [
+            "Dad cleaned the lint out of the dryer.",
+            "There was lint in my pocket.",
+            "A roller picks up lint from the dark jacket."
           ]
         }
       }
@@ -1628,6 +2116,31 @@
             "We bought a one-liter bottle of juice for the picnic.",
             "The fish tank holds about forty liters of water.",
             "A liter is the same as a thousand milliliters."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "literal",
+    "say": "LIT-er-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Meaning exactly what the words say.",
+          "examples": [
+            "The literal meaning is plain.",
+            "Take the words as literal.",
+            "It is a literal translation."
+          ]
+        },
+        "more": {
+          "def": "Following the exact meaning of the words, not a figure of speech.",
+          "examples": [
+            "The literal meaning of \"raining cats and dogs\" is silly.",
+            "The book gave a literal translation of each word.",
+            "He took her joke in a literal way and looked for the cat."
           ]
         }
       }

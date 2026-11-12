@@ -1,5 +1,30 @@
 [
   {
+    "word": "micro",
+    "say": "MY-kroh",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very small.",
+          "examples": [
+            "A micro chip.",
+            "The micro car is tiny.",
+            "It is a micro house."
+          ]
+        },
+        "more": {
+          "def": "Extremely small.",
+          "examples": [
+            "A micro chip is inside the phone.",
+            "The micro car is small enough to park anywhere.",
+            "They live in a micro house."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "microphone",
     "say": "MY-kruh-fohn",
     "emoji": "🎤",
@@ -58,6 +83,31 @@
     ]
   },
   {
+    "word": "microscopic",
+    "say": "my-kruh-SKOP-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "So small you need a microscope to see it.",
+          "examples": [
+            "A germ is microscopic.",
+            "The bug was microscopic.",
+            "Cells are microscopic."
+          ]
+        },
+        "more": {
+          "def": "Too small to be seen without a microscope.",
+          "examples": [
+            "Germs are microscopic, so we cannot see them.",
+            "The scientist studied microscopic animals in pond water.",
+            "Microscopic dust floated in the air."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "microwave",
     "say": "MY-kroh-wayv",
     "forms": [
@@ -101,6 +151,81 @@
             "I microwaved the leftover pasta for lunch.",
             "Dad microwaved a bowl of soup in two minutes.",
             "She microwaved the potato until it was soft."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mid",
+    "say": "mid",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "In the middle of.",
+          "examples": [
+            "We left in mid-July.",
+            "He stopped mid-sentence.",
+            "It happened in mid-air."
+          ]
+        },
+        "more": {
+          "def": "In the middle of something.",
+          "examples": [
+            "The ball stopped in mid-air for a moment.",
+            "We take a trip in mid-July.",
+            "She stopped mid-sentence when the bell rang."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "midair",
+    "say": "mid-AIR",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "In the air.",
+          "examples": [
+            "The ball stopped in midair.",
+            "The bird froze in midair.",
+            "He caught it in midair."
+          ]
+        },
+        "more": {
+          "def": "A place in the air, not touching the ground.",
+          "examples": [
+            "The ball hung in midair for a moment.",
+            "The bird stopped in midair to catch a bug.",
+            "She caught the Frisbee in midair."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "midday",
+    "say": "MID-day",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Noon, the middle of the day.",
+          "examples": [
+            "We eat at midday.",
+            "The sun is high at midday.",
+            "Midday is hot."
+          ]
+        },
+        "more": {
+          "def": "The middle of the day, around noon.",
+          "examples": [
+            "We ate lunch at midday.",
+            "The farmers rested in the shade at midday.",
+            "The shops closed at midday."
           ]
         }
       }
@@ -154,6 +279,34 @@
     ]
   },
   {
+    "word": "middleman",
+    "say": "MID-ul-man",
+    "forms": [
+      "middlemen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who buys from one and sells to another.",
+          "examples": [
+            "A middleman sells goods.",
+            "The middleman took the fruit to the shop.",
+            "We bought it from a middleman."
+          ]
+        },
+        "more": {
+          "def": "A person who buys goods from makers and sells them to shops or other people.",
+          "examples": [
+            "A middleman bought apples from the farm and sold them to stores.",
+            "The middleman helped the farmer sell his fruit.",
+            "Without a middleman, the farmer sold his eggs at the market himself."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "midnight",
     "say": "MID-nyt",
     "emoji": "🌙",
@@ -199,6 +352,31 @@
             "He stood in the midst of the crowd.",
             "We were in the midst of lunch when the phone rang.",
             "A deer stood in the midst of the quiet forest."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "midsummer",
+    "say": "MID-sum-er",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The middle of summer.",
+          "examples": [
+            "In midsummer it is hot.",
+            "We swim in midsummer.",
+            "Midsummer is warm."
+          ]
+        },
+        "more": {
+          "def": "The middle part of the summer season.",
+          "examples": [
+            "In midsummer the days are long and hot.",
+            "The fair is held in midsummer.",
+            "Fireflies glow in midsummer."
           ]
         }
       }
@@ -363,6 +541,34 @@
     ]
   },
   {
+    "word": "migration",
+    "say": "my-GRAY-shun",
+    "forms": [
+      "migrations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big trip made by animals each year.",
+          "examples": [
+            "Birds make a migration.",
+            "The migration is long.",
+            "Whales have a migration."
+          ]
+        },
+        "more": {
+          "def": "A regular trip that animals make from one place to another at certain times of year.",
+          "examples": [
+            "Monarch butterflies make a long migration each fall.",
+            "The geese began their migration south.",
+            "Scientists tracked the whales' migration."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mild",
     "say": "myld",
     "forms": [
@@ -387,6 +593,31 @@
             "The weather is mild in spring.",
             "The salsa was mild, not spicy.",
             "I had a mild cold."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mildew",
+    "say": "MIL-doo",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A grayish growth on damp things.",
+          "examples": [
+            "There is mildew on the wall.",
+            "The mildew smells.",
+            "Mildew grows in damp places."
+          ]
+        },
+        "more": {
+          "def": "A thin white or gray growth that forms on damp surfaces.",
+          "examples": [
+            "There was mildew on the shower curtain.",
+            "Mildew grows in damp rooms.",
+            "The old books smelled of mildew."
           ]
         }
       }
@@ -515,6 +746,90 @@
             "The farmer milks the cows every morning.",
             "She milked the goat before breakfast.",
             "They milked the cow by hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "milkmaid",
+    "say": "MILK-mayd",
+    "forms": [
+      "milkmaids"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A girl or woman who milks cows.",
+          "examples": [
+            "The milkmaid milked a cow.",
+            "A milkmaid sat.",
+            "The milkmaid sang."
+          ]
+        },
+        "more": {
+          "def": "A girl or woman who milks cows, in old stories.",
+          "examples": [
+            "The milkmaid carried a bucket of milk.",
+            "In the story, a milkmaid dreamed of riches.",
+            "The milkmaid sang as she milked the cow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "milkman",
+    "say": "MILK-man",
+    "forms": [
+      "milkmen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man who brings milk to your house.",
+          "examples": [
+            "The milkman came.",
+            "A milkman left milk.",
+            "The milkman drove a truck."
+          ]
+        },
+        "more": {
+          "def": "A man who brings bottles of milk to people's homes.",
+          "examples": [
+            "Long ago, the milkman came every morning.",
+            "The milkman left two bottles at the door.",
+            "Grandpa remembers the milkman and his truck."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "milkshake",
+    "say": "MILK-shayk",
+    "forms": [
+      "milkshakes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thick, cold drink of milk and ice cream.",
+          "examples": [
+            "I like a milkshake.",
+            "The milkshake is cold.",
+            "We shared a milkshake."
+          ]
+        },
+        "more": {
+          "def": "A thick, cold drink made of milk, ice cream and flavoring.",
+          "examples": [
+            "I ordered a chocolate milkshake.",
+            "We shared a strawberry milkshake.",
+            "The milkshake was so thick I needed a spoon."
           ]
         }
       }
@@ -721,6 +1036,34 @@
     ]
   },
   {
+    "word": "millionth",
+    "say": "MIL-yunth",
+    "forms": [
+      "millionths"
+    ],
+    "senses": [
+      {
+        "pos": "number",
+        "easy": {
+          "def": "The one after nine hundred ninety-nine thousand.",
+          "examples": [
+            "A millionth part.",
+            "The millionth visitor.",
+            "It is the millionth."
+          ]
+        },
+        "more": {
+          "def": "Number one million in order, or one of a million equal parts.",
+          "examples": [
+            "The millionth visitor got a prize.",
+            "A millionth of a second is very short.",
+            "She was the millionth customer to enter."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mime",
     "say": "mym",
     "forms": [
@@ -819,6 +1162,36 @@
     ]
   },
   {
+    "word": "mince",
+    "say": "minss",
+    "forms": [
+      "minces",
+      "minced",
+      "mincing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cut into very small bits.",
+          "examples": [
+            "Mom will mince the garlic.",
+            "She minced the onion.",
+            "Dad minced the herbs."
+          ]
+        },
+        "more": {
+          "def": "To chop food into very small pieces.",
+          "examples": [
+            "Mom minced the garlic for the sauce.",
+            "She minced the onion into tiny bits.",
+            "Dad minced the parsley."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mind",
     "say": "mynd",
     "forms": [
@@ -862,6 +1235,31 @@
             "I do not mind sharing my crayons with you.",
             "Would you mind closing the window, please?",
             "He minded the cold less than his brother did."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mindful",
+    "say": "MYND-ful",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Paying attention and aware.",
+          "examples": [
+            "Be mindful of others.",
+            "She is mindful.",
+            "He was mindful of the time."
+          ]
+        },
+        "more": {
+          "def": "Paying attention to something and being aware of it.",
+          "examples": [
+            "Be mindful of the wet floor.",
+            "She was mindful of the time and left early.",
+            "He is always mindful of other people's feelings."
           ]
         }
       }
@@ -912,6 +1310,34 @@
             "I found a blue backpack, but it is not mine.",
             "Your drawing is great, and mine is not as good.",
             "The seat next to the window is mine."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "minefield",
+    "say": "MYN-feeld",
+    "forms": [
+      "minefields"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where hidden bombs are buried.",
+          "examples": [
+            "The soldiers found a minefield.",
+            "A sign warned of the minefield.",
+            "The minefield was fenced off."
+          ]
+        },
+        "more": {
+          "def": "An area where explosives have been hidden under the ground to stop people from passing.",
+          "examples": [
+            "Workers carefully cleared the old minefield so farmers could use the land.",
+            "A fence and warning signs surrounded the minefield.",
+            "Maps help people stay away from every minefield."
           ]
         }
       }
@@ -1073,6 +1499,36 @@
             "He collected miniatures of famous buildings, each small enough to hold.",
             "The shop sold miniatures of old cars.",
             "The artist painted a miniature of the tiny flower."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "minimize",
+    "say": "MIN-ih-myze",
+    "forms": [
+      "minimizes",
+      "minimized",
+      "minimizing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make as small as you can.",
+          "examples": [
+            "Wear a hat to minimize the sun.",
+            "We minimize waste.",
+            "She minimized the window."
+          ]
+        },
+        "more": {
+          "def": "To make something as small as possible, or to make a computer window small.",
+          "examples": [
+            "Wearing a helmet helps minimize the risk of injury.",
+            "We tried to minimize noise while the baby slept.",
+            "He minimized the window to see the page behind it."
           ]
         }
       }
@@ -1263,6 +1719,34 @@
     ]
   },
   {
+    "word": "minnow",
+    "say": "MIN-oh",
+    "forms": [
+      "minnows"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny fish.",
+          "examples": [
+            "A minnow swam.",
+            "The minnow is small.",
+            "We caught a minnow."
+          ]
+        },
+        "more": {
+          "def": "A very small freshwater fish, often used as bait.",
+          "examples": [
+            "We caught a minnow in the creek.",
+            "A school of minnows darted through the water.",
+            "The minnow is only an inch long."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "minor",
     "say": "MY-ner",
     "forms": [
@@ -1360,6 +1844,35 @@
             "I ate a mint after dinner.",
             "The waiter left a mint with the bill.",
             "She sucked on a mint."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "minty",
+    "say": "MIN-tee",
+    "forms": [
+      "mintier",
+      "mintiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Tasting like mint.",
+          "examples": [
+            "The gum is minty.",
+            "A minty taste.",
+            "The candy is minty."
+          ]
+        },
+        "more": {
+          "def": "Tasting or smelling like mint.",
+          "examples": [
+            "The toothpaste has a minty taste.",
+            "The minty gum was cool.",
+            "The tea had a fresh, minty smell."
           ]
         }
       }
@@ -1530,6 +2043,89 @@
     ]
   },
   {
+    "word": "misbehave",
+    "say": "mis-bih-HAYV",
+    "forms": [
+      "misbehaves",
+      "misbehaved",
+      "misbehaving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To act in a way that is not good.",
+          "examples": [
+            "Do not misbehave in class.",
+            "The puppy misbehaved.",
+            "Kids sometimes misbehave."
+          ]
+        },
+        "more": {
+          "def": "To behave badly or break the rules.",
+          "examples": [
+            "The puppy misbehaved and chewed my shoe.",
+            "The teacher asked the students not to misbehave on the trip.",
+            "Some children misbehave when they are tired."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "miscalculation",
+    "say": "mis-kal-kyuh-LAY-shun",
+    "forms": [
+      "miscalculations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wrong guess in numbers.",
+          "examples": [
+            "It was a miscalculation.",
+            "A miscalculation caused the mistake.",
+            "I made a miscalculation."
+          ]
+        },
+        "more": {
+          "def": "A mistake in working out an amount or a plan.",
+          "examples": [
+            "A miscalculation made the bridge too short.",
+            "I made a miscalculation and got the wrong answer.",
+            "A small miscalculation caused the delay."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "miscellaneous",
+    "say": "mis-uh-LAY-nee-us",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Mixed and of different kinds.",
+          "examples": [
+            "A box of miscellaneous things.",
+            "Miscellaneous items.",
+            "The drawer is miscellaneous."
+          ]
+        },
+        "more": {
+          "def": "Made up of many different kinds of things.",
+          "examples": [
+            "The drawer held miscellaneous odds and ends.",
+            "A box of miscellaneous toys sat in the corner.",
+            "Miscellaneous items were sold at the sale."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mischief",
     "say": "MISS-chif",
     "emoji": "😈",
@@ -1550,6 +2146,84 @@
             "The twins were always up to some kind of mischief.",
             "The monkey's mischief made the zookeeper laugh.",
             "There was a look of mischief in her eyes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mischievous",
+    "say": "MIS-chih-vus",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Playful and likes to make trouble.",
+          "examples": [
+            "The mischievous puppy chewed.",
+            "A mischievous grin.",
+            "The kitten is mischievous."
+          ]
+        },
+        "more": {
+          "def": "Playful in a naughty way and fond of causing small trouble.",
+          "examples": [
+            "The mischievous puppy hid my shoe.",
+            "He had a mischievous grin on his face.",
+            "The mischievous monkey grabbed a hat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "misconception",
+    "say": "mis-kun-SEP-shun",
+    "forms": [
+      "misconceptions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wrong idea.",
+          "examples": [
+            "That is a misconception.",
+            "I had a misconception.",
+            "It is a common misconception."
+          ]
+        },
+        "more": {
+          "def": "A wrong idea that comes from not understanding something.",
+          "examples": [
+            "It is a misconception that bats are blind.",
+            "I had a misconception about how big whales were.",
+            "The teacher cleared up the misconception."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "misconduct",
+    "say": "mis-KON-dukt",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Bad behavior.",
+          "examples": [
+            "The player was punished for misconduct.",
+            "Misconduct is not allowed.",
+            "The misconduct was clear."
+          ]
+        },
+        "more": {
+          "def": "Behavior that is wrong or breaks the rules.",
+          "examples": [
+            "The player was sent off for misconduct.",
+            "The school does not allow misconduct.",
+            "The student was spoken to about misconduct."
           ]
         }
       }
@@ -1606,6 +2280,64 @@
             "The cold rain made the camping trip a misery.",
             "She was in misery with a bad cold.",
             "The kitten's misery ended when we found it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "misfire",
+    "say": "MIS-fyer",
+    "forms": [
+      "misfires",
+      "misfired",
+      "misfiring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To fail to work as planned.",
+          "examples": [
+            "The plan may misfire.",
+            "The joke misfired.",
+            "The engine misfired."
+          ]
+        },
+        "more": {
+          "def": "To fail to work as planned or expected.",
+          "examples": [
+            "The joke misfired and nobody laughed.",
+            "The engine sputtered and misfired.",
+            "The plan to surprise her misfired."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "misfit",
+    "say": "MIS-fit",
+    "forms": [
+      "misfits"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person or thing that does not fit in.",
+          "examples": [
+            "He felt like a misfit.",
+            "The odd sock is a misfit.",
+            "She was a misfit at the party."
+          ]
+        },
+        "more": {
+          "def": "A person or thing that does not seem to belong with the others.",
+          "examples": [
+            "The new boy felt like a misfit at first.",
+            "One sock was a misfit in the pair.",
+            "In the story, a group of misfits became friends."
           ]
         }
       }
@@ -1725,6 +2457,31 @@
     ]
   },
   {
+    "word": "misleading",
+    "say": "mis-LEE-ding",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Giving the wrong idea.",
+          "examples": [
+            "The sign was misleading.",
+            "A misleading map.",
+            "The title is misleading."
+          ]
+        },
+        "more": {
+          "def": "Giving a wrong idea so that people believe something untrue.",
+          "examples": [
+            "The sign was misleading and sent us the wrong way.",
+            "The map was misleading about the road.",
+            "The title of the book was misleading."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "misplace",
     "say": "mis-PLAYSS",
     "forms": [
@@ -1749,6 +2506,35 @@
             "I misplaced my keys and could not find them.",
             "She misplaced her glasses and looked all over.",
             "He misplaced his hat at the park."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "misread",
+    "say": "mis-REED",
+    "forms": [
+      "misreads",
+      "misreading"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To read something wrongly.",
+          "examples": [
+            "I misread the sign.",
+            "She misread the clock.",
+            "He misread the word."
+          ]
+        },
+        "more": {
+          "def": "To read or understand something in the wrong way.",
+          "examples": [
+            "I misread the sign and turned the wrong way.",
+            "She misread the clock and was late.",
+            "He misread the directions and got lost."
           ]
         }
       }
@@ -2000,6 +2786,85 @@
     ]
   },
   {
+    "word": "mistreat",
+    "say": "mis-TREET",
+    "forms": [
+      "mistreats",
+      "mistreated",
+      "mistreating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be unkind to someone or something.",
+          "examples": [
+            "Do not mistreat animals.",
+            "He mistreated his toy.",
+            "Never mistreat a pet."
+          ]
+        },
+        "more": {
+          "def": "To treat a person or animal in a rough or unkind way.",
+          "examples": [
+            "We should never mistreat animals.",
+            "He mistreated his books by throwing them around.",
+            "The girl in the story worked to stop people from mistreating horses."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mistrust",
+    "say": "mis-TRUST",
+    "forms": [
+      "mistrusts",
+      "mistrusted",
+      "mistrusting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Not trusting someone.",
+          "examples": [
+            "He felt mistrust.",
+            "The mistrust grew.",
+            "There was mistrust."
+          ]
+        },
+        "more": {
+          "def": "A feeling that someone or something cannot be trusted.",
+          "examples": [
+            "He looked at the stranger with mistrust.",
+            "The cat showed mistrust of the vacuum.",
+            "The two sides were full of mistrust."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not trust.",
+          "examples": [
+            "I mistrust the sign.",
+            "He mistrusted the stranger.",
+            "She mistrusts the map."
+          ]
+        },
+        "more": {
+          "def": "To feel that a person or thing cannot be trusted.",
+          "examples": [
+            "He mistrusted the old bridge.",
+            "She mistrusted the stranger at the door.",
+            "They mistrusted the map because it was old."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "misty",
     "say": "MIS-tee",
     "forms": [
@@ -2087,6 +2952,55 @@
     ]
   },
   {
+    "word": "misuse",
+    "say": "mis-YOOSS",
+    "forms": [
+      "misuses",
+      "misused",
+      "misusing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Using something in the wrong way.",
+          "examples": [
+            "Misuse can break the toy.",
+            "The misuse of the tool was unsafe.",
+            "That is a misuse of time."
+          ]
+        },
+        "more": {
+          "def": "The wrong or careless use of something.",
+          "examples": [
+            "The misuse of the tool broke it.",
+            "Misuse of the computer can cause problems.",
+            "He was told that was a misuse of the class time."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To use something in the wrong way.",
+          "examples": [
+            "Do not misuse the tools.",
+            "He misused the pen.",
+            "Never misuse the water."
+          ]
+        },
+        "more": {
+          "def": "To use something in a wrong or careless way.",
+          "examples": [
+            "Do not misuse the scissors.",
+            "She misused the word in her sentence.",
+            "The boy misused the swing and broke it."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mite",
     "say": "myt",
     "forms": [
@@ -2143,6 +3057,35 @@
     ]
   },
   {
+    "word": "mitten",
+    "say": "MIT-un",
+    "emoji": "🧤",
+    "forms": [
+      "mittens"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A warm glove with one part for the thumb.",
+          "examples": [
+            "I lost my red mitten.",
+            "Put on your mittens, it is snowy.",
+            "One mitten fell in the snow."
+          ]
+        },
+        "more": {
+          "def": "A warm covering for the hand with one space for the thumb and one for all four fingers.",
+          "examples": [
+            "She knitted a pair of blue mittens for her brother.",
+            "He pulled off one mitten to tie his boot.",
+            "Mittens keep fingers warmer than gloves do because they stay together."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mix",
     "say": "miks",
     "forms": [
@@ -2175,6 +3118,34 @@
       {
         "word": "remix",
         "def": "To mix again; a new mix of a song."
+      }
+    ]
+  },
+  {
+    "word": "mixer",
+    "say": "MIK-ser",
+    "forms": [
+      "mixers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that stirs food together.",
+          "examples": [
+            "Mom used the mixer for the cake.",
+            "The mixer is loud.",
+            "Dad turned on the mixer."
+          ]
+        },
+        "more": {
+          "def": "A machine or tool that mixes things together, especially in cooking.",
+          "examples": [
+            "The baker used a mixer to beat the eggs.",
+            "A mixer stirred the cake batter in the big bowl.",
+            "We washed the beaters on the mixer after making cookies."
+          ]
+        }
       }
     ]
   },

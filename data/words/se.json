@@ -54,6 +54,34 @@
     ]
   },
   {
+    "word": "seaboard",
+    "say": "SEE-bord",
+    "forms": [
+      "seaboards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Land along the edge of the sea.",
+          "examples": [
+            "The town is on the seaboard.",
+            "We drove along the seaboard.",
+            "Ships sail the seaboard."
+          ]
+        },
+        "more": {
+          "def": "The land along the edge of the sea or ocean.",
+          "examples": [
+            "Many big cities are along the eastern seaboard.",
+            "We drove down the seaboard to the beach town.",
+            "Storms often hit the seaboard in autumn."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "seafood",
     "say": "SEE-food",
     "senses": [
@@ -249,6 +277,34 @@
     ]
   },
   {
+    "word": "seamstress",
+    "say": "SEEM-striss",
+    "forms": [
+      "seamstresses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A woman who sews clothes.",
+          "examples": [
+            "The seamstress sewed a dress.",
+            "A seamstress used a needle.",
+            "The seamstress fixed my pants."
+          ]
+        },
+        "more": {
+          "def": "A woman whose job is to sew clothes.",
+          "examples": [
+            "The seamstress hemmed the dress.",
+            "A seamstress sewed the costumes for the play.",
+            "The seamstress used a thimble and needle."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "search",
     "say": "serch",
     "forms": [
@@ -298,6 +354,175 @@
     ]
   },
   {
+    "word": "searcher",
+    "say": "SER-cher",
+    "forms": [
+      "searchers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who looks for something.",
+          "examples": [
+            "The searcher looked everywhere.",
+            "A searcher found the keys.",
+            "The searcher walked slowly."
+          ]
+        },
+        "more": {
+          "def": "A person who looks carefully for something.",
+          "examples": [
+            "The searcher found the lost keys.",
+            "A team of searchers looked for the missing hiker.",
+            "The searcher checked under every bed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "searchlight",
+    "say": "SERCH-lyte",
+    "forms": [
+      "searchlights"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very bright light that shines far.",
+          "examples": [
+            "The searchlight lit up the sky.",
+            "A searchlight shone.",
+            "The searchlight is bright."
+          ]
+        },
+        "more": {
+          "def": "A powerful light that can be pointed in any direction to light up a far place.",
+          "examples": [
+            "A searchlight swept across the night sky.",
+            "The ship's searchlight found the small boat.",
+            "The lighthouse had a bright searchlight."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "seashell",
+    "say": "SEE-shel",
+    "emoji": "🐚",
+    "forms": [
+      "seashells"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shell that came from the sea.",
+          "examples": [
+            "I found a seashell.",
+            "The seashell is pink.",
+            "She holds a seashell."
+          ]
+        },
+        "more": {
+          "def": "The hard outer covering of a sea animal, often found on a beach.",
+          "examples": [
+            "I found a pink seashell on the beach.",
+            "You can hear the sea when you hold a seashell to your ear.",
+            "She collected seashells in a bucket."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "seashore",
+    "say": "SEE-shor",
+    "forms": [
+      "seashores"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The land beside the sea.",
+          "examples": [
+            "We went to the seashore.",
+            "The seashore has sand.",
+            "Shells lay on the seashore."
+          ]
+        },
+        "more": {
+          "def": "The land along the edge of the sea.",
+          "examples": [
+            "We spent the day at the seashore.",
+            "Shells lay scattered on the seashore.",
+            "Gulls cried over the seashore."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "seasick",
+    "say": "SEE-sik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling sick from the rocking of a boat.",
+          "examples": [
+            "I felt seasick on the boat.",
+            "The seasick sailor was pale.",
+            "Waves made her seasick."
+          ]
+        },
+        "more": {
+          "def": "Feeling sick to your stomach from the rocking of a boat or ship.",
+          "examples": [
+            "The rough waves made me feel seasick.",
+            "A seasick passenger sat quietly on the deck.",
+            "Dad took a pill so he would not be seasick on the ferry."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "seasickness",
+        "def": "Feeling seasick."
+      }
+    ]
+  },
+  {
+    "word": "seaside",
+    "say": "SEE-syde",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The place by the sea.",
+          "examples": [
+            "We went to the seaside.",
+            "The seaside is fun.",
+            "We played at the seaside."
+          ]
+        },
+        "more": {
+          "def": "The land next to the sea, especially a place for holidays.",
+          "examples": [
+            "We spent our vacation at the seaside.",
+            "Children built sandcastles at the seaside.",
+            "The seaside town has a long pier."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "season",
     "say": "SEE-zun",
     "emoji": "🍂",
@@ -333,6 +558,84 @@
     ]
   },
   {
+    "word": "seasonal",
+    "say": "SEE-zuh-nul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happening in one season.",
+          "examples": [
+            "The fruit is seasonal.",
+            "Seasonal work.",
+            "A seasonal sale began."
+          ]
+        },
+        "more": {
+          "def": "Happening or available at a certain time of year.",
+          "examples": [
+            "Strawberries are a seasonal fruit that comes in spring.",
+            "The store hires extra helpers for the seasonal rush.",
+            "Seasonal flowers bloom in the garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "seasoned",
+    "say": "SEE-zund",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having spices added, or having lots of practice.",
+          "examples": [
+            "The seasoned chicken tasted good.",
+            "A seasoned cook knows how.",
+            "The seasoned sailor knew."
+          ]
+        },
+        "more": {
+          "def": "Having spices added to it, or having a lot of experience.",
+          "examples": [
+            "The seasoned chicken smelled delicious.",
+            "A seasoned sailor knew how to read the sky.",
+            "The seasoned hiker led us up the mountain."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "seasoning",
+    "say": "SEE-zun-ing",
+    "forms": [
+      "seasonings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Salt, pepper or spice added to food.",
+          "examples": [
+            "Salt is a seasoning.",
+            "Add seasoning.",
+            "The seasoning smells good."
+          ]
+        },
+        "more": {
+          "def": "Salt, pepper, herbs or spices added to food to give it flavor.",
+          "examples": [
+            "Salt and pepper are common seasonings.",
+            "Mom added seasoning to the soup.",
+            "The seasoning gave the chicken a spicy taste."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "seat",
     "say": "seet",
     "emoji": "💺",
@@ -356,6 +659,34 @@
             "The movie theater has a thousand seats.",
             "Please take your seat and open your book.",
             "The back seat of the car was crowded."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "seatbelt",
+    "say": "SEET-belt",
+    "forms": [
+      "seatbelts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strap that keeps you safe in a car seat.",
+          "examples": [
+            "Buckle your seatbelt.",
+            "I wear a seatbelt.",
+            "The seatbelt holds me in."
+          ]
+        },
+        "more": {
+          "def": "A strap that holds you in your seat in a car or plane to keep you safe.",
+          "examples": [
+            "Buckle your seatbelt before the car starts.",
+            "The seatbelt keeps passengers safe in a sudden stop.",
+            "Everyone in the car wore a seatbelt."
           ]
         }
       }
@@ -387,6 +718,31 @@
     ]
   },
   {
+    "word": "seawater",
+    "say": "SEE-waw-ter",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Water from the sea.",
+          "examples": [
+            "Seawater is salty.",
+            "The seawater is cold.",
+            "I swam in seawater."
+          ]
+        },
+        "more": {
+          "def": "The salty water of the sea.",
+          "examples": [
+            "Seawater is salty and cannot be drunk.",
+            "The seawater was cold and clear.",
+            "Salt is made by drying seawater."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "seaweed",
     "say": "SEE-weed",
     "senses": [
@@ -406,6 +762,31 @@
             "Green seaweed washed up on the beach after the storm.",
             "Seaweed grows in the ocean, and some kinds are eaten as food.",
             "Fish hide among the seaweed in the shallow water."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "seclusion",
+    "say": "sih-KLOO-zhun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being alone and away from others.",
+          "examples": [
+            "The cabin is in seclusion.",
+            "The hermit lived in seclusion.",
+            "I enjoy seclusion."
+          ]
+        },
+        "more": {
+          "def": "The state of being away from other people.",
+          "examples": [
+            "The hermit lived in seclusion in the woods.",
+            "The cabin was in seclusion far from town.",
+            "She enjoyed a day of seclusion with a book."
           ]
         }
       }
@@ -478,6 +859,31 @@
             "The main road meets a secondary road at the bridge.",
             "Green is a secondary color, made by mixing blue and yellow.",
             "Winning is secondary to having fun with your team."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "secondhand",
+    "say": "SEK-und-hand",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Used before by someone else.",
+          "examples": [
+            "I got a secondhand bike.",
+            "The secondhand shirt is nice.",
+            "We bought a secondhand desk."
+          ]
+        },
+        "more": {
+          "def": "Owned or used by someone else before you.",
+          "examples": [
+            "I got a secondhand bike from my cousin.",
+            "We found a secondhand desk at the sale.",
+            "The secondhand books cost very little."
           ]
         }
       }
@@ -566,6 +972,31 @@
     ]
   },
   {
+    "word": "secretive",
+    "say": "SEE-krih-tiv",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Liking to keep things hidden.",
+          "examples": [
+            "The cat is secretive.",
+            "He was secretive about his gift.",
+            "A secretive mouse hid its food."
+          ]
+        },
+        "more": {
+          "def": "Keeping things hidden and not sharing what you know.",
+          "examples": [
+            "She was secretive about what she bought for his birthday.",
+            "The secretive cat hid under the porch all day.",
+            "He was secretive and would not tell us the plan."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "secretly",
     "say": "SEE-krit-lee",
     "senses": [
@@ -621,6 +1052,34 @@
       {
         "word": "midsection",
         "def": "The middle part."
+      }
+    ]
+  },
+  {
+    "word": "sectional",
+    "say": "SEK-shuh-nul",
+    "forms": [
+      "sectionals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A couch made of parts that fit together.",
+          "examples": [
+            "We have a sectional.",
+            "The sectional is big.",
+            "The sectional is gray."
+          ]
+        },
+        "more": {
+          "def": "A couch made of separate pieces that fit together.",
+          "examples": [
+            "The gray sectional fills the living room.",
+            "We sat on the sectional to watch TV.",
+            "The sectional has three parts."
+          ]
+        }
       }
     ]
   },
@@ -870,6 +1329,34 @@
     ]
   },
   {
+    "word": "seeker",
+    "say": "SEE-ker",
+    "forms": [
+      "seekers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who looks for something.",
+          "examples": [
+            "A treasure seeker dug a hole.",
+            "The seeker looked everywhere.",
+            "A seeker of facts read the book."
+          ]
+        },
+        "more": {
+          "def": "A person who looks for something.",
+          "examples": [
+            "The treasure seeker dug a deep hole on the island.",
+            "A seeker of truth asked many questions.",
+            "Seekers of gold traveled west long ago."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "seem",
     "say": "seem",
     "forms": [
@@ -919,6 +1406,64 @@
             "The box was seemingly empty, but there was a note at the bottom.",
             "The seemingly easy puzzle was actually very hard.",
             "He was seemingly calm, though he was nervous inside."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "seep",
+    "say": "seep",
+    "forms": [
+      "seeps",
+      "seeped",
+      "seeping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To flow slowly through a small hole.",
+          "examples": [
+            "Water will seep in.",
+            "The juice seeped out.",
+            "The rain seeped through."
+          ]
+        },
+        "more": {
+          "def": "To flow slowly through a small opening or crack.",
+          "examples": [
+            "Water began to seep through the crack in the wall.",
+            "The juice seeped out of the pie.",
+            "Rain seeped through the roof."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "seesaw",
+    "say": "SEE-saw",
+    "forms": [
+      "seesaws"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A board on a middle point that you ride up and down.",
+          "examples": [
+            "We play on the seesaw.",
+            "The seesaw goes up.",
+            "I sat on the seesaw."
+          ]
+        },
+        "more": {
+          "def": "A long board balanced in the middle so that children can ride it up and down.",
+          "examples": [
+            "We rode the seesaw at the park.",
+            "One side of the seesaw went up as the other went down.",
+            "I sat on one end of the seesaw."
           ]
         }
       }
@@ -1121,6 +1666,31 @@
     ]
   },
   {
+    "word": "selective",
+    "say": "sih-LEK-tiv",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Careful about what you pick.",
+          "examples": [
+            "She is selective about her books.",
+            "The cat is selective about food.",
+            "He is selective."
+          ]
+        },
+        "more": {
+          "def": "Choosing carefully and not taking just anything.",
+          "examples": [
+            "The cat is selective about what it eats.",
+            "She is selective about the books she reads.",
+            "A selective shopper compared prices before buying."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "self",
     "say": "self",
     "forms": [
@@ -1168,6 +1738,31 @@
             "It was selfish of him to eat the whole cake without sharing.",
             "A selfish player never passes the ball.",
             "She realized it was selfish to keep the window seat every time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "selfishness",
+    "say": "SEL-fish-ness",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Caring only about yourself.",
+          "examples": [
+            "Selfishness hurts others.",
+            "His selfishness upset them.",
+            "Selfishness is not kind."
+          ]
+        },
+        "more": {
+          "def": "Thinking only about what you want and not about other people.",
+          "examples": [
+            "His selfishness upset the other children.",
+            "The story teaches a lesson about selfishness.",
+            "Sharing is the opposite of selfishness."
           ]
         }
       }
@@ -1270,6 +1865,34 @@
     ]
   },
   {
+    "word": "semifinal",
+    "say": "sem-ee-FY-nul",
+    "forms": [
+      "semifinals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The game before the last game.",
+          "examples": [
+            "We play in the semifinal.",
+            "The semifinal is today.",
+            "Our team won the semifinal."
+          ]
+        },
+        "more": {
+          "def": "One of the two games or races played just before the final.",
+          "examples": [
+            "Our team won the semifinal and moved on.",
+            "The semifinal was played on Saturday.",
+            "The winners of the semifinals play for the cup."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "senate",
     "say": "SEN-it",
     "forms": [
@@ -1350,6 +1973,34 @@
             "I will send a postcard to my grandmother from the beach.",
             "The teacher sent a note home with each student.",
             "The coach sent the players onto the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sender",
+    "say": "SEN-der",
+    "forms": [
+      "senders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who sends something.",
+          "examples": [
+            "The sender wrote the letter.",
+            "I know the sender.",
+            "The sender is Grandma."
+          ]
+        },
+        "more": {
+          "def": "A person who sends a letter, package or message.",
+          "examples": [
+            "The sender wrote her name on the envelope.",
+            "I do not know who the sender of the package is.",
+            "The sender of the card was my aunt."
           ]
         }
       }
@@ -1558,6 +2209,34 @@
     ]
   },
   {
+    "word": "sensibility",
+    "say": "sen-sih-BIL-ih-tee",
+    "forms": [
+      "sensibilities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person's feelings about what is good and right.",
+          "examples": [
+            "She has good sensibility.",
+            "His sensibility is kind.",
+            "Her sensibility shows in her art."
+          ]
+        },
+        "more": {
+          "def": "The ability to feel and respond to things, or a person's way of feeling about things.",
+          "examples": [
+            "The artist's sensibility showed in her gentle paintings.",
+            "He has a keen sensibility to colors.",
+            "The story respects the readers' sensibilities."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sensible",
     "say": "SEN-suh-bul",
     "forms": [
@@ -1642,6 +2321,31 @@
             "Bats have great sensitivity to sound, so they can find insects in the dark.",
             "She showed sensitivity by sitting quietly with her sad friend.",
             "My skin has a sensitivity to the sun, so I wear a hat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sensory",
+    "say": "SEN-ser-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with your senses.",
+          "examples": [
+            "The sensory room is calm.",
+            "A sensory toy feels fun.",
+            "The sensory table has sand."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the senses of sight, hearing, smell, taste and touch.",
+          "examples": [
+            "The sensory table had sand, water and soft toys.",
+            "Our eyes and ears are sensory organs.",
+            "She enjoyed the sensory garden with fragrant flowers."
           ]
         }
       }
@@ -1864,6 +2568,34 @@
     ]
   },
   {
+    "word": "sequin",
+    "say": "SEE-kwin",
+    "forms": [
+      "sequins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny shiny disc sewn on clothes.",
+          "examples": [
+            "The dress has sequins.",
+            "A sequin shines.",
+            "I found a sequin."
+          ]
+        },
+        "more": {
+          "def": "A tiny, shiny disc sewn onto clothes for decoration.",
+          "examples": [
+            "The costume was covered in sparkling sequins.",
+            "A sequin fell off her dress.",
+            "Sequins shone in the stage lights."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "serene",
     "say": "suh-REEN",
     "senses": [
@@ -2033,6 +2765,31 @@
             "I take my homework seriously.",
             "She nodded seriously and listened.",
             "He was seriously upset about the loss."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "seriousness",
+    "say": "SEER-ee-us-ness",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being serious.",
+          "examples": [
+            "We spoke with seriousness.",
+            "The seriousness was clear.",
+            "She felt the seriousness of the test."
+          ]
+        },
+        "more": {
+          "def": "The state of being serious, or how important or bad something is.",
+          "examples": [
+            "She spoke with great seriousness about the test.",
+            "He did not understand the seriousness of the storm.",
+            "The seriousness of the job made him work carefully."
           ]
         }
       }
@@ -2294,6 +3051,34 @@
     ]
   },
   {
+    "word": "serviceman",
+    "say": "SER-vis-man",
+    "forms": [
+      "servicemen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is in the army or navy.",
+          "examples": [
+            "The serviceman wore a uniform.",
+            "A serviceman came home.",
+            "The serviceman saluted."
+          ]
+        },
+        "more": {
+          "def": "A person who serves in the armed forces.",
+          "examples": [
+            "The serviceman wore a uniform to the parade.",
+            "A serviceman came home to a cheering family.",
+            "We thanked the serviceman for his work."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sesame",
     "say": "SES-uh-mee",
     "senses": [
@@ -2513,6 +3298,34 @@
             "The two neighbors reached a settlement.",
             "The settlement was fair to both sides.",
             "A settlement ended the long argument."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "settler",
+    "say": "SET-ler",
+    "forms": [
+      "settlers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who moves to a new place to live.",
+          "examples": [
+            "The settlers built homes.",
+            "A settler came to the land.",
+            "The settler built a cabin."
+          ]
+        },
+        "more": {
+          "def": "A person who moves to a new land and makes a home there.",
+          "examples": [
+            "The settlers built log cabins on the new land.",
+            "Early settlers planted crops and raised animals.",
+            "The settler crossed the plains in a covered wagon."
           ]
         }
       }
@@ -2784,6 +3597,31 @@
             "Grandma sewed a button on my coat.",
             "I learned to sew a pillow.",
             "She sewed the rip in my pants."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sewage",
+    "say": "SOO-ij",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Dirty water and waste from homes that goes down the drain.",
+          "examples": [
+            "Sewage goes through pipes.",
+            "The plant cleans sewage.",
+            "Sewage is dirty."
+          ]
+        },
+        "more": {
+          "def": "Used water and waste that is carried away from homes and buildings in pipes.",
+          "examples": [
+            "Pipes carry sewage away from the houses.",
+            "The plant cleans the sewage before the water goes back to the river.",
+            "Sewage must be treated so that it does not make people sick."
           ]
         }
       }

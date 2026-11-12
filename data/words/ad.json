@@ -269,6 +269,111 @@
     ]
   },
   {
+    "word": "adhere",
+    "say": "ad-HEER",
+    "forms": [
+      "adheres",
+      "adhered",
+      "adhering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stick to something.",
+          "examples": [
+            "Glue will adhere.",
+            "The tape adhered to the paper.",
+            "The sticker adheres well."
+          ]
+        },
+        "more": {
+          "def": "To stick firmly to something, or to follow a rule.",
+          "examples": [
+            "The sticker adheres to the wall.",
+            "We must adhere to the rules of the game.",
+            "Wet snow adheres to your boots."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "adhesive",
+    "say": "ad-HEE-siv",
+    "forms": [
+      "adhesives"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Glue or tape that sticks things together.",
+          "examples": [
+            "Glue is an adhesive.",
+            "The adhesive is sticky.",
+            "Tape is an adhesive."
+          ]
+        },
+        "more": {
+          "def": "A substance such as glue or tape that sticks things together.",
+          "examples": [
+            "A strong adhesive held the broken cup together.",
+            "The adhesive on the stamp is on the back.",
+            "An adhesive held the picture to the wall."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sticky.",
+          "examples": [
+            "Adhesive tape sticks.",
+            "The adhesive label stuck.",
+            "I saw an adhesive bandage."
+          ]
+        },
+        "more": {
+          "def": "Able to stick to things.",
+          "examples": [
+            "Adhesive tape holds the paper down.",
+            "The adhesive label stuck to the box.",
+            "She covered the cut with an adhesive bandage."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "adjective",
+    "say": "AJ-ik-tiv",
+    "forms": [
+      "adjectives"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word that tells more about a noun.",
+          "examples": [
+            "\"Big\" is an adjective.",
+            "An adjective describes a thing.",
+            "Find the adjective."
+          ]
+        },
+        "more": {
+          "def": "A word that describes a noun, such as \"red,\" \"big\" or \"happy.\"",
+          "examples": [
+            "\"Happy\" is an adjective in the sentence \"She is happy.\"",
+            "An adjective tells what kind or how many.",
+            "Circle each adjective in the sentence."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "adjust",
     "say": "uh-JUST",
     "forms": [
@@ -538,6 +643,84 @@
     ]
   },
   {
+    "word": "admittance",
+    "say": "ad-MIT-unss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Permission to go in.",
+          "examples": [
+            "No admittance.",
+            "Admittance is free.",
+            "The sign said no admittance."
+          ]
+        },
+        "more": {
+          "def": "Permission or the right to go in.",
+          "examples": [
+            "The sign said \"No admittance.\"",
+            "Admittance to the museum is free for children.",
+            "Only members were given admittance."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "adobe",
+    "say": "uh-DOH-bee",
+    "forms": [
+      "adobes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A building brick made of dried mud and straw.",
+          "examples": [
+            "The house is adobe.",
+            "Adobe is made of mud.",
+            "An adobe wall."
+          ]
+        },
+        "more": {
+          "def": "A building material made of clay and straw dried in the sun, or a house made of it.",
+          "examples": [
+            "The house was built of adobe.",
+            "Adobe keeps a house cool in the hot sun.",
+            "An adobe wall surrounded the courtyard."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "adolescence",
+    "say": "ad-uh-LES-unss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The years when you change from a child to an adult.",
+          "examples": [
+            "Adolescence is the teen years.",
+            "He is in adolescence.",
+            "Adolescence is a time of change."
+          ]
+        },
+        "more": {
+          "def": "The time of life between being a child and being an adult.",
+          "examples": [
+            "Adolescence is when kids grow quickly.",
+            "In adolescence, a person's voice may change.",
+            "The book is about growing up in adolescence."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "adopt",
     "say": "uh-DOPT",
     "forms": [
@@ -615,6 +798,31 @@
     ]
   },
   {
+    "word": "adoptive",
+    "say": "uh-DOP-tiv",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having chosen a child to join the family.",
+          "examples": [
+            "Her adoptive parents love her.",
+            "An adoptive family.",
+            "His adoptive mom."
+          ]
+        },
+        "more": {
+          "def": "Having taken a child into a family through adoption.",
+          "examples": [
+            "Her adoptive parents love her very much.",
+            "They are an adoptive family with three children.",
+            "His adoptive mother read to him each night."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "adorable",
     "say": "uh-DOR-uh-bul",
     "forms": [
@@ -675,6 +883,31 @@
       {
         "word": "adoration",
         "def": "Great love."
+      }
+    ]
+  },
+  {
+    "word": "adoring",
+    "say": "uh-DOR-ing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Showing great love.",
+          "examples": [
+            "The adoring fans cheered.",
+            "An adoring puppy.",
+            "She gave an adoring smile."
+          ]
+        },
+        "more": {
+          "def": "Showing great love and admiration.",
+          "examples": [
+            "The adoring fans cheered the singer.",
+            "An adoring puppy followed her everywhere.",
+            "She gave her grandmother an adoring smile."
+          ]
+        }
       }
     ]
   },
@@ -763,6 +996,31 @@
     ]
   },
   {
+    "word": "adulthood",
+    "say": "uh-DUL-thuud",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The time when you are a grown-up.",
+          "examples": [
+            "He reached adulthood.",
+            "Adulthood comes after childhood.",
+            "Adulthood is a time of work."
+          ]
+        },
+        "more": {
+          "def": "The time of life when a person is fully grown.",
+          "examples": [
+            "Adulthood begins after childhood and the teen years.",
+            "He reached adulthood at eighteen.",
+            "The book follows a boy from childhood to adulthood."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "advance",
     "say": "ud-VANSS",
     "forms": [
@@ -837,6 +1095,34 @@
     ]
   },
   {
+    "word": "advancement",
+    "say": "ud-VANSS-munt",
+    "forms": [
+      "advancements"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Moving forward or getting better.",
+          "examples": [
+            "Computers show great advancement.",
+            "The advancement of medicine helps us.",
+            "There was advancement in the class."
+          ]
+        },
+        "more": {
+          "def": "The act of moving ahead, or a step forward in a job, an idea or a skill.",
+          "examples": [
+            "Advancement in science has made life easier.",
+            "The new machine was a major advancement in farming.",
+            "She earned an advancement to the next level."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "advantage",
     "say": "ad-VAN-tij",
     "forms": [
@@ -859,6 +1145,34 @@
             "Wearing boots was an advantage on the muddy trail.",
             "A map gave the hikers an advantage over those without one.",
             "The team had the advantage of playing on its own field."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "advent",
+    "say": "AD-vent",
+    "forms": [
+      "advents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The arrival of something new.",
+          "examples": [
+            "The advent of spring.",
+            "The advent of the car.",
+            "The advent of rain."
+          ]
+        },
+        "more": {
+          "def": "The coming or arrival of an important person, thing or time.",
+          "examples": [
+            "We watched for the advent of spring.",
+            "The advent of the car changed how people traveled.",
+            "The advent of the new bridge helped the town."
           ]
         }
       }
@@ -896,6 +1210,84 @@
       {
         "word": "misadventure",
         "def": "An adventure that goes wrong."
+      }
+    ]
+  },
+  {
+    "word": "adventurer",
+    "say": "ad-VEN-cher-er",
+    "forms": [
+      "adventurers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who likes to go to new, exciting places.",
+          "examples": [
+            "The adventurer climbed a mountain.",
+            "An adventurer sailed far.",
+            "She is an adventurer."
+          ]
+        },
+        "more": {
+          "def": "A person who looks for exciting and new experiences.",
+          "examples": [
+            "The adventurer sailed around the world.",
+            "An adventurer explored the cave.",
+            "The young adventurer hiked up the mountain."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "adventurous",
+    "say": "ad-VEN-cher-us",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Liking to try new and exciting things.",
+          "examples": [
+            "She is adventurous.",
+            "An adventurous boy climbed a tree.",
+            "The adventurous pup explored."
+          ]
+        },
+        "more": {
+          "def": "Willing to try new, exciting or risky things.",
+          "examples": [
+            "The adventurous girl tried every ride at the fair.",
+            "An adventurous explorer crossed the jungle.",
+            "He is an adventurous eater who tries new foods."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "adverse",
+    "say": "ad-VERSS",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Bad or harmful.",
+          "examples": [
+            "The weather was adverse.",
+            "An adverse effect.",
+            "The adverse conditions stopped us."
+          ]
+        },
+        "more": {
+          "def": "Harmful or not favorable.",
+          "examples": [
+            "The adverse weather forced us to cancel the trip.",
+            "The medicine had an adverse effect.",
+            "The team played well in adverse conditions."
+          ]
+        }
       }
     ]
   },
@@ -958,6 +1350,34 @@
     ]
   },
   {
+    "word": "advertiser",
+    "say": "AD-ver-ty-zer",
+    "forms": [
+      "advertisers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person or company that makes ads.",
+          "examples": [
+            "The advertiser made an ad.",
+            "An advertiser paid for it.",
+            "The advertiser sells shoes."
+          ]
+        },
+        "more": {
+          "def": "A person or company that tells people about a product to sell it.",
+          "examples": [
+            "An advertiser paid for the commercial.",
+            "The advertiser made a colorful poster.",
+            "The advertiser tells people about the shoes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "advertising",
     "say": "AD-ver-ty-zing",
     "senses": [
@@ -1008,6 +1428,31 @@
     ]
   },
   {
+    "word": "advisable",
+    "say": "ad-VY-zuh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A good idea to do.",
+          "examples": [
+            "It is advisable to wear a coat.",
+            "An advisable plan.",
+            "It is advisable to be early."
+          ]
+        },
+        "more": {
+          "def": "Wise and sensible to do.",
+          "examples": [
+            "It is advisable to wear a coat in the snow.",
+            "It is advisable to check the weather first.",
+            "A map is advisable on the long hike."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "advise",
     "say": "ud-VYZE",
     "forms": [
@@ -1040,6 +1485,36 @@
       {
         "word": "advisor",
         "def": "A person who advises."
+      }
+    ]
+  },
+  {
+    "word": "adviser",
+    "say": "ud-VY-zer",
+    "forms": [
+      "advisers",
+      "advisor",
+      "advisors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who gives advice.",
+          "examples": [
+            "The adviser helped us pick.",
+            "Our class has an adviser.",
+            "The adviser gave us tips."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to give advice and help people decide what to do.",
+          "examples": [
+            "The student council has a teacher as its adviser.",
+            "The king listened to his wise adviser.",
+            "An adviser helped the club plan the trip."
+          ]
+        }
       }
     ]
   }

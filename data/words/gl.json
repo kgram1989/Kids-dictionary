@@ -1,5 +1,33 @@
 [
   {
+    "word": "glacier",
+    "say": "GLAY-sher",
+    "forms": [
+      "glaciers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A huge, slow river of ice.",
+          "examples": [
+            "The glacier is made of ice.",
+            "We saw a glacier.",
+            "The glacier moves slowly."
+          ]
+        },
+        "more": {
+          "def": "A very large mass of ice that moves slowly over land.",
+          "examples": [
+            "The glacier slowly slid down the mountain.",
+            "A glacier carved the valley long ago.",
+            "Tourists took a boat to see the glacier."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "glad",
     "say": "glad",
     "emoji": "😊",
@@ -32,6 +60,34 @@
       {
         "word": "gladness",
         "def": "A glad, happy feeling."
+      }
+    ]
+  },
+  {
+    "word": "glade",
+    "say": "glayd",
+    "forms": [
+      "glades"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An open place in a forest.",
+          "examples": [
+            "We had a picnic in the glade.",
+            "A deer stood in the glade.",
+            "The glade was sunny."
+          ]
+        },
+        "more": {
+          "def": "A small open space with grass in a forest.",
+          "examples": [
+            "A deer stepped into the sunny glade.",
+            "We found a quiet glade where we ate lunch.",
+            "Flowers grew in the glade among the tall trees."
+          ]
+        }
       }
     ]
   },
@@ -290,6 +346,185 @@
     ]
   },
   {
+    "word": "glaze",
+    "say": "glayz",
+    "forms": [
+      "glazes",
+      "glazed",
+      "glazing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shiny coating on food or pottery.",
+          "examples": [
+            "The cake has a sweet glaze.",
+            "A glaze on the pot is shiny.",
+            "The doughnut had a glaze."
+          ]
+        },
+        "more": {
+          "def": "A thin, shiny coating put on food or pottery.",
+          "examples": [
+            "The doughnut had a sweet sugar glaze.",
+            "The potter put a blue glaze on the bowl.",
+            "A honey glaze covered the ham."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cover something with a shiny coating.",
+          "examples": [
+            "She will glaze the cake.",
+            "He glazed the pot.",
+            "Mom glazed the ham."
+          ]
+        },
+        "more": {
+          "def": "To cover food or pottery with a shiny coating.",
+          "examples": [
+            "Mom glazed the ham with honey.",
+            "The potter glazed each bowl before baking it.",
+            "She glazed the cookies with sugar."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "glazed",
+    "say": "glayzd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Shiny with a coating.",
+          "examples": [
+            "The doughnut is glazed.",
+            "I saw a glazed pot.",
+            "I like a glazed ham."
+          ]
+        },
+        "more": {
+          "def": "Covered with a shiny coating.",
+          "examples": [
+            "The glazed doughnut was sticky and sweet.",
+            "The glazed pot shone in the light.",
+            "We ate a glazed carrot with dinner."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gleam",
+    "say": "gleem",
+    "forms": [
+      "gleams",
+      "gleamed",
+      "gleaming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shine brightly.",
+          "examples": [
+            "The stars gleam.",
+            "Her eyes gleamed.",
+            "The floor gleamed."
+          ]
+        },
+        "more": {
+          "def": "To shine brightly, often after being polished.",
+          "examples": [
+            "The new coins gleamed in the sun.",
+            "The floor gleamed after it was cleaned.",
+            "The stars gleamed in the dark sky."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft shine of light.",
+          "examples": [
+            "A gleam of light shone.",
+            "I saw a gleam in the dark.",
+            "There was a gleam in her eye."
+          ]
+        },
+        "more": {
+          "def": "A bright flash or soft shine of light.",
+          "examples": [
+            "A gleam of light came from under the door.",
+            "There was a happy gleam in her eye.",
+            "The gleam of the silver spoon caught my eye."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gleaming",
+    "say": "GLEE-ming",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Shining brightly.",
+          "examples": [
+            "The car is gleaming.",
+            "A gleaming floor.",
+            "The gleaming coin."
+          ]
+        },
+        "more": {
+          "def": "Shining brightly and smoothly.",
+          "examples": [
+            "The car was gleaming after the wash.",
+            "The gleaming floor reflected the light.",
+            "A gleaming coin sat on the table."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "glee",
+    "say": "glee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Great joy.",
+          "examples": [
+            "The children shouted with glee.",
+            "She clapped with glee.",
+            "He laughed with glee."
+          ]
+        },
+        "more": {
+          "def": "A feeling of great joy and delight.",
+          "examples": [
+            "The children shouted with glee in the snow.",
+            "She clapped her hands in glee at the surprise.",
+            "He laughed with glee when he saw the puppy."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "gleeful",
+        "def": "Full of glee."
+      }
+    ]
+  },
+  {
     "word": "glide",
     "say": "glyd",
     "forms": [
@@ -314,6 +549,83 @@
             "The swan glided across the still lake without a sound.",
             "An eagle glided high above the valley on the warm air.",
             "She glided across the ice in her skates."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "glider",
+    "say": "GLY-der",
+    "forms": [
+      "gliders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A plane with no engine that floats on the wind.",
+          "examples": [
+            "The glider flew.",
+            "A glider has no motor.",
+            "We saw a glider."
+          ]
+        },
+        "more": {
+          "def": "A light aircraft without an engine that floats and soars on the wind.",
+          "examples": [
+            "A glider floated silently over the hills.",
+            "The glider rode the wind high into the sky.",
+            "She dreams of flying a glider someday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "glimmer",
+    "say": "GLIM-er",
+    "forms": [
+      "glimmers",
+      "glimmered",
+      "glimmering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, faint light.",
+          "examples": [
+            "A glimmer of light shone.",
+            "I saw a glimmer.",
+            "There was a glimmer in the dark."
+          ]
+        },
+        "more": {
+          "def": "A faint, flickering light, or a small sign of hope.",
+          "examples": [
+            "A glimmer of light came from the cabin.",
+            "There was a glimmer of hope as the sky cleared.",
+            "The glimmer of the stars lit the path."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shine with a faint, flickering light.",
+          "examples": [
+            "The stars glimmer.",
+            "The lake glimmered.",
+            "The candle glimmered."
+          ]
+        },
+        "more": {
+          "def": "To shine with a faint, soft, flickering light.",
+          "examples": [
+            "The stars glimmered in the sky.",
+            "The lake glimmered in the moonlight.",
+            "A candle glimmered in the window."
           ]
         }
       }
@@ -393,6 +705,36 @@
             "I saw a glint of gold in the sand.",
             "A glint of sun shone off the knife.",
             "There was a happy glint in her eye."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "glisten",
+    "say": "GLIS-un",
+    "forms": [
+      "glistens",
+      "glistened",
+      "glistening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To shine like something wet.",
+          "examples": [
+            "The dew will glisten.",
+            "The snow glistened.",
+            "The lake glistens."
+          ]
+        },
+        "more": {
+          "def": "To shine with a wet or sparkling light.",
+          "examples": [
+            "The dew glistened on the grass.",
+            "The snow glistened in the sun.",
+            "The lake glistens in the morning."
           ]
         }
       }
@@ -541,6 +883,31 @@
     ]
   },
   {
+    "word": "gloom",
+    "say": "gloom",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Darkness, or a sad feeling.",
+          "examples": [
+            "We sat in the gloom.",
+            "A gloom filled the room.",
+            "The gloom lifted."
+          ]
+        },
+        "more": {
+          "def": "Darkness or dimness, or a feeling of sadness.",
+          "examples": [
+            "We sat in the gloom of the cave.",
+            "A sense of gloom settled over the rainy day.",
+            "The gloom lifted when the sun came out."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "gloomy",
     "say": "GLOO-mee",
     "emoji": "🌧️",
@@ -657,6 +1024,35 @@
     ]
   },
   {
+    "word": "glossy",
+    "say": "GLOS-ee",
+    "forms": [
+      "glossier",
+      "glossiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Smooth and shiny.",
+          "examples": [
+            "The paper is glossy.",
+            "A glossy coat.",
+            "The glossy apple shone."
+          ]
+        },
+        "more": {
+          "def": "Smooth and shiny on the surface.",
+          "examples": [
+            "The photo was printed on glossy paper.",
+            "The dog had a glossy coat.",
+            "The glossy apple shone in the sun."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "glove",
     "say": "gluv",
     "emoji": "🧤",
@@ -760,6 +1156,35 @@
             "I glued the pieces of the puzzle together.",
             "She glued the handle back on the cup.",
             "He glued pictures onto the board."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "glum",
+    "say": "glum",
+    "forms": [
+      "glummer",
+      "glummest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sad and quiet.",
+          "examples": [
+            "The boy looked glum.",
+            "She was glum.",
+            "He was glum about the rain."
+          ]
+        },
+        "more": {
+          "def": "Sad, quiet and in a low mood.",
+          "examples": [
+            "The glum boy sat alone at the table.",
+            "She felt glum when the picnic was canceled.",
+            "He was glum after losing the game."
           ]
         }
       }

@@ -1,5 +1,52 @@
 [
   {
+    "word": "oval",
+    "say": "OH-vul",
+    "forms": [
+      "ovals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shape like an egg.",
+          "examples": [
+            "I drew an oval.",
+            "An egg is an oval.",
+            "The mirror is an oval."
+          ]
+        },
+        "more": {
+          "def": "A shape like a long circle, like the outline of an egg.",
+          "examples": [
+            "She cut an oval from the paper to make a face.",
+            "The race track was shaped like an oval.",
+            "An egg is shaped like an oval."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Shaped like an egg.",
+          "examples": [
+            "The table is oval.",
+            "An oval mirror hung there.",
+            "The leaf is oval."
+          ]
+        },
+        "more": {
+          "def": "Shaped like an egg or a stretched circle.",
+          "examples": [
+            "We ate at an oval table.",
+            "The leaf was oval and smooth.",
+            "Her oval face looked sweet in the photo."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "oven",
     "say": "UV-en",
     "forms": [
@@ -119,6 +166,31 @@
     ]
   },
   {
+    "word": "overbearing",
+    "say": "oh-ver-BAIR-ing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Bossy.",
+          "examples": [
+            "The overbearing boss.",
+            "He is overbearing.",
+            "Do not be overbearing."
+          ]
+        },
+        "more": {
+          "def": "Bossy and too forceful with other people.",
+          "examples": [
+            "The overbearing boy told everyone what to do.",
+            "She was kind and never overbearing.",
+            "An overbearing neighbor tried to run everyone's yard."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "overboard",
     "say": "OH-ver-bord",
     "senses": [
@@ -138,6 +210,61 @@
             "A wave swept the crate overboard.",
             "The sailor tossed the rope overboard.",
             "A wave washed the bucket overboard."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overcast",
+    "say": "OH-ver-kast",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Covered with clouds.",
+          "examples": [
+            "The sky is overcast.",
+            "An overcast day.",
+            "The overcast sky is gray."
+          ]
+        },
+        "more": {
+          "def": "Covered with clouds so the sky is gray.",
+          "examples": [
+            "The sky was overcast all morning.",
+            "It was an overcast day with no sun.",
+            "Overcast skies hid the stars."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overcharge",
+    "say": "oh-ver-CHARJ",
+    "forms": [
+      "overcharges",
+      "overcharged",
+      "overcharging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To ask for too much money.",
+          "examples": [
+            "The shop will overcharge.",
+            "They overcharged us.",
+            "Do not overcharge."
+          ]
+        },
+        "more": {
+          "def": "To ask for more money than something is worth.",
+          "examples": [
+            "The store overcharged us for the apples.",
+            "The shop owner said sorry for overcharging.",
+            "Check your bill to see if they overcharge."
           ]
         }
       }
@@ -202,6 +329,61 @@
     ]
   },
   {
+    "word": "overcook",
+    "say": "oh-ver-KUUK",
+    "forms": [
+      "overcooks",
+      "overcooked",
+      "overcooking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cook for too long.",
+          "examples": [
+            "Do not overcook the pasta.",
+            "He overcooked the eggs.",
+            "Dad overcooked the rice."
+          ]
+        },
+        "more": {
+          "def": "To cook food for too long so that it is dry or burnt.",
+          "examples": [
+            "Do not overcook the pasta or it will get mushy.",
+            "He overcooked the eggs and they turned rubbery.",
+            "Dad overcooked the rice by mistake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overcrowded",
+    "say": "oh-ver-KROW-did",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Too full of people.",
+          "examples": [
+            "The bus is overcrowded.",
+            "An overcrowded room.",
+            "The overcrowded beach."
+          ]
+        },
+        "more": {
+          "def": "Having too many people or things in a space.",
+          "examples": [
+            "The bus was overcrowded, so we stood.",
+            "The overcrowded room was hot and noisy.",
+            "The overcrowded beach had no room for towels."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "overdo",
     "say": "oh-ver-DOO",
     "forms": [
@@ -227,6 +409,36 @@
             "Do not overdo the salt in the soup.",
             "He overdid the exercise and was sore all day.",
             "She overdid the decorations, and the room looked crowded."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overdress",
+    "say": "oh-ver-DRESS",
+    "forms": [
+      "overdresses",
+      "overdressed",
+      "overdressing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To wear fancier clothes than needed.",
+          "examples": [
+            "Do not overdress.",
+            "He overdressed for the picnic.",
+            "She overdressed for the party."
+          ]
+        },
+        "more": {
+          "def": "To wear clothes that are too fancy or too warm for the event.",
+          "examples": [
+            "He overdressed for the picnic in a suit.",
+            "She overdressed in heavy clothes on a warm day.",
+            "I did not want to overdress for the casual party."
           ]
         }
       }
@@ -282,6 +494,61 @@
             "The bathtub overflowed when I forgot to turn off the water.",
             "The river overflowed its banks after the heavy rain.",
             "My cup overflowed with juice."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overgrown",
+    "say": "oh-ver-GROHN",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Grown too big or covered with plants.",
+          "examples": [
+            "The garden is overgrown.",
+            "I saw an overgrown path.",
+            "The yard is overgrown."
+          ]
+        },
+        "more": {
+          "def": "Grown too large, or covered with weeds and plants that grew wild.",
+          "examples": [
+            "The overgrown garden was full of weeds.",
+            "We pushed through the overgrown path.",
+            "The overgrown fence was covered with vines."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overhaul",
+    "say": "OH-ver-hawl",
+    "forms": [
+      "overhauls",
+      "overhauled",
+      "overhauling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To fix up completely.",
+          "examples": [
+            "They will overhaul the engine.",
+            "The mechanic overhauled the car.",
+            "We overhauled the room."
+          ]
+        },
+        "more": {
+          "def": "To take apart, check and fix something completely.",
+          "examples": [
+            "The mechanic overhauled the engine.",
+            "Dad overhauled the old bicycle.",
+            "We overhauled the garden over the weekend."
           ]
         }
       }
@@ -356,6 +623,185 @@
             "I overheard them talking about a surprise.",
             "She overheard the plan by mistake.",
             "He overheard a secret in the hall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overheat",
+    "say": "oh-ver-HEET",
+    "forms": [
+      "overheats",
+      "overheated",
+      "overheating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get too hot.",
+          "examples": [
+            "The engine may overheat.",
+            "The phone overheated.",
+            "The car will overheat."
+          ]
+        },
+        "more": {
+          "def": "To become or make something too hot.",
+          "examples": [
+            "The engine may overheat on a hot day.",
+            "The laptop overheated on the blanket.",
+            "The room overheated when the sun shone in."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overheated",
+    "say": "oh-ver-HEE-tid",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Too hot.",
+          "examples": [
+            "The engine is overheated.",
+            "An overheated room.",
+            "The overheated car stopped."
+          ]
+        },
+        "more": {
+          "def": "Made too hot, or too excited.",
+          "examples": [
+            "The overheated engine stopped on the road.",
+            "An overheated room made us sleepy.",
+            "The overheated argument grew loud."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overjoyed",
+    "say": "oh-ver-JOYD",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very, very happy.",
+          "examples": [
+            "I was overjoyed.",
+            "The overjoyed girl cheered.",
+            "He was overjoyed."
+          ]
+        },
+        "more": {
+          "def": "Extremely happy about something.",
+          "examples": [
+            "I was overjoyed when I saw my puppy.",
+            "The overjoyed girl jumped up and down.",
+            "He was overjoyed to see his grandparents."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overkill",
+    "say": "OH-ver-kil",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Doing much more than needed.",
+          "examples": [
+            "Five coats is overkill.",
+            "That is overkill.",
+            "It would be overkill."
+          ]
+        },
+        "more": {
+          "def": "A use of much more than is needed.",
+          "examples": [
+            "Putting three locks on the box is overkill.",
+            "A giant bag for one pencil is overkill.",
+            "Wearing a coat and scarf in July would be overkill."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overlap",
+    "say": "oh-ver-LAP",
+    "forms": [
+      "overlaps",
+      "overlapped",
+      "overlapping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cover part of something else.",
+          "examples": [
+            "The circles overlap.",
+            "The papers overlapped.",
+            "The tiles overlap."
+          ]
+        },
+        "more": {
+          "def": "To lie partly on top of something else.",
+          "examples": [
+            "The two circles overlap in the middle.",
+            "The roof tiles overlap to keep out rain.",
+            "Our lunch times overlap by ten minutes."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part that covers another part.",
+          "examples": [
+            "There is an overlap.",
+            "The overlap is small.",
+            "The overlap was wide."
+          ]
+        },
+        "more": {
+          "def": "The part where one thing covers another.",
+          "examples": [
+            "There is a small overlap between the two circles.",
+            "Cut along the overlap of the cloth.",
+            "The overlap of the two schedules was brief."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overlapping",
+    "say": "oh-ver-LAP-ing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Covering part of another thing.",
+          "examples": [
+            "I saw the overlapping tiles.",
+            "The leaves are overlapping.",
+            "The circles are overlapping."
+          ]
+        },
+        "more": {
+          "def": "Covering part of something else.",
+          "examples": [
+            "The overlapping circles made a new shape.",
+            "Overlapping tiles keep rain off the roof.",
+            "The two schedules have overlapping times."
           ]
         }
       }
@@ -460,6 +906,144 @@
             "It snowed overnight and covered the street.",
             "We stayed overnight at Grandma's.",
             "The bread rose overnight."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overpass",
+    "say": "OH-ver-pass",
+    "forms": [
+      "overpasses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bridge where one road goes over another.",
+          "examples": [
+            "The car went over the overpass.",
+            "The overpass is high.",
+            "We drove under the overpass."
+          ]
+        },
+        "more": {
+          "def": "A bridge that carries one road over another road.",
+          "examples": [
+            "We drove under the highway overpass.",
+            "The overpass carried cars over the railroad.",
+            "Rain dripped from the overpass."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overpay",
+    "say": "oh-ver-PAY",
+    "forms": [
+      "overpays",
+      "overpaid",
+      "overpaying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pay too much.",
+          "examples": [
+            "Do not overpay for it.",
+            "He overpaid for the toy.",
+            "We overpaid."
+          ]
+        },
+        "more": {
+          "def": "To pay more than something is worth or costs.",
+          "examples": [
+            "He overpaid for the toy by two dollars.",
+            "Check the price so you do not overpay.",
+            "She overpaid the bus driver by mistake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overpower",
+    "say": "oh-ver-POW-er",
+    "forms": [
+      "overpowers",
+      "overpowered",
+      "overpowering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be too strong for something.",
+          "examples": [
+            "The smell will overpower me.",
+            "A big wave overpowered the boat.",
+            "The strong team overpowered us."
+          ]
+        },
+        "more": {
+          "def": "To be stronger than someone or something and so defeat or overcome it.",
+          "examples": [
+            "The strong team overpowered the other side.",
+            "A big wave overpowered the little boat.",
+            "The smell of the soap overpowered the flowers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overpriced",
+    "say": "oh-ver-PRYST",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Costing too much.",
+          "examples": [
+            "The toy is overpriced.",
+            "An overpriced shirt.",
+            "The overpriced food."
+          ]
+        },
+        "more": {
+          "def": "Costing more than it is worth.",
+          "examples": [
+            "The toy was overpriced, so we did not buy it.",
+            "The overpriced sandwich cost ten dollars.",
+            "We found the tickets to be overpriced."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overprotective",
+    "say": "oh-ver-pruh-TEK-tiv",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Guarding too much.",
+          "examples": [
+            "Her mom is overprotective.",
+            "An overprotective dog.",
+            "He is overprotective."
+          ]
+        },
+        "more": {
+          "def": "Trying to protect someone too much.",
+          "examples": [
+            "Her overprotective mother would not let her ride the bike.",
+            "An overprotective dog guarded the baby.",
+            "He is overprotective of his little sister."
           ]
         }
       }
@@ -618,6 +1202,91 @@
     ]
   },
   {
+    "word": "overshadow",
+    "say": "oh-ver-SHAD-oh",
+    "forms": [
+      "overshadows",
+      "overshadowed",
+      "overshadowing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something seem small.",
+          "examples": [
+            "The big tree will overshadow the small one.",
+            "The tall building overshadowed the church.",
+            "Her success overshadowed his."
+          ]
+        },
+        "more": {
+          "def": "To cast a shadow over, or to seem more important than something else.",
+          "examples": [
+            "The tall tree overshadowed the small plants.",
+            "The giant oak overshadowed the garden.",
+            "The new star overshadowed the other players."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overshoot",
+    "say": "oh-ver-SHOOT",
+    "forms": [
+      "overshoots",
+      "overshot",
+      "overshooting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go past the goal.",
+          "examples": [
+            "The ball will overshoot.",
+            "The plane overshot the runway.",
+            "I overshot the turn."
+          ]
+        },
+        "more": {
+          "def": "To go beyond the place you meant to stop.",
+          "examples": [
+            "The ball overshot the goal.",
+            "The bus overshot our stop.",
+            "I overshot the turn and had to go back."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "oversized",
+    "say": "OH-ver-syzd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Bigger than usual.",
+          "examples": [
+            "I saw an oversized shirt.",
+            "I saw the oversized box.",
+            "I wore an oversized coat."
+          ]
+        },
+        "more": {
+          "def": "Larger than the normal size.",
+          "examples": [
+            "He wore an oversized shirt that hung to his knees.",
+            "An oversized box arrived at our door.",
+            "The clown wore oversized shoes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "oversleep",
     "say": "oh-ver-SLEEP",
     "forms": [
@@ -765,6 +1434,34 @@
     ]
   },
   {
+    "word": "overview",
+    "say": "OH-ver-vyoo",
+    "forms": [
+      "overviews"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short look at the main points.",
+          "examples": [
+            "Give an overview.",
+            "The teacher gave an overview.",
+            "An overview of the plan."
+          ]
+        },
+        "more": {
+          "def": "A short summary that gives the main points of something.",
+          "examples": [
+            "The teacher gave an overview of the unit.",
+            "The book begins with an overview of the story.",
+            "An overview of the plan was shown on a slide."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "overwhelm",
     "say": "oh-ver-WELM",
     "forms": [
@@ -817,6 +1514,86 @@
             "The overwhelming smell of paint filled the room.",
             "She felt an overwhelming joy.",
             "The smell of smoke was overwhelming."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overwork",
+    "say": "oh-ver-WERK",
+    "forms": [
+      "overworks",
+      "overworked",
+      "overworking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To work too hard.",
+          "examples": [
+            "Do not overwork yourself.",
+            "The farmer overworked the horse.",
+            "She overworked."
+          ]
+        },
+        "more": {
+          "def": "To work too hard or make someone work too hard.",
+          "examples": [
+            "Do not overwork yourself on the project.",
+            "The farmer did not overwork his horses.",
+            "He overworked and fell ill."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overworked",
+    "say": "oh-ver-WERKT",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Made to work too hard.",
+          "examples": [
+            "The overworked donkey was tired.",
+            "He is overworked.",
+            "I saw an overworked nurse."
+          ]
+        },
+        "more": {
+          "def": "Having to work too much, so you are tired.",
+          "examples": [
+            "The overworked donkey was too tired to move.",
+            "An overworked nurse needed a day to rest.",
+            "The overworked machine finally broke."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "overzealous",
+    "say": "oh-ver-ZEL-us",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Too eager.",
+          "examples": [
+            "The overzealous guard.",
+            "An overzealous fan.",
+            "The overzealous puppy jumped."
+          ]
+        },
+        "more": {
+          "def": "Too eager or enthusiastic.",
+          "examples": [
+            "The overzealous puppy jumped on all the guests.",
+            "An overzealous fan ran onto the field.",
+            "The overzealous guard would not let anyone pass."
           ]
         }
       }
