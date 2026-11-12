@@ -54,5 +54,35 @@
         }
       }
     ]
+  },
+  {
+    "word": "gnaw",
+    "say": "naw",
+    "forms": [
+      "gnaws",
+      "gnawed",
+      "gnawing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To chew on something hard again and again.",
+          "examples": [
+            "The dog will gnaw a bone.",
+            "Mice gnawed the box.",
+            "Beavers gnaw wood."
+          ]
+        },
+        "more": {
+          "def": "To keep biting or chewing on something hard.",
+          "examples": [
+            "The puppy gnawed a bone all afternoon.",
+            "Beavers gnaw trees to build dams.",
+            "A mouse gnawed a hole in the box."
+          ]
+        }
+      }
+    ]
   }
 ]

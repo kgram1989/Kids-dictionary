@@ -112,6 +112,55 @@
     ]
   },
   {
+    "word": "slant",
+    "say": "slant",
+    "forms": [
+      "slants",
+      "slanted",
+      "slanting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To lean to one side.",
+          "examples": [
+            "The roof will slant.",
+            "Her writing slants.",
+            "The floor slanted."
+          ]
+        },
+        "more": {
+          "def": "To lean or slope in one direction instead of going straight up.",
+          "examples": [
+            "The old roof slants down to the garden.",
+            "Her handwriting slants to the right.",
+            "The sun slanted through the window in the afternoon."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A slope, or a leaning line.",
+          "examples": [
+            "The roof has a slant.",
+            "There is a slant to the hill.",
+            "The slant of the floor was steep."
+          ]
+        },
+        "more": {
+          "def": "A sloping direction, or the way something leans.",
+          "examples": [
+            "The slant of the roof lets the snow slide off.",
+            "The floor had a slight slant.",
+            "She wrote with a slant to the right."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "slap",
     "say": "slap",
     "forms": [
@@ -1465,6 +1514,36 @@
             "She slurred her words because she was so sleepy.",
             "The tired boy began to slur as he told the story.",
             "A stuffy nose can make you slur some letters."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "slurp",
+    "say": "slerp",
+    "forms": [
+      "slurps",
+      "slurped",
+      "slurping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To drink with a loud sound.",
+          "examples": [
+            "I slurp my soup.",
+            "He slurped his milk.",
+            "Do not slurp."
+          ]
+        },
+        "more": {
+          "def": "To eat or drink noisily by sucking.",
+          "examples": [
+            "He slurped his soup from the spoon.",
+            "She slurped the last drops of her milkshake through the straw.",
+            "The little boy slurped his spaghetti."
           ]
         }
       }

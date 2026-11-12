@@ -1065,6 +1065,61 @@
     ]
   },
   {
+    "word": "grate",
+    "say": "grayt",
+    "forms": [
+      "grates",
+      "grated",
+      "grating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rub food on a tool to make little pieces.",
+          "examples": [
+            "I grate the cheese.",
+            "Dad grated a carrot.",
+            "She will grate the apple."
+          ]
+        },
+        "more": {
+          "def": "To rub food against a rough tool so it breaks into small pieces.",
+          "examples": [
+            "Dad grated cheese for the pasta.",
+            "She grated a carrot for the salad.",
+            "They grated lemon peel into the batter."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A metal frame with bars.",
+          "examples": [
+            "The grate is over the drain.",
+            "Wood burned in the grate.",
+            "A leaf fell through the grate."
+          ]
+        },
+        "more": {
+          "def": "A frame of metal bars over an opening or in a fireplace.",
+          "examples": [
+            "A leaf slipped through the grate over the drain.",
+            "The fire burned on the iron grate.",
+            "A grate covered the window in the old wall."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "grater",
+        "def": "A tool for grating food."
+      }
+    ]
+  },
+  {
     "word": "grateful",
     "say": "GRAYT-ful",
     "emoji": "🙏",
@@ -2852,6 +2907,34 @@
             "He held a grudge against his brother.",
             "It is best not to keep a grudge.",
             "The grudge ended when they said sorry."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grueling",
+    "say": "GROO-ling",
+    "forms": [
+      "gruelling"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very hard and tiring.",
+          "examples": [
+            "The hike was grueling.",
+            "We had a grueling day.",
+            "It was a grueling race."
+          ]
+        },
+        "more": {
+          "def": "Extremely tiring and demanding.",
+          "examples": [
+            "The grueling climb took all day.",
+            "The team had a grueling practice in the hot sun.",
+            "After the grueling race, the runners lay down to rest."
           ]
         }
       }
