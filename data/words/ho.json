@@ -1,5 +1,54 @@
 [
   {
+    "word": "hoard",
+    "say": "hord",
+    "forms": [
+      "hoards",
+      "hoarded",
+      "hoarding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hidden pile of things saved up.",
+          "examples": [
+            "The squirrel has a hoard of nuts.",
+            "A dragon had a hoard of gold.",
+            "He kept a hoard of candy."
+          ]
+        },
+        "more": {
+          "def": "A large amount of things that are saved or hidden away.",
+          "examples": [
+            "The squirrel stored a hoard of acorns for winter.",
+            "In the story, the dragon guarded a hoard of gold.",
+            "Kids found an old hoard of coins buried in the yard."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To save and keep a lot of something.",
+          "examples": [
+            "Squirrels hoard nuts.",
+            "He hoarded candy.",
+            "Do not hoard all the toys."
+          ]
+        },
+        "more": {
+          "def": "To collect and keep a large supply of something, often hidden.",
+          "examples": [
+            "Squirrels hoard nuts for the winter.",
+            "The boy hoarded all the stickers and would not share.",
+            "The dragon hoarded gold in his cave."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hobby",
     "say": "HOB-ee",
     "forms": [
@@ -641,6 +690,34 @@
             "The homeowner painted the fence a bright white.",
             "Every homeowner on our street keeps the yard neat.",
             "A homeowner has to pay for repairs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "homeroom",
+    "say": "HOHM-room",
+    "forms": [
+      "homerooms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The classroom where your class meets each morning.",
+          "examples": [
+            "We start in homeroom.",
+            "The homeroom teacher says hello.",
+            "Homeroom is on the first floor."
+          ]
+        },
+        "more": {
+          "def": "The classroom where a class of students meets at the start of the school day.",
+          "examples": [
+            "Students check in at homeroom before the first class.",
+            "Our homeroom teacher takes attendance every morning.",
+            "The bell for homeroom rang at eight."
           ]
         }
       }
@@ -1814,6 +1891,31 @@
             "The horseman galloped across the field with his cape flying.",
             "A skilled horseman can guide a horse with just a touch.",
             "The horsemen rode through the village at noon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "horsepower",
+    "say": "HORSS-pow-er",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way to measure how strong an engine is.",
+          "examples": [
+            "The engine has more horsepower.",
+            "The truck has lots of horsepower.",
+            "Horsepower tells engine strength."
+          ]
+        },
+        "more": {
+          "def": "A unit used to measure the power of an engine.",
+          "examples": [
+            "The truck's engine has lots of horsepower.",
+            "A lawn mower has less horsepower than a car.",
+            "The boat's motor had a hundred horsepower."
           ]
         }
       }
