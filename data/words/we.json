@@ -890,6 +890,31 @@
     ]
   },
   {
+    "word": "weirdness",
+    "say": "WEERD-ness",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being strange.",
+          "examples": [
+            "The weirdness of the dream.",
+            "I felt the weirdness.",
+            "The weirdness was funny."
+          ]
+        },
+        "more": {
+          "def": "The quality of being strange or unusual.",
+          "examples": [
+            "The weirdness of the dream made me laugh.",
+            "I loved the weirdness of the old house.",
+            "The weirdness of the story kept us guessing."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "welcome",
     "say": "WEL-kum",
     "emoji": "👋",
@@ -1081,6 +1106,31 @@
     ]
   },
   {
+    "word": "westbound",
+    "say": "WEST-bownd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Going toward the west.",
+          "examples": [
+            "The westbound train left.",
+            "I saw a westbound road.",
+            "The westbound bus is late."
+          ]
+        },
+        "more": {
+          "def": "Traveling or leading toward the west.",
+          "examples": [
+            "The westbound train left the station.",
+            "We took the westbound road.",
+            "The westbound lanes were busy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "western",
     "say": "WES-tern",
     "senses": [
@@ -1137,6 +1187,34 @@
       {
         "word": "wetness",
         "def": "Being wet."
+      }
+    ]
+  },
+  {
+    "word": "wetland",
+    "say": "WET-land",
+    "forms": [
+      "wetlands"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Land that is covered with water, like a swamp.",
+          "examples": [
+            "Frogs live in the wetland.",
+            "The wetland is wet.",
+            "We walked by the wetland."
+          ]
+        },
+        "more": {
+          "def": "Low land that is covered with shallow water for part or all of the year.",
+          "examples": [
+            "Frogs and herons live in the wetland.",
+            "The wetland soaks up water during floods.",
+            "We walked on a boardwalk through the wetland."
+          ]
+        }
       }
     ]
   }
