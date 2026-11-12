@@ -383,6 +383,40 @@
     ]
   },
   {
+    "word": "teaspoon",
+    "say": "TEE-spoon",
+    "forms": [
+      "teaspoons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small spoon.",
+          "examples": [
+            "Add a teaspoon of sugar.",
+            "The teaspoon is small.",
+            "I stirred with a teaspoon."
+          ]
+        },
+        "more": {
+          "def": "A small spoon used for stirring, or the amount it holds.",
+          "examples": [
+            "Add one teaspoon of sugar to the tea.",
+            "The recipe calls for a teaspoon of salt.",
+            "She stirred her tea with a teaspoon."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "teaspoonful",
+        "def": "As much as a teaspoon holds."
+      }
+    ]
+  },
+  {
     "word": "technical",
     "say": "TEK-nih-kul",
     "forms": [
@@ -838,6 +872,31 @@
     ]
   },
   {
+    "word": "televised",
+    "say": "TEL-uh-vyzd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Shown on TV.",
+          "examples": [
+            "The game was televised.",
+            "A televised show.",
+            "The parade was televised."
+          ]
+        },
+        "more": {
+          "def": "Shown or broadcast on television.",
+          "examples": [
+            "The big game was televised across the country.",
+            "The parade will be televised on Saturday.",
+            "A televised concert reached millions of homes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "television",
     "say": "TEL-uh-vizh-un",
     "emoji": "📺",
@@ -975,6 +1034,31 @@
             "The dog has a calm, friendly temperament.",
             "Her cheerful temperament makes her easy to be around.",
             "Horses with a gentle temperament are good for beginners."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "temperamental",
+    "say": "tem-per-uh-MEN-tul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Changing moods quickly.",
+          "examples": [
+            "The cat is temperamental.",
+            "A temperamental baby.",
+            "The temperamental engine stalled."
+          ]
+        },
+        "more": {
+          "def": "Likely to change moods quickly, or not working in a steady way.",
+          "examples": [
+            "The cat is temperamental and sometimes hisses.",
+            "The temperamental old car would not start.",
+            "The artist was temperamental on rainy days."
           ]
         }
       }

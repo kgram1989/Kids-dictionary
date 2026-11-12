@@ -162,6 +162,34 @@
     ]
   },
   {
+    "word": "eardrum",
+    "say": "EER-drum",
+    "forms": [
+      "eardrums"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin skin inside your ear that helps you hear.",
+          "examples": [
+            "The eardrum helps you hear.",
+            "A loud noise hurt my eardrum.",
+            "Sound shakes the eardrum."
+          ]
+        },
+        "more": {
+          "def": "A thin layer of skin inside the ear that shakes when sound reaches it.",
+          "examples": [
+            "Sound waves make the eardrum vibrate.",
+            "A very loud noise can hurt the eardrum.",
+            "The doctor looked at her eardrum."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "early",
     "say": "ER-lee",
     "forms": [
@@ -592,6 +620,31 @@
             "Morning light spills in from the east.",
             "Our house faces east.",
             "They traveled east across the country."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "eastbound",
+    "say": "EEST-bownd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Going toward the east.",
+          "examples": [
+            "The eastbound train left.",
+            "An eastbound bus.",
+            "The eastbound road is closed."
+          ]
+        },
+        "more": {
+          "def": "Traveling or leading toward the east.",
+          "examples": [
+            "The eastbound train left the station.",
+            "Traffic on the eastbound road was slow.",
+            "We took the eastbound bus."
           ]
         }
       }

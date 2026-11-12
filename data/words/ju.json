@@ -1,5 +1,33 @@
 [
   {
+    "word": "jubilee",
+    "say": "JOO-bih-lee",
+    "forms": [
+      "jubilees"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A special celebration of an anniversary.",
+          "examples": [
+            "The town held a jubilee.",
+            "The jubilee was fun.",
+            "We went to the jubilee."
+          ]
+        },
+        "more": {
+          "def": "A special celebration of a long-lasting event, such as an anniversary.",
+          "examples": [
+            "The queen celebrated her golden jubilee.",
+            "The town held a jubilee for its two hundredth birthday.",
+            "We danced at the jubilee."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "judge",
     "say": "juj",
     "emoji": "⚖️",
@@ -257,6 +285,55 @@
             "Many places in the north have their hottest weather in July.",
             "Our town has a parade on the Fourth of July.",
             "The tomatoes in the garden are ripe by July."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "jumble",
+    "say": "JUM-bul",
+    "forms": [
+      "jumbles",
+      "jumbled",
+      "jumbling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A messy mix of things.",
+          "examples": [
+            "A jumble of toys was on the floor.",
+            "The jumble of letters.",
+            "A jumble of clothes lay there."
+          ]
+        },
+        "more": {
+          "def": "A messy mixture of things all mixed together.",
+          "examples": [
+            "A jumble of toys lay on the floor.",
+            "The word puzzle was a jumble of letters.",
+            "I found my keys in a jumble of coins."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To mix things up in a messy way.",
+          "examples": [
+            "Do not jumble the cards.",
+            "The wind jumbled the papers.",
+            "He jumbled the letters."
+          ]
+        },
+        "more": {
+          "def": "To mix things together in a confused, messy way.",
+          "examples": [
+            "The wind jumbled the papers on the desk.",
+            "He jumbled the puzzle pieces on the table.",
+            "The kitten jumbled the yarn into a knot."
           ]
         }
       }

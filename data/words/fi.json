@@ -1896,6 +1896,34 @@
     ]
   },
   {
+    "word": "firstborn",
+    "say": "FERST-born",
+    "forms": [
+      "firstborns"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The first child born in a family.",
+          "examples": [
+            "She is the firstborn.",
+            "The firstborn is five.",
+            "He is the firstborn child."
+          ]
+        },
+        "more": {
+          "def": "The first child born to a family.",
+          "examples": [
+            "She is the firstborn in her family.",
+            "The firstborn of the three kids is ten.",
+            "The firstborn son helped his dad."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fish",
     "say": "fish",
     "emoji": "🐟",
@@ -2240,6 +2268,61 @@
             "The old man was a fixture on the park bench."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "fizz",
+    "say": "fiz",
+    "forms": [
+      "fizzes",
+      "fizzed",
+      "fizzing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The bubbly sound of a drink.",
+          "examples": [
+            "The soda has fizz.",
+            "I heard the fizz.",
+            "The fizz tickled my nose."
+          ]
+        },
+        "more": {
+          "def": "The bubbles and hissing sound in a fizzy drink.",
+          "examples": [
+            "The fizz of the soda tickled my nose.",
+            "You can hear the fizz when you open the can.",
+            "The tablet made a loud fizz in the water."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make little bubbles and a hissing sound.",
+          "examples": [
+            "The soda will fizz.",
+            "The tablet fizzed.",
+            "Soda fizzes."
+          ]
+        },
+        "more": {
+          "def": "To make small bubbles and a hissing sound.",
+          "examples": [
+            "The soda fizzed when I poured it.",
+            "The tablet fizzed in the glass of water.",
+            "Baking soda and vinegar fizz together."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "fizzy",
+        "def": "Full of bubbles."
       }
     ]
   }
