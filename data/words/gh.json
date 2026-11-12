@@ -52,5 +52,39 @@
         }
       }
     ]
+  },
+  {
+    "word": "ghoul",
+    "say": "gool",
+    "forms": [
+      "ghouls"
+    ],
+    "related": [
+      {
+        "word": "ghoulish",
+        "def": "Like a ghoul; creepy."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A scary creature in spooky stories.",
+          "examples": [
+            "A ghoul hid in the graveyard.",
+            "The ghoul was in a story.",
+            "We dressed as a ghoul."
+          ]
+        },
+        "more": {
+          "def": "A creepy, make-believe creature in spooky stories that is said to haunt graveyards.",
+          "examples": [
+            "In the spooky story, a ghoul wandered through the old graveyard.",
+            "The ghoul costume had ragged clothes and green face paint.",
+            "We read a ghost story about a ghoul at Halloween."
+          ]
+        }
+      }
+    ]
   }
 ]

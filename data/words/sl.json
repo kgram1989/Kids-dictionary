@@ -374,6 +374,34 @@
     ]
   },
   {
+    "word": "sleepover",
+    "say": "SLEEP-oh-ver",
+    "forms": [
+      "sleepovers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When a friend sleeps at your house.",
+          "examples": [
+            "I had a sleepover.",
+            "We have a sleepover Friday.",
+            "The sleepover was fun."
+          ]
+        },
+        "more": {
+          "def": "A party where friends spend the night at one person's home.",
+          "examples": [
+            "I had a sleepover for my birthday and six friends came.",
+            "We watched a movie and ate popcorn at the sleepover.",
+            "The sleepover lasted until the next morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sleepy",
     "say": "SLEE-pee",
     "emoji": "😴",
@@ -1251,6 +1279,55 @@
             "The bears slumbered in their den all winter long.",
             "The whole village slumbered under the quiet stars.",
             "She slumbered on the couch while the rain tapped on the roof."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "slump",
+    "say": "slump",
+    "forms": [
+      "slumps",
+      "slumped",
+      "slumping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To sit or fall down heavily.",
+          "examples": [
+            "He slumped in his chair.",
+            "She slumped on the couch.",
+            "The plant slumped."
+          ]
+        },
+        "more": {
+          "def": "To sink or fall down heavily, often because you are tired or sad.",
+          "examples": [
+            "He slumped in his chair after the long day.",
+            "The tired hikers slumped onto the grass.",
+            "She slumped on the couch and closed her eyes."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A time when things go badly.",
+          "examples": [
+            "The team is in a slump.",
+            "A slump in sales.",
+            "She had a slump."
+          ]
+        },
+        "more": {
+          "def": "A period of time when something is not going well, such as a team losing many games.",
+          "examples": [
+            "Our team was in a slump and lost five games in a row.",
+            "He had a slump in math but then began to improve.",
+            "A slump in sales hurt the shop."
           ]
         }
       }

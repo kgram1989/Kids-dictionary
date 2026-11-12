@@ -1718,5 +1718,34 @@
         "def": "Able to be fixed."
       }
     ]
+  },
+  {
+    "word": "fixture",
+    "say": "FIKS-cher",
+    "forms": [
+      "fixtures"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "say": "FIKS-cher",
+        "easy": {
+          "def": "Something that is fixed in place in a building.",
+          "examples": [
+            "The light is a fixture.",
+            "The sink is a fixture.",
+            "A bathroom fixture."
+          ]
+        },
+        "more": {
+          "def": "Something that is fixed in place in a building, such as a light or a sink, or someone who is always in the same place.",
+          "examples": [
+            "The light fixture in the hall needs a new bulb.",
+            "The sink is a fixture in the bathroom.",
+            "The old man was a fixture on the park bench."
+          ]
+        }
+      }
+    ]
   }
 ]
