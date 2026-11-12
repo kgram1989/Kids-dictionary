@@ -29,6 +29,31 @@
     ]
   },
   {
+    "word": "seafood",
+    "say": "SEE-food",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Fish and other food from the sea.",
+          "examples": [
+            "We ate seafood.",
+            "Seafood is tasty.",
+            "He likes seafood."
+          ]
+        },
+        "more": {
+          "def": "Fish and other animals from the sea, such as shrimp and crab, that are eaten as food.",
+          "examples": [
+            "We ate fresh seafood at a restaurant by the harbor.",
+            "Shrimp and crab are kinds of seafood.",
+            "Grandpa cooks seafood on Friday nights."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "seagull",
     "say": "SEE-gul",
     "emoji": "🐦",
@@ -131,6 +156,40 @@
             "He sealed the envelope and put a stamp on it.",
             "Sealing the lid keeps the soup from spilling.",
             "We sealed the leftovers in a plastic box."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "seam",
+    "say": "seem",
+    "forms": [
+      "seams"
+    ],
+    "related": [
+      {
+        "word": "seamless",
+        "def": "Without seams."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The line where two pieces of cloth are sewn together.",
+          "examples": [
+            "The seam came apart.",
+            "A seam in my shirt.",
+            "She sewed the seam."
+          ]
+        },
+        "more": {
+          "def": "The line where two pieces of cloth or other materials are joined together.",
+          "examples": [
+            "The seam in my pants came apart when I bent down.",
+            "She sewed the seam of the bag with strong thread.",
+            "A seam of coal ran through the rock."
           ]
         }
       }
@@ -2168,6 +2227,34 @@
             "I got a set of paints for my birthday.",
             "The library has a whole set of books about space.",
             "He keeps a set of tools in the garage."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "setback",
+    "say": "SET-bak",
+    "forms": [
+      "setbacks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that makes you slow down or go back.",
+          "examples": [
+            "The rain was a setback.",
+            "A small setback.",
+            "We had a setback."
+          ]
+        },
+        "more": {
+          "def": "A problem that slows your progress or makes things harder.",
+          "examples": [
+            "The rain was a setback for our camping trip.",
+            "Losing the first game was a setback, but we kept trying.",
+            "She had a setback when her paint spilled, but she started again."
           ]
         }
       }

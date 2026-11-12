@@ -222,5 +222,35 @@
         }
       }
     ]
+  },
+  {
+    "word": "octopus",
+    "say": "OK-tuh-pus",
+    "emoji": "🐙",
+    "forms": [
+      "octopuses",
+      "octopi"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sea animal with eight arms.",
+          "examples": [
+            "An octopus has eight arms.",
+            "The octopus squirted ink.",
+            "We saw an octopus at the aquarium."
+          ]
+        },
+        "more": {
+          "def": "A soft-bodied sea animal with eight long arms and a round head that can squirt ink to escape from enemies.",
+          "examples": [
+            "The octopus squirted a cloud of ink and swam away.",
+            "An octopus has eight arms with rows of suckers.",
+            "The clever octopus opened the jar to get the crab inside."
+          ]
+        }
+      }
+    ]
   }
 ]
