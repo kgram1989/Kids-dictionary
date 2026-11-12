@@ -199,6 +199,34 @@
     ]
   },
   {
+    "word": "teapot",
+    "say": "TEE-pot",
+    "forms": [
+      "teapots"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pot for making and pouring tea.",
+          "examples": [
+            "The teapot is hot.",
+            "Grandma has a teapot.",
+            "She poured from the teapot."
+          ]
+        },
+        "more": {
+          "def": "A pot with a spout and handle for making and serving tea.",
+          "examples": [
+            "Grandma poured tea from a blue teapot.",
+            "The teapot whistled on the stove.",
+            "A china teapot sat on the table."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tear",
     "say": "tair",
     "forms": [
@@ -2027,6 +2055,84 @@
             "The witness gave her testimony in court.",
             "His testimony helped the judge decide.",
             "Her testimony was calm and clear."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "testy",
+    "say": "TES-tee",
+    "forms": [
+      "testier",
+      "testiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Cranky and easily upset.",
+          "examples": [
+            "He was testy today.",
+            "The testy man snapped.",
+            "She was testy and tired."
+          ]
+        },
+        "more": {
+          "def": "Impatient and easily annoyed.",
+          "examples": [
+            "He was testy because he was tired.",
+            "The testy man snapped at the waiter.",
+            "She felt testy after the long wait."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tether",
+    "say": "TETH-er",
+    "forms": [
+      "tethers",
+      "tethered",
+      "tethering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rope that keeps an animal in place.",
+          "examples": [
+            "The horse has a tether.",
+            "A tether holds the goat.",
+            "The tether is long."
+          ]
+        },
+        "more": {
+          "def": "A rope or chain that ties an animal or object so it cannot wander far.",
+          "examples": [
+            "The goat is on a tether in the yard.",
+            "A long tether held the balloon.",
+            "The tether let the horse graze nearby."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tie with a rope.",
+          "examples": [
+            "Tether the horse.",
+            "She tethered the goat.",
+            "He tethered the boat."
+          ]
+        },
+        "more": {
+          "def": "To tie an animal or thing with a rope so it cannot move far.",
+          "examples": [
+            "She tethered the goat to a post.",
+            "He tethered the boat to the dock.",
+            "The camper tethered the tent to the ground."
           ]
         }
       }

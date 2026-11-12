@@ -3292,6 +3292,36 @@
     ]
   },
   {
+    "word": "depress",
+    "say": "dih-PRESS",
+    "forms": [
+      "depresses",
+      "depressed",
+      "depressing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To push down.",
+          "examples": [
+            "Depress the button.",
+            "He depressed the key.",
+            "Press and depress the pedal."
+          ]
+        },
+        "more": {
+          "def": "To press something down.",
+          "examples": [
+            "Depress the button to start the machine.",
+            "He depressed the key and a note played.",
+            "Depress the pedal to make the car go."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "depressed",
     "say": "dih-PREST",
     "senses": [
@@ -3707,6 +3737,37 @@
             "The team deserved to win."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "deserving",
+    "say": "dih-ZER-ving",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Worth being helped or praised.",
+          "examples": [
+            "She is deserving of a prize.",
+            "The deserving team won.",
+            "I saw a deserving student."
+          ]
+        },
+        "more": {
+          "def": "Worth being given praise, a reward or help.",
+          "examples": [
+            "The deserving team won the cup.",
+            "She is deserving of a reward for her hard work.",
+            "The deserving family got help from neighbors."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "undeserving",
+        "def": "Not deserving."
       }
     ]
   },
@@ -4710,6 +4771,31 @@
             "A powerful hurricane can devastate a whole coastal town.",
             "The flood devastated the farmers' fields and crops.",
             "A long drought devastated the forest and dried up the streams."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "devastation",
+    "say": "dev-uh-STAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Great damage and ruin.",
+          "examples": [
+            "The storm left devastation.",
+            "We saw the devastation.",
+            "The devastation was sad."
+          ]
+        },
+        "more": {
+          "def": "Great destruction and damage, leaving a place in ruins.",
+          "examples": [
+            "The flood left devastation across the town.",
+            "We saw the devastation after the big storm.",
+            "Helpers came to repair the devastation."
           ]
         }
       }
