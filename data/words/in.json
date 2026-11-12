@@ -504,6 +504,35 @@
     ]
   },
   {
+    "word": "index",
+    "say": "IN-deks",
+    "forms": [
+      "indexes",
+      "indices"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A list at the back of a book that tells where to find things.",
+          "examples": [
+            "I looked in the index.",
+            "The index lists words.",
+            "The book has an index."
+          ]
+        },
+        "more": {
+          "def": "An alphabetical list at the back of a book that tells you which pages to find things on.",
+          "examples": [
+            "I looked up \"volcano\" in the index to find the right page.",
+            "The index of the book listed every animal in order.",
+            "Use the index to find the topic you need."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "indicate",
     "say": "IN-dih-kayt",
     "forms": [
@@ -2815,6 +2844,36 @@
     ]
   },
   {
+    "word": "interact",
+    "say": "in-ter-AKT",
+    "forms": [
+      "interacts",
+      "interacted",
+      "interacting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To talk and work with others.",
+          "examples": [
+            "Kids interact at recess.",
+            "Dogs interact.",
+            "We interact with our friends."
+          ]
+        },
+        "more": {
+          "def": "To talk to, work with or affect each other.",
+          "examples": [
+            "The children interact with each other at recess by playing games.",
+            "Zoo visitors can interact with the goats in the petting area.",
+            "Some medicines can interact and make you feel sick."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "intercept",
     "say": "in-ter-SEPT",
     "forms": [
@@ -3263,6 +3322,62 @@
             "Stop and look both ways at the intersection before you cross.",
             "The traffic light at the intersection turned green.",
             "The two lines meet at an intersection on the graph."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "interstate",
+    "say": "IN-ter-stayt",
+    "forms": [
+      "interstates"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big road that goes between states.",
+          "examples": [
+            "We drove on the interstate.",
+            "The interstate is fast.",
+            "The interstate is busy."
+          ]
+        },
+        "more": {
+          "def": "A very wide, fast road with several lanes that goes between states.",
+          "examples": [
+            "We drove on the interstate for six hours to reach the beach.",
+            "The interstate was busy with trucks and cars.",
+            "Exit signs line the interstate every few miles."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "interval",
+    "say": "IN-ter-vul",
+    "forms": [
+      "intervals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A time or space between two things.",
+          "examples": [
+            "There was an interval between songs.",
+            "A short interval.",
+            "The interval was ten minutes."
+          ]
+        },
+        "more": {
+          "def": "A period of time or a space between two events or things.",
+          "examples": [
+            "There was a short interval between the two songs.",
+            "The buses run at ten-minute intervals.",
+            "Plant the seeds at regular intervals along the row."
           ]
         }
       }
