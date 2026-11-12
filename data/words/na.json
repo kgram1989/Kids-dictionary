@@ -1,5 +1,34 @@
 [
   {
+    "word": "nacho",
+    "say": "NAH-choh",
+    "forms": [
+      "nachos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "say": "NAH-chohz",
+        "easy": {
+          "def": "A corn chip with melted cheese on it.",
+          "examples": [
+            "I ate nachos.",
+            "The nachos have cheese.",
+            "We shared a plate of nachos."
+          ]
+        },
+        "more": {
+          "def": "A crisp corn chip that is topped with melted cheese and sometimes beans or other toppings.",
+          "examples": [
+            "We shared a plate of nachos with cheese and beans.",
+            "Each nacho was covered with melted cheese.",
+            "He dipped the nacho into the salsa."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nag",
     "say": "nag",
     "forms": [
@@ -292,6 +321,31 @@
             "The street was so narrow that only one car could pass.",
             "The bridge is too narrow for trucks.",
             "A narrow stream ran through the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "nasal",
+    "say": "NAY-zul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having to do with the nose.",
+          "examples": [
+            "She had a nasal voice.",
+            "A nasal spray.",
+            "The cold made her nasal."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the nose, or sounding as if a person is talking through the nose.",
+          "examples": [
+            "When I have a cold, my voice sounds nasal.",
+            "The doctor gave me a nasal spray to help me breathe.",
+            "The nasal passages carry air from your nose to your throat."
           ]
         }
       }
