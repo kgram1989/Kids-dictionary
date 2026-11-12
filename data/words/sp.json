@@ -1322,6 +1322,55 @@
     ]
   },
   {
+    "word": "spiral",
+    "say": "SPY-rul",
+    "forms": [
+      "spirals",
+      "spiraled",
+      "spiraling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shape that winds around and around.",
+          "examples": [
+            "A snail shell is a spiral.",
+            "I drew a spiral.",
+            "The stairs make a spiral."
+          ]
+        },
+        "more": {
+          "def": "A shape that winds around and around a center point, getting wider or higher as it goes.",
+          "examples": [
+            "A snail's shell grows in a spiral.",
+            "The stairs wound up the tower in a tight spiral.",
+            "I drew a spiral on the paper, starting from the middle."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To move around and around in a curve.",
+          "examples": [
+            "The smoke spiraled up.",
+            "The leaf spiraled down.",
+            "The bird spiraled."
+          ]
+        },
+        "more": {
+          "def": "To move or grow in a curve that winds around and around.",
+          "examples": [
+            "The smoke spiraled up from the campfire.",
+            "The leaf spiraled slowly down to the ground.",
+            "The kite spiraled to the earth when the string broke."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "spirit",
     "say": "SPIR-it",
     "forms": [
@@ -2137,6 +2186,34 @@
             "The news spread fast.",
             "Weeds spread across the garden.",
             "The flowers spread across the hillside."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "spree",
+    "say": "spree",
+    "forms": [
+      "sprees"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short time of doing something a lot.",
+          "examples": [
+            "We went on a shopping spree.",
+            "A spree of laughs.",
+            "A spree of fun."
+          ]
+        },
+        "more": {
+          "def": "A short period of doing one thing in a wild and eager way, such as shopping or laughing.",
+          "examples": [
+            "We went on a shopping spree and bought new shoes, a hat and a bag.",
+            "The children went on a laughing spree at the silly movie.",
+            "He went on a reading spree and finished five books in a week."
           ]
         }
       }

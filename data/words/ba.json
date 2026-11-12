@@ -378,6 +378,34 @@
     ]
   },
   {
+    "word": "backup",
+    "say": "BAK-up",
+    "forms": [
+      "backups"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something extra you can use if the first one fails.",
+          "examples": [
+            "I have a backup.",
+            "A backup plan.",
+            "The backup helped."
+          ]
+        },
+        "more": {
+          "def": "Something extra that you keep in case the first one is lost or does not work, or the people who come to help.",
+          "examples": [
+            "We brought a backup flashlight in case the first one failed.",
+            "Always make a backup copy of your homework on the computer.",
+            "The police called for backup when there was a big crowd."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "backward",
     "say": "BAK-werd",
     "forms": [
@@ -2242,6 +2270,31 @@
             "We learned the basic rules of the game.",
             "Reading is a basic skill.",
             "The basic idea of the story is easy to follow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "basics",
+    "say": "BAY-siks",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The first and most important parts of something.",
+          "examples": [
+            "I learned the basics.",
+            "Learn the basics first.",
+            "We know the basics."
+          ]
+        },
+        "more": {
+          "def": "The first and most important things that you need to know about a subject or a skill.",
+          "examples": [
+            "In swimming class we learned the basics, like floating and kicking.",
+            "Learn the basics of the game first, and then try harder moves.",
+            "The teacher went over the basics of fractions again."
           ]
         }
       }
