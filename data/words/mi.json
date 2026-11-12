@@ -546,6 +546,34 @@
     ]
   },
   {
+    "word": "milkshake",
+    "say": "MILK-shayk",
+    "forms": [
+      "milkshakes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thick, cold drink of milk and ice cream.",
+          "examples": [
+            "I like a milkshake.",
+            "The milkshake is cold.",
+            "We shared a milkshake."
+          ]
+        },
+        "more": {
+          "def": "A thick, cold drink made of milk, ice cream and flavoring.",
+          "examples": [
+            "I ordered a chocolate milkshake.",
+            "We shared a strawberry milkshake.",
+            "The milkshake was so thick I needed a spoon."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "milky",
     "say": "MIL-kee",
     "forms": [
@@ -1890,6 +1918,35 @@
             "I misplaced my keys and could not find them.",
             "She misplaced her glasses and looked all over.",
             "He misplaced his hat at the park."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "misread",
+    "say": "mis-REED",
+    "forms": [
+      "misreads",
+      "misreading"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To read something wrongly.",
+          "examples": [
+            "I misread the sign.",
+            "She misread the clock.",
+            "He misread the word."
+          ]
+        },
+        "more": {
+          "def": "To read or understand something in the wrong way.",
+          "examples": [
+            "I misread the sign and turned the wrong way.",
+            "She misread the clock and was late.",
+            "He misread the directions and got lost."
           ]
         }
       }

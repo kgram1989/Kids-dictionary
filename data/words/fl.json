@@ -425,6 +425,34 @@
     ]
   },
   {
+    "word": "flask",
+    "say": "flask",
+    "forms": [
+      "flasks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small bottle for carrying a drink.",
+          "examples": [
+            "He drank from the flask.",
+            "The flask holds water.",
+            "She filled the flask."
+          ]
+        },
+        "more": {
+          "def": "A bottle used to carry liquids, or a glass bottle used in science.",
+          "examples": [
+            "The hiker drank water from her metal flask.",
+            "The scientist poured the liquid into a glass flask.",
+            "I filled the flask with hot soup."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "flat",
     "say": "flat",
     "forms": [
@@ -1399,6 +1427,35 @@
     ]
   },
   {
+    "word": "floppy",
+    "say": "FLOP-ee",
+    "forms": [
+      "floppier",
+      "floppiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Soft and hanging down.",
+          "examples": [
+            "The dog has floppy ears.",
+            "My hat is floppy.",
+            "The floppy rabbit sat."
+          ]
+        },
+        "more": {
+          "def": "Soft and loose, hanging down instead of standing stiff.",
+          "examples": [
+            "The puppy has floppy ears.",
+            "She wore a floppy hat to the beach.",
+            "The rag doll had floppy arms and legs."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "florist",
     "say": "FLOR-ist",
     "forms": [
@@ -1551,6 +1608,55 @@
     ]
   },
   {
+    "word": "flourish",
+    "say": "FLER-ish",
+    "forms": [
+      "flourishes",
+      "flourished",
+      "flourishing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To grow strong and do well.",
+          "examples": [
+            "Plants flourish in the sun.",
+            "The shop flourished.",
+            "Flowers flourish in spring."
+          ]
+        },
+        "more": {
+          "def": "To grow well or to do very well.",
+          "examples": [
+            "Plants flourish in good soil and plenty of light.",
+            "The little shop began to flourish.",
+            "Wildflowers flourish after spring rain."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fancy wave or move you make.",
+          "examples": [
+            "He bowed with a flourish.",
+            "She signed with a flourish.",
+            "The flourish was grand."
+          ]
+        },
+        "more": {
+          "def": "A bold, fancy movement or gesture made to attract attention.",
+          "examples": [
+            "He bowed with a flourish and everyone clapped.",
+            "She signed her name with a big flourish.",
+            "The chef opened the lid with a flourish."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "flow",
     "say": "floh",
     "forms": [
@@ -1649,6 +1755,31 @@
             "I stayed home with the flu for a week.",
             "Many kids caught the flu this winter.",
             "A flu shot can help protect you."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fluent",
+    "say": "FLOO-unt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to speak or read easily and well.",
+          "examples": [
+            "She is fluent in Spanish.",
+            "A fluent reader reads smoothly.",
+            "He is fluent."
+          ]
+        },
+        "more": {
+          "def": "Able to speak, read or write a language smoothly and easily.",
+          "examples": [
+            "She is fluent in Spanish and French.",
+            "A fluent reader reads smoothly without stopping.",
+            "After a year in Japan, he was fluent in Japanese."
           ]
         }
       }
