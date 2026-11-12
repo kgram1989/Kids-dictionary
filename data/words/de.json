@@ -889,6 +889,42 @@
     ]
   },
   {
+    "word": "decode",
+    "say": "dee-KOHD",
+    "forms": [
+      "decodes",
+      "decoded",
+      "decoding"
+    ],
+    "related": [
+      {
+        "word": "decoder",
+        "def": "A thing that decodes."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To work out the meaning of a secret message.",
+          "examples": [
+            "We decoded the message.",
+            "I can decode the secret.",
+            "She decoded the note."
+          ]
+        },
+        "more": {
+          "def": "To work out the meaning of a message that is written in code.",
+          "examples": [
+            "We decoded the secret message using the key.",
+            "She decoded the note and found the treasure map.",
+            "A computer can decode the signal."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "decorate",
     "say": "DEK-uh-rayt",
     "forms": [
@@ -2424,6 +2460,36 @@
     ]
   },
   {
+    "word": "demolish",
+    "say": "dih-MOL-ish",
+    "forms": [
+      "demolishes",
+      "demolished",
+      "demolishing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To knock down a building.",
+          "examples": [
+            "They demolished the old shop.",
+            "The workers demolish the wall.",
+            "The old school was demolished."
+          ]
+        },
+        "more": {
+          "def": "To pull down or destroy a building or other structure completely.",
+          "examples": [
+            "Workers demolished the old building to make room for a park.",
+            "The crane demolished the wall with a heavy ball.",
+            "The storm demolished the old shed."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "demolition",
     "say": "dem-uh-LISH-un",
     "senses": [
@@ -2753,6 +2819,34 @@
     ]
   },
   {
+    "word": "deodorant",
+    "say": "dee-OH-der-unt",
+    "forms": [
+      "deodorants"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing you put on your skin to stop bad smells.",
+          "examples": [
+            "Dad uses deodorant.",
+            "Deodorant smells good.",
+            "She put on deodorant."
+          ]
+        },
+        "more": {
+          "def": "A product that is put under the arms to stop a person from smelling of sweat.",
+          "examples": [
+            "Dad put on deodorant after his shower.",
+            "Deodorant keeps your underarms from smelling.",
+            "The gym bag had a stick of deodorant."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "depart",
     "say": "dih-PART",
     "forms": [
@@ -2863,6 +2957,37 @@
             "Plants depend on sunlight and water to grow.",
             "Many people depend on buses to get to work.",
             "Whether we win depends on how well we work together."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dependable",
+    "say": "dih-PEN-duh-bul",
+    "related": [
+      {
+        "word": "undependable",
+        "def": "Not dependable."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Someone or something you can count on.",
+          "examples": [
+            "She is dependable.",
+            "A dependable friend.",
+            "A dependable car."
+          ]
+        },
+        "more": {
+          "def": "Able to be counted on to do what is needed.",
+          "examples": [
+            "She is a dependable friend who always keeps her promises.",
+            "The dependable old truck started every morning.",
+            "A dependable dog always comes when you call."
           ]
         }
       }
@@ -4006,6 +4131,31 @@
       {
         "word": "detectable",
         "def": "Able to be found."
+      }
+    ]
+  },
+  {
+    "word": "detection",
+    "say": "dih-TEK-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Finding or noticing something.",
+          "examples": [
+            "Early detection helps.",
+            "The alarm warns of detection.",
+            "Detection of smoke."
+          ]
+        },
+        "more": {
+          "def": "The act of finding or noticing something that is hidden or hard to see.",
+          "examples": [
+            "Early detection of smoke can save lives.",
+            "The detective used a magnifying glass for the detection of clues.",
+            "The alarm sounds on the detection of smoke."
+          ]
+        }
       }
     ]
   },

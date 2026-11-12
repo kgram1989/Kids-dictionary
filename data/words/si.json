@@ -1088,6 +1088,31 @@
     ]
   },
   {
+    "word": "sinful",
+    "say": "SIN-ful",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wrong, especially in a religious way.",
+          "examples": [
+            "It was a sinful act.",
+            "A sinful thought.",
+            "The story had a sinful king."
+          ]
+        },
+        "more": {
+          "def": "Wrong or against the rules of a religion.",
+          "examples": [
+            "Stealing is thought to be sinful in many religions.",
+            "In the story, the sinful king was punished.",
+            "He felt that telling a lie was sinful."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sing",
     "say": "sing",
     "emoji": "🎤",
@@ -1758,6 +1783,36 @@
       {
         "word": "midsize",
         "def": "Not big and not small."
+      }
+    ]
+  },
+  {
+    "word": "sizzle",
+    "say": "SIZ-ul",
+    "forms": [
+      "sizzles",
+      "sizzled",
+      "sizzling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a hissing sound when cooking.",
+          "examples": [
+            "The bacon sizzled.",
+            "The pan sizzles.",
+            "Sausages sizzle on the grill."
+          ]
+        },
+        "more": {
+          "def": "To make a hissing, crackling sound, as food does when it is cooking in hot fat.",
+          "examples": [
+            "The bacon sizzled in the hot pan.",
+            "The sausages sizzled on the grill.",
+            "Water sizzled when it hit the hot stove."
+          ]
+        }
       }
     ]
   }
