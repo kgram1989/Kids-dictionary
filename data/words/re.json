@@ -1086,6 +1086,36 @@
     ]
   },
   {
+    "word": "recharge",
+    "say": "ree-CHARJ",
+    "forms": [
+      "recharges",
+      "recharged",
+      "recharging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To fill a battery with power again.",
+          "examples": [
+            "I recharge my tablet at night.",
+            "We recharged the toy car.",
+            "Please recharge the phone."
+          ]
+        },
+        "more": {
+          "def": "To put power back into a battery, or to get your energy back.",
+          "examples": [
+            "You can recharge a phone by plugging it into the wall.",
+            "The solar panel will recharge the battery in the sun.",
+            "A good nap helped him recharge before the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "recipe",
     "say": "RES-uh-pee",
     "forms": [
@@ -1108,6 +1138,34 @@
             "The recipe has five easy steps.",
             "Grandma's recipe for cookies is a secret.",
             "I read the recipe before I started baking."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "recipient",
+    "say": "rih-SIP-ee-unt",
+    "forms": [
+      "recipients"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who gets something.",
+          "examples": [
+            "She was the recipient of a gift.",
+            "The recipient opened the box.",
+            "Each recipient got a card."
+          ]
+        },
+        "more": {
+          "def": "A person who receives something, such as a gift, letter or award.",
+          "examples": [
+            "The recipient of the award thanked her teacher.",
+            "Each recipient of a letter wrote back to us.",
+            "The recipient of the package signed her name at the door."
           ]
         }
       }
@@ -3571,6 +3629,34 @@
     ]
   },
   {
+    "word": "reins",
+    "say": "raynz",
+    "forms": [
+      "rein"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Straps a rider uses to steer a horse.",
+          "examples": [
+            "She held the reins tight.",
+            "He pulled the reins to stop the horse.",
+            "The reins are made of leather."
+          ]
+        },
+        "more": {
+          "def": "The long leather straps attached to a horse's head that a rider holds to guide the horse.",
+          "examples": [
+            "The rider pulled gently on the reins to turn the pony.",
+            "He held the reins in both hands as the horse trotted.",
+            "The little girl learned to hold the reins and sit up straight."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "reject",
     "say": "rih-JEKT",
     "forms": [
@@ -4644,6 +4730,34 @@
     ]
   },
   {
+    "word": "rematch",
+    "say": "REE-match",
+    "forms": [
+      "rematches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A second game between the same two teams.",
+          "examples": [
+            "We want a rematch.",
+            "The rematch is on Friday.",
+            "We won the rematch."
+          ]
+        },
+        "more": {
+          "def": "A second contest played between the same players or teams.",
+          "examples": [
+            "The two teams will play a rematch next week.",
+            "She lost the first game but won the rematch.",
+            "Fans lined up early for the rematch."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "remedy",
     "say": "REM-uh-dee",
     "forms": [
@@ -5338,6 +5452,55 @@
             "I need a replacement for my broken pencil.",
             "The new teacher is a replacement for Mr. Lee.",
             "We bought a replacement light bulb."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "replay",
+    "say": "REE-play",
+    "forms": [
+      "replays",
+      "replayed",
+      "replaying"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A second showing of something that happened.",
+          "examples": [
+            "We watched the replay of the goal.",
+            "The replay showed the catch.",
+            "Let's see the replay again."
+          ]
+        },
+        "more": {
+          "def": "A showing of a game or recording again, often in slow motion.",
+          "examples": [
+            "The announcer showed a slow replay of the winning run.",
+            "We watched the replay of the concert online.",
+            "The referee looked at the replay before making a call."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To play something again.",
+          "examples": [
+            "Let's replay the song.",
+            "We replayed the game.",
+            "Please replay the video."
+          ]
+        },
+        "more": {
+          "def": "To play a game, song or video again.",
+          "examples": [
+            "The band asked to replay the song from the start.",
+            "We replayed the tie game on Saturday.",
+            "She replayed the video to hear the answer once more."
           ]
         }
       }
@@ -6592,6 +6755,37 @@
             "Forests are a natural resource."
           ]
         }
+      }
+    ]
+  },
+  {
+    "word": "resourceful",
+    "say": "rih-SORSS-ful",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Good at finding ways to fix problems.",
+          "examples": [
+            "A resourceful girl made a toy from a box.",
+            "He is resourceful and clever.",
+            "The resourceful pup dug under the fence."
+          ]
+        },
+        "more": {
+          "def": "Good at finding clever ways to solve problems and get things done with what you have.",
+          "examples": [
+            "The resourceful campers used a flat stone as a frying pan.",
+            "A resourceful student found three ways to explain the answer.",
+            "When the bike chain broke, she was resourceful and fixed it with a wire."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "resourcefulness",
+        "def": "Being resourceful."
       }
     ]
   },
