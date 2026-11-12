@@ -300,6 +300,31 @@
     ]
   },
   {
+    "word": "unbalanced",
+    "say": "un-BAL-unst",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not steady or even.",
+          "examples": [
+            "The table is unbalanced.",
+            "An unbalanced load.",
+            "The scale was unbalanced."
+          ]
+        },
+        "more": {
+          "def": "Not steady or evenly weighted.",
+          "examples": [
+            "The load was unbalanced and fell.",
+            "The unbalanced scale tipped to one side.",
+            "The tower of blocks was unbalanced."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "unbearable",
     "say": "un-BAIR-uh-bul",
     "senses": [
@@ -375,6 +400,31 @@
     ]
   },
   {
+    "word": "unbreakable",
+    "say": "un-BRAY-kuh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not able to be broken.",
+          "examples": [
+            "The toy is unbreakable.",
+            "An unbreakable cup.",
+            "The plastic is unbreakable."
+          ]
+        },
+        "more": {
+          "def": "Impossible to break.",
+          "examples": [
+            "The plastic cup is unbreakable.",
+            "The toy was made to be unbreakable.",
+            "Their friendship felt unbreakable."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "unbroken",
     "say": "un-BROH-kun",
     "senses": [
@@ -444,7 +494,7 @@
           ]
         },
         "more": {
-          "def": "Not needed or not welcome, often used in the phrase \"uncalled for.\"",
+          "def": "Not needed or not welcome, as when a rude remark is out of place.",
           "examples": [
             "That remark was uncalled for.",
             "The rude comment was uncalled for.",
@@ -502,6 +552,31 @@
             "Uncertainty about the game time made the team wait nervously.",
             "The sailors faced the uncertainty of a stormy sea.",
             "He spoke with uncertainty because he had not studied."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "unchanged",
+    "say": "un-CHAYNJD",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not different.",
+          "examples": [
+            "The plan is unchanged.",
+            "The town is unchanged.",
+            "My room is unchanged."
+          ]
+        },
+        "more": {
+          "def": "Staying the same, not changed.",
+          "examples": [
+            "The plan is unchanged: we meet at noon.",
+            "The old house was unchanged after fifty years.",
+            "My room is unchanged since I left."
           ]
         }
       }
@@ -1515,6 +1590,31 @@
     ]
   },
   {
+    "word": "undisturbed",
+    "say": "un-dis-TERBD",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Left alone and quiet.",
+          "examples": [
+            "The nest was undisturbed.",
+            "An undisturbed sleep.",
+            "The cat slept undisturbed."
+          ]
+        },
+        "more": {
+          "def": "Left alone, not bothered or moved.",
+          "examples": [
+            "The nest remained undisturbed in the tree.",
+            "The cat slept undisturbed in the sun.",
+            "The snow lay undisturbed in the yard."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "undivided",
     "say": "un-dih-VY-did",
     "senses": [
@@ -2098,6 +2198,31 @@
             "He seemed ungrateful when he never said thank you for the gift.",
             "The ungrateful guest left without thanking his hosts.",
             "It sounds ungrateful to complain about a free lunch."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "unguarded",
+    "say": "un-GAR-did",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not watched or protected.",
+          "examples": [
+            "The gate was unguarded.",
+            "An unguarded moment.",
+            "The unguarded door was open."
+          ]
+        },
+        "more": {
+          "def": "Not watched over or protected.",
+          "examples": [
+            "The gate was left unguarded.",
+            "In an unguarded moment, he told the secret.",
+            "The unguarded cookie jar was soon empty."
           ]
         }
       }
@@ -3403,6 +3528,31 @@
     ]
   },
   {
+    "word": "unpunished",
+    "say": "un-PUN-isht",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not given a penalty.",
+          "examples": [
+            "The cheater went unpunished.",
+            "An unpunished act.",
+            "The wrong went unpunished."
+          ]
+        },
+        "more": {
+          "def": "Not punished or given a penalty.",
+          "examples": [
+            "The player went unpunished for the mistake.",
+            "The rude act went unpunished.",
+            "The wrongdoing did not stay unpunished."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "unravel",
     "say": "un-RAV-ul",
     "forms": [
@@ -3605,6 +3755,35 @@
             "There was unrest in the town after the news.",
             "The class felt unrest before the test.",
             "The king's unfair rules caused unrest."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "unruly",
+    "say": "un-ROO-lee",
+    "forms": [
+      "unrulier",
+      "unruliest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Hard to control.",
+          "examples": [
+            "The unruly puppy ran.",
+            "His hair is unruly.",
+            "The class was unruly."
+          ]
+        },
+        "more": {
+          "def": "Hard to control or manage, often noisy and wild.",
+          "examples": [
+            "The unruly puppy chewed the shoes.",
+            "His unruly hair stuck up in every direction.",
+            "The unruly class would not sit down."
           ]
         }
       }
@@ -4244,6 +4423,31 @@
             "We gave our unwanted toys to the shelter.",
             "Unwanted weeds grew all over the garden.",
             "She deleted the unwanted messages from her phone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "unwelcome",
+    "say": "un-WEL-kum",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not wanted.",
+          "examples": [
+            "An unwelcome guest.",
+            "The news was unwelcome.",
+            "The rain was unwelcome."
+          ]
+        },
+        "more": {
+          "def": "Not wanted or not pleasing to have around.",
+          "examples": [
+            "The unwelcome news made her sad.",
+            "An unwelcome insect buzzed around our picnic.",
+            "The cold rain was unwelcome on picnic day."
           ]
         }
       }

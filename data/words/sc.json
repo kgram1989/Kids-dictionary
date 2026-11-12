@@ -28,6 +28,36 @@
     ]
   },
   {
+    "word": "scald",
+    "say": "skawld",
+    "forms": [
+      "scalds",
+      "scalded",
+      "scalding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To burn with hot water or steam.",
+          "examples": [
+            "The steam can scald you.",
+            "He scalded his hand.",
+            "Hot water can scald."
+          ]
+        },
+        "more": {
+          "def": "To burn the skin with hot liquid or steam.",
+          "examples": [
+            "Hot water can scald your skin.",
+            "He scalded his hand on the steam.",
+            "Be careful not to scald yourself with the kettle."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scale",
     "say": "skayl",
     "forms": [
@@ -1566,6 +1596,34 @@
       {
         "word": "scoreless",
         "def": "With no points scored."
+      }
+    ]
+  },
+  {
+    "word": "scoreboard",
+    "say": "SKOR-bord",
+    "forms": [
+      "scoreboards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big board that shows the score.",
+          "examples": [
+            "Look at the scoreboard.",
+            "The scoreboard says 3 to 2.",
+            "The scoreboard lit up."
+          ]
+        },
+        "more": {
+          "def": "A large board that shows the score of a game.",
+          "examples": [
+            "The scoreboard showed we were ahead by three.",
+            "Lights flashed on the scoreboard when the team won.",
+            "The fans looked up at the scoreboard."
+          ]
+        }
       }
     ]
   },

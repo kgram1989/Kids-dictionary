@@ -29,5 +29,35 @@
         }
       }
     ]
+  },
+  {
+    "word": "omit",
+    "say": "oh-MIT",
+    "forms": [
+      "omits",
+      "omitted",
+      "omitting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To leave out.",
+          "examples": [
+            "Omit the last word.",
+            "She omitted a step.",
+            "Do not omit your name."
+          ]
+        },
+        "more": {
+          "def": "To leave something out, on purpose or by mistake.",
+          "examples": [
+            "Omit the last word to make the sentence shorter.",
+            "She omitted a step in the recipe by mistake.",
+            "Do not omit your name from the paper."
+          ]
+        }
+      }
+    ]
   }
 ]

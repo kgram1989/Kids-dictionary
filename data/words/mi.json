@@ -157,6 +157,31 @@
     ]
   },
   {
+    "word": "midair",
+    "say": "mid-AIR",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "In the air.",
+          "examples": [
+            "The ball stopped in midair.",
+            "The bird froze in midair.",
+            "He caught it in midair."
+          ]
+        },
+        "more": {
+          "def": "A place in the air, not touching the ground.",
+          "examples": [
+            "The ball hung in midair for a moment.",
+            "The bird stopped in midair to catch a bug.",
+            "She caught the Frisbee in midair."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "midday",
     "say": "MID-day",
     "senses": [
@@ -2466,6 +2491,55 @@
             "We should never mistreat animals.",
             "He mistreated his books by throwing them around.",
             "The girl in the story worked to stop people from mistreating horses."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mistrust",
+    "say": "mis-TRUST",
+    "forms": [
+      "mistrusts",
+      "mistrusted",
+      "mistrusting"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Not trusting someone.",
+          "examples": [
+            "He felt mistrust.",
+            "The mistrust grew.",
+            "There was mistrust."
+          ]
+        },
+        "more": {
+          "def": "A feeling that someone or something cannot be trusted.",
+          "examples": [
+            "He looked at the stranger with mistrust.",
+            "The cat showed mistrust of the vacuum.",
+            "The two sides were full of mistrust."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To not trust.",
+          "examples": [
+            "I mistrust the sign.",
+            "He mistrusted the stranger.",
+            "She mistrusts the map."
+          ]
+        },
+        "more": {
+          "def": "To feel that a person or thing cannot be trusted.",
+          "examples": [
+            "He mistrusted the old bridge.",
+            "She mistrusted the stranger at the door.",
+            "They mistrusted the map because it was old."
           ]
         }
       }

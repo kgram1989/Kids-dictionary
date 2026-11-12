@@ -626,6 +626,34 @@
     ]
   },
   {
+    "word": "lamppost",
+    "say": "LAMP-pohst",
+    "forms": [
+      "lampposts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tall post that holds a street light.",
+          "examples": [
+            "The lamppost is on the corner.",
+            "A lamppost lights the street.",
+            "A cat sat by the lamppost."
+          ]
+        },
+        "more": {
+          "def": "A tall post with a light on top that lights a street.",
+          "examples": [
+            "The lamppost glowed on the corner.",
+            "A cat sat at the base of the lamppost.",
+            "The old lamppost lit the path."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lance",
     "say": "lanss",
     "forms": [
@@ -1629,6 +1657,55 @@
             "I will do my homework later, after we play outside.",
             "The rain stopped, and the sun came out an hour later.",
             "We can talk about it later."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lather",
+    "say": "LATH-er",
+    "forms": [
+      "lathers",
+      "lathered",
+      "lathering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The foam that soap makes.",
+          "examples": [
+            "The soap makes lather.",
+            "There is lather on my hands.",
+            "The lather is white."
+          ]
+        },
+        "more": {
+          "def": "The white foam made by soap and water.",
+          "examples": [
+            "The soap made a thick lather in my hands.",
+            "Dad covered the dog in lather at bath time.",
+            "We rinsed the lather off the car."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cover with foam.",
+          "examples": [
+            "Lather your hands.",
+            "He lathered the soap.",
+            "She lathered the dog."
+          ]
+        },
+        "more": {
+          "def": "To cover something with foam made by soap.",
+          "examples": [
+            "Lather your hands with soap for twenty seconds.",
+            "He lathered the dog in the tub.",
+            "She lathered the car with a sponge."
           ]
         }
       }
