@@ -388,5 +388,33 @@
         "def": "To guess too much."
       }
     ]
+  },
+  {
+    "word": "estimation",
+    "say": "es-tih-MAY-shun",
+    "forms": [
+      "estimations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A guess about how much or how many.",
+          "examples": [
+            "My estimation is ten.",
+            "Her estimation was good.",
+            "In my estimation, it is far."
+          ]
+        },
+        "more": {
+          "def": "A careful guess about an amount, or a person's opinion.",
+          "examples": [
+            "In my estimation, the trip will take an hour.",
+            "Her estimation of the cost was close.",
+            "The teacher praised his estimation of the number of beans."
+          ]
+        }
+      }
+    ]
   }
 ]
