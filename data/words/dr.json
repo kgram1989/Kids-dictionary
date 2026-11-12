@@ -238,6 +238,34 @@
     ]
   },
   {
+    "word": "drainpipe",
+    "say": "DRAYN-pyp",
+    "forms": [
+      "drainpipes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pipe that carries water away.",
+          "examples": [
+            "Water runs down the drainpipe.",
+            "The drainpipe is metal.",
+            "A drainpipe is on the house."
+          ]
+        },
+        "more": {
+          "def": "A pipe that carries water away from a roof or sink.",
+          "examples": [
+            "Rain water ran down the drainpipe.",
+            "A bird built a nest in the drainpipe.",
+            "Leaves clogged the drainpipe."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drama",
     "say": "DRAH-muh",
     "emoji": "🎭",
@@ -943,6 +971,34 @@
     ]
   },
   {
+    "word": "dressmaker",
+    "say": "DRESS-may-ker",
+    "forms": [
+      "dressmakers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who makes dresses.",
+          "examples": [
+            "The dressmaker sewed.",
+            "A dressmaker made my dress.",
+            "The dressmaker used pins."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to make dresses and clothes.",
+          "examples": [
+            "The dressmaker sewed a gown for the wedding.",
+            "A dressmaker measured my arm.",
+            "The dressmaker pinned the hem."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dressy",
     "say": "DRES-ee",
     "forms": [
@@ -1378,6 +1434,55 @@
             "The car is parked in the driveway.",
             "We shoveled snow off the driveway.",
             "I shot baskets in the driveway."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drizzle",
+    "say": "DRIZ-ul",
+    "forms": [
+      "drizzles",
+      "drizzled",
+      "drizzling"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very light rain.",
+          "examples": [
+            "We had a drizzle.",
+            "The drizzle is soft.",
+            "A drizzle fell."
+          ]
+        },
+        "more": {
+          "def": "A very light rain with fine drops.",
+          "examples": [
+            "We walked home in the drizzle.",
+            "A soft drizzle fell all morning.",
+            "The drizzle made the street shiny."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rain very lightly.",
+          "examples": [
+            "It will drizzle.",
+            "The rain drizzled.",
+            "It drizzled all day."
+          ]
+        },
+        "more": {
+          "def": "To rain lightly in fine drops, or to pour in a thin stream.",
+          "examples": [
+            "It drizzled all morning, so we stayed in.",
+            "Mom drizzled honey on the toast.",
+            "The sky drizzled on the picnic."
           ]
         }
       }
