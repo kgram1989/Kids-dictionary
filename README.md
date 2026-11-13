@@ -29,7 +29,7 @@ npm run add -- my-batch.json               # merge it
 ```
 
 - [`docs/WRITING_GUIDE.md`](docs/WRITING_GUIDE.md) has the entry format, the writing rules for both reading levels, the pronunciation key and the full workflow.
-- `data/wordlist.txt` is the master list of about 15,200 words, most-used first. The last 4,300 are a second list of words from children's books, added after the first was finished. Words deliberately left out are recorded in `data/skipped.txt`.
+- `data/wordlist.txt` is the master list of about 16,250 words, most-used first. The last 5,350 were added after the first list was finished: 4,300 from children's books, then 1,050 from a wider search of children's sources. Words deliberately left out are recorded in `data/skipped.txt`.
 - `data/derived.txt` lists about 450 words built from a root word (`unjust`, `sugarless`). They get a one-line entry under their root, shown as "Words made from …".
 - `data/blocked.txt` lists words removed as unsuitable for children; the checks refuse them.
 - For a word with no entry, the app shows a "may be made from" hint when it is a known word plus a common prefix or suffix.
@@ -43,7 +43,9 @@ under CC BY-NC-SA 4.0, and is shared under the same licence: non-commercial use,
 credit, and derived lists shared alike. About 560 of its words were chosen using
 CYP-LEX, a database of children's books (Korochkina, Marelli, Brysbaert & Rastle, 2024,
 <https://osf.io/squ49>, CC BY 4.0), and the second part of the list (about 4,300 words) is ranked by how often
-words are used in those books. Details are at the top of that file.
+words are used in those books. The last 1,050 words were also checked against public-domain children's books from
+Project Gutenberg, children's television subtitles, and the Simple English Wiktionary
+and Wikipedia (CC BY-SA); only word counts were used. Details are at the top of that file.
 
 ## Deploying
 
