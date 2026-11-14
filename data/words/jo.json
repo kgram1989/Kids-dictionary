@@ -731,5 +731,33 @@
         }
       }
     ]
+  },
+  {
+    "word": "joystick",
+    "say": "JOY-stik",
+    "forms": [
+      "joysticks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A stick you move to play a game.",
+          "examples": [
+            "I move the joystick.",
+            "The joystick controls the game.",
+            "He held the joystick."
+          ]
+        },
+        "more": {
+          "def": "A lever that you move in different directions to control a game, plane or machine.",
+          "examples": [
+            "She moved the joystick to steer the spaceship in the game.",
+            "The pilot held the joystick steady.",
+            "The joystick controls the robot arm."
+          ]
+        }
+      }
+    ]
   }
 ]
