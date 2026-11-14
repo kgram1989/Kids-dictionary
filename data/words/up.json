@@ -180,6 +180,35 @@
     ]
   },
   {
+    "word": "updraft",
+    "say": "UP-draft",
+    "emoji": "🌬️",
+    "forms": [
+      "updrafts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rush of air moving upward.",
+          "examples": [
+            "The hawk rode an updraft.",
+            "An updraft lifted the kite.",
+            "Warm air makes an updraft."
+          ]
+        },
+        "more": {
+          "def": "A current of air moving upward, which lets birds and gliders rise without flapping.",
+          "examples": [
+            "The hawk rode an updraft high into the sky.",
+            "Warm air rising from the ground makes an updraft.",
+            "The glider climbed in an updraft."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "upend",
     "say": "up-END",
     "forms": [
@@ -715,6 +744,32 @@
             "The uprising began in the small village.",
             "The history book told of an uprising against the king.",
             "The workers' uprising lasted for weeks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "upriver",
+    "say": "up-RIV-er",
+    "emoji": "🌊",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Toward where a river starts.",
+          "examples": [
+            "We rowed upriver.",
+            "The boat went upriver.",
+            "The salmon swim upriver."
+          ]
+        },
+        "more": {
+          "def": "Toward the place where a river begins, against the flow of the water.",
+          "examples": [
+            "The salmon swam upriver to lay their eggs.",
+            "We rowed upriver against the current.",
+            "The explorers sailed upriver for many days."
           ]
         }
       }
