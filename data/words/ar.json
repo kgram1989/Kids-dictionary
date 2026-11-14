@@ -628,6 +628,31 @@
     ]
   },
   {
+    "word": "arid",
+    "say": "AIR-id",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very dry.",
+          "examples": [
+            "The desert is arid.",
+            "An arid land.",
+            "Arid soil."
+          ]
+        },
+        "more": {
+          "def": "Very dry, with little rain, so that few plants can grow.",
+          "examples": [
+            "The desert is an arid place.",
+            "Cactuses grow well in arid land.",
+            "Arid soil cracks in the sun."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "arise",
     "say": "uh-RYZ",
     "forms": [
@@ -1531,6 +1556,62 @@
       {
         "word": "artless",
         "def": "Simple and honest, with no tricks."
+      }
+    ]
+  },
+  {
+    "word": "artery",
+    "say": "AR-ter-ee",
+    "forms": [
+      "arteries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tube that carries blood from the heart.",
+          "examples": [
+            "An artery carries blood.",
+            "Your heart pumps blood into an artery.",
+            "The artery is a tube."
+          ]
+        },
+        "more": {
+          "def": "A tube in the body that carries blood away from the heart to the rest of the body.",
+          "examples": [
+            "Blood travels from the heart through an artery.",
+            "A main artery carries blood to the head.",
+            "The artery is thick and strong."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "arthropod",
+    "say": "AR-thruh-pod",
+    "forms": [
+      "arthropods"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal with a hard outer shell and jointed legs.",
+          "examples": [
+            "An insect is an arthropod.",
+            "Spiders are arthropods.",
+            "A crab is an arthropod."
+          ]
+        },
+        "more": {
+          "def": "An animal with a hard outer covering, a body in sections and jointed legs, such as an insect, spider or crab.",
+          "examples": [
+            "A spider is an arthropod with eight legs.",
+            "Insects, crabs and spiders are all arthropods.",
+            "Arthropods have no bones inside their bodies."
+          ]
+        }
       }
     ]
   },

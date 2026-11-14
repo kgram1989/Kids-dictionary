@@ -56,6 +56,31 @@
     ]
   },
   {
+    "word": "vogue",
+    "say": "vohg",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "What is popular at a time.",
+          "examples": [
+            "Hats were in vogue.",
+            "That style is in vogue.",
+            "Short hair is in vogue."
+          ]
+        },
+        "more": {
+          "def": "The popular fashion at a certain time.",
+          "examples": [
+            "Long scarves are in vogue this winter.",
+            "Hats were once in vogue.",
+            "That style was in vogue last year."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "voice",
     "say": "voys",
     "emoji": "🗣️",
@@ -514,6 +539,36 @@
             "Each voter in the town marked a choice on the ballot.",
             "Voters lined up outside the school to cast their votes.",
             "My mom became a voter when she turned eighteen."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vouch",
+    "say": "vowch",
+    "forms": [
+      "vouches",
+      "vouched",
+      "vouching"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say that something is true or good.",
+          "examples": [
+            "I vouch for him.",
+            "She vouched for her friend.",
+            "He vouches for the story."
+          ]
+        },
+        "more": {
+          "def": "To say that you believe someone or something is true or good.",
+          "examples": [
+            "I can vouch for my friend; he is honest.",
+            "She vouched for the quality of the cake.",
+            "The teacher vouched for his good work."
           ]
         }
       }
