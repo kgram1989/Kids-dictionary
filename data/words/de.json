@@ -3329,6 +3329,36 @@
     ]
   },
   {
+    "word": "delude",
+    "say": "dih-LOOD",
+    "forms": [
+      "deludes",
+      "deluded",
+      "deluding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To trick yourself into believing something false.",
+          "examples": [
+            "Do not delude yourself.",
+            "He deluded himself.",
+            "She deluded the crowd."
+          ]
+        },
+        "more": {
+          "def": "To make someone believe something that is not true.",
+          "examples": [
+            "Do not delude yourself into thinking it will be easy.",
+            "The clever trick deluded the crowd.",
+            "He deluded himself that he could fly."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "deluge",
     "say": "DEL-yooj",
     "forms": [
@@ -4348,6 +4378,36 @@
             "The painting depicts a ship sailing through a storm.",
             "The story depicts a girl who is brave and kind.",
             "The mural on the wall depicts the history of our town."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deplete",
+    "say": "dih-PLEET",
+    "forms": [
+      "depletes",
+      "depleted",
+      "depleting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To use up almost all of something.",
+          "examples": [
+            "We depleted the supplies.",
+            "The big meal depleted the pantry.",
+            "The well was depleted."
+          ]
+        },
+        "more": {
+          "def": "To use up most of something so that little is left.",
+          "examples": [
+            "The long hike depleted his energy.",
+            "We depleted the food supplies.",
+            "The drought depleted the lake."
           ]
         }
       }
@@ -5987,6 +6047,36 @@
     ]
   },
   {
+    "word": "deteriorate",
+    "say": "dih-TEER-ee-uh-rayt",
+    "forms": [
+      "deteriorates",
+      "deteriorated",
+      "deteriorating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go from good to bad.",
+          "examples": [
+            "The old house deteriorated.",
+            "The weather deteriorated.",
+            "The paint deteriorates."
+          ]
+        },
+        "more": {
+          "def": "To become worse over time.",
+          "examples": [
+            "The old barn deteriorated over the years.",
+            "The weather deteriorated in the afternoon.",
+            "The old book began to deteriorate."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "deteriorating",
     "say": "dih-TEER-ee-uh-ray-ting",
     "senses": [
@@ -6507,7 +6597,7 @@
         "easy": {
           "def": "Completely without.",
           "examples": [
-            "The desert is devoid of trees.",
+            "The page is devoid of words.",
             "A face devoid of joy.",
             "Devoid of color."
           ]
