@@ -25,6 +25,34 @@
     ]
   },
   {
+    "word": "microbe",
+    "say": "MY-krohb",
+    "forms": [
+      "microbes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny living thing too small to see.",
+          "examples": [
+            "A microbe is tiny.",
+            "Microbes are everywhere.",
+            "Some microbes make us sick."
+          ]
+        },
+        "more": {
+          "def": "A very tiny living thing, such as a germ, that can only be seen with a microscope.",
+          "examples": [
+            "A microbe is too small to see without a microscope.",
+            "Some microbes help make cheese.",
+            "Washing hands removes microbes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "microphone",
     "say": "MY-kruh-fohn",
     "emoji": "🎤",
@@ -607,6 +635,34 @@
             "My aunt had a migraine and had to lie down in a dark room.",
             "A migraine can make bright lights hurt your eyes.",
             "He took medicine from the doctor when he got a migraine."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "migrant",
+    "say": "MY-grunt",
+    "forms": [
+      "migrants"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person or animal that moves from place to place.",
+          "examples": [
+            "Birds are migrants.",
+            "The migrant moved.",
+            "A migrant looks for work."
+          ]
+        },
+        "more": {
+          "def": "A person or animal that moves from one place to another, often to find work or food.",
+          "examples": [
+            "Swallows are migrants that fly south in winter.",
+            "The migrant workers picked apples in the fall.",
+            "A migrant family traveled to find a new home."
           ]
         }
       }
@@ -1664,6 +1720,31 @@
     ]
   },
   {
+    "word": "minimal",
+    "say": "MIN-ih-mul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "The smallest possible.",
+          "examples": [
+            "The cost was minimal.",
+            "Minimal damage.",
+            "A minimal effort."
+          ]
+        },
+        "more": {
+          "def": "Very small in amount; the least possible.",
+          "examples": [
+            "The damage from the storm was minimal.",
+            "The cost of the repair was minimal.",
+            "It takes minimal effort to make."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "minimize",
     "say": "MIN-ih-myze",
     "forms": [
@@ -2579,6 +2660,34 @@
     ]
   },
   {
+    "word": "miser",
+    "say": "MY-zer",
+    "forms": [
+      "misers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who loves money and will not spend it.",
+          "examples": [
+            "The miser kept his gold.",
+            "A miser hates to spend.",
+            "The miser counted coins."
+          ]
+        },
+        "more": {
+          "def": "A person who hoards money and hates to spend it.",
+          "examples": [
+            "The miser counted his gold coins every night.",
+            "In the story, the miser would not share a single penny.",
+            "A miser keeps all his money in a chest."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "miserable",
     "say": "MIZ-er-uh-bul",
     "forms": [
@@ -2796,6 +2905,36 @@
             "We had a mishap when the juice spilled.",
             "A small mishap delayed the bus.",
             "Despite the mishap, the party went on."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mishear",
+    "say": "mis-HEER",
+    "forms": [
+      "mishears",
+      "misheard",
+      "mishearing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hear something wrongly.",
+          "examples": [
+            "I misheard the word.",
+            "She misheard him.",
+            "He misheard the song."
+          ]
+        },
+        "more": {
+          "def": "To hear something wrongly.",
+          "examples": [
+            "I misheard the word and thought he said \"cat.\"",
+            "She misheard the directions.",
+            "He misheard the lyrics of the song."
           ]
         }
       }

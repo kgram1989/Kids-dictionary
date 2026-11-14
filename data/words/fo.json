@@ -737,6 +737,41 @@
     ]
   },
   {
+    "word": "foolhardy",
+    "say": "FOOL-har-dee",
+    "forms": [
+      "foolhardier",
+      "foolhardiest"
+    ],
+    "related": [
+      {
+        "word": "foolhardiness",
+        "def": "Being foolhardy."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Brave in a silly way.",
+          "examples": [
+            "It was foolhardy to swim there.",
+            "A foolhardy plan.",
+            "The foolhardy climb."
+          ]
+        },
+        "more": {
+          "def": "Bold in a silly way, without thinking of the danger.",
+          "examples": [
+            "It was foolhardy to swim in the rough water.",
+            "A foolhardy boy tried to jump the stream.",
+            "It would be foolhardy to climb without a rope."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "foolish",
     "say": "FOO-lish",
     "forms": [
@@ -1559,6 +1594,31 @@
             "He pushed the door forcefully open.",
             "She spoke forcefully about keeping the park clean.",
             "The wind blew forcefully against the windows."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "forcibly",
+    "say": "FOR-suh-blee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "By using force.",
+          "examples": [
+            "The door was forcibly opened.",
+            "He forcibly pushed.",
+            "She was forcibly stopped."
+          ]
+        },
+        "more": {
+          "def": "In a way that uses force or strong effort.",
+          "examples": [
+            "The door was forcibly opened by the wind.",
+            "He forcibly pushed the stuck window up.",
+            "The rope was forcibly pulled."
           ]
         }
       }
