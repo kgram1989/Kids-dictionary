@@ -167,6 +167,36 @@
     ]
   },
   {
+    "word": "embed",
+    "say": "em-BED",
+    "forms": [
+      "embeds",
+      "embedded",
+      "embedding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To push something firmly into something else.",
+          "examples": [
+            "The nail embedded in the wood.",
+            "The stone was embedded in the dirt.",
+            "A shell is embedded in the sand."
+          ]
+        },
+        "more": {
+          "def": "To fix something firmly into a surface.",
+          "examples": [
+            "The stone was embedded in the wall.",
+            "A nail embedded itself in the tire.",
+            "Tiny shells are embedded in the cliff."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ember",
     "say": "EM-ber",
     "forms": [
@@ -419,6 +449,34 @@
             "Call for help in an emergency.",
             "The hospital treats emergencies all night.",
             "In an emergency, stay calm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "emissary",
+    "say": "EM-ih-sair-ee",
+    "forms": [
+      "emissaries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is sent with a message.",
+          "examples": [
+            "The emissary brought a letter.",
+            "The king sent an emissary.",
+            "The emissary rode far."
+          ]
+        },
+        "more": {
+          "def": "A person sent to carry a message or do a job for a leader or country.",
+          "examples": [
+            "The king sent an emissary to the neighboring land.",
+            "The emissary carried a message of peace.",
+            "An emissary traveled far to bring the news."
           ]
         }
       }

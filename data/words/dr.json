@@ -266,6 +266,35 @@
     ]
   },
   {
+    "word": "drake",
+    "say": "drayk",
+    "emoji": "🦆",
+    "forms": [
+      "drakes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A male duck.",
+          "examples": [
+            "The drake swam.",
+            "The drake had green feathers.",
+            "A drake and a duck."
+          ]
+        },
+        "more": {
+          "def": "A male duck.",
+          "examples": [
+            "The drake has bright green feathers on its head.",
+            "A drake swam beside the duck and her ducklings.",
+            "The drake quacked loudly across the pond."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drama",
     "say": "DRAH-muh",
     "emoji": "🎭",
@@ -600,6 +629,55 @@
     ]
   },
   {
+    "word": "drawl",
+    "say": "drawl",
+    "forms": [
+      "drawls",
+      "drawled",
+      "drawling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To speak slowly with long sounds.",
+          "examples": [
+            "He drawled his words.",
+            "She drawled, \"Hello.\"",
+            "The cowboy drawled."
+          ]
+        },
+        "more": {
+          "def": "To speak slowly, stretching out the sounds of the words.",
+          "examples": [
+            "\"Well, I reckon so,\" the farmer drawled.",
+            "He drawled his words lazily on the hot afternoon.",
+            "She drawled, \"That sounds just fine to me.\""
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A slow way of speaking.",
+          "examples": [
+            "He has a drawl.",
+            "Her drawl is slow.",
+            "The man spoke in a drawl."
+          ]
+        },
+        "more": {
+          "def": "A slow way of speaking in which the vowels are stretched out.",
+          "examples": [
+            "The cowboy spoke in a slow drawl.",
+            "Her southern drawl made everyone smile.",
+            "He told the story in a lazy drawl."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dread",
     "say": "dred",
     "forms": [
@@ -803,6 +881,31 @@
             "He is a dreamer who wants to travel to the moon.",
             "The dreamer sat by the window and watched the clouds.",
             "She was a dreamer, always thinking up new ideas."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dreamily",
+    "say": "DREEM-ih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that seems far away and happy.",
+          "examples": [
+            "She smiled dreamily.",
+            "He gazed dreamily at the sky.",
+            "The girl sighed dreamily."
+          ]
+        },
+        "more": {
+          "def": "In a quiet way, as if you are lost in thought or a daydream.",
+          "examples": [
+            "She gazed dreamily out the window at the clouds.",
+            "He hummed dreamily as he walked.",
+            "The cat blinked dreamily in the sun."
           ]
         }
       }

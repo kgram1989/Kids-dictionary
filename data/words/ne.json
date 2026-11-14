@@ -648,6 +648,55 @@
     ]
   },
   {
+    "word": "neigh",
+    "say": "nay",
+    "forms": [
+      "neighs",
+      "neighed",
+      "neighing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make the sound a horse makes.",
+          "examples": [
+            "The horse neighed.",
+            "Horses neigh.",
+            "The pony neighed at me."
+          ]
+        },
+        "more": {
+          "def": "To make the loud, high cry of a horse.",
+          "examples": [
+            "The horse neighed when it saw the farmer.",
+            "We heard the ponies neigh in the field.",
+            "The colt neighed loudly at the gate."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sound a horse makes.",
+          "examples": [
+            "I heard a neigh.",
+            "The horse gave a neigh.",
+            "Neigh! said the pony."
+          ]
+        },
+        "more": {
+          "def": "The loud, high cry of a horse.",
+          "examples": [
+            "A loud neigh came from the stable.",
+            "The horse greeted us with a neigh.",
+            "We heard a neigh across the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "neighbor",
     "say": "NAY-ber",
     "emoji": "🏠",
@@ -770,6 +819,34 @@
             "Neither the red bike nor the blue one has a bell.",
             "We saw neither deer nor bears on our walk.",
             "It is neither too hot nor too cold."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "nemesis",
+    "say": "NEM-ih-sis",
+    "forms": [
+      "nemeses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An enemy that is hard to beat.",
+          "examples": [
+            "The cat is the mouse's nemesis.",
+            "He was her nemesis.",
+            "The villain was the hero's nemesis."
+          ]
+        },
+        "more": {
+          "def": "A rival or enemy who is very hard to beat.",
+          "examples": [
+            "The cat was the mouse's nemesis in the cartoon.",
+            "The team's nemesis beat them every year.",
+            "For the hero, the dragon was a clever nemesis."
           ]
         }
       }

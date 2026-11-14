@@ -1306,6 +1306,31 @@
     ]
   },
   {
+    "word": "thirteenth",
+    "say": "THER-teenth",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Number 13 in a row.",
+          "examples": [
+            "It is my thirteenth birthday.",
+            "He was thirteenth in line.",
+            "She sat in the thirteenth seat."
+          ]
+        },
+        "more": {
+          "def": "Coming after the twelfth one and before the fourteenth.",
+          "examples": [
+            "My brother will celebrate his thirteenth birthday in May.",
+            "She finished in thirteenth place in the race.",
+            "The thirteenth page of the book has a picture of a whale."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thirty",
     "say": "THER-tee",
     "senses": [
@@ -2373,6 +2398,36 @@
     ]
   },
   {
+    "word": "thrum",
+    "say": "thrum",
+    "forms": [
+      "thrums",
+      "thrummed",
+      "thrumming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a steady humming sound.",
+          "examples": [
+            "The engine thrummed.",
+            "The bees thrum.",
+            "The guitar thrummed."
+          ]
+        },
+        "more": {
+          "def": "To make a low, steady humming sound.",
+          "examples": [
+            "The engine of the boat thrummed all day.",
+            "Bees thrummed in the flowers.",
+            "The guitar strings thrummed under his fingers."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thrust",
     "say": "thrust",
     "forms": [
@@ -2768,6 +2823,55 @@
             "It was raining, and thus we stayed home.",
             "She practiced daily and thus got better.",
             "The ice melted, thus making the road wet."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thwack",
+    "say": "thwak",
+    "forms": [
+      "thwacks",
+      "thwacked",
+      "thwacking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loud sound of something hitting.",
+          "examples": [
+            "The ball hit with a thwack.",
+            "I heard a thwack.",
+            "Thwack went the bat."
+          ]
+        },
+        "more": {
+          "def": "The loud, flat sound of something hitting hard.",
+          "examples": [
+            "The bat hit the ball with a loud thwack.",
+            "We heard a thwack as the stick hit the tree.",
+            "The thwack of the rug beater echoed through the yard."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit something with a loud, flat sound.",
+          "examples": [
+            "He thwacked the ball.",
+            "She thwacked the log.",
+            "The bat thwacked the ball."
+          ]
+        },
+        "more": {
+          "def": "To hit someone or something hard with a flat object.",
+          "examples": [
+            "She thwacked the ball over the fence.",
+            "He thwacked the log with a stick.",
+            "The batter thwacked the ball into the outfield."
           ]
         }
       }

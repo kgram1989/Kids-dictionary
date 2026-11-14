@@ -1,5 +1,35 @@
 [
   {
+    "word": "twang",
+    "say": "twang",
+    "forms": [
+      "twangs",
+      "twanged",
+      "twanging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sound of a pulled string.",
+          "examples": [
+            "I heard a twang.",
+            "The string made a twang.",
+            "The guitar went twang."
+          ]
+        },
+        "more": {
+          "def": "A sharp, ringing sound like a stretched string being plucked.",
+          "examples": [
+            "The banjo string made a twang.",
+            "We heard a twang when the rubber band snapped.",
+            "The twang of the guitar rang out."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tweak",
     "say": "tweek",
     "forms": [
@@ -24,6 +54,31 @@
             "I tweaked my story to make the ending better.",
             "She tweaked the recipe by adding a little more cinnamon.",
             "The coach tweaked the plan before the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tweed",
+    "say": "tweed",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thick, rough cloth.",
+          "examples": [
+            "His jacket is tweed.",
+            "The coat is made of tweed.",
+            "Grandpa wears tweed."
+          ]
+        },
+        "more": {
+          "def": "A thick, rough woolen cloth, often with small flecks of color.",
+          "examples": [
+            "Grandpa wore a tweed jacket on cold days.",
+            "Tweed is warm, so it is used for winter coats.",
+            "The cap was made of brown tweed."
           ]
         }
       }
@@ -365,6 +420,34 @@
     ]
   },
   {
+    "word": "twinge",
+    "say": "twinj",
+    "forms": [
+      "twinges"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sudden, short pain.",
+          "examples": [
+            "I felt a twinge in my knee.",
+            "A twinge hit my back.",
+            "There was a twinge in his tooth."
+          ]
+        },
+        "more": {
+          "def": "A sudden, sharp pain that lasts a moment, or a short feeling of worry.",
+          "examples": [
+            "He felt a twinge in his ankle as he ran.",
+            "She felt a twinge of worry before the test.",
+            "A twinge of sadness passed over him."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "twinkle",
     "say": "TWING-kul",
     "forms": [
@@ -629,6 +712,36 @@
             "The twitchy rabbit hopped away at the noise.",
             "I felt twitchy before the test.",
             "The cat's twitchy tail showed it was excited."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "twitter",
+    "say": "TWIT-er",
+    "forms": [
+      "twitters",
+      "twittered",
+      "twittering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make quick, light bird sounds.",
+          "examples": [
+            "Birds twitter in the tree.",
+            "The swallows twittered.",
+            "The birds twitter at dawn."
+          ]
+        },
+        "more": {
+          "def": "To make short, high, chirping sounds like a small bird.",
+          "examples": [
+            "Birds twittered in the trees at dawn.",
+            "The swallows twittered as they flew over the barn.",
+            "The children twittered with excitement before the show."
           ]
         }
       }
