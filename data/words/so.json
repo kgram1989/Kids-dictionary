@@ -1479,6 +1479,31 @@
     ]
   },
   {
+    "word": "soluble",
+    "say": "SOL-yuh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to dissolve in liquid.",
+          "examples": [
+            "Sugar is soluble.",
+            "A soluble tablet.",
+            "The soluble powder."
+          ]
+        },
+        "more": {
+          "def": "Able to be dissolved in a liquid.",
+          "examples": [
+            "Sugar is soluble in water.",
+            "A soluble tablet fizzed in the glass.",
+            "Salt is soluble."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "solution",
     "say": "suh-LOO-shun",
     "emoji": "🧩",
@@ -1540,6 +1565,34 @@
       {
         "word": "solver",
         "def": "A person who solves something."
+      }
+    ]
+  },
+  {
+    "word": "solvent",
+    "say": "SOL-vunt",
+    "forms": [
+      "solvents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A liquid that can dissolve other things.",
+          "examples": [
+            "Water is a solvent.",
+            "A solvent dissolves.",
+            "Use a solvent."
+          ]
+        },
+        "more": {
+          "def": "A liquid, such as water, that can dissolve other substances.",
+          "examples": [
+            "Water is the most common solvent.",
+            "Paint thinner is a solvent.",
+            "A solvent dissolves sugar."
+          ]
+        }
       }
     ]
   },
