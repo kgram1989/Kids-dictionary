@@ -442,6 +442,34 @@
     ]
   },
   {
+    "word": "seaplane",
+    "say": "SEE-playn",
+    "forms": [
+      "seaplanes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A plane that can land on water.",
+          "examples": [
+            "The seaplane landed on the bay.",
+            "A seaplane has floats.",
+            "We rode in a seaplane."
+          ]
+        },
+        "more": {
+          "def": "An airplane with floats instead of wheels so that it can take off and land on water.",
+          "examples": [
+            "The seaplane landed on the lake.",
+            "A seaplane carried us to the island.",
+            "The seaplane skimmed over the waves."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "search",
     "say": "serch",
     "forms": [
@@ -3665,6 +3693,37 @@
             "The waiter gave us friendly service.",
             "Bus service stops at midnight in our town.",
             "The library offers a free service for borrowing books."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "serviceable",
+    "say": "SER-vis-uh-bul",
+    "related": [
+      {
+        "word": "unserviceable",
+        "def": "Not able to be used."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Useful and strong enough to use.",
+          "examples": [
+            "A serviceable coat.",
+            "The boots are serviceable.",
+            "It is a serviceable chair."
+          ]
+        },
+        "more": {
+          "def": "Good enough to use for a long time; useful but not fancy.",
+          "examples": [
+            "She wore a plain but serviceable coat.",
+            "The old boots were still serviceable.",
+            "They had a serviceable car."
           ]
         }
       }
