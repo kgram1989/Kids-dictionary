@@ -29,8 +29,8 @@ npm run add -- my-batch.json               # merge it
 ```
 
 - [`docs/WRITING_GUIDE.md`](docs/WRITING_GUIDE.md) has the entry format, the writing rules for both reading levels, the pronunciation key and the full workflow.
-- `data/wordlist.txt` is the master list of about 10,900 words, most-used first. Words deliberately left out are recorded in `data/skipped.txt`.
-- `data/derived.txt` lists about 450 words built from a root word (`unjust`, `sugarless`). They get a one-line entry under their root, shown as "Words made from …".
+- `data/wordlist.txt` is the master list of about 21,400 words, most-used first. The last 10,500 were added after the first list was finished: 4,300 from children's books, 1,050 from a wider search of children's sources, 3,550 school-subject words, and 1,600 words built from words already in the list. Words deliberately left out are recorded in `data/skipped.txt`.
+- `data/derived.txt` lists about 830 words built from a root word (`unjust`, `sugarless`). They get a one-line entry under their root, shown as "Words made from …".
 - `data/blocked.txt` lists words removed as unsuitable for children; the checks refuse them.
 - For a word with no entry, the app shows a "may be made from" hint when it is a known word plus a common prefix or suffix.
 - `npm run check` validates all the data. The same check runs on every pull request.
@@ -42,7 +42,11 @@ Brysbaert (2012) and Brysbaert & Biemiller (2017), obtained from <https://osf.io
 under CC BY-NC-SA 4.0, and is shared under the same licence: non-commercial use, with
 credit, and derived lists shared alike. About 560 of its words were chosen using
 CYP-LEX, a database of children's books (Korochkina, Marelli, Brysbaert & Rastle, 2024,
-<https://osf.io/squ49>, CC BY 4.0). Details are at the top of that file.
+<https://osf.io/squ49>, CC BY 4.0), and the second part of the list (about 4,300 words) is ranked by how often
+words are used in those books. The last 1,050 words were also checked against public-domain children's books from
+Project Gutenberg, children's television subtitles, and the Simple English Wiktionary
+and Wikipedia (CC BY-SA); only word counts were used. The school-subject words were
+checked against the subject categories of the English Wiktionary (CC BY-SA). Details are at the top of that file.
 
 ## Deploying
 
