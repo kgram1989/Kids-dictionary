@@ -1,5 +1,33 @@
 [
   {
+    "word": "abacus",
+    "say": "AB-uh-kus",
+    "forms": [
+      "abacuses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A frame with beads used for counting.",
+          "examples": [
+            "We used an abacus.",
+            "An abacus has beads.",
+            "The abacus counts."
+          ]
+        },
+        "more": {
+          "def": "A frame with sliding beads for counting.",
+          "examples": [
+            "She moved the beads on the abacus to add.",
+            "An abacus has been used for thousands of years.",
+            "The shopkeeper used an abacus."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "abandon",
     "say": "uh-BAN-dun",
     "forms": [
@@ -571,6 +599,31 @@
             "The clouds above turned dark.",
             "Read the paragraph above.",
             "Birds circled above."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "aboveground",
+    "say": "uh-BUV-ground",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "On top of the ground.",
+          "examples": [
+            "The pool is aboveground.",
+            "An aboveground tank.",
+            "The aboveground part."
+          ]
+        },
+        "more": {
+          "def": "Located on top of the ground, not under it.",
+          "examples": [
+            "They have an aboveground pool.",
+            "The aboveground part of the plant is green.",
+            "The aboveground pipes were painted."
           ]
         }
       }
