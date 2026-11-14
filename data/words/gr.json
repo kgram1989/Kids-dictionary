@@ -36,6 +36,40 @@
     ]
   },
   {
+    "word": "grace",
+    "say": "grayss",
+    "forms": [
+      "graceful"
+    ],
+    "related": [
+      {
+        "word": "graceless",
+        "def": "Without grace."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A smooth and beautiful way of moving.",
+          "examples": [
+            "She moves with grace.",
+            "The swan swam with grace.",
+            "He danced with grace."
+          ]
+        },
+        "more": {
+          "def": "A smooth, easy and beautiful way of moving or acting.",
+          "examples": [
+            "The dancer crossed the stage with grace.",
+            "The cat jumped onto the shelf with grace.",
+            "She accepted the prize with grace and thanked everyone."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "graceful",
     "say": "GRAYSS-ful",
     "senses": [
@@ -867,6 +901,55 @@
     ]
   },
   {
+    "word": "grant",
+    "say": "grant",
+    "forms": [
+      "grants",
+      "granted",
+      "granting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give or allow something.",
+          "examples": [
+            "The king granted her wish.",
+            "Mom granted me an extra story.",
+            "They granted us time."
+          ]
+        },
+        "more": {
+          "def": "To give someone something they have asked for, or to agree to let them have it.",
+          "examples": [
+            "The teacher granted us extra time to finish the test.",
+            "The genie granted the boy three wishes.",
+            "The city granted the school money for a new playground."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money you get to help pay for something.",
+          "examples": [
+            "The school got a grant.",
+            "The grant paid for books.",
+            "They won a grant."
+          ]
+        },
+        "more": {
+          "def": "Money that is given to a person or group for a particular purpose, which does not have to be paid back.",
+          "examples": [
+            "The library received a grant to buy new books.",
+            "A grant helped the scientists study the river.",
+            "The school used a grant to build a garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "grape",
     "say": "grayp",
     "emoji": "🍇",
@@ -1309,6 +1392,31 @@
     ]
   },
   {
+    "word": "gratefully",
+    "say": "GRAYT-ful-ee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that shows thanks.",
+          "examples": [
+            "She gratefully took the gift.",
+            "He gratefully said thank you.",
+            "The dog gratefully ate."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows you are thankful.",
+          "examples": [
+            "She gratefully accepted a ride home in the rain.",
+            "The hungry hikers gratefully ate the hot soup.",
+            "He gratefully shook the helper's hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "gratification",
     "say": "grat-ih-fih-KAY-shun",
     "senses": [
@@ -1425,6 +1533,31 @@
             "Our car crunched over the gravel driveway.",
             "The truck dumped a load of gravel on the path.",
             "Small fish swam above the gravel at the bottom of the tank."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gravely",
+    "say": "GRAYV-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a very serious way.",
+          "examples": [
+            "He spoke gravely.",
+            "She nodded gravely.",
+            "The man gravely shook his head."
+          ]
+        },
+        "more": {
+          "def": "In a serious and quiet way, because the matter is important.",
+          "examples": [
+            "The captain nodded gravely and gave the order.",
+            "\"We must be careful,\" he said gravely.",
+            "The doctor spoke gravely to the family."
           ]
         }
       }

@@ -365,6 +365,34 @@
     ]
   },
   {
+    "word": "bramble",
+    "say": "BRAM-bul",
+    "forms": [
+      "brambles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wild bush with sharp points and black fruit.",
+          "examples": [
+            "The bramble has thorns.",
+            "I got stuck in a bramble.",
+            "We picked berries from the bramble."
+          ]
+        },
+        "more": {
+          "def": "A wild bush with sharp thorns that bears blackberries.",
+          "examples": [
+            "The path was blocked by a thick bramble.",
+            "We picked blackberries from the bramble.",
+            "A rabbit hid in the brambles at the edge of the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bran",
     "say": "bran",
     "senses": [
@@ -462,6 +490,36 @@
             "What brand of cereal do you like?",
             "He wore shoes of a popular brand.",
             "The store sells many brands of juice."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "brandish",
+    "say": "BRAN-dish",
+    "forms": [
+      "brandishes",
+      "brandished",
+      "brandishing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To wave something in the air to show it.",
+          "examples": [
+            "He brandished a stick.",
+            "She brandished her ticket.",
+            "The pirate brandished a flag."
+          ]
+        },
+        "more": {
+          "def": "To wave something in the air, often to show it off or to warn.",
+          "examples": [
+            "The boy brandished his wooden sword as he ran around the yard.",
+            "She brandished a map and said, \"I know the way!\"",
+            "The winner brandished the trophy over his head."
           ]
         }
       }
@@ -987,6 +1045,31 @@
             "She was breathless after running up the hill.",
             "The breathless crowd waited for the final shot.",
             "He arrived breathless from the long run."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "breathlessly",
+    "say": "BRETH-less-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that is out of breath.",
+          "examples": [
+            "She breathlessly ran in.",
+            "He spoke breathlessly.",
+            "They arrived breathlessly."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows you are out of breath, from running or from excitement.",
+          "examples": [
+            "She ran into the room and spoke breathlessly.",
+            "The boy breathlessly told us about the big fish.",
+            "They breathlessly waited for the winner to be named."
           ]
         }
       }
@@ -1794,6 +1877,31 @@
             "We took a brisk walk around the block.",
             "A brisk wind blew across the lake.",
             "The shop did brisk business on the sunny day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "briskly",
+    "say": "BRISK-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a quick and lively way.",
+          "examples": [
+            "We walked briskly.",
+            "She briskly swept the floor.",
+            "He briskly rubbed his hands."
+          ]
+        },
+        "more": {
+          "def": "In a quick, lively and energetic way.",
+          "examples": [
+            "We walked briskly to keep warm in the cold wind.",
+            "The cook briskly stirred the soup.",
+            "She briskly cleaned the table and set out the plates."
           ]
         }
       }
@@ -2735,6 +2843,10 @@
       }
     ],
     "related": [
+      {
+        "word": "brushless",
+        "def": "Without a brush."
+      },
       {
         "word": "underbrush",
         "def": "Small bushes and plants growing under tall trees."

@@ -74,6 +74,31 @@
     ]
   },
   {
+    "word": "fearfully",
+    "say": "FEER-ful-ee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a scared way.",
+          "examples": [
+            "She looked fearfully at the dog.",
+            "He fearfully crept.",
+            "The mouse hid fearfully."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows you are afraid.",
+          "examples": [
+            "She peeked fearfully around the corner.",
+            "The little kitten fearfully crept under the couch.",
+            "He fearfully looked up at the dark sky."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fearless",
     "say": "FEER-lis",
     "senses": [
@@ -208,6 +233,10 @@
       }
     ],
     "related": [
+      {
+        "word": "featherless",
+        "def": "Without feathers."
+      },
       {
         "word": "feathery",
         "def": "Light and soft like a feather."

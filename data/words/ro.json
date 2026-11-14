@@ -384,6 +384,35 @@
     ]
   },
   {
+    "word": "robin",
+    "say": "ROB-in",
+    "emoji": "🐦",
+    "forms": [
+      "robins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small bird with a red-orange front.",
+          "examples": [
+            "A robin sat on the fence.",
+            "The robin sang a song.",
+            "I saw a robin in the yard."
+          ]
+        },
+        "more": {
+          "def": "A small songbird with a brownish back and an orange-red chest.",
+          "examples": [
+            "A robin pulled a worm out of the wet grass.",
+            "Robins build their nests in trees and on ledges.",
+            "The first robin of spring hopped across the lawn."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "robot",
     "say": "ROH-bot",
     "emoji": "🤖",
@@ -703,6 +732,40 @@
     ]
   },
   {
+    "word": "rogue",
+    "say": "rohg",
+    "forms": [
+      "rogues"
+    ],
+    "related": [
+      {
+        "word": "roguish",
+        "def": "Like a rogue; playful and a bit naughty."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who plays tricks and is not honest.",
+          "examples": [
+            "The rogue played a trick.",
+            "The rogue stole an apple.",
+            "He is a funny rogue."
+          ]
+        },
+        "more": {
+          "def": "A person who is tricky and does not always follow rules, often in a playful way.",
+          "examples": [
+            "The rogue in the story tricked the king.",
+            "The little rogue sneaked a cookie from the jar.",
+            "The storybook fox was a charming rogue."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "role",
     "say": "rohl",
     "emoji": "🎭",
@@ -975,6 +1038,10 @@
       {
         "word": "roofer",
         "def": "A person who builds or fixes roofs."
+      },
+      {
+        "word": "roofless",
+        "def": "Without a roof."
       }
     ]
   },
@@ -1001,6 +1068,54 @@
             "From the rooftop, we could see the whole city.",
             "A bird perched on the rooftop of the barn.",
             "Snow covered every rooftop on our street."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "rook",
+    "say": "rook",
+    "emoji": "🐦‍⬛",
+    "forms": [
+      "rooks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large black bird like a crow.",
+          "examples": [
+            "A rook sat in the tree.",
+            "The rook is black.",
+            "Rooks make a lot of noise."
+          ]
+        },
+        "more": {
+          "def": "A large black bird like a crow that lives in groups and builds nests high in trees.",
+          "examples": [
+            "A group of rooks cawed from the tops of the tall trees.",
+            "Rooks build their nests close together in tall trees.",
+            "The rook walked across the plowed field looking for worms."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A chess piece that looks like a castle tower.",
+          "examples": [
+            "I moved the rook.",
+            "The rook goes in a line.",
+            "She won the rook."
+          ]
+        },
+        "more": {
+          "def": "A chess piece that looks like a tower and moves in straight lines.",
+          "examples": [
+            "The rook can move any number of squares in a straight line.",
+            "She moved her rook to the end of the board.",
+            "The rook looks like a small castle tower."
           ]
         }
       }
@@ -1621,6 +1736,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "roughness",
+        "def": "Being rough."
+      }
     ]
   },
   {
@@ -1739,6 +1860,36 @@
             "The cowboys held a roundup of cattle in the spring.",
             "The roundup of the cows took all day.",
             "The paper printed a roundup of the week's news."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "rouse",
+    "say": "rowz",
+    "forms": [
+      "rouses",
+      "roused",
+      "rousing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To wake someone up.",
+          "examples": [
+            "Mom roused me early.",
+            "The noise roused the baby.",
+            "The rooster roused us."
+          ]
+        },
+        "more": {
+          "def": "To wake someone from sleep, or to make someone become active.",
+          "examples": [
+            "The alarm clock roused me from a deep sleep.",
+            "The loud thunder roused the whole family.",
+            "The coach roused the tired team with a cheer."
           ]
         }
       }

@@ -1474,6 +1474,63 @@
     ]
   },
   {
+    "word": "client",
+    "say": "KLY-unt",
+    "forms": [
+      "clients"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who pays for the help of a worker.",
+          "examples": [
+            "The client waited.",
+            "The doctor met a client.",
+            "The lawyer called a client."
+          ]
+        },
+        "more": {
+          "def": "A person who pays a worker or business for a service or advice.",
+          "examples": [
+            "The hair stylist greeted her next client.",
+            "The architect showed the client the plans for the house.",
+            "A good worker listens carefully to each client."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cliff",
+    "say": "klif",
+    "emoji": "🏔️",
+    "forms": [
+      "cliffs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very high wall of rock.",
+          "examples": [
+            "The bird sat on the cliff.",
+            "We stood by the cliff.",
+            "Waves hit the cliff."
+          ]
+        },
+        "more": {
+          "def": "A high, steep face of rock or earth, often at the edge of the sea.",
+          "examples": [
+            "Seagulls nest on the ledges of the cliff.",
+            "We looked down from the top of the cliff at the waves.",
+            "The path along the cliff has a fence for safety."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "climate",
     "say": "KLY-mut",
     "emoji": "🌍",
@@ -1820,6 +1877,12 @@
             "The news showed a clip of the storm."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "unclip",
+        "def": "To undo a clip."
       }
     ]
   },

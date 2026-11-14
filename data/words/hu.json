@@ -1094,6 +1094,34 @@
     ]
   },
   {
+    "word": "hunter",
+    "say": "HUN-ter",
+    "forms": [
+      "hunters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person or animal that looks for animals to catch for food.",
+          "examples": [
+            "The hunter walked in the woods.",
+            "A fox is a hunter.",
+            "The owl is a night hunter."
+          ]
+        },
+        "more": {
+          "def": "A person or animal that chases and catches other animals for food.",
+          "examples": [
+            "The lion is a skilled hunter on the grassy plains.",
+            "The hunter followed the tracks through the snow.",
+            "Owls are hunters that listen carefully for mice."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hunting",
     "say": "HUN-ting",
     "senses": [
@@ -1113,6 +1141,34 @@
             "Wolves do their hunting at night.",
             "The eagle spotted a mouse while hunting.",
             "Long ago, people lived by hunting and gathering."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "huntsman",
+    "say": "HUNTS-mun",
+    "forms": [
+      "huntsmen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man who hunts.",
+          "examples": [
+            "The huntsman went in the woods.",
+            "The huntsman had a horn.",
+            "A huntsman walked with dogs."
+          ]
+        },
+        "more": {
+          "def": "A man who hunts animals, especially in old stories.",
+          "examples": [
+            "The huntsman followed the deer into the woods.",
+            "In the old tale, the huntsman saved the girl.",
+            "A huntsman blew his horn to call his dogs."
           ]
         }
       }
@@ -1259,6 +1315,31 @@
     ]
   },
   {
+    "word": "hurriedly",
+    "say": "HER-eed-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a fast way because there is not much time.",
+          "examples": [
+            "She hurriedly ate her lunch.",
+            "I hurriedly packed my bag.",
+            "He hurriedly ran to class."
+          ]
+        },
+        "more": {
+          "def": "Done in a quick way, because you do not have much time.",
+          "examples": [
+            "They hurriedly packed their bags before the bus came.",
+            "She hurriedly finished her homework before dinner.",
+            "The boy hurriedly put on his coat and ran for the door."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hurry",
     "say": "HER-ee",
     "emoji": "🏃",
@@ -1353,6 +1434,12 @@
             "The nurse helped the hurt child."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "unhurt",
+        "def": "Not hurt."
       }
     ]
   },

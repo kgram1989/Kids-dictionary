@@ -162,6 +162,35 @@
     ]
   },
   {
+    "word": "swan",
+    "say": "swon",
+    "emoji": "🦢",
+    "forms": [
+      "swans"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big white bird with a long neck that swims.",
+          "examples": [
+            "A swan swam on the lake.",
+            "The swan has a long neck.",
+            "I fed a swan."
+          ]
+        },
+        "more": {
+          "def": "A large water bird with a long, curved neck, usually white.",
+          "examples": [
+            "A swan glided across the still lake.",
+            "The swan fluffed its white feathers.",
+            "Swans build large nests near the water's edge."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "swap",
     "say": "swop",
     "forms": [
@@ -852,6 +881,12 @@
             "The cat made a swift jump onto the table."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "swiftness",
+        "def": "Being swift."
       }
     ]
   },

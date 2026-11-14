@@ -1903,6 +1903,55 @@
     ]
   },
   {
+    "word": "trek",
+    "say": "trek",
+    "forms": [
+      "treks",
+      "trekked",
+      "trekking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, hard walk.",
+          "examples": [
+            "It was a long trek.",
+            "We went on a trek.",
+            "The trek took all day."
+          ]
+        },
+        "more": {
+          "def": "A long, hard journey, usually on foot.",
+          "examples": [
+            "The trek across the mountains took three days.",
+            "We began the long trek to the top of the hill.",
+            "Their trek through the desert was tiring."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a long, hard walk.",
+          "examples": [
+            "We trekked up the hill.",
+            "They trek every year.",
+            "She trekked through snow."
+          ]
+        },
+        "more": {
+          "def": "To go on a long, difficult journey, usually on foot.",
+          "examples": [
+            "The explorers trekked across the frozen land.",
+            "We trekked for hours through the thick forest.",
+            "They trekked up the steep mountain trail."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tremble",
     "say": "TREM-bul",
     "forms": [
@@ -2560,6 +2609,53 @@
     ]
   },
   {
+    "word": "trifle",
+    "say": "TRY-ful",
+    "forms": [
+      "trifles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small thing that does not matter.",
+          "examples": [
+            "It was a trifle.",
+            "Do not fuss over a trifle.",
+            "The mistake was a trifle."
+          ]
+        },
+        "more": {
+          "def": "Something small that is not important.",
+          "examples": [
+            "Do not worry about a trifle like a spilled drink.",
+            "They argued over a trifle.",
+            "The cost of the stamp was a mere trifle."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet dessert made of cake, fruit and cream.",
+          "examples": [
+            "We had trifle for dessert.",
+            "The trifle has cream.",
+            "Grandma made a trifle."
+          ]
+        },
+        "more": {
+          "def": "A sweet dessert made of layers of cake, fruit, custard and cream.",
+          "examples": [
+            "Grandma served a trifle at the holiday dinner.",
+            "The trifle had layers of cake, berries and cream.",
+            "We ate a big bowl of trifle after lunch."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "trigger",
     "say": "TRIG-er",
     "forms": [
@@ -2965,6 +3061,31 @@
     ]
   },
   {
+    "word": "triumphantly",
+    "say": "try-UM-funt-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a happy way that shows you won.",
+          "examples": [
+            "She held up her prize triumphantly.",
+            "He triumphantly raised his arms.",
+            "They cheered triumphantly."
+          ]
+        },
+        "more": {
+          "def": "In a happy way that shows you have won or done something great.",
+          "examples": [
+            "The runner crossed the finish line and raised her arms triumphantly.",
+            "He triumphantly held up the fish he had caught.",
+            "The team marched triumphantly off the field with the trophy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "trivia",
     "say": "TRIV-ee-uh",
     "senses": [
@@ -3333,6 +3454,12 @@
             "The ship sailed through troubled waters."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "untroubled",
+        "def": "Not troubled."
       }
     ]
   },
@@ -3882,6 +4009,10 @@
       {
         "word": "truthfulness",
         "def": "Being truthful."
+      },
+      {
+        "word": "untruthful",
+        "def": "Not truthful."
       }
     ],
     "senses": [

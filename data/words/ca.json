@@ -902,6 +902,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "calmness",
+        "def": "Being calm."
+      }
     ]
   },
   {
@@ -2177,6 +2183,53 @@
     ]
   },
   {
+    "word": "cape",
+    "say": "kayp",
+    "forms": [
+      "capes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loose coat that hangs from your neck.",
+          "examples": [
+            "The hero wore a cape.",
+            "My cape is red.",
+            "The cape flew in the wind."
+          ]
+        },
+        "more": {
+          "def": "A loose piece of clothing without sleeves that hangs from the shoulders.",
+          "examples": [
+            "The magician swirled his cape and bowed.",
+            "She wore a warm cape over her dress.",
+            "The superhero's cape flapped behind him."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A point of land that sticks out into the sea.",
+          "examples": [
+            "The boat sailed past the cape.",
+            "We saw a cape.",
+            "The cape is rocky."
+          ]
+        },
+        "more": {
+          "def": "A large piece of land that sticks out into the sea or a lake.",
+          "examples": [
+            "The ship sailed around the cape in the fog.",
+            "A lighthouse stands at the end of the cape.",
+            "We camped on the cape and watched the waves."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "capital",
     "say": "KAP-ih-tul",
     "forms": [
@@ -3244,6 +3297,34 @@
     ]
   },
   {
+    "word": "carol",
+    "say": "KAIR-ul",
+    "forms": [
+      "carols"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A happy song that people sing at Christmas.",
+          "examples": [
+            "We sing a carol.",
+            "The carol is merry.",
+            "I know a carol."
+          ]
+        },
+        "more": {
+          "def": "A joyful song sung at Christmas time.",
+          "examples": [
+            "The children sang a carol at the school concert.",
+            "We learned a new carol to sing in the winter.",
+            "Neighbors walked from house to house singing carols."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "carousel",
     "say": "kair-uh-SEL",
     "emoji": "🎠",
@@ -3286,6 +3367,34 @@
             "We waited at the carousel for our suitcases.",
             "Bags slowly rolled around the baggage carousel.",
             "Dad lifted my bag off the carousel."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "carpenter",
+    "say": "KAR-pen-ter",
+    "forms": [
+      "carpenters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who makes things from wood.",
+          "examples": [
+            "The carpenter built a table.",
+            "A carpenter uses a saw.",
+            "The carpenter fixed the door."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to build and fix things made of wood.",
+          "examples": [
+            "The carpenter measured the board before cutting it.",
+            "A carpenter built the shelves in our classroom.",
+            "The carpenter hammered nails into the frame of the house."
           ]
         }
       }
@@ -3769,6 +3878,55 @@
             "We carved a face in the pumpkin.",
             "He carved a little bird out of wood.",
             "Dad carved the turkey at dinner."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cascade",
+    "say": "kas-KAYD",
+    "forms": [
+      "cascades",
+      "cascaded",
+      "cascading"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small waterfall.",
+          "examples": [
+            "A cascade fell over the rocks.",
+            "The cascade was pretty.",
+            "We sat by the cascade."
+          ]
+        },
+        "more": {
+          "def": "A small waterfall, or something that falls in a stream like one.",
+          "examples": [
+            "A cascade of clear water tumbled over the rocks.",
+            "A cascade of curls fell over her shoulders.",
+            "We rested beside a cascade in the mountains."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pour down like a waterfall.",
+          "examples": [
+            "Water cascaded down the rocks.",
+            "Her hair cascaded down.",
+            "Blossoms cascaded to the ground."
+          ]
+        },
+        "more": {
+          "def": "To fall or pour down in a stream, like water over rocks.",
+          "examples": [
+            "Water cascaded down the cliff into the pool.",
+            "Petals cascaded from the tree in the breeze.",
+            "Her long hair cascaded over her shoulders."
           ]
         }
       }
@@ -4967,6 +5125,36 @@
             "The dentist filled the cavity in my tooth.",
             "Sugar can cause a cavity if you do not brush.",
             "A small cavity in the tree trunk was home to a family of owls."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "caw",
+    "say": "kaw",
+    "forms": [
+      "caws",
+      "cawed",
+      "cawing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make the loud call of a crow.",
+          "examples": [
+            "The crow cawed.",
+            "Crows caw in the tree.",
+            "I heard a crow caw."
+          ]
+        },
+        "more": {
+          "def": "To make the loud, harsh cry of a crow or rook.",
+          "examples": [
+            "The crow cawed from the fence.",
+            "A flock of crows cawed noisily in the field.",
+            "We heard a raven caw in the morning."
           ]
         }
       }

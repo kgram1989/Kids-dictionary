@@ -198,6 +198,36 @@
     ]
   },
   {
+    "word": "dodge",
+    "say": "doj",
+    "forms": [
+      "dodges",
+      "dodged",
+      "dodging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To jump out of the way fast.",
+          "examples": [
+            "I dodge the ball.",
+            "She dodged the puddle.",
+            "He dodged the bee."
+          ]
+        },
+        "more": {
+          "def": "To move quickly to the side to avoid something.",
+          "examples": [
+            "She dodged the ball in the game of dodgeball.",
+            "The rabbit dodged the fox and ran into its hole.",
+            "He dodged the puddles on the way to school."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dodger",
     "say": "DOJ-er",
     "forms": [
@@ -419,6 +449,54 @@
             "I arranged the tiny chairs in the dollhouse.",
             "The dollhouse had three rooms and a staircase.",
             "She opened the front of the dollhouse."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dolly",
+    "say": "DOL-ee",
+    "emoji": "🪆",
+    "forms": [
+      "dollies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A child's name for a toy doll.",
+          "examples": [
+            "I hug my dolly.",
+            "She has a new dolly.",
+            "My dolly has a dress."
+          ]
+        },
+        "more": {
+          "def": "A doll, as a child might call it.",
+          "examples": [
+            "The little girl rocked her dolly to sleep.",
+            "She dressed her dolly in a tiny blue coat.",
+            "Her favorite dolly goes everywhere with her."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat frame on wheels for moving heavy things.",
+          "examples": [
+            "The man used a dolly to move the boxes.",
+            "The dolly has four wheels.",
+            "We pushed the dolly."
+          ]
+        },
+        "more": {
+          "def": "A platform on wheels, used to move heavy loads.",
+          "examples": [
+            "The movers used a dolly to roll the piano into the room.",
+            "A dolly helped the worker carry the heavy crates.",
+            "She loaded the boxes onto a dolly and pushed them down the hall."
           ]
         }
       }
@@ -1400,6 +1478,31 @@
             "It is doubtful that the game will go ahead in this rain.",
             "She gave a doubtful look when I said I had seen a unicorn.",
             "I was doubtful about the new idea."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "doubtfully",
+    "say": "DOWT-ful-ee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that shows you are not sure.",
+          "examples": [
+            "She looked doubtfully at the ice.",
+            "He doubtfully shook his head.",
+            "The girl said it doubtfully."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows you are not sure that something is true or will work.",
+          "examples": [
+            "He looked doubtfully at the shaky bridge.",
+            "\"Maybe,\" she said doubtfully, glancing at the dark clouds.",
+            "The cat doubtfully sniffed the new food."
           ]
         }
       }

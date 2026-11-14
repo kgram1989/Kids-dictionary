@@ -533,6 +533,31 @@
     ]
   },
   {
+    "word": "sleepily",
+    "say": "SLEE-pih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that shows you are tired.",
+          "examples": [
+            "He yawned sleepily.",
+            "She rubbed her eyes sleepily.",
+            "The baby smiled sleepily."
+          ]
+        },
+        "more": {
+          "def": "In a drowsy way, as if you are about to fall asleep.",
+          "examples": [
+            "She yawned sleepily and snuggled into her pillow.",
+            "The little boy walked sleepily to the table.",
+            "The cat blinked sleepily in the warm sun."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sleepless",
     "say": "SLEEP-less",
     "senses": [
@@ -1824,6 +1849,12 @@
             "Rain slowed the runners."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "slowness",
+        "def": "Being slow."
       }
     ]
   },

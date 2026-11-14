@@ -1,5 +1,33 @@
 [
   {
+    "word": "arc",
+    "say": "ark",
+    "forms": [
+      "arcs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A line that bends like part of a circle.",
+          "examples": [
+            "The ball made an arc.",
+            "A rainbow is an arc.",
+            "I drew an arc."
+          ]
+        },
+        "more": {
+          "def": "A curved line that looks like part of a circle.",
+          "examples": [
+            "The ball flew in a high arc over the fence.",
+            "A rainbow made a bright arc across the sky.",
+            "Draw an arc with your compass."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "arcade",
     "say": "ar-KAYD",
     "forms": [
@@ -183,6 +211,34 @@
     ]
   },
   {
+    "word": "archer",
+    "say": "AR-cher",
+    "forms": [
+      "archers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who shoots arrows from a bow.",
+          "examples": [
+            "The archer shot at the target.",
+            "The archer drew her bow.",
+            "An archer hit the middle."
+          ]
+        },
+        "more": {
+          "def": "A person who shoots arrows with a bow, for sport or in the past for hunting.",
+          "examples": [
+            "The archer aimed carefully and hit the target.",
+            "An archer needs steady hands and a good eye.",
+            "In the story, the archer won the contest."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "archery",
     "say": "AR-cher-ee",
     "senses": [
@@ -202,6 +258,34 @@
             "She learned archery at summer camp.",
             "In archery, you aim at a round target.",
             "Archery takes a steady hand and good eyes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "archipelago",
+    "say": "ar-kih-PEL-uh-goh",
+    "forms": [
+      "archipelagos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of islands close together.",
+          "examples": [
+            "The islands form an archipelago.",
+            "Hawaii is an archipelago.",
+            "We sailed through an archipelago."
+          ]
+        },
+        "more": {
+          "def": "A group of islands that are close together in the sea.",
+          "examples": [
+            "Hawaii is an archipelago of many islands in the Pacific Ocean.",
+            "The ship sailed slowly through the archipelago.",
+            "Some animals live only on one island of the archipelago."
           ]
         }
       }
@@ -634,6 +718,35 @@
       {
         "word": "armful",
         "def": "As much as your arms can hold."
+      }
+    ]
+  },
+  {
+    "word": "armadillo",
+    "say": "ar-muh-DIL-oh",
+    "emoji": "🦔",
+    "forms": [
+      "armadillos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small animal with a hard shell on its back.",
+          "examples": [
+            "The armadillo dug a hole.",
+            "An armadillo has a shell.",
+            "I saw an armadillo."
+          ]
+        },
+        "more": {
+          "def": "A small animal with a hard, bony shell, that digs for insects and can curl up into a ball.",
+          "examples": [
+            "The armadillo dug in the dirt looking for insects.",
+            "When it is scared, an armadillo can roll into a tight ball.",
+            "Armadillos live in warm parts of North and South America."
+          ]
+        }
       }
     ]
   },
@@ -1199,6 +1312,10 @@
       {
         "word": "artful",
         "def": "Done with skill."
+      },
+      {
+        "word": "artless",
+        "def": "Simple and honest, with no tricks."
       }
     ]
   },

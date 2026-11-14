@@ -850,6 +850,55 @@
     ]
   },
   {
+    "word": "bond",
+    "say": "bond",
+    "forms": [
+      "bonds",
+      "bonded",
+      "bonding"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong tie between people.",
+          "examples": [
+            "They have a strong bond.",
+            "A bond joins friends.",
+            "I have a bond with my dog."
+          ]
+        },
+        "more": {
+          "def": "A close feeling that joins people or animals together.",
+          "examples": [
+            "There is a strong bond between the twins.",
+            "A special bond grew between the girl and her horse.",
+            "Playing on the team created a bond among the friends."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stick together or make a close tie.",
+          "examples": [
+            "The glue bonds the wood.",
+            "The friends bonded at camp.",
+            "The puppy bonded with me."
+          ]
+        },
+        "more": {
+          "def": "To join tightly to something, or to form a close tie with someone.",
+          "examples": [
+            "The two pieces of plastic bonded as the glue dried.",
+            "The campers bonded while singing around the fire.",
+            "The baby bird bonded with the first animal it saw."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bone",
     "say": "bohn",
     "emoji": "🦴",
@@ -2127,6 +2176,63 @@
     ]
   },
   {
+    "word": "bough",
+    "say": "bow",
+    "forms": [
+      "boughs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big branch of a tree.",
+          "examples": [
+            "The bird sat on the bough.",
+            "A bough bent down.",
+            "The bough broke."
+          ]
+        },
+        "more": {
+          "def": "A large branch of a tree.",
+          "examples": [
+            "A thick bough hung over the pond.",
+            "The bird built its nest on a high bough.",
+            "Apples hung heavily from the bough."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "boulder",
+    "say": "BOHL-der",
+    "emoji": "🪨",
+    "forms": [
+      "boulders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very big rock.",
+          "examples": [
+            "A boulder blocked the path.",
+            "I sat on a boulder.",
+            "The boulder was big."
+          ]
+        },
+        "more": {
+          "def": "A very large rock that is too heavy to lift.",
+          "examples": [
+            "A giant boulder rolled down the hill and stopped in the stream.",
+            "The hikers climbed over a huge boulder.",
+            "Moss grew on the side of the boulder."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bounce",
     "say": "bownss",
     "emoji": "⚽",
@@ -2383,6 +2489,34 @@
             "She carried a bouquet of roses down the aisle.",
             "I picked a bouquet of wild flowers for my mom.",
             "A bouquet of tulips sat on the kitchen table."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bout",
+    "say": "bowt",
+    "forms": [
+      "bouts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short time of being sick or busy.",
+          "examples": [
+            "I had a bout of the flu.",
+            "She had a bout of hiccups.",
+            "He had a short bout of work."
+          ]
+        },
+        "more": {
+          "def": "A short period when something happens, such as an illness or a burst of activity.",
+          "examples": [
+            "She had a bout of the flu in the winter.",
+            "After a bout of hiccups, he drank some water.",
+            "The two boxers had a three-round bout."
           ]
         }
       }

@@ -148,6 +148,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "leafless",
+        "def": "Without leaves."
+      }
     ]
   },
   {
@@ -532,6 +538,31 @@
             "Please leash your dog before you enter the park.",
             "She leashed her puppy and went out the door.",
             "The owner leashed the dog at the busy corner."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "least",
+    "say": "leest",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "The smallest amount.",
+          "examples": [
+            "He ate the least cake.",
+            "I have the least homework.",
+            "She has the least money."
+          ]
+        },
+        "more": {
+          "def": "The smallest in amount or size.",
+          "examples": [
+            "Which jar has the least water in it?",
+            "The team with the least points came last.",
+            "The least noise will wake the baby."
           ]
         }
       }
@@ -1424,6 +1455,50 @@
             "In the Irish tale, a leprechaun hid his pot of gold at the end of the rainbow.",
             "The leprechaun wore a green coat and a tall hat.",
             "On St. Patrick's Day, we cut out paper leprechauns and hung them on the wall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "less",
+    "say": "less",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not as much.",
+          "examples": [
+            "I want less milk.",
+            "There is less sand here.",
+            "Eat less candy."
+          ]
+        },
+        "more": {
+          "def": "A smaller amount of something.",
+          "examples": [
+            "There is less traffic on Sunday mornings.",
+            "Add less water if the soup is too thin.",
+            "She has less homework this week than last week."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Not as much as before.",
+          "examples": [
+            "I play less now.",
+            "He runs less than she does.",
+            "It rains less in summer."
+          ]
+        },
+        "more": {
+          "def": "To a smaller degree.",
+          "examples": [
+            "The cat is less shy than it used to be.",
+            "You should talk less and listen more.",
+            "It snows less in the south than in the north."
           ]
         }
       }

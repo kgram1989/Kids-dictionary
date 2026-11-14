@@ -253,6 +253,40 @@
     ]
   },
   {
+    "word": "frank",
+    "say": "frangk",
+    "forms": [
+      "frankly"
+    ],
+    "related": [
+      {
+        "word": "frankness",
+        "def": "The way of saying what you really think."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Saying what you really think.",
+          "examples": [
+            "She gave me a frank answer.",
+            "Be frank with me.",
+            "He was frank about the broken vase."
+          ]
+        },
+        "more": {
+          "def": "Honest and open in what you say, even when it is hard to hear.",
+          "examples": [
+            "The coach gave a frank talk about how the team could improve.",
+            "Please be frank and tell me what you think of my drawing.",
+            "She was frank about being nervous before the show."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "frankly",
     "say": "FRANK-lee",
     "senses": [
@@ -1847,6 +1881,35 @@
     ]
   },
   {
+    "word": "frost",
+    "say": "frawst",
+    "emoji": "🥶",
+    "forms": [
+      "frosts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin white layer of ice on cold things.",
+          "examples": [
+            "There is frost on the grass.",
+            "Frost covered the window.",
+            "I saw frost in the morning."
+          ]
+        },
+        "more": {
+          "def": "A thin, white layer of tiny ice crystals that forms on surfaces when the air is very cold.",
+          "examples": [
+            "Frost sparkled on the grass in the early morning.",
+            "The first frost of the year killed the flowers.",
+            "We scraped the frost off the car windows."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "frostbite",
     "say": "FROST-byte",
     "senses": [
@@ -2107,6 +2170,12 @@
             "She put fresh fruit in her cereal."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "fruitless",
+        "def": "Without any fruit; of no use."
       }
     ]
   },

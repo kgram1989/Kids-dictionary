@@ -754,6 +754,31 @@
     ]
   },
   {
+    "word": "imperial",
+    "say": "im-PEER-ee-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About an emperor or a large empire.",
+          "examples": [
+            "The imperial palace was huge.",
+            "He wore imperial robes.",
+            "The imperial army marched."
+          ]
+        },
+        "more": {
+          "def": "Having to do with an emperor or empire.",
+          "examples": [
+            "The emperor lived in an imperial palace.",
+            "The imperial army marched through the city gates.",
+            "A huge imperial garden surrounded the palace."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "impersonal",
     "say": "im-PER-suh-nul",
     "senses": [
@@ -1044,6 +1069,36 @@
     ]
   },
   {
+    "word": "impose",
+    "say": "im-POHZ",
+    "forms": [
+      "imposes",
+      "imposed",
+      "imposing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make people follow a rule.",
+          "examples": [
+            "The school imposed a rule.",
+            "The town imposed a limit.",
+            "Teachers impose rules."
+          ]
+        },
+        "more": {
+          "def": "To make something happen or to force people to follow a rule.",
+          "examples": [
+            "The town imposed a rule that no cars could drive in the park.",
+            "The coach imposed a new rule that everyone must be early.",
+            "You should not impose your ideas on your friends."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "impossibility",
     "say": "im-pos-ih-BIL-ih-tee",
     "forms": [
@@ -1237,6 +1292,10 @@
       }
     ],
     "related": [
+      {
+        "word": "impressiveness",
+        "def": "Being very good to look at or see."
+      },
       {
         "word": "unimpressive",
         "def": "Not impressive."

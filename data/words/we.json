@@ -84,6 +84,31 @@
     ]
   },
   {
+    "word": "weakly",
+    "say": "WEEK-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that is not strong.",
+          "examples": [
+            "He smiled weakly.",
+            "She waved weakly.",
+            "The bird chirped weakly."
+          ]
+        },
+        "more": {
+          "def": "In a way that has little strength or force.",
+          "examples": [
+            "He smiled weakly after being sick all week.",
+            "The kitten meowed weakly from the box.",
+            "\"I'm fine,\" she said weakly."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "weakness",
     "say": "WEEK-niss",
     "forms": [
@@ -254,6 +279,31 @@
     ]
   },
   {
+    "word": "wearily",
+    "say": "WEER-ih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a very tired way.",
+          "examples": [
+            "He sat down wearily.",
+            "She wearily walked home.",
+            "The dog wearily lay down."
+          ]
+        },
+        "more": {
+          "def": "In a tired way, often after working hard or a long time.",
+          "examples": [
+            "The hikers walked wearily up the last hill.",
+            "She wearily rubbed her eyes after the long trip.",
+            "The farmer wearily climbed down from the tractor."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "weary",
     "say": "WEER-ee",
     "forms": [
@@ -279,6 +329,12 @@
             "She gave a weary sigh and sat down."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "weariness",
+        "def": "Being very tired."
       }
     ]
   },

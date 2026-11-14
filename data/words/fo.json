@@ -1011,6 +1011,34 @@
     ]
   },
   {
+    "word": "footman",
+    "say": "FUUT-mun",
+    "forms": [
+      "footmen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A servant in a big house long ago, who opened doors and served meals.",
+          "examples": [
+            "The footman opened the door.",
+            "A footman carried the bags.",
+            "The footman served dinner."
+          ]
+        },
+        "more": {
+          "def": "A male servant in a large house in the past, who opened doors and served meals.",
+          "examples": [
+            "The footman opened the carriage door for the lady.",
+            "In the old house, a footman brought in the tea.",
+            "The footman carried the guests' bags upstairs."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "footpath",
     "say": "FUUT-path",
     "forms": [
@@ -1341,6 +1369,34 @@
             "The forceful wind knocked over the chairs.",
             "The coach gave a forceful speech.",
             "She made a forceful kick of the ball."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ford",
+    "say": "ford",
+    "forms": [
+      "fords"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where you can walk across a river.",
+          "examples": [
+            "We crossed at the ford.",
+            "The ford was shallow.",
+            "Horses cross the river at the ford."
+          ]
+        },
+        "more": {
+          "def": "A shallow part of a river or stream where people can walk or drive across.",
+          "examples": [
+            "The wagon rolled slowly through the ford.",
+            "We crossed the stream at the ford.",
+            "Cattle waded across the river at the ford."
           ]
         }
       }
@@ -1805,6 +1861,55 @@
             "The team forfeited the game because it did not have enough players.",
             "He forfeited his turn by talking out of order.",
             "They forfeited the match when they could not play."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "forge",
+    "say": "forj",
+    "forms": [
+      "forges",
+      "forged",
+      "forging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where metal is heated and shaped.",
+          "examples": [
+            "The smith worked at the forge.",
+            "The forge was hot.",
+            "Sparks flew in the forge."
+          ]
+        },
+        "more": {
+          "def": "A place where metal is heated until it is soft and hammered into shape.",
+          "examples": [
+            "The blacksmith heated the iron in the forge.",
+            "Sparks flew from the glowing forge.",
+            "He hammered a horseshoe at the forge."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To heat metal and hammer it into shape.",
+          "examples": [
+            "The smith forged a sword.",
+            "They forge iron here.",
+            "He forged a horseshoe."
+          ]
+        },
+        "more": {
+          "def": "To make something from metal by heating it and hammering it.",
+          "examples": [
+            "The blacksmith forged a pair of gates out of iron.",
+            "Long ago, people forged tools from metal in a hot fire.",
+            "He forged a chain, link by link."
           ]
         }
       }
@@ -2371,6 +2476,53 @@
     ]
   },
   {
+    "word": "fort",
+    "say": "fort",
+    "forms": [
+      "forts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong building with thick walls to keep people safe.",
+          "examples": [
+            "The fort has tall walls.",
+            "Soldiers lived in the fort.",
+            "We visited a fort."
+          ]
+        },
+        "more": {
+          "def": "A strong building or place with thick walls, built to protect the people inside.",
+          "examples": [
+            "The old fort stood on a hill above the river.",
+            "Long ago, soldiers guarded the fort.",
+            "We toured a fort that is now a museum."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A play house made from blankets or boxes.",
+          "examples": [
+            "We built a fort.",
+            "My fort has pillows.",
+            "The kids hid in the fort."
+          ]
+        },
+        "more": {
+          "def": "A play hideout that children make from blankets, cushions or branches.",
+          "examples": [
+            "We built a fort in the living room with blankets.",
+            "The fort in the backyard was made of sticks.",
+            "They crawled into the pillow fort to read."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "forth",
     "say": "forth",
     "senses": [
@@ -2686,6 +2838,55 @@
     ]
   },
   {
+    "word": "foster",
+    "say": "FOS-ter",
+    "forms": [
+      "fosters",
+      "fostered",
+      "fostering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look after a pet or child for a while.",
+          "examples": [
+            "We foster kittens.",
+            "They fostered a puppy.",
+            "Mom fosters baby animals."
+          ]
+        },
+        "more": {
+          "def": "To look after a child or animal that is not your own, usually for a short time.",
+          "examples": [
+            "Our family fosters kittens until they find homes.",
+            "She fostered a puppy until a new family adopted it.",
+            "They fostered the baby birds until they could fly."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To help something grow.",
+          "examples": [
+            "Good teachers foster a love of books.",
+            "The club fosters friendship.",
+            "Kind words foster trust."
+          ]
+        },
+        "more": {
+          "def": "To help something grow and become stronger.",
+          "examples": [
+            "A good teacher can foster a love of reading.",
+            "Working together can foster friendship in a team.",
+            "The garden club fosters respect for nature."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "foul",
     "say": "fowl",
     "forms": [
@@ -2959,6 +3160,35 @@
             "The farmer fed the fowl in the morning.",
             "Chickens and ducks are kinds of fowl.",
             "The fowl pecked at the grain."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fox",
+    "say": "foks",
+    "emoji": "🦊",
+    "forms": [
+      "foxes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wild animal like a small dog with a bushy tail.",
+          "examples": [
+            "The fox ran into the woods.",
+            "A fox has a red tail.",
+            "I saw a fox at night."
+          ]
+        },
+        "more": {
+          "def": "A wild animal with pointed ears, a long bushy tail and thick fur, which hunts small animals.",
+          "examples": [
+            "The red fox slipped quietly through the tall grass.",
+            "A fox digs a den to keep its babies safe.",
+            "Foxes hunt mice and rabbits at night."
           ]
         }
       }

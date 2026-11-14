@@ -392,6 +392,10 @@
       {
         "word": "measurable",
         "def": "Able to be measured."
+      },
+      {
+        "word": "measureless",
+        "def": "Too big to measure."
       }
     ]
   },
@@ -707,6 +711,31 @@
             "Please do not meddle in your sister's art project.",
             "The nosy neighbor liked to meddle in everyone's business.",
             "The cat meddled with the yarn and tied itself up."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "media",
+    "say": "MEE-dee-uh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "News, TV, radio and the internet.",
+          "examples": [
+            "The media shows news.",
+            "The media told us about it.",
+            "Many people watch the media."
+          ]
+        },
+        "more": {
+          "def": "The ways that people get news and information, such as television, radio, newspapers and websites.",
+          "examples": [
+            "The media reported on the big storm.",
+            "Newspapers, radio and television are all part of the media.",
+            "Reporters from the media came to see the new bridge."
           ]
         }
       }
@@ -1899,6 +1928,50 @@
     ]
   },
   {
+    "word": "mercury",
+    "say": "MER-kyuh-ree",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The planet closest to the sun.",
+          "examples": [
+            "Mercury is small.",
+            "Mercury is hot.",
+            "We learned about Mercury."
+          ]
+        },
+        "more": {
+          "def": "The smallest planet in our solar system, and the closest to the sun.",
+          "examples": [
+            "Mercury is a small, rocky planet.",
+            "A year on Mercury lasts only 88 Earth days.",
+            "Mercury is very hot in the daytime and very cold at night."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shiny silver metal that is liquid at room temperature.",
+          "examples": [
+            "Mercury is a silver metal.",
+            "Mercury is liquid.",
+            "Old thermometers had mercury."
+          ]
+        },
+        "more": {
+          "def": "A heavy, silver-colored metal that is a liquid at normal temperatures; it is poisonous.",
+          "examples": [
+            "Older thermometers used mercury to show the temperature.",
+            "Mercury is a metal that is liquid at room temperature.",
+            "Mercury is poisonous, so it must never be touched."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mercy",
     "say": "MER-see",
     "forms": [
@@ -2505,6 +2578,36 @@
             "We measured with a metric ruler.",
             "A meter is a metric unit of length.",
             "Most countries use the metric system."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mew",
+    "say": "myoo",
+    "forms": [
+      "mews",
+      "mewed",
+      "mewing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make the soft cry of a cat.",
+          "examples": [
+            "The kitten mewed.",
+            "The cat mews at the door.",
+            "The baby cat mewed softly."
+          ]
+        },
+        "more": {
+          "def": "To make a soft, high cry like a young cat.",
+          "examples": [
+            "The kitten mewed for its dinner.",
+            "We heard the cat mewing outside the door.",
+            "The baby seagull mewed from the nest."
           ]
         }
       }

@@ -913,6 +913,31 @@
     ]
   },
   {
+    "word": "momentarily",
+    "say": "moh-mun-TAIR-ih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "For a very short time.",
+          "examples": [
+            "The lights went out momentarily.",
+            "I was momentarily scared.",
+            "She paused momentarily."
+          ]
+        },
+        "more": {
+          "def": "For a very short time, or in just a moment.",
+          "examples": [
+            "The sun disappeared momentarily behind a cloud.",
+            "He was momentarily confused by the map.",
+            "The lights flickered momentarily and then came back on."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "momentary",
     "say": "MOH-mun-tair-ee",
     "senses": [
@@ -1661,6 +1686,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "moonless",
+        "def": "Without a moon."
+      }
     ]
   },
   {
@@ -1765,6 +1796,34 @@
             "The astronauts took a moonwalk.",
             "He slid across the stage in a moonwalk.",
             "The first moonwalk was in 1969."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "moor",
+    "say": "moor",
+    "forms": [
+      "moors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wide, open stretch of land with no trees.",
+          "examples": [
+            "We walked across the moor.",
+            "Sheep live on the moor.",
+            "The moor is wild."
+          ]
+        },
+        "more": {
+          "def": "A wide, open area of high land covered in grass and heather, often wet and windy.",
+          "examples": [
+            "Wild ponies roamed the moor.",
+            "Wind swept across the empty moor.",
+            "We walked for hours across the moor."
           ]
         }
       }
@@ -2223,6 +2282,32 @@
     ]
   },
   {
+    "word": "moss",
+    "say": "moss",
+    "emoji": "🌿",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft, green plant that grows on rocks and trees.",
+          "examples": [
+            "Moss grows on the log.",
+            "The moss feels soft.",
+            "I touched the moss."
+          ]
+        },
+        "more": {
+          "def": "A soft, green plant with no flowers that grows in thick patches in damp places.",
+          "examples": [
+            "Moss covered the stones by the stream.",
+            "Moss grows on the shady side of the tree trunk.",
+            "The damp forest floor was carpeted with moss."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mossy",
     "say": "MOS-ee",
     "forms": [
@@ -2246,6 +2331,50 @@
             "The rock was mossy and soft.",
             "We sat on a mossy log in the woods.",
             "The mossy path felt cool and damp."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "most",
+    "say": "mohst",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "More than all the others.",
+          "examples": [
+            "She has the most stickers.",
+            "Most dogs like to play.",
+            "Most of us like pizza."
+          ]
+        },
+        "more": {
+          "def": "Nearly all, or the largest number or amount.",
+          "examples": [
+            "Most birds can fly, but penguins cannot.",
+            "Mia scored the most points in the game.",
+            "The most snow falls in the mountains in winter."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Word used to show the very top amount.",
+          "examples": [
+            "This is the most fun day ever.",
+            "Which toy do you like most?",
+            "She sings the most loudly."
+          ]
+        },
+        "more": {
+          "def": "Used to show the greatest amount or degree of something.",
+          "examples": [
+            "The most important rule is to be kind.",
+            "Of all the animals at the zoo, I like the otters most.",
+            "That was the most exciting game of the season."
           ]
         }
       }

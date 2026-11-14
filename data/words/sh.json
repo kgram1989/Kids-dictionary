@@ -565,6 +565,10 @@
       {
         "word": "reshape",
         "def": "To give a new shape to something."
+      },
+      {
+        "word": "shapeless",
+        "def": "Without a clear shape."
       }
     ]
   },
@@ -1616,6 +1620,34 @@
     ]
   },
   {
+    "word": "shilling",
+    "say": "SHIL-ing",
+    "forms": [
+      "shillings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An old coin from England.",
+          "examples": [
+            "He had a shilling.",
+            "A shilling is a coin.",
+            "The old coin was a shilling."
+          ]
+        },
+        "more": {
+          "def": "A coin that was used in Britain until the 1970s, worth twelve old pennies.",
+          "examples": [
+            "In old stories, a loaf of bread might cost a shilling.",
+            "He found a shilling in an old drawer.",
+            "A shilling was a silver coin."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shimmer",
     "say": "SHIM-er",
     "forms": [
@@ -2054,6 +2086,10 @@
     ],
     "related": [
       {
+        "word": "shirtless",
+        "def": "Without a shirt."
+      },
+      {
         "word": "undershirt",
         "def": "A shirt worn under another shirt."
       }
@@ -2306,6 +2342,36 @@
     ]
   },
   {
+    "word": "shoo",
+    "say": "shoo",
+    "forms": [
+      "shoos",
+      "shooed",
+      "shooing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make an animal go away by waving.",
+          "examples": [
+            "I shoo the fly.",
+            "She shooed the hens away.",
+            "Dad shooed the cat off the table."
+          ]
+        },
+        "more": {
+          "def": "To wave your hands or make a sound so that an animal or person goes away.",
+          "examples": [
+            "She shooed the chickens out of the garden.",
+            "He shooed the flies away from the picnic food.",
+            "Mom shooed us out the door to play."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shoot",
     "say": "shoot",
     "forms": [
@@ -2499,6 +2565,35 @@
             "We went shopping for new shoes.",
             "Mom does the grocery shopping on Saturdays.",
             "Holiday shopping can be busy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shore",
+    "say": "shor",
+    "emoji": "🏖️",
+    "forms": [
+      "shores"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The land at the edge of the sea or a lake.",
+          "examples": [
+            "We walked on the shore.",
+            "Shells lay on the shore.",
+            "The boat came to the shore."
+          ]
+        },
+        "more": {
+          "def": "The land along the edge of an ocean, lake or large river.",
+          "examples": [
+            "The children collected shells along the shore.",
+            "Our boat sailed slowly back to the shore.",
+            "Waves rolled up onto the sandy shore."
           ]
         }
       }
@@ -2912,6 +3007,31 @@
             "She took a shot and the ball went into the net.",
             "His last shot hit the rim of the basket.",
             "That was a great shot from far away."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "should",
+    "say": "shuud",
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "Word used to say what is right or a good idea.",
+          "examples": [
+            "You should brush your teeth.",
+            "We should be kind to others.",
+            "I should go to bed now."
+          ]
+        },
+        "more": {
+          "def": "A word used to say what is the right thing to do, or what is a good idea.",
+          "examples": [
+            "You should wear a helmet when you ride a bike.",
+            "We should clean up after we paint.",
+            "It should be sunny tomorrow, so bring a hat."
           ]
         }
       }
@@ -3543,6 +3663,36 @@
             "The flowers shriveled in the hot sun.",
             "Grapes shrivel into raisins when they dry.",
             "The balloon shriveled as the air leaked out."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shroud",
+    "say": "shrowd",
+    "forms": [
+      "shrouds",
+      "shrouded",
+      "shrouding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cover something so it cannot be seen.",
+          "examples": [
+            "Fog shrouded the hill.",
+            "Mist shrouded the lake.",
+            "Clouds shrouded the top."
+          ]
+        },
+        "more": {
+          "def": "To cover or hide something completely.",
+          "examples": [
+            "Thick fog shrouded the valley.",
+            "The hills were shrouded in mist all morning.",
+            "The mystery was shrouded in secrecy."
           ]
         }
       }

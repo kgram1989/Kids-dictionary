@@ -57,6 +57,36 @@
     ]
   },
   {
+    "word": "hack",
+    "say": "hak",
+    "forms": [
+      "hacks",
+      "hacked",
+      "hacking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cut with rough, hard chops.",
+          "examples": [
+            "He hacked the branch.",
+            "They hacked a path through weeds.",
+            "She hacked at the ice."
+          ]
+        },
+        "more": {
+          "def": "To cut something with rough, heavy blows.",
+          "examples": [
+            "The explorers hacked a path through the thick jungle.",
+            "He hacked the dead branches from the tree.",
+            "She hacked at the frozen ground with a shovel."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hail",
     "say": "hayl",
     "emoji": "🌨️",
@@ -2216,6 +2246,41 @@
     ]
   },
   {
+    "word": "hardy",
+    "say": "HAR-dee",
+    "forms": [
+      "hardier",
+      "hardiest"
+    ],
+    "related": [
+      {
+        "word": "hardiness",
+        "def": "Being strong and able to live through hard times."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Strong and not hurt by cold or hard times.",
+          "examples": [
+            "The hardy plant grew in snow.",
+            "A hardy pony can stay out in winter.",
+            "She is a hardy walker."
+          ]
+        },
+        "more": {
+          "def": "Strong and able to live through cold weather or other hard conditions.",
+          "examples": [
+            "Hardy plants can live through a long, cold winter.",
+            "The hardy sheep lived on the windy hills.",
+            "They were hardy hikers who climbed in all kinds of weather."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hare",
     "say": "hair",
     "emoji": "🐇",
@@ -2726,6 +2791,36 @@
     ]
   },
   {
+    "word": "hasten",
+    "say": "HAY-sun",
+    "forms": [
+      "hastens",
+      "hastened",
+      "hastening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hurry or move fast.",
+          "examples": [
+            "We hasten home.",
+            "She hastened to the door.",
+            "He hastened to help."
+          ]
+        },
+        "more": {
+          "def": "To hurry, or to make something happen sooner.",
+          "examples": [
+            "We hastened home when the sky turned dark.",
+            "She hastened to the door when the bell rang.",
+            "He hastened to say sorry for his mistake."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hastily",
     "say": "HAYS-tih-lee",
     "senses": [
@@ -3064,6 +3159,63 @@
     ]
   },
   {
+    "word": "hawk",
+    "say": "hawk",
+    "emoji": "🦅",
+    "forms": [
+      "hawks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big bird that hunts small animals.",
+          "examples": [
+            "A hawk flew high.",
+            "The hawk has sharp claws.",
+            "I saw a hawk in the sky."
+          ]
+        },
+        "more": {
+          "def": "A large bird with sharp claws and a hooked beak, that hunts small animals.",
+          "examples": [
+            "The hawk circled high above the field.",
+            "A hawk swooped down to catch a mouse.",
+            "The hawk watched the meadow with its sharp eyes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hawthorn",
+    "say": "HAW-thorn",
+    "forms": [
+      "hawthorns"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small tree with sharp points and red fruit.",
+          "examples": [
+            "The hawthorn has thorns.",
+            "Birds eat the hawthorn berries.",
+            "A hawthorn grew by the gate."
+          ]
+        },
+        "more": {
+          "def": "A small tree or bush with white flowers in spring, sharp thorns and small red berries.",
+          "examples": [
+            "Birds feasted on the red berries of the hawthorn.",
+            "The hawthorn in the hedge bloomed white in May.",
+            "A thick hawthorn hedge kept the sheep in the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hay",
     "say": "hay",
     "senses": [
@@ -3246,6 +3398,50 @@
             "A summer haze covered the valley and hid the far hills.",
             "Haze from the distant fire turned the sun a dull orange.",
             "A morning haze rose from the warm lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hazel",
+    "say": "HAY-zul",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A light brown color with some green or gold in it.",
+          "examples": [
+            "Her eyes are hazel.",
+            "Hazel is a mix of brown and green.",
+            "My cat has hazel eyes."
+          ]
+        },
+        "more": {
+          "def": "A light brown color with a touch of green or gold, often used to describe eyes.",
+          "examples": [
+            "Her hazel eyes seemed to change color in the sunlight.",
+            "The artist mixed brown and green to make hazel.",
+            "He has hazel eyes and curly brown hair."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small tree that makes nuts you can eat.",
+          "examples": [
+            "We found a hazel tree.",
+            "Nuts grow on a hazel.",
+            "The hazel is small."
+          ]
+        },
+        "more": {
+          "def": "A small tree or bush with round nuts called hazelnuts.",
+          "examples": [
+            "Squirrels gather nuts from the hazel in autumn.",
+            "A hazel hedge grew along the edge of the field.",
+            "The branches of the hazel are bendy and thin."
           ]
         }
       }

@@ -197,6 +197,35 @@
     ]
   },
   {
+    "word": "stag",
+    "say": "stag",
+    "emoji": "🦌",
+    "forms": [
+      "stags"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A full-grown male deer.",
+          "examples": [
+            "The stag has big antlers.",
+            "A stag stood in the woods.",
+            "I saw a stag."
+          ]
+        },
+        "more": {
+          "def": "A full-grown male deer, especially a red deer with large antlers.",
+          "examples": [
+            "The stag lifted his head and sniffed the air.",
+            "The stag's huge antlers branched like a tree.",
+            "A stag stood on the hillside in the mist."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "stage",
     "say": "stayj",
     "forms": [
@@ -1352,6 +1381,35 @@
     ]
   },
   {
+    "word": "stark",
+    "say": "stark",
+    "forms": [
+      "starker",
+      "starkest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Plain, with nothing soft or pretty.",
+          "examples": [
+            "The room was stark.",
+            "The stark trees had no leaves.",
+            "The wall was white and stark."
+          ]
+        },
+        "more": {
+          "def": "Plain and bare, often in a way that seems harsh or cold.",
+          "examples": [
+            "The stark white walls had no pictures on them.",
+            "The stark desert stretched to the horizon.",
+            "In winter, the trees stand stark against the gray sky."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "starlight",
     "say": "STAR-lyt",
     "senses": [
@@ -2190,6 +2248,10 @@
       }
     ],
     "related": [
+      {
+        "word": "steadiness",
+        "def": "Being steady."
+      },
       {
         "word": "unsteady",
         "def": "Shaky; not steady."
@@ -3195,6 +3257,34 @@
             "We had beef stew for dinner.",
             "The stew simmered on the stove.",
             "Dad served the stew with bread."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "steward",
+    "say": "STOO-erd",
+    "forms": [
+      "stewards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who looks after people on a ship or plane.",
+          "examples": [
+            "The steward helped us.",
+            "A steward gave us a drink.",
+            "The steward carried bags."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to look after passengers on a ship, train or airplane.",
+          "examples": [
+            "The steward showed us to our seats on the plane.",
+            "A ship's steward brought tea to the passengers.",
+            "The steward helped the little girl find her seat."
           ]
         }
       }
@@ -5974,6 +6064,37 @@
             "The helpers carried the hurt player off the field on a stretcher.",
             "A stretcher was waiting beside the ambulance.",
             "The doctors gently placed the child on the stretcher."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "strew",
+    "say": "stroo",
+    "forms": [
+      "strews",
+      "strewed",
+      "strewing",
+      "strewn"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To drop things all over a place.",
+          "examples": [
+            "Wind strewed leaves on the lawn.",
+            "I strewed toys on the floor.",
+            "She strewed seeds on the ground."
+          ]
+        },
+        "more": {
+          "def": "To scatter things over a surface, often in a messy way.",
+          "examples": [
+            "The storm strewed branches all over the yard.",
+            "The flower girl strewed petals along the path.",
+            "Toys were strewn across the playroom floor."
           ]
         }
       }

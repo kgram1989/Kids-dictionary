@@ -79,6 +79,50 @@
     ]
   },
   {
+    "word": "jack",
+    "say": "jak",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool for lifting something heavy a little way up.",
+          "examples": [
+            "Dad used a jack to lift the car.",
+            "The jack raised the truck.",
+            "We need a jack to fix the tire."
+          ]
+        },
+        "more": {
+          "def": "A tool that lifts something heavy a short way off the ground.",
+          "examples": [
+            "She turned the handle of the jack to raise the car.",
+            "A jack helps you change a flat tire.",
+            "The mechanic put a jack under the truck."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A playing card with a picture of a young man on it.",
+          "examples": [
+            "I got a jack.",
+            "The jack is in my hand.",
+            "She put down the jack."
+          ]
+        },
+        "more": {
+          "def": "A playing card that comes after the ten, with a picture of a young man.",
+          "examples": [
+            "The jack is worth more than a ten in many games.",
+            "He held a jack and a queen.",
+            "The deck has four jacks, one for each suit."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "jackal",
     "say": "JAK-ul",
     "emoji": "🐺",
@@ -424,6 +468,36 @@
     ]
   },
   {
+    "word": "jangle",
+    "say": "JANG-gul",
+    "forms": [
+      "jangles",
+      "jangled",
+      "jangling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a ringing sound like metal hitting.",
+          "examples": [
+            "The keys jangled.",
+            "Her bracelets jangle.",
+            "Coins jangled in his pocket."
+          ]
+        },
+        "more": {
+          "def": "To make a harsh ringing sound, like metal pieces hitting together.",
+          "examples": [
+            "Her bracelets jangled as she waved.",
+            "Keys jangled in his pocket as he walked.",
+            "The bells jangled over the shop door."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "janitor",
     "say": "JAN-ih-ter",
     "forms": [
@@ -634,6 +708,35 @@
             "The crocodile opened its huge jaws and showed its teeth.",
             "A shark's jaws are strong enough to crush a shell.",
             "The dog's jaws held the ball gently."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "jay",
+    "say": "jay",
+    "emoji": "🐦",
+    "forms": [
+      "jays"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A noisy bird with blue feathers.",
+          "examples": [
+            "A jay sat in the tree.",
+            "The jay is loud.",
+            "I saw a blue jay."
+          ]
+        },
+        "more": {
+          "def": "A noisy bird with bright feathers, often blue, that lives in woods.",
+          "examples": [
+            "The blue jay squawked from the top of the oak.",
+            "A jay hides acorns in the ground for winter.",
+            "Jays often scold other birds with loud calls."
           ]
         }
       }

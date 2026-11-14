@@ -614,6 +614,31 @@
     ]
   },
   {
+    "word": "faintly",
+    "say": "FAYNT-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that is hard to see or hear.",
+          "examples": [
+            "I heard it faintly.",
+            "The light glowed faintly.",
+            "She smiled faintly."
+          ]
+        },
+        "more": {
+          "def": "In a way that is weak or not clear, so it is hard to notice.",
+          "examples": [
+            "The stars glowed faintly in the pale sky.",
+            "We could faintly hear the music from far away.",
+            "The flowers smelled faintly of honey."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fair",
     "say": "fair",
     "forms": [
@@ -1143,6 +1168,40 @@
       {
         "word": "falsehood",
         "def": "Something false that is said as true."
+      },
+      {
+        "word": "falseness",
+        "def": "Being false."
+      }
+    ]
+  },
+  {
+    "word": "falter",
+    "say": "FAWL-ter",
+    "forms": [
+      "falters",
+      "faltered",
+      "faltering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To slow down or stop because you feel weak or not sure.",
+          "examples": [
+            "My voice faltered.",
+            "The runner faltered.",
+            "The little horse faltered."
+          ]
+        },
+        "more": {
+          "def": "To lose strength or confidence and slow down or stumble.",
+          "examples": [
+            "The tired runner faltered near the finish line.",
+            "His voice faltered when he saw everyone watching.",
+            "The candle's flame faltered in the wind."
+          ]
+        }
       }
     ]
   },
@@ -1830,6 +1889,50 @@
             "We drove past miles of farmland.",
             "The flat farmland stretched to the hills.",
             "Farmland needs rain and sun."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "farther",
+    "say": "FAR-ther",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "At a longer way away.",
+          "examples": [
+            "I can throw it farther.",
+            "The park is farther away.",
+            "She ran farther than me."
+          ]
+        },
+        "more": {
+          "def": "To a greater distance.",
+          "examples": [
+            "Mia threw the ball farther than anyone else on the team.",
+            "If we walk farther, we will reach the lake.",
+            "The sun is farther from Neptune than it is from Earth."
+          ]
+        }
+      },
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "More far away.",
+          "examples": [
+            "The farther tree is big.",
+            "My seat is farther back.",
+            "The farther shore is green."
+          ]
+        },
+        "more": {
+          "def": "More distant in space.",
+          "examples": [
+            "The farther side of the hill was covered in snow.",
+            "The farther house belongs to our neighbor.",
+            "Take the farther path to reach the waterfall."
           ]
         }
       }
