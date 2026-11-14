@@ -117,6 +117,36 @@
     ]
   },
   {
+    "word": "deafen",
+    "say": "DEF-un",
+    "forms": [
+      "deafens",
+      "deafened",
+      "deafening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone not able to hear.",
+          "examples": [
+            "The noise deafened us.",
+            "The drums deafen.",
+            "The thunder deafened him."
+          ]
+        },
+        "more": {
+          "def": "To make someone unable to hear, by making a very loud noise.",
+          "examples": [
+            "The thunder almost deafened us.",
+            "The loud drums deafened the crowd.",
+            "The siren deafened the people nearby."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "deafening",
     "say": "DEF-un-ing",
     "senses": [
@@ -1402,6 +1432,31 @@
     ]
   },
   {
+    "word": "decrepit",
+    "say": "dih-KREP-it",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Old and weak or falling apart.",
+          "examples": [
+            "The shed was decrepit.",
+            "A decrepit fence.",
+            "The decrepit old house."
+          ]
+        },
+        "more": {
+          "def": "Worn out, old and in bad condition.",
+          "examples": [
+            "The decrepit shed leaned to one side.",
+            "A decrepit fence surrounded the yard.",
+            "The decrepit old bus rattled down the road."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dedicate",
     "say": "DED-ih-kayt",
     "forms": [
@@ -2317,6 +2372,31 @@
     ]
   },
   {
+    "word": "deforestation",
+    "say": "dee-for-ih-STAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Cutting down many trees.",
+          "examples": [
+            "Deforestation harms animals.",
+            "We learned about deforestation.",
+            "Deforestation is bad."
+          ]
+        },
+        "more": {
+          "def": "The cutting down or burning of forests over large areas.",
+          "examples": [
+            "Deforestation destroys the homes of animals.",
+            "We learned how deforestation affects the climate.",
+            "Planting trees helps stop deforestation."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "defrost",
     "say": "dee-FROST",
     "forms": [
@@ -2341,6 +2421,41 @@
             "Mom defrosted the bread on the counter.",
             "Dad turned on the heater to defrost the windshield.",
             "We defrosted the freezer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deft",
+    "say": "deft",
+    "forms": [
+      "defter",
+      "deftest"
+    ],
+    "related": [
+      {
+        "word": "deftness",
+        "def": "Being quick and skilled with your hands."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Quick and skilled.",
+          "examples": [
+            "The deft baker rolled the dough.",
+            "She is deft with her hands.",
+            "A deft move."
+          ]
+        },
+        "more": {
+          "def": "Quick and skillful, especially with your hands.",
+          "examples": [
+            "The deft baker rolled the dough in seconds.",
+            "She made a deft move and caught the ball.",
+            "The deft tailor sewed the button on."
           ]
         }
       }
@@ -3094,6 +3209,34 @@
             "The mail delivery comes at noon.",
             "A delivery of apples arrived at the shop.",
             "We ordered pizza, and the delivery took half an hour."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dell",
+    "say": "del",
+    "forms": [
+      "dells"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, wooded valley.",
+          "examples": [
+            "We sat in the dell.",
+            "The dell is green.",
+            "A dell has trees."
+          ]
+        },
+        "more": {
+          "def": "A small, tree-filled valley.",
+          "examples": [
+            "A stream ran through the shady dell.",
+            "We picnicked in a quiet dell.",
+            "Wild flowers grew in the dell."
           ]
         }
       }
