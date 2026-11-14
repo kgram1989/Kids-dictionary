@@ -134,5 +134,33 @@
         }
       }
     ]
+  },
+  {
+    "word": "aquifer",
+    "say": "AK-wuh-fer",
+    "forms": [
+      "aquifers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A layer of rock under the ground that holds water.",
+          "examples": [
+            "An aquifer holds water.",
+            "The aquifer is underground.",
+            "The town uses the aquifer."
+          ]
+        },
+        "more": {
+          "def": "A layer of rock or sand under the ground that holds water.",
+          "examples": [
+            "The town gets its water from an aquifer.",
+            "Wells reach down into the aquifer.",
+            "Rain slowly fills the aquifer."
+          ]
+        }
+      }
+    ]
   }
 ]
