@@ -2596,6 +2596,31 @@
     ]
   },
   {
+    "word": "brine",
+    "say": "BRYN",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Very salty water.",
+          "examples": [
+            "Brine is salty water.",
+            "The pickles sit in brine.",
+            "The sea is not brine."
+          ]
+        },
+        "more": {
+          "def": "Water with a lot of salt in it, used for keeping food such as pickles.",
+          "examples": [
+            "Pickles are kept in brine.",
+            "The shrimp live in brine.",
+            "The cook soaked the turkey in brine."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bring",
     "say": "bring",
     "forms": [
@@ -3636,6 +3661,34 @@
             "We browsed the shelves at the library to find a good book.",
             "She browsed the store but did not buy anything.",
             "I browsed the internet to look up information about owls."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "browser",
+    "say": "BROU-zer",
+    "forms": [
+      "browsers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A program you use to look at web pages.",
+          "examples": [
+            "Open the browser.",
+            "A browser shows websites.",
+            "The browser is open."
+          ]
+        },
+        "more": {
+          "def": "A computer program that lets you view web pages on the internet.",
+          "examples": [
+            "Open the browser and type the address.",
+            "A browser shows websites on your screen.",
+            "My tablet has a new browser."
           ]
         }
       }
