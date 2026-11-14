@@ -1,5 +1,30 @@
 [
   {
+    "word": "mica",
+    "say": "MY-kuh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shiny mineral that splits into thin sheets.",
+          "examples": [
+            "Mica is shiny.",
+            "Mica is a mineral.",
+            "I found mica."
+          ]
+        },
+        "more": {
+          "def": "A shiny rock that splits into thin sheets.",
+          "examples": [
+            "Mica sparkled in the rock.",
+            "Mica splits into thin sheets.",
+            "We found mica on the path."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "micro",
     "say": "MY-kroh",
     "senses": [
@@ -363,6 +388,31 @@
     ]
   },
   {
+    "word": "midmorning",
+    "say": "mid-MOR-ning",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The middle of the morning.",
+          "examples": [
+            "At midmorning we had a snack.",
+            "The dog slept at midmorning.",
+            "We met at midmorning."
+          ]
+        },
+        "more": {
+          "def": "The middle part of the morning, around ten o'clock.",
+          "examples": [
+            "At midmorning we stopped for a snack.",
+            "The sun was bright by midmorning.",
+            "They arrived at midmorning."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "midnight",
     "say": "MID-nyt",
     "emoji": "🌙",
@@ -408,6 +458,31 @@
             "He stood in the midst of the crowd.",
             "We were in the midst of lunch when the phone rang.",
             "A deer stood in the midst of the quiet forest."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "midstream",
+    "say": "mid-STREEM",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In the middle of a stream.",
+          "examples": [
+            "The boat stopped midstream.",
+            "He stopped midstream.",
+            "They paddled midstream."
+          ]
+        },
+        "more": {
+          "def": "In the middle of a river.",
+          "examples": [
+            "The canoe stopped midstream.",
+            "He changed his story midstream.",
+            "They paddled midstream and then turned."
           ]
         }
       }
@@ -830,6 +905,34 @@
             "The old car has high mileage, with over a hundred thousand miles.",
             "This car gets good mileage and uses little gas.",
             "Dad checked the mileage before we started the trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "milestone",
+    "say": "MYL-stohn",
+    "forms": [
+      "milestones"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An important point in time.",
+          "examples": [
+            "A big milestone.",
+            "His first steps were a milestone.",
+            "Reading was a milestone."
+          ]
+        },
+        "more": {
+          "def": "A very important event or point in the progress of something.",
+          "examples": [
+            "Her first day of school was a big milestone.",
+            "The team reached a milestone with its hundredth win.",
+            "Walking is a milestone for babies."
           ]
         }
       }
@@ -2559,6 +2662,36 @@
     ]
   },
   {
+    "word": "miscalculate",
+    "say": "mis-KAL-kyuh-layt",
+    "forms": [
+      "miscalculates",
+      "miscalculated",
+      "miscalculating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To figure something out wrongly.",
+          "examples": [
+            "He miscalculated the sum.",
+            "She miscalculated the jump.",
+            "I miscalculated."
+          ]
+        },
+        "more": {
+          "def": "To work something out wrongly.",
+          "examples": [
+            "He miscalculated the cost.",
+            "She miscalculated the jump and fell short.",
+            "I miscalculated how long it would take."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "miscalculation",
     "say": "mis-kal-kyuh-LAY-shun",
     "forms": [
@@ -3376,6 +3509,36 @@
             "A missionary visited our church to talk about her work in a faraway village.",
             "The missionaries built a small clinic in the mountains.",
             "He traveled as a missionary to help people with food and medicine."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "misspell",
+    "say": "mis-SPEL",
+    "forms": [
+      "misspells",
+      "misspelled",
+      "misspelling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To spell a word wrongly.",
+          "examples": [
+            "I misspelled the word.",
+            "She misspelled her name.",
+            "He misspells words."
+          ]
+        },
+        "more": {
+          "def": "To spell a word the wrong way.",
+          "examples": [
+            "I misspelled the word on the test.",
+            "She misspelled her own name.",
+            "Be careful not to misspell it."
           ]
         }
       }
