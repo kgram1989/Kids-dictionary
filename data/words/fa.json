@@ -2054,6 +2054,34 @@
     ]
   },
   {
+    "word": "farmhand",
+    "say": "FARM-hand",
+    "forms": [
+      "farmhands"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who works on a farm.",
+          "examples": [
+            "The farmhand fed the cows.",
+            "A farmhand works on the farm.",
+            "The farmhand milked the cows."
+          ]
+        },
+        "more": {
+          "def": "A person who is paid to work on a farm.",
+          "examples": [
+            "The farmhand fed the cows at dawn.",
+            "A farmhand drives the tractor.",
+            "The farmhands harvested the corn."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "farmhouse",
     "say": "FARM-howss",
     "forms": [
@@ -2505,6 +2533,34 @@
       {
         "word": "unfasten",
         "def": "To undo something fastened."
+      }
+    ]
+  },
+  {
+    "word": "fastener",
+    "say": "FAS-ner",
+    "forms": [
+      "fasteners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something used to hold things shut.",
+          "examples": [
+            "A zipper is a fastener.",
+            "The fastener broke.",
+            "A button is a fastener."
+          ]
+        },
+        "more": {
+          "def": "A device, such as a button, zip or clip, that holds two things together or closed.",
+          "examples": [
+            "A zipper is a kind of fastener.",
+            "The fastener on the bag broke.",
+            "She used a fastener to close the box."
+          ]
+        }
       }
     ]
   },
