@@ -1,5 +1,34 @@
 [
   {
+    "word": "drab",
+    "say": "drab",
+    "forms": [
+      "drabber",
+      "drabbest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Dull and plain.",
+          "examples": [
+            "The room was drab.",
+            "A drab gray coat.",
+            "The drab day."
+          ]
+        },
+        "more": {
+          "def": "Dull, plain and gray, with no brightness.",
+          "examples": [
+            "The drab gray walls needed some color.",
+            "She wore a drab brown coat.",
+            "The day was cold and drab."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "draft",
     "say": "draft",
     "forms": [
@@ -266,6 +295,35 @@
     ]
   },
   {
+    "word": "drake",
+    "say": "drayk",
+    "emoji": "🦆",
+    "forms": [
+      "drakes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A male duck.",
+          "examples": [
+            "The drake swam.",
+            "The drake had green feathers.",
+            "A drake and a duck."
+          ]
+        },
+        "more": {
+          "def": "A male duck.",
+          "examples": [
+            "The drake has bright green feathers on its head.",
+            "A drake swam beside the duck and her ducklings.",
+            "The drake quacked loudly across the pond."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drama",
     "say": "DRAH-muh",
     "emoji": "🎭",
@@ -329,6 +387,36 @@
     ]
   },
   {
+    "word": "dramatize",
+    "say": "DRAM-uh-tyz",
+    "forms": [
+      "dramatizes",
+      "dramatized",
+      "dramatizing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To turn a story into a play.",
+          "examples": [
+            "They dramatized the story.",
+            "The class dramatized a tale.",
+            "She dramatizes everything."
+          ]
+        },
+        "more": {
+          "def": "To make a story into a play or show, or to make something seem more exciting.",
+          "examples": [
+            "The class dramatized a fairy tale.",
+            "They dramatized the story for the stage.",
+            "She likes to dramatize everything that happens."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drape",
     "say": "drayp",
     "forms": [
@@ -378,6 +466,34 @@
     ]
   },
   {
+    "word": "drapery",
+    "say": "DRAY-puh-ree",
+    "forms": [
+      "draperies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Heavy curtains.",
+          "examples": [
+            "The drapery hung.",
+            "The drapery is velvet.",
+            "Draperies cover the window."
+          ]
+        },
+        "more": {
+          "def": "Heavy cloth hung in folds as curtains or decoration.",
+          "examples": [
+            "Thick drapery covered the windows.",
+            "The drapery was made of velvet.",
+            "Dust gathered in the folds of the drapery."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drastic",
     "say": "DRAS-tik",
     "senses": [
@@ -397,6 +513,31 @@
             "There was a drastic drop in temperature overnight, and the pond froze.",
             "The town took drastic steps to save water during the dry summer.",
             "She made a drastic change and cut off all her hair."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drat",
+    "say": "drat",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A word you say when you are annoyed.",
+          "examples": [
+            "Drat! I dropped it.",
+            "Drat, it is raining.",
+            "Drat, I forgot my hat."
+          ]
+        },
+        "more": {
+          "def": "A mild word that people say when they are a little annoyed.",
+          "examples": [
+            "\"Drat! I missed the bus,\" said Mia.",
+            "\"Oh, drat, I left my key inside,\" he sighed.",
+            "Drat, the cookies burned."
           ]
         }
       }
@@ -600,6 +741,83 @@
     ]
   },
   {
+    "word": "drawl",
+    "say": "drawl",
+    "forms": [
+      "drawls",
+      "drawled",
+      "drawling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To speak slowly with long sounds.",
+          "examples": [
+            "He drawled his words.",
+            "She drawled, \"Hello.\"",
+            "The cowboy drawled."
+          ]
+        },
+        "more": {
+          "def": "To speak slowly, stretching out the sounds of the words.",
+          "examples": [
+            "\"Well, I reckon so,\" the farmer drawled.",
+            "He drawled his words lazily on the hot afternoon.",
+            "She drawled, \"That sounds just fine to me.\""
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A slow way of speaking.",
+          "examples": [
+            "He has a drawl.",
+            "Her drawl is slow.",
+            "The man spoke in a drawl."
+          ]
+        },
+        "more": {
+          "def": "A slow way of speaking in which the vowels are stretched out.",
+          "examples": [
+            "The cowboy spoke in a slow drawl.",
+            "Her southern drawl made everyone smile.",
+            "He told the story in a lazy drawl."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drawstring",
+    "say": "DRAW-string",
+    "forms": [
+      "drawstrings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A string that closes a bag when you pull it.",
+          "examples": [
+            "The bag has a drawstring.",
+            "Pull the drawstring.",
+            "My pants have a drawstring."
+          ]
+        },
+        "more": {
+          "def": "A cord that is threaded through the top of a bag or pants and pulled to close it.",
+          "examples": [
+            "He pulled the drawstring to close the bag.",
+            "The pants have a drawstring waist.",
+            "The drawstring bag held her gym clothes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dread",
     "say": "dred",
     "forms": [
@@ -771,6 +989,10 @@
     ],
     "related": [
       {
+        "word": "dreamless",
+        "def": "Without dreams."
+      },
+      {
         "word": "dreamlike",
         "def": "Like a dream."
       }
@@ -799,6 +1021,31 @@
             "He is a dreamer who wants to travel to the moon.",
             "The dreamer sat by the window and watched the clouds.",
             "She was a dreamer, always thinking up new ideas."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dreamily",
+    "say": "DREEM-ih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that seems far away and happy.",
+          "examples": [
+            "She smiled dreamily.",
+            "He gazed dreamily at the sky.",
+            "The girl sighed dreamily."
+          ]
+        },
+        "more": {
+          "def": "In a quiet way, as if you are lost in thought or a daydream.",
+          "examples": [
+            "She gazed dreamily out the window at the clouds.",
+            "He hummed dreamily as he walked.",
+            "The cat blinked dreamily in the sun."
           ]
         }
       }
@@ -885,6 +1132,42 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "dreariness",
+        "def": "Being dull and gloomy."
+      }
+    ]
+  },
+  {
+    "word": "dredge",
+    "say": "drej",
+    "forms": [
+      "dredges",
+      "dredged",
+      "dredging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To dig mud from the bottom of water.",
+          "examples": [
+            "They dredged the river.",
+            "The boat dredges the harbor.",
+            "Workers dredge the canal."
+          ]
+        },
+        "more": {
+          "def": "To clear mud or sand from the bottom of a river or harbor.",
+          "examples": [
+            "Workers dredged the river to make it deeper.",
+            "The boat dredged up an old anchor.",
+            "They dredge the harbor every year."
+          ]
+        }
+      }
     ]
   },
   {
@@ -962,6 +1245,31 @@
             "Dress warmly because it is snowing outside.",
             "The twins dressed as pirates for the school party.",
             "It takes the toddler a long time to dress."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dressage",
+    "say": "druh-SAHZH",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Horse riding where the horse performs graceful moves.",
+          "examples": [
+            "She does dressage.",
+            "Dressage is horse riding.",
+            "The horse did dressage."
+          ]
+        },
+        "more": {
+          "def": "The art of training a horse to perform graceful, controlled movements.",
+          "examples": [
+            "She competes in dressage.",
+            "The horse performed dressage with grace.",
+            "Dressage takes years of practice."
           ]
         }
       }
@@ -1046,6 +1354,31 @@
             "The dressmaker sewed a gown for the wedding.",
             "A dressmaker measured my arm.",
             "The dressmaker pinned the hem."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dressmaking",
+    "say": "DRES-may-king",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Making dresses.",
+          "examples": [
+            "She does dressmaking.",
+            "Dressmaking is sewing.",
+            "Grandma loves dressmaking."
+          ]
+        },
+        "more": {
+          "def": "The art or job of making dresses and other clothes.",
+          "examples": [
+            "Grandma teaches dressmaking.",
+            "Dressmaking takes patience and a sewing machine.",
+            "She learned dressmaking from her mother."
           ]
         }
       }
@@ -1350,6 +1683,31 @@
     ]
   },
   {
+    "word": "drinkable",
+    "say": "DRING-kuh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Safe to drink.",
+          "examples": [
+            "The water is drinkable.",
+            "Drinkable water.",
+            "It is drinkable."
+          ]
+        },
+        "more": {
+          "def": "Safe or good to drink.",
+          "examples": [
+            "The water from the spring is drinkable.",
+            "The tea was cool but still drinkable.",
+            "Is the milk still drinkable?"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drip",
     "say": "drip",
     "forms": [
@@ -1465,6 +1823,34 @@
     ]
   },
   {
+    "word": "drivetrain",
+    "say": "DRYV-trayn",
+    "forms": [
+      "drivetrains"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The parts that make a car's wheels turn.",
+          "examples": [
+            "The drivetrain turns the wheels.",
+            "A drivetrain is parts.",
+            "Fix the drivetrain."
+          ]
+        },
+        "more": {
+          "def": "The group of parts in a vehicle that carries power from the engine to the wheels.",
+          "examples": [
+            "The drivetrain turns the car's wheels.",
+            "A bike's drivetrain includes the chain.",
+            "The mechanic checked the drivetrain."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "driveway",
     "say": "DRYV-way",
     "forms": [
@@ -1536,6 +1922,92 @@
             "It drizzled all morning, so we stayed in.",
             "Mom drizzled honey on the toast.",
             "The sky drizzled on the picnic."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drizzly",
+    "say": "DRIZ-lee",
+    "forms": [
+      "drizzlier",
+      "drizzliest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Lightly raining.",
+          "examples": [
+            "It was a drizzly day.",
+            "A drizzly morning.",
+            "The drizzly afternoon."
+          ]
+        },
+        "more": {
+          "def": "Having light rain or mist falling.",
+          "examples": [
+            "It was a drizzly day, so we wore raincoats.",
+            "A drizzly morning kept us indoors.",
+            "The drizzly weather made the streets shine."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "droll",
+    "say": "drohl",
+    "forms": [
+      "droller",
+      "drollest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Funny in a quiet, odd way.",
+          "examples": [
+            "He had a droll smile.",
+            "A droll joke.",
+            "The droll clown."
+          ]
+        },
+        "more": {
+          "def": "Amusing in a quiet, odd or dry way.",
+          "examples": [
+            "He told a droll joke with a straight face.",
+            "The droll cat watched the fish.",
+            "The clown had a droll way of walking."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dromedary",
+    "say": "DROM-ih-dair-ee",
+    "forms": [
+      "dromedaries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A camel with one hump.",
+          "examples": [
+            "A dromedary has one hump.",
+            "The dromedary walks in the desert.",
+            "I rode a dromedary."
+          ]
+        },
+        "more": {
+          "def": "A camel with one hump, used for riding in dry places.",
+          "examples": [
+            "The dromedary crossed the desert.",
+            "A dromedary stores fat in its hump.",
+            "We rode a dromedary on the trip."
           ]
         }
       }
@@ -1868,6 +2340,61 @@
     ]
   },
   {
+    "word": "drowse",
+    "say": "drowz",
+    "forms": [
+      "drowses",
+      "drowsed",
+      "drowsing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be half asleep.",
+          "examples": [
+            "The dog drowsed in the sun.",
+            "Grandpa drowsed in the chair.",
+            "I drowsed on the bus."
+          ]
+        },
+        "more": {
+          "def": "To be half asleep; to doze.",
+          "examples": [
+            "The cat drowsed in the sun.",
+            "Grandpa drowsed in his chair.",
+            "I drowsed during the long ride."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drowsily",
+    "say": "DROW-zih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a sleepy way.",
+          "examples": [
+            "She yawned drowsily.",
+            "He blinked drowsily.",
+            "The baby smiled drowsily."
+          ]
+        },
+        "more": {
+          "def": "In a sleepy way, as if about to fall asleep.",
+          "examples": [
+            "She yawned drowsily and rubbed her eyes.",
+            "The cat blinked drowsily at the fire.",
+            "He nodded drowsily in the warm car."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drowsy",
     "say": "DROW-zee",
     "forms": [
@@ -1893,6 +2420,12 @@
             "A warm bath made the child drowsy."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "drowsiness",
+        "def": "Being sleepy."
       }
     ]
   },
@@ -1985,6 +2518,34 @@
     ]
   },
   {
+    "word": "drumbeat",
+    "say": "DRUM-beet",
+    "forms": [
+      "drumbeats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sound of a drum.",
+          "examples": [
+            "We heard a drumbeat.",
+            "The drumbeat was loud.",
+            "A steady drumbeat."
+          ]
+        },
+        "more": {
+          "def": "The sound or rhythm made by beating a drum.",
+          "examples": [
+            "We heard the steady drumbeat of the parade.",
+            "The drumbeat grew louder as the band came near.",
+            "Her heart kept time with the drumbeat."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "drummer",
     "say": "DRUM-er",
     "emoji": "🥁",
@@ -2008,6 +2569,34 @@
             "The drummer kept the beat while the band played.",
             "My brother is a drummer in the school band.",
             "The drummer struck the cymbals at the end of the song."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "drumroll",
+    "say": "DRUM-rohl",
+    "forms": [
+      "drumrolls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, fast drum beat before an announcement.",
+          "examples": [
+            "There was a drumroll.",
+            "A drumroll is a fast beat.",
+            "The drumroll began."
+          ]
+        },
+        "more": {
+          "def": "A fast, continuous beating of a drum, often to build excitement.",
+          "examples": [
+            "The drummer played a drumroll.",
+            "There was a drumroll before the winner was named.",
+            "A drumroll builds excitement."
           ]
         }
       }
@@ -2121,6 +2710,31 @@
             "Mom took the warm towels out of the dryer.",
             "A hair dryer blows hot air to dry wet hair.",
             "The dryer buzzed when the clothes were done."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dryly",
+    "say": "DRY-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a calm, funny way that does not show a smile.",
+          "examples": [
+            "\"Nice weather,\" he said dryly.",
+            "She dryly said, \"How lovely.\"",
+            "He joked dryly."
+          ]
+        },
+        "more": {
+          "def": "In a calm, quiet way that is funny but does not show it.",
+          "examples": [
+            "\"That went well,\" he said dryly as the cake collapsed.",
+            "She dryly remarked that the bus was only an hour late.",
+            "He dryly joked about the rain."
           ]
         }
       }

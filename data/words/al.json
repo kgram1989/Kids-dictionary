@@ -1,5 +1,30 @@
 [
   {
+    "word": "alabaster",
+    "say": "AL-uh-bas-ter",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A smooth, white stone used for carving.",
+          "examples": [
+            "Alabaster is a stone.",
+            "The statue is alabaster.",
+            "Alabaster is white."
+          ]
+        },
+        "more": {
+          "def": "A smooth, white or pale stone that is easy to carve.",
+          "examples": [
+            "The vase was carved from alabaster.",
+            "Alabaster is soft and smooth.",
+            "The statue's skin looked like pale alabaster."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "alarm",
     "say": "uh-LARM",
     "forms": [
@@ -53,6 +78,31 @@
     ]
   },
   {
+    "word": "alarmingly",
+    "say": "uh-LAR-ming-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that makes you worried.",
+          "examples": [
+            "The water rose alarmingly.",
+            "He grew alarmingly pale.",
+            "The cat jumped alarmingly high."
+          ]
+        },
+        "more": {
+          "def": "In a way that makes you feel worried or scared.",
+          "examples": [
+            "The river rose alarmingly after the rain.",
+            "The cat jumped alarmingly close to the fire.",
+            "The car was alarmingly close to the edge."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "alas",
     "say": "uh-LASS",
     "senses": [
@@ -72,6 +122,62 @@
             "Alas, the party is over!",
             "Alas, I cannot come to your game this weekend.",
             "Alas, the last cookie was gone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "albacore",
+    "say": "AL-buh-kor",
+    "forms": [
+      "albacore"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind of tuna fish.",
+          "examples": [
+            "An albacore is a fish.",
+            "The albacore is fast.",
+            "We caught an albacore."
+          ]
+        },
+        "more": {
+          "def": "A large kind of tuna with long fins and pale flesh.",
+          "examples": [
+            "The fisherman caught an albacore.",
+            "Albacore is sold in cans.",
+            "The albacore swims fast in the open sea."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "albatross",
+    "say": "AL-buh-tros",
+    "forms": [
+      "albatrosses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very big sea bird with long wings.",
+          "examples": [
+            "An albatross flew over the sea.",
+            "The albatross has huge wings.",
+            "I saw an albatross."
+          ]
+        },
+        "more": {
+          "def": "A very large sea bird with long wings that can glide for hours.",
+          "examples": [
+            "An albatross glided over the waves for hours.",
+            "The albatross has the longest wings of any bird.",
+            "Sailors watched the albatross follow their ship."
           ]
         }
       }
@@ -125,6 +231,115 @@
     ]
   },
   {
+    "word": "alchemist",
+    "say": "AL-kuh-mist",
+    "forms": [
+      "alchemists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person in old times who tried to turn metal into gold.",
+          "examples": [
+            "The alchemist mixed potions.",
+            "An alchemist lived in the tower.",
+            "The alchemist wanted gold."
+          ]
+        },
+        "more": {
+          "def": "A person long ago who tried to turn ordinary metals into gold using chemistry and magic.",
+          "examples": [
+            "The alchemist mixed strange liquids in glass jars.",
+            "In the story, the alchemist wanted to make gold.",
+            "The alchemist studied old books."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "alchemy",
+    "say": "AL-kuh-mee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Old magic that tried to turn metal into gold.",
+          "examples": [
+            "Alchemy was an old art.",
+            "He studied alchemy.",
+            "Alchemy was a mystery."
+          ]
+        },
+        "more": {
+          "def": "An old kind of science and magic that tried to turn ordinary metals into gold.",
+          "examples": [
+            "Long ago, people studied alchemy to try to make gold.",
+            "In the story, the wizard practiced alchemy.",
+            "Alchemy led to the discovery of many chemicals."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "alcove",
+    "say": "AL-kohv",
+    "forms": [
+      "alcoves"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small space set back into a wall.",
+          "examples": [
+            "The bed is in an alcove.",
+            "The book is in the alcove.",
+            "The alcove is small."
+          ]
+        },
+        "more": {
+          "def": "A small space built into the side of a room, set back from the main part.",
+          "examples": [
+            "The bed fit neatly into an alcove in the wall.",
+            "A statue stood in the alcove.",
+            "There is a reading alcove by the window."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "alder",
+    "say": "AWL-der",
+    "forms": [
+      "alders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tree that grows near water.",
+          "examples": [
+            "An alder is a tree.",
+            "The alder grows by the creek.",
+            "We saw an alder."
+          ]
+        },
+        "more": {
+          "def": "A tree or shrub that grows in wet places and has small cones.",
+          "examples": [
+            "An alder grew beside the stream.",
+            "The alder has small cone-shaped fruits.",
+            "Alder trees grow near rivers."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "alert",
     "say": "uh-LERT",
     "emoji": "🚨",
@@ -172,6 +387,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "alertness",
+        "def": "Being awake and watchful."
+      }
     ]
   },
   {
@@ -200,6 +421,31 @@
     ]
   },
   {
+    "word": "algae",
+    "say": "AL-jee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Tiny green plants that grow in water.",
+          "examples": [
+            "The pond has algae.",
+            "Algae is green.",
+            "Fish eat algae."
+          ]
+        },
+        "more": {
+          "def": "Simple plant-like living things, often green, that grow in water and have no roots or leaves.",
+          "examples": [
+            "Green algae covered the surface of the pond.",
+            "Fish and snails eat algae.",
+            "Algae need sunlight to grow."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "algebra",
     "say": "AL-juh-bruh",
     "senses": [
@@ -219,6 +465,59 @@
             "In algebra, we use the letter x to stand for a number we do not know yet.",
             "My sister is learning algebra in middle school.",
             "Algebra helps you solve hard problems step by step."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "algebraic",
+    "say": "al-juh-BRAY-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About algebra.",
+          "examples": [
+            "An algebraic problem.",
+            "The algebraic rule.",
+            "Algebraic letters."
+          ]
+        },
+        "more": {
+          "def": "Having to do with algebra, the kind of math that uses letters for numbers.",
+          "examples": [
+            "She solved the algebraic equation.",
+            "An algebraic problem used x and y.",
+            "The class studied algebraic rules."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "algorithm",
+    "say": "AL-guh-rith-um",
+    "forms": [
+      "algorithms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A set of steps to solve a problem.",
+          "examples": [
+            "A recipe is an algorithm.",
+            "The algorithm has steps.",
+            "Follow the algorithm."
+          ]
+        },
+        "more": {
+          "def": "A set of steps or rules for solving a problem, especially by a computer.",
+          "examples": [
+            "A recipe is like an algorithm.",
+            "The algorithm sorted the names.",
+            "A computer follows an algorithm to find the answer."
           ]
         }
       }
@@ -295,6 +594,55 @@
             "The new city felt alien to her at first.",
             "An alien smell filled the air.",
             "The customs seemed alien to the visitors."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "alight",
+    "say": "uh-LYT",
+    "forms": [
+      "alights",
+      "alighted",
+      "alighting"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "On fire.",
+          "examples": [
+            "The wood was alight.",
+            "The candle is alight.",
+            "The fire was alight."
+          ]
+        },
+        "more": {
+          "def": "Burning, or lit up.",
+          "examples": [
+            "The logs were alight in the fireplace.",
+            "The candles were alight on the birthday cake.",
+            "The sky was alight with fireworks."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get down from something.",
+          "examples": [
+            "The bird alighted on the branch.",
+            "She alighted from the bus.",
+            "The bee alighted on a flower."
+          ]
+        },
+        "more": {
+          "def": "To step down from a vehicle, or to land after flying.",
+          "examples": [
+            "The passengers alighted from the train.",
+            "The butterfly alighted on a leaf.",
+            "She alighted from the carriage at the gate."
           ]
         }
       }
@@ -406,6 +754,36 @@
     ]
   },
   {
+    "word": "allay",
+    "say": "uh-LAY",
+    "forms": [
+      "allays",
+      "allayed",
+      "allaying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To calm a worry.",
+          "examples": [
+            "He allayed her fears.",
+            "The news allayed my worry.",
+            "She allayed the fear."
+          ]
+        },
+        "more": {
+          "def": "To make a fear, worry or pain less strong.",
+          "examples": [
+            "The doctor allayed her fears.",
+            "The good news allayed my worry.",
+            "A kind word allayed his anger."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "allegiance",
     "say": "uh-LEE-junss",
     "forms": [
@@ -428,6 +806,90 @@
             "We pledge allegiance to the flag.",
             "I have allegiance to my team and always cheer for it.",
             "She showed her allegiance by helping the club."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "allegory",
+    "say": "AL-uh-gor-ee",
+    "forms": [
+      "allegories"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A story with a hidden meaning.",
+          "examples": [
+            "The story is an allegory.",
+            "An allegory teaches.",
+            "It is an allegory."
+          ]
+        },
+        "more": {
+          "def": "A story, poem or picture in which characters and events stand for deeper ideas.",
+          "examples": [
+            "The story of the tortoise and the hare is a kind of allegory.",
+            "An allegory can teach a lesson.",
+            "The play was an allegory about honesty."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "allegro",
+    "say": "uh-LEG-roh",
+    "forms": [
+      "allegros"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fast, lively piece of music.",
+          "examples": [
+            "The allegro was fast.",
+            "Allegro means fast.",
+            "We played an allegro."
+          ]
+        },
+        "more": {
+          "def": "A piece of music played quickly and in a lively way.",
+          "examples": [
+            "The band played a lively allegro.",
+            "Allegro is a musical word for fast.",
+            "The last part of the song is an allegro."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "allergen",
+    "say": "AL-er-jen",
+    "forms": [
+      "allergens"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that makes some people sick or itchy.",
+          "examples": [
+            "Pollen is an allergen.",
+            "An allergen can make you sneeze.",
+            "Peanuts are an allergen."
+          ]
+        },
+        "more": {
+          "def": "A substance that causes an allergy in some people.",
+          "examples": [
+            "Pollen is a common allergen.",
+            "Peanuts are an allergen for some kids.",
+            "Dust is an allergen that makes her sneeze."
           ]
         }
       }
@@ -625,6 +1087,91 @@
     ]
   },
   {
+    "word": "alliteration",
+    "say": "uh-lit-uh-RAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Words that start with the same sound.",
+          "examples": [
+            "Peter Piper is alliteration.",
+            "Alliteration repeats sounds.",
+            "\"Big blue ball\" is alliteration."
+          ]
+        },
+        "more": {
+          "def": "The use of words close together that begin with the same sound.",
+          "examples": [
+            "\"Peter Piper picked\" is alliteration.",
+            "Alliteration repeats the first sound.",
+            "The poem used alliteration with s sounds."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "allocate",
+    "say": "AL-uh-kayt",
+    "forms": [
+      "allocates",
+      "allocated",
+      "allocating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give out a share.",
+          "examples": [
+            "We allocate the money.",
+            "She allocated the seats.",
+            "He allocated the time."
+          ]
+        },
+        "more": {
+          "def": "To set aside and give out parts of something for certain uses.",
+          "examples": [
+            "The teacher allocated a seat to each student.",
+            "The town allocated money for a new park.",
+            "We allocated an hour for reading."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "allot",
+    "say": "uh-LOT",
+    "forms": [
+      "allots",
+      "allotted",
+      "allotting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give out a share.",
+          "examples": [
+            "The teacher allotted time.",
+            "They allotted seats.",
+            "She allots the jobs."
+          ]
+        },
+        "more": {
+          "def": "To give out a share of something to each person.",
+          "examples": [
+            "The teacher allotted ten minutes to each team.",
+            "They allotted seats to every child.",
+            "The farmer allotted a plot to each family."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "allow",
     "say": "uh-LOW",
     "forms": [
@@ -677,6 +1224,62 @@
             "I get an allowance every Saturday.",
             "I spent my allowance on a book.",
             "She saved her allowance for a bike."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "alloy",
+    "say": "AL-oy",
+    "forms": [
+      "alloys"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A metal made by mixing other metals.",
+          "examples": [
+            "Brass is an alloy.",
+            "An alloy is a mix of metals.",
+            "The ring is an alloy."
+          ]
+        },
+        "more": {
+          "def": "A metal made by mixing other metals.",
+          "examples": [
+            "Brass is an alloy of copper and zinc.",
+            "Steel is an alloy of iron and carbon.",
+            "The coin was made of an alloy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "allure",
+    "say": "uh-LOOR",
+    "forms": [
+      "allures"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The power to attract.",
+          "examples": [
+            "The allure of the sea.",
+            "The island had allure.",
+            "Its allure was great."
+          ]
+        },
+        "more": {
+          "def": "The power to attract or charm people.",
+          "examples": [
+            "The allure of the sea drew the sailors.",
+            "The island had a mysterious allure.",
+            "The allure of treasure kept him searching."
           ]
         }
       }
@@ -812,6 +1415,31 @@
             "The glass was almost full, so I poured slowly.",
             "It was almost midnight when the train arrived.",
             "She almost won the race, but another runner passed her at the end."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "aloe",
+    "say": "AL-oh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A plant with thick, spiky leaves.",
+          "examples": [
+            "Aloe grows in pots.",
+            "The aloe is green.",
+            "Aloe soothes burns."
+          ]
+        },
+        "more": {
+          "def": "A plant with thick, pointed leaves that contain a soothing gel.",
+          "examples": [
+            "Aloe gel can soothe a sunburn.",
+            "She grew an aloe plant on the windowsill.",
+            "The aloe stores water in its thick leaves."
           ]
         }
       }
@@ -981,6 +1609,37 @@
     ]
   },
   {
+    "word": "aloof",
+    "say": "uh-LOOF",
+    "related": [
+      {
+        "word": "aloofness",
+        "def": "Being cold and distant."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Standing apart and not friendly.",
+          "examples": [
+            "The cat was aloof.",
+            "He stayed aloof.",
+            "An aloof boy."
+          ]
+        },
+        "more": {
+          "def": "Distant and not friendly; keeping apart from others.",
+          "examples": [
+            "The cat stayed aloof from the dog.",
+            "He seemed aloof at first.",
+            "She was aloof and kept to herself."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "aloud",
     "say": "uh-LOWD",
     "senses": [
@@ -1000,6 +1659,85 @@
             "The teacher read the story aloud to the class.",
             "I laughed aloud at the funny joke.",
             "She thought aloud as she solved the puzzle."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "alpaca",
+    "say": "al-PAK-uh",
+    "emoji": "🦙",
+    "forms": [
+      "alpacas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A woolly animal with a long neck.",
+          "examples": [
+            "An alpaca has wool.",
+            "The alpaca is soft.",
+            "We saw an alpaca."
+          ]
+        },
+        "more": {
+          "def": "A South American animal like a small llama with long, soft wool.",
+          "examples": [
+            "The alpaca's wool is soft and warm.",
+            "We fed an alpaca at the farm.",
+            "Alpacas live in the mountains."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "alpenglow",
+    "say": "AL-pun-gloh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The pink glow on mountains at sunrise or sunset.",
+          "examples": [
+            "The mountain had alpenglow.",
+            "Alpenglow is pink.",
+            "We saw the alpenglow."
+          ]
+        },
+        "more": {
+          "def": "The pink or orange glow on mountain tops just after sunrise or just before sunset.",
+          "examples": [
+            "The peaks turned pink in the alpenglow.",
+            "We saw alpenglow at dusk.",
+            "The alpenglow lit up the snowy peaks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "alpha",
+    "say": "AL-fuh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The first letter of the Greek alphabet.",
+          "examples": [
+            "Alpha is the first letter.",
+            "The word alpha is Greek.",
+            "Alpha comes before beta."
+          ]
+        },
+        "more": {
+          "def": "The first letter of the Greek alphabet; also used to mean first or leading.",
+          "examples": [
+            "Alpha is the first letter of the Greek alphabet.",
+            "The wolf pack follows the alpha.",
+            "Scientists use alpha and beta as labels."
           ]
         }
       }
@@ -1299,6 +2037,31 @@
     ]
   },
   {
+    "word": "alternately",
+    "say": "AWL-ter-nit-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "One after the other, again and again.",
+          "examples": [
+            "They alternately sang and danced.",
+            "The light blinks alternately.",
+            "She alternately smiled and frowned."
+          ]
+        },
+        "more": {
+          "def": "First one, then the other, again and again.",
+          "examples": [
+            "The light flashed alternately red and green.",
+            "They alternately walked and ran.",
+            "She alternately laughed and sighed."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "alternative",
     "say": "awl-TER-nuh-tiv",
     "forms": [
@@ -1352,6 +2115,34 @@
     ]
   },
   {
+    "word": "altimeter",
+    "say": "al-TIM-ih-ter",
+    "forms": [
+      "altimeters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool that tells you how high you are.",
+          "examples": [
+            "The pilot read the altimeter.",
+            "An altimeter shows height.",
+            "The altimeter was on the dash."
+          ]
+        },
+        "more": {
+          "def": "An instrument that shows how high you are above the ground or sea.",
+          "examples": [
+            "The pilot checked the altimeter.",
+            "Climbers carry an altimeter.",
+            "The altimeter showed we were above the clouds."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "altitude",
     "say": "AL-tih-tood",
     "forms": [
@@ -1374,6 +2165,34 @@
             "The plane flew at a high altitude above the clouds.",
             "It is hard to breathe at the high altitude of the mountain.",
             "The balloon rose to an altitude of one thousand feet."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "alto",
+    "say": "AL-toh",
+    "forms": [
+      "altos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A low girl's or woman's singing voice.",
+          "examples": [
+            "She sings alto.",
+            "An alto is a low voice.",
+            "The alto sang low."
+          ]
+        },
+        "more": {
+          "def": "A fairly low singing voice for women and girls, or someone with that voice.",
+          "examples": [
+            "She sings alto in the choir.",
+            "The altos sang the lower part.",
+            "The alto's voice was rich and warm."
           ]
         }
       }

@@ -133,6 +133,31 @@
     ]
   },
   {
+    "word": "loam",
+    "say": "LOHM",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Rich, dark soil good for plants.",
+          "examples": [
+            "Loam is good soil.",
+            "The loam is dark.",
+            "Plants grow in loam."
+          ]
+        },
+        "more": {
+          "def": "Soft, dark soil made of sand, clay and rotted plants that is good for growing things.",
+          "examples": [
+            "Tomatoes grow well in rich loam.",
+            "The farmer's field had dark loam.",
+            "Loam is a mix of sand, clay and rotted leaves."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "loan",
     "say": "lohn",
     "forms": [
@@ -182,6 +207,59 @@
     ]
   },
   {
+    "word": "loanword",
+    "say": "LOHN-werd",
+    "forms": [
+      "loanwords"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word borrowed from another language.",
+          "examples": [
+            "\"Taco\" is a loanword.",
+            "A loanword is borrowed.",
+            "English has loanwords."
+          ]
+        },
+        "more": {
+          "def": "A word taken from another language and used as part of your own.",
+          "examples": [
+            "\"Pizza\" is a loanword from Italian.",
+            "A loanword is a borrowed word.",
+            "English has many loanwords."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "loath",
+    "say": "lohth",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not wanting to do something.",
+          "examples": [
+            "I am loath to go.",
+            "She was loath to leave.",
+            "He was loath to speak."
+          ]
+        },
+        "more": {
+          "def": "Unwilling; not wanting to do something.",
+          "examples": [
+            "I am loath to leave the beach.",
+            "She was loath to say goodbye.",
+            "He was loath to admit it."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "loathe",
     "say": "lohth",
     "forms": [
@@ -206,6 +284,61 @@
             "I loathe the taste of cooked spinach.",
             "She loathes getting up early on cold mornings.",
             "The cat loathes taking a bath."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "loathsome",
+    "say": "LOHTH-sum",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very yucky.",
+          "examples": [
+            "The smell was loathsome.",
+            "A loathsome toad.",
+            "The loathsome mud."
+          ]
+        },
+        "more": {
+          "def": "Causing strong dislike; very unpleasant.",
+          "examples": [
+            "The loathsome smell of rotten eggs filled the kitchen.",
+            "The witch's potion was loathsome.",
+            "It was a loathsome task to clean the sticky floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lob",
+    "say": "lob",
+    "forms": [
+      "lobs",
+      "lobbed",
+      "lobbing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To throw something high and slowly.",
+          "examples": [
+            "I lob the ball.",
+            "He lobbed the ball over the net.",
+            "She lobbed a snowball."
+          ]
+        },
+        "more": {
+          "def": "To throw or hit something so that it goes up high in a curve.",
+          "examples": [
+            "She lobbed the ball over the net.",
+            "He lobbed a snowball high over the fence.",
+            "The pitcher lobbed the ball softly to the little boy."
           ]
         }
       }
@@ -322,6 +455,87 @@
     ]
   },
   {
+    "word": "locale",
+    "say": "loh-KAL",
+    "forms": [
+      "locales"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where something happens.",
+          "examples": [
+            "The locale is a park.",
+            "It is a nice locale.",
+            "Choose the locale."
+          ]
+        },
+        "more": {
+          "def": "A place where something happens, especially in a story or event.",
+          "examples": [
+            "The park was the locale for the picnic.",
+            "The story's locale is a small island.",
+            "The movie was set in a snowy locale."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "locality",
+    "say": "loh-KAL-ih-tee",
+    "forms": [
+      "localities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place or area.",
+          "examples": [
+            "He lives in this locality.",
+            "The locality is quiet.",
+            "Our locality has a park."
+          ]
+        },
+        "more": {
+          "def": "A particular place or neighborhood.",
+          "examples": [
+            "There are many shops in our locality.",
+            "The locality is known for its apples.",
+            "Birds are common in this locality."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "locally",
+    "say": "LOH-kul-ee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In the area near you.",
+          "examples": [
+            "The fruit is grown locally.",
+            "We shop locally.",
+            "The fish is caught locally."
+          ]
+        },
+        "more": {
+          "def": "In or near the place where you live.",
+          "examples": [
+            "The apples are grown locally.",
+            "We shop locally to support our town.",
+            "The bread is baked locally."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "locals",
     "say": "LOH-kulz",
     "forms": [
@@ -431,6 +645,34 @@
             "The locator on the map showed where we were.",
             "The phone has a locator to find lost keys.",
             "Use the store locator to find the closest shop."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "loch",
+    "say": "lokh",
+    "forms": [
+      "lochs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A lake in Scotland.",
+          "examples": [
+            "We saw a loch.",
+            "The loch was deep.",
+            "A loch is a lake."
+          ]
+        },
+        "more": {
+          "def": "A lake in Scotland, or a long arm of the sea that is almost closed in by land.",
+          "examples": [
+            "The mountains were reflected in the still loch.",
+            "We went boating on the loch.",
+            "A castle stood beside the dark loch."
           ]
         }
       }
@@ -571,6 +813,31 @@
     ]
   },
   {
+    "word": "locomotion",
+    "say": "loh-kuh-MOH-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Moving from place to place.",
+          "examples": [
+            "Walking is locomotion.",
+            "Locomotion is moving.",
+            "Animals use locomotion."
+          ]
+        },
+        "more": {
+          "def": "The ability or act of moving from one place to another.",
+          "examples": [
+            "Walking and swimming are kinds of locomotion.",
+            "Birds use flying as their locomotion.",
+            "Wheels give a car locomotion."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "locomotive",
     "say": "loh-kuh-MOH-tiv",
     "forms": [
@@ -627,6 +894,34 @@
     ]
   },
   {
+    "word": "lodestone",
+    "say": "LOHD-stohn",
+    "forms": [
+      "lodestones"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rock that acts like a magnet.",
+          "examples": [
+            "A lodestone is magnetic.",
+            "The lodestone pulls iron.",
+            "He found a lodestone."
+          ]
+        },
+        "more": {
+          "def": "A naturally magnetic rock that attracts iron.",
+          "examples": [
+            "The lodestone pulled the iron nail.",
+            "Sailors once used a lodestone to find north.",
+            "A lodestone is a natural magnet."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lodge",
     "say": "loj",
     "forms": [
@@ -663,6 +958,34 @@
     ]
   },
   {
+    "word": "lodger",
+    "say": "LOJ-er",
+    "forms": [
+      "lodgers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who rents a room in someone's home.",
+          "examples": [
+            "The lodger paid rent.",
+            "A lodger lives in a room.",
+            "We have a lodger."
+          ]
+        },
+        "more": {
+          "def": "A person who pays to live in a room in another person's house.",
+          "examples": [
+            "The lodger paid rent each week.",
+            "Their house had a lodger in the spare room.",
+            "The lodger ate breakfast with the family."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "loft",
     "say": "loft",
     "forms": [
@@ -685,6 +1008,31 @@
             "We climbed the ladder to the hay loft in the barn.",
             "The loft above the garage holds our old toys.",
             "A bed in the loft made the small apartment feel big."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "loftily",
+    "say": "LOF-tih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a proud way, as if above others.",
+          "examples": [
+            "He spoke loftily.",
+            "She loftily lifted her chin.",
+            "The cat looked loftily."
+          ]
+        },
+        "more": {
+          "def": "In a proud, superior way.",
+          "examples": [
+            "He spoke loftily to the others.",
+            "She lifted her chin loftily.",
+            "The cat looked loftily at the dog."
           ]
         }
       }
@@ -776,6 +1124,34 @@
     ]
   },
   {
+    "word": "logbook",
+    "say": "LOG-buuk",
+    "forms": [
+      "logbooks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A book where a ship's captain writes what happens.",
+          "examples": [
+            "The captain wrote in the logbook.",
+            "The logbook has notes.",
+            "Write it in the logbook."
+          ]
+        },
+        "more": {
+          "def": "A book in which a ship's captain or pilot writes down events and the route.",
+          "examples": [
+            "The captain wrote in the logbook each day.",
+            "The pilot checked the logbook.",
+            "The logbook recorded every storm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "logic",
     "say": "LOJ-ik",
     "senses": [
@@ -829,6 +1205,34 @@
     ]
   },
   {
+    "word": "logjam",
+    "say": "LOG-jam",
+    "forms": [
+      "logjams"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pile of logs stuck in a river.",
+          "examples": [
+            "The logjam piled up near the bridge.",
+            "The logjam is stuck.",
+            "Logs made a logjam."
+          ]
+        },
+        "more": {
+          "def": "A pile of logs stuck together in a river so they cannot float on.",
+          "examples": [
+            "A logjam blocked the river.",
+            "Workers cleared the logjam with long poles.",
+            "Cars made a logjam at the gate."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "logo",
     "say": "LOH-goh",
     "forms": [
@@ -851,6 +1255,66 @@
             "The team's logo is a blue eagle on a yellow shield.",
             "Our class made a logo for our club.",
             "The logo of the store is printed on its bags."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "loiter",
+    "say": "LOY-ter",
+    "forms": [
+      "loiters",
+      "loitered",
+      "loitering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stand around with nothing to do.",
+          "examples": [
+            "Do not loiter.",
+            "He loitered outside.",
+            "They loitered at the gate."
+          ]
+        },
+        "more": {
+          "def": "To stand around or linger in a place without a clear reason.",
+          "examples": [
+            "The kids loitered outside the shop after school.",
+            "Please do not loiter in the hall.",
+            "The boys loitered by the gate."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "loll",
+    "say": "lol",
+    "forms": [
+      "lolls",
+      "lolled",
+      "lolling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To lie or sit in a lazy way.",
+          "examples": [
+            "The dog lolled in the sun.",
+            "He lolled on the sofa.",
+            "She lolls in the hammock."
+          ]
+        },
+        "more": {
+          "def": "To sit, lie or hang in a relaxed, lazy way.",
+          "examples": [
+            "The dog lolled in the shade with its tongue out.",
+            "He lolled on the sofa all afternoon.",
+            "We lolled in the hammock and watched the clouds."
           ]
         }
       }
@@ -1043,6 +1507,34 @@
     ]
   },
   {
+    "word": "longboat",
+    "say": "LONG-boat",
+    "forms": [
+      "longboats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big boat that people row.",
+          "examples": [
+            "The sailors rowed the longboat.",
+            "A longboat had oars.",
+            "The longboat sailed."
+          ]
+        },
+        "more": {
+          "def": "A large rowing boat carried on a ship, or a long ship used by Vikings.",
+          "examples": [
+            "The sailors lowered the longboat into the water.",
+            "The Vikings sailed in a longboat across the sea.",
+            "Twenty men rowed the longboat to the shore."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "longevity",
     "say": "lon-JEV-ih-tee",
     "senses": [
@@ -1223,6 +1715,34 @@
     ]
   },
   {
+    "word": "lookalike",
+    "say": "LUUK-uh-lyk",
+    "forms": [
+      "lookalikes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who looks like another.",
+          "examples": [
+            "She is his lookalike.",
+            "A lookalike of the star.",
+            "The twins are lookalikes."
+          ]
+        },
+        "more": {
+          "def": "A person or thing that looks very much like another.",
+          "examples": [
+            "She is a lookalike of the singer.",
+            "The twins are exact lookalikes.",
+            "He met his lookalike at the fair."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lookout",
     "say": "LUUK-owt",
     "forms": [
@@ -1294,6 +1814,35 @@
             "The weaver sat at her loom and wove a blanket.",
             "The wooden loom clacked as she wove the cloth.",
             "Long ago, families wove their own cloth on a loom."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "loon",
+    "say": "loon",
+    "emoji": "🐦",
+    "forms": [
+      "loons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large water bird with a loud, strange call.",
+          "examples": [
+            "The loon called.",
+            "A loon dives.",
+            "I heard a loon."
+          ]
+        },
+        "more": {
+          "def": "A large diving bird with black and white feathers and a wild, haunting call.",
+          "examples": [
+            "The loon dived under the lake and came up far away.",
+            "The call of the loon echoed over the lake.",
+            "Loons build their nests at the water's edge."
           ]
         }
       }
@@ -1432,6 +1981,37 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "looseness",
+        "def": "Not being tight."
+      }
+    ]
+  },
+  {
+    "word": "loosely",
+    "say": "LOOS-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that is not tight.",
+          "examples": [
+            "The rope was tied loosely.",
+            "She held the leash loosely.",
+            "The shirt fit loosely."
+          ]
+        },
+        "more": {
+          "def": "In a way that is not tight or firm.",
+          "examples": [
+            "The scarf was tied loosely around her neck.",
+            "She held the bird loosely in her hands.",
+            "The story is loosely based on a true event."
+          ]
+        }
+      }
     ]
   },
   {
@@ -1489,6 +2069,66 @@
             "The pirates hid their loot in a cave.",
             "The treasure map led to the loot.",
             "The police found the stolen loot in the thief's car."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lop",
+    "say": "lop",
+    "forms": [
+      "lops",
+      "lopped",
+      "lopping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cut off.",
+          "examples": [
+            "He lopped the branch.",
+            "She lopped off the top.",
+            "They lop the hedge."
+          ]
+        },
+        "more": {
+          "def": "To cut off something, such as a branch, with one quick cut.",
+          "examples": [
+            "He lopped the branch off the tree.",
+            "She lopped the top off the weed.",
+            "The gardener lopped the dead branches."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lope",
+    "say": "lohp",
+    "forms": [
+      "lopes",
+      "loped",
+      "loping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To run with long, easy steps.",
+          "examples": [
+            "The wolf loped.",
+            "The dog loped across the grass.",
+            "The horse lopes."
+          ]
+        },
+        "more": {
+          "def": "To run with long, smooth, easy steps.",
+          "examples": [
+            "The wolf loped across the snowy field.",
+            "The giraffe loped across the plain.",
+            "The dog loped along beside the bike."
           ]
         }
       }
@@ -1567,6 +2207,31 @@
     ]
   },
   {
+    "word": "lordly",
+    "say": "LORD-lee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Proud and like a lord.",
+          "examples": [
+            "He walked in a lordly way.",
+            "The lordly cat.",
+            "A lordly voice."
+          ]
+        },
+        "more": {
+          "def": "Proud and grand, as if you were a lord.",
+          "examples": [
+            "The cat gave us a lordly look.",
+            "He spoke in a lordly voice.",
+            "The peacock walked with a lordly air."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lordship",
     "say": "LORD-ship",
     "forms": [
@@ -1589,6 +2254,31 @@
             "Your lordship, the table is ready.",
             "His lordship arrived at the castle.",
             "The servant bowed to his lordship."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lore",
+    "say": "lor",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Old stories and facts.",
+          "examples": [
+            "Old lore tells of a dragon.",
+            "She knows the lore.",
+            "The village lore."
+          ]
+        },
+        "more": {
+          "def": "Old stories, traditions and knowledge handed down by people.",
+          "examples": [
+            "Old village lore tells of a dragon in the hills.",
+            "He knew the lore of the forest.",
+            "The sailors shared sea lore around the fire."
           ]
         }
       }
@@ -1747,6 +2437,35 @@
     ]
   },
   {
+    "word": "lotus",
+    "say": "LOH-tus",
+    "emoji": "🪷",
+    "forms": [
+      "lotuses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flower that grows in water.",
+          "examples": [
+            "The lotus floated on the pond.",
+            "A lotus is pink.",
+            "I saw a lotus."
+          ]
+        },
+        "more": {
+          "def": "A water plant with large, round leaves and big, beautiful flowers.",
+          "examples": [
+            "A pink lotus opened on the pond.",
+            "The lotus flower rests on a wide green leaf.",
+            "In some countries, the lotus is a symbol of peace."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "loud",
     "say": "lowd",
     "forms": [
@@ -1772,6 +2491,12 @@
             "The baby gave a loud cry."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "loudness",
+        "def": "How loud something is."
       }
     ]
   },
@@ -1957,6 +2682,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "unlovable",
+        "def": "Hard to love."
+      }
     ]
   },
   {
@@ -2089,6 +2820,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "unlovely",
+        "def": "Not nice to look at."
+      }
     ]
   },
   {
@@ -2114,6 +2851,31 @@
             "My sister is a book lover.",
             "He is a lover of nature.",
             "The shop is full of cat lovers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lovingly",
+    "say": "LUV-ing-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that shows love.",
+          "examples": [
+            "She lovingly hugged the baby.",
+            "He lovingly petted the dog.",
+            "Mom lovingly tucked me in."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows great love and care.",
+          "examples": [
+            "She lovingly wrapped the baby in a soft blanket.",
+            "He lovingly painted the toy by hand.",
+            "Grandma lovingly stroked the cat."
           ]
         }
       }
@@ -2165,6 +2927,65 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "lowness",
+        "def": "Being low."
+      }
+    ]
+  },
+  {
+    "word": "lowercase",
+    "say": "LOH-er-kays",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Small letters, not capitals.",
+          "examples": [
+            "Write in lowercase.",
+            "A lowercase letter.",
+            "The lowercase a."
+          ]
+        },
+        "more": {
+          "def": "In small letters, not capitals.",
+          "examples": [
+            "Write your name in lowercase letters.",
+            "\"a\" is a lowercase letter.",
+            "The sign was written in lowercase."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lowland",
+    "say": "LOH-lund",
+    "forms": [
+      "lowlands"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Flat, low country.",
+          "examples": [
+            "They live in the lowland.",
+            "The lowland is flat.",
+            "We drove through the lowlands."
+          ]
+        },
+        "more": {
+          "def": "An area of land that is flat and lower than the land around it.",
+          "examples": [
+            "The river crossed the wide lowland.",
+            "Farmers grow rice in the lowlands.",
+            "Lowlands lie between the hills and the sea."
+          ]
+        }
+      }
     ]
   },
   {
@@ -2213,6 +3034,31 @@
             "A loyal friend stands by you even when things are hard.",
             "The team has loyal fans who come to every game.",
             "He stayed loyal to his friends when others teased them."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "loyally",
+    "say": "LOY-ul-ee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that shows you stay true to someone.",
+          "examples": [
+            "The dog loyally waited.",
+            "She loyally helped her friend.",
+            "He loyally followed."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows you stay true and faithful.",
+          "examples": [
+            "The dog loyally waited by the door.",
+            "She loyally helped her friend with her homework.",
+            "The knight loyally served the king."
           ]
         }
       }

@@ -1,5 +1,35 @@
 [
   {
+    "word": "deactivate",
+    "say": "dee-AK-tih-vayt",
+    "forms": [
+      "deactivates",
+      "deactivated",
+      "deactivating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To turn something off.",
+          "examples": [
+            "He deactivated the alarm.",
+            "She deactivates the app.",
+            "The button deactivates it."
+          ]
+        },
+        "more": {
+          "def": "To turn off or stop something from working.",
+          "examples": [
+            "He deactivated the alarm before leaving.",
+            "She deactivated the app on her tablet.",
+            "Press the button to deactivate the machine."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dead",
     "say": "ded",
     "senses": [
@@ -19,6 +49,64 @@
             "The dead tree fell in the storm and made a home for beetles.",
             "The flashlight is dead because the batteries ran out.",
             "We raked up the dead leaves and put them in the compost."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deadbolt",
+    "say": "DED-bohlt",
+    "forms": [
+      "deadbolts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong lock on a door.",
+          "examples": [
+            "The door has a deadbolt.",
+            "A deadbolt is a lock.",
+            "Lock the deadbolt."
+          ]
+        },
+        "more": {
+          "def": "A strong lock with a bolt that slides into the door frame and is turned by a key or knob.",
+          "examples": [
+            "Dad locked the deadbolt at night.",
+            "A deadbolt is a strong lock.",
+            "The door had a deadbolt for safety."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deaden",
+    "say": "DED-un",
+    "forms": [
+      "deadens",
+      "deadened",
+      "deadening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make weaker.",
+          "examples": [
+            "The carpet deadens sound.",
+            "The pad deadened the blow.",
+            "Medicine deadens pain."
+          ]
+        },
+        "more": {
+          "def": "To make a sound, feeling or pain weaker.",
+          "examples": [
+            "The thick carpet deadens the sound of footsteps.",
+            "The pad deadened the force of the blow.",
+            "Snow deadens the noise of the city."
           ]
         }
       }
@@ -79,6 +167,40 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "deadliness",
+        "def": "Being able to kill."
+      }
+    ]
+  },
+  {
+    "word": "deadpan",
+    "say": "DED-pan",
+    "forms": [
+      "deadpans"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Looking serious while being funny.",
+          "examples": [
+            "A deadpan face.",
+            "He told a deadpan joke.",
+            "Her deadpan look."
+          ]
+        },
+        "more": {
+          "def": "Showing no expression, even when joking.",
+          "examples": [
+            "He told the joke with a deadpan face.",
+            "Her deadpan humor made us laugh.",
+            "The comedian stayed deadpan."
+          ]
+        }
+      }
     ]
   },
   {
@@ -113,6 +235,36 @@
       {
         "word": "deafness",
         "def": "Not being able to hear."
+      }
+    ]
+  },
+  {
+    "word": "deafen",
+    "say": "DEF-un",
+    "forms": [
+      "deafens",
+      "deafened",
+      "deafening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone not able to hear.",
+          "examples": [
+            "The noise deafened us.",
+            "The drums deafen.",
+            "The thunder deafened him."
+          ]
+        },
+        "more": {
+          "def": "To make someone unable to hear, by making a very loud noise.",
+          "examples": [
+            "The thunder almost deafened us.",
+            "The loud drums deafened the crowd.",
+            "The siren deafened the people nearby."
+          ]
+        }
       }
     ]
   },
@@ -374,6 +526,34 @@
     ]
   },
   {
+    "word": "debater",
+    "say": "dih-BAY-ter",
+    "forms": [
+      "debaters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who argues a side in a debate.",
+          "examples": [
+            "The debater spoke.",
+            "A debater gives reasons.",
+            "She is a debater."
+          ]
+        },
+        "more": {
+          "def": "A person who takes part in a formal discussion, arguing one side.",
+          "examples": [
+            "The debater gave clear reasons.",
+            "A good debater listens and answers.",
+            "She is the best debater in school."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "debris",
     "say": "duh-BREE",
     "senses": [
@@ -421,6 +601,36 @@
             "He paid the debt he owed his friend.",
             "The family worked hard to pay off the debt.",
             "Dad took out a loan and then paid the debt."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "debug",
+    "say": "dee-BUG",
+    "forms": [
+      "debugs",
+      "debugged",
+      "debugging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To find and fix mistakes in a computer program.",
+          "examples": [
+            "Debug the game.",
+            "She debugged her code.",
+            "We debug it."
+          ]
+        },
+        "more": {
+          "def": "To find and fix the mistakes in a computer program.",
+          "examples": [
+            "She debugged the game so it would run.",
+            "Programmers debug their code before they share it.",
+            "He spent an hour trying to debug the app."
           ]
         }
       }
@@ -477,6 +687,62 @@
             "The movie was filmed a decade ago.",
             "The school was built a decade ago.",
             "My grandfather has lived here for three decades."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "decagon",
+    "say": "DEK-uh-gon",
+    "forms": [
+      "decagons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shape with ten sides.",
+          "examples": [
+            "A decagon has ten sides.",
+            "Draw a decagon.",
+            "The decagon is a shape."
+          ]
+        },
+        "more": {
+          "def": "A flat shape with ten straight sides.",
+          "examples": [
+            "A decagon has ten sides and ten angles.",
+            "Draw a decagon on your paper.",
+            "The stop sign has eight sides, but a decagon has ten."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "decal",
+    "say": "DEE-kal",
+    "forms": [
+      "decals"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture you stick on something.",
+          "examples": [
+            "I put a decal on my bike.",
+            "The decal is a star.",
+            "A decal sticks."
+          ]
+        },
+        "more": {
+          "def": "A picture or design on special paper that can be stuck onto a surface.",
+          "examples": [
+            "I put a star decal on my bike.",
+            "The decal peeled off the window.",
+            "She collected animal decals."
           ]
         }
       }
@@ -582,6 +848,31 @@
     ]
   },
   {
+    "word": "deceitful",
+    "say": "dih-SEET-ful",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not honest; tricking others.",
+          "examples": [
+            "The deceitful fox lied.",
+            "A deceitful trick.",
+            "He was deceitful."
+          ]
+        },
+        "more": {
+          "def": "Lying or tricking others; not honest.",
+          "examples": [
+            "The deceitful fox tricked the crow.",
+            "It is wrong to be deceitful.",
+            "He gave a deceitful smile."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "deceive",
     "say": "dih-SEEV",
     "forms": [
@@ -608,6 +899,12 @@
             "He deceived them by hiding the truth."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "undeceive",
+        "def": "To tell someone the truth."
       }
     ]
   },
@@ -774,6 +1071,56 @@
     ]
   },
   {
+    "word": "decidedly",
+    "say": "dih-SY-did-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a clear way, without doubt.",
+          "examples": [
+            "It was decidedly cold.",
+            "He felt decidedly better.",
+            "The soup was decidedly hot."
+          ]
+        },
+        "more": {
+          "def": "Clearly and without doubt.",
+          "examples": [
+            "It was a decidedly cold day for a picnic.",
+            "She felt decidedly better after a good rest.",
+            "The cake was decidedly too sweet."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deciduous",
+    "say": "dih-SIJ-oo-us",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Losing leaves each fall.",
+          "examples": [
+            "A deciduous tree.",
+            "Oaks are deciduous.",
+            "The deciduous forest."
+          ]
+        },
+        "more": {
+          "def": "Losing its leaves every autumn.",
+          "examples": [
+            "An oak is a deciduous tree.",
+            "Deciduous trees lose their leaves in the fall.",
+            "The deciduous forest looks bare in winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "decimal",
     "say": "DES-ih-mul",
     "forms": [
@@ -860,6 +1207,56 @@
     ]
   },
   {
+    "word": "decisive",
+    "say": "dih-SY-siv",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to decide quickly and clearly.",
+          "examples": [
+            "She is decisive.",
+            "A decisive win.",
+            "The decisive goal."
+          ]
+        },
+        "more": {
+          "def": "Able to make up your mind quickly, or clearly deciding the result.",
+          "examples": [
+            "The captain gave a decisive answer.",
+            "They scored the decisive goal in the last minute.",
+            "She is decisive and picks quickly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "decisively",
+    "say": "dih-SY-siv-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a firm way, as if you have made up your mind.",
+          "examples": [
+            "She decisively said yes.",
+            "He acted decisively.",
+            "The team won decisively."
+          ]
+        },
+        "more": {
+          "def": "In a firm way that shows you have decided or settled something.",
+          "examples": [
+            "She decisively picked the red one.",
+            "The captain acted decisively in the storm.",
+            "Our team won the game decisively."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "deck",
     "say": "dek",
     "forms": [
@@ -882,6 +1279,31 @@
             "The captain stood on the deck of the ship.",
             "We ate dinner on the deck behind the house.",
             "The children scrubbed the deck of the boat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "declarative",
+    "say": "dih-KLAIR-uh-tiv",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A sentence that tells something.",
+          "examples": [
+            "A declarative sentence.",
+            "It is a declarative sentence.",
+            "That is declarative."
+          ]
+        },
+        "more": {
+          "def": "Describing a sentence that makes a statement and ends with a period.",
+          "examples": [
+            "\"The dog is brown\" is a declarative sentence.",
+            "A declarative sentence tells a fact.",
+            "Most sentences in books are declarative."
           ]
         }
       }
@@ -986,6 +1408,36 @@
             "Scientists noticed a steady decline in the number of fish in the river.",
             "There was a sharp decline in temperature overnight.",
             "The decline of the old town began when the factory closed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "declutter",
+    "say": "dee-KLUT-er",
+    "forms": [
+      "declutters",
+      "decluttered",
+      "decluttering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get rid of mess.",
+          "examples": [
+            "Declutter your room.",
+            "She decluttered the desk.",
+            "Let's declutter."
+          ]
+        },
+        "more": {
+          "def": "To clear away things you do not need from a place so it is neat.",
+          "examples": [
+            "She decluttered her desk and threw out old papers.",
+            "Let's declutter the closet this weekend.",
+            "It feels good to declutter a messy room."
           ]
         }
       }
@@ -1302,6 +1754,31 @@
     ]
   },
   {
+    "word": "decrepit",
+    "say": "dih-KREP-it",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Old and weak or falling apart.",
+          "examples": [
+            "The shed was decrepit.",
+            "A decrepit fence.",
+            "The decrepit old house."
+          ]
+        },
+        "more": {
+          "def": "Worn out, old and in bad condition.",
+          "examples": [
+            "The decrepit shed leaned to one side.",
+            "A decrepit fence surrounded the yard.",
+            "The decrepit old bus rattled down the road."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dedicate",
     "say": "DED-ih-kayt",
     "forms": [
@@ -1373,6 +1850,36 @@
             "The book has a dedication to the author's mother.",
             "I read the dedication at the front.",
             "The dedication said For my wonderful grandma."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deduce",
+    "say": "dih-DOOSS",
+    "forms": [
+      "deduces",
+      "deduced",
+      "deducing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To work out an answer by thinking.",
+          "examples": [
+            "I deduced the answer.",
+            "She deduced who did it.",
+            "He deduced the time."
+          ]
+        },
+        "more": {
+          "def": "To work out something by using clues and thinking carefully.",
+          "examples": [
+            "The detective deduced who had left the muddy footprints.",
+            "From the dark clouds, she deduced that it would rain.",
+            "He deduced the answer by using the clues."
           ]
         }
       }
@@ -1645,6 +2152,31 @@
     ]
   },
   {
+    "word": "deepwater",
+    "say": "DEEP-waw-ter",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "In deep water.",
+          "examples": [
+            "Deepwater fish.",
+            "A deepwater port.",
+            "The deepwater boat."
+          ]
+        },
+        "more": {
+          "def": "Located or living in deep water.",
+          "examples": [
+            "A deepwater port can hold big ships.",
+            "Deepwater fish live far below the surface.",
+            "The deepwater diver went down a long way."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "deer",
     "say": "deer",
     "emoji": "🦌",
@@ -1665,6 +2197,34 @@
             "A deer bounded across the road.",
             "The male deer had large antlers.",
             "A baby deer is called a fawn."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deerskin",
+    "say": "DEER-skin",
+    "forms": [
+      "deerskins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Soft leather from a deer.",
+          "examples": [
+            "The boots are deerskin.",
+            "Deerskin is soft.",
+            "Her gloves were deerskin."
+          ]
+        },
+        "more": {
+          "def": "The skin of a deer, or the soft leather made from it.",
+          "examples": [
+            "He wore deerskin boots.",
+            "Deerskin gloves keep your hands warm.",
+            "The drum was covered with deerskin."
           ]
         }
       }
@@ -1938,6 +2498,37 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "defensiveness",
+        "def": "Being ready to protect yourself."
+      }
+    ]
+  },
+  {
+    "word": "defiance",
+    "say": "dih-FY-unts",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Saying no in a bold way.",
+          "examples": [
+            "He said no in defiance.",
+            "She shook her head in defiance.",
+            "The boy stood in defiance."
+          ]
+        },
+        "more": {
+          "def": "Open refusal to obey someone or something.",
+          "examples": [
+            "She shook her head in defiance and refused to move.",
+            "The boy stamped his foot in defiance.",
+            "The rebels stood in defiance of the king."
+          ]
+        }
+      }
     ]
   },
   {
@@ -1960,6 +2551,31 @@
             "The defiant child folded his arms and said no.",
             "The defiant puppy would not come back.",
             "She stood in a defiant pose."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "defiantly",
+    "say": "dih-FY-unt-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that shows you will not obey.",
+          "examples": [
+            "She defiantly shook her head.",
+            "He defiantly stayed.",
+            "The boy defiantly crossed his arms."
+          ]
+        },
+        "more": {
+          "def": "In a bold way that shows you refuse to do what you are told.",
+          "examples": [
+            "She defiantly folded her arms and said no.",
+            "The small boy defiantly stood his ground.",
+            "He defiantly kept on singing."
           ]
         }
       }
@@ -2020,6 +2636,12 @@
             "The coach set a definite time for practice."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "definiteness",
+        "def": "Being certain and clear."
       }
     ]
   },
@@ -2137,6 +2759,31 @@
     ]
   },
   {
+    "word": "deforestation",
+    "say": "dee-for-ih-STAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Cutting down many trees.",
+          "examples": [
+            "Deforestation harms animals.",
+            "We learned about deforestation.",
+            "Deforestation is bad."
+          ]
+        },
+        "more": {
+          "def": "The cutting down or burning of forests over large areas.",
+          "examples": [
+            "Deforestation destroys the homes of animals.",
+            "We learned how deforestation affects the climate.",
+            "Planting trees helps stop deforestation."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "defrost",
     "say": "dee-FROST",
     "forms": [
@@ -2161,6 +2808,66 @@
             "Mom defrosted the bread on the counter.",
             "Dad turned on the heater to defrost the windshield.",
             "We defrosted the freezer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deft",
+    "say": "deft",
+    "forms": [
+      "defter",
+      "deftest"
+    ],
+    "related": [
+      {
+        "word": "deftness",
+        "def": "Being quick and skilled with your hands."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Quick and skilled.",
+          "examples": [
+            "The deft baker rolled the dough.",
+            "She is deft with her hands.",
+            "A deft move."
+          ]
+        },
+        "more": {
+          "def": "Quick and skillful, especially with your hands.",
+          "examples": [
+            "The deft baker rolled the dough in seconds.",
+            "She made a deft move and caught the ball.",
+            "The deft tailor sewed the button on."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deftly",
+    "say": "DEFT-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a quick, skillful way.",
+          "examples": [
+            "She deftly caught the ball.",
+            "He deftly sewed.",
+            "The chef deftly chopped."
+          ]
+        },
+        "more": {
+          "def": "In a quick and skillful way.",
+          "examples": [
+            "She deftly caught the ball with one hand.",
+            "The tailor deftly sewed on the button.",
+            "The chef deftly chopped the onion."
           ]
         }
       }
@@ -2299,6 +3006,59 @@
     ]
   },
   {
+    "word": "deity",
+    "say": "DEE-ih-tee",
+    "forms": [
+      "deities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A god or goddess.",
+          "examples": [
+            "A deity is a god.",
+            "The ancient deity.",
+            "People prayed to the deity."
+          ]
+        },
+        "more": {
+          "def": "A god, in a religion or myth.",
+          "examples": [
+            "The Greeks believed in many deities.",
+            "A statue of the deity stood in the temple.",
+            "The deity was said to rule the sea."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dejected",
+    "say": "dih-JEK-tid",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sad and let down.",
+          "examples": [
+            "He looked dejected.",
+            "The dejected boy sat.",
+            "She felt dejected."
+          ]
+        },
+        "more": {
+          "def": "Sad and disappointed, with little hope.",
+          "examples": [
+            "The dejected player walked off the field.",
+            "She felt dejected when her team lost.",
+            "The dejected puppy waited by the door."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "delay",
     "say": "dih-LAY",
     "forms": [
@@ -2342,6 +3102,62 @@
             "There was a one-hour delay because of the snow.",
             "The delay made us miss the show.",
             "Our flight had a delay."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "delegate",
+    "say": "DEL-ih-gut",
+    "forms": [
+      "delegates"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person picked to speak for a group.",
+          "examples": [
+            "She was our delegate.",
+            "The delegate spoke.",
+            "Our class chose a delegate."
+          ]
+        },
+        "more": {
+          "def": "A person who is chosen to speak or act for a group of people.",
+          "examples": [
+            "Each class sent a delegate to the school meeting.",
+            "The delegate told the council what the students wanted.",
+            "Delegates from many countries met to talk about the oceans."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "delegation",
+    "say": "del-ih-GAY-shun",
+    "forms": [
+      "delegations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of people sent to speak for others.",
+          "examples": [
+            "A delegation came to see us.",
+            "The delegation met the mayor.",
+            "Our class sent a delegation."
+          ]
+        },
+        "more": {
+          "def": "A group of people chosen to speak or act for a larger group.",
+          "examples": [
+            "A delegation from the school met the mayor.",
+            "The delegation traveled to the capital.",
+            "The class sent a delegation to ask for a new playground."
           ]
         }
       }
@@ -2482,6 +3298,62 @@
     ]
   },
   {
+    "word": "deliberation",
+    "say": "dih-lib-er-AY-shun",
+    "forms": [
+      "deliberations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Thinking carefully before deciding.",
+          "examples": [
+            "After much deliberation, they chose.",
+            "She made her choice after deliberation.",
+            "Deliberation takes time."
+          ]
+        },
+        "more": {
+          "def": "Careful thought about something before you decide.",
+          "examples": [
+            "After long deliberation, the team chose a name.",
+            "The jury's deliberation lasted all day.",
+            "She picked her book after careful deliberation."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "delicacy",
+    "say": "DEL-ih-kuh-see",
+    "forms": [
+      "delicacies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A special food that is rare and tasty.",
+          "examples": [
+            "The cake is a delicacy.",
+            "Honey is a delicacy.",
+            "He ate a delicacy."
+          ]
+        },
+        "more": {
+          "def": "A special food that is rare or very tasty.",
+          "examples": [
+            "In some places, snails are a delicacy.",
+            "Honey cakes were a delicacy at the feast.",
+            "The chef prepared a delicacy for the guests."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "delicate",
     "say": "DEL-ih-kut",
     "emoji": "🦋",
@@ -2502,6 +3374,31 @@
             "The delicate glass ornament was wrapped in soft paper.",
             "The delicate flower petals fell off in the wind.",
             "Fixing a watch is delicate work that takes steady hands."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "delicately",
+    "say": "DEL-ih-kut-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a gentle and careful way.",
+          "examples": [
+            "She delicately touched the petal.",
+            "He delicately held the egg.",
+            "She delicately stepped."
+          ]
+        },
+        "more": {
+          "def": "In a gentle, careful way so that nothing is broken.",
+          "examples": [
+            "She delicately placed the tiny shell on the table.",
+            "He delicately lifted the baby bird.",
+            "The cat stepped delicately across the shelf."
           ]
         }
       }
@@ -2536,6 +3433,31 @@
       {
         "word": "deliciousness",
         "def": "Being delicious."
+      }
+    ]
+  },
+  {
+    "word": "deliciously",
+    "say": "dih-LISH-us-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that tastes or feels very good.",
+          "examples": [
+            "The soup smelled deliciously.",
+            "The pie was deliciously sweet.",
+            "The bread was deliciously warm."
+          ]
+        },
+        "more": {
+          "def": "In a way that is very tasty or very pleasant.",
+          "examples": [
+            "The cake was deliciously sweet.",
+            "The bread smelled deliciously of butter.",
+            "The cool water felt deliciously fresh."
+          ]
+        }
       }
     ]
   },
@@ -2590,6 +3512,31 @@
             "I was delighted with my new puppy.",
             "She was delighted to see her friends.",
             "The children were delighted by the clown's tricks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "delightedly",
+    "say": "dih-LY-tid-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a very happy way.",
+          "examples": [
+            "She clapped delightedly.",
+            "He laughed delightedly.",
+            "The baby smiled delightedly."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows great joy.",
+          "examples": [
+            "She clapped delightedly when she saw the puppy.",
+            "He laughed delightedly at the clown.",
+            "The children cheered delightedly at the surprise."
           ]
         }
       }
@@ -2708,6 +3655,34 @@
     ]
   },
   {
+    "word": "dell",
+    "say": "del",
+    "forms": [
+      "dells"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, wooded valley.",
+          "examples": [
+            "We sat in the dell.",
+            "The dell is green.",
+            "A dell has trees."
+          ]
+        },
+        "more": {
+          "def": "A small, tree-filled valley.",
+          "examples": [
+            "A stream ran through the shady dell.",
+            "We picnicked in a quiet dell.",
+            "Wild flowers grew in the dell."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "delta",
     "say": "DEL-tuh",
     "forms": [
@@ -2730,6 +3705,64 @@
             "The river spread out into a wide delta before it reached the sea.",
             "The delta is full of rich, muddy soil where plants grow well.",
             "Many kinds of birds live in the delta."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "delude",
+    "say": "dih-LOOD",
+    "forms": [
+      "deludes",
+      "deluded",
+      "deluding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To trick yourself into believing something false.",
+          "examples": [
+            "Do not delude yourself.",
+            "He deluded himself.",
+            "She deluded the crowd."
+          ]
+        },
+        "more": {
+          "def": "To make someone believe something that is not true.",
+          "examples": [
+            "Do not delude yourself into thinking it will be easy.",
+            "The clever trick deluded the crowd.",
+            "He deluded himself that he could fly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deluge",
+    "say": "DEL-yooj",
+    "forms": [
+      "deluges"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very big rush of water.",
+          "examples": [
+            "A deluge of rain fell.",
+            "The deluge filled the street.",
+            "We got a deluge."
+          ]
+        },
+        "more": {
+          "def": "A very heavy rainfall or flood, or a huge amount of something coming all at once.",
+          "examples": [
+            "A sudden deluge flooded the streets.",
+            "The teacher received a deluge of questions.",
+            "After the deluge, the sun came out."
           ]
         }
       }
@@ -2783,6 +3816,36 @@
             "We stayed in a deluxe room with a view of the sea.",
             "The deluxe model has more features than the regular one.",
             "The deluxe pizza had every topping you can think of."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "delve",
+    "say": "delv",
+    "forms": [
+      "delves",
+      "delved",
+      "delving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To dig or search deeply.",
+          "examples": [
+            "He delved in the bag.",
+            "She delved into the book.",
+            "They delved into the hole."
+          ]
+        },
+        "more": {
+          "def": "To search deeply into something, or to dig.",
+          "examples": [
+            "He delved into his bag for his keys.",
+            "The scientists delved into the history of the town.",
+            "She delved into the box of old photos."
           ]
         }
       }
@@ -2890,6 +3953,12 @@
             "Our club is democratic, so everyone gets a say."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "undemocratic",
+        "def": "Not letting people vote."
       }
     ]
   },
@@ -3163,6 +4232,34 @@
     ]
   },
   {
+    "word": "denizen",
+    "say": "DEN-ih-zun",
+    "forms": [
+      "denizens"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A creature that lives in a place.",
+          "examples": [
+            "A denizen of the forest.",
+            "Denizens of the sea.",
+            "A denizen of the pond."
+          ]
+        },
+        "more": {
+          "def": "A person, animal or plant that lives in a particular place.",
+          "examples": [
+            "The owl is a denizen of the forest.",
+            "Fish are denizens of the sea.",
+            "The beaver is a denizen of the pond."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "denomination",
     "say": "dih-nom-ih-NAY-shun",
     "forms": [
@@ -3185,6 +4282,94 @@
             "The coin is of a small denomination.",
             "Dollars come in many denominations, such as one, five and ten.",
             "The church belongs to a certain denomination."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "denominator",
+    "say": "dih-NOM-ih-nay-ter",
+    "forms": [
+      "denominators"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The bottom number in a fraction.",
+          "examples": [
+            "The denominator is on the bottom.",
+            "Find the denominator.",
+            "Four is the denominator."
+          ]
+        },
+        "more": {
+          "def": "The number below the line in a fraction.",
+          "examples": [
+            "In one-fourth, the denominator is four.",
+            "The denominator tells how many equal parts.",
+            "Find the denominator of the fraction."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "denote",
+    "say": "dih-NOHT",
+    "forms": [
+      "denotes",
+      "denoted",
+      "denoting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To mean or stand for.",
+          "examples": [
+            "Red denotes stop.",
+            "A star denotes a top mark.",
+            "The sign denotes danger."
+          ]
+        },
+        "more": {
+          "def": "To be a sign of something; to mean.",
+          "examples": [
+            "A red light denotes stop.",
+            "A star on the map denotes the capital.",
+            "The flag denotes a safe beach."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "denounce",
+    "say": "dih-NOWNSS",
+    "forms": [
+      "denounces",
+      "denounced",
+      "denouncing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To say loudly that something is wrong.",
+          "examples": [
+            "They denounced the lie.",
+            "She denounced cruelty.",
+            "He denounced the plan."
+          ]
+        },
+        "more": {
+          "def": "To speak out strongly against something as wrong or bad.",
+          "examples": [
+            "The mayor denounced the littering in the park.",
+            "Everyone denounced the cruel act.",
+            "She denounced the unfair rule."
           ]
         }
       }
@@ -3214,6 +4399,37 @@
             "The dense fog made it hard to see the road ahead.",
             "We could barely walk through the dense forest.",
             "A dense crowd filled the street for the parade."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "denseness",
+        "def": "Being packed closely together."
+      }
+    ]
+  },
+  {
+    "word": "densely",
+    "say": "DENSS-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Thickly packed together.",
+          "examples": [
+            "The trees grew densely.",
+            "The forest is densely green.",
+            "The crowd was densely packed."
+          ]
+        },
+        "more": {
+          "def": "In a way that is closely packed together.",
+          "examples": [
+            "The trees grew densely along the river.",
+            "The city is densely populated.",
+            "Fog lay densely over the valley."
           ]
         }
       }
@@ -3326,6 +4542,31 @@
             "I go to the dentist twice a year.",
             "The dentist told her to floss every night.",
             "My dentist said I had no cavities."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dentistry",
+    "say": "DEN-tis-tree",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Taking care of teeth.",
+          "examples": [
+            "She studies dentistry.",
+            "Dentistry is about teeth.",
+            "He loves dentistry."
+          ]
+        },
+        "more": {
+          "def": "The care and treatment of teeth.",
+          "examples": [
+            "She studies dentistry to become a dentist.",
+            "Dentistry keeps your teeth healthy.",
+            "He works in dentistry."
           ]
         }
       }
@@ -3565,6 +4806,31 @@
     ]
   },
   {
+    "word": "dependence",
+    "say": "dih-PEN-dunss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Needing something else.",
+          "examples": [
+            "The dependence on water.",
+            "Their dependence on farming.",
+            "Dependence on parents."
+          ]
+        },
+        "more": {
+          "def": "The state of needing help or support from someone or something.",
+          "examples": [
+            "A baby's dependence on its parents is great.",
+            "The town's dependence on farming was clear.",
+            "Our dependence on water is total."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "dependency",
     "say": "dih-PEN-dun-see",
     "forms": [
@@ -3642,6 +4908,119 @@
             "The painting depicts a ship sailing through a storm.",
             "The story depicts a girl who is brave and kind.",
             "The mural on the wall depicts the history of our town."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "depiction",
+    "say": "dih-PIK-shun",
+    "forms": [
+      "depictions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture or description of something.",
+          "examples": [
+            "A depiction of a horse.",
+            "The depiction was clear.",
+            "A painting is a depiction."
+          ]
+        },
+        "more": {
+          "def": "A picture or a description that shows what something is like.",
+          "examples": [
+            "The painting is a depiction of a farm.",
+            "The book gave a vivid depiction of life long ago.",
+            "The movie was an accurate depiction of the story."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deplete",
+    "say": "dih-PLEET",
+    "forms": [
+      "depletes",
+      "depleted",
+      "depleting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To use up almost all of something.",
+          "examples": [
+            "We depleted the supplies.",
+            "The big meal depleted the pantry.",
+            "The well was depleted."
+          ]
+        },
+        "more": {
+          "def": "To use up most of something so that little is left.",
+          "examples": [
+            "The long hike depleted his energy.",
+            "We depleted the food supplies.",
+            "The drought depleted the lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deplorable",
+    "say": "dih-PLOR-uh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very bad.",
+          "examples": [
+            "The state was deplorable.",
+            "A deplorable mess.",
+            "The deplorable roads."
+          ]
+        },
+        "more": {
+          "def": "Very bad and shameful; deserving blame.",
+          "examples": [
+            "The room was in a deplorable state.",
+            "The roads were in deplorable condition.",
+            "It was a deplorable mess."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deploy",
+    "say": "dih-PLOY",
+    "forms": [
+      "deploys",
+      "deployed",
+      "deploying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put into use or place.",
+          "examples": [
+            "We deploy the plan.",
+            "They deployed the net.",
+            "She deployed the team."
+          ]
+        },
+        "more": {
+          "def": "To spread out or put something into use in a planned way.",
+          "examples": [
+            "The rescue team deployed across the hillside.",
+            "The sailors deployed the sails.",
+            "The boy deployed his toy soldiers around the room."
           ]
         }
       }
@@ -3971,6 +5350,64 @@
     ]
   },
   {
+    "word": "derive",
+    "say": "dih-RYV",
+    "forms": [
+      "derives",
+      "derived",
+      "deriving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get something from a source.",
+          "examples": [
+            "We derive milk from cows.",
+            "Honey derives from bees.",
+            "Many words derive from Latin."
+          ]
+        },
+        "more": {
+          "def": "To get or come from a source.",
+          "examples": [
+            "We derive milk and cheese from cows.",
+            "Many English words derive from Latin.",
+            "She derives great joy from painting."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "derrick",
+    "say": "DAIR-ik",
+    "forms": [
+      "derricks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tall frame with a crane for lifting heavy things.",
+          "examples": [
+            "The derrick lifted the load.",
+            "A derrick is tall.",
+            "The derrick stood by the sea."
+          ]
+        },
+        "more": {
+          "def": "A tall machine used for lifting heavy things.",
+          "examples": [
+            "The derrick lifted the heavy load onto the ship.",
+            "An oil derrick towered above the field.",
+            "The derrick swung its long arm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "descend",
     "say": "dih-SEND",
     "forms": [
@@ -4109,6 +5546,31 @@
             "Write a description of your favorite toy.",
             "The police asked for a description of the missing dog.",
             "Her description of the beach made us want to visit."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "descriptive",
+    "say": "dih-SKRIP-tiv",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Telling what something is like.",
+          "examples": [
+            "A descriptive word.",
+            "The descriptive story.",
+            "A descriptive paragraph."
+          ]
+        },
+        "more": {
+          "def": "Giving a clear picture in words of what something is like.",
+          "examples": [
+            "Use descriptive words in your story.",
+            "The paragraph was very descriptive.",
+            "Her descriptive writing made us see the scene."
           ]
         }
       }
@@ -4254,6 +5716,36 @@
     ]
   },
   {
+    "word": "designate",
+    "say": "DEZ-ig-nayt",
+    "forms": [
+      "designates",
+      "designated",
+      "designating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pick someone or something for a job.",
+          "examples": [
+            "We designate a leader.",
+            "She designated a seat.",
+            "He designated the room."
+          ]
+        },
+        "more": {
+          "def": "To choose or name someone or something for a special purpose.",
+          "examples": [
+            "The teacher designated a leader for each team.",
+            "The park designated a spot for picnics.",
+            "The room was designated for art class."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "designer",
     "say": "dih-ZY-ner",
     "forms": [
@@ -4356,6 +5848,36 @@
     ]
   },
   {
+    "word": "desist",
+    "say": "dih-ZIST",
+    "forms": [
+      "desists",
+      "desisted",
+      "desisting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop doing something.",
+          "examples": [
+            "Please desist.",
+            "He desisted.",
+            "They desisted from fighting."
+          ]
+        },
+        "more": {
+          "def": "To stop doing something, especially when told.",
+          "examples": [
+            "The teacher told the class to desist.",
+            "He desisted when his mother called.",
+            "They desisted from teasing the cat."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "desk",
     "say": "desk",
     "emoji": "🪑",
@@ -4379,6 +5901,84 @@
             "Each student has a desk in the classroom.",
             "Dad does his work at a desk.",
             "The librarian sat behind the front desk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "desktop",
+    "say": "DESK-top",
+    "forms": [
+      "desktops"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The top of a desk, or a computer screen's main page.",
+          "examples": [
+            "Put it on the desktop.",
+            "My desktop is clean.",
+            "A desktop computer."
+          ]
+        },
+        "more": {
+          "def": "The top of a desk; or the main screen of a computer where files and icons are shown.",
+          "examples": [
+            "She put her notebook on the desktop.",
+            "The picture on my computer's desktop is a puppy.",
+            "He bought a desktop for his homework."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "desolate",
+    "say": "DES-uh-lit",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Empty and lonely.",
+          "examples": [
+            "The desert was desolate.",
+            "A desolate road went on.",
+            "The island was desolate."
+          ]
+        },
+        "more": {
+          "def": "Empty and lonely, with no people or life.",
+          "examples": [
+            "The desolate road stretched across miles of empty land.",
+            "The desert was desolate, with no sign of water.",
+            "The house stood desolate on the hill."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "desolation",
+    "say": "des-uh-LAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An empty, lonely place or feeling.",
+          "examples": [
+            "The desert was a desolation.",
+            "A feeling of desolation.",
+            "Desolation filled the land."
+          ]
+        },
+        "more": {
+          "def": "A state of being empty, lonely and bare, or great sadness.",
+          "examples": [
+            "The desert was a land of desolation.",
+            "After the fire, the forest was a scene of desolation.",
+            "She felt desolation when her friend moved away."
           ]
         }
       }
@@ -4409,6 +6009,31 @@
             "He felt despair when he lost his way.",
             "Despair filled the village after the long drought.",
             "The hikers felt despair as night fell."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "despairingly",
+    "say": "dih-SPAIR-ing-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that shows you have no hope.",
+          "examples": [
+            "He sighed despairingly.",
+            "She looked despairingly at the mess.",
+            "The boy wept despairingly."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows you have lost hope.",
+          "examples": [
+            "He sighed despairingly as the last bus drove away.",
+            "She looked despairingly at the heap of dishes.",
+            "The little boy gazed despairingly at his broken kite."
           ]
         }
       }
@@ -4499,6 +6124,36 @@
     ]
   },
   {
+    "word": "despise",
+    "say": "dih-SPYZ",
+    "forms": [
+      "despises",
+      "despised",
+      "despising"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hate something very much.",
+          "examples": [
+            "I despise spiders.",
+            "He despises being late.",
+            "She despised the smell."
+          ]
+        },
+        "more": {
+          "def": "To feel strong dislike for someone or something.",
+          "examples": [
+            "He despises the taste of cooked spinach.",
+            "The villain in the story despised the kind king.",
+            "She despises being cold and wet."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "despite",
     "say": "dih-SPYT",
     "senses": [
@@ -4518,6 +6173,31 @@
             "We went to the park despite the rain.",
             "He finished the race despite a sore foot.",
             "She smiled despite feeling tired."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "despondent",
+    "say": "dih-SPON-dunt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very sad and without hope.",
+          "examples": [
+            "A despondent boy.",
+            "The despondent puppy.",
+            "She was despondent."
+          ]
+        },
+        "more": {
+          "def": "Feeling very sad and hopeless.",
+          "examples": [
+            "The despondent boy sat on the step after the loss.",
+            "The puppy was despondent without its owner.",
+            "She was despondent about the broken toy."
           ]
         }
       }
@@ -4733,6 +6413,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "destructiveness",
+        "def": "Breaking things."
+      }
     ]
   },
   {
@@ -4819,6 +6505,36 @@
             "The map was so detailed that it showed every tree.",
             "She gave a detailed answer about how plants grow.",
             "He drew a detailed picture of the old castle."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "detain",
+    "say": "dih-TAYN",
+    "forms": [
+      "detains",
+      "detained",
+      "detaining"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone wait or stay.",
+          "examples": [
+            "Rain detained us.",
+            "I will not detain you.",
+            "The traffic detained him."
+          ]
+        },
+        "more": {
+          "def": "To keep someone from going on, making them wait or stay.",
+          "examples": [
+            "The heavy rain detained us for an hour.",
+            "I will not detain you any longer.",
+            "A long line detained the shoppers at the door."
           ]
         }
       }
@@ -4970,6 +6686,36 @@
     ]
   },
   {
+    "word": "deter",
+    "say": "dih-TER",
+    "forms": [
+      "deters",
+      "deterred",
+      "deterring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone not want to do something.",
+          "examples": [
+            "The sign deters us.",
+            "Rain did not deter them.",
+            "The dog deters thieves."
+          ]
+        },
+        "more": {
+          "def": "To discourage someone from doing something, often by making it seem hard or dangerous.",
+          "examples": [
+            "The high fence deters the deer from the garden.",
+            "Rain did not deter the hikers.",
+            "A loud alarm can deter a thief."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "detergent",
     "say": "dih-TER-junt",
     "forms": [
@@ -4992,6 +6738,36 @@
             "Mom poured detergent into the washing machine.",
             "The detergent smelled like lemons.",
             "Dish detergent made the sink full of bubbles."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "deteriorate",
+    "say": "dih-TEER-ee-uh-rayt",
+    "forms": [
+      "deteriorates",
+      "deteriorated",
+      "deteriorating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To go from good to bad.",
+          "examples": [
+            "The old house deteriorated.",
+            "The weather deteriorated.",
+            "The paint deteriorates."
+          ]
+        },
+        "more": {
+          "def": "To become worse over time.",
+          "examples": [
+            "The old barn deteriorated over the years.",
+            "The weather deteriorated in the afternoon.",
+            "The old book began to deteriorate."
           ]
         }
       }
@@ -5072,6 +6848,31 @@
             "Scientists determined how old the rock was.",
             "We will determine the winner by counting the votes.",
             "The coach determined who would play first."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "determinedly",
+    "say": "dih-TER-mind-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that shows you will not give up.",
+          "examples": [
+            "He walked determinedly.",
+            "She determinedly kept going.",
+            "The ant determinedly climbed."
+          ]
+        },
+        "more": {
+          "def": "In a firm way that shows you will not give up.",
+          "examples": [
+            "The little boy determinedly climbed the hill.",
+            "She determinedly practiced until she got it right.",
+            "The ant determinedly carried the crumb home."
           ]
         }
       }
@@ -5373,6 +7174,31 @@
     ]
   },
   {
+    "word": "developmental",
+    "say": "dih-vel-up-MEN-tul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About growing and changing.",
+          "examples": [
+            "A developmental stage.",
+            "The developmental phase.",
+            "Developmental growth."
+          ]
+        },
+        "more": {
+          "def": "Having to do with growth and change over time.",
+          "examples": [
+            "A baby goes through developmental stages.",
+            "The child is in a developmental phase.",
+            "She studied developmental changes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "device",
     "say": "dih-VYSS",
     "emoji": "📱",
@@ -5452,6 +7278,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "deviousness",
+        "def": "Being sneaky."
+      }
     ]
   },
   {
@@ -5479,6 +7311,31 @@
             "We devised a plan to wash the car and raise money for the club.",
             "The inventor devised a machine that could sort socks.",
             "She devised a clever way to carry all the books at once."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "devoid",
+    "say": "dih-VOYD",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Completely without.",
+          "examples": [
+            "The page is devoid of words.",
+            "A face devoid of joy.",
+            "Devoid of color."
+          ]
+        },
+        "more": {
+          "def": "Completely lacking in something.",
+          "examples": [
+            "The desert is devoid of trees.",
+            "The room was devoid of furniture.",
+            "His voice was devoid of any anger."
           ]
         }
       }
@@ -5542,6 +7399,12 @@
             "He is devoted to his music."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "devotedness",
+        "def": "Being loyal and loving."
       }
     ]
   },
@@ -5626,6 +7489,59 @@
             "The grass sparkled with morning dew in the sun.",
             "Dew forms on cool nights when the air is damp.",
             "A drop of dew hung on the spider's web."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dewdrop",
+    "say": "DOO-drop",
+    "forms": [
+      "dewdrops"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny drop of water on grass in the morning.",
+          "examples": [
+            "A dewdrop shone.",
+            "The dewdrop is tiny.",
+            "Dewdrops are on the grass."
+          ]
+        },
+        "more": {
+          "def": "A small drop of dew, the water that forms on grass overnight.",
+          "examples": [
+            "A dewdrop sparkled on the leaf.",
+            "Dewdrops covered the grass in the morning.",
+            "A dewdrop hung from the spiderweb."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "dexterity",
+    "say": "dek-STAIR-ih-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Skill with your hands.",
+          "examples": [
+            "She has dexterity.",
+            "He showed great dexterity.",
+            "Dexterity helps."
+          ]
+        },
+        "more": {
+          "def": "Skill and ease in using your hands.",
+          "examples": [
+            "The pianist showed great dexterity.",
+            "Juggling needs a lot of dexterity.",
+            "She wove the basket with dexterity."
           ]
         }
       }

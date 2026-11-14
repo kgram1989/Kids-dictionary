@@ -1,5 +1,30 @@
 [
   {
+    "word": "ill",
+    "say": "il",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not well.",
+          "examples": [
+            "I felt ill.",
+            "The ill puppy slept.",
+            "She stayed home when she was ill."
+          ]
+        },
+        "more": {
+          "def": "Sick, or not feeling well in your body.",
+          "examples": [
+            "He was ill with a cold and stayed in bed.",
+            "The nurse took care of the children who were ill.",
+            "Rest and water help when you are ill."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "illegal",
     "say": "ih-LEE-gul",
     "forms": [
@@ -22,6 +47,56 @@
             "It is illegal to drive without a license.",
             "Dumping trash in the river is illegal.",
             "Parking here is illegal because it blocks the road."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "illegible",
+    "say": "ih-LEJ-uh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Too messy to read.",
+          "examples": [
+            "The writing is illegible.",
+            "An illegible note.",
+            "The illegible sign."
+          ]
+        },
+        "more": {
+          "def": "Impossible or hard to read because it is messy or faded.",
+          "examples": [
+            "His handwriting was illegible.",
+            "The old sign was faded and illegible.",
+            "The illegible note could not be read."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "illiterate",
+    "say": "ih-LIT-er-it",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not able to read or write.",
+          "examples": [
+            "He was illiterate.",
+            "An illiterate person.",
+            "The illiterate boy learned."
+          ]
+        },
+        "more": {
+          "def": "Not able to read or write.",
+          "examples": [
+            "Many people long ago were illiterate.",
+            "The illiterate boy learned to read at last.",
+            "She taught the illiterate farmer his letters."
           ]
         }
       }
@@ -167,6 +242,34 @@
     ]
   },
   {
+    "word": "illusionist",
+    "say": "ih-LOO-zhun-ist",
+    "forms": [
+      "illusionists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who performs magic tricks.",
+          "examples": [
+            "The illusionist amazed us.",
+            "An illusionist does tricks.",
+            "The illusionist waved a wand."
+          ]
+        },
+        "more": {
+          "def": "A performer who does magic tricks that fool the eye.",
+          "examples": [
+            "The illusionist made the elephant disappear.",
+            "An illusionist can make things seem to float.",
+            "The illusionist amazed the audience."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "illustrate",
     "say": "IL-uh-strayt",
     "emoji": "🖍️",
@@ -226,6 +329,31 @@
             "The book has a colorful illustration on every page.",
             "She drew an illustration of a dragon for the story.",
             "The illustration shows how a plant grows."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "illustrious",
+    "say": "ih-LUS-tree-us",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Famous and respected.",
+          "examples": [
+            "She is illustrious.",
+            "An illustrious scientist.",
+            "The illustrious king."
+          ]
+        },
+        "more": {
+          "def": "Famous and admired for great achievements.",
+          "examples": [
+            "She was an illustrious scientist.",
+            "The king was an illustrious ruler.",
+            "An illustrious artist painted the portrait."
           ]
         }
       }

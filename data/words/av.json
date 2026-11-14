@@ -1,5 +1,35 @@
 [
   {
+    "word": "avail",
+    "say": "uh-VAYL",
+    "forms": [
+      "avails",
+      "availed",
+      "availing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To help or be of use.",
+          "examples": [
+            "It did not avail him.",
+            "Crying did not avail.",
+            "Nothing availed."
+          ]
+        },
+        "more": {
+          "def": "To help or be of use to someone.",
+          "examples": [
+            "He shouted, but it did not avail him.",
+            "No amount of begging availed.",
+            "Her cleverness availed her little in the end."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "availability",
     "say": "uh-vay-luh-BIL-ih-tee",
     "senses": [
@@ -21,6 +51,12 @@
             "The store's availability of toys is good."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "unavailability",
+        "def": "Not being able to get something."
       }
     ]
   },
@@ -72,6 +108,34 @@
             "An avalanche covered the road in the mountains.",
             "Skiers must be careful about the danger of an avalanche.",
             "The avalanche rumbled down the slope with a loud roar."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "avatar",
+    "say": "AV-uh-tar",
+    "forms": [
+      "avatars"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture that stands for you in a game.",
+          "examples": [
+            "My avatar is a cat.",
+            "I picked an avatar.",
+            "The avatar is a robot."
+          ]
+        },
+        "more": {
+          "def": "A picture or character that represents you in a game or online.",
+          "examples": [
+            "My avatar in the game is a little knight.",
+            "She chose a cat as her avatar.",
+            "You can change your avatar."
           ]
         }
       }
@@ -161,6 +225,59 @@
     ]
   },
   {
+    "word": "avian",
+    "say": "AY-vee-un",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About birds.",
+          "examples": [
+            "Avian flu.",
+            "An avian expert.",
+            "The avian world."
+          ]
+        },
+        "more": {
+          "def": "Having to do with birds.",
+          "examples": [
+            "An avian expert studies birds.",
+            "The zoo has an avian house.",
+            "The scientist studied avian habits."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "aviary",
+    "say": "AY-vee-air-ee",
+    "forms": [
+      "aviaries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big cage or building for birds.",
+          "examples": [
+            "We visited the aviary.",
+            "The aviary has parrots.",
+            "Birds fly in the aviary."
+          ]
+        },
+        "more": {
+          "def": "A large cage or building where birds are kept.",
+          "examples": [
+            "We watched colorful parrots in the aviary.",
+            "The zoo has an aviary full of tropical birds.",
+            "The aviary had trees inside for the birds to perch in."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "aviation",
     "say": "ay-vee-AY-shun",
     "senses": [
@@ -214,6 +331,31 @@
     ]
   },
   {
+    "word": "avid",
+    "say": "AV-id",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very excited about something.",
+          "examples": [
+            "He is an avid reader.",
+            "An avid fan.",
+            "She is avid about soccer."
+          ]
+        },
+        "more": {
+          "def": "Very eager and enthusiastic about something.",
+          "examples": [
+            "He is an avid reader who finishes a book a week.",
+            "She is an avid soccer fan.",
+            "The avid gardener planted flowers every spring."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "avocado",
     "say": "av-uh-KAH-doh",
     "emoji": "🥑",
@@ -244,6 +386,34 @@
     ]
   },
   {
+    "word": "avocet",
+    "say": "AV-uh-set",
+    "forms": [
+      "avocets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wading bird with a long, upturned bill.",
+          "examples": [
+            "An avocet is a bird.",
+            "The avocet has a long bill.",
+            "I saw an avocet."
+          ]
+        },
+        "more": {
+          "def": "A black-and-white wading bird with a long bill that curves upward.",
+          "examples": [
+            "An avocet waded in the shallow pond.",
+            "The avocet sweeps its bill from side to side.",
+            "An avocet has long legs and a curved bill."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "avoid",
     "say": "uh-VOYD",
     "forms": [
@@ -268,6 +438,31 @@
             "Avoid the puddle in the road.",
             "I avoided the busy street.",
             "He avoided the hot stove."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "avoidable",
+    "say": "uh-VOY-duh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to be avoided.",
+          "examples": [
+            "The mistake was avoidable.",
+            "An avoidable accident.",
+            "It was avoidable."
+          ]
+        },
+        "more": {
+          "def": "Able to be stopped or kept away from.",
+          "examples": [
+            "The accident was avoidable.",
+            "The mistake was easily avoidable.",
+            "Many colds are avoidable if you wash your hands."
           ]
         }
       }

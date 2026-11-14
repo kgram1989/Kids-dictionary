@@ -1,5 +1,35 @@
 [
   {
+    "word": "twang",
+    "say": "twang",
+    "forms": [
+      "twangs",
+      "twanged",
+      "twanging"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sound of a pulled string.",
+          "examples": [
+            "I heard a twang.",
+            "The string made a twang.",
+            "The guitar went twang."
+          ]
+        },
+        "more": {
+          "def": "A sharp, ringing sound like a stretched string being plucked.",
+          "examples": [
+            "The banjo string made a twang.",
+            "We heard a twang when the rubber band snapped.",
+            "The twang of the guitar rang out."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tweak",
     "say": "tweek",
     "forms": [
@@ -24,6 +54,31 @@
             "I tweaked my story to make the ending better.",
             "She tweaked the recipe by adding a little more cinnamon.",
             "The coach tweaked the plan before the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tweed",
+    "say": "tweed",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thick, rough cloth.",
+          "examples": [
+            "His jacket is tweed.",
+            "The coat is made of tweed.",
+            "Grandpa wears tweed."
+          ]
+        },
+        "more": {
+          "def": "A thick, rough woolen cloth, often with small flecks of color.",
+          "examples": [
+            "Grandpa wore a tweed jacket on cold days.",
+            "Tweed is warm, so it is used for winter coats.",
+            "The cap was made of brown tweed."
           ]
         }
       }
@@ -233,6 +288,36 @@
     ]
   },
   {
+    "word": "twiddle",
+    "say": "TWID-ul",
+    "forms": [
+      "twiddles",
+      "twiddled",
+      "twiddling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To twist something around with your fingers.",
+          "examples": [
+            "He twiddled his thumbs.",
+            "She twiddles her hair.",
+            "I twiddle my pencil."
+          ]
+        },
+        "more": {
+          "def": "To turn or twist something lightly with your fingers.",
+          "examples": [
+            "He twiddled his thumbs while waiting.",
+            "She twiddled the dial on the radio.",
+            "The boy twiddled a pencil as he thought."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "twig",
     "say": "twig",
     "forms": [
@@ -281,6 +366,31 @@
             "At twilight, the sky turned purple and the first stars appeared.",
             "Bats flew out of the cave as twilight settled over the valley.",
             "We walked home slowly in the twilight."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "twill",
+    "say": "twil",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong cloth with a pattern of lines.",
+          "examples": [
+            "The pants are twill.",
+            "Twill is strong.",
+            "The jacket is twill."
+          ]
+        },
+        "more": {
+          "def": "A strong cloth woven with a pattern of diagonal lines.",
+          "examples": [
+            "The jacket was made of sturdy cotton twill.",
+            "Twill is strong enough for work pants.",
+            "Look at the diagonal lines in the twill."
           ]
         }
       }
@@ -359,6 +469,34 @@
             "The vine twined around the post.",
             "Ivy twines up the wall.",
             "She twined the ribbon around the stick."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "twinge",
+    "say": "twinj",
+    "forms": [
+      "twinges"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sudden, short pain.",
+          "examples": [
+            "I felt a twinge in my knee.",
+            "A twinge hit my back.",
+            "There was a twinge in his tooth."
+          ]
+        },
+        "more": {
+          "def": "A sudden, sharp pain that lasts a moment, or a short feeling of worry.",
+          "examples": [
+            "He felt a twinge in his ankle as he ran.",
+            "She felt a twinge of worry before the test.",
+            "A twinge of sadness passed over him."
           ]
         }
       }
@@ -521,6 +659,10 @@
       {
         "word": "twisty",
         "def": "Full of twists and turns."
+      },
+      {
+        "word": "untwist",
+        "def": "To undo a twist."
       }
     ]
   },
@@ -631,6 +773,36 @@
     ]
   },
   {
+    "word": "twitter",
+    "say": "TWIT-er",
+    "forms": [
+      "twitters",
+      "twittered",
+      "twittering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make quick, light bird sounds.",
+          "examples": [
+            "Birds twitter in the tree.",
+            "The swallows twittered.",
+            "The birds twitter at dawn."
+          ]
+        },
+        "more": {
+          "def": "To make short, high, chirping sounds like a small bird.",
+          "examples": [
+            "Birds twittered in the trees at dawn.",
+            "The swallows twittered as they flew over the barn.",
+            "The children twittered with excitement before the show."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "two",
     "say": "too",
     "senses": [
@@ -650,6 +822,31 @@
             "A bicycle has two wheels.",
             "We saw two eagles circling over the canyon.",
             "The twins turned two on Tuesday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "twofold",
+    "say": "TOO-fohld",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Two times as much.",
+          "examples": [
+            "A twofold plan.",
+            "The twofold reason.",
+            "A twofold increase."
+          ]
+        },
+        "more": {
+          "def": "Having two parts, or twice as much.",
+          "examples": [
+            "The plan was twofold: save money and save time.",
+            "There was a twofold increase in sales.",
+            "Her reason was twofold."
           ]
         }
       }

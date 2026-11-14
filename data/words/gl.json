@@ -1,5 +1,30 @@
 [
   {
+    "word": "glacial",
+    "say": "GLAY-shul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very cold, or very slow.",
+          "examples": [
+            "The glacial water.",
+            "A glacial pace.",
+            "Glacial winds."
+          ]
+        },
+        "more": {
+          "def": "Extremely cold, or moving very slowly like a glacier.",
+          "examples": [
+            "We swam in the glacial water.",
+            "The traffic moved at a glacial pace.",
+            "Glacial winds blew across the ice."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "glacier",
     "say": "GLAY-sher",
     "forms": [
@@ -60,6 +85,36 @@
       {
         "word": "gladness",
         "def": "A glad, happy feeling."
+      }
+    ]
+  },
+  {
+    "word": "gladden",
+    "say": "GLAD-un",
+    "forms": [
+      "gladdens",
+      "gladdened",
+      "gladdening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone happy.",
+          "examples": [
+            "The news gladdened her.",
+            "A song gladdened us.",
+            "It gladdens my heart."
+          ]
+        },
+        "more": {
+          "def": "To make someone feel glad or happy.",
+          "examples": [
+            "The good news gladdened her.",
+            "A cheerful song gladdened the sad child.",
+            "It gladdens my heart to see you."
+          ]
+        }
       }
     ]
   },
@@ -340,8 +395,65 @@
     ],
     "related": [
       {
+        "word": "glassful",
+        "def": "As much as a glass can hold."
+      },
+      {
         "word": "glassy",
         "def": "Smooth and shiny like glass."
+      }
+    ]
+  },
+  {
+    "word": "glasshouse",
+    "say": "GLASS-howss",
+    "forms": [
+      "glasshouses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A building made of glass for growing plants.",
+          "examples": [
+            "We grow tomatoes in the glasshouse.",
+            "The glasshouse is warm.",
+            "Plants grow in the glasshouse."
+          ]
+        },
+        "more": {
+          "def": "A building with glass walls and roof, used for growing plants.",
+          "examples": [
+            "Tomatoes grew in the warm glasshouse.",
+            "The glasshouse trapped the sun's heat.",
+            "She watered the plants in the glasshouse."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "glassware",
+    "say": "GLASS-wair",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things made of glass.",
+          "examples": [
+            "She washed the glassware.",
+            "The glassware is clear.",
+            "Glassware breaks."
+          ]
+        },
+        "more": {
+          "def": "Cups and bowls of glass.",
+          "examples": [
+            "She washed the glassware by hand.",
+            "The glassware sparkled on the shelf.",
+            "Be careful with the glassware."
+          ]
+        }
       }
     ]
   },
@@ -416,6 +528,12 @@
             "We ate a glazed carrot with dinner."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "unglazed",
+        "def": "Without a shiny coating."
       }
     ]
   },
@@ -494,6 +612,36 @@
     ]
   },
   {
+    "word": "glean",
+    "say": "gleen",
+    "forms": [
+      "gleans",
+      "gleaned",
+      "gleaning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pick up bit by bit.",
+          "examples": [
+            "She gleaned the facts.",
+            "He gleaned the grain.",
+            "They glean information."
+          ]
+        },
+        "more": {
+          "def": "To gather information or facts bit by bit; or to pick up grain left after the harvest.",
+          "examples": [
+            "She gleaned a few facts from the old letter.",
+            "Farmers gleaned the leftover wheat.",
+            "He gleaned the answer from the clues."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "glee",
     "say": "glee",
     "senses": [
@@ -521,6 +669,59 @@
       {
         "word": "gleeful",
         "def": "Full of glee."
+      }
+    ]
+  },
+  {
+    "word": "gleefully",
+    "say": "GLEE-ful-ee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a very happy way.",
+          "examples": [
+            "The kids ran gleefully.",
+            "She gleefully clapped.",
+            "He gleefully jumped."
+          ]
+        },
+        "more": {
+          "def": "In a joyful way, often because something fun is happening.",
+          "examples": [
+            "The children gleefully splashed in the puddles.",
+            "She gleefully tore open the present.",
+            "The puppy gleefully chased the ball."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "glen",
+    "say": "glen",
+    "forms": [
+      "glens"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small valley between hills.",
+          "examples": [
+            "We walked through the glen.",
+            "The glen is green.",
+            "A stream ran in the glen."
+          ]
+        },
+        "more": {
+          "def": "A narrow valley, especially in Scotland or Ireland.",
+          "examples": [
+            "A stream ran through the quiet glen.",
+            "We hiked through a misty glen.",
+            "Deer grazed in the glen."
+          ]
+        }
       }
     ]
   },
@@ -741,6 +942,34 @@
     ]
   },
   {
+    "word": "glitch",
+    "say": "glich",
+    "forms": [
+      "glitches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small problem that stops something working.",
+          "examples": [
+            "There was a glitch in the game.",
+            "The glitch fixed itself.",
+            "A glitch stopped the clock."
+          ]
+        },
+        "more": {
+          "def": "A small problem or fault that stops something from working right.",
+          "examples": [
+            "A glitch in the game made the screen freeze.",
+            "A computer glitch made the lights flicker.",
+            "The glitch was easy to fix."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "glitter",
     "say": "GLIT-er",
     "forms": [
@@ -826,6 +1055,34 @@
     ]
   },
   {
+    "word": "glob",
+    "say": "glob",
+    "forms": [
+      "globs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small blob of wet or sticky stuff.",
+          "examples": [
+            "A glob of paint fell.",
+            "He dropped a glob of jam.",
+            "A glob of mud."
+          ]
+        },
+        "more": {
+          "def": "A small, thick, soft lump of something wet or sticky.",
+          "examples": [
+            "A glob of paint dripped from the brush.",
+            "He plopped a glob of jam on his toast.",
+            "A glob of mud splashed on my boot."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "global",
     "say": "GLOH-bul",
     "forms": [
@@ -883,6 +1140,59 @@
     ]
   },
   {
+    "word": "globular",
+    "say": "GLOB-yuh-ler",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Shaped like a globe or ball.",
+          "examples": [
+            "The lamp was globular.",
+            "A globular lamp.",
+            "The globular fruit."
+          ]
+        },
+        "more": {
+          "def": "Round like a ball.",
+          "examples": [
+            "The lamp had a globular shade.",
+            "The globular fruit hung from the branch.",
+            "The jar was globular."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "globule",
+    "say": "GLOB-yool",
+    "forms": [
+      "globules"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny round drop.",
+          "examples": [
+            "A globule of oil.",
+            "The globule rolled.",
+            "A globule of water."
+          ]
+        },
+        "more": {
+          "def": "A tiny round drop or ball of a liquid.",
+          "examples": [
+            "A globule of oil floated on the soup.",
+            "A globule of water shone on the leaf.",
+            "The mercury formed a silver globule."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "gloom",
     "say": "gloom",
     "senses": [
@@ -902,6 +1212,31 @@
             "We sat in the gloom of the cave.",
             "A sense of gloom settled over the rainy day.",
             "The gloom lifted when the sun came out."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gloomily",
+    "say": "GLOOM-ih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a sad and unhappy way.",
+          "examples": [
+            "He gloomily looked at the rain.",
+            "She gloomily sat down.",
+            "The boy gloomily left."
+          ]
+        },
+        "more": {
+          "def": "In a sad, dark or hopeless way.",
+          "examples": [
+            "He gloomily stared out at the rain.",
+            "She gloomily dragged her feet on the way to school.",
+            "The team gloomily left the field after losing."
           ]
         }
       }
@@ -934,6 +1269,12 @@
             "The sky was gloomy all week, with no sign of the sun."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "gloominess",
+        "def": "Being dark and sad."
       }
     ]
   },
@@ -1018,6 +1359,34 @@
             "The floor had a smooth gloss after it was polished.",
             "She put clear gloss on her lips.",
             "The car's gloss shone in the sunlight."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "glossary",
+    "say": "GLOS-uh-ree",
+    "forms": [
+      "glossaries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A list of words and their meanings.",
+          "examples": [
+            "Look in the glossary.",
+            "The glossary has words.",
+            "The glossary is at the back."
+          ]
+        },
+        "more": {
+          "def": "A list of difficult words and what they mean, usually at the back of a book.",
+          "examples": [
+            "I looked up the word in the glossary.",
+            "The book has a glossary at the back.",
+            "The glossary explains hard words."
           ]
         }
       }
@@ -1113,6 +1482,59 @@
     ]
   },
   {
+    "word": "glowworm",
+    "say": "GLOH-werm",
+    "forms": [
+      "glowworms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small bug that shines in the dark.",
+          "examples": [
+            "A glowworm glows.",
+            "The glowworm shines at night.",
+            "I saw a glowworm."
+          ]
+        },
+        "more": {
+          "def": "A small insect or larva that gives off a greenish light in the dark.",
+          "examples": [
+            "A glowworm glowed on the cave wall.",
+            "Glowworms give off a soft green light.",
+            "We saw glowworms in the cave."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "glucose",
+    "say": "GLOO-kohs",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sugar that gives your body energy.",
+          "examples": [
+            "Glucose is sugar.",
+            "The body uses glucose.",
+            "Fruit has glucose."
+          ]
+        },
+        "more": {
+          "def": "A simple sugar that is the main source of energy for living things.",
+          "examples": [
+            "Your body turns food into glucose.",
+            "Plants make glucose from sunlight.",
+            "Glucose gives your muscles energy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "glue",
     "say": "gloo",
     "forms": [
@@ -1162,6 +1584,35 @@
     ]
   },
   {
+    "word": "gluey",
+    "say": "GLOO-ee",
+    "forms": [
+      "gluier",
+      "gluiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sticky like glue.",
+          "examples": [
+            "The paste was gluey.",
+            "My fingers are gluey.",
+            "A gluey mess."
+          ]
+        },
+        "more": {
+          "def": "Sticky and thick.",
+          "examples": [
+            "The paste was gluey and hard to wash off.",
+            "My fingers were gluey after the craft.",
+            "The rice turned gluey."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "glum",
     "say": "glum",
     "forms": [
@@ -1185,6 +1636,84 @@
             "The glum boy sat alone at the table.",
             "She felt glum when the picnic was canceled.",
             "He was glum after losing the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "glumly",
+    "say": "GLUM-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a sad and quiet way.",
+          "examples": [
+            "He sat glumly.",
+            "She glumly watched the rain.",
+            "The boy glumly packed up."
+          ]
+        },
+        "more": {
+          "def": "In a gloomy, sad way, without talking much.",
+          "examples": [
+            "He sat glumly on the bench after losing.",
+            "She glumly watched the rain through the window.",
+            "The boy glumly packed up his toys."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gluten",
+    "say": "GLOO-tun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A protein found in wheat.",
+          "examples": [
+            "Bread has gluten.",
+            "Gluten is in wheat.",
+            "She avoids gluten."
+          ]
+        },
+        "more": {
+          "def": "A sticky protein found in wheat and some other grains.",
+          "examples": [
+            "Bread has gluten in it.",
+            "Some people cannot eat gluten.",
+            "The label said gluten-free."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "glyph",
+    "say": "GLIF",
+    "forms": [
+      "glyphs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A carved picture symbol.",
+          "examples": [
+            "A glyph is a symbol.",
+            "The wall had a glyph.",
+            "I drew a glyph."
+          ]
+        },
+        "more": {
+          "def": "A symbol or picture that stands for a sound or word, often carved in stone.",
+          "examples": [
+            "Ancient people carved a glyph into the stone.",
+            "The Maya wrote with glyphs.",
+            "Each glyph on the wall had a meaning."
           ]
         }
       }

@@ -31,6 +31,36 @@
     ]
   },
   {
+    "word": "goad",
+    "say": "gohd",
+    "forms": [
+      "goads",
+      "goaded",
+      "goading"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To push someone to do something.",
+          "examples": [
+            "They goaded him to jump.",
+            "She goaded the horse.",
+            "He goaded her."
+          ]
+        },
+        "more": {
+          "def": "To keep pushing or teasing someone until they do something.",
+          "examples": [
+            "The older boys goaded him into jumping off the wall.",
+            "The farmer goaded the oxen along the road.",
+            "She goaded her brother into racing her."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "goal",
     "say": "gohl",
     "emoji": "🥅",
@@ -56,6 +86,12 @@
             "He set a goal to save enough money for a bike."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "goalless",
+        "def": "Without any goals scored."
       }
     ]
   },
@@ -116,6 +152,34 @@
     ]
   },
   {
+    "word": "goalpost",
+    "say": "GOHL-pohst",
+    "forms": [
+      "goalposts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One of the two posts of a goal.",
+          "examples": [
+            "The ball hit the goalpost.",
+            "The goalpost is white.",
+            "He kicked it past the goalpost."
+          ]
+        },
+        "more": {
+          "def": "One of the two upright posts that form the sides of a goal.",
+          "examples": [
+            "The ball struck the goalpost and bounced away.",
+            "The players painted the goalposts white.",
+            "The goalie leaned against the goalpost."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "goat",
     "say": "goht",
     "emoji": "🐐",
@@ -139,6 +203,62 @@
             "The goat climbed to the top of the rock.",
             "We got milk from the goat.",
             "A baby goat is called a kid."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "goatee",
+    "say": "goh-TEE",
+    "forms": [
+      "goatees"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small pointed beard on the chin.",
+          "examples": [
+            "He has a goatee.",
+            "The goatee is gray.",
+            "A goatee is on the chin."
+          ]
+        },
+        "more": {
+          "def": "A small, pointed beard on a man's chin.",
+          "examples": [
+            "The magician had a pointed goatee.",
+            "He grew a gray goatee.",
+            "Dad trimmed his goatee."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "goatherd",
+    "say": "GOHT-herd",
+    "forms": [
+      "goatherds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who looks after goats.",
+          "examples": [
+            "The goatherd watched the goats.",
+            "A goatherd has many goats.",
+            "The goatherd led them."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to look after goats.",
+          "examples": [
+            "The goatherd led the goats up the mountain.",
+            "A goatherd milks the goats each day.",
+            "The goatherd whistled to his flock."
           ]
         }
       }
@@ -188,6 +308,31 @@
             "The turkey gobbled loudly as we walked past the pen.",
             "In the spring, wild turkeys gobble to call each other.",
             "We heard a turkey gobble in the woods early in the morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gobbledygook",
+    "say": "GOB-ul-dee-guuk",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Confusing language that makes no sense.",
+          "examples": [
+            "That's gobbledygook.",
+            "It was all gobbledygook.",
+            "The note was gobbledygook."
+          ]
+        },
+        "more": {
+          "def": "Confusing, silly or unclear language that is hard to understand.",
+          "examples": [
+            "The form was full of gobbledygook.",
+            "He spoke gobbledygook.",
+            "The instructions were pure gobbledygook."
           ]
         }
       }
@@ -488,6 +633,63 @@
     ]
   },
   {
+    "word": "goldenrod",
+    "say": "GOHL-dun-rod",
+    "forms": [
+      "goldenrods"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tall plant with yellow flowers.",
+          "examples": [
+            "The goldenrod is yellow.",
+            "Goldenrod blooms in fall.",
+            "I picked goldenrod."
+          ]
+        },
+        "more": {
+          "def": "A tall wildflower with clusters of tiny yellow flowers that blooms in late summer.",
+          "examples": [
+            "Goldenrod grew along the roadside.",
+            "The meadow was yellow with goldenrod.",
+            "Bees love goldenrod."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "goldfinch",
+    "say": "GOHLD-finch",
+    "emoji": "🐦",
+    "forms": [
+      "goldfinches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small yellow bird.",
+          "examples": [
+            "A goldfinch is yellow.",
+            "I saw a goldfinch.",
+            "The goldfinch sang."
+          ]
+        },
+        "more": {
+          "def": "A small songbird with bright yellow and black feathers.",
+          "examples": [
+            "A goldfinch perched on the thistle.",
+            "The goldfinch is bright yellow in summer.",
+            "Goldfinches eat seeds."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "goldfish",
     "say": "GOHLD-fish",
     "emoji": "🐠",
@@ -508,6 +710,62 @@
             "I feed my goldfish a few flakes of food each morning.",
             "Goldfish swam under the lily pads in the garden pond.",
             "Our class won a goldfish at the school fair."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "goldmine",
+    "say": "GOHLD-myn",
+    "forms": [
+      "goldmines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where gold is dug.",
+          "examples": [
+            "The goldmine was deep.",
+            "Miners work in a goldmine.",
+            "A goldmine is a place for gold."
+          ]
+        },
+        "more": {
+          "def": "A mine where gold is dug from the ground; or something that makes a lot of money.",
+          "examples": [
+            "Miners dug in the goldmine.",
+            "The old goldmine was deep.",
+            "The shop was a goldmine."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "goldsmith",
+    "say": "GOHLD-smith",
+    "forms": [
+      "goldsmiths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who makes things from gold.",
+          "examples": [
+            "The goldsmith smiled.",
+            "A goldsmith works with gold.",
+            "The goldsmith shaped the gold."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to make things from gold.",
+          "examples": [
+            "The goldsmith made a ring.",
+            "A goldsmith melts and shapes gold.",
+            "The goldsmith polished the necklace."
           ]
         }
       }
@@ -615,6 +873,34 @@
             "We rode a gondola down the canal in Venice.",
             "The gondola carried skiers up the mountain.",
             "A man rowed the gondola."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gong",
+    "say": "gong",
+    "forms": [
+      "gongs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big round metal plate that rings when hit.",
+          "examples": [
+            "He hit the gong.",
+            "The gong was loud.",
+            "A gong rang."
+          ]
+        },
+        "more": {
+          "def": "A large, round metal plate that makes a deep, ringing sound when it is hit.",
+          "examples": [
+            "The gong rang to start the show.",
+            "He struck the gong with a soft mallet.",
+            "The deep sound of the gong echoed through the hall."
           ]
         }
       }
@@ -1029,6 +1315,34 @@
     ]
   },
   {
+    "word": "googol",
+    "say": "GOO-gawl",
+    "forms": [
+      "googols"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A huge number, 1 followed by 100 zeros.",
+          "examples": [
+            "A googol is huge.",
+            "A googol is a big number.",
+            "It is a googol."
+          ]
+        },
+        "more": {
+          "def": "The number one followed by one hundred zeros.",
+          "examples": [
+            "A googol is a one with a hundred zeros.",
+            "The number googol is bigger than all the grains of sand.",
+            "A googol is far bigger than a million."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "goose",
     "say": "gooss",
     "emoji": "🪿",
@@ -1052,6 +1366,59 @@
             "The goose honked and flapped its wings.",
             "A flock of geese flew south in a V.",
             "The goose swam across the pond."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gooseberry",
+    "say": "GUUS-bair-ee",
+    "forms": [
+      "gooseberries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small green fruit that tastes sour.",
+          "examples": [
+            "I ate a gooseberry.",
+            "The gooseberry is green.",
+            "Gooseberries are sour."
+          ]
+        },
+        "more": {
+          "def": "A small, round, greenish berry that grows on a prickly bush and tastes tart.",
+          "examples": [
+            "Grandma made gooseberry jam.",
+            "The gooseberry bush had thorns.",
+            "We picked gooseberries for the pie."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gooseflesh",
+    "say": "GOOSS-flesh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Little bumps on your skin when cold or scared.",
+          "examples": [
+            "I got gooseflesh.",
+            "Cold gives gooseflesh.",
+            "The song gave me gooseflesh."
+          ]
+        },
+        "more": {
+          "def": "Small bumps that rise on your skin when you are cold, frightened or thrilled.",
+          "examples": [
+            "The cold wind gave me gooseflesh.",
+            "The scary story gave her gooseflesh.",
+            "The beautiful song gave us gooseflesh."
           ]
         }
       }
@@ -1192,6 +1559,31 @@
     ]
   },
   {
+    "word": "gorse",
+    "say": "GORS",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A prickly bush with yellow flowers.",
+          "examples": [
+            "Gorse is prickly.",
+            "The gorse has yellow flowers.",
+            "We saw gorse."
+          ]
+        },
+        "more": {
+          "def": "A thorny bush with bright yellow flowers that grows on wild open land.",
+          "examples": [
+            "Gorse bloomed yellow on the hillside.",
+            "The gorse pricked my leg.",
+            "Gorse is a prickly shrub."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "gosh",
     "say": "gosh",
     "senses": [
@@ -1211,6 +1603,63 @@
             "\"Gosh, that is a huge cake!\" said Mia.",
             "Gosh, I forgot my homework.",
             "\"Oh gosh,\" he said, \"it's already noon.\""
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "goshawk",
+    "say": "GOS-hawk",
+    "forms": [
+      "goshawks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big hawk that hunts in forests.",
+          "examples": [
+            "A goshawk is a hawk.",
+            "The goshawk hunts.",
+            "I saw a goshawk."
+          ]
+        },
+        "more": {
+          "def": "A large, fast hawk with short wings that hunts in forests.",
+          "examples": [
+            "A goshawk flew between the trees.",
+            "The goshawk hunts birds and squirrels.",
+            "A goshawk has gray feathers and a white stripe over its eye."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gosling",
+    "say": "GOZ-ling",
+    "emoji": "🐥",
+    "forms": [
+      "goslings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A baby goose.",
+          "examples": [
+            "A gosling followed its mother.",
+            "The gosling is fluffy.",
+            "We saw a gosling."
+          ]
+        },
+        "more": {
+          "def": "A young goose.",
+          "examples": [
+            "Six goslings followed their mother across the path.",
+            "The fluffy gosling waddled behind the goose.",
+            "A gosling grows its white feathers in a few months."
           ]
         }
       }
@@ -1245,6 +1694,31 @@
     ]
   },
   {
+    "word": "gossamer",
+    "say": "GOS-uh-mer",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Very light, fine, thin material.",
+          "examples": [
+            "The wings were gossamer.",
+            "Gossamer is thin.",
+            "A gossamer veil."
+          ]
+        },
+        "more": {
+          "def": "Something very light, thin and delicate, like a spider's thread.",
+          "examples": [
+            "The fairy wore wings of gossamer.",
+            "A gossamer thread hung from the branch.",
+            "The curtains were made of gossamer."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "gossip",
     "say": "GOS-ip",
     "forms": [
@@ -1269,6 +1743,81 @@
             "Do not listen to gossip about your friends.",
             "The gossip about the new girl was not true.",
             "Gossip can hurt people's feelings."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gossipy",
+    "say": "GOS-ih-pee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Fond of talking about other people.",
+          "examples": [
+            "A gossipy neighbor.",
+            "The gossipy girls.",
+            "She is gossipy."
+          ]
+        },
+        "more": {
+          "def": "Fond of talking about other people's private lives.",
+          "examples": [
+            "The gossipy neighbor knew everyone's news.",
+            "The girls were gossipy at lunch.",
+            "A gossipy note went around."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gothic",
+    "say": "GOTH-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Dark and spooky, like old castles.",
+          "examples": [
+            "A gothic castle.",
+            "The gothic church is tall.",
+            "It is a gothic story."
+          ]
+        },
+        "more": {
+          "def": "Describing an old style of building with tall pointed arches, or a dark and spooky story.",
+          "examples": [
+            "The gothic church had tall pointed windows.",
+            "She likes gothic stories about haunted castles.",
+            "A gothic building has pointed arches."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gouda",
+    "say": "GOO-duh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mild Dutch cheese.",
+          "examples": [
+            "Gouda is cheese.",
+            "I ate gouda.",
+            "The gouda is yellow."
+          ]
+        },
+        "more": {
+          "def": "A mild, yellow cheese that comes from the Netherlands.",
+          "examples": [
+            "We had gouda on our sandwiches.",
+            "Gouda is a smooth Dutch cheese.",
+            "He sliced the gouda for the snack plate."
           ]
         }
       }
@@ -1380,6 +1929,34 @@
             "The mayor and the council govern our town.",
             "The king governed the land wisely for many years.",
             "Rules govern how the game is played."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "governess",
+    "say": "GUV-er-ness",
+    "forms": [
+      "governesses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A woman who taught children at their home, long ago.",
+          "examples": [
+            "The governess taught the girls.",
+            "A governess lived with them.",
+            "The governess read to the child."
+          ]
+        },
+        "more": {
+          "def": "A woman who was paid to live in a family's home and teach their children, especially in the past.",
+          "examples": [
+            "The governess taught the children reading and math at home.",
+            "In the old story, the governess lived with the family in the big house.",
+            "The governess took the children for a walk each afternoon."
           ]
         }
       }

@@ -222,6 +222,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "frameless",
+        "def": "Without a frame."
+      }
     ]
   },
   {
@@ -247,6 +253,124 @@
             "Workers built the framework of the house first.",
             "The framework of the bridge is made of steel.",
             "Rules are the framework of a game."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "franc",
+    "say": "frangk",
+    "forms": [
+      "francs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money used in some countries.",
+          "examples": [
+            "It cost one franc.",
+            "He had a franc.",
+            "A franc is a coin."
+          ]
+        },
+        "more": {
+          "def": "A unit of money used in some countries, such as Switzerland.",
+          "examples": [
+            "The book cost five francs.",
+            "In Switzerland, people use the franc.",
+            "She counted her francs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "franchise",
+    "say": "FRAN-chyz",
+    "forms": [
+      "franchises"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shop that uses the name of a big company.",
+          "examples": [
+            "The store is a franchise.",
+            "A franchise sells things.",
+            "He owns a franchise."
+          ]
+        },
+        "more": {
+          "def": "A business that has permission to use the name and way of doing business of a larger company.",
+          "examples": [
+            "He owns a pizza franchise.",
+            "The restaurant is a franchise of a big chain.",
+            "A franchise sells the same food as the main company."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frank",
+    "say": "frangk",
+    "forms": [
+      "frankly"
+    ],
+    "related": [
+      {
+        "word": "frankness",
+        "def": "The way of saying what you really think."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Saying what you really think.",
+          "examples": [
+            "She gave me a frank answer.",
+            "Be frank with me.",
+            "He was frank about the broken vase."
+          ]
+        },
+        "more": {
+          "def": "Honest and open in what you say, even when it is hard to hear.",
+          "examples": [
+            "The coach gave a frank talk about how the team could improve.",
+            "Please be frank and tell me what you think of my drawing.",
+            "She was frank about being nervous before the show."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frankfurter",
+    "say": "FRANGK-fer-ter",
+    "forms": [
+      "frankfurters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long sausage in a bun.",
+          "examples": [
+            "I ate a frankfurter.",
+            "A frankfurter goes in a bun.",
+            "The frankfurter is hot."
+          ]
+        },
+        "more": {
+          "def": "A kind of hot dog.",
+          "examples": [
+            "I ate a frankfurter at the game.",
+            "A frankfurter is often eaten in a bun.",
+            "She put mustard on the frankfurter."
           ]
         }
       }
@@ -356,6 +480,80 @@
     ]
   },
   {
+    "word": "fraught",
+    "say": "frawt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Full of worry or trouble.",
+          "examples": [
+            "The trip was fraught with problems.",
+            "A fraught moment.",
+            "The fraught day."
+          ]
+        },
+        "more": {
+          "def": "Filled with something unpleasant, such as worry or danger.",
+          "examples": [
+            "The trip was fraught with delays.",
+            "It was a fraught moment before the test.",
+            "The road was fraught with danger."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fray",
+    "say": "fray",
+    "forms": [
+      "frays",
+      "frayed",
+      "fraying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To wear at the edge so bits hang out.",
+          "examples": [
+            "The rope frayed.",
+            "My jeans fray at the ends.",
+            "The old rug is fraying."
+          ]
+        },
+        "more": {
+          "def": "To wear away at the edge so that loose threads show.",
+          "examples": [
+            "The edge of the old rug began to fray.",
+            "His sleeve frayed after many years of wear.",
+            "The rope frayed where it rubbed against the rock."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fight or noisy contest.",
+          "examples": [
+            "He joined the fray.",
+            "The fray was loud.",
+            "The kids jumped into the fray."
+          ]
+        },
+        "more": {
+          "def": "A noisy fight or hard contest.",
+          "examples": [
+            "The dog ran into the fray at the playground.",
+            "She stayed out of the fray and watched.",
+            "The two teams joined the fray at the tug-of-war."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "frayed",
     "say": "frayd",
     "senses": [
@@ -375,6 +573,31 @@
             "The rope was frayed and needed replacing.",
             "He wore a jacket with frayed sleeves.",
             "The old flag's edges were frayed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frazzled",
+    "say": "FRAZ-uld",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Tired and nervous.",
+          "examples": [
+            "Mom felt frazzled.",
+            "The frazzled teacher sighed.",
+            "He looked frazzled."
+          ]
+        },
+        "more": {
+          "def": "Feeling tired and nervous because you have too much to do.",
+          "examples": [
+            "Mom felt frazzled after the busy day.",
+            "The frazzled teacher took a deep breath.",
+            "He looked frazzled after the long trip."
           ]
         }
       }
@@ -555,6 +778,31 @@
     ]
   },
   {
+    "word": "freehand",
+    "say": "FREE-hand",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Drawn without a ruler.",
+          "examples": [
+            "A freehand drawing.",
+            "She drew freehand.",
+            "He drew a circle freehand."
+          ]
+        },
+        "more": {
+          "def": "Drawn by hand without using a ruler or other tool.",
+          "examples": [
+            "She drew a freehand circle on the board.",
+            "He sketched the tree freehand.",
+            "A freehand line is not perfectly straight."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "freely",
     "say": "FREE-lee",
     "senses": [
@@ -574,6 +822,31 @@
             "The birds fly freely in the sky.",
             "She spoke freely about her day.",
             "The river flowed freely after the dam opened."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "freestyle",
+    "say": "FREE-styl",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A swimming stroke or sport where you choose your own moves.",
+          "examples": [
+            "She swam freestyle.",
+            "He does freestyle skiing.",
+            "Freestyle is fun."
+          ]
+        },
+        "more": {
+          "def": "A way of doing a sport in which you can choose your own style, such as a swimming stroke or ski tricks.",
+          "examples": [
+            "She won the freestyle race in the pool.",
+            "He competes in freestyle skiing.",
+            "Freestyle lets you choose your own moves."
           ]
         }
       }
@@ -896,6 +1169,35 @@
     ]
   },
   {
+    "word": "fresco",
+    "say": "FRES-koh",
+    "forms": [
+      "frescoes",
+      "frescos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A painting done on a wet wall.",
+          "examples": [
+            "The fresco is on the wall.",
+            "A fresco is a wall painting.",
+            "We saw a fresco."
+          ]
+        },
+        "more": {
+          "def": "A painting made on a freshly plastered wall, so the paint becomes part of the wall.",
+          "examples": [
+            "The church had a fresco on its ceiling.",
+            "The artist painted a fresco of angels.",
+            "We admired the old fresco."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fresh",
     "say": "fresh",
     "forms": [
@@ -1132,6 +1434,37 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "fretless",
+        "def": "Without frets."
+      }
+    ]
+  },
+  {
+    "word": "fretful",
+    "say": "FRET-ful",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Worried and unhappy.",
+          "examples": [
+            "The baby was fretful.",
+            "A fretful child.",
+            "The fretful puppy whined."
+          ]
+        },
+        "more": {
+          "def": "Worried, restless and easily upset.",
+          "examples": [
+            "The fretful baby cried all night.",
+            "A fretful child clung to her mother.",
+            "The puppy was fretful during the storm."
+          ]
+        }
+      }
     ]
   },
   {
@@ -1184,6 +1517,12 @@
             "There is little friction on slick ice, so skates glide easily."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "frictionless",
+        "def": "Without friction."
       }
     ]
   },
@@ -1364,6 +1703,34 @@
     ]
   },
   {
+    "word": "frigate",
+    "say": "FRIG-it",
+    "forms": [
+      "frigates"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An old warship with sails.",
+          "examples": [
+            "The frigate sailed.",
+            "A frigate was a ship.",
+            "The frigate had sails."
+          ]
+        },
+        "more": {
+          "def": "A fast, medium-sized sailing warship of the past.",
+          "examples": [
+            "The frigate sailed across the sea.",
+            "A frigate was faster than a large warship.",
+            "The old frigate is now a museum."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fright",
     "say": "fryt",
     "forms": [
@@ -1473,6 +1840,31 @@
     ]
   },
   {
+    "word": "frighteningly",
+    "say": "FRY-tun-ing-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a scary way.",
+          "examples": [
+            "It was frighteningly dark.",
+            "The dog barked frighteningly.",
+            "The cliff was frighteningly high."
+          ]
+        },
+        "more": {
+          "def": "In a way that makes you feel afraid.",
+          "examples": [
+            "It was frighteningly dark in the cave.",
+            "The storm came frighteningly fast.",
+            "The dog barked frighteningly loud."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "frightful",
     "say": "FRYTE-ful",
     "senses": [
@@ -1498,6 +1890,31 @@
     ]
   },
   {
+    "word": "frightfully",
+    "say": "FRYT-ful-ee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Very much.",
+          "examples": [
+            "It was frightfully cold.",
+            "She was frightfully tired.",
+            "The room was frightfully hot."
+          ]
+        },
+        "more": {
+          "def": "Extremely; very much.",
+          "examples": [
+            "It was frightfully cold on the mountain.",
+            "She felt frightfully tired after the long walk.",
+            "The old house was frightfully dusty."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "frigid",
     "say": "FRIJ-id",
     "senses": [
@@ -1517,6 +1934,34 @@
             "The frigid wind made our faces sting.",
             "We jumped out of the frigid water at once.",
             "The frigid air froze the puddles overnight."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frill",
+    "say": "fril",
+    "forms": [
+      "frills"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A frilly edge on a dress or curtain.",
+          "examples": [
+            "The dress had a frill.",
+            "The frill was pink.",
+            "A frill is on the sleeve."
+          ]
+        },
+        "more": {
+          "def": "A strip of cloth that is gathered and sewn on as a decoration.",
+          "examples": [
+            "The dress had a pretty pink frill at the hem.",
+            "She sewed a frill on the pillow.",
+            "The curtain had a white frill along the bottom."
           ]
         }
       }
@@ -1610,6 +2055,63 @@
     ]
   },
   {
+    "word": "frisky",
+    "say": "FRIS-kee",
+    "forms": [
+      "friskier",
+      "friskiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Lively and playful.",
+          "examples": [
+            "The puppy is frisky.",
+            "A frisky kitten.",
+            "The frisky colt."
+          ]
+        },
+        "more": {
+          "def": "Lively, playful and full of energy.",
+          "examples": [
+            "The frisky puppy chased its tail.",
+            "The kitten was frisky after its nap.",
+            "The frisky colt kicked up its heels."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frittata",
+    "say": "frih-TAH-tuh",
+    "forms": [
+      "frittatas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An Italian egg dish like a thick omelet.",
+          "examples": [
+            "We ate a frittata.",
+            "A frittata has eggs.",
+            "The frittata is warm."
+          ]
+        },
+        "more": {
+          "def": "An Italian egg dish, like a thick omelet, cooked with vegetables or cheese.",
+          "examples": [
+            "We had a vegetable frittata for brunch.",
+            "A frittata is made from eggs and veggies.",
+            "She cut the frittata into wedges."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "frivolous",
     "say": "FRIV-uh-lus",
     "senses": [
@@ -1629,6 +2131,65 @@
             "She spent her pocket money on frivolous toys.",
             "It seemed frivolous to buy a hat for the cat.",
             "The meeting was too serious for frivolous jokes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frizz",
+    "say": "friz",
+    "forms": [
+      "frizzes",
+      "frizzed",
+      "frizzing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Very curly hair that sticks out.",
+          "examples": [
+            "Her hair is frizz.",
+            "Frizz is messy hair.",
+            "The humid air gave her frizz."
+          ]
+        },
+        "more": {
+          "def": "Hair that is very curly and stands out in a fluffy mass.",
+          "examples": [
+            "The damp air gave her hair frizz.",
+            "She smoothed her frizz with a brush.",
+            "Frizz sprang from his head."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frizzy",
+    "say": "FRIZ-ee",
+    "forms": [
+      "frizzier",
+      "frizziest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Dry and curly in a messy way.",
+          "examples": [
+            "Her hair is frizzy.",
+            "The frizzy hair.",
+            "A frizzy wig."
+          ]
+        },
+        "more": {
+          "def": "Tightly curled in a dry, fluffy way.",
+          "examples": [
+            "Her hair gets frizzy in damp weather.",
+            "The clown wore a frizzy wig.",
+            "The frizzy hair stuck out in all directions."
           ]
         }
       }
@@ -1772,6 +2333,34 @@
     ]
   },
   {
+    "word": "frond",
+    "say": "frond",
+    "forms": [
+      "fronds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big leaf of a palm tree.",
+          "examples": [
+            "The palm has fronds.",
+            "The fern frond is green.",
+            "A frond waved."
+          ]
+        },
+        "more": {
+          "def": "The large leaf of a fern or palm tree.",
+          "examples": [
+            "Palm fronds waved in the warm breeze.",
+            "A fern frond unrolled in the spring.",
+            "Fronds of the giant fern hung over the path."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "front",
     "say": "frunt",
     "forms": [
@@ -1841,6 +2430,63 @@
             "The pioneers moved to the western frontier.",
             "Life on the frontier was hard but exciting.",
             "Space is sometimes called the final frontier."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frontiersman",
+    "say": "frun-TEERZ-mun",
+    "forms": [
+      "frontiersmen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man who lived in the wild lands at the edge of settlement.",
+          "examples": [
+            "The frontiersman built a cabin.",
+            "A frontiersman lived in the wild.",
+            "The frontiersman hunted."
+          ]
+        },
+        "more": {
+          "def": "A man who lived in the wild country at the edge of a settled land, especially in the past.",
+          "examples": [
+            "The frontiersman built a log cabin.",
+            "A frontiersman had to be tough.",
+            "The frontiersman explored the wilderness."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frost",
+    "say": "frawst",
+    "emoji": "🥶",
+    "forms": [
+      "frosts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin white layer of ice on cold things.",
+          "examples": [
+            "There is frost on the grass.",
+            "Frost covered the window.",
+            "I saw frost in the morning."
+          ]
+        },
+        "more": {
+          "def": "A thin, white layer of tiny ice crystals that forms on surfaces when the air is very cold.",
+          "examples": [
+            "Frost sparkled on the grass in the early morning.",
+            "The first frost of the year killed the flowers.",
+            "We scraped the frost off the car windows."
           ]
         }
       }
@@ -2108,6 +2754,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "fruitless",
+        "def": "Without any fruit; of no use."
+      }
     ]
   },
   {
@@ -2161,6 +2813,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "unfruitful",
+        "def": "Not producing good results."
+      }
     ]
   },
   {
@@ -2187,6 +2845,36 @@
             "The soap had a sweet, fruity smell.",
             "I like fruity tea with peach and berry.",
             "The fruity candy tasted like strawberries."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "frustrate",
+    "say": "FRUS-trayt",
+    "forms": [
+      "frustrates",
+      "frustrated",
+      "frustrating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make someone cross because they cannot do something.",
+          "examples": [
+            "The puzzle frustrated me.",
+            "It frustrates him.",
+            "Delays frustrate us."
+          ]
+        },
+        "more": {
+          "def": "To make someone feel upset or annoyed because they cannot do or get what they want.",
+          "examples": [
+            "The tricky puzzle frustrated me.",
+            "Slow internet frustrates her.",
+            "The long wait frustrated the travelers."
           ]
         }
       }

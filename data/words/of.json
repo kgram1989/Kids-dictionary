@@ -50,6 +50,31 @@
     ]
   },
   {
+    "word": "offbeat",
+    "say": "of-BEET",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Unusual and different.",
+          "examples": [
+            "An offbeat idea.",
+            "The offbeat hat.",
+            "An offbeat joke."
+          ]
+        },
+        "more": {
+          "def": "Unusual and different from what most people expect.",
+          "examples": [
+            "She told an offbeat joke.",
+            "He wore an offbeat hat.",
+            "The offbeat cafe had odd chairs."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "offend",
     "say": "uh-FEND",
     "forms": [
@@ -199,6 +224,31 @@
             "We accepted her offer to walk the dog.",
             "The shop made an offer: buy one, get one free.",
             "Thank you for your kind offer of help."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "offhand",
+    "say": "of-HAND",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Said without much thought.",
+          "examples": [
+            "It was an offhand remark.",
+            "An offhand answer.",
+            "He was offhand."
+          ]
+        },
+        "more": {
+          "def": "Said or done casually without much thought.",
+          "examples": [
+            "It was just an offhand remark.",
+            "He gave an offhand answer.",
+            "She was offhand about the prize."
           ]
         }
       }
@@ -356,6 +406,67 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "unofficially",
+        "def": "Not in an official way."
+      }
+    ]
+  },
+  {
+    "word": "officiate",
+    "say": "uh-FISH-ee-ayt",
+    "forms": [
+      "officiates",
+      "officiated",
+      "officiating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be the judge of a game.",
+          "examples": [
+            "He will officiate the game.",
+            "A referee officiates.",
+            "She officiated."
+          ]
+        },
+        "more": {
+          "def": "To act as the referee or leader of a game or ceremony.",
+          "examples": [
+            "He will officiate the soccer game.",
+            "A referee officiates and makes sure rules are followed.",
+            "She officiated the race."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "offline",
+    "say": "OF-lyn",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not connected to the internet.",
+          "examples": [
+            "My computer is offline.",
+            "The game is offline.",
+            "I am offline."
+          ]
+        },
+        "more": {
+          "def": "Not connected to a computer network or the internet.",
+          "examples": [
+            "My tablet is offline.",
+            "You can play the game when you are offline.",
+            "The website is offline for repairs."
+          ]
+        }
+      }
     ]
   },
   {
@@ -397,6 +508,31 @@
             "The ship anchored offshore until the storm passed.",
             "Whales swim offshore, far from the beach.",
             "The fishing boat went two miles offshore."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "offside",
+    "say": "of-SYD",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "In a place where you are not allowed to be in some sports.",
+          "examples": [
+            "The player was offside.",
+            "It was offside.",
+            "The goal was offside."
+          ]
+        },
+        "more": {
+          "def": "In sports like soccer, standing in a place where the rules do not let you be when the ball is passed.",
+          "examples": [
+            "The goal did not count because the player was offside.",
+            "The referee called him offside.",
+            "She was offside when she received the pass."
           ]
         }
       }

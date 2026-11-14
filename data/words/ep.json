@@ -1,5 +1,30 @@
 [
   {
+    "word": "ephemeral",
+    "say": "ih-FEM-er-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Lasting a very short time.",
+          "examples": [
+            "Ephemeral joy.",
+            "An ephemeral flower.",
+            "The ephemeral beauty."
+          ]
+        },
+        "more": {
+          "def": "Lasting for only a very short time.",
+          "examples": [
+            "The ephemeral flower bloomed for just a day.",
+            "Rainbows are ephemeral.",
+            "The snowman was an ephemeral work of art."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "epic",
     "say": "EP-ik",
     "forms": [
@@ -47,6 +72,90 @@
     ]
   },
   {
+    "word": "epicenter",
+    "say": "EP-ih-sen-ter",
+    "forms": [
+      "epicenters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The spot on the ground above an earthquake.",
+          "examples": [
+            "The epicenter is on the ground.",
+            "Find the epicenter.",
+            "The epicenter was near the town."
+          ]
+        },
+        "more": {
+          "def": "The point on the Earth's surface directly above where an earthquake begins.",
+          "examples": [
+            "The epicenter of the earthquake was near the town.",
+            "The shaking was strongest at the epicenter.",
+            "Scientists found the epicenter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "epidemic",
+    "say": "ep-ih-DEM-ik",
+    "forms": [
+      "epidemics"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When a sickness spreads to many people.",
+          "examples": [
+            "A flu epidemic hit the town.",
+            "The epidemic spread fast.",
+            "The epidemic ended."
+          ]
+        },
+        "more": {
+          "def": "A time when a sickness spreads quickly to many people.",
+          "examples": [
+            "A flu epidemic closed the schools for a week.",
+            "Doctors worked hard to stop the epidemic.",
+            "The epidemic ended when the weather warmed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "epilogue",
+    "say": "EP-ih-log",
+    "forms": [
+      "epilogues"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short part at the end of a story.",
+          "examples": [
+            "The epilogue is short.",
+            "Read the epilogue.",
+            "The epilogue told what happened."
+          ]
+        },
+        "more": {
+          "def": "A short section at the end of a book or play that tells what happened afterward.",
+          "examples": [
+            "The epilogue told us what happened to the heroes years later.",
+            "She read the epilogue first.",
+            "The play ended with a short epilogue."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "episode",
     "say": "EP-ih-sohd",
     "forms": [
@@ -69,6 +178,59 @@
             "We watched a new episode of the show.",
             "The last episode ended with a surprise.",
             "Each episode is thirty minutes long."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "epitome",
+    "say": "ih-PIT-uh-mee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A perfect example of something.",
+          "examples": [
+            "She is the epitome of joy.",
+            "The epitome of speed.",
+            "He is the epitome of calm."
+          ]
+        },
+        "more": {
+          "def": "A perfect example of a quality or type.",
+          "examples": [
+            "She is the epitome of kindness.",
+            "The cheetah is the epitome of speed.",
+            "He was the epitome of calm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "epoch",
+    "say": "EP-uk",
+    "forms": [
+      "epochs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long period of time.",
+          "examples": [
+            "An epoch is long.",
+            "The dinosaur epoch.",
+            "It was a new epoch."
+          ]
+        },
+        "more": {
+          "def": "A long period of time in history, marked by important events or changes.",
+          "examples": [
+            "The ice age was an epoch in Earth's history.",
+            "The invention of the car began a new epoch.",
+            "The epoch lasted thousands of years."
           ]
         }
       }

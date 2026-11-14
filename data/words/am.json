@@ -1,5 +1,35 @@
 [
   {
+    "word": "amass",
+    "say": "uh-MASS",
+    "forms": [
+      "amasses",
+      "amassed",
+      "amassing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To gather a large amount.",
+          "examples": [
+            "She amassed a big collection.",
+            "He amassed money.",
+            "They amassed supplies."
+          ]
+        },
+        "more": {
+          "def": "To gather or collect a large amount of something.",
+          "examples": [
+            "She amassed a large collection of shells.",
+            "The team amassed many points.",
+            "The squirrel amassed a huge pile of nuts."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "amateur",
     "say": "AM-uh-cher",
     "forms": [
@@ -24,6 +54,12 @@
             "The amateurs and professionals played on the same field."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "amateurish",
+        "def": "Not very skilled."
       }
     ]
   },
@@ -134,6 +170,31 @@
     ]
   },
   {
+    "word": "amazingly",
+    "say": "uh-MAY-zing-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that is very surprising.",
+          "examples": [
+            "The bird sang amazingly well.",
+            "He jumped amazingly high.",
+            "She ran amazingly fast."
+          ]
+        },
+        "more": {
+          "def": "In a way that is so great or surprising that you feel amazed.",
+          "examples": [
+            "The little girl danced amazingly well.",
+            "He amazingly escaped without a scratch.",
+            "The cake tasted amazingly good."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ambassador",
     "say": "am-BAS-uh-der",
     "forms": [
@@ -206,6 +267,56 @@
     ]
   },
   {
+    "word": "ambidextrous",
+    "say": "am-bih-DEK-strus",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to use both hands well.",
+          "examples": [
+            "She is ambidextrous.",
+            "He is ambidextrous and writes with both hands.",
+            "An ambidextrous kid."
+          ]
+        },
+        "more": {
+          "def": "Able to use the left hand and the right hand equally well.",
+          "examples": [
+            "She is ambidextrous and can write with both hands.",
+            "An ambidextrous player can throw with either arm.",
+            "Being ambidextrous helps in basketball."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ambient",
+    "say": "AM-bee-unt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "All around you.",
+          "examples": [
+            "Ambient light fills the room.",
+            "The ambient noise is low.",
+            "The ambient air is cool."
+          ]
+        },
+        "more": {
+          "def": "Existing all around you in the surroundings.",
+          "examples": [
+            "The ambient light in the room was soft.",
+            "Ambient noise filled the cafe.",
+            "The ambient temperature was cool."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ambition",
     "say": "am-BISH-un",
     "forms": [
@@ -253,6 +364,67 @@
             "She is an ambitious student who wants to be a scientist.",
             "The class had an ambitious plan to build a whole model city.",
             "He is ambitious and practices for hours every day."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unambitious",
+        "def": "Not eager to do great things."
+      }
+    ]
+  },
+  {
+    "word": "amble",
+    "say": "AM-bul",
+    "forms": [
+      "ambles",
+      "ambled",
+      "ambling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To walk in a slow, easy way.",
+          "examples": [
+            "We ambled home.",
+            "The cow ambles along.",
+            "They ambled to the park."
+          ]
+        },
+        "more": {
+          "def": "To walk slowly and easily, with no hurry.",
+          "examples": [
+            "We ambled along the beach and looked for shells.",
+            "The cows ambled across the field.",
+            "Grandpa ambled down the road with his dog."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ambrosia",
+    "say": "am-BROH-zhuh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Food from old stories that made people live forever.",
+          "examples": [
+            "The gods ate ambrosia.",
+            "Ambrosia is sweet.",
+            "He tasted ambrosia."
+          ]
+        },
+        "more": {
+          "def": "In old myths, the food of the gods; also anything that tastes wonderful.",
+          "examples": [
+            "In Greek myths, the gods ate ambrosia.",
+            "The peach pie tasted like ambrosia.",
+            "The fruit salad was pure ambrosia."
           ]
         }
       }
@@ -371,6 +543,60 @@
     ]
   },
   {
+    "word": "amethyst",
+    "say": "AM-uh-thist",
+    "emoji": "💎",
+    "forms": [
+      "amethysts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A purple jewel.",
+          "examples": [
+            "The ring has an amethyst.",
+            "An amethyst is purple.",
+            "She found an amethyst."
+          ]
+        },
+        "more": {
+          "def": "A clear purple stone that is used in jewelry.",
+          "examples": [
+            "The necklace had a large amethyst in the middle.",
+            "The amethyst sparkled in the light.",
+            "Amethysts grow inside rocks as clusters of purple crystals."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "amiable",
+    "say": "AY-mee-uh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Friendly and pleasant.",
+          "examples": [
+            "He is an amiable man.",
+            "An amiable dog.",
+            "The amiable neighbor."
+          ]
+        },
+        "more": {
+          "def": "Friendly, kind and easy to get along with.",
+          "examples": [
+            "The amiable neighbor waved to everyone.",
+            "He is an amiable dog who loves visitors.",
+            "She gave an amiable smile."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "amid",
     "say": "uh-MID",
     "forms": [
@@ -418,6 +644,31 @@
             "The cat slept amidst a pile of pillows.",
             "We played amidst the tall trees.",
             "Amidst the noise of the crowd, he found his friend."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "amiss",
+    "say": "uh-MISS",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wrong.",
+          "examples": [
+            "Something is amiss.",
+            "Nothing was amiss.",
+            "I felt something amiss."
+          ]
+        },
+        "more": {
+          "def": "Not right; wrong in some way.",
+          "examples": [
+            "The dog sensed that something was amiss.",
+            "Nothing seemed amiss when we got home.",
+            "She felt something was amiss when the lights were off."
           ]
         }
       }
@@ -552,6 +803,62 @@
     ]
   },
   {
+    "word": "amp",
+    "say": "AMP",
+    "forms": [
+      "amps"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that makes sound louder.",
+          "examples": [
+            "The guitar needs an amp.",
+            "An amp makes sound loud.",
+            "Turn up the amp."
+          ]
+        },
+        "more": {
+          "def": "A device that makes sound louder, short for amplifier.",
+          "examples": [
+            "He plugged his guitar into the amp.",
+            "An amp makes the music louder.",
+            "Turn the amp down."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ampersand",
+    "say": "AM-per-sand",
+    "forms": [
+      "ampersands"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sign & that means \"and\".",
+          "examples": [
+            "The ampersand means and.",
+            "An ampersand is a sign.",
+            "Write an ampersand."
+          ]
+        },
+        "more": {
+          "def": "The symbol & that stands for the word \"and.\"",
+          "examples": [
+            "The ampersand stands for \"and.\"",
+            "Write an ampersand between the names.",
+            "Use an ampersand to write \"Tom & Jerry.\""
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "amphibian",
     "say": "am-FIB-ee-un",
     "forms": [
@@ -599,6 +906,145 @@
             "Frogs are amphibious, so they can live in water and on land.",
             "The amphibious truck drove into the lake.",
             "An amphibious plane can land on a lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "amphitheater",
+    "say": "AM-fuh-thee-uh-ter",
+    "forms": [
+      "amphitheaters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big round place with seats in a circle for shows.",
+          "examples": [
+            "We went to the amphitheater.",
+            "An amphitheater has seats.",
+            "The amphitheater is round."
+          ]
+        },
+        "more": {
+          "def": "A large, open building with a round or oval stage and seats rising around it.",
+          "examples": [
+            "We watched a play at the amphitheater.",
+            "The Roman amphitheater held thousands of people.",
+            "Seats rose in rows around the amphitheater."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ample",
+    "say": "AM-pul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "More than enough.",
+          "examples": [
+            "We have ample food.",
+            "There is ample room.",
+            "She had ample time."
+          ]
+        },
+        "more": {
+          "def": "Enough or more than enough.",
+          "examples": [
+            "We had ample food for the picnic.",
+            "There was ample room for everyone in the van.",
+            "She arrived with ample time to spare."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "amplifier",
+    "say": "AM-pluh-fy-er",
+    "forms": [
+      "amplifiers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that makes sound louder.",
+          "examples": [
+            "The amplifier is loud.",
+            "An amplifier makes sound big.",
+            "Plug into the amplifier."
+          ]
+        },
+        "more": {
+          "def": "A device that makes a sound or signal stronger and louder.",
+          "examples": [
+            "The guitar was plugged into an amplifier.",
+            "An amplifier makes the music louder.",
+            "The amplifier buzzed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "amplify",
+    "say": "AM-pluh-fy",
+    "forms": [
+      "amplifies",
+      "amplified",
+      "amplifying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make louder or bigger.",
+          "examples": [
+            "The speaker amplifies sound.",
+            "The microphone amplified her voice.",
+            "The cave amplified the echo."
+          ]
+        },
+        "more": {
+          "def": "To make something louder or stronger.",
+          "examples": [
+            "The speaker amplified the singer's voice.",
+            "The big room amplified the sound of the drums.",
+            "The microphone amplified her whisper so everyone could hear."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "amulet",
+    "say": "AM-yuh-lit",
+    "forms": [
+      "amulets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A lucky charm that people wear.",
+          "examples": [
+            "She wore an amulet.",
+            "The amulet was gold.",
+            "He kept an amulet."
+          ]
+        },
+        "more": {
+          "def": "A small object worn as a charm to bring luck or protect from harm.",
+          "examples": [
+            "She wore an amulet around her neck.",
+            "In the story, the amulet glowed with magic.",
+            "The explorer carried a lucky amulet."
           ]
         }
       }

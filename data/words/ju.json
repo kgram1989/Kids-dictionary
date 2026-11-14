@@ -1,5 +1,30 @@
 [
   {
+    "word": "jubilant",
+    "say": "JOO-bih-lunt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very happy because of a win.",
+          "examples": [
+            "The jubilant fans cheered.",
+            "She was jubilant.",
+            "The team was jubilant."
+          ]
+        },
+        "more": {
+          "def": "Feeling and showing great joy, especially after success.",
+          "examples": [
+            "The jubilant fans cheered when their team won.",
+            "She was jubilant after finishing the race.",
+            "The jubilant children danced in the rain."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "jubilee",
     "say": "JOO-bih-lee",
     "forms": [
@@ -112,6 +137,56 @@
     ]
   },
   {
+    "word": "judicious",
+    "say": "joo-DISH-us",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Showing good sense.",
+          "examples": [
+            "A judicious choice.",
+            "The judicious teacher.",
+            "She was judicious."
+          ]
+        },
+        "more": {
+          "def": "Showing good sense and sound judgment.",
+          "examples": [
+            "She made a judicious choice.",
+            "The judicious teacher solved the argument.",
+            "It was judicious to bring a coat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "judo",
+    "say": "JOO-doh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sport where two people try to throw each other.",
+          "examples": [
+            "He does judo.",
+            "Judo is a sport.",
+            "She wears a white suit for judo."
+          ]
+        },
+        "more": {
+          "def": "A sport in which two people try to throw each other to the ground, using balance and skill.",
+          "examples": [
+            "She takes judo lessons.",
+            "Judo teaches balance and respect.",
+            "He wore a white uniform for judo."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "jug",
     "say": "jug",
     "forms": [
@@ -136,6 +211,12 @@
             "We filled the jug with fresh lemonade for the picnic."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "jugful",
+        "def": "As much as a jug holds."
       }
     ]
   },
@@ -547,6 +628,34 @@
     ]
   },
   {
+    "word": "junction",
+    "say": "JUNK-shun",
+    "forms": [
+      "junctions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where roads or tracks meet.",
+          "examples": [
+            "We stopped at the junction.",
+            "The roads meet at a junction.",
+            "The train stopped at the junction."
+          ]
+        },
+        "more": {
+          "def": "A place where two or more roads, tracks or paths join.",
+          "examples": [
+            "The bus turned left at the junction.",
+            "Several train lines meet at a busy junction.",
+            "A sign at the junction pointed to the lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "June",
     "say": "joon",
     "emoji": "📅",
@@ -630,6 +739,34 @@
     ]
   },
   {
+    "word": "juniper",
+    "say": "JOO-nih-per",
+    "forms": [
+      "junipers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small green bush with blue fruit.",
+          "examples": [
+            "A juniper grew on the hill.",
+            "The juniper stays green.",
+            "Birds eat juniper berries."
+          ]
+        },
+        "more": {
+          "def": "An evergreen bush or small tree with needle-like leaves and small blue berries.",
+          "examples": [
+            "A juniper grew near the rocky edge of the cliff.",
+            "Birds feed on juniper berries in winter.",
+            "Junipers stay green all year, even in snow."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "junk",
     "say": "junk",
     "senses": [
@@ -677,6 +814,56 @@
             "The old truck ended up in the junkyard with rows of other broken cars.",
             "Dad found a part for our bicycle at the junkyard.",
             "The junkyard was full of rusty metal and old tires."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "Jupiter",
+    "say": "JOO-pih-ter",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The biggest planet in our solar system.",
+          "examples": [
+            "Jupiter is a giant planet.",
+            "Jupiter is the biggest planet.",
+            "Jupiter is far from the sun."
+          ]
+        },
+        "more": {
+          "def": "The largest planet in our solar system, fifth from the sun.",
+          "examples": [
+            "Jupiter is the biggest planet.",
+            "Jupiter has a giant red spot.",
+            "Jupiter has dozens of moons."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "Jurassic",
+    "say": "joo-RAS-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "From the time of dinosaurs long ago.",
+          "examples": [
+            "The Jurassic period.",
+            "Jurassic dinosaurs were big.",
+            "It is a Jurassic fossil."
+          ]
+        },
+        "more": {
+          "def": "Describing the time about 150 million years ago when many large dinosaurs lived.",
+          "examples": [
+            "Many dinosaurs lived in the Jurassic period.",
+            "We saw a Jurassic fossil at the museum.",
+            "The Jurassic age had giant plant eaters."
           ]
         }
       }
@@ -818,6 +1005,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "unjustifiable",
+        "def": "Having no good reason."
+      }
     ]
   },
   {
@@ -873,6 +1066,120 @@
             "I cannot justify taking the last cookie without asking.",
             "She justified her answer with facts.",
             "The scientist justified the test with a clear reason."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "justly",
+    "say": "JUST-lee",
+    "related": [
+      {
+        "word": "unjustly",
+        "def": "In an unfair way."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a fair way.",
+          "examples": [
+            "He was justly rewarded.",
+            "She acted justly.",
+            "The prize was justly won."
+          ]
+        },
+        "more": {
+          "def": "In a fair and right way.",
+          "examples": [
+            "The winner was justly rewarded.",
+            "The judge acted justly.",
+            "She was justly proud."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "jut",
+    "say": "jut",
+    "forms": [
+      "juts",
+      "jutted",
+      "jutting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stick out.",
+          "examples": [
+            "A rock juts out.",
+            "The branch jutted from the wall.",
+            "The dock juts into the lake."
+          ]
+        },
+        "more": {
+          "def": "To stick out farther than the things around it.",
+          "examples": [
+            "A rocky point juts out into the sea.",
+            "The balcony juts out over the garden.",
+            "A shelf jutted from the wall and I bumped my head."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "jute",
+    "say": "joot",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A plant fiber used to make rope and sacks.",
+          "examples": [
+            "Jute makes rope.",
+            "The sack is jute.",
+            "Jute is strong."
+          ]
+        },
+        "more": {
+          "def": "A strong fiber from a plant, used to make rope and sacks.",
+          "examples": [
+            "The sack was made of jute.",
+            "Jute is used to make rope.",
+            "The rug was woven from jute."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "juvenile",
+    "say": "JOO-vuh-nyl",
+    "forms": [
+      "juveniles"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Young, or like a child.",
+          "examples": [
+            "A juvenile bird.",
+            "The juvenile eagle.",
+            "Juvenile fish."
+          ]
+        },
+        "more": {
+          "def": "Young, or having to do with young people; also, silly and childish.",
+          "examples": [
+            "The juvenile eagle has darker feathers than an adult.",
+            "Juvenile fish swim in the shallow water.",
+            "The shop sold juvenile books."
           ]
         }
       }

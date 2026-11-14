@@ -29,6 +29,34 @@
     ]
   },
   {
+    "word": "teabag",
+    "say": "TEE-bag",
+    "forms": [
+      "teabags"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small bag of tea leaves for making tea.",
+          "examples": [
+            "I put a teabag in the cup.",
+            "The teabag is wet.",
+            "A teabag makes tea."
+          ]
+        },
+        "more": {
+          "def": "A small paper bag of tea leaves that you put in hot water.",
+          "examples": [
+            "Dad dropped a teabag into the cup.",
+            "The teabag left a brown stain.",
+            "Remove the teabag after three minutes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "teach",
     "say": "teech",
     "emoji": "👩‍🏫",
@@ -139,6 +167,87 @@
             "Grandma poured tea into a flowered teacup.",
             "The teacup was so small it held just a few sips.",
             "The teacup rattled on its saucer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "teahouse",
+    "say": "TEE-howss",
+    "forms": [
+      "teahouses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place that serves tea.",
+          "examples": [
+            "We went to a teahouse.",
+            "The teahouse is quiet.",
+            "The teahouse serves tea."
+          ]
+        },
+        "more": {
+          "def": "A place where tea and light food are served.",
+          "examples": [
+            "We had tea in a quiet teahouse.",
+            "The teahouse had paper lanterns.",
+            "A small teahouse stood by the river."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "teak",
+    "say": "TEEK",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong tree and its hard wood.",
+          "examples": [
+            "Teak is hard wood.",
+            "The table is teak.",
+            "Teak is strong."
+          ]
+        },
+        "more": {
+          "def": "A tall tropical tree with hard, strong wood that is used for furniture and boats.",
+          "examples": [
+            "The deck was made of teak.",
+            "Teak is hard wood that lasts a long time.",
+            "We have a teak table."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "teakettle",
+    "say": "TEE-ket-ul",
+    "forms": [
+      "teakettles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pot for boiling water.",
+          "examples": [
+            "The teakettle whistles.",
+            "Water is in the teakettle.",
+            "The teakettle is hot."
+          ]
+        },
+        "more": {
+          "def": "A kettle used for boiling water to make tea.",
+          "examples": [
+            "The teakettle whistled on the stove.",
+            "She filled the teakettle with water.",
+            "Steam rose from the teakettle."
           ]
         }
       }
@@ -347,6 +456,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "tearless",
+        "def": "Without tears."
+      }
     ]
   },
   {
@@ -403,6 +518,88 @@
     ]
   },
   {
+    "word": "tearfully",
+    "say": "TEER-ful-ee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a sad way, with tears.",
+          "examples": [
+            "She said goodbye tearfully.",
+            "He tearfully waved.",
+            "The girl told it tearfully."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows you are crying or about to cry.",
+          "examples": [
+            "She tearfully said goodbye to her friend.",
+            "He tearfully hugged his puppy.",
+            "The girl tearfully told her mom what happened."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tearoom",
+    "say": "TEE-room",
+    "forms": [
+      "tearooms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small restaurant that serves tea.",
+          "examples": [
+            "We went to a tearoom.",
+            "The tearoom is cozy.",
+            "The tearoom serves cake."
+          ]
+        },
+        "more": {
+          "def": "A small restaurant where tea, coffee and light food are served.",
+          "examples": [
+            "We had tea and cake in the tearoom.",
+            "The tearoom was cozy and warm.",
+            "A pretty tearoom stood by the river."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "teary",
+    "say": "TEER-ee",
+    "forms": [
+      "tearier",
+      "teariest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "With tears in your eyes.",
+          "examples": [
+            "Her eyes were teary.",
+            "He felt teary.",
+            "A teary goodbye."
+          ]
+        },
+        "more": {
+          "def": "Having tears in your eyes, or feeling like crying.",
+          "examples": [
+            "Her eyes were teary when she said goodbye.",
+            "The teary child hugged her mom.",
+            "The onion made me teary."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tease",
     "say": "teez",
     "forms": [
@@ -427,6 +624,31 @@
             "My brother teased me about my new haircut.",
             "It is not nice to tease someone who is shy.",
             "Friends tease each other, but they should stop if someone is hurt."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "teasingly",
+    "say": "TEE-zing-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a playful way.",
+          "examples": [
+            "She grinned teasingly.",
+            "He said it teasingly.",
+            "They laughed teasingly."
+          ]
+        },
+        "more": {
+          "def": "In a playful way that is meant to tease, not to hurt.",
+          "examples": [
+            "She grinned teasingly and hid his hat.",
+            "He called her name teasingly.",
+            "They sang teasingly."
           ]
         }
       }
@@ -652,6 +874,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "tediousness",
+        "def": "Being boring and long."
+      }
     ]
   },
   {
@@ -677,6 +905,36 @@
             "He placed the golf ball on a tee and swung the club.",
             "The batter hit the ball off a tee at practice.",
             "She wore a bright blue tee and shorts."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "teem",
+    "say": "teem",
+    "forms": [
+      "teems",
+      "teemed",
+      "teeming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be full of living things.",
+          "examples": [
+            "The pond teems with fish.",
+            "The garden teemed with bees.",
+            "The street teemed with people."
+          ]
+        },
+        "more": {
+          "def": "To be full of many living things moving about.",
+          "examples": [
+            "The pond teemed with tiny fish.",
+            "The streets teemed with shoppers at the holidays.",
+            "The reef teems with colorful creatures."
           ]
         }
       }
@@ -856,6 +1114,64 @@
     ]
   },
   {
+    "word": "teepee",
+    "say": "TEE-pee",
+    "forms": [
+      "teepees"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cone-shaped tent made of poles and skins.",
+          "examples": [
+            "The family lived in a teepee.",
+            "A teepee is a tent.",
+            "The teepee is tall."
+          ]
+        },
+        "more": {
+          "def": "A cone-shaped tent made of poles and covered with animal skins or canvas, used by some Native American peoples.",
+          "examples": [
+            "The family set up a teepee on the plains.",
+            "A teepee is shaped like a cone.",
+            "Smoke rose from the top of the teepee."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "teeter",
+    "say": "TEE-ter",
+    "forms": [
+      "teeters",
+      "teetered",
+      "teetering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rock back and forth as if about to fall.",
+          "examples": [
+            "The cup teetered.",
+            "He teetered on the log.",
+            "The books teetered."
+          ]
+        },
+        "more": {
+          "def": "To rock or wobble as if about to fall.",
+          "examples": [
+            "The tall stack of books teetered and fell.",
+            "He teetered on the edge of the log.",
+            "The cup teetered on the edge of the table."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "teething",
     "say": "TEE-thing",
     "senses": [
@@ -938,6 +1254,109 @@
     ]
   },
   {
+    "word": "telekinesis",
+    "say": "tel-uh-kih-NEE-sis",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Moving things with your mind, in stories.",
+          "examples": [
+            "She had telekinesis.",
+            "Telekinesis moves things.",
+            "The hero used telekinesis."
+          ]
+        },
+        "more": {
+          "def": "The imagined power to move objects using only the mind.",
+          "examples": [
+            "In the story, she used telekinesis to lift the book.",
+            "Telekinesis is a power in many stories.",
+            "He moved the cup with telekinesis."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "telemetry",
+    "say": "tuh-LEM-ih-tree",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Information sent back from far away by machines.",
+          "examples": [
+            "The rover sent telemetry.",
+            "Telemetry is data.",
+            "The probe sends telemetry."
+          ]
+        },
+        "more": {
+          "def": "Data that is measured far away and sent back by radio to scientists.",
+          "examples": [
+            "The space probe sent telemetry to Earth.",
+            "Telemetry showed the rocket was working.",
+            "Scientists studied the telemetry from the rover."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "telepath",
+    "say": "TEL-uh-path",
+    "forms": [
+      "telepaths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who can read minds.",
+          "examples": [
+            "The telepath read minds.",
+            "A telepath is in the story.",
+            "The telepath knew."
+          ]
+        },
+        "more": {
+          "def": "A person in stories who can know what others are thinking without being told.",
+          "examples": [
+            "In the story, the telepath knew what everyone was thinking.",
+            "A telepath can send thoughts without speaking.",
+            "The telepath read the child's mind."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "telepathy",
+    "say": "tuh-LEP-uh-thee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Reading minds.",
+          "examples": [
+            "They talked by telepathy.",
+            "Telepathy is mind reading.",
+            "She used telepathy."
+          ]
+        },
+        "more": {
+          "def": "The ability to know what another person is thinking without being told.",
+          "examples": [
+            "In the story, they spoke by telepathy.",
+            "Telepathy lets you read minds.",
+            "The twins seemed to share telepathy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "telephone",
     "say": "TEL-uh-fohn",
     "emoji": "☎️",
@@ -997,6 +1416,31 @@
     ]
   },
   {
+    "word": "teleportation",
+    "say": "tel-ih-por-TAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Moving to another place in a flash, in stories.",
+          "examples": [
+            "Teleportation is magic.",
+            "He used teleportation.",
+            "Teleportation is fast."
+          ]
+        },
+        "more": {
+          "def": "The imagined act of moving yourself instantly from one place to another.",
+          "examples": [
+            "In the story, the hero used teleportation.",
+            "Teleportation is a power in many stories.",
+            "She wished for teleportation to get home."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "telescope",
     "say": "TEL-uh-skohp",
     "emoji": "🔭",
@@ -1020,6 +1464,36 @@
             "Through the telescope, we could see the rings of Saturn.",
             "The sailor spotted land through his telescope.",
             "A huge telescope on the mountain studies distant stars."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "televise",
+    "say": "TEL-uh-vyz",
+    "forms": [
+      "televises",
+      "televised",
+      "televising"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To show on television.",
+          "examples": [
+            "They televise the game.",
+            "The parade was televised.",
+            "They televised it."
+          ]
+        },
+        "more": {
+          "def": "To broadcast something on television.",
+          "examples": [
+            "They will televise the game tonight.",
+            "The parade was televised live.",
+            "The speech was televised."
           ]
         }
       }
@@ -1138,6 +1612,34 @@
     ]
   },
   {
+    "word": "telltale",
+    "say": "TEL-tayl",
+    "forms": [
+      "telltales"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Giving away a secret.",
+          "examples": [
+            "The crumbs were a telltale sign.",
+            "A telltale smile.",
+            "A telltale footprint."
+          ]
+        },
+        "more": {
+          "def": "Showing or giving away something that was meant to be hidden.",
+          "examples": [
+            "The crumbs on his face were a telltale sign.",
+            "A telltale footprint led to the garden gate.",
+            "Her blush was a telltale sign she was shy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "temper",
     "say": "TEM-per",
     "forms": [
@@ -1219,6 +1721,31 @@
     ]
   },
   {
+    "word": "temperate",
+    "say": "TEM-per-it",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not too hot and not too cold.",
+          "examples": [
+            "A temperate place.",
+            "The weather is temperate.",
+            "It is a temperate climate."
+          ]
+        },
+        "more": {
+          "def": "Having a mild climate, neither very hot nor very cold.",
+          "examples": [
+            "The island has a temperate climate.",
+            "Temperate places have four seasons.",
+            "We enjoyed the temperate weather."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "temperature",
     "say": "TEM-per-uh-cher",
     "emoji": "🌡️",
@@ -1242,6 +1769,87 @@
             "The temperature dropped below freezing, and the pond turned to ice.",
             "Bake the cake at a low temperature.",
             "The temperature of the ocean is rising."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tempest",
+    "say": "TEM-pist",
+    "forms": [
+      "tempests"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very strong storm with wind.",
+          "examples": [
+            "The tempest hit the boat.",
+            "A tempest blew the trees.",
+            "The tempest was loud."
+          ]
+        },
+        "more": {
+          "def": "A wild, violent storm with strong wind and often rain.",
+          "examples": [
+            "The sailors held on tight as the tempest rocked their ship.",
+            "A tempest tore leaves from the trees all night.",
+            "After the tempest passed, the sea was calm again."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tempestuous",
+    "say": "tem-PES-choo-us",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Stormy and wild.",
+          "examples": [
+            "A tempestuous sea.",
+            "The tempestuous night.",
+            "A tempestuous wind."
+          ]
+        },
+        "more": {
+          "def": "Very stormy and violent, or full of strong feelings.",
+          "examples": [
+            "The tempestuous sea tossed the boat.",
+            "It was a tempestuous night of wind and rain.",
+            "They had a tempestuous argument."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "template",
+    "say": "TEM-plit",
+    "forms": [
+      "templates"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shape or pattern you copy again and again.",
+          "examples": [
+            "Use a template.",
+            "The template is a guide.",
+            "Trace the template."
+          ]
+        },
+        "more": {
+          "def": "A pattern or model that is used as a guide to make copies.",
+          "examples": [
+            "Trace the shape with a template.",
+            "She used a template to cut out the stars.",
+            "The computer has a template for a flyer."
           ]
         }
       }
@@ -1487,6 +2095,56 @@
     ]
   },
   {
+    "word": "tenacious",
+    "say": "tuh-NAY-shus",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Holding on and not giving up.",
+          "examples": [
+            "A tenacious dog.",
+            "The tenacious boy.",
+            "She is tenacious."
+          ]
+        },
+        "more": {
+          "def": "Holding on firmly and not giving up.",
+          "examples": [
+            "The tenacious dog would not let go of the stick.",
+            "She is tenacious and finishes what she starts.",
+            "The tenacious vine clung to the wall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tenacity",
+    "say": "tuh-NASS-ih-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Not giving up.",
+          "examples": [
+            "She showed tenacity.",
+            "His tenacity paid off.",
+            "The dog's tenacity."
+          ]
+        },
+        "more": {
+          "def": "The quality of holding on firmly and not giving up.",
+          "examples": [
+            "The climber showed great tenacity.",
+            "His tenacity helped him finish the race.",
+            "The dog's tenacity kept it digging."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tenant",
     "say": "TEN-unt",
     "forms": [
@@ -1539,6 +2197,34 @@
             "The farmer tends the sheep.",
             "She tends the garden every morning.",
             "Cats tend to sleep a lot."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tendency",
+    "say": "TEN-dun-see",
+    "forms": [
+      "tendencies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way something often acts.",
+          "examples": [
+            "The cat has a tendency to hide.",
+            "He has a tendency to talk.",
+            "The tendency is to nap."
+          ]
+        },
+        "more": {
+          "def": "A habit or likelihood of acting in a certain way.",
+          "examples": [
+            "The cat has a tendency to hide under the bed.",
+            "He has a tendency to forget his lunch.",
+            "There is a tendency for the river to flood in spring."
           ]
         }
       }
@@ -1682,6 +2368,34 @@
     ]
   },
   {
+    "word": "tendril",
+    "say": "TEN-drul",
+    "forms": [
+      "tendrils"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin, curly part of a climbing plant.",
+          "examples": [
+            "The bean plant has a tendril.",
+            "A tendril grabbed the fence.",
+            "The tendril curled."
+          ]
+        },
+        "more": {
+          "def": "A thin, curly stem that a climbing plant uses to hold on to things.",
+          "examples": [
+            "The sweet pea sent out a tendril that curled around the string.",
+            "Tendrils of the vine wrapped around the fence.",
+            "A tendril of hair curled by her ear."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tennis",
     "say": "TEN-iss",
     "emoji": "🎾",
@@ -1702,6 +2416,34 @@
             "I play tennis on Saturdays.",
             "The tennis ball bounced over the net.",
             "They won the tennis match."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tenor",
+    "say": "TEN-er",
+    "forms": [
+      "tenors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man's high singing voice.",
+          "examples": [
+            "The tenor sang.",
+            "A tenor has a high voice.",
+            "He is a tenor."
+          ]
+        },
+        "more": {
+          "def": "The highest kind of normal adult male singing voice, or a man who sings with it.",
+          "examples": [
+            "The tenor sang a high note.",
+            "He sings tenor in the choir.",
+            "The tenors hit the high notes."
           ]
         }
       }
@@ -1750,6 +2492,31 @@
             "\"Walked\" is the past tense of \"walk.\"",
             "Write the story in the present tense.",
             "The teacher explained the future tense."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tensely",
+    "say": "TENSS-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a nervous, tight way.",
+          "examples": [
+            "He waited tensely.",
+            "She sat tensely.",
+            "They watched tensely."
+          ]
+        },
+        "more": {
+          "def": "In a nervous, stiff way, because you are worried.",
+          "examples": [
+            "The crowd waited tensely for the results.",
+            "She sat tensely in the dentist's chair.",
+            "They watched tensely as the ball rolled."
           ]
         }
       }
@@ -1841,6 +2608,56 @@
     ]
   },
   {
+    "word": "tentative",
+    "say": "TEN-tuh-tiv",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not sure or not final.",
+          "examples": [
+            "We made a tentative plan.",
+            "His smile was tentative.",
+            "A tentative step."
+          ]
+        },
+        "more": {
+          "def": "Not certain or final; done with care because you are not sure.",
+          "examples": [
+            "We made a tentative plan to meet on Saturday.",
+            "She gave a tentative smile.",
+            "The baby took a tentative step."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tentatively",
+    "say": "TEN-tuh-tiv-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a careful, unsure way.",
+          "examples": [
+            "She tentatively raised her hand.",
+            "He tentatively tried.",
+            "They stepped tentatively."
+          ]
+        },
+        "more": {
+          "def": "In a hesitant way, not sure of yourself.",
+          "examples": [
+            "She tentatively raised her hand to ask.",
+            "He tentatively touched the strange plant.",
+            "They tentatively stepped onto the ice."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "tenth",
     "say": "tenth",
     "forms": [
@@ -1910,6 +2727,31 @@
             "A tepee stood in the museum.",
             "The tepee was made from poles and hides.",
             "Some tribes lived in a tepee on the plains."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "teriyaki",
+    "say": "tair-ee-YAH-kee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet, salty sauce from Japan.",
+          "examples": [
+            "We ate teriyaki chicken.",
+            "Teriyaki is a sauce.",
+            "The teriyaki is sweet."
+          ]
+        },
+        "more": {
+          "def": "A sweet and salty Japanese sauce used on meat, fish or vegetables.",
+          "examples": [
+            "We ate teriyaki chicken for dinner.",
+            "The teriyaki sauce was sweet and salty.",
+            "Dad grilled the salmon with teriyaki."
           ]
         }
       }
@@ -2010,6 +2852,36 @@
     ]
   },
   {
+    "word": "terminate",
+    "say": "TER-mih-nayt",
+    "forms": [
+      "terminates",
+      "terminated",
+      "terminating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To end.",
+          "examples": [
+            "The bus route terminates here.",
+            "The game terminated.",
+            "They terminated the show."
+          ]
+        },
+        "more": {
+          "def": "To end or bring something to an end.",
+          "examples": [
+            "The bus route terminates at the park.",
+            "The game was terminated because of rain.",
+            "They terminated the experiment."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "termite",
     "say": "TER-myt",
     "forms": [
@@ -2032,6 +2904,35 @@
             "Termites ate the wood of the old fence until it fell down.",
             "A termite colony can have thousands of insects.",
             "The builders checked the house for termites."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tern",
+    "say": "tern",
+    "emoji": "🐦",
+    "forms": [
+      "terns"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A slim sea bird with a forked tail.",
+          "examples": [
+            "A tern flew.",
+            "The tern is white.",
+            "I saw a tern."
+          ]
+        },
+        "more": {
+          "def": "A graceful sea bird with white feathers, a pointed bill and a forked tail.",
+          "examples": [
+            "A tern dived for a fish.",
+            "Terns nest on the beach.",
+            "The tern hovered over the waves."
           ]
         }
       }
@@ -2066,6 +2967,31 @@
     ]
   },
   {
+    "word": "terracotta",
+    "say": "tair-uh-KOT-uh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Reddish-brown baked clay.",
+          "examples": [
+            "The pot is terracotta.",
+            "Terracotta is clay.",
+            "A terracotta tile."
+          ]
+        },
+        "more": {
+          "def": "A reddish-brown clay that is baked, used for pots and tiles.",
+          "examples": [
+            "The flowerpot was terracotta.",
+            "Terracotta tiles covered the roof.",
+            "She painted a terracotta pot."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "terrain",
     "say": "tuh-RAYN",
     "senses": [
@@ -2085,6 +3011,87 @@
             "The rocky terrain made it hard for the truck to drive.",
             "We hiked over hilly terrain all day.",
             "The rover rolled over the rough terrain of Mars."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "terrapin",
+    "say": "TAIR-uh-pin",
+    "forms": [
+      "terrapins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small turtle that lives in fresh or salty water.",
+          "examples": [
+            "A terrapin is a turtle.",
+            "The terrapin swims.",
+            "I saw a terrapin."
+          ]
+        },
+        "more": {
+          "def": "A small turtle that lives in ponds, marshes or salty water.",
+          "examples": [
+            "A terrapin sunned itself on a log.",
+            "The terrapin pulled its head into its shell.",
+            "Terrapins live near the coast."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "terrarium",
+    "say": "tuh-RAIR-ee-um",
+    "forms": [
+      "terrariums"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A glass box for keeping small plants or animals.",
+          "examples": [
+            "The lizard lives in a terrarium.",
+            "A terrarium has plants.",
+            "Our terrarium has a frog."
+          ]
+        },
+        "more": {
+          "def": "A glass container in which small plants or animals are kept.",
+          "examples": [
+            "Our class has a terrarium with a lizard.",
+            "She planted moss in a glass terrarium.",
+            "The terrarium was warm and damp."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "terrestrial",
+    "say": "tuh-RES-tree-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Living on land or on Earth.",
+          "examples": [
+            "Terrestrial animals live on land.",
+            "A terrestrial planet.",
+            "The terrestrial life."
+          ]
+        },
+        "more": {
+          "def": "Living on land or having to do with the Earth.",
+          "examples": [
+            "Dogs are terrestrial animals.",
+            "Mars is a terrestrial planet.",
+            "The scientists studied terrestrial plants."
           ]
         }
       }
@@ -2194,6 +3201,31 @@
     ]
   },
   {
+    "word": "terrifically",
+    "say": "tuh-RIF-ik-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a wonderful or great way.",
+          "examples": [
+            "She sang terrifically.",
+            "He played terrifically.",
+            "It was terrifically fun."
+          ]
+        },
+        "more": {
+          "def": "In an excellent way, or to a very great degree.",
+          "examples": [
+            "She sang terrifically in the show.",
+            "The team played terrifically.",
+            "It was a terrifically exciting game."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "terrified",
     "say": "TAIR-ih-fyd",
     "senses": [
@@ -2268,6 +3300,31 @@
             "The terrifying thunder made the puppy hide under the bed.",
             "A terrifying roar echoed from the cave.",
             "The roller coaster looked terrifying from the ground."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "terrifyingly",
+    "say": "TAIR-ih-fy-ing-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a very scary way.",
+          "examples": [
+            "The wind howled terrifyingly.",
+            "The dog barked terrifyingly.",
+            "It was terrifyingly dark."
+          ]
+        },
+        "more": {
+          "def": "In a way that is very frightening.",
+          "examples": [
+            "The ride was terrifyingly fast.",
+            "The wolf howled terrifyingly in the night.",
+            "The cliff was terrifyingly high."
           ]
         }
       }
@@ -2349,6 +3406,35 @@
             "The child screamed in terror at the thunder.",
             "She froze in terror when she saw the snake.",
             "The terror faded when the lights came on."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "terse",
+    "say": "ters",
+    "forms": [
+      "terser",
+      "tersest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Short and to the point.",
+          "examples": [
+            "A terse reply.",
+            "His note was terse.",
+            "A terse answer."
+          ]
+        },
+        "more": {
+          "def": "Using few words, sometimes in a way that seems unfriendly.",
+          "examples": [
+            "She gave a terse reply.",
+            "His note was terse: \"Gone out.\"",
+            "The terse message said only \"Come now.\""
           ]
         }
       }
@@ -2597,6 +3683,60 @@
             "She tethered the goat to a post.",
             "He tethered the boat to the dock.",
             "The camper tethered the tent to the ground."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tetherball",
+    "say": "TETH-er-bawl",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A game where two players hit a ball on a rope around a pole.",
+          "examples": [
+            "We play tetherball.",
+            "The tetherball is on a rope.",
+            "I hit the tetherball."
+          ]
+        },
+        "more": {
+          "def": "A game in which two players hit a ball tied to a pole, each trying to wrap the rope around it.",
+          "examples": [
+            "We play tetherball at recess.",
+            "The tetherball swung around the pole.",
+            "She won at tetherball."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "tetrahedron",
+    "say": "tet-ruh-HEE-drun",
+    "forms": [
+      "tetrahedrons",
+      "tetrahedra"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shape with four triangle sides.",
+          "examples": [
+            "A tetrahedron has four sides.",
+            "A tetrahedron is a solid.",
+            "Make a tetrahedron."
+          ]
+        },
+        "more": {
+          "def": "A solid shape with four faces that are all triangles.",
+          "examples": [
+            "A tetrahedron has four triangle faces.",
+            "A pyramid with a triangle base is a tetrahedron.",
+            "We built a tetrahedron from straws."
           ]
         }
       }

@@ -1,5 +1,33 @@
 [
   {
+    "word": "wick",
+    "say": "wik",
+    "forms": [
+      "wicks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The string in a candle that you light.",
+          "examples": [
+            "Light the wick.",
+            "The wick is short.",
+            "The candle has a wick."
+          ]
+        },
+        "more": {
+          "def": "The piece of string in the middle of a candle that burns when it is lit.",
+          "examples": [
+            "He lit the wick with a match.",
+            "The wick of the candle was short and black.",
+            "Wax melts around the wick as the candle burns."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wicked",
     "say": "WIK-id",
     "forms": [
@@ -164,6 +192,34 @@
     ]
   },
   {
+    "word": "widget",
+    "say": "WIJ-it",
+    "forms": [
+      "widgets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small gadget or part.",
+          "examples": [
+            "A widget is a part.",
+            "The widget is small.",
+            "Fix the widget."
+          ]
+        },
+        "more": {
+          "def": "A small device or part whose name you don't know or don't need to say.",
+          "examples": [
+            "The machine needs a new widget.",
+            "A widget is a small gadget.",
+            "The factory makes widgets."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "widow",
     "say": "WID-oh",
     "forms": [
@@ -214,6 +270,36 @@
             "The width of the doorway was just enough for the wagon.",
             "Measure the length and the width of the room.",
             "The width of the river is about a mile."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wield",
+    "say": "weeld",
+    "forms": [
+      "wields",
+      "wielded",
+      "wielding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hold and use something.",
+          "examples": [
+            "The knight wielded a sword.",
+            "She wields a big paintbrush.",
+            "He wielded an ax."
+          ]
+        },
+        "more": {
+          "def": "To hold and use a tool or weapon.",
+          "examples": [
+            "The knight wielded a heavy sword.",
+            "She wielded a large paintbrush and covered the wall.",
+            "The wizard in the story wielded a magic staff."
           ]
         }
       }
@@ -326,6 +412,34 @@
     ]
   },
   {
+    "word": "wigwam",
+    "say": "WIG-wom",
+    "forms": [
+      "wigwams"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round house of poles and bark.",
+          "examples": [
+            "The family lived in a wigwam.",
+            "The wigwam is round.",
+            "We saw a wigwam."
+          ]
+        },
+        "more": {
+          "def": "A dome-shaped home built by some Native American peoples, made from poles covered with bark or mats.",
+          "examples": [
+            "The family lived in a wigwam by the lake.",
+            "A wigwam was covered with bark and woven mats.",
+            "The museum had a model of a wigwam."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wild",
     "say": "wyld",
     "emoji": "🐺",
@@ -391,6 +505,36 @@
     ]
   },
   {
+    "word": "wildebeest",
+    "say": "WIL-dih-beest",
+    "emoji": "🐃",
+    "forms": [
+      "wildebeests",
+      "wildebeest"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large animal with horns and a beard.",
+          "examples": [
+            "The wildebeest ran.",
+            "A wildebeest has horns.",
+            "We saw a wildebeest."
+          ]
+        },
+        "more": {
+          "def": "A large African antelope with a long face, curved horns and a shaggy beard, also called a gnu.",
+          "examples": [
+            "Herds of wildebeest cross the plains each year.",
+            "The wildebeest ran with the zebras.",
+            "A wildebeest has a shaggy mane and beard."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wilderness",
     "say": "WIL-der-ness",
     "forms": [
@@ -441,6 +585,34 @@
             "Firefighters worked to stop the wildfire.",
             "A wildfire spread through the dry forest.",
             "Smoke from the wildfire filled the sky."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wildflower",
+    "say": "WYLD-flow-er",
+    "forms": [
+      "wildflowers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flower that grows in the wild, not in a garden.",
+          "examples": [
+            "We picked a wildflower.",
+            "Wildflowers grow in the meadow.",
+            "The wildflower is yellow."
+          ]
+        },
+        "more": {
+          "def": "A flower that grows naturally in fields, woods or by roads, not planted by people.",
+          "examples": [
+            "The meadow was full of wildflowers in spring.",
+            "Bees visited each wildflower.",
+            "We pressed a wildflower in a book."
           ]
         }
       }
@@ -572,6 +744,31 @@
     ]
   },
   {
+    "word": "willingly",
+    "say": "WIL-ing-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a glad way, not forced.",
+          "examples": [
+            "She willingly helped.",
+            "He willingly shared.",
+            "They willingly came."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows you are glad to do something.",
+          "examples": [
+            "He willingly shared his lunch with the new boy.",
+            "She willingly helped carry the groceries.",
+            "The dog willingly followed the boy home."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "willingness",
     "say": "WIL-ing-ness",
     "senses": [
@@ -620,6 +817,31 @@
             "A willow grew beside the river.",
             "The willow's branches swept the ground.",
             "We sat in the shade of the willow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "willowy",
+    "say": "WIL-oh-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Tall, thin and graceful.",
+          "examples": [
+            "A willowy girl.",
+            "The willowy dancer.",
+            "A willowy tree."
+          ]
+        },
+        "more": {
+          "def": "Tall, slim and bending, like a willow tree.",
+          "examples": [
+            "The willowy dancer moved gracefully.",
+            "A willowy girl stood by the gate.",
+            "The willowy tree swayed."
           ]
         }
       }
@@ -737,6 +959,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "winless",
+        "def": "Without a win."
+      }
     ]
   },
   {
@@ -764,6 +992,34 @@
             "He winced when the doctor touched his knee.",
             "I wince at the sound of chalk on a board.",
             "She winced at the bitter taste."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "winch",
+    "say": "winch",
+    "forms": [
+      "winches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that pulls or lifts with a rope.",
+          "examples": [
+            "The winch lifts the boat.",
+            "A winch has a rope.",
+            "We used a winch."
+          ]
+        },
+        "more": {
+          "def": "A machine with a rope or chain wound around a drum, used to lift or pull heavy things.",
+          "examples": [
+            "A winch pulled the boat out of the water.",
+            "The truck had a winch on the front to pull things.",
+            "He turned the handle of the winch to lift the bucket."
           ]
         }
       }
@@ -815,6 +1071,93 @@
             "She wound the yarn into a ball.",
             "Wind the knob on the music box.",
             "Wind the rope around the post."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "windless",
+        "def": "Without any wind."
+      }
+    ]
+  },
+  {
+    "word": "windblown",
+    "say": "WIND-blohn",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Blown about by the wind.",
+          "examples": [
+            "Windblown hair.",
+            "The windblown leaves.",
+            "A windblown hill."
+          ]
+        },
+        "more": {
+          "def": "Pushed about by the wind.",
+          "examples": [
+            "Her windblown hair tangled around her face.",
+            "Windblown leaves covered the lawn.",
+            "The windblown tree leaned to one side."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "windbreak",
+    "say": "WIND-brayk",
+    "forms": [
+      "windbreaks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing that blocks the wind.",
+          "examples": [
+            "The trees are a windbreak.",
+            "A windbreak shields the house.",
+            "We set up a windbreak."
+          ]
+        },
+        "more": {
+          "def": "A fence, wall or row of trees that shelters an area from the wind.",
+          "examples": [
+            "The row of trees is a windbreak for the farm.",
+            "We set up a windbreak on the beach.",
+            "The fence made a windbreak."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "windbreaker",
+    "say": "WIND-bray-ker",
+    "forms": [
+      "windbreakers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A light jacket that keeps the wind out.",
+          "examples": [
+            "He wore a windbreaker.",
+            "The windbreaker is light.",
+            "A windbreaker is thin."
+          ]
+        },
+        "more": {
+          "def": "A light jacket that protects you from the wind.",
+          "examples": [
+            "He zipped up his windbreaker.",
+            "A windbreaker is thin but blocks the wind.",
+            "She wore a bright windbreaker on the hike."
           ]
         }
       }
@@ -885,6 +1228,34 @@
     ]
   },
   {
+    "word": "windowpane",
+    "say": "WIN-doh-payn",
+    "forms": [
+      "windowpanes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece of glass in a window.",
+          "examples": [
+            "Rain tapped the windowpane.",
+            "The windowpane is clean.",
+            "A windowpane broke."
+          ]
+        },
+        "more": {
+          "def": "A single sheet of glass in a window.",
+          "examples": [
+            "Rain tapped on the windowpane.",
+            "Frost made patterns on the windowpane.",
+            "The ball cracked the windowpane."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "windowsill",
     "say": "WIN-doh-sil",
     "forms": [
@@ -941,6 +1312,31 @@
     ]
   },
   {
+    "word": "windproof",
+    "say": "WIND-proof",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Keeping the wind out.",
+          "examples": [
+            "A windproof jacket.",
+            "The windproof coat.",
+            "The windproof tent."
+          ]
+        },
+        "more": {
+          "def": "Made so that wind cannot get through.",
+          "examples": [
+            "She wore a windproof jacket.",
+            "The windproof tent stood firm.",
+            "A windproof coat keeps you warm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "windshield",
     "say": "WIND-sheeld",
     "forms": [
@@ -963,6 +1359,112 @@
             "The wipers cleared the rain from the windshield.",
             "A bug splattered on the windshield.",
             "Dad scraped the ice off the windshield."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "windsock",
+    "say": "WIND-sok",
+    "forms": [
+      "windsocks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cloth tube that shows which way the wind blows.",
+          "examples": [
+            "The windsock blew.",
+            "A windsock shows wind.",
+            "The windsock is orange."
+          ]
+        },
+        "more": {
+          "def": "A cone-shaped cloth tube on a pole that shows the direction of the wind.",
+          "examples": [
+            "The windsock pointed east.",
+            "Planes use a windsock at the airport.",
+            "The windsock filled with air when the wind blew."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "windstorm",
+    "say": "WIND-storm",
+    "forms": [
+      "windstorms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A storm with strong wind.",
+          "examples": [
+            "A windstorm blew down trees.",
+            "The windstorm was loud.",
+            "We had a windstorm."
+          ]
+        },
+        "more": {
+          "def": "A storm with very strong winds but little rain.",
+          "examples": [
+            "A windstorm blew down several trees.",
+            "The windstorm rattled the windows.",
+            "After the windstorm, branches covered the road."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "windswept",
+    "say": "WIND-swept",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Open and with a lot of wind.",
+          "examples": [
+            "The windswept beach.",
+            "A windswept hill.",
+            "The windswept moor."
+          ]
+        },
+        "more": {
+          "def": "Open to the wind and often blown by strong winds.",
+          "examples": [
+            "We walked along the windswept beach.",
+            "The windswept hill had no trees.",
+            "Her hair was windswept after the boat ride."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "windward",
+    "say": "WIND-werd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Facing the wind.",
+          "examples": [
+            "The windward side.",
+            "The windward shore.",
+            "A windward slope."
+          ]
+        },
+        "more": {
+          "def": "Facing the direction from which the wind blows.",
+          "examples": [
+            "The windward side of the island is rainy.",
+            "We sat on the windward side of the boat.",
+            "The windward slope of the hill was cold."
           ]
         }
       }
@@ -1043,6 +1545,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "wingless",
+        "def": "Without wings."
+      }
     ]
   },
   {
@@ -1099,6 +1607,34 @@
     ]
   },
   {
+    "word": "wingtip",
+    "say": "WING-tip",
+    "forms": [
+      "wingtips"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The end of a wing.",
+          "examples": [
+            "The wingtip touched.",
+            "A bird's wingtip.",
+            "The plane's wingtip."
+          ]
+        },
+        "more": {
+          "def": "The outer end of the wing of a bird or an airplane.",
+          "examples": [
+            "The plane's wingtip dipped.",
+            "The bird's wingtip brushed the water.",
+            "Each wingtip was black."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wink",
     "say": "wingk",
     "forms": [
@@ -1129,6 +1665,34 @@
     ]
   },
   {
+    "word": "winkle",
+    "say": "WING-kul",
+    "forms": [
+      "winkles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small sea snail.",
+          "examples": [
+            "A winkle is a snail.",
+            "The winkle is small.",
+            "I found a winkle."
+          ]
+        },
+        "more": {
+          "def": "A small sea snail with a round shell that lives on rocky shores.",
+          "examples": [
+            "I found a winkle in the tide pool.",
+            "A winkle has a round, spiral shell.",
+            "Winkles cling to rocks by the sea."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "winner",
     "say": "WIN-er",
     "forms": [
@@ -1151,6 +1715,31 @@
             "The winner of the race got a gold medal.",
             "Our class was the winner of the spelling bee.",
             "The crowd cheered for the winner."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "winsome",
+    "say": "WIN-sum",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sweet and charming.",
+          "examples": [
+            "A winsome smile.",
+            "The baby is winsome.",
+            "She has a winsome way."
+          ]
+        },
+        "more": {
+          "def": "Pleasant and charming in a way that wins people's hearts.",
+          "examples": [
+            "The baby gave a winsome smile.",
+            "Her winsome manner made friends everywhere.",
+            "The winsome puppy melted our hearts."
           ]
         }
       }
@@ -1372,6 +1961,35 @@
     ]
   },
   {
+    "word": "wiry",
+    "say": "WY-ree",
+    "forms": [
+      "wirier",
+      "wiriest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Thin but strong.",
+          "examples": [
+            "The wiry boy ran fast.",
+            "She is small and wiry.",
+            "The wiry man lifted it."
+          ]
+        },
+        "more": {
+          "def": "Thin and lean but strong, or stiff and rough like wire.",
+          "examples": [
+            "The wiry runner climbed the steep hill with ease.",
+            "The terrier has a wiry coat.",
+            "He was small and wiry but could lift heavy bags."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wisdom",
     "say": "WIZ-dum",
     "emoji": "🦉",
@@ -1450,6 +2068,31 @@
             "He made a wisecrack that made the class laugh.",
             "Her wisecrack got her in trouble.",
             "The comedian's wisecrack made the crowd smile."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wisely",
+    "say": "WYZ-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a smart way.",
+          "examples": [
+            "She wisely wore a coat.",
+            "He wisely waited.",
+            "They wisely stayed safe."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows good sense and careful thinking.",
+          "examples": [
+            "She wisely packed an umbrella before the walk.",
+            "He wisely saved some of his money.",
+            "The hikers wisely turned back when the storm came."
           ]
         }
       }
@@ -1609,6 +2252,37 @@
             "Wispy clouds floated across the blue sky.",
             "The baby had soft, wispy hair that stuck up in all directions.",
             "A wispy thread of smoke rose from the candle."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wistful",
+    "say": "WIST-ful",
+    "related": [
+      {
+        "word": "wistfulness",
+        "def": "Being wistful."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sad and longing for something.",
+          "examples": [
+            "She looked wistful.",
+            "He gave a wistful smile.",
+            "A wistful look."
+          ]
+        },
+        "more": {
+          "def": "Feeling a quiet longing for something that is gone or hard to get.",
+          "examples": [
+            "She looked wistful as she watched the birds fly south.",
+            "He gave a wistful smile when he saw his old school.",
+            "The wistful girl gazed at the sea."
           ]
         }
       }
@@ -1804,6 +2478,36 @@
             "The flowers withered in the hot sun.",
             "Leaves wither when the plant has no water.",
             "The grass withered during the long dry summer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "withhold",
+    "say": "with-HOHLD",
+    "forms": [
+      "withholds",
+      "withheld",
+      "withholding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To keep something back.",
+          "examples": [
+            "She withheld the news.",
+            "He withholds the answer.",
+            "They withhold the food."
+          ]
+        },
+        "more": {
+          "def": "To refuse to give something, or to keep something back.",
+          "examples": [
+            "She withheld the news until later.",
+            "He would not withhold the truth.",
+            "The teacher withheld the test results."
           ]
         }
       }
@@ -2045,6 +2749,31 @@
             "The wizard waved his wand and the cup flew.",
             "The old wizard lived in a tower.",
             "In the story, the wizard helped the lost boy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wizardry",
+    "say": "WIZ-er-dree",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The art of a wizard; clever magic.",
+          "examples": [
+            "The wizard used wizardry.",
+            "Wizardry is magic.",
+            "He is skilled in wizardry."
+          ]
+        },
+        "more": {
+          "def": "The magic skills and tricks of a wizard; or a very clever skill.",
+          "examples": [
+            "The wizard's wizardry made the castle glow.",
+            "It took real wizardry to fix the old radio.",
+            "The magician's wizardry amazed the audience."
           ]
         }
       }

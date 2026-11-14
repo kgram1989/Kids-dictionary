@@ -49,6 +49,36 @@
     ]
   },
   {
+    "word": "swaddle",
+    "say": "SWOD-ul",
+    "forms": [
+      "swaddles",
+      "swaddled",
+      "swaddling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To wrap a baby up snugly.",
+          "examples": [
+            "She swaddled the baby.",
+            "He swaddles the baby.",
+            "The nurse swaddled him."
+          ]
+        },
+        "more": {
+          "def": "To wrap a baby snugly in a cloth or blanket.",
+          "examples": [
+            "She swaddled the baby in a soft blanket.",
+            "The nurse swaddled the newborn.",
+            "The baby slept, swaddled and warm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "swagger",
     "say": "SWAG-er",
     "forms": [
@@ -158,6 +188,89 @@
       {
         "word": "swampy",
         "def": "Like a swamp."
+      }
+    ]
+  },
+  {
+    "word": "swampland",
+    "say": "SWOMP-land",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Land that is wet and soft.",
+          "examples": [
+            "The swampland is wet.",
+            "Frogs live in the swampland.",
+            "We crossed swampland."
+          ]
+        },
+        "more": {
+          "def": "Land covered with wet, soft ground and thick plants.",
+          "examples": [
+            "Frogs and snakes live in the swampland.",
+            "We crossed the swampland on a raised path.",
+            "Swampland is wet all year."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "swan",
+    "say": "swon",
+    "emoji": "🦢",
+    "forms": [
+      "swans"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big white bird with a long neck that swims.",
+          "examples": [
+            "A swan swam on the lake.",
+            "The swan has a long neck.",
+            "I fed a swan."
+          ]
+        },
+        "more": {
+          "def": "A large water bird with a long, curved neck, usually white.",
+          "examples": [
+            "A swan glided across the still lake.",
+            "The swan fluffed its white feathers.",
+            "Swans build large nests near the water's edge."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "swanky",
+    "say": "SWANG-kee",
+    "forms": [
+      "swankier",
+      "swankiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Fancy and costly.",
+          "examples": [
+            "A swanky hotel.",
+            "The swanky party.",
+            "A swanky car."
+          ]
+        },
+        "more": {
+          "def": "Fancy, stylish and expensive.",
+          "examples": [
+            "They stayed at a swanky hotel.",
+            "She wore a swanky dress to the party.",
+            "The swanky car gleamed in the sun."
+          ]
+        }
       }
     ]
   },
@@ -300,6 +413,34 @@
     ]
   },
   {
+    "word": "swath",
+    "say": "swoth",
+    "forms": [
+      "swaths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wide strip of something.",
+          "examples": [
+            "The mower cut a swath.",
+            "A swath of grass.",
+            "A wide swath of land."
+          ]
+        },
+        "more": {
+          "def": "A long, wide strip, such as the strip cut by a mower.",
+          "examples": [
+            "The mower cut a wide swath through the grass.",
+            "A swath of sunlight lit the floor.",
+            "The fire left a swath of burned trees."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sway",
     "say": "sway",
     "forms": [
@@ -423,6 +564,34 @@
             "I sweat when I run on a hot day.",
             "He sweated in the summer sun.",
             "Runners sweat during a race."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sweatband",
+    "say": "SWET-band",
+    "forms": [
+      "sweatbands"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A band to keep sweat out of your eyes.",
+          "examples": [
+            "He wore a sweatband.",
+            "The sweatband is soft.",
+            "A sweatband is on his head."
+          ]
+        },
+        "more": {
+          "def": "A band of cloth worn around the head or wrist to soak up sweat.",
+          "examples": [
+            "The runner wore a sweatband.",
+            "A sweatband keeps sweat out of your eyes.",
+            "He pulled a sweatband over his wrist."
           ]
         }
       }
@@ -796,6 +965,36 @@
     ]
   },
   {
+    "word": "swelter",
+    "say": "SWEL-ter",
+    "forms": [
+      "swelters",
+      "sweltered",
+      "sweltering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To feel very hot.",
+          "examples": [
+            "We sweltered in the sun.",
+            "The city swelters.",
+            "They sweltered all day."
+          ]
+        },
+        "more": {
+          "def": "To feel uncomfortably hot.",
+          "examples": [
+            "We sweltered in the summer sun.",
+            "The city sweltered in the heat wave.",
+            "The tourists sweltered on the crowded bus."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "swerve",
     "say": "swerv",
     "forms": [
@@ -852,6 +1051,12 @@
             "The cat made a swift jump onto the table."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "swiftness",
+        "def": "Being swift."
       }
     ]
   },
@@ -1017,6 +1222,31 @@
             "I packed my swimsuit and a towel for the pool.",
             "Her swimsuit dried quickly in the sun.",
             "He wore a red swimsuit with white stripes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "swimwear",
+    "say": "SWIM-wair",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Clothes for swimming.",
+          "examples": [
+            "I packed my swimwear.",
+            "Swimwear is for the pool.",
+            "The shop sells swimwear."
+          ]
+        },
+        "more": {
+          "def": "Clothing worn for swimming, such as a swimsuit or trunks.",
+          "examples": [
+            "I packed my swimwear for the beach.",
+            "The shop sells swimwear for kids.",
+            "Swimwear dries quickly."
           ]
         }
       }
@@ -1197,6 +1427,35 @@
     ]
   },
   {
+    "word": "swirly",
+    "say": "SWER-lee",
+    "forms": [
+      "swirlier",
+      "swirliest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "With curly, twisting shapes.",
+          "examples": [
+            "A swirly pattern.",
+            "The swirly cloud.",
+            "A swirly dress."
+          ]
+        },
+        "more": {
+          "def": "Twisting around and around in curls.",
+          "examples": [
+            "The dress had a swirly pattern.",
+            "A swirly cloud drifted by.",
+            "The ice cream was swirly."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "swish",
     "say": "swish",
     "forms": [
@@ -1347,6 +1606,36 @@
             "I swiveled in my chair to face her.",
             "The camera swivels to follow the action.",
             "The owl can swivel its head almost all the way around."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "swoon",
+    "say": "swoon",
+    "forms": [
+      "swoons",
+      "swooned",
+      "swooning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To faint from strong feeling.",
+          "examples": [
+            "She swooned.",
+            "He nearly swooned.",
+            "The lady swooned in the story."
+          ]
+        },
+        "more": {
+          "def": "To faint, or to feel such strong joy that you feel weak.",
+          "examples": [
+            "The lady in the old tale swooned at the news.",
+            "He nearly swooned with joy at the surprise.",
+            "The fans swooned when the singer arrived."
           ]
         }
       }

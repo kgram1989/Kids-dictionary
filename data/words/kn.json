@@ -53,6 +53,64 @@
     ]
   },
   {
+    "word": "knave",
+    "say": "nayv",
+    "forms": [
+      "knaves"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dishonest man in old stories, or a playing card.",
+          "examples": [
+            "The knave was sly.",
+            "A knave played a trick.",
+            "The knave of hearts."
+          ]
+        },
+        "more": {
+          "def": "A dishonest or tricky man in old stories; also a playing card, the jack.",
+          "examples": [
+            "The knave tricked the village.",
+            "The knave of hearts is a card.",
+            "In the tale, the knave stole the pie."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "knead",
+    "say": "need",
+    "forms": [
+      "kneads",
+      "kneaded",
+      "kneading"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To press and fold dough with your hands.",
+          "examples": [
+            "I knead the dough.",
+            "She kneaded the bread dough.",
+            "Dad kneads the dough."
+          ]
+        },
+        "more": {
+          "def": "To press, fold and stretch dough with your hands.",
+          "examples": [
+            "Dad kneaded the dough until it was smooth.",
+            "You must knead the dough for ten minutes.",
+            "She kneaded the clay to make it soft."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "knee",
     "say": "nee",
     "forms": [
@@ -254,6 +312,31 @@
     ]
   },
   {
+    "word": "knightly",
+    "say": "NYT-lee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Like a knight.",
+          "examples": [
+            "A knightly deed.",
+            "The knightly act.",
+            "A knightly boy."
+          ]
+        },
+        "more": {
+          "def": "Like a knight; brave and polite.",
+          "examples": [
+            "He did a knightly deed by helping her.",
+            "The boy had knightly manners.",
+            "A knightly act of kindness."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "knit",
     "say": "nit",
     "forms": [
@@ -306,6 +389,35 @@
             "Turn the knob to open the door.",
             "The knob on the drawer was shaped like a flower.",
             "He turned the knob to make the radio louder."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "knobby",
+    "say": "NOB-ee",
+    "forms": [
+      "knobbier",
+      "knobbiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Covered in lumps.",
+          "examples": [
+            "Knobby knees.",
+            "A knobby stick.",
+            "The knobby tree."
+          ]
+        },
+        "more": {
+          "def": "Covered with small, hard bumps.",
+          "examples": [
+            "He had knobby knees.",
+            "The knobby branch was hard to hold.",
+            "The old tree was knobby."
           ]
         }
       }
@@ -417,6 +529,34 @@
     ]
   },
   {
+    "word": "knoll",
+    "say": "nohl",
+    "forms": [
+      "knolls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small round hill.",
+          "examples": [
+            "We sat on the knoll.",
+            "The knoll is green.",
+            "A knoll is a small hill."
+          ]
+        },
+        "more": {
+          "def": "A small, rounded hill or mound.",
+          "examples": [
+            "We had a picnic on a green knoll.",
+            "The sheep grazed on the knoll.",
+            "A lone tree stood on the knoll."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "knot",
     "say": "not",
     "emoji": "🪢",
@@ -452,6 +592,34 @@
     ]
   },
   {
+    "word": "knothole",
+    "say": "NOT-hohl",
+    "forms": [
+      "knotholes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round hole in a board.",
+          "examples": [
+            "We peeked through the knothole.",
+            "A knothole in the fence.",
+            "The knothole is round."
+          ]
+        },
+        "more": {
+          "def": "A hole in a piece of wood where a knot has fallen out.",
+          "examples": [
+            "We peeked through a knothole in the fence.",
+            "A squirrel lived in a knothole in the tree.",
+            "The knothole let light into the shed."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "know",
     "say": "noh",
     "forms": [
@@ -477,6 +645,37 @@
             "I know how to ride a bike without training wheels.",
             "He knew the answer as soon as the teacher asked.",
             "Do you know the girl who just moved in next door?"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "knowingly",
+    "say": "NOH-ing-lee",
+    "related": [
+      {
+        "word": "unknowingly",
+        "def": "Without knowing."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that shows you know a secret.",
+          "examples": [
+            "He smiled knowingly.",
+            "She nodded knowingly.",
+            "The cat looked knowingly."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows you know something others do not.",
+          "examples": [
+            "She smiled knowingly at her brother.",
+            "He nodded knowingly as the story ended.",
+            "The cat blinked knowingly at the mouse hole."
           ]
         }
       }

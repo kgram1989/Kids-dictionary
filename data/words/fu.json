@@ -1,5 +1,30 @@
 [
   {
+    "word": "fuchsia",
+    "say": "FYOO-shuh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bright pink-purple color.",
+          "examples": [
+            "The flower is fuchsia.",
+            "Fuchsia is a bright color.",
+            "She wore fuchsia."
+          ]
+        },
+        "more": {
+          "def": "A very bright pink-purple color; also a plant with drooping flowers of that color.",
+          "examples": [
+            "She wore a bright fuchsia scarf.",
+            "The fuchsia bush had drooping flowers.",
+            "The painter mixed red and purple to make fuchsia."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fudge",
     "say": "fuj",
     "emoji": "🍫",
@@ -91,6 +116,62 @@
     ]
   },
   {
+    "word": "fugue",
+    "say": "FYOOG",
+    "forms": [
+      "fugues"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind of music where parts take turns repeating the tune.",
+          "examples": [
+            "A fugue is music.",
+            "The fugue repeats the tune.",
+            "We heard a fugue."
+          ]
+        },
+        "more": {
+          "def": "A piece of music in which different parts take turns repeating the same tune.",
+          "examples": [
+            "The organist played a fugue by Bach.",
+            "A fugue has a tune that is repeated by different voices.",
+            "The choir sang a fugue."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fulcrum",
+    "say": "FUUL-krum",
+    "forms": [
+      "fulcrums"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The point where a seesaw balances.",
+          "examples": [
+            "The fulcrum is in the middle.",
+            "A seesaw has a fulcrum.",
+            "The fulcrum supports the board."
+          ]
+        },
+        "more": {
+          "def": "The point on which a lever turns or is supported.",
+          "examples": [
+            "The seesaw rests on a fulcrum in the middle.",
+            "A lever turns on its fulcrum.",
+            "Move the fulcrum closer to the heavy rock."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fulfill",
     "say": "fuul-FIL",
     "forms": [
@@ -115,6 +196,31 @@
             "I fulfilled my promise to walk the dog.",
             "She fulfilled her dream of becoming a pilot.",
             "The store fulfilled our order on time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fulfillment",
+    "say": "ful-FIL-munt",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Feeling happy about reaching a goal.",
+          "examples": [
+            "She felt fulfillment.",
+            "Fulfillment came.",
+            "The fulfillment of a dream."
+          ]
+        },
+        "more": {
+          "def": "The happy feeling of having achieved something, or the carrying out of something promised.",
+          "examples": [
+            "She felt fulfillment after finishing the painting.",
+            "It was the fulfillment of a dream.",
+            "The fulfillment of the order took a week."
           ]
         }
       }
@@ -163,6 +269,34 @@
             "I'm too full to eat any more spaghetti.",
             "The baby was full and pushed the spoon away.",
             "After the big meal, everyone felt full and sleepy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fullback",
+    "say": "FUUL-bak",
+    "forms": [
+      "fullbacks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A player in football or soccer who plays near the goal.",
+          "examples": [
+            "The fullback ran.",
+            "A fullback defends.",
+            "He is a fullback."
+          ]
+        },
+        "more": {
+          "def": "A player in football, soccer or similar games who plays in the back line or carries the ball.",
+          "examples": [
+            "The fullback ran with the ball.",
+            "A fullback helps defend the goal.",
+            "He plays fullback on the team."
           ]
         }
       }
@@ -691,6 +825,31 @@
     ]
   },
   {
+    "word": "funnily",
+    "say": "FUN-ih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a funny way.",
+          "examples": [
+            "He walked funnily.",
+            "The cat looked at me funnily.",
+            "She spoke funnily."
+          ]
+        },
+        "more": {
+          "def": "In a way that is funny or strange.",
+          "examples": [
+            "He walked funnily after the long ride.",
+            "The dog tilted its head funnily.",
+            "Funnily enough, we both had the same idea."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "funny",
     "say": "FUN-ee",
     "senses": [
@@ -820,6 +979,36 @@
     ]
   },
   {
+    "word": "furl",
+    "say": "ferl",
+    "forms": [
+      "furls",
+      "furled",
+      "furling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To roll up neatly.",
+          "examples": [
+            "They furled the sail.",
+            "He furled the flag.",
+            "The sailors furl the sails."
+          ]
+        },
+        "more": {
+          "def": "To roll up and fasten something, such as a flag or sail.",
+          "examples": [
+            "The sailors furled the sails.",
+            "He furled the flag at sunset.",
+            "She furled her umbrella."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "furnace",
     "say": "FER-niss",
     "forms": [
@@ -900,6 +1089,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "unfurnished",
+        "def": "Without furniture."
+      }
     ]
   },
   {
@@ -948,6 +1143,34 @@
             "We bought new furniture for the living room.",
             "A sofa and a table are furniture.",
             "The movers carried the furniture upstairs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "furrow",
+    "say": "FER-oh",
+    "forms": [
+      "furrows"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long line cut into the ground.",
+          "examples": [
+            "The farmer dug a furrow.",
+            "Seeds go in the furrow.",
+            "The furrow was straight."
+          ]
+        },
+        "more": {
+          "def": "A long, narrow ditch made in the soil by a plow, where seeds are planted.",
+          "examples": [
+            "The farmer planted seeds in each furrow.",
+            "The tractor left deep furrows across the field.",
+            "Rain filled the furrows with muddy water."
           ]
         }
       }
@@ -1027,6 +1250,56 @@
     ]
   },
   {
+    "word": "furthermore",
+    "say": "FER-ther-mor",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Also, and what is more.",
+          "examples": [
+            "It is cold. Furthermore, it is dark.",
+            "The bike is fast. Furthermore, it is cheap.",
+            "She is kind. Furthermore, she is funny."
+          ]
+        },
+        "more": {
+          "def": "Used to add another point to what you have already said.",
+          "examples": [
+            "The movie was exciting; furthermore, it was short.",
+            "The park is large; furthermore, it has a pond.",
+            "He is a good swimmer; furthermore, he loves the water."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "furtive",
+    "say": "FER-tiv",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sneaky and secret.",
+          "examples": [
+            "A furtive glance.",
+            "The furtive cat.",
+            "A furtive look."
+          ]
+        },
+        "more": {
+          "def": "Done in a secret, sneaky way so that no one will see.",
+          "examples": [
+            "He gave a furtive glance at the clock.",
+            "The furtive cat crept toward the fish.",
+            "She made a furtive grab for the cookie."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "fury",
     "say": "FYUR-ee",
     "senses": [
@@ -1074,6 +1347,62 @@
             "A blown fuse made the lights go out.",
             "Dad replaced the fuse in the box.",
             "The fuse protects the wires from too much power."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fuselage",
+    "say": "FYOO-suh-lahzh",
+    "forms": [
+      "fuselages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The main body of an airplane.",
+          "examples": [
+            "The fuselage is long.",
+            "People sit in the fuselage.",
+            "The fuselage is white."
+          ]
+        },
+        "more": {
+          "def": "The main body of an airplane, where the passengers and cargo go.",
+          "examples": [
+            "The wings are attached to the fuselage.",
+            "The fuselage of the plane was long and narrow.",
+            "Passengers sit inside the fuselage."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "fusion",
+    "say": "FYOO-zhun",
+    "forms": [
+      "fusions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Joining things together by melting.",
+          "examples": [
+            "The fusion of the metals.",
+            "Fusion mixes things.",
+            "It was a fusion."
+          ]
+        },
+        "more": {
+          "def": "The process of joining things together, often by melting them; or a mix of two styles.",
+          "examples": [
+            "The fusion of the two metals made a strong bar.",
+            "The restaurant serves a fusion of two kinds of food.",
+            "The band played a fusion of jazz and rock."
           ]
         }
       }
@@ -1139,6 +1468,31 @@
     ]
   },
   {
+    "word": "futile",
+    "say": "FYOO-tul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Useless and doomed to fail.",
+          "examples": [
+            "It was futile to try.",
+            "Her effort was futile.",
+            "A futile attempt."
+          ]
+        },
+        "more": {
+          "def": "Having no chance of success; pointless.",
+          "examples": [
+            "It was futile to try to catch the bus once it had gone.",
+            "His effort to lift the rock was futile.",
+            "Trying to stop the tide is futile."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "future",
     "say": "FYOO-cher",
     "emoji": "🚀",
@@ -1159,6 +1513,31 @@
             "No one knows exactly what will happen in the future.",
             "In the future, cars may drive themselves.",
             "She is saving her money for the future."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "futuristic",
+    "say": "fyoo-chuh-RIS-tik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Like what may be in the future.",
+          "examples": [
+            "The car looks futuristic.",
+            "A futuristic city.",
+            "The futuristic robot."
+          ]
+        },
+        "more": {
+          "def": "Looking or seeming as if it belongs to the future.",
+          "examples": [
+            "The futuristic car had no wheels.",
+            "The movie showed a futuristic city.",
+            "She drew a futuristic robot."
           ]
         }
       }
@@ -1215,6 +1594,12 @@
             "The picture was fuzzy and hard to see."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "fuzziness",
+        "def": "Being fuzzy."
       }
     ]
   }

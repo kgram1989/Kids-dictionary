@@ -216,6 +216,31 @@
     ]
   },
   {
+    "word": "aimlessly",
+    "say": "AYM-less-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "With no goal.",
+          "examples": [
+            "She wandered aimlessly.",
+            "The leaf drifted aimlessly.",
+            "He walked aimlessly."
+          ]
+        },
+        "more": {
+          "def": "In a way that has no plan or goal.",
+          "examples": [
+            "He wandered aimlessly through the park.",
+            "The balloon floated aimlessly across the sky.",
+            "The kitten batted aimlessly at the string."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "air",
     "say": "air",
     "emoji": "💨",
@@ -242,8 +267,68 @@
     ],
     "related": [
       {
+        "word": "airless",
+        "def": "Without air."
+      },
+      {
         "word": "airy",
         "def": "Full of fresh air; open and light."
+      }
+    ]
+  },
+  {
+    "word": "airbag",
+    "say": "AIR-bag",
+    "forms": [
+      "airbags"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bag in a car that puffs up in a crash.",
+          "examples": [
+            "The car has an airbag.",
+            "An airbag is a soft bag.",
+            "The airbag protects you."
+          ]
+        },
+        "more": {
+          "def": "A bag in a car that inflates quickly to protect people if there is a crash.",
+          "examples": [
+            "The airbag inflated in the crash.",
+            "An airbag cushions the driver.",
+            "Every new car has an airbag."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "airbase",
+    "say": "AIR-bayss",
+    "forms": [
+      "airbases"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where military planes take off and land.",
+          "examples": [
+            "Planes landed at the airbase.",
+            "The airbase is big.",
+            "The airbase has runways."
+          ]
+        },
+        "more": {
+          "def": "A military base where aircraft take off and land.",
+          "examples": [
+            "Fighter jets landed at the airbase.",
+            "The airbase has long runways and hangars.",
+            "The airbase is near the coast."
+          ]
+        }
       }
     ]
   },
@@ -320,6 +405,59 @@
             "The small plane landed on the grassy airfield near the farm.",
             "We watched the helicopters from the edge of the airfield.",
             "The airfield has one long runway and a small hangar."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "airflow",
+    "say": "AIR-floh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Air that moves.",
+          "examples": [
+            "Airflow cools the room.",
+            "Open it for airflow.",
+            "The airflow was strong."
+          ]
+        },
+        "more": {
+          "def": "The movement of air through or around something.",
+          "examples": [
+            "The fan increased the airflow in the room.",
+            "Open the window for more airflow.",
+            "Wings use airflow to lift a plane."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "airfoil",
+    "say": "AIR-foyl",
+    "forms": [
+      "airfoils"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The curved shape of a wing.",
+          "examples": [
+            "A wing is an airfoil.",
+            "The airfoil is curved.",
+            "An airfoil lifts a plane."
+          ]
+        },
+        "more": {
+          "def": "A curved surface, such as a wing, that is shaped to lift when air moves past it.",
+          "examples": [
+            "A plane's wing is an airfoil.",
+            "The airfoil shape lets air lift the plane.",
+            "The paper wing was a simple airfoil."
           ]
         }
       }
@@ -410,6 +548,59 @@
     ]
   },
   {
+    "word": "airmail",
+    "say": "AIR-mayl",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Mail sent by plane.",
+          "examples": [
+            "Mom sent it by airmail.",
+            "Airmail is fast.",
+            "I sent airmail."
+          ]
+        },
+        "more": {
+          "def": "Letters and parcels carried by airplane.",
+          "examples": [
+            "The letter went by airmail.",
+            "Airmail takes only a few days.",
+            "She sent a gift by airmail."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "airman",
+    "say": "AIR-mun",
+    "forms": [
+      "airmen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who flies or works on airplanes in the air force.",
+          "examples": [
+            "The airman flew a plane.",
+            "An airman wore a uniform.",
+            "The airman waved."
+          ]
+        },
+        "more": {
+          "def": "A member of the air force, or a person who flies airplanes.",
+          "examples": [
+            "The airman checked the plane before takeoff.",
+            "Airmen train for years to fly jets.",
+            "The airman saluted the flag."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "airplane",
     "say": "AIR-playn",
     "emoji": "✈️",
@@ -489,6 +680,31 @@
             "An airship floated over the city.",
             "The airship carried passengers long ago.",
             "A blimp is a kind of airship."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "airsick",
+    "say": "AIR-sik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Feeling sick on a plane.",
+          "examples": [
+            "I felt airsick.",
+            "The airsick boy.",
+            "She was airsick."
+          ]
+        },
+        "more": {
+          "def": "Feeling sick because of the movement of a plane.",
+          "examples": [
+            "I felt airsick during the bumpy flight.",
+            "The airsick boy needed a bag.",
+            "She was airsick on the small plane."
           ]
         }
       }

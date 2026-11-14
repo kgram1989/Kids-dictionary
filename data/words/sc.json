@@ -28,6 +28,88 @@
     ]
   },
   {
+    "word": "scabby",
+    "say": "SKAB-ee",
+    "forms": [
+      "scabbier",
+      "scabbiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Covered with dry crusts over a cut.",
+          "examples": [
+            "His knee was scabby.",
+            "A scabby cut.",
+            "The scabby elbow."
+          ]
+        },
+        "more": {
+          "def": "Covered with scabs, the hard crusts that form over a cut.",
+          "examples": [
+            "His knee was scabby after the fall.",
+            "A scabby cut healed slowly.",
+            "Her elbow was scabby."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scaffold",
+    "say": "SKAF-uld",
+    "forms": [
+      "scaffolds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A frame of poles and boards for workers.",
+          "examples": [
+            "Workers stood on a scaffold.",
+            "The scaffold is tall.",
+            "A scaffold is around the building."
+          ]
+        },
+        "more": {
+          "def": "A temporary frame of poles and boards that workers stand on to build or paint a high wall.",
+          "examples": [
+            "Painters climbed the scaffold to reach the top of the house.",
+            "The scaffold was taken down when the building was done.",
+            "A tall scaffold stood against the tower."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scaffolding",
+    "say": "SKAF-ul-ding",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Poles and boards put up to help workers reach high places.",
+          "examples": [
+            "Scaffolding covered the wall.",
+            "Workers climbed the scaffolding.",
+            "The scaffolding was tall."
+          ]
+        },
+        "more": {
+          "def": "A frame of poles and planks that workers stand on while building or painting a high wall.",
+          "examples": [
+            "Scaffolding covered the front of the old church.",
+            "Painters climbed the scaffolding to reach the roof.",
+            "The scaffolding was taken down when the building was done."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scald",
     "say": "skawld",
     "forms": [
@@ -128,6 +210,59 @@
       {
         "word": "scaly",
         "def": "Covered in scales."
+      }
+    ]
+  },
+  {
+    "word": "scalene",
+    "say": "SKAY-leen",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having three sides of different lengths.",
+          "examples": [
+            "A scalene triangle.",
+            "Draw a scalene shape.",
+            "The scalene sides are not equal."
+          ]
+        },
+        "more": {
+          "def": "Describing a triangle whose three sides are all different lengths.",
+          "examples": [
+            "A scalene triangle has no equal sides.",
+            "Draw a scalene triangle on your paper.",
+            "Each side of a scalene triangle is a different length."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scallion",
+    "say": "SKAL-yun",
+    "forms": [
+      "scallions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A green onion with a white base.",
+          "examples": [
+            "A scallion is an onion.",
+            "The scallion is green.",
+            "Chop the scallion."
+          ]
+        },
+        "more": {
+          "def": "A young onion with a white base and long green stalks.",
+          "examples": [
+            "She chopped scallions for the soup.",
+            "A scallion is a mild green onion.",
+            "Scallions are sprinkled over the noodles."
+          ]
+        }
       }
     ]
   },
@@ -244,6 +379,34 @@
     ]
   },
   {
+    "word": "scamp",
+    "say": "skamp",
+    "forms": [
+      "scamps"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A playful child or pet who gets into mischief.",
+          "examples": [
+            "The scamp ran off.",
+            "You little scamp!",
+            "The scamp took a cookie."
+          ]
+        },
+        "more": {
+          "def": "A playful child or pet who does silly or naughty things.",
+          "examples": [
+            "You little scamp, come back here!",
+            "The puppy was a scamp who hid our shoes.",
+            "The scamp grinned and ran away with the hat."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scamper",
     "say": "SKAM-per",
     "forms": [
@@ -338,6 +501,60 @@
     ]
   },
   {
+    "word": "scant",
+    "say": "skant",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Hardly enough.",
+          "examples": [
+            "We had scant food.",
+            "The scant light.",
+            "There was scant time."
+          ]
+        },
+        "more": {
+          "def": "Barely enough; very little.",
+          "examples": [
+            "We had scant time to catch the bus.",
+            "There was scant evidence of snow.",
+            "They shared a scant meal of bread and cheese."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scanty",
+    "say": "SKAN-tee",
+    "forms": [
+      "scantier",
+      "scantiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Too small or too little.",
+          "examples": [
+            "The food was scanty.",
+            "A scanty meal.",
+            "The scanty light."
+          ]
+        },
+        "more": {
+          "def": "Hardly enough; very small in amount.",
+          "examples": [
+            "The food was scanty for so many guests.",
+            "They shared a scanty meal.",
+            "The scanty light made reading hard."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scar",
     "say": "skar",
     "forms": [
@@ -360,6 +577,34 @@
             "I have a scar on my knee from falling off my bike.",
             "The old scar looked like a thin line.",
             "The tree had a scar where a branch broke off."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scarab",
+    "say": "SKAIR-ub",
+    "forms": [
+      "scarabs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A beetle that people long ago thought was lucky.",
+          "examples": [
+            "A scarab is a beetle.",
+            "The scarab was blue.",
+            "He found a scarab."
+          ]
+        },
+        "more": {
+          "def": "A kind of beetle, or a stone carved in its shape, that ancient Egyptians thought was lucky.",
+          "examples": [
+            "The museum had a gold scarab from Egypt.",
+            "The scarab beetle rolls a ball of dung.",
+            "Ancient Egyptians wore scarab charms for luck."
           ]
         }
       }
@@ -414,6 +659,31 @@
             "I could scarcely hear her over the noise.",
             "We had scarcely sat down when the bell rang.",
             "There was scarcely any food left in the house."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scarcity",
+    "say": "SKAIR-sih-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Not having enough.",
+          "examples": [
+            "There was a scarcity of food.",
+            "Scarcity of water.",
+            "A scarcity of toys."
+          ]
+        },
+        "more": {
+          "def": "A situation where there is not enough of something.",
+          "examples": [
+            "There was a scarcity of food in winter.",
+            "The drought caused a scarcity of water.",
+            "A scarcity of seats forced us to stand."
           ]
         }
       }
@@ -534,6 +804,31 @@
     ]
   },
   {
+    "word": "scarily",
+    "say": "SKAIR-ih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a scary way.",
+          "examples": [
+            "The wind howled scarily.",
+            "The movie was scarily good.",
+            "The room was scarily quiet."
+          ]
+        },
+        "more": {
+          "def": "In a way that is frightening.",
+          "examples": [
+            "The wind howled scarily through the trees.",
+            "It grew scarily dark.",
+            "The dog barked scarily loud."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scarlet",
     "say": "SKAR-lit",
     "emoji": "🔴",
@@ -633,6 +928,31 @@
             "The marbles scattered across the floor when the bag broke.",
             "The crowd scattered when the rain began.",
             "He scattered salt on the icy steps."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scatterbrained",
+    "say": "SKAT-er-braynd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Forgetful and not paying attention.",
+          "examples": [
+            "A scatterbrained boy.",
+            "She is scatterbrained.",
+            "The scatterbrained teacher."
+          ]
+        },
+        "more": {
+          "def": "Forgetful and unable to pay attention to one thing.",
+          "examples": [
+            "The scatterbrained boy lost his hat again.",
+            "She is scatterbrained when she's in a hurry.",
+            "The scatterbrained teacher forgot her keys."
           ]
         }
       }
@@ -959,6 +1279,34 @@
     ]
   },
   {
+    "word": "schnauzer",
+    "say": "SHNOW-zer",
+    "forms": [
+      "schnauzers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dog with a beard and bushy eyebrows.",
+          "examples": [
+            "A schnauzer has a beard.",
+            "The schnauzer is gray.",
+            "I have a schnauzer."
+          ]
+        },
+        "more": {
+          "def": "A kind of dog with a wiry coat, bushy eyebrows and a beard.",
+          "examples": [
+            "The schnauzer wagged its bearded face.",
+            "A schnauzer has bushy eyebrows.",
+            "Our schnauzer loves to play."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scholar",
     "say": "SKOL-er",
     "forms": [
@@ -1087,6 +1435,62 @@
             "Our school has a library, a gym, and a garden.",
             "The school bus picks us up at the corner.",
             "She goes to school five days a week."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "schoolbag",
+    "say": "SKOOL-bag",
+    "forms": [
+      "schoolbags"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bag for carrying school things.",
+          "examples": [
+            "My schoolbag is blue.",
+            "I pack my schoolbag.",
+            "The schoolbag is heavy."
+          ]
+        },
+        "more": {
+          "def": "A bag used to carry books and other things to and from school.",
+          "examples": [
+            "I packed my schoolbag the night before.",
+            "Her schoolbag was full of books.",
+            "He hung his schoolbag on the hook."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "schoolbook",
+    "say": "SKOOL-buuk",
+    "forms": [
+      "schoolbooks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A book used for learning at school.",
+          "examples": [
+            "I read my schoolbook.",
+            "The schoolbook is heavy.",
+            "My schoolbook has maps."
+          ]
+        },
+        "more": {
+          "def": "A book that students use to study a subject at school.",
+          "examples": [
+            "I put my schoolbooks in my bag.",
+            "The schoolbook has pictures of animals.",
+            "Her schoolbook was full of maps."
           ]
         }
       }
@@ -1230,6 +1634,62 @@
     ]
   },
   {
+    "word": "schoolmate",
+    "say": "SKOOL-mayt",
+    "forms": [
+      "schoolmates"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who goes to the same school.",
+          "examples": [
+            "My schoolmate lives near me.",
+            "She is my schoolmate.",
+            "A schoolmate called."
+          ]
+        },
+        "more": {
+          "def": "A person who goes to the same school as you.",
+          "examples": [
+            "My schoolmate lives down the street.",
+            "I walk to school with a schoolmate.",
+            "My schoolmates came to my birthday party."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "schoolroom",
+    "say": "SKOOL-room",
+    "forms": [
+      "schoolrooms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A room where children have lessons.",
+          "examples": [
+            "The schoolroom is big.",
+            "We sat in the schoolroom.",
+            "The schoolroom had desks."
+          ]
+        },
+        "more": {
+          "def": "A room in a school where children learn.",
+          "examples": [
+            "The old schoolroom had rows of wooden desks.",
+            "The children hung their coats at the back of the schoolroom.",
+            "Sunlight came in through the schoolroom windows."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "schoolteacher",
     "say": "SKOOL-tee-cher",
     "forms": [
@@ -1305,6 +1765,34 @@
             "We played tag in the schoolyard.",
             "A big oak tree grows in the schoolyard.",
             "Kids lined up in the schoolyard after recess."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "schooner",
+    "say": "SKOO-ner",
+    "forms": [
+      "schooners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sailing ship with two or more masts.",
+          "examples": [
+            "The schooner sailed.",
+            "A schooner has tall sails.",
+            "We saw a schooner."
+          ]
+        },
+        "more": {
+          "def": "A sailing ship with two or more tall masts and sails that run front to back.",
+          "examples": [
+            "The schooner glided across the bay.",
+            "A fisherman sailed his schooner out to sea.",
+            "Two schooners raced across the harbor."
           ]
         }
       }
@@ -1419,6 +1907,36 @@
             "I cut the paper with scissors.",
             "The scissors are sharp, so be careful.",
             "She trimmed the thread with the scissors."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scoff",
+    "say": "skof",
+    "forms": [
+      "scoffs",
+      "scoffed",
+      "scoffing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make fun of an idea by laughing at it.",
+          "examples": [
+            "He scoffed at my plan.",
+            "Do not scoff at me.",
+            "She scoffed and rolled her eyes."
+          ]
+        },
+        "more": {
+          "def": "To speak or laugh in a way that shows you think something is silly.",
+          "examples": [
+            "He scoffed at the idea of a talking dog.",
+            "The older boys scoffed at the little boy's plan.",
+            "\"That could never work,\" she scoffed."
           ]
         }
       }
@@ -1738,6 +2256,62 @@
     ]
   },
   {
+    "word": "scorecard",
+    "say": "SKOR-kard",
+    "forms": [
+      "scorecards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A card for writing scores.",
+          "examples": [
+            "He filled in the scorecard.",
+            "The scorecard has numbers.",
+            "A scorecard is for scores."
+          ]
+        },
+        "more": {
+          "def": "A card on which the scores of a game are written.",
+          "examples": [
+            "He filled in the scorecard after each round.",
+            "The scorecard showed the final result.",
+            "Each player kept a scorecard."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scorekeeper",
+    "say": "SKOR-kee-per",
+    "forms": [
+      "scorekeepers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who writes down the score.",
+          "examples": [
+            "The scorekeeper wrote it down.",
+            "A scorekeeper counts.",
+            "The scorekeeper kept score."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to keep a record of the score in a game.",
+          "examples": [
+            "The scorekeeper wrote down every point.",
+            "A scorekeeper counts the runs.",
+            "The scorekeeper announced the final score."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scorer",
     "say": "SKOR-er",
     "forms": [
@@ -1821,6 +2395,31 @@
     ]
   },
   {
+    "word": "scornfully",
+    "say": "SKORN-ful-ee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that shows you think something is not good.",
+          "examples": [
+            "He laughed scornfully.",
+            "She scornfully shook her head.",
+            "The man scornfully looked."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows you think someone or something is not worth anything.",
+          "examples": [
+            "The king laughed scornfully at the poor man's gift.",
+            "She scornfully tossed the old toy aside.",
+            "\"That's silly,\" he said scornfully."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scorpion",
     "say": "SKOR-pee-un",
     "emoji": "🦂",
@@ -1844,6 +2443,34 @@
             "A scorpion hid under a rock to escape the hot sun.",
             "The scorpion raised its tail as the beetle came near.",
             "We saw a glowing scorpion under a special light at the museum."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scoundrel",
+    "say": "SKOWN-drul",
+    "forms": [
+      "scoundrels"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rude, tricky person.",
+          "examples": [
+            "The scoundrel played a trick.",
+            "A scoundrel lied.",
+            "The scoundrel ran away."
+          ]
+        },
+        "more": {
+          "def": "A person who behaves badly, tricks others or cannot be trusted.",
+          "examples": [
+            "The scoundrel tricked the baker out of his pies.",
+            "In the tale, the scoundrel fooled the village.",
+            "\"You scoundrel!\" cried the farmer."
           ]
         }
       }
@@ -1929,6 +2556,34 @@
     ]
   },
   {
+    "word": "scoutmaster",
+    "say": "SKOWT-mas-ter",
+    "forms": [
+      "scoutmasters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A leader of a scout troop.",
+          "examples": [
+            "The scoutmaster smiled.",
+            "A scoutmaster leads scouts.",
+            "The scoutmaster waved."
+          ]
+        },
+        "more": {
+          "def": "The adult leader of a scout troop.",
+          "examples": [
+            "The scoutmaster led the hike.",
+            "A scoutmaster teaches camping skills.",
+            "The scoutmaster checked the tents."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scowl",
     "say": "skowl",
     "forms": [
@@ -1972,6 +2627,35 @@
             "A scowl crossed his face when he lost.",
             "She gave the dog a scowl.",
             "His scowl turned into a smile."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scraggly",
+    "say": "SKRAG-lee",
+    "forms": [
+      "scragglier",
+      "scraggliest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Thin and messy.",
+          "examples": [
+            "A scraggly tree.",
+            "The scraggly beard.",
+            "The scraggly cat."
+          ]
+        },
+        "more": {
+          "def": "Thin, untidy and rough-looking.",
+          "examples": [
+            "A scraggly tree grew on the rocky hill.",
+            "The old man had a scraggly beard.",
+            "The scraggly cat sat on the fence."
           ]
         }
       }
@@ -2302,6 +2986,55 @@
     ]
   },
   {
+    "word": "scrawl",
+    "say": "skrawl",
+    "forms": [
+      "scrawls",
+      "scrawled",
+      "scrawling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To write in a messy, quick way.",
+          "examples": [
+            "I scrawled my name.",
+            "He scrawled a note.",
+            "She scrawled on the board."
+          ]
+        },
+        "more": {
+          "def": "To write quickly and messily, so that it is hard to read.",
+          "examples": [
+            "He scrawled a note and left it on the table.",
+            "The child scrawled across the page with a crayon.",
+            "She scrawled her name at the bottom of the card."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Messy, hard-to-read writing.",
+          "examples": [
+            "His note was a scrawl.",
+            "I cannot read this scrawl.",
+            "The scrawl was big."
+          ]
+        },
+        "more": {
+          "def": "Writing that is quick, messy and hard to read.",
+          "examples": [
+            "The doctor's note was an unreadable scrawl.",
+            "I could not read his scrawl on the note.",
+            "A scrawl of purple crayon covered the wall."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scrawny",
     "say": "SKRAW-nee",
     "forms": [
@@ -2411,6 +3144,35 @@
     ]
   },
   {
+    "word": "screechy",
+    "say": "SKREE-chee",
+    "forms": [
+      "screechier",
+      "screechiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "High and harsh in sound.",
+          "examples": [
+            "The brakes were screechy.",
+            "A screechy voice.",
+            "The screechy gate."
+          ]
+        },
+        "more": {
+          "def": "Making a loud, high sound.",
+          "examples": [
+            "The screechy brakes made us cover our ears.",
+            "She had a screechy laugh.",
+            "The screechy gate needed oil."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "screen",
     "say": "skreen",
     "emoji": "🖥️",
@@ -2500,6 +3262,90 @@
             "The nurse did a hearing screening at school.",
             "A vision screening takes only a few minutes.",
             "Every student had a health screening in the fall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "screenplay",
+    "say": "SKREEN-play",
+    "forms": [
+      "screenplays"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The written story for a movie.",
+          "examples": [
+            "A screenplay is a movie script.",
+            "She wrote a screenplay.",
+            "The screenplay is long."
+          ]
+        },
+        "more": {
+          "def": "The script of a movie, with the words and actions of the characters.",
+          "examples": [
+            "She wrote a screenplay for her movie.",
+            "A screenplay tells what the actors say and do.",
+            "The screenplay was one hundred pages long."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "screenshot",
+    "say": "SKREEN-shot",
+    "forms": [
+      "screenshots"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture of what is on your screen.",
+          "examples": [
+            "I took a screenshot.",
+            "A screenshot is a picture.",
+            "The screenshot shows the game."
+          ]
+        },
+        "more": {
+          "def": "A picture of whatever is showing on a computer or phone screen.",
+          "examples": [
+            "I took a screenshot of my score.",
+            "A screenshot copies what is on your screen.",
+            "She sent me a screenshot of the map."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "screenwriter",
+    "say": "SKREEN-ry-ter",
+    "forms": [
+      "screenwriters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who writes movies.",
+          "examples": [
+            "My aunt is a screenwriter.",
+            "The screenwriter wrote the film.",
+            "She is a screenwriter."
+          ]
+        },
+        "more": {
+          "def": "A person who writes the words and story for movies or TV shows.",
+          "examples": [
+            "The screenwriter wrote the film.",
+            "A screenwriter writes the lines for the actors.",
+            "She dreams of becoming a screenwriter."
           ]
         }
       }
@@ -2627,6 +3473,34 @@
             "The baby's drawing was just a scribble of red lines.",
             "His writing was a scribble that no one could read.",
             "I made a scribble in the margin of my notebook."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scribe",
+    "say": "skryb",
+    "forms": [
+      "scribes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who copied books by hand long ago.",
+          "examples": [
+            "The scribe copied the book.",
+            "A scribe wrote letters.",
+            "The scribe used a pen."
+          ]
+        },
+        "more": {
+          "def": "A person whose job was to copy books and write documents by hand before printing was invented.",
+          "examples": [
+            "The scribe copied the book by hand.",
+            "Scribes wrote letters for people who could not write.",
+            "The scribe dipped his quill in ink."
           ]
         }
       }
@@ -2833,6 +3707,56 @@
     ]
   },
   {
+    "word": "scrubby",
+    "say": "SKRUB-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Covered with low, rough bushes.",
+          "examples": [
+            "The land was scrubby.",
+            "A scrubby hill.",
+            "The scrubby field."
+          ]
+        },
+        "more": {
+          "def": "Covered with low, rough bushes or small trees.",
+          "examples": [
+            "The hillside was dry and scrubby.",
+            "Sheep grazed on the scrubby land.",
+            "A scrubby field lay beyond the fence."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scruff",
+    "say": "skruf",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The back of the neck.",
+          "examples": [
+            "The cat picked up the kitten by the scruff.",
+            "She held the puppy by the scruff.",
+            "The mother cat grabbed the scruff."
+          ]
+        },
+        "more": {
+          "def": "The loose skin at the back of the neck of a cat or dog.",
+          "examples": [
+            "The mother cat carried her kitten by the scruff of its neck.",
+            "The vet held the puppy gently by the scruff.",
+            "He grabbed his brother by the scruff of the neck."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "scruffy",
     "say": "SKRUF-ee",
     "forms": [
@@ -2911,6 +3835,114 @@
             "I scrunched my nose at the smell.",
             "She scrunched the paper into a ball.",
             "He scrunched up his face at the sour taste."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scrunchie",
+    "say": "SKRUN-chee",
+    "forms": [
+      "scrunchies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft elastic band for hair.",
+          "examples": [
+            "She wore a scrunchie.",
+            "The scrunchie is soft.",
+            "A scrunchie holds hair."
+          ]
+        },
+        "more": {
+          "def": "A fabric-covered elastic band used to tie up hair.",
+          "examples": [
+            "She tied her hair with a scrunchie.",
+            "The scrunchie was bright pink.",
+            "A scrunchie is soft on hair."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scrupulous",
+    "say": "SKROO-pyuh-lus",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very careful and honest.",
+          "examples": [
+            "A scrupulous worker.",
+            "The scrupulous judge.",
+            "She was scrupulous."
+          ]
+        },
+        "more": {
+          "def": "Very careful to do what is right and to pay attention to small details.",
+          "examples": [
+            "The scrupulous clerk counted every cent.",
+            "A scrupulous worker double-checks everything.",
+            "The judge was honest and scrupulous."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scrutinize",
+    "say": "SKROO-tih-nyz",
+    "forms": [
+      "scrutinizes",
+      "scrutinized",
+      "scrutinizing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To look at very closely.",
+          "examples": [
+            "She scrutinized the map.",
+            "He scrutinized the picture.",
+            "The judge scrutinized it."
+          ]
+        },
+        "more": {
+          "def": "To look at something very closely and carefully.",
+          "examples": [
+            "She scrutinized the map for the route.",
+            "He scrutinized the picture for clues.",
+            "The inspector scrutinized the coin."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scrutiny",
+    "say": "SKROO-tih-nee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A close, careful look.",
+          "examples": [
+            "The painting got scrutiny.",
+            "The teacher's scrutiny.",
+            "Under scrutiny."
+          ]
+        },
+        "more": {
+          "def": "A careful and close look at something.",
+          "examples": [
+            "The painting was examined under close scrutiny.",
+            "The teacher's scrutiny found the mistake.",
+            "The coin passed scrutiny."
           ]
         }
       }
@@ -3015,6 +4047,34 @@
             "The puppies had a scuffle over the ball.",
             "There was a scuffle at the door.",
             "The scuffle ended with a laugh."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scull",
+    "say": "skul",
+    "forms": [
+      "sculls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A light rowing boat.",
+          "examples": [
+            "The scull glided.",
+            "A scull is a rowing boat.",
+            "He rowed a scull."
+          ]
+        },
+        "more": {
+          "def": "A light, narrow racing boat for one or two rowers, or a short oar used to row it.",
+          "examples": [
+            "The scull glided across the lake.",
+            "She rowed a scull in the race.",
+            "A scull is long and thin."
           ]
         }
       }
@@ -3161,6 +4221,34 @@
             "The little crab scuttled sideways across the sand.",
             "A beetle scuttled under a leaf when the light came on.",
             "The mice scuttled back into their hole."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "scythe",
+    "say": "syth",
+    "forms": [
+      "scythes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool with a long blade for cutting grass.",
+          "examples": [
+            "The farmer used a scythe.",
+            "A scythe cuts grass.",
+            "The scythe is sharp."
+          ]
+        },
+        "more": {
+          "def": "A farming tool with a long handle and a curved blade, used to cut grass or grain.",
+          "examples": [
+            "The farmer swung the scythe to cut the hay.",
+            "Long ago, people cut wheat with a scythe.",
+            "A scythe has a long, curved blade."
           ]
         }
       }

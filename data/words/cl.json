@@ -1,5 +1,35 @@
 [
   {
+    "word": "clack",
+    "say": "klak",
+    "forms": [
+      "clacks",
+      "clacked",
+      "clacking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a short, sharp, hard sound.",
+          "examples": [
+            "The sticks clacked.",
+            "Her shoes clacked on the floor.",
+            "The train clacked by."
+          ]
+        },
+        "more": {
+          "def": "To make a short, sharp sound, like hard things hitting together.",
+          "examples": [
+            "Her heels clacked on the tile floor.",
+            "The wooden blocks clacked together.",
+            "The train clacked over the tracks."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "claim",
     "say": "klaym",
     "forms": [
@@ -196,6 +226,34 @@
     ]
   },
   {
+    "word": "clamshell",
+    "say": "KLAM-shel",
+    "forms": [
+      "clamshells"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The shell of a sea animal that opens in two.",
+          "examples": [
+            "I found a clamshell.",
+            "The clamshell is white.",
+            "A clamshell has two halves."
+          ]
+        },
+        "more": {
+          "def": "The hard shell of a clam, which has two parts that hinge together.",
+          "examples": [
+            "I found a clamshell on the beach.",
+            "The clamshell opened and closed.",
+            "The clamshell had pretty stripes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clan",
     "say": "klan",
     "forms": [
@@ -218,6 +276,31 @@
             "The clan lived in the hills of Scotland.",
             "His clan gathered for a big feast.",
             "Each clan had its own colors."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clandestine",
+    "say": "klan-DES-tin",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Secret.",
+          "examples": [
+            "A clandestine meeting.",
+            "The clandestine plan.",
+            "A clandestine visit."
+          ]
+        },
+        "more": {
+          "def": "Done in secret, so no one will find out.",
+          "examples": [
+            "They held a clandestine meeting in the garden.",
+            "The clandestine plan was a surprise party.",
+            "The clandestine visit was at night."
           ]
         }
       }
@@ -366,6 +449,64 @@
             "A clap of thunder shook the house.",
             "The clap of the book hitting the floor made me jump.",
             "The clap echoed down the hall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clapper",
+    "say": "KLAP-er",
+    "forms": [
+      "clappers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part inside a bell that hits it.",
+          "examples": [
+            "The clapper hits the bell.",
+            "A clapper rings it.",
+            "The bell's clapper."
+          ]
+        },
+        "more": {
+          "def": "The part inside a bell that swings and strikes the side to make it ring.",
+          "examples": [
+            "The clapper struck the bell.",
+            "A bell without a clapper cannot ring.",
+            "The old church bell had a heavy clapper."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clarify",
+    "say": "KLAIR-ih-fy",
+    "forms": [
+      "clarifies",
+      "clarified",
+      "clarifying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make something easier to understand.",
+          "examples": [
+            "Please clarify the rule.",
+            "She clarified the answer.",
+            "He clarified his idea."
+          ]
+        },
+        "more": {
+          "def": "To make something clearer and easier to understand.",
+          "examples": [
+            "Please clarify what you mean.",
+            "The teacher clarified the rules of the game.",
+            "He drew a picture to clarify his idea."
           ]
         }
       }
@@ -521,6 +662,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "unclasp",
+        "def": "To open a clasp."
+      }
     ]
   },
   {
@@ -568,6 +715,12 @@
             "Math class begins right after lunch."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "classless",
+        "def": "Without any classes or groups."
       }
     ]
   },
@@ -810,6 +963,59 @@
     ]
   },
   {
+    "word": "clause",
+    "say": "klawz",
+    "forms": [
+      "clauses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A part of a sentence.",
+          "examples": [
+            "A clause has a verb.",
+            "Underline the clause.",
+            "The clause is short."
+          ]
+        },
+        "more": {
+          "def": "A group of words that has its own subject and verb and forms part of a sentence.",
+          "examples": [
+            "\"When the bell rang\" is a clause.",
+            "Underline the clause in the sentence.",
+            "A sentence can have more than one clause."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "claustrophobic",
+    "say": "klaw-struh-FOH-bik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Afraid of small, tight spaces, or feeling shut in.",
+          "examples": [
+            "I feel claustrophobic.",
+            "The room was claustrophobic.",
+            "He felt claustrophobic."
+          ]
+        },
+        "more": {
+          "def": "Afraid of being in small, closed spaces, or making you feel that way.",
+          "examples": [
+            "She felt claustrophobic in the tiny elevator.",
+            "The crowded room was claustrophobic.",
+            "The cave was so small that it was claustrophobic."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "claw",
     "say": "klaw",
     "forms": [
@@ -912,6 +1118,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "cleanness",
+        "def": "Being clean."
+      }
     ]
   },
   {
@@ -981,6 +1193,31 @@
             "The cleanliness of the kitchen impressed the visitors.",
             "We learned about cleanliness in health class.",
             "Cleanliness helps stop the spread of germs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cleanly",
+    "say": "KLEEN-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a neat, smooth way.",
+          "examples": [
+            "The knife cut cleanly.",
+            "She jumped cleanly.",
+            "He kicked the ball cleanly."
+          ]
+        },
+        "more": {
+          "def": "In a neat and tidy way, without mess or mistakes.",
+          "examples": [
+            "The knife cut cleanly through the bread.",
+            "The diver entered the water cleanly.",
+            "He hit the ball cleanly."
           ]
         }
       }
@@ -1143,6 +1380,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "clearness",
+        "def": "Being easy to see or understand."
+      }
     ]
   },
   {
@@ -1221,6 +1464,115 @@
             "The football players dug their cleats into the grass.",
             "The mud stuck to my cleats.",
             "The player tied her cleats before the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clef",
+    "say": "KLEF",
+    "forms": [
+      "clefs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sign at the start of music that tells the notes.",
+          "examples": [
+            "A clef is on the staff.",
+            "The treble clef is a sign.",
+            "Find the clef."
+          ]
+        },
+        "more": {
+          "def": "A symbol at the start of a line of music that shows how high or low the notes are.",
+          "examples": [
+            "The treble clef is on the staff.",
+            "A clef tells which notes are which.",
+            "Pianists read both the treble and the bass clef."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cleft",
+    "say": "kleft",
+    "forms": [
+      "clefts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small split in a rock.",
+          "examples": [
+            "A cleft in the rock.",
+            "The cleft was narrow.",
+            "A cleft split the log."
+          ]
+        },
+        "more": {
+          "def": "A narrow opening or split, especially in rock.",
+          "examples": [
+            "A small plant grew in a cleft in the rock.",
+            "The stream flowed through a deep cleft in the hill.",
+            "A cleft split the old log in two."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clematis",
+    "say": "KLEM-uh-tis",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A climbing plant with showy flowers.",
+          "examples": [
+            "A clematis climbs the fence.",
+            "The clematis is purple.",
+            "Clematis is a vine."
+          ]
+        },
+        "more": {
+          "def": "A climbing plant with large, showy flowers.",
+          "examples": [
+            "A purple clematis climbed the fence.",
+            "Clematis blooms in summer.",
+            "The clematis wound around the post."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clementine",
+    "say": "KLEM-un-teen",
+    "forms": [
+      "clementines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small, sweet orange.",
+          "examples": [
+            "I ate a clementine.",
+            "The clementine is small.",
+            "A clementine is sweet."
+          ]
+        },
+        "more": {
+          "def": "A small, sweet citrus fruit that is easy to peel, a kind of tiny orange.",
+          "examples": [
+            "I peeled a clementine for lunch.",
+            "A clementine is sweet and juicy.",
+            "She packed two clementines in her lunch."
           ]
         }
       }
@@ -1371,6 +1723,31 @@
     ]
   },
   {
+    "word": "cleverly",
+    "say": "KLEV-er-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a smart way.",
+          "examples": [
+            "The fox cleverly hid.",
+            "She cleverly solved the puzzle.",
+            "He cleverly used a stick."
+          ]
+        },
+        "more": {
+          "def": "In a smart and skillful way.",
+          "examples": [
+            "The fox cleverly escaped through a hole in the fence.",
+            "She cleverly solved the puzzle in two minutes.",
+            "The crow cleverly dropped pebbles into the jug."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cleverness",
     "say": "KLEV-er-ness",
     "senses": [
@@ -1390,6 +1767,34 @@
             "The cleverness of the fox helped him escape.",
             "I admire her cleverness at puzzles.",
             "His cleverness saved the day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cliche",
+    "say": "klee-SHAY",
+    "forms": [
+      "cliches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An old saying or idea that is used too often.",
+          "examples": [
+            "That is a cliche.",
+            "A cliche is overused.",
+            "Avoid the cliche."
+          ]
+        },
+        "more": {
+          "def": "A saying, phrase or idea that has been used so often that it sounds boring.",
+          "examples": [
+            "\"Busy as a bee\" is a cliche.",
+            "A cliche is a tired old phrase.",
+            "The writer tried to avoid every cliche."
           ]
         }
       }
@@ -1446,6 +1851,31 @@
     ]
   },
   {
+    "word": "clickable",
+    "say": "KLIK-uh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to be clicked.",
+          "examples": [
+            "This clickable icon opens the game.",
+            "A clickable link.",
+            "The picture is clickable."
+          ]
+        },
+        "more": {
+          "def": "Able to be clicked with a mouse or finger to do something.",
+          "examples": [
+            "The button is clickable.",
+            "A clickable picture takes you to another page.",
+            "Only the blue words are clickable."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clicker",
     "say": "KLIK-er",
     "forms": [
@@ -1468,6 +1898,91 @@
             "The teacher used a clicker to change the slide.",
             "A trainer used a clicker with the puppy.",
             "I lost the clicker for the TV."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "client",
+    "say": "KLY-unt",
+    "forms": [
+      "clients"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who pays for the help of a worker.",
+          "examples": [
+            "The client waited.",
+            "The doctor met a client.",
+            "The lawyer called a client."
+          ]
+        },
+        "more": {
+          "def": "A person who pays a worker or business for a service or advice.",
+          "examples": [
+            "The hair stylist greeted her next client.",
+            "The architect showed the client the plans for the house.",
+            "A good worker listens carefully to each client."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cliff",
+    "say": "klif",
+    "emoji": "🏔️",
+    "forms": [
+      "cliffs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very high wall of rock.",
+          "examples": [
+            "The bird sat on the cliff.",
+            "We stood by the cliff.",
+            "Waves hit the cliff."
+          ]
+        },
+        "more": {
+          "def": "A high, steep face of rock or earth, often at the edge of the sea.",
+          "examples": [
+            "Seagulls nest on the ledges of the cliff.",
+            "We looked down from the top of the cliff at the waves.",
+            "The path along the cliff has a fence for safety."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cliffhanger",
+    "say": "KLIF-hang-er",
+    "forms": [
+      "cliffhangers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A story that stops at an exciting point.",
+          "examples": [
+            "The show ended with a cliffhanger.",
+            "A cliffhanger is exciting.",
+            "What a cliffhanger!"
+          ]
+        },
+        "more": {
+          "def": "An exciting ending that leaves you wondering what will happen next.",
+          "examples": [
+            "The chapter ended with a cliffhanger.",
+            "The movie ended on a cliffhanger.",
+            "I could not wait to read after that cliffhanger."
           ]
         }
       }
@@ -1497,6 +2012,34 @@
             "Penguins live in a very cold climate.",
             "Oranges grow best in a warm, sunny climate.",
             "Scientists study how the Earth's climate is changing."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "climatologist",
+    "say": "kly-muh-TOL-uh-jist",
+    "forms": [
+      "climatologists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A scientist who studies weather over many years.",
+          "examples": [
+            "A climatologist studies weather.",
+            "The climatologist knows the climate.",
+            "She is a climatologist."
+          ]
+        },
+        "more": {
+          "def": "A scientist who studies the usual weather of a place over many years.",
+          "examples": [
+            "The climatologist studies how temperatures change.",
+            "A climatologist looks at weather over many years.",
+            "She is a climatologist who tracks rainfall."
           ]
         }
       }
@@ -1821,6 +2364,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "unclip",
+        "def": "To undo a clip."
+      }
     ]
   },
   {
@@ -2039,6 +2588,59 @@
     ]
   },
   {
+    "word": "clockmaker",
+    "say": "KLOK-may-ker",
+    "forms": [
+      "clockmakers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who makes or fixes clocks.",
+          "examples": [
+            "The clockmaker fixed the clock.",
+            "A clockmaker has tiny tools.",
+            "The clockmaker works slowly."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to make and repair clocks.",
+          "examples": [
+            "The clockmaker repaired the old clock in the tower.",
+            "A clockmaker needs steady hands and a good eye.",
+            "The clockmaker oiled the tiny gears."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clockwise",
+    "say": "KLOK-wyz",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "The same way as the hands of a clock.",
+          "examples": [
+            "Turn the knob clockwise.",
+            "We walked clockwise.",
+            "The wheel spins clockwise."
+          ]
+        },
+        "more": {
+          "def": "In the direction that the hands of a clock move.",
+          "examples": [
+            "Turn the lid clockwise to close the jar.",
+            "The skaters circled the rink clockwise.",
+            "The dancers moved clockwise around the room."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clockwork",
     "say": "KLOK-werk",
     "senses": [
@@ -2058,6 +2660,34 @@
             "The toy mouse runs on clockwork.",
             "He wound the clockwork before the toy moved.",
             "Tiny wheels of clockwork turned inside the old clock."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clod",
+    "say": "klod",
+    "forms": [
+      "clods"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A lump of dirt or clay.",
+          "examples": [
+            "He kicked a clod of dirt.",
+            "The clod was hard.",
+            "A clod fell."
+          ]
+        },
+        "more": {
+          "def": "A hard bit of dirt.",
+          "examples": [
+            "He kicked a clod of dirt across the field.",
+            "The farmer broke up the clods with a hoe.",
+            "A clod of mud stuck to my boot."
           ]
         }
       }
@@ -2113,6 +2743,64 @@
     ]
   },
   {
+    "word": "cloister",
+    "say": "KLOY-ster",
+    "forms": [
+      "cloisters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A covered walkway around a courtyard.",
+          "examples": [
+            "We walked in the cloister.",
+            "The cloister is quiet.",
+            "A cloister has arches."
+          ]
+        },
+        "more": {
+          "def": "A covered walkway with arches around a courtyard, especially in an old abbey or college.",
+          "examples": [
+            "We walked along the stone cloister.",
+            "The cloister was cool and quiet.",
+            "Arches lined the old cloister."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clomp",
+    "say": "klomp",
+    "forms": [
+      "clomps",
+      "clomped",
+      "clomping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To walk heavily.",
+          "examples": [
+            "He clomped in.",
+            "The horse clomped.",
+            "She clomped up the stairs."
+          ]
+        },
+        "more": {
+          "def": "To walk with loud, heavy steps.",
+          "examples": [
+            "He clomped across the wooden floor in his boots.",
+            "The horse clomped down the road.",
+            "The children clomped up the stairs."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clone",
     "say": "klohn",
     "forms": [
@@ -2156,6 +2844,36 @@
             "Scientists cloned a sheep in the lab.",
             "A gardener can clone a plant from a cutting.",
             "We cloned the computer file to make a backup."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "clop",
+    "say": "klop",
+    "forms": [
+      "clops",
+      "clopped",
+      "clopping"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sound a horse makes when it walks.",
+          "examples": [
+            "We heard the clop.",
+            "Clop, clop, went the horse.",
+            "The clop was loud."
+          ]
+        },
+        "more": {
+          "def": "The sound of hooves hitting a hard road.",
+          "examples": [
+            "The clop of the horse's hooves echoed down the street.",
+            "We heard the steady clop of a pony on the road.",
+            "Clop, clop, clop went the old gray horse."
           ]
         }
       }
@@ -2290,6 +3008,62 @@
     ]
   },
   {
+    "word": "closeup",
+    "say": "KLOHS-up",
+    "forms": [
+      "closeups"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A picture taken very near.",
+          "examples": [
+            "A closeup of a flower.",
+            "The closeup is big.",
+            "Take a closeup."
+          ]
+        },
+        "more": {
+          "def": "A photograph or film shot taken from very near, so that the thing looks big.",
+          "examples": [
+            "She took a closeup of the flower.",
+            "The closeup showed every freckle.",
+            "The movie showed a closeup of his face."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "closure",
+    "say": "KLOH-zher",
+    "forms": [
+      "closures"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The act of closing something.",
+          "examples": [
+            "The closure of the road.",
+            "The closure was sad.",
+            "The closure ended the shop."
+          ]
+        },
+        "more": {
+          "def": "The act of closing something, or a feeling that something is finished.",
+          "examples": [
+            "The closure of the road caused a long delay.",
+            "The library's closure upset many families.",
+            "Talking to her friend gave her a sense of closure."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cloth",
     "say": "klawth",
     "forms": [
@@ -2402,6 +3176,34 @@
     ]
   },
   {
+    "word": "clothespin",
+    "say": "KLOHZ-pin",
+    "forms": [
+      "clothespins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A clip for hanging clothes on a line.",
+          "examples": [
+            "A clothespin holds a sock.",
+            "The clothespin is wood.",
+            "Use a clothespin."
+          ]
+        },
+        "more": {
+          "def": "A small clip that holds clothes on a line.",
+          "examples": [
+            "She hung the socks with a clothespin.",
+            "A clothespin held the towel on the line.",
+            "The clothespin pinched my finger."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "clothing",
     "say": "KLOH-thing",
     "emoji": "👕",
@@ -2465,6 +3267,34 @@
     ]
   },
   {
+    "word": "cloudburst",
+    "say": "KLOWD-berst",
+    "forms": [
+      "cloudbursts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sudden heavy rain.",
+          "examples": [
+            "A cloudburst soaked us.",
+            "The cloudburst was short.",
+            "We ran from the cloudburst."
+          ]
+        },
+        "more": {
+          "def": "A sudden, very heavy fall of rain.",
+          "examples": [
+            "A cloudburst soaked the picnic.",
+            "The cloudburst flooded the street.",
+            "After the cloudburst, the sun came out."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cloudy",
     "say": "KLOW-dee",
     "forms": [
@@ -2490,6 +3320,12 @@
             "A cloudy sky hung over the town."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "cloudiness",
+        "def": "Being full of clouds."
       }
     ]
   },
@@ -2574,6 +3410,41 @@
             "The clown juggled balls at the circus.",
             "A clown with a red nose gave balloons to the children.",
             "The class laughed at the clown's silly tricks."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "clownish",
+        "def": "Silly, like a clown."
+      }
+    ]
+  },
+  {
+    "word": "clownfish",
+    "say": "KLOWN-fish",
+    "emoji": "🐠",
+    "forms": [
+      "clownfish"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small orange fish with white stripes.",
+          "examples": [
+            "A clownfish is orange.",
+            "The clownfish hides.",
+            "I saw a clownfish."
+          ]
+        },
+        "more": {
+          "def": "A small orange fish with white stripes that lives among sea anemones.",
+          "examples": [
+            "A clownfish hid in the anemone.",
+            "The clownfish is bright orange with white stripes.",
+            "Clownfish live safely among the anemone's stinging arms."
           ]
         }
       }
@@ -2862,6 +3733,34 @@
       {
         "word": "clunky",
         "def": "Heavy and awkward."
+      }
+    ]
+  },
+  {
+    "word": "clunker",
+    "say": "KLUNG-ker",
+    "forms": [
+      "clunkers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An old, noisy car.",
+          "examples": [
+            "His car is a clunker.",
+            "The clunker rattled.",
+            "A clunker is old."
+          ]
+        },
+        "more": {
+          "def": "An old car or machine that is in bad shape and makes loud noises.",
+          "examples": [
+            "His old car was a clunker.",
+            "The clunker rattled down the road.",
+            "Dad drove the clunker to the shop."
+          ]
+        }
       }
     ]
   },

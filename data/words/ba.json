@@ -1,5 +1,54 @@
 [
   {
+    "word": "baa",
+    "say": "bah",
+    "forms": [
+      "baas",
+      "baaed",
+      "baaing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make the sound of a sheep.",
+          "examples": [
+            "The sheep baa.",
+            "The lamb baaed.",
+            "Sheep baa in the field."
+          ]
+        },
+        "more": {
+          "def": "To make the bleating cry of a sheep or lamb.",
+          "examples": [
+            "The lamb baaed for its mother.",
+            "Sheep baa across the hillside.",
+            "We heard a flock of sheep baaing in the field."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The sound a sheep makes.",
+          "examples": [
+            "\"Baa,\" said the sheep.",
+            "I heard a baa.",
+            "The lamb said baa."
+          ]
+        },
+        "more": {
+          "def": "The sound made by a sheep or lamb.",
+          "examples": [
+            "We heard a soft baa from the barn.",
+            "The sheep's baa echoed over the hills.",
+            "The farmer answered the lamb's baa."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "babble",
     "say": "BAB-ul",
     "forms": [
@@ -81,6 +130,37 @@
             "The baby giggled when I made a silly face.",
             "A baby elephant stays close to its mother.",
             "My cousin just had a baby."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "babyhood",
+        "def": "The time when you are a baby."
+      }
+    ]
+  },
+  {
+    "word": "babyish",
+    "say": "BAY-bee-ish",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Like a baby.",
+          "examples": [
+            "Don't be so babyish.",
+            "A babyish toy.",
+            "The babyish voice."
+          ]
+        },
+        "more": {
+          "def": "Acting or looking like a baby, in a way that seems silly for your age.",
+          "examples": [
+            "The game seemed babyish to the older kids.",
+            "He spoke in a babyish voice.",
+            "She thought the cartoon was too babyish."
           ]
         }
       }
@@ -301,6 +381,31 @@
     ]
   },
   {
+    "word": "backcountry",
+    "say": "BAK-kun-tree",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Land that is wild and far from towns.",
+          "examples": [
+            "We hiked in the backcountry.",
+            "The backcountry is wild.",
+            "Camping in the backcountry."
+          ]
+        },
+        "more": {
+          "def": "Wild country far from towns and roads.",
+          "examples": [
+            "We hiked in the backcountry for three days.",
+            "The backcountry is wild and quiet.",
+            "They skied in the mountain backcountry."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "backdoor",
     "say": "BAK-dor",
     "forms": [
@@ -468,6 +573,34 @@
     ]
   },
   {
+    "word": "backhoe",
+    "say": "BAK-hoh",
+    "forms": [
+      "backhoes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A digging machine with a scoop on an arm.",
+          "examples": [
+            "The backhoe digs.",
+            "A backhoe has a scoop.",
+            "The backhoe dug a hole."
+          ]
+        },
+        "more": {
+          "def": "A digging machine with a scoop on the end of a long arm.",
+          "examples": [
+            "The backhoe dug a deep ditch.",
+            "A backhoe has a big bucket on an arm.",
+            "Workers used a backhoe to dig the hole."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "backpack",
     "say": "BAK-pak",
     "emoji": "🎒",
@@ -512,6 +645,62 @@
             "My aunt backpacked through the mountains for a week.",
             "We are backpacking in the forest this summer.",
             "They backpacked across the park and slept in tents each night."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "backpacker",
+    "say": "BAK-pak-er",
+    "forms": [
+      "backpackers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who travels with a pack on their back.",
+          "examples": [
+            "The backpacker hiked.",
+            "A backpacker carries a pack.",
+            "The backpacker camped."
+          ]
+        },
+        "more": {
+          "def": "A person who travels or hikes carrying their belongings in a backpack.",
+          "examples": [
+            "The backpacker hiked across the mountains.",
+            "A backpacker carries a tent and food.",
+            "Backpackers filled the hostel."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "backrest",
+    "say": "BAK-rest",
+    "forms": [
+      "backrests"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of a chair that supports your back.",
+          "examples": [
+            "The backrest is soft.",
+            "Lean on the backrest.",
+            "A chair with a backrest."
+          ]
+        },
+        "more": {
+          "def": "The part of a chair or seat that supports your back.",
+          "examples": [
+            "She leaned against the backrest.",
+            "The backrest of the chair was padded.",
+            "He adjusted the backrest of his seat."
           ]
         }
       }
@@ -574,6 +763,64 @@
     ]
   },
   {
+    "word": "backslash",
+    "say": "BAK-slash",
+    "forms": [
+      "backslashes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The slanted line \\ on a keyboard.",
+          "examples": [
+            "The backslash leans back.",
+            "Type a backslash.",
+            "The backslash is a key."
+          ]
+        },
+        "more": {
+          "def": "A slanted line (\\) used in computer programs and file names.",
+          "examples": [
+            "Type a backslash after the folder name.",
+            "The backslash leans to the left.",
+            "A backslash is not the same as a forward slash."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "backspace",
+    "say": "BAK-spays",
+    "forms": [
+      "backspaces",
+      "backspaced",
+      "backspacing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To erase a letter you typed.",
+          "examples": [
+            "Backspace to fix it.",
+            "Press backspace.",
+            "I backspaced."
+          ]
+        },
+        "more": {
+          "def": "To move back and erase a letter or space you just typed.",
+          "examples": [
+            "Press the key to backspace over the mistake.",
+            "I backspaced and typed the word again.",
+            "You can backspace to fix a typo."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "backstage",
     "say": "BAK-stayj",
     "senses": [
@@ -593,6 +840,87 @@
             "The singer waited backstage for her cue.",
             "I went backstage to see the costumes.",
             "The band was backstage before the show."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "backstop",
+    "say": "BAK-stop",
+    "forms": [
+      "backstops"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fence behind home plate.",
+          "examples": [
+            "The ball rolled to the backstop.",
+            "A backstop is a fence.",
+            "The backstop stopped the ball."
+          ]
+        },
+        "more": {
+          "def": "A fence or screen behind the catcher in baseball that stops the ball.",
+          "examples": [
+            "The ball hit the backstop.",
+            "A backstop keeps balls from rolling away.",
+            "The catcher stood in front of the backstop."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "backstreet",
+    "say": "BAK-street",
+    "forms": [
+      "backstreets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small street away from the main road.",
+          "examples": [
+            "We walked down a backstreet.",
+            "The backstreet was quiet.",
+            "A narrow backstreet."
+          ]
+        },
+        "more": {
+          "def": "A small, quiet street away from the main roads.",
+          "examples": [
+            "We took a backstreet to avoid traffic.",
+            "The cat slipped down a narrow backstreet.",
+            "The shop was on a backstreet."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "backstroke",
+    "say": "BAK-strohk",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A way of swimming on your back.",
+          "examples": [
+            "I swim backstroke.",
+            "The backstroke is on your back.",
+            "She does the backstroke."
+          ]
+        },
+        "more": {
+          "def": "A swimming stroke in which you swim on your back.",
+          "examples": [
+            "I swim the backstroke in the race.",
+            "The backstroke lets you see the sky.",
+            "She won the backstroke race."
           ]
         }
       }
@@ -701,6 +1029,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "backwardness",
+        "def": "Being behind others."
+      }
     ]
   },
   {
@@ -726,6 +1060,34 @@
             "He walked backwards down the hall.",
             "She said the alphabet backwards.",
             "The truck rolled backwards down the hill."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "backwater",
+    "say": "BAK-waw-ter",
+    "forms": [
+      "backwaters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A quiet, still part of a river.",
+          "examples": [
+            "The backwater is calm.",
+            "Ducks swim in the backwater.",
+            "The backwater is quiet."
+          ]
+        },
+        "more": {
+          "def": "A quiet part of a river where the water is calm, or a place that is far from busy life.",
+          "examples": [
+            "Ducks swam in the quiet backwater.",
+            "The canoe drifted into a backwater.",
+            "Their village was a sleepy backwater."
           ]
         }
       }
@@ -861,6 +1223,34 @@
     ]
   },
   {
+    "word": "bacterium",
+    "say": "bak-TEER-ee-um",
+    "forms": [
+      "bacteria"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny living thing too small to see.",
+          "examples": [
+            "A bacterium is tiny.",
+            "Bacteria are very small.",
+            "Some bacteria make us sick."
+          ]
+        },
+        "more": {
+          "def": "A tiny living thing made of one cell, too small to see without a microscope.",
+          "examples": [
+            "Some bacteria help make yogurt.",
+            "Washing your hands removes many bacteria.",
+            "A single bacterium can divide into two in minutes."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bad",
     "say": "bad",
     "senses": [
@@ -963,6 +1353,31 @@
             "The team played badly and lost the game.",
             "The old house needs a new roof badly.",
             "The tomatoes were badly damaged by the frost."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "badminton",
+    "say": "BAD-min-tun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A game where you hit a light, feathered ball over a net.",
+          "examples": [
+            "We play badminton.",
+            "Badminton uses a net.",
+            "I like badminton."
+          ]
+        },
+        "more": {
+          "def": "A game in which players hit a light, feathered shuttlecock over a net with rackets.",
+          "examples": [
+            "We played badminton in the park.",
+            "In badminton, the shuttlecock must not touch the ground.",
+            "She won the badminton game."
           ]
         }
       }
@@ -1081,6 +1496,34 @@
     ]
   },
   {
+    "word": "bagful",
+    "say": "BAG-fuul",
+    "forms": [
+      "bagfuls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "As much as a bag holds.",
+          "examples": [
+            "A bagful of apples.",
+            "She carried a bagful.",
+            "A bagful of toys."
+          ]
+        },
+        "more": {
+          "def": "The amount a bag can hold.",
+          "examples": [
+            "She carried a bagful of apples.",
+            "He collected a bagful of shells.",
+            "A bagful of toys spilled out."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "baggage",
     "say": "BAG-ij",
     "senses": [
@@ -1191,6 +1634,59 @@
     ]
   },
   {
+    "word": "baguette",
+    "say": "ba-GET",
+    "forms": [
+      "baguettes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, thin loaf of bread.",
+          "examples": [
+            "We ate a baguette.",
+            "The baguette is long.",
+            "Mom bought a baguette."
+          ]
+        },
+        "more": {
+          "def": "A long, thin loaf of French bread with a crisp crust.",
+          "examples": [
+            "She carried a warm baguette home from the bakery.",
+            "We tore off pieces of baguette and dipped them in soup.",
+            "The baguette was crunchy outside and soft inside."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bah",
+    "say": "bah",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A word you say when you do not care or you are cross.",
+          "examples": [
+            "\"Bah!\" said the old man.",
+            "Bah, I don't care.",
+            "\"Bah, humbug!\" he said."
+          ]
+        },
+        "more": {
+          "def": "A word used to show that you are annoyed or do not agree.",
+          "examples": [
+            "\"Bah!\" grumbled the old man, waving his hand.",
+            "Bah, what a silly idea!",
+            "\"Bah, humbug!\" said the grumpy character."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bail",
     "say": "bayl",
     "forms": [
@@ -1282,6 +1778,35 @@
     ]
   },
   {
+    "word": "baker",
+    "say": "BAY-ker",
+    "emoji": "🧑‍🍳",
+    "forms": [
+      "bakers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who makes bread and cakes.",
+          "examples": [
+            "The baker made bread.",
+            "The baker sells cake.",
+            "I know a baker."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to make bread, cakes and pies to sell.",
+          "examples": [
+            "The baker got up early to bake the bread.",
+            "We bought cupcakes from the baker.",
+            "The baker decorated the birthday cake with icing."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bakery",
     "say": "BAY-ker-ee",
     "forms": [
@@ -1304,6 +1829,31 @@
             "We bought fresh bread at the bakery.",
             "The bakery smelled like cinnamon rolls.",
             "I picked out a cookie from the bakery case."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "baklava",
+    "say": "BAH-kluh-vah",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet pastry with nuts and honey.",
+          "examples": [
+            "We ate baklava.",
+            "Baklava is sweet.",
+            "The baklava has nuts."
+          ]
+        },
+        "more": {
+          "def": "A sweet pastry made of thin layers of dough, nuts and honey.",
+          "examples": [
+            "We ate baklava for dessert.",
+            "Baklava has many thin layers.",
+            "The baklava was sticky with honey."
           ]
         }
       }
@@ -1457,6 +2007,61 @@
     ]
   },
   {
+    "word": "baleen",
+    "say": "buh-LEEN",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Bristly plates in some whales' mouths.",
+          "examples": [
+            "Baleen whales have baleen.",
+            "The baleen filters food.",
+            "Baleen is like a comb."
+          ]
+        },
+        "more": {
+          "def": "The stiff, comb-like plates in the mouths of some whales that strain tiny food from sea water.",
+          "examples": [
+            "The whale strained krill through its baleen.",
+            "Baleen hangs like a comb in the whale's mouth.",
+            "Baleen whales have no teeth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "balk",
+    "say": "bawk",
+    "forms": [
+      "balks",
+      "balked",
+      "balking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop and refuse to go on.",
+          "examples": [
+            "The horse balked.",
+            "He balked at the idea.",
+            "She balked at the jump."
+          ]
+        },
+        "more": {
+          "def": "To stop suddenly and refuse to go on or do something.",
+          "examples": [
+            "The horse balked at the jump.",
+            "He balked at the idea of swimming in the cold lake.",
+            "The mule balked and would not move."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ball",
     "say": "bawl",
     "emoji": "⚽",
@@ -1480,6 +2085,59 @@
             "He threw the ball over the fence.",
             "A basketball is a large orange ball.",
             "The kitten batted a ball of yarn across the floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ballad",
+    "say": "BAL-ud",
+    "forms": [
+      "ballads"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A song or poem that tells a story.",
+          "examples": [
+            "We sang a ballad.",
+            "The ballad tells of a hero.",
+            "A ballad is a story song."
+          ]
+        },
+        "more": {
+          "def": "A song or poem that tells a story, often a simple one about love or adventure.",
+          "examples": [
+            "The singer performed an old ballad about a brave sailor.",
+            "We learned a ballad in music class.",
+            "The ballad told the tale of a lost child."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ballast",
+    "say": "BAL-ust",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Heavy stuff that keeps a ship steady.",
+          "examples": [
+            "The ship had ballast.",
+            "Ballast is heavy.",
+            "Sand was used as ballast."
+          ]
+        },
+        "more": {
+          "def": "Heavy material such as stones or sand carried in a ship or balloon to keep it steady.",
+          "examples": [
+            "The ship carried stones as ballast.",
+            "The balloon dropped sand ballast to rise.",
+            "Ballast keeps the boat from tipping."
           ]
         }
       }
@@ -1601,6 +2259,59 @@
     ]
   },
   {
+    "word": "ballooning",
+    "say": "buh-LOO-ning",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Riding in a hot-air balloon.",
+          "examples": [
+            "Ballooning is fun.",
+            "We went ballooning.",
+            "Ballooning is high."
+          ]
+        },
+        "more": {
+          "def": "The sport of flying in a balloon.",
+          "examples": [
+            "We went ballooning over the valley.",
+            "Ballooning lets you float high in the sky.",
+            "Ballooning is best at sunrise."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "balloonist",
+    "say": "buh-LOO-nist",
+    "forms": [
+      "balloonists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who flies in a hot-air balloon.",
+          "examples": [
+            "The balloonist flew high.",
+            "A balloonist floats in the sky.",
+            "The balloonist waved."
+          ]
+        },
+        "more": {
+          "def": "A person who flies in a large balloon.",
+          "examples": [
+            "The balloonist floated high over the valley.",
+            "A balloonist uses hot air to rise.",
+            "The balloonist waved to the crowd below."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ballot",
     "say": "BAL-ut",
     "forms": [
@@ -1679,6 +2390,34 @@
             "The ballplayer hit a home run.",
             "A ballplayer signed my baseball.",
             "She wants to be a ballplayer when she grows up."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ballpoint",
+    "say": "BAWL-poynt",
+    "forms": [
+      "ballpoints"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pen with a tiny ball at its tip.",
+          "examples": [
+            "I write with a ballpoint.",
+            "The ballpoint is blue.",
+            "My ballpoint ran out."
+          ]
+        },
+        "more": {
+          "def": "A pen with a tiny rolling ball at its tip that spreads the ink.",
+          "examples": [
+            "He signed the card with a blue ballpoint.",
+            "A ballpoint has a tiny ball at its tip.",
+            "My ballpoint ran out of ink."
           ]
         }
       }
@@ -1770,6 +2509,59 @@
     ]
   },
   {
+    "word": "baloney",
+    "say": "buh-LOH-nee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Nonsense.",
+          "examples": [
+            "That is baloney.",
+            "It was baloney.",
+            "Do not talk baloney."
+          ]
+        },
+        "more": {
+          "def": "Foolish, untrue talk; nonsense.",
+          "examples": [
+            "\"That's baloney!\" he said when he heard the tall tale.",
+            "Don't believe that baloney.",
+            "It was all just baloney."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "balustrade",
+    "say": "BAL-uh-strayd",
+    "forms": [
+      "balustrades"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A railing with posts along a balcony or stairs.",
+          "examples": [
+            "The balustrade is by the stairs.",
+            "A balustrade has posts.",
+            "He leaned on the balustrade."
+          ]
+        },
+        "more": {
+          "def": "A row of small pillars topped by a rail, along a balcony or staircase.",
+          "examples": [
+            "She leaned on the stone balustrade.",
+            "The balustrade ran along the stairs.",
+            "A balustrade protected the balcony."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bamboo",
     "say": "bam-BOO",
     "senses": [
@@ -1789,6 +2581,36 @@
             "Pandas eat bamboo shoots all day long.",
             "The fence was made of strong bamboo.",
             "Bamboo can grow several feet in a single day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bamboozle",
+    "say": "bam-BOO-zul",
+    "forms": [
+      "bamboozles",
+      "bamboozled",
+      "bamboozling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To trick someone.",
+          "examples": [
+            "The magician bamboozled us.",
+            "The puzzle bamboozled me.",
+            "He bamboozled his friend."
+          ]
+        },
+        "more": {
+          "def": "To trick or confuse someone.",
+          "examples": [
+            "The magician bamboozled the audience.",
+            "The tricky puzzle bamboozled me.",
+            "He bamboozled his friend with a joke."
           ]
         }
       }
@@ -1961,6 +2783,34 @@
     ]
   },
   {
+    "word": "bandicoot",
+    "say": "BAN-dih-koot",
+    "forms": [
+      "bandicoots"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small animal from Australia that digs for insects.",
+          "examples": [
+            "A bandicoot digs.",
+            "The bandicoot is small.",
+            "I saw a bandicoot."
+          ]
+        },
+        "more": {
+          "def": "A small marsupial of Australia with a pointed nose that digs for insects.",
+          "examples": [
+            "A bandicoot dug in the garden.",
+            "The bandicoot has a long, pointed snout.",
+            "Bandicoots carry their young in a pouch."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bandit",
     "say": "BAN-dit",
     "forms": [
@@ -1989,6 +2839,34 @@
     ]
   },
   {
+    "word": "bandleader",
+    "say": "BAND-lee-der",
+    "forms": [
+      "bandleaders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The person who leads a band.",
+          "examples": [
+            "The bandleader waved.",
+            "A bandleader leads the band.",
+            "He is the bandleader."
+          ]
+        },
+        "more": {
+          "def": "A person who leads a musical band.",
+          "examples": [
+            "The bandleader counted off the beat.",
+            "A bandleader decides which songs to play.",
+            "She is the bandleader of the school band."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bandstand",
     "say": "BAND-stand",
     "forms": [
@@ -2011,6 +2889,56 @@
             "The band played in the bandstand in the park.",
             "We danced near the bandstand.",
             "A round bandstand stood in the town square."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bandwidth",
+    "say": "BAND-width",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How much information can go over an internet line.",
+          "examples": [
+            "Bandwidth is internet size.",
+            "We need more bandwidth.",
+            "The bandwidth is low."
+          ]
+        },
+        "more": {
+          "def": "The amount of data that can be sent over an internet connection at one time.",
+          "examples": [
+            "Video uses a lot of bandwidth.",
+            "We need more bandwidth for the video call.",
+            "Low bandwidth makes the internet slow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bane",
+    "say": "bayn",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that causes trouble or spoils things.",
+          "examples": [
+            "Mud is the bane of my shoes.",
+            "Slugs are the bane of gardeners.",
+            "Mosquitoes are the bane of camping."
+          ]
+        },
+        "more": {
+          "def": "Something that keeps causing trouble or harm.",
+          "examples": [
+            "Weeds are the bane of every gardener.",
+            "Traffic is the bane of city drivers.",
+            "Mosquitoes are the bane of summer picnics."
           ]
         }
       }
@@ -2060,6 +2988,34 @@
             "The wind banged the door against the wall.",
             "He banged the drum in time with the song.",
             "She banged on the door to get our attention."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bangle",
+    "say": "BANG-gul",
+    "forms": [
+      "bangles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A stiff ring you wear on your arm.",
+          "examples": [
+            "She wore a bangle.",
+            "The bangle is gold.",
+            "A bangle on her wrist."
+          ]
+        },
+        "more": {
+          "def": "A stiff bracelet or ring worn around the wrist or ankle.",
+          "examples": [
+            "She wore a silver bangle on her wrist.",
+            "The bangles jingled as she waved.",
+            "He gave his sister a bangle for her birthday."
           ]
         }
       }
@@ -2254,6 +3210,34 @@
     ]
   },
   {
+    "word": "banknote",
+    "say": "BANGK-noht",
+    "forms": [
+      "banknotes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A piece of paper money.",
+          "examples": [
+            "He had a banknote.",
+            "A banknote is paper money.",
+            "The banknote was new."
+          ]
+        },
+        "more": {
+          "def": "A piece of paper money issued by a bank.",
+          "examples": [
+            "He paid with a ten-dollar banknote.",
+            "The banknote had a picture on it.",
+            "She folded the banknote and put it in her wallet."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "banner",
     "say": "BAN-er",
     "forms": [
@@ -2312,6 +3296,34 @@
     ]
   },
   {
+    "word": "bannock",
+    "say": "BAN-uk",
+    "forms": [
+      "bannocks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat, round bread cooked on a griddle.",
+          "examples": [
+            "A bannock is bread.",
+            "The bannock is flat.",
+            "We ate bannock."
+          ]
+        },
+        "more": {
+          "def": "A flat, round bread made of oats or flour and cooked on a griddle.",
+          "examples": [
+            "We cooked bannock over the fire.",
+            "A bannock is a flat, round bread.",
+            "She served warm bannock with jam."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "banquet",
     "say": "BANG-kwit",
     "forms": [
@@ -2334,6 +3346,120 @@
             "The king held a banquet for his guests.",
             "The school hosted a banquet for the team.",
             "The banquet had many courses."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bantam",
+    "say": "BAN-tum",
+    "forms": [
+      "bantams"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small kind of chicken.",
+          "examples": [
+            "A bantam is a small hen.",
+            "The bantam is small.",
+            "We have a bantam."
+          ]
+        },
+        "more": {
+          "def": "A small breed of chicken, or a small but brave person.",
+          "examples": [
+            "The bantam pecked at the corn.",
+            "A bantam is smaller than other hens.",
+            "Our bantam laid tiny eggs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "banter",
+    "say": "BAN-ter",
+    "forms": [
+      "banters",
+      "bantered",
+      "bantering"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Friendly, joking talk.",
+          "examples": [
+            "They shared some banter.",
+            "There was banter at lunch.",
+            "Friends enjoy banter."
+          ]
+        },
+        "more": {
+          "def": "Light, friendly and joking talk.",
+          "examples": [
+            "The friends shared some friendly banter.",
+            "Banter filled the lunch room.",
+            "The team enjoyed banter on the bus."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "banyan",
+    "say": "BAN-yun",
+    "forms": [
+      "banyans"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big tree with roots that hang down.",
+          "examples": [
+            "A banyan is a tree.",
+            "The banyan is huge.",
+            "The banyan has roots in the air."
+          ]
+        },
+        "more": {
+          "def": "A large tree of India with branches that send roots down to the ground.",
+          "examples": [
+            "The banyan spread across the park.",
+            "A banyan sends roots down from its branches.",
+            "Monkeys played in the banyan tree."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "baobab",
+    "say": "BAY-oh-bab",
+    "forms": [
+      "baobabs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A huge tree with a thick, swollen trunk.",
+          "examples": [
+            "A baobab is huge.",
+            "The baobab is wide.",
+            "Baobabs grow in Africa."
+          ]
+        },
+        "more": {
+          "def": "A tree of Africa and Australia with a huge, thick trunk that stores water.",
+          "examples": [
+            "The baobab stood alone on the plain.",
+            "A baobab has a very thick trunk.",
+            "Baobabs can live for thousands of years."
           ]
         }
       }
@@ -2508,6 +3634,34 @@
     ]
   },
   {
+    "word": "barbell",
+    "say": "BAR-bel",
+    "forms": [
+      "barbells"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bar with weights on each end for lifting.",
+          "examples": [
+            "He lifted a barbell.",
+            "A barbell is heavy.",
+            "The barbell has weights."
+          ]
+        },
+        "more": {
+          "def": "A long bar with weights at both ends, used for lifting in exercise.",
+          "examples": [
+            "He lifted the barbell over his head.",
+            "A barbell has heavy weights on each end.",
+            "The gym had a rack of barbells."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "barber",
     "say": "BAR-ber",
     "forms": [
@@ -2564,6 +3718,62 @@
     ]
   },
   {
+    "word": "barcode",
+    "say": "BAR-kohd",
+    "forms": [
+      "barcodes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Black lines on a package that a scanner reads.",
+          "examples": [
+            "The barcode is on the back of the box.",
+            "Scan the barcode.",
+            "The cashier scanned the barcode."
+          ]
+        },
+        "more": {
+          "def": "A pattern of black lines on a product that a scanner can read.",
+          "examples": [
+            "The cashier scanned the barcode.",
+            "A barcode tells the price.",
+            "Every box at the store has a barcode."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bard",
+    "say": "bard",
+    "forms": [
+      "bards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person long ago who made up songs and stories.",
+          "examples": [
+            "The bard sang a song.",
+            "A bard told a story.",
+            "The bard played a harp."
+          ]
+        },
+        "more": {
+          "def": "A poet or singer from long ago who made up stories and songs, often with a harp.",
+          "examples": [
+            "The bard sang about heroes and dragons.",
+            "In the old days, a bard traveled from castle to castle.",
+            "The bard played the harp while telling a tale."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bare",
     "say": "bair",
     "forms": [
@@ -2588,6 +3798,37 @@
             "We ran on the beach in bare feet.",
             "The tree was bare in winter.",
             "The bare walls needed pictures."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "bareness",
+        "def": "Being bare."
+      }
+    ]
+  },
+  {
+    "word": "bareback",
+    "say": "BAIR-bak",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Riding a horse with nothing on its back.",
+          "examples": [
+            "She rode bareback.",
+            "He rode bareback.",
+            "The girl rode bareback."
+          ]
+        },
+        "more": {
+          "def": "Riding a horse without a saddle.",
+          "examples": [
+            "She rode the pony bareback.",
+            "He learned to ride bareback.",
+            "The rider galloped bareback across the field."
           ]
         }
       }
@@ -2738,6 +3979,34 @@
     ]
   },
   {
+    "word": "baritone",
+    "say": "BAIR-ih-tohn",
+    "forms": [
+      "baritones"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man's singing voice that is low.",
+          "examples": [
+            "The baritone sang.",
+            "A baritone is a low voice.",
+            "He is a baritone."
+          ]
+        },
+        "more": {
+          "def": "A man's singing voice between tenor and bass, or a man with that voice.",
+          "examples": [
+            "The baritone sang a deep song.",
+            "He sings baritone in the choir.",
+            "The baritone's voice was rich and warm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bark",
     "say": "bark",
     "emoji": "🐕",
@@ -2842,6 +4111,34 @@
     ]
   },
   {
+    "word": "barnacle",
+    "say": "BAR-nuh-kul",
+    "forms": [
+      "barnacles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small sea animal that sticks to rocks and ships.",
+          "examples": [
+            "Barnacles cling to the rock.",
+            "The barnacle is hard.",
+            "Barnacles stick to boats."
+          ]
+        },
+        "more": {
+          "def": "A small sea animal with a hard shell that attaches itself to rocks, boats and other things.",
+          "examples": [
+            "Barnacles covered the bottom of the old boat.",
+            "The tide pools were full of barnacles on the rocks.",
+            "A barnacle holds on tightly with strong glue."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "barnyard",
     "say": "BARN-yard",
     "forms": [
@@ -2864,6 +4161,87 @@
             "Chickens pecked in the barnyard.",
             "The barnyard was full of ducks and geese.",
             "We fed the pigs in the barnyard."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "barometer",
+    "say": "buh-ROM-uh-ter",
+    "forms": [
+      "barometers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool that tells you about the weather.",
+          "examples": [
+            "The barometer showed rain.",
+            "A barometer measures air.",
+            "Grandpa has a barometer."
+          ]
+        },
+        "more": {
+          "def": "A tool that measures the pressure of the air, used to help predict the weather.",
+          "examples": [
+            "The barometer dropped before the storm.",
+            "A barometer helps forecast the weather.",
+            "Grandpa tapped the barometer every morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "baron",
+    "say": "BAIR-un",
+    "forms": [
+      "barons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A man of high rank in old times.",
+          "examples": [
+            "The baron lived in a castle.",
+            "The baron had a horse.",
+            "A baron owned land."
+          ]
+        },
+        "more": {
+          "def": "A nobleman of fairly high rank, especially in the past in Europe.",
+          "examples": [
+            "The baron owned a big castle and much land.",
+            "In the story, the baron held a grand feast.",
+            "The king gave the baron a title for his help."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "baroque",
+    "say": "buh-ROHK",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Fancy and full of decoration.",
+          "examples": [
+            "A baroque church.",
+            "The music is baroque.",
+            "The baroque room is fancy."
+          ]
+        },
+        "more": {
+          "def": "Describing a fancy style of art, music and buildings from Europe in the 1600s and 1700s.",
+          "examples": [
+            "The baroque church had gold decorations.",
+            "Bach wrote baroque music.",
+            "The baroque painting is full of swirls and gold."
           ]
         }
       }
@@ -2954,6 +4332,34 @@
     ]
   },
   {
+    "word": "barre",
+    "say": "BAR",
+    "forms": [
+      "barres"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rail that ballet dancers hold on to.",
+          "examples": [
+            "The dancer held the barre.",
+            "A barre is a rail.",
+            "Stand at the barre."
+          ]
+        },
+        "more": {
+          "def": "A horizontal bar fixed to a wall, used by dancers to hold onto while they practice.",
+          "examples": [
+            "The dancers warmed up at the barre.",
+            "A barre is a smooth wooden rail.",
+            "She held the barre while she stretched her leg."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "barrel",
     "say": "BAIR-ul",
     "forms": [
@@ -3001,6 +4407,40 @@
             "The barren desert had no trees, only sand and rocks.",
             "Rain turned the barren hillside green within a few weeks.",
             "The astronauts looked out over the barren surface of the moon."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "barrenness",
+        "def": "Being empty and unable to grow things."
+      }
+    ]
+  },
+  {
+    "word": "barrette",
+    "say": "buh-RET",
+    "forms": [
+      "barrettes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small clip for holding hair.",
+          "examples": [
+            "She wore a barrette.",
+            "The barrette is pink.",
+            "A barrette holds hair."
+          ]
+        },
+        "more": {
+          "def": "A small clip used to hold hair in place.",
+          "examples": [
+            "She wore a pink barrette in her hair.",
+            "A barrette keeps hair out of your face.",
+            "He found a barrette on the floor."
           ]
         }
       }
@@ -3084,6 +4524,34 @@
     ]
   },
   {
+    "word": "barrow",
+    "say": "BAIR-oh",
+    "forms": [
+      "barrows"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small cart with one wheel.",
+          "examples": [
+            "He pushed the barrow.",
+            "The barrow is full of dirt.",
+            "The barrow has one wheel."
+          ]
+        },
+        "more": {
+          "def": "A small cart, often with one wheel, used to carry loads, such as a wheelbarrow.",
+          "examples": [
+            "Dad pushed a barrow of soil across the yard.",
+            "The gardener loaded the barrow with leaves.",
+            "A market seller pushed her barrow of apples through the town."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "barter",
     "say": "BAR-ter",
     "forms": [
@@ -3108,6 +4576,31 @@
             "The farmers bartered eggs for milk.",
             "Long ago, people bartered instead of using coins.",
             "She bartered her old bike for a skateboard."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "basalt",
+    "say": "buh-SALT",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hard, dark rock.",
+          "examples": [
+            "Basalt is black rock.",
+            "The cliff is basalt.",
+            "Basalt comes from lava."
+          ]
+        },
+        "more": {
+          "def": "A hard, dark, fine-grained rock formed from cooled lava.",
+          "examples": [
+            "The columns were made of basalt.",
+            "Basalt forms when lava cools.",
+            "The island is made of black basalt."
           ]
         }
       }
@@ -3157,6 +4650,12 @@
             "He ran to first base."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "baseless",
+        "def": "Without a good reason."
       }
     ]
   },
@@ -3240,6 +4739,37 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "bashfulness",
+        "def": "Being shy."
+      }
+    ]
+  },
+  {
+    "word": "bashfully",
+    "say": "BASH-ful-ee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a shy way.",
+          "examples": [
+            "She smiled bashfully.",
+            "He looked bashfully.",
+            "The boy waved bashfully."
+          ]
+        },
+        "more": {
+          "def": "In a shy and embarrassed way.",
+          "examples": [
+            "She smiled bashfully when praised.",
+            "He looked down bashfully.",
+            "The boy bashfully waved hello."
+          ]
+        }
+      }
     ]
   },
   {
@@ -3290,6 +4820,59 @@
             "In swimming class we learned the basics, like floating and kicking.",
             "Learn the basics of the game first, and then try harder moves.",
             "The teacher went over the basics of fractions again."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "basil",
+    "say": "BAZ-ul",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A green plant that gives food a sweet taste.",
+          "examples": [
+            "Basil smells good.",
+            "We grow basil.",
+            "Dad put basil on the pizza."
+          ]
+        },
+        "more": {
+          "def": "A plant with soft green leaves that is used to flavor food, such as pasta and pizza.",
+          "examples": [
+            "Fresh basil leaves smell sweet and are good on pizza.",
+            "We grow basil in a pot on the windowsill.",
+            "She picked some basil to add to the tomato sauce."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "basilisk",
+    "say": "BAS-ih-lisk",
+    "forms": [
+      "basilisks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A lizard that can run on water, or a monster in stories.",
+          "examples": [
+            "A basilisk is a lizard.",
+            "The basilisk runs on water.",
+            "The basilisk is a monster."
+          ]
+        },
+        "more": {
+          "def": "A lizard of Central America that can run across water, or a snake-like monster in old stories.",
+          "examples": [
+            "A basilisk ran across the pond on its back legs.",
+            "The basilisk lizard has a crest on its head.",
+            "In the legend, the basilisk was a snake-like monster."
           ]
         }
       }
@@ -3522,6 +5105,120 @@
     ]
   },
   {
+    "word": "bassist",
+    "say": "BAY-sist",
+    "forms": [
+      "bassists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who plays bass.",
+          "examples": [
+            "The bassist plays low notes.",
+            "A bassist plays bass.",
+            "She is a bassist."
+          ]
+        },
+        "more": {
+          "def": "A person who plays the bass guitar or the double bass.",
+          "examples": [
+            "The bassist played a deep groove.",
+            "She is the bassist in the band.",
+            "The bassist plucked the low strings."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bassoon",
+    "say": "buh-SOON",
+    "forms": [
+      "bassoons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large instrument you blow, with a deep sound.",
+          "examples": [
+            "She plays the bassoon.",
+            "A bassoon is deep.",
+            "The bassoon sounds low."
+          ]
+        },
+        "more": {
+          "def": "A large woodwind instrument with a deep, low sound.",
+          "examples": [
+            "She plays the bassoon in the orchestra.",
+            "The bassoon has a long, curved tube.",
+            "The bassoon made a deep, warm sound."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "baste",
+    "say": "bayst",
+    "forms": [
+      "bastes",
+      "basted",
+      "basting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To pour juices over meat as it cooks.",
+          "examples": [
+            "Baste the turkey.",
+            "She basted the chicken.",
+            "Dad bastes the roast."
+          ]
+        },
+        "more": {
+          "def": "To pour melted fat or juices over food as it cooks to keep it moist.",
+          "examples": [
+            "Dad basted the turkey every half hour.",
+            "She basted the chicken with butter.",
+            "You must baste the roast."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bastion",
+    "say": "BAS-chun",
+    "forms": [
+      "bastions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong part of a castle wall.",
+          "examples": [
+            "The bastion is strong.",
+            "A bastion guards the wall.",
+            "The castle has a bastion."
+          ]
+        },
+        "more": {
+          "def": "A part of a fortress wall that sticks out and is built to guard the castle, or a strong defense.",
+          "examples": [
+            "The castle had a tall stone bastion.",
+            "Archers stood on the bastion.",
+            "The bastion protected the town."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bat",
     "say": "bat",
     "emoji": "🦇",
@@ -3677,6 +5374,34 @@
     ]
   },
   {
+    "word": "bathhouse",
+    "say": "BATH-howss",
+    "forms": [
+      "bathhouses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A building with baths or changing rooms.",
+          "examples": [
+            "We changed in the bathhouse.",
+            "The bathhouse is near the pool.",
+            "A bathhouse has showers."
+          ]
+        },
+        "more": {
+          "def": "A building with baths, showers or places to change, especially at a pool or beach.",
+          "examples": [
+            "We changed in the bathhouse by the beach.",
+            "The bathhouse had showers.",
+            "She left her towel in the bathhouse."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bathing",
     "say": "BAY-thing",
     "senses": [
@@ -3787,6 +5512,59 @@
     ]
   },
   {
+    "word": "bathwater",
+    "say": "BATH-waw-ter",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The water in a bath.",
+          "examples": [
+            "The bathwater is warm.",
+            "The bathwater got cold.",
+            "The bathwater is bubbly."
+          ]
+        },
+        "more": {
+          "def": "The water that you fill a bath with.",
+          "examples": [
+            "The bathwater was warm and bubbly.",
+            "She drained the bathwater.",
+            "The baby splashed in the bathwater."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "batik",
+    "say": "buh-TEEK",
+    "forms": [
+      "batiks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Cloth dyed with a wax design.",
+          "examples": [
+            "The cloth is batik.",
+            "A batik is colorful.",
+            "She wore a batik."
+          ]
+        },
+        "more": {
+          "def": "A way of coloring cloth by painting wax on it, then dyeing it so the waxed parts stay plain.",
+          "examples": [
+            "She wore a skirt of colorful batik.",
+            "Batik cloth has bold patterns.",
+            "The artist made a batik of a bird."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "baton",
     "say": "buh-TON",
     "forms": [
@@ -3809,6 +5587,34 @@
             "The conductor raised her baton and the orchestra began to play.",
             "He passed the baton to the next runner in the relay race.",
             "The drum major twirled a baton at the front of the parade."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "battalion",
+    "say": "buh-TAL-yun",
+    "forms": [
+      "battalions"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A large group of soldiers.",
+          "examples": [
+            "A battalion marched.",
+            "The battalion was big.",
+            "The battalion had a band."
+          ]
+        },
+        "more": {
+          "def": "A large group of soldiers that is part of an army.",
+          "examples": [
+            "A battalion marched through the town.",
+            "Each battalion has hundreds of soldiers.",
+            "The battalion set up camp near the river."
           ]
         }
       }
@@ -4046,6 +5852,34 @@
     ]
   },
   {
+    "word": "battlement",
+    "say": "BAT-ul-munt",
+    "forms": [
+      "battlements"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The top of a castle wall with gaps for shooting.",
+          "examples": [
+            "The castle has a battlement.",
+            "Soldiers stand on the battlement.",
+            "The battlement is high."
+          ]
+        },
+        "more": {
+          "def": "A low wall on top of a castle with gaps that let defenders look and shoot through.",
+          "examples": [
+            "Guards walked along the battlement.",
+            "The castle's battlement had gaps for archers.",
+            "We climbed to the top of the battlement."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "battleship",
     "say": "BAT-ul-ship",
     "forms": [
@@ -4068,6 +5902,64 @@
             "We toured an old battleship that is now a museum.",
             "The battleship was as long as three football fields.",
             "A battleship has thick metal armor to protect it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bauble",
+    "say": "BAW-bul",
+    "forms": [
+      "baubles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small shiny thing for a tree.",
+          "examples": [
+            "The tree had a bauble.",
+            "The bauble is red.",
+            "A bauble sparkled."
+          ]
+        },
+        "more": {
+          "def": "A small, bright, showy ornament that is not worth much.",
+          "examples": [
+            "A red bauble hung from the tree.",
+            "The necklace was just a bauble.",
+            "A glass bauble sparkled in the window."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bawl",
+    "say": "bawl",
+    "forms": [
+      "bawls",
+      "bawled",
+      "bawling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cry or shout loudly.",
+          "examples": [
+            "The baby bawled.",
+            "He bawled for his mom.",
+            "The calf bawls."
+          ]
+        },
+        "more": {
+          "def": "To cry or yell loudly, often like a baby.",
+          "examples": [
+            "The baby bawled when her toy was taken.",
+            "The calf bawled for its mother in the field.",
+            "The little boy bawled when he scraped his knee."
           ]
         }
       }
@@ -4097,6 +5989,34 @@
             "Sailboats drifted across the quiet bay.",
             "Many fishing boats stay in the bay when it storms.",
             "We walked along the beach around the bay."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "bayou",
+    "say": "BY-oo",
+    "forms": [
+      "bayous"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A slow, marshy stream in the southern U.S.",
+          "examples": [
+            "We rode a boat on the bayou.",
+            "The bayou is slow.",
+            "Frogs live in the bayou."
+          ]
+        },
+        "more": {
+          "def": "A slow-moving, swampy stream in the southern United States, especially Louisiana.",
+          "examples": [
+            "We rode a boat along the bayou.",
+            "Alligators live in the bayou.",
+            "Cypress trees grew in the bayou."
           ]
         }
       }

@@ -69,6 +69,112 @@
     ]
   },
   {
+    "word": "agape",
+    "say": "uh-GAYP",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "With the mouth wide open.",
+          "examples": [
+            "His mouth was agape.",
+            "She stared agape.",
+            "The boy stood agape."
+          ]
+        },
+        "more": {
+          "def": "With your mouth wide open, as in surprise.",
+          "examples": [
+            "He stood with his mouth agape at the magic trick.",
+            "The children watched, mouths agape.",
+            "She stared agape at the huge cake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "agar",
+    "say": "AH-gar",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A jelly used in labs to grow germs.",
+          "examples": [
+            "Agar is a jelly.",
+            "The agar is in a dish.",
+            "Scientists use agar."
+          ]
+        },
+        "more": {
+          "def": "A clear jelly made from seaweed that scientists use to grow tiny living things.",
+          "examples": [
+            "The scientist grew bacteria on agar.",
+            "Agar is a jelly made from seaweed.",
+            "Mold grew on the agar in the dish."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "agate",
+    "say": "AG-it",
+    "forms": [
+      "agates"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A stone with colored bands.",
+          "examples": [
+            "An agate is a stone.",
+            "The agate is shiny.",
+            "I found an agate."
+          ]
+        },
+        "more": {
+          "def": "A smooth stone with bands of different colors.",
+          "examples": [
+            "I found a red agate on the beach.",
+            "An agate has stripes of color.",
+            "She polished the agate until it shone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "agave",
+    "say": "uh-GAH-vee",
+    "forms": [
+      "agaves"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A desert plant with thick, spiky leaves.",
+          "examples": [
+            "An agave is a desert plant.",
+            "The agave is spiky.",
+            "Agave grows in dry land."
+          ]
+        },
+        "more": {
+          "def": "A desert plant with thick, pointed leaves in a rosette.",
+          "examples": [
+            "An agave grew in the desert.",
+            "Agave leaves are thick and spiky.",
+            "The agave stores water in its leaves."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "age",
     "say": "ayj",
     "forms": [
@@ -112,6 +218,12 @@
             "We are living in the age of computers."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "ageless",
+        "def": "Never seeming to get old."
       }
     ]
   },
@@ -308,6 +420,37 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "aggressiveness",
+        "def": "Being ready to fight."
+      }
+    ]
+  },
+  {
+    "word": "aghast",
+    "say": "uh-GAST",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Shocked and upset.",
+          "examples": [
+            "She was aghast.",
+            "He stared, aghast.",
+            "The class was aghast at the mess."
+          ]
+        },
+        "more": {
+          "def": "Filled with shock and horror at something.",
+          "examples": [
+            "She was aghast to see the huge mess in the kitchen.",
+            "He stood aghast as the cake slid off the plate.",
+            "The whole class was aghast when the paint spilled."
+          ]
+        }
+      }
     ]
   },
   {
@@ -410,6 +553,84 @@
             "The dog was agitated by the loud thunder and paced around the room.",
             "She felt agitated waiting for the test results.",
             "An agitated crowd gathered when the show was delayed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "agitation",
+    "say": "aj-ih-TAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A feeling of being very upset and restless.",
+          "examples": [
+            "She spoke in agitation.",
+            "His agitation grew.",
+            "The crowd was in agitation."
+          ]
+        },
+        "more": {
+          "def": "A restless, upset feeling or a lot of shaking and movement.",
+          "examples": [
+            "She paced the room in agitation.",
+            "His agitation grew as the minutes passed.",
+            "The agitation of the waves rocked the small boat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "aglet",
+    "say": "AG-lit",
+    "forms": [
+      "aglets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The plastic tip on a shoelace.",
+          "examples": [
+            "An aglet is a tip.",
+            "The aglet is on the lace.",
+            "Fix the aglet."
+          ]
+        },
+        "more": {
+          "def": "The small plastic or metal tip at the end of a shoelace.",
+          "examples": [
+            "The aglet makes the lace easy to push through.",
+            "My shoelace lost its aglet.",
+            "The aglet keeps the end of the lace from fraying."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "aglow",
+    "say": "uh-GLOH",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Shining with light.",
+          "examples": [
+            "The sky was aglow.",
+            "The lamp is aglow.",
+            "Her face was aglow."
+          ]
+        },
+        "more": {
+          "def": "Shining with light or color; glowing.",
+          "examples": [
+            "The sky was aglow at sunset.",
+            "The lanterns were aglow in the dark.",
+            "Her face was aglow with happiness."
           ]
         }
       }
@@ -550,6 +771,31 @@
     ]
   },
   {
+    "word": "agreeably",
+    "say": "uh-GREE-uh-blee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a pleasant way.",
+          "examples": [
+            "He smiled agreeably.",
+            "She agreeably said yes.",
+            "They talked agreeably."
+          ]
+        },
+        "more": {
+          "def": "In a pleasant way that shows you agree.",
+          "examples": [
+            "He nodded agreeably.",
+            "She agreeably went along with the plan.",
+            "They chatted agreeably over tea."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "agreement",
     "say": "uh-GREE-munt",
     "forms": [
@@ -622,6 +868,31 @@
             "Agriculture gives us our food.",
             "Corn and wheat are important to agriculture.",
             "Her grandfather worked in agriculture all his life."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "aground",
+    "say": "uh-GROWND",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Stuck on the bottom of shallow water.",
+          "examples": [
+            "The boat ran aground.",
+            "The ship went aground.",
+            "They ran aground."
+          ]
+        },
+        "more": {
+          "def": "On or onto the bottom in shallow water, so that a boat cannot move.",
+          "examples": [
+            "The boat ran aground on a sandbank.",
+            "The ship went aground in the fog.",
+            "They waited for the tide to lift the boat that had run aground."
           ]
         }
       }

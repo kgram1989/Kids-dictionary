@@ -1,5 +1,33 @@
 [
   {
+    "word": "acacia",
+    "say": "uh-KAY-shuh",
+    "forms": [
+      "acacias"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tree or bush with small flowers, found in warm lands.",
+          "examples": [
+            "An acacia grows in Africa.",
+            "The acacia is tall.",
+            "Giraffes eat acacia."
+          ]
+        },
+        "more": {
+          "def": "A tree or shrub with feathery leaves and clusters of small flowers, found in warm places.",
+          "examples": [
+            "Giraffes eat the leaves of the acacia.",
+            "An acacia tree stood on the plain.",
+            "The acacia has thorns."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "academic",
     "say": "ak-uh-DEM-ik",
     "senses": [
@@ -322,6 +350,34 @@
     ]
   },
   {
+    "word": "accessory",
+    "say": "ak-SESS-er-ee",
+    "forms": [
+      "accessories"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An extra thing that goes with something.",
+          "examples": [
+            "A belt is an accessory.",
+            "She wore an accessory.",
+            "The hat is an accessory."
+          ]
+        },
+        "more": {
+          "def": "An extra item that goes with something, such as a hat or scarf with an outfit.",
+          "examples": [
+            "A scarf is a nice accessory for a coat.",
+            "The phone has many accessories.",
+            "She wore a bright belt as an accessory."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "accident",
     "say": "AK-sih-dunt",
     "forms": [
@@ -400,6 +456,94 @@
     ]
   },
   {
+    "word": "acclaim",
+    "say": "uh-KLAYM",
+    "forms": [
+      "acclaims",
+      "acclaimed",
+      "acclaiming"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Great praise.",
+          "examples": [
+            "The movie won acclaim.",
+            "Her book won acclaim.",
+            "The singer got acclaim."
+          ]
+        },
+        "more": {
+          "def": "Public praise and approval.",
+          "examples": [
+            "The movie won acclaim from critics.",
+            "Her book received great acclaim.",
+            "The singer was welcomed with acclaim."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "acclimate",
+    "say": "AK-luh-mayt",
+    "forms": [
+      "acclimates",
+      "acclimated",
+      "acclimating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get used to a new place or weather.",
+          "examples": [
+            "You will acclimate.",
+            "She acclimated to the heat.",
+            "Fish acclimate to new water."
+          ]
+        },
+        "more": {
+          "def": "To get used to a new place, weather or situation.",
+          "examples": [
+            "She quickly acclimated to the cold weather.",
+            "The new fish acclimated to the tank.",
+            "It takes a while to acclimate to a new school."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "accolade",
+    "say": "AK-uh-layd",
+    "forms": [
+      "accolades"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Praise or an award.",
+          "examples": [
+            "She got an accolade.",
+            "An accolade is praise.",
+            "The accolade was nice."
+          ]
+        },
+        "more": {
+          "def": "A special award or praise given to someone for doing well.",
+          "examples": [
+            "The author earned an accolade for her book.",
+            "An accolade is a high honor.",
+            "He received accolades for his bravery."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "accommodate",
     "say": "uh-KOM-uh-dayt",
     "forms": [
@@ -452,6 +596,34 @@
             "The family looked for accommodation near the beach for their summer trip.",
             "The hotel offers cheap accommodation for school groups.",
             "We booked our accommodation months before the trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "accompaniment",
+    "say": "uh-KUM-pun-ih-munt",
+    "forms": [
+      "accompaniments"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Music played with a singer.",
+          "examples": [
+            "The piano was her accompaniment.",
+            "The song had an accompaniment.",
+            "Accompaniment helps the singer."
+          ]
+        },
+        "more": {
+          "def": "Music played to go along with a singer or another instrument; or something that goes with a main thing.",
+          "examples": [
+            "The piano was the accompaniment to her song.",
+            "Rice is a good accompaniment to the curry.",
+            "A guitar provided the accompaniment."
           ]
         }
       }
@@ -601,6 +773,31 @@
     ]
   },
   {
+    "word": "accordingly",
+    "say": "uh-KOR-ding-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a fitting way.",
+          "examples": [
+            "Dress accordingly.",
+            "We planned accordingly.",
+            "He acted accordingly."
+          ]
+        },
+        "more": {
+          "def": "In a way that suits the situation.",
+          "examples": [
+            "It was cold, so we dressed accordingly.",
+            "She saw the sign and acted accordingly.",
+            "The teacher gave a test and graded accordingly."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "accordion",
     "say": "uh-KOR-dee-un",
     "forms": [
@@ -676,6 +873,31 @@
     ]
   },
   {
+    "word": "accountable",
+    "say": "uh-KOWN-tuh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Responsible for what you do.",
+          "examples": [
+            "You are accountable.",
+            "He is accountable for his actions.",
+            "The leader is accountable."
+          ]
+        },
+        "more": {
+          "def": "Responsible for your actions and having to explain them.",
+          "examples": [
+            "Everyone is accountable for their own work.",
+            "The captain is accountable for the ship.",
+            "You are accountable for your own homework."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "accountant",
     "say": "uh-KOWN-tunt",
     "forms": [
@@ -698,6 +920,64 @@
             "My uncle is an accountant who works with numbers.",
             "The accountant checked the figures.",
             "The accountant helped the company plan."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "accumulate",
+    "say": "uh-KYOOM-yuh-layt",
+    "forms": [
+      "accumulates",
+      "accumulated",
+      "accumulating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To collect or pile up over time.",
+          "examples": [
+            "Dust accumulates.",
+            "Snow accumulated on the roof.",
+            "She accumulates shells."
+          ]
+        },
+        "more": {
+          "def": "To gather or pile up gradually over time.",
+          "examples": [
+            "Dust accumulates on the shelf.",
+            "Snow accumulated on the roof overnight.",
+            "She accumulated a large collection of shells."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "accumulation",
+    "say": "uh-kyoo-myuh-LAY-shun",
+    "forms": [
+      "accumulations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pile that builds up over time.",
+          "examples": [
+            "An accumulation of snow.",
+            "The accumulation grew.",
+            "An accumulation of dust."
+          ]
+        },
+        "more": {
+          "def": "A growing pile or amount of something that has built up over time.",
+          "examples": [
+            "An accumulation of snow blocked the door.",
+            "The accumulation of dust made her sneeze.",
+            "She had an accumulation of coins in a jar."
           ]
         }
       }
@@ -785,6 +1065,31 @@
     ]
   },
   {
+    "word": "accusatory",
+    "say": "uh-KYOO-zuh-tor-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Blaming someone.",
+          "examples": [
+            "An accusatory look.",
+            "The accusatory tone.",
+            "He sounded accusatory."
+          ]
+        },
+        "more": {
+          "def": "Showing that you think someone has done something wrong.",
+          "examples": [
+            "He gave an accusatory look at the empty cookie jar.",
+            "Her tone was accusatory.",
+            "The accusatory finger pointed at him."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "accuse",
     "say": "uh-KYOOZ",
     "forms": [
@@ -815,6 +1120,61 @@
     ]
   },
   {
+    "word": "accusingly",
+    "say": "uh-KYOO-zing-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that blames someone.",
+          "examples": [
+            "She looked accusingly at him.",
+            "He pointed accusingly.",
+            "Mom looked accusingly at the dog."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows you think someone did something wrong.",
+          "examples": [
+            "She looked accusingly at her brother when the vase broke.",
+            "He pointed accusingly at the empty cookie jar.",
+            "The teacher looked accusingly at the muddy shoes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "accustom",
+    "say": "uh-KUS-tum",
+    "forms": [
+      "accustoms",
+      "accustomed",
+      "accustoming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get used to something.",
+          "examples": [
+            "Accustom yourself to the cold.",
+            "He accustomed himself.",
+            "She is accustomed to it."
+          ]
+        },
+        "more": {
+          "def": "To get yourself or someone else used to something.",
+          "examples": [
+            "You will soon accustom yourself to the cold.",
+            "She accustomed the puppy to the leash.",
+            "He is accustomed to getting up early."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "accustomed",
     "say": "uh-KUS-tumd",
     "senses": [
@@ -836,6 +1196,12 @@
             "The puppy grew accustomed to its new home."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "unaccustomed",
+        "def": "Not used to something."
       }
     ]
   },
@@ -930,6 +1296,31 @@
             "He had an ache in his back after lifting the box.",
             "A dull ache in my tooth kept me awake.",
             "The ache in her legs went away after she rested."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "achievable",
+    "say": "uh-CHEE-vuh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to be done.",
+          "examples": [
+            "An achievable goal.",
+            "The plan is achievable.",
+            "It is achievable."
+          ]
+        },
+        "more": {
+          "def": "Possible to reach or do with effort.",
+          "examples": [
+            "Winning is an achievable goal.",
+            "The goal seemed achievable.",
+            "It is achievable with practice."
           ]
         }
       }
@@ -1034,6 +1425,56 @@
     ]
   },
   {
+    "word": "achingly",
+    "say": "AY-king-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that hurts or longs.",
+          "examples": [
+            "The song was achingly sad.",
+            "He looked achingly tired.",
+            "She missed him achingly."
+          ]
+        },
+        "more": {
+          "def": "In a way that is so strong it almost hurts.",
+          "examples": [
+            "The song was achingly beautiful.",
+            "The boy looked achingly tired.",
+            "She missed her home achingly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "achoo",
+    "say": "ah-CHOO",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "The sound of a sneeze.",
+          "examples": [
+            "Achoo! I sneezed.",
+            "\"Achoo!\" said the baby.",
+            "I heard an achoo."
+          ]
+        },
+        "more": {
+          "def": "The sound of a sneeze.",
+          "examples": [
+            "\"Achoo!\" sneezed Ben.",
+            "The dust made her go \"Achoo!\"",
+            "You can hear an achoo from across the room."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "achy",
     "say": "AY-kee",
     "forms": [
@@ -1085,6 +1526,31 @@
             "Lemon juice contains a weak acid.",
             "Strong acid can burn your skin.",
             "Scientists test whether a liquid is an acid."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "acidic",
+    "say": "uh-SID-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sharp and sour, like a lemon.",
+          "examples": [
+            "Limes are acidic.",
+            "The soda is acidic.",
+            "An acidic taste."
+          ]
+        },
+        "more": {
+          "def": "Containing acid; sour and sharp.",
+          "examples": [
+            "Lemons are acidic.",
+            "The acidic juice stung my cut.",
+            "Vinegar tastes acidic."
           ]
         }
       }
@@ -1179,6 +1645,31 @@
     ]
   },
   {
+    "word": "acoustic",
+    "say": "uh-KOO-stik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About sound, or not using electricity.",
+          "examples": [
+            "An acoustic guitar.",
+            "Acoustic music.",
+            "The acoustic show."
+          ]
+        },
+        "more": {
+          "def": "Not using electric power to make sound; or about how sound travels.",
+          "examples": [
+            "He played an acoustic guitar.",
+            "The concert hall has good acoustic design.",
+            "The band gave an acoustic show."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "acquaintance",
     "say": "uh-KWAYN-tunss",
     "forms": [
@@ -1265,6 +1756,31 @@
     ]
   },
   {
+    "word": "acrid",
+    "say": "AK-rid",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sharp and bitter smelling.",
+          "examples": [
+            "An acrid smell.",
+            "The acrid smoke.",
+            "The smell was acrid."
+          ]
+        },
+        "more": {
+          "def": "Having a sharp, bitter taste or smell that stings.",
+          "examples": [
+            "An acrid smell filled the room.",
+            "The acrid smoke stung my eyes.",
+            "The burnt toast gave off an acrid odor."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "acrobat",
     "say": "AK-roh-bat",
     "forms": [
@@ -1318,6 +1834,59 @@
     ]
   },
   {
+    "word": "acrobatics",
+    "say": "ak-ruh-BAT-iks",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Tumbling and gymnastic tricks.",
+          "examples": [
+            "The acrobatics were great.",
+            "She does acrobatics.",
+            "Acrobatics are flips."
+          ]
+        },
+        "more": {
+          "def": "Skillful tumbling, flipping and balancing tricks.",
+          "examples": [
+            "The circus performers did amazing acrobatics.",
+            "Acrobatics need strength and balance.",
+            "The monkeys did acrobatics in the trees."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "acronym",
+    "say": "AK-ruh-nim",
+    "forms": [
+      "acronyms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word made from the first letters of other words.",
+          "examples": [
+            "NASA is an acronym.",
+            "An acronym is a short word.",
+            "Make an acronym."
+          ]
+        },
+        "more": {
+          "def": "A word made from the first letters of several words, such as NASA.",
+          "examples": [
+            "NASA is an acronym for a long name.",
+            "An acronym is a short way to say something.",
+            "We made an acronym for our club."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "across",
     "say": "uh-KROSS",
     "senses": [
@@ -1356,6 +1925,34 @@
             "The lake is a mile across at its widest point.",
             "The kids ran across and waved from the far side.",
             "The river is wide, but we can get across by boat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "acrostic",
+    "say": "uh-KROS-tik",
+    "forms": [
+      "acrostics"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A poem where the first letters spell a word.",
+          "examples": [
+            "We wrote an acrostic.",
+            "An acrostic spells a word.",
+            "My acrostic spells my name."
+          ]
+        },
+        "more": {
+          "def": "A poem or puzzle in which the first letters of each line spell out a word.",
+          "examples": [
+            "We wrote an acrostic poem about spring.",
+            "In an acrostic, the first letters spell a word.",
+            "My acrostic spells my name down the page."
           ]
         }
       }
@@ -1548,6 +2145,59 @@
     ]
   },
   {
+    "word": "activism",
+    "say": "AK-tih-viz-um",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Taking action to make a change.",
+          "examples": [
+            "Her activism helped the park.",
+            "They believe in activism.",
+            "Activism can help."
+          ]
+        },
+        "more": {
+          "def": "Taking action, such as speaking up or marching, to help bring about a change.",
+          "examples": [
+            "Her activism helped save the old library.",
+            "Students joined in activism to clean up the river.",
+            "Activism can start with one person."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "activist",
+    "say": "AK-tih-vist",
+    "forms": [
+      "activists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who works hard to make a change.",
+          "examples": [
+            "The activist helped clean the park.",
+            "An activist wants a safe town.",
+            "She is an activist for animals."
+          ]
+        },
+        "more": {
+          "def": "A person who takes action to try to change something they think is wrong.",
+          "examples": [
+            "The activist asked people to sign a petition for a new playground.",
+            "A young activist organized a beach cleanup.",
+            "Activists marched to ask for cleaner rivers."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "activity",
     "say": "ak-TIV-ih-tee",
     "forms": [
@@ -1680,6 +2330,41 @@
             "The tomato is actually a fruit, not a vegetable.",
             "I thought the test would be hard, but it was actually easy.",
             "He actually caught the ball with one hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "acute",
+    "say": "uh-KYOOT",
+    "forms": [
+      "acuter",
+      "acutest"
+    ],
+    "related": [
+      {
+        "word": "acuteness",
+        "def": "Being sharp or very strong."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very sharp or strong.",
+          "examples": [
+            "She has acute hearing.",
+            "An acute pain.",
+            "An acute angle."
+          ]
+        },
+        "more": {
+          "def": "Sharp and strong, or very keen.",
+          "examples": [
+            "Dogs have acute hearing.",
+            "An acute angle is less than ninety degrees.",
+            "He felt an acute pain in his ankle."
           ]
         }
       }

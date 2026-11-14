@@ -44,6 +44,60 @@
     ]
   },
   {
+    "word": "muck",
+    "say": "muk",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Dirt or mud that is wet and messy.",
+          "examples": [
+            "My boots are covered in muck.",
+            "The pig rolled in muck.",
+            "We slid in the muck."
+          ]
+        },
+        "more": {
+          "def": "Wet, sticky dirt or mud.",
+          "examples": [
+            "Muck coated our boots after the rainy walk.",
+            "The pigs rolled happily in the muck.",
+            "We scraped the muck from the bottom of the shoes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mucky",
+    "say": "MUK-ee",
+    "forms": [
+      "muckier",
+      "muckiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Dirty and muddy.",
+          "examples": [
+            "The boots were mucky.",
+            "A mucky field.",
+            "The mucky pig."
+          ]
+        },
+        "more": {
+          "def": "Covered in mud or dirt.",
+          "examples": [
+            "The boots were mucky after the walk.",
+            "The mucky pigs rolled in the pen.",
+            "A mucky path ran through the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mud",
     "say": "mud",
     "senses": [
@@ -150,6 +204,62 @@
     ]
   },
   {
+    "word": "mudskipper",
+    "say": "MUD-skip-er",
+    "forms": [
+      "mudskippers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fish that can walk on mud.",
+          "examples": [
+            "A mudskipper walks on mud.",
+            "The mudskipper is a fish.",
+            "I saw a mudskipper."
+          ]
+        },
+        "more": {
+          "def": "A small fish that can climb out of the water and hop across the mud.",
+          "examples": [
+            "A mudskipper hopped across the mud.",
+            "Mudskippers breathe through their skin.",
+            "The mudskipper has bulging eyes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mudslide",
+    "say": "MUD-slyd",
+    "forms": [
+      "mudslides"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Mud sliding down a hill.",
+          "examples": [
+            "A mudslide blocked the road.",
+            "The mudslide was big.",
+            "A mudslide came down."
+          ]
+        },
+        "more": {
+          "def": "A fast flow of mud and earth down a slope, usually after heavy rain.",
+          "examples": [
+            "A mudslide blocked the road after the storm.",
+            "Heavy rain caused a mudslide on the hill.",
+            "Workers cleared the mudslide."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "muff",
     "say": "muf",
     "forms": [
@@ -201,6 +311,36 @@
             "I ate a blueberry muffin for breakfast.",
             "The muffins were still warm from the oven.",
             "She split the muffin and spread butter on it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "muffle",
+    "say": "MUF-ul",
+    "forms": [
+      "muffles",
+      "muffled",
+      "muffling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a sound softer.",
+          "examples": [
+            "The snow muffled the noise.",
+            "She muffled her laugh.",
+            "The pillow muffled the sound."
+          ]
+        },
+        "more": {
+          "def": "To make a sound quieter or softer, often by covering something.",
+          "examples": [
+            "The thick snow muffled the sound of the cars.",
+            "She muffled her laugh with her hand.",
+            "The blanket muffled the alarm."
           ]
         }
       }
@@ -283,6 +423,35 @@
             "I drank hot chocolate from a mug.",
             "The mug had a picture of a cat.",
             "Dad filled his mug with tea."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "muggy",
+    "say": "MUG-ee",
+    "forms": [
+      "muggier",
+      "muggiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Warm and sticky.",
+          "examples": [
+            "It was a muggy day.",
+            "Muggy air.",
+            "The muggy weather."
+          ]
+        },
+        "more": {
+          "def": "Uncomfortably warm and damp.",
+          "examples": [
+            "It was a muggy day, so we went swimming.",
+            "The muggy air made us sweat.",
+            "Muggy weather often brings a storm."
           ]
         }
       }
@@ -374,6 +543,89 @@
     ]
   },
   {
+    "word": "mull",
+    "say": "mul",
+    "forms": [
+      "mulls",
+      "mulled",
+      "mulling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To think about something for a time.",
+          "examples": [
+            "I mull it over.",
+            "She mulled her choice.",
+            "He mulled the idea."
+          ]
+        },
+        "more": {
+          "def": "To think about something carefully for a while.",
+          "examples": [
+            "She mulled over which book to read first.",
+            "He mulled the question before he answered.",
+            "I'll mull it over and let you know."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mullein",
+    "say": "MUL-un",
+    "forms": [
+      "mulleins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tall plant with soft, fuzzy leaves.",
+          "examples": [
+            "A mullein is a plant.",
+            "The mullein is tall.",
+            "The mullein is fuzzy."
+          ]
+        },
+        "more": {
+          "def": "A tall wildflower with soft, woolly leaves and a spike of yellow flowers.",
+          "examples": [
+            "A mullein grew by the road.",
+            "The mullein has fuzzy leaves.",
+            "We touched the soft mullein leaf."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "multicellular",
+    "say": "mul-tee-SEL-yuh-ler",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Made of many cells.",
+          "examples": [
+            "A tree is multicellular.",
+            "Humans are multicellular.",
+            "Plants are multicellular."
+          ]
+        },
+        "more": {
+          "def": "Made of many cells.",
+          "examples": [
+            "Humans are multicellular.",
+            "Most plants and animals are multicellular.",
+            "A single germ is not multicellular."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "multicolored",
     "say": "mul-tee-KUL-erd",
     "senses": [
@@ -393,6 +645,56 @@
             "The multicolored parrot has red, blue and yellow feathers.",
             "She wore a multicolored scarf that was knit in stripes.",
             "A multicolored kite flew in the sky."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "multicultural",
+    "say": "mul-tee-KUL-chur-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having people from many cultures.",
+          "examples": [
+            "A multicultural town.",
+            "Our class is multicultural.",
+            "It is a multicultural school."
+          ]
+        },
+        "more": {
+          "def": "Including people from many different cultures and backgrounds.",
+          "examples": [
+            "Our class is multicultural, with kids from many places.",
+            "The town has a multicultural festival.",
+            "A multicultural school celebrates many traditions."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "multimedia",
+    "say": "mul-tee-MEE-dee-uh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Using pictures, sound and video together.",
+          "examples": [
+            "The show was multimedia.",
+            "A multimedia project.",
+            "Multimedia uses video and sound."
+          ]
+        },
+        "more": {
+          "def": "The use of several forms, such as pictures, sound and video, together.",
+          "examples": [
+            "Our class made a multimedia project with photos and music.",
+            "The museum had a multimedia show.",
+            "A multimedia presentation used pictures and sound."
           ]
         }
       }
@@ -421,6 +723,31 @@
             "The multimillionaire gave money to the school.",
             "A multimillionaire bought the old castle.",
             "He became a multimillionaire at thirty."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "multiplayer",
+    "say": "mul-tee-PLAY-er",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "For many players at once.",
+          "examples": [
+            "A multiplayer game.",
+            "It is a multiplayer game.",
+            "The game is multiplayer."
+          ]
+        },
+        "more": {
+          "def": "Made so that several people can play together at the same time.",
+          "examples": [
+            "We played a multiplayer game online.",
+            "A multiplayer game lets friends play together.",
+            "The multiplayer mode needs four people."
           ]
         }
       }
@@ -468,6 +795,31 @@
             "Eight is a multiple of four.",
             "The multiples of three are three, six, nine and twelve.",
             "Twenty is a multiple of both four and five."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "multiplication",
+    "say": "mul-tih-plih-KAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Adding the same number many times.",
+          "examples": [
+            "We learned multiplication.",
+            "Multiplication is math.",
+            "I like multiplication."
+          ]
+        },
+        "more": {
+          "def": "A way of adding the same number again and again; in math, finding the product of numbers.",
+          "examples": [
+            "We practice multiplication tables each day.",
+            "Multiplication is a quick way of adding the same number.",
+            "Three times four is an example of multiplication."
           ]
         }
       }
@@ -523,6 +875,36 @@
     ]
   },
   {
+    "word": "multitask",
+    "say": "MUL-tee-task",
+    "forms": [
+      "multitasks",
+      "multitasked",
+      "multitasking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To do many jobs at the same time.",
+          "examples": [
+            "Mom can multitask.",
+            "He multitasks.",
+            "Do not multitask."
+          ]
+        },
+        "more": {
+          "def": "To do more than one thing at the same time.",
+          "examples": [
+            "Mom can cook and talk on the phone, so she can multitask.",
+            "It is hard to multitask when you read.",
+            "He multitasked by folding laundry while he watched TV."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "multitude",
     "say": "MUL-tih-tood",
     "forms": [
@@ -545,6 +927,34 @@
             "A multitude of stars filled the sky.",
             "A multitude of fans cheered at the game.",
             "The garden was home to a multitude of bees."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "multivitamin",
+    "say": "mul-tee-VY-tuh-min",
+    "forms": [
+      "multivitamins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pill with many vitamins in it.",
+          "examples": [
+            "I take a multivitamin.",
+            "A multivitamin has vitamins.",
+            "The multivitamin is chewy."
+          ]
+        },
+        "more": {
+          "def": "A pill or gummy that has many kinds of vitamins in it.",
+          "examples": [
+            "I take a multivitamin each morning.",
+            "A multivitamin has many vitamins in one.",
+            "The multivitamin is shaped like a bear."
           ]
         }
       }
@@ -603,6 +1013,36 @@
             "He mumbled his answer so softly that no one heard it.",
             "Do not mumble when you read aloud to the class.",
             "She mumbled something about being tired and went to bed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mummify",
+    "say": "MUM-ih-fy",
+    "forms": [
+      "mummifies",
+      "mummified",
+      "mummifying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To preserve a dead body by wrapping it up.",
+          "examples": [
+            "They mummified the king.",
+            "Egyptians did mummify.",
+            "The body was mummified."
+          ]
+        },
+        "more": {
+          "def": "To preserve a dead body by drying it and wrapping it in cloth.",
+          "examples": [
+            "Ancient Egyptians learned to mummify their kings.",
+            "Bodies can mummify in dry sand.",
+            "The body was mummified with cloth."
           ]
         }
       }
@@ -686,6 +1126,56 @@
     ]
   },
   {
+    "word": "mundane",
+    "say": "mun-DAYN",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Ordinary and dull.",
+          "examples": [
+            "A mundane job.",
+            "The mundane task.",
+            "It was mundane."
+          ]
+        },
+        "more": {
+          "def": "Ordinary and a little boring; of everyday life.",
+          "examples": [
+            "Washing dishes is a mundane task.",
+            "It was a mundane day with nothing special.",
+            "He wrote about mundane things."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "municipal",
+    "say": "myoo-NIS-ih-pul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About a town or city.",
+          "examples": [
+            "The municipal park is open.",
+            "A municipal pool.",
+            "The municipal bus."
+          ]
+        },
+        "more": {
+          "def": "Having to do with a town or city and its government.",
+          "examples": [
+            "The municipal pool opens in June.",
+            "The municipal library is free to use.",
+            "The municipal bus takes you downtown."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mural",
     "say": "MYUR-ul",
     "forms": [
@@ -708,6 +1198,31 @@
             "Students painted a colorful mural on the school wall.",
             "A mural of the town's history covers the library wall.",
             "Artists worked for weeks on the huge mural."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "murk",
+    "say": "merk",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Thick, dark air or water.",
+          "examples": [
+            "The fish hid in the murk.",
+            "The murk was thick.",
+            "We peered into the murk."
+          ]
+        },
+        "more": {
+          "def": "Darkness, mist or dirty water that is hard to see through.",
+          "examples": [
+            "The fish disappeared into the murk of the pond.",
+            "We peered into the murk of the foggy night.",
+            "The boat sailed into the murk."
           ]
         }
       }
@@ -821,6 +1336,35 @@
     ]
   },
   {
+    "word": "muscly",
+    "say": "MUS-lee",
+    "forms": [
+      "musclier",
+      "muscliest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "With big, strong muscles.",
+          "examples": [
+            "A muscly arm.",
+            "The muscly man.",
+            "A muscly horse."
+          ]
+        },
+        "more": {
+          "def": "Having big, strong muscles.",
+          "examples": [
+            "The muscly man lifted the box.",
+            "A muscly horse pulled the plow.",
+            "He has muscly arms."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "muscular",
     "say": "MUS-kyuh-ler",
     "senses": [
@@ -840,6 +1384,36 @@
             "The muscular horse pulled the heavy cart easily.",
             "The gymnast has strong, muscular arms.",
             "The doctor looked for a muscular problem in her leg."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "muse",
+    "say": "myooz",
+    "forms": [
+      "muses",
+      "mused",
+      "musing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To think about something for a long time.",
+          "examples": [
+            "She mused about the stars.",
+            "I mused as I walked.",
+            "He mused on his day."
+          ]
+        },
+        "more": {
+          "def": "To think quietly and for a long time about something.",
+          "examples": [
+            "She mused about what to do on her birthday.",
+            "He mused for a moment before answering.",
+            "\"I wonder where the birds go,\" he mused as he looked at the sky."
           ]
         }
       }
@@ -1052,6 +1626,37 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "unmusical",
+        "def": "Not good at music."
+      }
+    ]
+  },
+  {
+    "word": "musically",
+    "say": "MYOO-zih-klee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way related to music.",
+          "examples": [
+            "She is musically gifted.",
+            "He sang musically.",
+            "The bird sang musically."
+          ]
+        },
+        "more": {
+          "def": "In a way that has to do with music.",
+          "examples": [
+            "She is musically talented.",
+            "The bird called musically from the tree.",
+            "He is musically gifted and plays three instruments."
+          ]
+        }
+      }
     ]
   },
   {
@@ -1165,6 +1770,34 @@
     ]
   },
   {
+    "word": "muskox",
+    "say": "MUSK-oks",
+    "forms": [
+      "muskoxen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big, shaggy animal of the cold north.",
+          "examples": [
+            "A muskox is shaggy.",
+            "The muskox is big.",
+            "I saw a muskox."
+          ]
+        },
+        "more": {
+          "def": "A large, shaggy, oxlike animal with curved horns that lives in the Arctic.",
+          "examples": [
+            "A muskox has long, shaggy hair.",
+            "The muskox lives on the cold, windy tundra.",
+            "Muskoxen stand in a circle to guard their calves."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "muskrat",
     "say": "MUSK-rat",
     "forms": [
@@ -1187,6 +1820,56 @@
             "A muskrat swam across the pond.",
             "The muskrat built a house of reeds.",
             "Muskrats live near marshes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "musky",
+    "say": "MUS-kee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "With a strong, earthy smell.",
+          "examples": [
+            "The cave smelled musky.",
+            "A musky odor.",
+            "The musky perfume."
+          ]
+        },
+        "more": {
+          "def": "Having a strong, rich, earthy smell.",
+          "examples": [
+            "The cave had a musky smell.",
+            "The musky scent of the animal lingered.",
+            "The old coat smelled musky."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "muslin",
+    "say": "MUZ-lin",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin, soft cloth.",
+          "examples": [
+            "The curtain is muslin.",
+            "Muslin is soft.",
+            "She wore a muslin dress."
+          ]
+        },
+        "more": {
+          "def": "A thin, light cotton cloth used for clothes and curtains.",
+          "examples": [
+            "The baby was wrapped in soft muslin.",
+            "Cheese is sometimes strained through muslin.",
+            "The curtains were made of white muslin."
           ]
         }
       }
@@ -1294,6 +1977,36 @@
             "I put mustard on my sandwich.",
             "The mustard was yellow and tangy.",
             "Dad squeezed mustard onto the pretzel."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "muster",
+    "say": "MUS-ter",
+    "forms": [
+      "musters",
+      "mustered",
+      "mustering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To gather together.",
+          "examples": [
+            "The team mustered.",
+            "She mustered her courage.",
+            "He mustered a smile."
+          ]
+        },
+        "more": {
+          "def": "To gather people together, or to bring up courage or strength.",
+          "examples": [
+            "The captain mustered the crew on deck.",
+            "She mustered all her courage and jumped off the diving board.",
+            "He mustered the strength to carry the heavy box."
           ]
         }
       }
@@ -1464,6 +2177,31 @@
     ]
   },
   {
+    "word": "mutely",
+    "say": "MYOOT-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Without speaking.",
+          "examples": [
+            "He nodded mutely.",
+            "She stared mutely.",
+            "They watched mutely."
+          ]
+        },
+        "more": {
+          "def": "In silence, without saying a word.",
+          "examples": [
+            "He nodded mutely when asked.",
+            "She stood mutely, too shy to speak.",
+            "The children watched mutely as the rocket rose."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mutiny",
     "say": "MYOO-tih-nee",
     "forms": [
@@ -1546,6 +2284,31 @@
             "He muttered something about the rain as he put on his boots.",
             "The old man muttered to himself while he looked for his glasses.",
             "I muttered \"sorry\" and looked down at my shoes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mutton",
+    "say": "MUT-un",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Meat from a grown sheep.",
+          "examples": [
+            "We had mutton for dinner.",
+            "Mutton is meat.",
+            "The mutton was cooked."
+          ]
+        },
+        "more": {
+          "def": "The meat from a fully grown sheep.",
+          "examples": [
+            "The farmer's wife made mutton stew.",
+            "Mutton comes from older sheep than lamb does.",
+            "We ate mutton with potatoes."
           ]
         }
       }

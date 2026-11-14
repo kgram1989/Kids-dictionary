@@ -53,6 +53,31 @@
     ]
   },
   {
+    "word": "vacantly",
+    "say": "VAY-kunt-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "With an empty look.",
+          "examples": [
+            "He stared vacantly.",
+            "She gazed vacantly.",
+            "The boy looked vacantly."
+          ]
+        },
+        "more": {
+          "def": "With an empty, blank look, as if not thinking.",
+          "examples": [
+            "He stared vacantly out the window.",
+            "She gazed vacantly at the board.",
+            "The tired boy looked vacantly ahead."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vacate",
     "say": "VAY-kayt",
     "forms": [
@@ -247,6 +272,34 @@
     ]
   },
   {
+    "word": "vagabond",
+    "say": "VAG-uh-bond",
+    "forms": [
+      "vagabonds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who wanders from place to place.",
+          "examples": [
+            "The vagabond walked the road.",
+            "A vagabond has no home.",
+            "The vagabond sang."
+          ]
+        },
+        "more": {
+          "def": "A person who wanders from place to place with no settled home.",
+          "examples": [
+            "The vagabond walked from town to town.",
+            "In the story, a kind vagabond shared his bread.",
+            "The vagabond slept under the stars."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vague",
     "say": "vayg",
     "forms": [
@@ -273,6 +326,12 @@
             "The shape in the fog was vague, and we could not tell what it was."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "vagueness",
+        "def": "Not being clear."
       }
     ]
   },
@@ -326,6 +385,119 @@
     ]
   },
   {
+    "word": "vale",
+    "say": "vayl",
+    "forms": [
+      "vales"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A valley.",
+          "examples": [
+            "We walked in the vale.",
+            "The vale is green.",
+            "A river ran through the vale."
+          ]
+        },
+        "more": {
+          "def": "A valley, especially in poems and old stories.",
+          "examples": [
+            "A river wound through the green vale.",
+            "We walked down into the quiet vale.",
+            "The poem described a peaceful vale."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "valedictorian",
+    "say": "val-ih-dik-TOR-ee-un",
+    "forms": [
+      "valedictorians"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The student with the best grades who speaks at graduation.",
+          "examples": [
+            "She was the valedictorian.",
+            "A valedictorian speaks.",
+            "The valedictorian gave a speech."
+          ]
+        },
+        "more": {
+          "def": "The student with the highest grades in a class, who gives a speech at graduation.",
+          "examples": [
+            "The valedictorian gave the speech.",
+            "She worked hard to be the valedictorian.",
+            "The valedictorian thanked her teachers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "valentine",
+    "say": "VAL-un-tyne",
+    "emoji": "💌",
+    "forms": [
+      "valentines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A card or gift you give to someone you care about.",
+          "examples": [
+            "I made a valentine.",
+            "She gave me a valentine.",
+            "The valentine has a heart."
+          ]
+        },
+        "more": {
+          "def": "A card with a kind message that you give on February 14th to show that you like someone.",
+          "examples": [
+            "The class made valentines for their families.",
+            "He signed the valentine with a big heart.",
+            "She gave each friend a valentine and a small treat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "valet",
+    "say": "va-LAY",
+    "forms": [
+      "valets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who parks cars or helps someone with their clothes.",
+          "examples": [
+            "The valet parked the car.",
+            "A valet helps you.",
+            "The valet opened the door."
+          ]
+        },
+        "more": {
+          "def": "A person who parks cars for guests, or a servant who looks after a man's clothes.",
+          "examples": [
+            "The valet parked our car at the hotel.",
+            "In the old story, the valet laid out his master's clothes.",
+            "The valet opened the door for us."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "valiant",
     "say": "VAL-yunt",
     "forms": [
@@ -373,6 +545,36 @@
             "A ticket is only valid for the day printed on it.",
             "Tom had a valid reason for being late, since the bus broke down.",
             "Your library card is valid for one more year."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "validate",
+    "say": "VAL-ih-dayt",
+    "forms": [
+      "validates",
+      "validated",
+      "validating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To show that something is true or right.",
+          "examples": [
+            "Validate your ticket.",
+            "The test validated it.",
+            "They validate tickets."
+          ]
+        },
+        "more": {
+          "def": "To prove that something is correct or true.",
+          "examples": [
+            "The test validated her idea.",
+            "The guard validated our tickets at the gate.",
+            "Scientists validate their results by testing them again."
           ]
         }
       }
@@ -506,6 +708,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "valueless",
+        "def": "Not worth anything."
+      }
     ]
   },
   {
@@ -566,6 +774,35 @@
     ]
   },
   {
+    "word": "van",
+    "say": "van",
+    "emoji": "🚐",
+    "forms": [
+      "vans"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big car with a boxy back, used to carry things or people.",
+          "examples": [
+            "Dad drove the van.",
+            "The van is white.",
+            "We put the bags in the van."
+          ]
+        },
+        "more": {
+          "def": "A covered vehicle bigger than a car, used for carrying people or goods.",
+          "examples": [
+            "The delivery van stopped in front of our house.",
+            "Our whole team rode to the game in a van.",
+            "They packed the camping gear into the van."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vandal",
     "say": "VAN-dul",
     "forms": [
@@ -618,6 +855,34 @@
             "It is wrong to vandalize a school.",
             "Someone vandalized the park bench with paint.",
             "Town workers cleaned the sign that was vandalized."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vane",
+    "say": "vayn",
+    "forms": [
+      "vanes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing that turns in the wind to show which way it blows.",
+          "examples": [
+            "The vane points north.",
+            "The weather vane spun.",
+            "The vane turned in the wind."
+          ]
+        },
+        "more": {
+          "def": "A flat piece on a pole that swings around to show the direction of the wind.",
+          "examples": [
+            "The rooster-shaped vane on the barn pointed north.",
+            "The vane spun around as the wind changed.",
+            "A weather vane turned slowly on top of the church."
           ]
         }
       }
@@ -706,6 +971,31 @@
     ]
   },
   {
+    "word": "vanity",
+    "say": "VAN-ih-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being too proud of how you look.",
+          "examples": [
+            "His vanity was clear.",
+            "She had too much vanity.",
+            "Vanity is silly."
+          ]
+        },
+        "more": {
+          "def": "Too much pride in how you look or in what you can do.",
+          "examples": [
+            "The peacock strutted with great vanity.",
+            "Her vanity made her check the mirror all day.",
+            "He was full of vanity about his new hat."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vanquish",
     "say": "VANG-kwish",
     "forms": [
@@ -730,6 +1020,31 @@
             "The knight in the story vanquished the dragon and saved the village.",
             "Our team vanquished its old rivals in the championship game.",
             "With practice, she vanquished her fear of speaking to a crowd."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vantage",
+    "say": "VAN-tij",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A good spot for seeing.",
+          "examples": [
+            "From this vantage, we see the lake.",
+            "It is a good vantage.",
+            "A high vantage point."
+          ]
+        },
+        "more": {
+          "def": "A place or position that gives a good view.",
+          "examples": [
+            "From our vantage on the hill, we saw the whole town.",
+            "The tower made a good vantage point.",
+            "From this vantage, you can see the river."
           ]
         }
       }
@@ -835,6 +1150,34 @@
             "In math, the letter x is a variable that stands for a number.",
             "In our plant experiment, the amount of water was the variable.",
             "A scientist changes only one variable at a time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "variant",
+    "say": "VAIR-ee-unt",
+    "forms": [
+      "variants"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A different form of something.",
+          "examples": [
+            "A variant of the word.",
+            "This is a variant.",
+            "The variant is different."
+          ]
+        },
+        "more": {
+          "def": "A different version or form of something.",
+          "examples": [
+            "\"Color\" and \"colour\" are variants of the same word.",
+            "This apple is a variant of the red one.",
+            "The recipe has a variant with nuts."
           ]
         }
       }
@@ -971,6 +1314,31 @@
     ]
   },
   {
+    "word": "varsity",
+    "say": "VAR-suh-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The top team of a school.",
+          "examples": [
+            "He plays on the varsity team.",
+            "She is on varsity.",
+            "The varsity won."
+          ]
+        },
+        "more": {
+          "def": "The main team that represents a school or college in a sport.",
+          "examples": [
+            "He made the varsity soccer team.",
+            "The varsity played against their rivals.",
+            "She is the captain of the varsity swim team."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vary",
     "say": "VAIR-ee",
     "forms": [
@@ -1022,6 +1390,12 @@
             "We had varying amounts of rain each month."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "unvarying",
+        "def": "Always the same."
       }
     ]
   },
@@ -1085,6 +1459,31 @@
       {
         "word": "vastness",
         "def": "Being very big."
+      }
+    ]
+  },
+  {
+    "word": "vastly",
+    "say": "VAST-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "By a very large amount.",
+          "examples": [
+            "It is vastly bigger.",
+            "The city is vastly different.",
+            "She was vastly happy."
+          ]
+        },
+        "more": {
+          "def": "By a very great amount; very much.",
+          "examples": [
+            "The city is vastly bigger than our town.",
+            "The new bike is vastly faster than the old one.",
+            "The two paintings are vastly different."
+          ]
+        }
       }
     ]
   },
@@ -1158,6 +1557,31 @@
             "He vaulted over the fence.",
             "The athlete vaulted over the high bar with a pole.",
             "She vaulted over a log."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vaulted",
+    "say": "VAWL-tid",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having a high, curved ceiling.",
+          "examples": [
+            "A vaulted ceiling.",
+            "The church is vaulted.",
+            "The room is vaulted."
+          ]
+        },
+        "more": {
+          "def": "Having a ceiling that is curved or arched.",
+          "examples": [
+            "The church had a vaulted ceiling.",
+            "The vaulted hall echoed with sound.",
+            "A vaulted room feels tall and open."
           ]
         }
       }

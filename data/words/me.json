@@ -54,6 +54,35 @@
     ]
   },
   {
+    "word": "meadowlark",
+    "say": "MED-oh-lark",
+    "emoji": "🐦",
+    "forms": [
+      "meadowlarks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A yellow-chested bird that sings in fields.",
+          "examples": [
+            "A meadowlark sang.",
+            "The meadowlark has a yellow chest.",
+            "I heard a meadowlark."
+          ]
+        },
+        "more": {
+          "def": "A songbird with a bright yellow chest and a black V mark that sings from fence posts in open fields.",
+          "examples": [
+            "A meadowlark sang from the fence post.",
+            "The meadowlark's chest is bright yellow.",
+            "Meadowlarks nest in the grass."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "meager",
     "say": "MEE-ger",
     "forms": [
@@ -104,6 +133,63 @@
             "Breakfast is the first meal of the day.",
             "Mom cooked a big meal for the family.",
             "We eat our evening meal at six."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mealtime",
+    "say": "MEEL-tym",
+    "forms": [
+      "mealtimes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The time when you eat a meal.",
+          "examples": [
+            "It is mealtime.",
+            "The dog waits at mealtime.",
+            "We sing at mealtime."
+          ]
+        },
+        "more": {
+          "def": "The usual time of day for eating a meal.",
+          "examples": [
+            "The dog waits by its bowl at mealtime.",
+            "Mealtime is at six o'clock.",
+            "The kids washed their hands before mealtime."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mealy",
+    "say": "MEE-lee",
+    "forms": [
+      "mealier",
+      "mealiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Dry and powdery.",
+          "examples": [
+            "The apple was mealy.",
+            "A mealy potato.",
+            "The mealy fruit."
+          ]
+        },
+        "more": {
+          "def": "Dry, soft and powdery, like meal or flour.",
+          "examples": [
+            "The apple was mealy and tasteless.",
+            "A mealy potato crumbled.",
+            "The peach felt mealy."
           ]
         }
       }
@@ -172,6 +258,64 @@
             "It was mean to leave him out of the game.",
             "The mean witch in the story would not share her food.",
             "She felt sad when the boy said mean words to her."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "meander",
+    "say": "mee-AN-der",
+    "forms": [
+      "meanders",
+      "meandered",
+      "meandering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To wander or twist slowly.",
+          "examples": [
+            "The stream meanders.",
+            "We meandered down the path.",
+            "The river meanders through the valley."
+          ]
+        },
+        "more": {
+          "def": "To follow a winding path, or to wander slowly with no goal.",
+          "examples": [
+            "The river meanders through the green valley.",
+            "We meandered along the beach, picking up shells.",
+            "The path meanders through the woods."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "meanie",
+    "say": "MEE-nee",
+    "forms": [
+      "meanies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A mean person.",
+          "examples": [
+            "Do not be a meanie.",
+            "He was a meanie.",
+            "The meanie took the toy."
+          ]
+        },
+        "more": {
+          "def": "A person who is unkind, especially to children.",
+          "examples": [
+            "Don't be a meanie and share your toys.",
+            "The meanie would not let her play.",
+            "He called his brother a meanie."
           ]
         }
       }
@@ -359,6 +503,31 @@
     ]
   },
   {
+    "word": "measly",
+    "say": "MEEZ-lee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Too small or too little.",
+          "examples": [
+            "I got a measly cookie.",
+            "A measly amount.",
+            "The measly meal."
+          ]
+        },
+        "more": {
+          "def": "Very small and disappointing.",
+          "examples": [
+            "I got only a measly cookie.",
+            "They paid us a measly few dollars.",
+            "It was a measly little pile of sand."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "measure",
     "say": "MEZH-er",
     "emoji": "📐",
@@ -392,6 +561,10 @@
       {
         "word": "measurable",
         "def": "Able to be measured."
+      },
+      {
+        "word": "measureless",
+        "def": "Too big to measure."
       }
     ]
   },
@@ -655,6 +828,34 @@
     ]
   },
   {
+    "word": "medalist",
+    "say": "MED-ul-ist",
+    "forms": [
+      "medalists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who wins a medal.",
+          "examples": [
+            "A medalist wins a medal.",
+            "The medalist smiled.",
+            "She is a gold medalist."
+          ]
+        },
+        "more": {
+          "def": "A person who has won a medal in a contest.",
+          "examples": [
+            "The gold medalist stood on the podium.",
+            "A medalist wins a prize in a sport.",
+            "She is a medalist in swimming."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "medallion",
     "say": "muh-DAL-yun",
     "forms": [
@@ -707,6 +908,84 @@
             "Please do not meddle in your sister's art project.",
             "The nosy neighbor liked to meddle in everyone's business.",
             "The cat meddled with the yarn and tied itself up."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "meddlesome",
+    "say": "MED-ul-sum",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Getting into other people's business.",
+          "examples": [
+            "A meddlesome neighbor.",
+            "The meddlesome cat.",
+            "She was meddlesome."
+          ]
+        },
+        "more": {
+          "def": "Interfering in other people's affairs when you are not wanted.",
+          "examples": [
+            "The meddlesome neighbor asked many questions.",
+            "Her meddlesome brother opened her mail.",
+            "A meddlesome cat pawed at everything."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "media",
+    "say": "MEE-dee-uh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "News, TV, radio and the internet.",
+          "examples": [
+            "The media shows news.",
+            "The media told us about it.",
+            "Many people watch the media."
+          ]
+        },
+        "more": {
+          "def": "The ways that people get news and information, such as television, radio, newspapers and websites.",
+          "examples": [
+            "The media reported on the big storm.",
+            "Newspapers, radio and television are all part of the media.",
+            "Reporters from the media came to see the new bridge."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "median",
+    "say": "MEE-dee-un",
+    "forms": [
+      "medians"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The middle number in a list.",
+          "examples": [
+            "The median is in the middle.",
+            "Find the median.",
+            "Five is the median."
+          ]
+        },
+        "more": {
+          "def": "The middle value in a set of numbers when they are put in order.",
+          "examples": [
+            "The median of 1, 3 and 5 is 3.",
+            "Find the median of the scores.",
+            "The median is the middle number."
           ]
         }
       }
@@ -824,6 +1103,31 @@
     ]
   },
   {
+    "word": "medicinal",
+    "say": "muh-DIS-ih-nul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Used as medicine.",
+          "examples": [
+            "Medicinal herbs.",
+            "A medicinal drink.",
+            "The medicinal plant."
+          ]
+        },
+        "more": {
+          "def": "Used to treat or help cure sickness.",
+          "examples": [
+            "The leaves have medicinal properties.",
+            "She drank a medicinal tea for her cold.",
+            "Medicinal plants grow in the garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "medicine",
     "say": "MED-uh-sin",
     "forms": [
@@ -896,6 +1200,61 @@
     ]
   },
   {
+    "word": "mediocre",
+    "say": "mee-dee-OH-ker",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not very good and not very bad.",
+          "examples": [
+            "The food was mediocre.",
+            "A mediocre game.",
+            "His grade was mediocre."
+          ]
+        },
+        "more": {
+          "def": "Not very good; of only average quality.",
+          "examples": [
+            "The food at the cafe was mediocre.",
+            "It was a mediocre game with few goals.",
+            "His grades were mediocre this term."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "meditate",
+    "say": "MED-ih-tayt",
+    "forms": [
+      "meditates",
+      "meditated",
+      "meditating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To sit quietly and think or calm your mind.",
+          "examples": [
+            "He meditates each day.",
+            "She sat to meditate.",
+            "We meditate in class."
+          ]
+        },
+        "more": {
+          "def": "To sit quietly and clear your mind to feel calm, or to think deeply.",
+          "examples": [
+            "She likes to meditate before school.",
+            "The monk meditated in the quiet garden.",
+            "We meditate for a few minutes each morning."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "meditation",
     "say": "med-ih-TAY-shun",
     "senses": [
@@ -915,6 +1274,31 @@
             "Meditation helps me relax by sitting quietly and breathing slowly.",
             "We did a few minutes of meditation at school.",
             "She finds meditation helps her feel calm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "meditative",
+    "say": "MED-ih-tay-tiv",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Calm and thoughtful.",
+          "examples": [
+            "A meditative mood.",
+            "The meditative monk.",
+            "A meditative walk."
+          ]
+        },
+        "more": {
+          "def": "Quiet, calm and deep in thought.",
+          "examples": [
+            "She was in a meditative mood.",
+            "A meditative walk cleared his mind.",
+            "The meditative music was soft and slow."
           ]
         }
       }
@@ -1028,6 +1412,65 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "meekness",
+        "def": "Being quiet and gentle."
+      }
+    ]
+  },
+  {
+    "word": "meekly",
+    "say": "MEEK-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a quiet and gentle way.",
+          "examples": [
+            "He meekly said yes.",
+            "The mouse squeaked meekly.",
+            "She meekly followed."
+          ]
+        },
+        "more": {
+          "def": "In a quiet, shy and gentle way, without arguing.",
+          "examples": [
+            "He meekly followed the teacher to the office.",
+            "\"Okay,\" she said meekly.",
+            "The little lamb meekly followed its mother."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "meerkat",
+    "say": "MEER-kat",
+    "forms": [
+      "meerkats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small African animal that stands up on its back legs.",
+          "examples": [
+            "A meerkat stood up.",
+            "The meerkat watched.",
+            "Meerkats live in groups."
+          ]
+        },
+        "more": {
+          "def": "A small, furry animal of Africa that stands on its hind legs to watch for danger.",
+          "examples": [
+            "A meerkat stood guard while the others ate.",
+            "Meerkats live in groups called mobs.",
+            "The meerkat scanned the horizon."
+          ]
+        }
+      }
     ]
   },
   {
@@ -1114,6 +1557,62 @@
     ]
   },
   {
+    "word": "megabyte",
+    "say": "MEG-uh-byt",
+    "forms": [
+      "megabytes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A unit for measuring how big a computer file is.",
+          "examples": [
+            "A megabyte is a unit.",
+            "The file is a megabyte.",
+            "The photo is two megabytes."
+          ]
+        },
+        "more": {
+          "def": "A unit of computer storage equal to about a million bytes.",
+          "examples": [
+            "The photo was two megabytes.",
+            "A song takes up a few megabytes.",
+            "The file is too big, at fifty megabytes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "megalith",
+    "say": "MEG-uh-lith",
+    "forms": [
+      "megaliths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A huge stone set up long ago.",
+          "examples": [
+            "A megalith is a big stone.",
+            "Stonehenge has megaliths.",
+            "The megalith is old."
+          ]
+        },
+        "more": {
+          "def": "A very large stone used by ancient people to build a monument.",
+          "examples": [
+            "Stonehenge is made of megaliths.",
+            "People set up each megalith long ago.",
+            "The megalith stood in the field for thousands of years."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "megaphone",
     "say": "MEG-uh-fohn",
     "forms": [
@@ -1136,6 +1635,89 @@
             "The coach shouted into a megaphone to be heard across the field.",
             "The cheerleaders waved their megaphones.",
             "The guide used a megaphone to talk to the whole group."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "megawatt",
+    "say": "MEG-uh-wot",
+    "forms": [
+      "megawatts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A million watts.",
+          "examples": [
+            "We use a megawatt of power.",
+            "The plant makes a megawatt.",
+            "It uses a megawatt."
+          ]
+        },
+        "more": {
+          "def": "A unit of power equal to one million watts.",
+          "examples": [
+            "The power plant makes ten megawatts of electricity.",
+            "A megawatt is a million watts.",
+            "The wind farm produced five megawatts."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "melancholy",
+    "say": "MEL-un-kol-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sad in a quiet way.",
+          "examples": [
+            "He felt melancholy.",
+            "The song was melancholy.",
+            "She had a melancholy look."
+          ]
+        },
+        "more": {
+          "def": "Feeling or showing a deep, quiet sadness.",
+          "examples": [
+            "The melancholy song made her think of old friends.",
+            "He gazed out the window with a melancholy look.",
+            "The gray autumn day felt melancholy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "meld",
+    "say": "meld",
+    "forms": [
+      "melds",
+      "melded",
+      "melding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To mix together.",
+          "examples": [
+            "The colors meld.",
+            "The two groups melded.",
+            "Sounds meld together."
+          ]
+        },
+        "more": {
+          "def": "To blend or merge together.",
+          "examples": [
+            "The colors seemed to meld at the edge.",
+            "The two choirs melded their voices.",
+            "Flavors meld as the soup simmers."
           ]
         }
       }
@@ -1166,6 +1748,59 @@
             "The mellow music made me feel calm.",
             "We enjoyed a mellow evening on the porch.",
             "The ripe peach had a mellow, sweet taste."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "melodic",
+    "say": "muh-LOD-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having a pleasing tune.",
+          "examples": [
+            "A melodic song.",
+            "The melodic bird.",
+            "Her voice is melodic."
+          ]
+        },
+        "more": {
+          "def": "Having a pleasant tune, or sounding sweet like music.",
+          "examples": [
+            "The bird had a melodic song.",
+            "Her voice was soft and melodic.",
+            "The composer wrote a melodic piece."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "melodrama",
+    "say": "MEL-uh-drah-muh",
+    "forms": [
+      "melodramas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A play full of strong feelings and danger.",
+          "examples": [
+            "The play was a melodrama.",
+            "A melodrama is dramatic.",
+            "We saw a melodrama."
+          ]
+        },
+        "more": {
+          "def": "A play or film with exaggerated drama, strong emotions and a thrilling plot.",
+          "examples": [
+            "The play was a melodrama with a villain.",
+            "A melodrama has big feelings.",
+            "The silent film was a melodrama."
           ]
         }
       }
@@ -1404,6 +2039,118 @@
     ]
   },
   {
+    "word": "meme",
+    "say": "meem",
+    "forms": [
+      "memes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A funny picture or idea shared online.",
+          "examples": [
+            "I saw a meme.",
+            "A meme is funny.",
+            "The meme is a picture."
+          ]
+        },
+        "more": {
+          "def": "A funny image, video or phrase that spreads quickly online.",
+          "examples": [
+            "She shared a funny meme with her friends.",
+            "A meme spread across the internet.",
+            "He made a meme from a cat photo."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "memento",
+    "say": "muh-MEN-toh",
+    "forms": [
+      "mementos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing you keep to remember something.",
+          "examples": [
+            "I keep a memento.",
+            "The shell is a memento.",
+            "A memento of the trip."
+          ]
+        },
+        "more": {
+          "def": "An object kept as a reminder of a person, place or event.",
+          "examples": [
+            "The shell was a memento of our beach trip.",
+            "She kept the ticket as a memento.",
+            "He bought a small memento at the museum."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "memo",
+    "say": "MEM-oh",
+    "forms": [
+      "memos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short note.",
+          "examples": [
+            "I wrote a memo.",
+            "The memo is short.",
+            "A memo is a note."
+          ]
+        },
+        "more": {
+          "def": "A short note or message, especially one sent at work.",
+          "examples": [
+            "The teacher sent a memo to all the parents.",
+            "I left a memo on the fridge.",
+            "The boss wrote a memo to the staff."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "memoir",
+    "say": "MEM-wahr",
+    "forms": [
+      "memoirs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A book someone writes about their own life.",
+          "examples": [
+            "She wrote a memoir.",
+            "The memoir is about her life.",
+            "He read a memoir."
+          ]
+        },
+        "more": {
+          "def": "A book in which a person writes about their own life and memories.",
+          "examples": [
+            "The old sailor wrote a memoir of his travels.",
+            "She read a memoir by a famous explorer.",
+            "The memoir told of his childhood on a farm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "memorable",
     "say": "MEM-er-uh-bul",
     "senses": [
@@ -1423,6 +2170,35 @@
             "Our trip to the mountains was a memorable adventure.",
             "The singer gave a memorable performance that I will never forget.",
             "It was a memorable day because it snowed in April."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "memorandum",
+    "say": "mem-uh-RAN-dum",
+    "forms": [
+      "memorandums",
+      "memoranda"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short note.",
+          "examples": [
+            "A memorandum was sent.",
+            "The memorandum is short.",
+            "I read the memorandum."
+          ]
+        },
+        "more": {
+          "def": "A short written note, especially sent between people at work.",
+          "examples": [
+            "The principal sent a memorandum to the teachers.",
+            "The memorandum said the meeting was moved.",
+            "I read the memorandum on the board."
           ]
         }
       }
@@ -1589,6 +2365,59 @@
             "The menacing clouds warned of a storm.",
             "The dog gave a menacing growl.",
             "A menacing shadow crossed the wall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "menacingly",
+    "say": "MEN-uh-sing-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that seems scary or like a threat.",
+          "examples": [
+            "The dog growled menacingly.",
+            "The dark clouds loomed menacingly.",
+            "He stared menacingly."
+          ]
+        },
+        "more": {
+          "def": "In a way that seems to warn of danger.",
+          "examples": [
+            "The dog growled menacingly at the stranger.",
+            "Dark clouds hung menacingly over the town.",
+            "The giant in the story walked menacingly toward the village."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "menagerie",
+    "say": "muh-NAJ-ur-ee",
+    "forms": [
+      "menageries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A collection of wild animals kept for show.",
+          "examples": [
+            "The menagerie had many animals.",
+            "We visited a menagerie.",
+            "The menagerie was fun."
+          ]
+        },
+        "more": {
+          "def": "A collection of different animals kept in cages for people to see.",
+          "examples": [
+            "The old menagerie had lions, bears and monkeys.",
+            "Her toy shelf was a menagerie of stuffed animals.",
+            "We visited the royal menagerie."
           ]
         }
       }
@@ -1896,6 +2725,81 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "unmerciful",
+        "def": "Without mercy; not kind."
+      }
+    ]
+  },
+  {
+    "word": "mercilessly",
+    "say": "MER-sih-less-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Without kindness or pity.",
+          "examples": [
+            "The sun beat mercilessly.",
+            "The wind blew mercilessly.",
+            "He teased mercilessly."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows no mercy or pity.",
+          "examples": [
+            "The sun beat down mercilessly on the desert.",
+            "The wind blew mercilessly all night.",
+            "The cold wind whipped mercilessly across the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mercury",
+    "say": "MER-kyuh-ree",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The planet closest to the sun.",
+          "examples": [
+            "Mercury is small.",
+            "Mercury is hot.",
+            "We learned about Mercury."
+          ]
+        },
+        "more": {
+          "def": "The smallest planet in our solar system, and the closest to the sun.",
+          "examples": [
+            "Mercury is a small, rocky planet.",
+            "A year on Mercury lasts only 88 Earth days.",
+            "Mercury is very hot in the daytime and very cold at night."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shiny silver metal that is liquid at room temperature.",
+          "examples": [
+            "Mercury is a silver metal.",
+            "Mercury is liquid.",
+            "Old thermometers had mercury."
+          ]
+        },
+        "more": {
+          "def": "A heavy, silver-colored metal that is a liquid at normal temperatures; it is poisonous.",
+          "examples": [
+            "Older thermometers used mercury to show the temperature.",
+            "Mercury is a metal that is liquid at room temperature.",
+            "Mercury is poisonous, so it must never be touched."
+          ]
+        }
+      }
     ]
   },
   {
@@ -1986,6 +2890,34 @@
     ]
   },
   {
+    "word": "merganser",
+    "say": "mer-GAN-ser",
+    "forms": [
+      "mergansers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A diving duck with a thin bill.",
+          "examples": [
+            "A merganser is a duck.",
+            "The merganser dives.",
+            "I saw a merganser."
+          ]
+        },
+        "more": {
+          "def": "A diving duck with a long, thin bill with tiny teeth for catching fish.",
+          "examples": [
+            "The merganser dove for a fish.",
+            "A merganser has a thin bill.",
+            "We spotted a merganser on the river."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "merge",
     "say": "merj",
     "forms": [
@@ -2010,6 +2942,62 @@
             "The two small streams merge to form a wide river.",
             "Cars on the on-ramp must merge into the traffic.",
             "The two classes merged into one big group for the party."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "meringue",
+    "say": "muh-RANG",
+    "forms": [
+      "meringues"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A light, sweet treat of egg whites and sugar.",
+          "examples": [
+            "We ate meringue.",
+            "The meringue is white.",
+            "A meringue is sweet."
+          ]
+        },
+        "more": {
+          "def": "A light, crisp or fluffy sweet food made of egg whites and sugar.",
+          "examples": [
+            "The pie was topped with fluffy meringue.",
+            "We nibbled on sweet meringues.",
+            "The meringue melted in my mouth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "merino",
+    "say": "muh-REE-noh",
+    "forms": [
+      "merinos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sheep with very soft wool.",
+          "examples": [
+            "A merino has soft wool.",
+            "The merino is a sheep.",
+            "I saw a merino."
+          ]
+        },
+        "more": {
+          "def": "A kind of sheep with very fine, soft wool.",
+          "examples": [
+            "A merino sheep has soft wool.",
+            "The sweater was made from merino wool.",
+            "Merinos are raised for their wool."
           ]
         }
       }
@@ -2044,6 +3032,34 @@
     ]
   },
   {
+    "word": "merlin",
+    "say": "MER-lin",
+    "forms": [
+      "merlins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small bird of prey.",
+          "examples": [
+            "A merlin is a bird.",
+            "The merlin is fast.",
+            "The merlin hunts."
+          ]
+        },
+        "more": {
+          "def": "A small, fast falcon that hunts small birds.",
+          "examples": [
+            "A merlin dove after a sparrow.",
+            "The merlin is a small falcon.",
+            "Merlins fly very fast."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mermaid",
     "say": "MER-mayd",
     "emoji": "🧜",
@@ -2067,6 +3083,34 @@
             "In the story, a mermaid lived under the sea.",
             "The mermaid swam through the coral with her shiny tail.",
             "I drew a mermaid with a green tail."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "merman",
+    "say": "MER-man",
+    "forms": [
+      "mermen"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A make-believe man with a fish's tail.",
+          "examples": [
+            "The merman swam.",
+            "A merman has a tail.",
+            "The merman lived in the sea."
+          ]
+        },
+        "more": {
+          "def": "A make-believe sea creature with the body of a man and the tail of a fish.",
+          "examples": [
+            "In the story, the merman lived under the sea.",
+            "The merman waved his tail and swam away.",
+            "The merman guarded the treasure."
           ]
         }
       }
@@ -2133,6 +3177,59 @@
     ]
   },
   {
+    "word": "merrymaking",
+    "say": "MAIR-ee-may-king",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Joyful fun and games.",
+          "examples": [
+            "There was merrymaking.",
+            "The merrymaking lasted late.",
+            "The merrymaking was loud."
+          ]
+        },
+        "more": {
+          "def": "Cheerful fun, such as singing, dancing and feasting.",
+          "examples": [
+            "There was merrymaking at the festival.",
+            "The merrymaking lasted late into the night.",
+            "Music and merrymaking filled the square."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mesa",
+    "say": "MAY-suh",
+    "forms": [
+      "mesas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hill with a flat top and steep sides.",
+          "examples": [
+            "A mesa is flat on top.",
+            "The mesa is tall.",
+            "We climbed a mesa."
+          ]
+        },
+        "more": {
+          "def": "A flat-topped hill with steep sides, found in dry places.",
+          "examples": [
+            "A red mesa rose from the desert.",
+            "A mesa has steep sides and a flat top.",
+            "We looked out over the mesa."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "mesh",
     "say": "mesh",
     "forms": [
@@ -2155,6 +3252,36 @@
             "A wire mesh covers the window.",
             "The goalie's net is made of mesh.",
             "The mesh keeps flies out of the room."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mesmerize",
+    "say": "MEZ-mer-yz",
+    "forms": [
+      "mesmerizes",
+      "mesmerized",
+      "mesmerizing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hold someone's attention completely.",
+          "examples": [
+            "The fire mesmerized him.",
+            "The show mesmerized us.",
+            "The dancer mesmerized the crowd."
+          ]
+        },
+        "more": {
+          "def": "To fascinate someone so completely that they cannot look away.",
+          "examples": [
+            "The fire mesmerized the children.",
+            "The magician's tricks mesmerized the crowd.",
+            "The slow dance of the jellyfish mesmerized her."
           ]
         }
       }
@@ -2271,6 +3398,31 @@
     ]
   },
   {
+    "word": "messily",
+    "say": "MES-ih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a messy way.",
+          "examples": [
+            "She ate messily.",
+            "He wrote messily.",
+            "The room was messily kept."
+          ]
+        },
+        "more": {
+          "def": "In an untidy, messy way.",
+          "examples": [
+            "The toddler ate spaghetti messily.",
+            "He wrote messily and smudged the page.",
+            "The toys were thrown messily on the floor."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "messy",
     "say": "MES-ee",
     "forms": [
@@ -2294,6 +3446,56 @@
             "My room is messy, with toys everywhere.",
             "The kitchen was messy after we baked.",
             "The messy desk was covered in papers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "metabolism",
+    "say": "muh-TAB-uh-liz-um",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How your body uses food for energy.",
+          "examples": [
+            "Metabolism uses food.",
+            "Your metabolism works hard.",
+            "Metabolism makes energy."
+          ]
+        },
+        "more": {
+          "def": "The way a body turns food into energy and uses it to live and grow.",
+          "examples": [
+            "Your metabolism turns food into energy.",
+            "A fast metabolism burns food quickly.",
+            "Exercise can speed up your metabolism."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "metadata",
+    "say": "MET-uh-day-tuh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Information about a file, such as when it was made.",
+          "examples": [
+            "Metadata tells about a file.",
+            "The photo has metadata.",
+            "Check the metadata."
+          ]
+        },
+        "more": {
+          "def": "Information that describes other information, such as when a photo was taken.",
+          "examples": [
+            "The photo's metadata shows the date.",
+            "Metadata tells you about a file.",
+            "A song's metadata includes the title and singer."
           ]
         }
       }
@@ -2354,6 +3556,112 @@
     ]
   },
   {
+    "word": "metalwork",
+    "say": "MET-ul-werk",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things made of metal, or the craft of making them.",
+          "examples": [
+            "He did metalwork.",
+            "The metalwork was fine.",
+            "The gate had metalwork."
+          ]
+        },
+        "more": {
+          "def": "Things made of metal, or making them.",
+          "examples": [
+            "He learned metalwork in school.",
+            "The fine metalwork on the gate shone.",
+            "She admired the old metalwork."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "metamorphic",
+    "say": "met-uh-MOR-fik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Changed by heat and pressure, said of rock.",
+          "examples": [
+            "Metamorphic rock.",
+            "Marble is metamorphic.",
+            "A metamorphic stone."
+          ]
+        },
+        "more": {
+          "def": "Changed by great heat and pressure deep in the earth, said of rock.",
+          "examples": [
+            "Marble is a metamorphic rock.",
+            "Metamorphic rock changes form underground.",
+            "Slate is another metamorphic rock."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "metamorphosis",
+    "say": "met-uh-MOR-fuh-sis",
+    "forms": [
+      "metamorphoses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big change, like a tadpole becoming a frog.",
+          "examples": [
+            "A caterpillar goes through metamorphosis.",
+            "The metamorphosis took weeks.",
+            "Metamorphosis changes the frog."
+          ]
+        },
+        "more": {
+          "def": "A big change in form, as when a tadpole becomes a frog.",
+          "examples": [
+            "A caterpillar goes through metamorphosis to become a butterfly.",
+            "The tadpole's metamorphosis took several weeks.",
+            "The story is about the metamorphosis of a shy boy into a hero."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "metaphor",
+    "say": "MET-uh-for",
+    "forms": [
+      "metaphors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Calling one thing another to show how they are alike.",
+          "examples": [
+            "\"Time is a thief\" is a metaphor.",
+            "A metaphor compares things.",
+            "She used a metaphor."
+          ]
+        },
+        "more": {
+          "def": "A way of describing something by saying it is something else, to show how they are alike.",
+          "examples": [
+            "\"The classroom was a zoo\" is a metaphor.",
+            "She wrote a poem with a metaphor about the sea.",
+            "\"Life is a journey\" is a metaphor."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "meteor",
     "say": "MEE-tee-or",
     "emoji": "☄️",
@@ -2383,6 +3691,31 @@
     ]
   },
   {
+    "word": "meteoric",
+    "say": "mee-tee-OR-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very fast, like a shooting star.",
+          "examples": [
+            "A meteoric rise.",
+            "Her success was meteoric.",
+            "The meteoric star."
+          ]
+        },
+        "more": {
+          "def": "Very fast and bright, like a meteor.",
+          "examples": [
+            "The team had a meteoric rise.",
+            "Her meteoric success surprised everyone.",
+            "The singer became famous at a meteoric pace."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "meteorite",
     "say": "MEE-tee-uh-ryte",
     "forms": [
@@ -2405,6 +3738,59 @@
             "The museum has a meteorite that fell from the sky.",
             "A meteorite made a crater in the desert.",
             "Scientists studied the meteorite."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "meteorologist",
+    "say": "mee-tee-uh-ROL-uh-jist",
+    "forms": [
+      "meteorologists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who studies the weather.",
+          "examples": [
+            "The meteorologist predicted rain.",
+            "A meteorologist studies weather.",
+            "The meteorologist was on TV."
+          ]
+        },
+        "more": {
+          "def": "A scientist who studies the weather and makes forecasts.",
+          "examples": [
+            "The meteorologist predicted rain for Friday.",
+            "A meteorologist studies clouds and storms.",
+            "The meteorologist showed the map on TV."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "meteorology",
+    "say": "mee-tee-uh-ROL-uh-jee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The study of weather.",
+          "examples": [
+            "Meteorology is about weather.",
+            "She studies meteorology.",
+            "Meteorology tells the weather."
+          ]
+        },
+        "more": {
+          "def": "The science of studying weather and the air.",
+          "examples": [
+            "She studies meteorology to forecast the weather.",
+            "Meteorology explains how storms form.",
+            "He wants to study meteorology."
           ]
         }
       }
@@ -2458,6 +3844,31 @@
     ]
   },
   {
+    "word": "methane",
+    "say": "METH-ayn",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A gas with no smell that burns.",
+          "examples": [
+            "Methane is a gas.",
+            "Cows make methane.",
+            "Methane can burn."
+          ]
+        },
+        "more": {
+          "def": "A colorless, odorless gas that burns easily, found in natural gas and swamps.",
+          "examples": [
+            "Methane is the main part of natural gas.",
+            "Swamps give off methane.",
+            "Methane can be burned for heat."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "method",
     "say": "METH-ud",
     "forms": [
@@ -2486,6 +3897,56 @@
     ]
   },
   {
+    "word": "methodical",
+    "say": "muh-THOD-ih-kul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Done with care, step by step.",
+          "examples": [
+            "She is methodical.",
+            "A methodical search.",
+            "A methodical worker."
+          ]
+        },
+        "more": {
+          "def": "Careful, orderly and following a plan step by step.",
+          "examples": [
+            "She was methodical and checked each page.",
+            "He made a methodical search of the room.",
+            "The methodical baker followed the recipe exactly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "meticulous",
+    "say": "muh-TIK-yuh-lus",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very careful about small details.",
+          "examples": [
+            "She is meticulous.",
+            "A meticulous worker.",
+            "Meticulous notes."
+          ]
+        },
+        "more": {
+          "def": "Very careful and exact about small details.",
+          "examples": [
+            "She is a meticulous artist who paints every leaf.",
+            "He kept meticulous notes about the experiment.",
+            "The meticulous baker measured every ingredient."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "metric",
     "say": "MET-rik",
     "senses": [
@@ -2505,6 +3966,173 @@
             "We measured with a metric ruler.",
             "A meter is a metric unit of length.",
             "Most countries use the metric system."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "metro",
+    "say": "MET-roh",
+    "forms": [
+      "metros"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A train that runs under a city.",
+          "examples": [
+            "We took the metro.",
+            "The metro is fast.",
+            "The metro stops here."
+          ]
+        },
+        "more": {
+          "def": "An underground railway system that carries people through a city.",
+          "examples": [
+            "We took the metro to the museum.",
+            "The metro runs under the busy streets.",
+            "Riding the metro is faster than driving in traffic."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "metropolis",
+    "say": "muh-TROP-uh-lis",
+    "forms": [
+      "metropolises"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very big city.",
+          "examples": [
+            "The metropolis is huge.",
+            "A metropolis is a big city.",
+            "We visited a metropolis."
+          ]
+        },
+        "more": {
+          "def": "A very large and busy city.",
+          "examples": [
+            "New York is a huge metropolis.",
+            "The metropolis never sleeps.",
+            "Millions of people live in the metropolis."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "metropolitan",
+    "say": "met-ruh-POL-ih-tun",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About a big city.",
+          "examples": [
+            "We live in a metropolitan area.",
+            "The metropolitan zoo.",
+            "A metropolitan city."
+          ]
+        },
+        "more": {
+          "def": "Having to do with a large city and the towns around it.",
+          "examples": [
+            "We live in the metropolitan area of the capital.",
+            "The metropolitan police patrol the city and its suburbs.",
+            "The metropolitan train system connects the whole region."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mew",
+    "say": "myoo",
+    "forms": [
+      "mews",
+      "mewed",
+      "mewing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make the soft cry of a cat.",
+          "examples": [
+            "The kitten mewed.",
+            "The cat mews at the door.",
+            "The baby cat mewed softly."
+          ]
+        },
+        "more": {
+          "def": "To make a soft, high cry like a young cat.",
+          "examples": [
+            "The kitten mewed for its dinner.",
+            "We heard the cat mewing outside the door.",
+            "The baby seagull mewed from the nest."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mezzanine",
+    "say": "MEZ-uh-neen",
+    "forms": [
+      "mezzanines"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A floor between two main floors.",
+          "examples": [
+            "The mezzanine is above the lobby.",
+            "We sat on the mezzanine.",
+            "A mezzanine is a half floor."
+          ]
+        },
+        "more": {
+          "def": "A low floor between two main floors of a building, like a balcony.",
+          "examples": [
+            "We sat on the mezzanine above the lobby.",
+            "The shop had a mezzanine.",
+            "The mezzanine overlooked the hall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mezzo",
+    "say": "MET-soh",
+    "forms": [
+      "mezzos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A singing voice that is between high and low.",
+          "examples": [
+            "A mezzo sings.",
+            "The mezzo has a medium voice.",
+            "She is a mezzo."
+          ]
+        },
+        "more": {
+          "def": "A woman's singing voice between a soprano and an alto, or the person who sings with it.",
+          "examples": [
+            "The mezzo sang a beautiful song.",
+            "A mezzo can sing both high and low notes.",
+            "She is a mezzo in the choir."
           ]
         }
       }

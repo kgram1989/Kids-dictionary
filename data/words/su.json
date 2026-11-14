@@ -1,5 +1,34 @@
 [
   {
+    "word": "suave",
+    "say": "swahv",
+    "forms": [
+      "suaver",
+      "suavest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Smooth and polite.",
+          "examples": [
+            "A suave man.",
+            "His suave manner.",
+            "The suave host."
+          ]
+        },
+        "more": {
+          "def": "Smooth, polished and charming in manner.",
+          "examples": [
+            "The suave host greeted every guest.",
+            "He had a suave way of speaking.",
+            "The suave actor bowed."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sub",
     "say": "sub",
     "forms": [
@@ -122,6 +151,31 @@
     ]
   },
   {
+    "word": "sublime",
+    "say": "suh-BLYM",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Extremely beautiful.",
+          "examples": [
+            "The view was sublime.",
+            "A sublime song.",
+            "The sublime sunset."
+          ]
+        },
+        "more": {
+          "def": "Of such great beauty that it fills you with wonder.",
+          "examples": [
+            "The view from the mountain was sublime.",
+            "A sublime melody filled the hall.",
+            "The sunset was sublime."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "submarine",
     "say": "SUB-muh-reen",
     "forms": [
@@ -144,6 +198,34 @@
             "The submarine dived beneath the waves.",
             "We toured a submarine at the museum.",
             "A submarine can stay underwater for weeks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "submariner",
+    "say": "sub-muh-REE-ner",
+    "forms": [
+      "submariners"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sailor who works under the sea.",
+          "examples": [
+            "The submariner dived.",
+            "A submariner works under the sea.",
+            "The submariner came up."
+          ]
+        },
+        "more": {
+          "def": "A sailor who works on a submarine.",
+          "examples": [
+            "The submariner spent weeks under the sea.",
+            "A submariner needs to be calm in small spaces.",
+            "The submariner waved from the hatch."
           ]
         }
       }
@@ -180,6 +262,34 @@
     ]
   },
   {
+    "word": "submersible",
+    "say": "sub-MER-suh-bul",
+    "forms": [
+      "submersibles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small boat that can go deep under water.",
+          "examples": [
+            "The submersible dived.",
+            "A submersible goes under the sea.",
+            "We saw a submersible."
+          ]
+        },
+        "more": {
+          "def": "A small underwater vehicle used to explore deep in the sea.",
+          "examples": [
+            "The submersible dived deep to see strange fish.",
+            "Scientists used a submersible to explore the ocean floor.",
+            "The submersible had a bright light."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "submit",
     "say": "sub-MIT",
     "forms": [
@@ -204,6 +314,34 @@
             "I submitted my homework on time.",
             "She submitted her story to the contest.",
             "He submitted the form to the office."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "subordinate",
+    "say": "suh-BOR-dih-nit",
+    "forms": [
+      "subordinates"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Lower in rank.",
+          "examples": [
+            "A subordinate officer.",
+            "The subordinate role.",
+            "A subordinate clause."
+          ]
+        },
+        "more": {
+          "def": "Lower in rank or less important.",
+          "examples": [
+            "The captain gave orders to his subordinate officers.",
+            "She held a subordinate role in the company.",
+            "A subordinate clause depends on the main clause."
           ]
         }
       }
@@ -268,6 +406,34 @@
     ]
   },
   {
+    "word": "subscript",
+    "say": "SUB-skript",
+    "forms": [
+      "subscripts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small number written below a letter or number.",
+          "examples": [
+            "The subscript is small.",
+            "The 2 is a subscript.",
+            "A subscript is below."
+          ]
+        },
+        "more": {
+          "def": "A small number or letter written below and to the side of another one.",
+          "examples": [
+            "In H₂O, the little 2 is a subscript.",
+            "A subscript sits below the line of writing.",
+            "The chemical formula has a subscript."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "subscription",
     "say": "sub-SKRIP-shun",
     "forms": [
@@ -290,6 +456,56 @@
             "I have a subscription to a magazine about animals.",
             "Our subscription to the newspaper is for one year.",
             "A subscription to the library's app gives us free books."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "subsequent",
+    "say": "SUB-suh-kwunt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Coming after something.",
+          "examples": [
+            "The subsequent days were sunny.",
+            "A subsequent visit.",
+            "In subsequent years."
+          ]
+        },
+        "more": {
+          "def": "Coming after something else in time.",
+          "examples": [
+            "The subsequent days were bright and sunny.",
+            "He returned in subsequent years.",
+            "The subsequent chapters were funnier."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "subsequently",
+    "say": "SUB-suh-kwunt-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "After that.",
+          "examples": [
+            "She subsequently left.",
+            "He subsequently won.",
+            "It subsequently rained."
+          ]
+        },
+        "more": {
+          "def": "At a later time; afterward.",
+          "examples": [
+            "He fell and subsequently broke his arm.",
+            "She left and subsequently moved away.",
+            "It subsequently began to snow."
           ]
         }
       }
@@ -379,6 +595,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "unsubstantial",
+        "def": "Weak or small."
+      }
     ]
   },
   {
@@ -453,6 +675,31 @@
             "The coach made a substitution in the second half.",
             "A substitution of honey for sugar made the cake taste different.",
             "The substitution of a new part fixed the toy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "subterranean",
+    "say": "sub-tuh-RAY-nee-un",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Under the ground.",
+          "examples": [
+            "The mole lives in a subterranean home.",
+            "A subterranean tunnel.",
+            "The subterranean cave."
+          ]
+        },
+        "more": {
+          "def": "Existing or located under the ground.",
+          "examples": [
+            "The mole lives in a subterranean tunnel.",
+            "The explorers found a subterranean river.",
+            "The subterranean cave was cool and dark."
           ]
         }
       }
@@ -553,6 +800,31 @@
     ]
   },
   {
+    "word": "subtropical",
+    "say": "sub-TROP-ih-kul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Close to the tropics, warm and wet.",
+          "examples": [
+            "A subtropical place.",
+            "Subtropical weather.",
+            "The subtropical island."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the warm regions just outside the tropics.",
+          "examples": [
+            "Florida has a subtropical climate.",
+            "Subtropical forests are warm and wet.",
+            "The subtropical island was hot all year."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "suburb",
     "say": "SUB-erb",
     "forms": [
@@ -575,6 +847,31 @@
             "We live in a quiet suburb about thirty minutes from the city.",
             "Many families in the suburb take the train to work each day.",
             "The suburb has parks, a library and lots of tree-lined streets."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "suburban",
+    "say": "suh-BER-bun",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About the area just outside a city.",
+          "examples": [
+            "We live in a suburban town.",
+            "A suburban street.",
+            "The suburban house."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the residential area on the edge of a city.",
+          "examples": [
+            "We live in a quiet suburban neighborhood.",
+            "The suburban train takes people into the city.",
+            "A suburban street has houses and lawns."
           ]
         }
       }
@@ -719,6 +1016,186 @@
             "A succession of cars passed the school.",
             "The team won three games in succession.",
             "A succession of kings ruled the land."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "successive",
+    "say": "suk-SES-iv",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "One after the other.",
+          "examples": [
+            "Three successive days.",
+            "Successive wins.",
+            "The successive notes."
+          ]
+        },
+        "more": {
+          "def": "Following one after another without a break.",
+          "examples": [
+            "It rained for three successive days.",
+            "The team had four successive wins.",
+            "Successive waves hit the shore."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "successor",
+    "say": "sux-SESS-er",
+    "forms": [
+      "successors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who comes after another in a job.",
+          "examples": [
+            "The new teacher is her successor.",
+            "He chose a successor.",
+            "The successor took over."
+          ]
+        },
+        "more": {
+          "def": "A person or thing that comes after another and takes their place.",
+          "examples": [
+            "The new principal is the successor to Mr. Lee.",
+            "The queen named her daughter as her successor.",
+            "The newer phone is the successor to the old one."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "succinct",
+    "say": "suk-SINKT",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Short and clear.",
+          "examples": [
+            "A succinct answer.",
+            "The succinct note.",
+            "His speech was succinct."
+          ]
+        },
+        "more": {
+          "def": "Clearly said in a few words.",
+          "examples": [
+            "She gave a succinct answer.",
+            "His speech was short and succinct.",
+            "The note was succinct."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "succotash",
+    "say": "SUK-uh-tash",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dish of corn and beans.",
+          "examples": [
+            "We ate succotash.",
+            "Succotash has corn and beans.",
+            "The succotash is warm."
+          ]
+        },
+        "more": {
+          "def": "A dish made of corn kernels and beans cooked together.",
+          "examples": [
+            "We had succotash for dinner.",
+            "Succotash mixes corn and lima beans.",
+            "Mom served succotash with chicken."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "succulent",
+    "say": "SUK-yuh-lunt",
+    "forms": [
+      "succulents"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Juicy and full of water.",
+          "examples": [
+            "The peach was succulent.",
+            "A succulent plant.",
+            "The succulent leaves."
+          ]
+        },
+        "more": {
+          "def": "Juicy and tender; or a plant with thick leaves that store water.",
+          "examples": [
+            "The peach was sweet and succulent.",
+            "A succulent steak.",
+            "The succulent leaves held water."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A plant with thick leaves that store water.",
+          "examples": [
+            "A cactus is a succulent.",
+            "I have a succulent.",
+            "The succulent is in a pot."
+          ]
+        },
+        "more": {
+          "def": "A plant with thick, fleshy leaves or stems that store water, such as a cactus.",
+          "examples": [
+            "A cactus is a kind of succulent.",
+            "She grew a succulent on the windowsill.",
+            "Succulents can survive in dry places."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "succumb",
+    "say": "suh-KUM",
+    "forms": [
+      "succumbs",
+      "succumbed",
+      "succumbing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give in to something strong.",
+          "examples": [
+            "He succumbed to sleep.",
+            "She succumbed to the cold.",
+            "I succumbed to the smell of cake."
+          ]
+        },
+        "more": {
+          "def": "To give in to something strong that you cannot resist.",
+          "examples": [
+            "He finally succumbed to sleep.",
+            "She succumbed to the smell of fresh cookies.",
+            "The tired hikers succumbed to the heat."
           ]
         }
       }
@@ -966,6 +1443,36 @@
     ]
   },
   {
+    "word": "suffice",
+    "say": "suh-FYSS",
+    "forms": [
+      "suffices",
+      "sufficed",
+      "sufficing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be enough.",
+          "examples": [
+            "One cookie will suffice.",
+            "A short note will suffice.",
+            "This will suffice."
+          ]
+        },
+        "more": {
+          "def": "To be enough for what is needed.",
+          "examples": [
+            "One slice of pizza will suffice for me.",
+            "A short note will suffice to tell her I called.",
+            "A single candle sufficed to light the room."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sufficient",
     "say": "suh-FISH-unt",
     "forms": [
@@ -988,6 +1495,62 @@
             "We packed sufficient water for the whole hike.",
             "A few hours of sleep were not sufficient for her.",
             "Plants need sufficient sunlight in order to grow tall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "suffix",
+    "say": "SUF-iks",
+    "forms": [
+      "suffixes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of letters added to the end of a word.",
+          "examples": [
+            "\"-ful\" is a suffix.",
+            "A suffix goes at the end.",
+            "Add a suffix."
+          ]
+        },
+        "more": {
+          "def": "A group of letters added to the end of a word to change its meaning, such as \"-ful\" or \"-ness.\"",
+          "examples": [
+            "The suffix \"-ful\" turns \"hope\" into \"hopeful.\"",
+            "A suffix is added to the end of a word.",
+            "\"-ly\" is a common suffix."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "suffragette",
+    "say": "suf-ruh-JET",
+    "forms": [
+      "suffragettes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A woman who worked to win votes for women.",
+          "examples": [
+            "The suffragette marched.",
+            "A suffragette wanted to vote.",
+            "She was a suffragette."
+          ]
+        },
+        "more": {
+          "def": "A woman who worked, long ago, to win the right to vote for women.",
+          "examples": [
+            "The suffragette marched to ask for votes for women.",
+            "Many suffragettes made speeches and carried signs.",
+            "Her great-grandmother was a suffragette."
           ]
         }
       }
@@ -1029,6 +1592,59 @@
       {
         "word": "sugary",
         "def": "Full of sugar; very sweet."
+      }
+    ]
+  },
+  {
+    "word": "sugarcane",
+    "say": "SHUUG-er-kayn",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tall plant that sugar is made from.",
+          "examples": [
+            "Sugarcane is tall.",
+            "Sugar comes from sugarcane.",
+            "The sugarcane grows in the fields."
+          ]
+        },
+        "more": {
+          "def": "A tall tropical grass whose sweet juice is used to make sugar.",
+          "examples": [
+            "Sugar is made from sugarcane.",
+            "Sugarcane grows in warm places.",
+            "We chewed a stalk of sugarcane."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sugarplum",
+    "say": "SHUUG-er-plum",
+    "forms": [
+      "sugarplums"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small sweet candy.",
+          "examples": [
+            "Sugarplums are sweet.",
+            "She ate a sugarplum.",
+            "Sugarplums dance in the song."
+          ]
+        },
+        "more": {
+          "def": "A small round candy made of sugar, in old stories.",
+          "examples": [
+            "Visions of sugarplums danced in their heads.",
+            "She ate a sweet sugarplum.",
+            "The sugarplum candy was sticky."
+          ]
+        }
       }
     ]
   },
@@ -1280,6 +1896,31 @@
     ]
   },
   {
+    "word": "sulkily",
+    "say": "SUL-kih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a cross way because you did not get your way.",
+          "examples": [
+            "He sulkily sat down.",
+            "She sulkily folded her arms.",
+            "The boy walked off sulkily."
+          ]
+        },
+        "more": {
+          "def": "In a silent, grumpy way because you are upset.",
+          "examples": [
+            "He sulkily sat in the corner after losing the game.",
+            "She sulkily pushed her plate away.",
+            "The little boy sulkily followed his mother home."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sullen",
     "say": "SUL-un",
     "senses": [
@@ -1299,6 +1940,37 @@
             "After losing the game, he was sullen and would not say a word.",
             "The sullen child sat in the corner with her arms crossed.",
             "A sullen sky of gray clouds hung over the town."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "sullenness",
+        "def": "Being gloomy and silent."
+      }
+    ]
+  },
+  {
+    "word": "sullenly",
+    "say": "SUL-un-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a quiet, angry way.",
+          "examples": [
+            "He sullenly sat.",
+            "She answered sullenly.",
+            "The boy looked sullenly."
+          ]
+        },
+        "more": {
+          "def": "In a gloomy and silent way, because you are in a bad mood.",
+          "examples": [
+            "He sat sullenly at the back of the room.",
+            "She answered sullenly and would not look up.",
+            "The boy sullenly followed his mother."
           ]
         }
       }
@@ -1383,6 +2055,34 @@
             "The sum of four and five is nine.",
             "Add the numbers and write the sum.",
             "The sum of the coins was one dollar."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sumac",
+    "say": "SOO-mak",
+    "forms": [
+      "sumacs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shrub with red berries and bright red leaves in fall.",
+          "examples": [
+            "Sumac has red leaves.",
+            "The sumac is red.",
+            "We saw sumac."
+          ]
+        },
+        "more": {
+          "def": "A shrub or small tree with bunches of red berries and leaves that turn bright red in fall.",
+          "examples": [
+            "The sumac turned red in fall.",
+            "Sumac berries grow in fuzzy red clusters.",
+            "Some sumac plants are poisonous to touch."
           ]
         }
       }
@@ -1529,6 +2229,31 @@
     ]
   },
   {
+    "word": "summery",
+    "say": "SUM-er-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Warm and bright like summer.",
+          "examples": [
+            "A summery day.",
+            "A summery dress.",
+            "The summery weather."
+          ]
+        },
+        "more": {
+          "def": "Like summer; warm, bright and cheerful.",
+          "examples": [
+            "It was a warm, summery day.",
+            "She wore a summery dress.",
+            "The summery weather made us want to swim."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "summit",
     "say": "SUM-it",
     "forms": [
@@ -1631,6 +2356,31 @@
     ]
   },
   {
+    "word": "sumptuous",
+    "say": "SUMP-choo-us",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very rich and costly.",
+          "examples": [
+            "It was a sumptuous feast.",
+            "A sumptuous meal.",
+            "The sumptuous room."
+          ]
+        },
+        "more": {
+          "def": "Looking very rich, grand and costly.",
+          "examples": [
+            "The king served a sumptuous feast.",
+            "The sumptuous hall was full of gold and velvet.",
+            "They ate a sumptuous meal of roast chicken."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sun",
     "say": "sun",
     "emoji": "☀️",
@@ -1715,6 +2465,34 @@
     ]
   },
   {
+    "word": "sunbather",
+    "say": "SUN-bay-ther",
+    "forms": [
+      "sunbathers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person lying in the sun.",
+          "examples": [
+            "The sunbather lay on the beach.",
+            "A sunbather soaks up sun.",
+            "The sunbather wore a hat."
+          ]
+        },
+        "more": {
+          "def": "A person who sits in the sun.",
+          "examples": [
+            "The sunbather lay on a towel.",
+            "Sunbathers filled the beach.",
+            "The sunbather wore a big hat."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sunbeam",
     "say": "SUN-beem",
     "forms": [
@@ -1737,6 +2515,34 @@
             "A sunbeam came through the window.",
             "The cat napped in a warm sunbeam.",
             "Dust floated in the sunbeam."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sunbonnet",
+    "say": "SUN-bon-it",
+    "forms": [
+      "sunbonnets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hat that keeps the sun off your face.",
+          "examples": [
+            "She wore a sunbonnet.",
+            "The sunbonnet shades her face.",
+            "A sunbonnet is a hat."
+          ]
+        },
+        "more": {
+          "def": "A wide-brimmed hat that ties under the chin to shade the face from the sun.",
+          "examples": [
+            "She wore a sunbonnet in the garden.",
+            "A sunbonnet kept the sun off her face.",
+            "The pioneer girl wore a sunbonnet."
           ]
         }
       }
@@ -1767,6 +2573,59 @@
             "I got a sunburn on my nose.",
             "Sunscreen helps prevent a sunburn.",
             "The sunburn faded in a few days."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sunburnt",
+    "say": "SUN-bernt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Red and sore from too much sun.",
+          "examples": [
+            "His nose was sunburnt.",
+            "The sunburnt boy.",
+            "She was sunburnt."
+          ]
+        },
+        "more": {
+          "def": "Having sore, red skin from too much sun.",
+          "examples": [
+            "His nose was sunburnt after the day at the beach.",
+            "The sunburnt tourists went indoors.",
+            "She felt sunburnt and tired."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sunburst",
+    "say": "SUN-berst",
+    "forms": [
+      "sunbursts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sudden bright burst of sunshine.",
+          "examples": [
+            "A sunburst lit the sky.",
+            "The sunburst was bright.",
+            "We saw a sunburst."
+          ]
+        },
+        "more": {
+          "def": "A sudden bright burst of sunshine through the clouds.",
+          "examples": [
+            "A sunburst lit up the hillside.",
+            "A sunburst appeared between the clouds.",
+            "The sunburst made the lake sparkle."
           ]
         }
       }
@@ -1831,6 +2690,34 @@
     ]
   },
   {
+    "word": "sundeck",
+    "say": "SUN-dek",
+    "forms": [
+      "sundecks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat area outside for sitting in the sun.",
+          "examples": [
+            "Dad read a book on the sundeck.",
+            "The sundeck is sunny.",
+            "The sundeck is outside."
+          ]
+        },
+        "more": {
+          "def": "An open platform or balcony where people can sit in the sun.",
+          "examples": [
+            "We sat on the sundeck.",
+            "The cruise ship has a large sundeck.",
+            "The sundeck was warm and bright."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sundial",
     "say": "SUN-dy-ul",
     "forms": [
@@ -1878,6 +2765,62 @@
             "We came home at sundown.",
             "The birds quieted down at sundown.",
             "At sundown, the sky turned orange and pink."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sundress",
+    "say": "SUN-dres",
+    "forms": [
+      "sundresses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A light dress with no sleeves.",
+          "examples": [
+            "She wore a sundress.",
+            "The sundress is yellow.",
+            "A sundress is light."
+          ]
+        },
+        "more": {
+          "def": "A light, sleeveless dress for warm weather.",
+          "examples": [
+            "She wore a yellow sundress to the picnic.",
+            "A sundress is cool in the heat.",
+            "He picked a sundress for his sister."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sunfish",
+    "say": "SUN-fish",
+    "forms": [
+      "sunfish"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat, round fish.",
+          "examples": [
+            "A sunfish is round.",
+            "The sunfish swims.",
+            "We caught a sunfish."
+          ]
+        },
+        "more": {
+          "def": "A fish with a flat, round body, either a small freshwater fish or a huge ocean fish.",
+          "examples": [
+            "We caught a sunfish in the pond.",
+            "The ocean sunfish is huge and round.",
+            "A sunfish has a flat body."
           ]
         }
       }
@@ -1990,6 +2933,31 @@
     ]
   },
   {
+    "word": "sunlit",
+    "say": "SUN-lit",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Bright with light from the sun.",
+          "examples": [
+            "The room was sunlit.",
+            "A sunlit path.",
+            "The sunlit field was warm."
+          ]
+        },
+        "more": {
+          "def": "Lit up by the sun.",
+          "examples": [
+            "The sunlit room felt warm and cheerful.",
+            "We walked along a sunlit path.",
+            "The sunlit hills were green and gold."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sunny",
     "say": "SUN-ee",
     "emoji": "☀️",
@@ -2020,6 +2988,34 @@
     ]
   },
   {
+    "word": "sunray",
+    "say": "SUN-ray",
+    "forms": [
+      "sunrays"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A beam of light from the sun.",
+          "examples": [
+            "A sunray came in.",
+            "Sunrays are bright.",
+            "A sunray warmed me."
+          ]
+        },
+        "more": {
+          "def": "A beam of sunlight.",
+          "examples": [
+            "A sunray shone through the window.",
+            "Sunrays warmed the sand.",
+            "A single sunray lit the cave."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sunrise",
     "say": "SUN-ryz",
     "emoji": "🌅",
@@ -2043,6 +3039,34 @@
             "Fog lifted from the valley at sunrise.",
             "The sky was pink at sunrise.",
             "The birds sang at sunrise."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sunroof",
+    "say": "SUN-roof",
+    "forms": [
+      "sunroofs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A window in the roof of a car.",
+          "examples": [
+            "Open the sunroof.",
+            "The sunroof lets in light.",
+            "I looked out the sunroof."
+          ]
+        },
+        "more": {
+          "def": "A panel in a car roof that can be opened or lets in light.",
+          "examples": [
+            "Dad opened the sunroof on the warm day.",
+            "The sunroof let in the sunshine.",
+            "We looked at the stars through the sunroof."
           ]
         }
       }
@@ -2106,6 +3130,34 @@
     ]
   },
   {
+    "word": "sunshade",
+    "say": "SUN-shayd",
+    "forms": [
+      "sunshades"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that gives shade from the sun.",
+          "examples": [
+            "We sat under the sunshade.",
+            "A sunshade blocks sun.",
+            "The sunshade is big."
+          ]
+        },
+        "more": {
+          "def": "A cover, such as an umbrella or awning, that protects you from the sun.",
+          "examples": [
+            "We sat under a striped sunshade.",
+            "A sunshade kept the sun off the baby.",
+            "The sunshade covered the patio."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sunshine",
     "say": "SUN-shyn",
     "emoji": "☀️",
@@ -2126,6 +3178,56 @@
             "We played in the warm sunshine.",
             "Sunshine streamed through the window.",
             "Plants need water and sunshine to grow."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sunshiny",
+    "say": "SUN-shy-nee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Full of sunshine.",
+          "examples": [
+            "A sunshiny day.",
+            "The sunshiny morning.",
+            "A sunshiny smile."
+          ]
+        },
+        "more": {
+          "def": "Bright with sunshine, or cheerful.",
+          "examples": [
+            "It was a sunshiny day, so we played outside.",
+            "She greeted us with a sunshiny smile.",
+            "The sunshiny morning was warm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sunstroke",
+    "say": "SUN-strohk",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Getting sick from too much sun.",
+          "examples": [
+            "He got sunstroke.",
+            "Sunstroke makes you ill.",
+            "Drink water to avoid sunstroke."
+          ]
+        },
+        "more": {
+          "def": "Illness caused by being in the hot sun for too long.",
+          "examples": [
+            "He got sunstroke after a day in the sun.",
+            "Drinking water helps avoid sunstroke.",
+            "The hikers wore hats to prevent sunstroke."
           ]
         }
       }
@@ -2211,6 +3313,115 @@
     ]
   },
   {
+    "word": "supercomputer",
+    "say": "SOO-per-kum-pyoo-ter",
+    "forms": [
+      "supercomputers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very fast and powerful computer.",
+          "examples": [
+            "A supercomputer is fast.",
+            "The supercomputer solved it.",
+            "A supercomputer is big."
+          ]
+        },
+        "more": {
+          "def": "A very powerful, extremely fast computer used for hard problems.",
+          "examples": [
+            "Scientists used a supercomputer to forecast the weather.",
+            "A supercomputer can do millions of sums every second.",
+            "The supercomputer filled a whole room."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "supercontinent",
+    "say": "SOO-per-kon-tih-nunt",
+    "forms": [
+      "supercontinents"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A huge landmass made of many continents.",
+          "examples": [
+            "Scientists study how the supercontinent formed.",
+            "A supercontinent is huge.",
+            "Long ago, there was a supercontinent."
+          ]
+        },
+        "more": {
+          "def": "A huge landmass that once held most or all of the continents joined together.",
+          "examples": [
+            "Pangaea was a supercontinent.",
+            "Long ago, all land was one supercontinent.",
+            "The supercontinent slowly broke apart."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "supergiant",
+    "say": "SOO-per-jy-unt",
+    "forms": [
+      "supergiants"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A huge star.",
+          "examples": [
+            "A supergiant is a star.",
+            "The supergiant is huge.",
+            "It is a red supergiant."
+          ]
+        },
+        "more": {
+          "def": "One of the largest and brightest kinds of stars.",
+          "examples": [
+            "A red supergiant is bigger than the sun.",
+            "Betelgeuse is a famous supergiant.",
+            "The supergiant shines very bright."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "superglue",
+    "say": "SOO-per-gloo",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Very strong glue.",
+          "examples": [
+            "I used superglue.",
+            "Superglue sticks fast.",
+            "Be careful with superglue."
+          ]
+        },
+        "more": {
+          "def": "A very strong, fast-drying glue.",
+          "examples": [
+            "Dad fixed the cup with superglue.",
+            "Superglue sticks to fingers.",
+            "Use superglue carefully."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "superhero",
     "say": "SOO-per-heer-oh",
     "emoji": "🦸",
@@ -2234,6 +3445,34 @@
             "The superhero flew over the city and saved a cat from a tree.",
             "I dressed up as my favorite superhero for the costume party.",
             "The cartoon superhero could lift a whole bus."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "superhighway",
+    "say": "SOO-per-hy-way",
+    "forms": [
+      "superhighways"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very big, wide road for fast cars.",
+          "examples": [
+            "The superhighway is wide.",
+            "Cars zoom on the superhighway.",
+            "We took the superhighway."
+          ]
+        },
+        "more": {
+          "def": "A very wide road for fast traffic with many lanes.",
+          "examples": [
+            "We drove fast on the superhighway.",
+            "A superhighway has many lanes.",
+            "Trucks rumbled along the superhighway."
           ]
         }
       }
@@ -2346,6 +3585,34 @@
     ]
   },
   {
+    "word": "superlative",
+    "say": "soo-PER-luh-tiv",
+    "forms": [
+      "superlatives"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "The form of a word that means the most.",
+          "examples": [
+            "\"Biggest\" is superlative.",
+            "A superlative word.",
+            "\"Best\" is a superlative."
+          ]
+        },
+        "more": {
+          "def": "A word form that shows the most of something, such as the biggest.",
+          "examples": [
+            "\"Tallest\" is the superlative of \"tall.\"",
+            "Superlative words often end in -est.",
+            "\"Best\" is a superlative word."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "supermarket",
     "say": "SOO-per-mar-kit",
     "emoji": "🛒",
@@ -2451,6 +3718,34 @@
             "The cartoon hero has the superpower of flying.",
             "If I had a superpower, I would be able to talk to animals.",
             "Her superpower was running as fast as lightning."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "superscript",
+    "say": "SOO-per-skript",
+    "forms": [
+      "superscripts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small number written above a word or number.",
+          "examples": [
+            "The superscript is small.",
+            "The 2 is a superscript.",
+            "A superscript is raised."
+          ]
+        },
+        "more": {
+          "def": "A small number or letter written above and to the side of another one.",
+          "examples": [
+            "In 5², the little 2 is a superscript.",
+            "A superscript sits above the line of writing.",
+            "The footnote number is a superscript."
           ]
         }
       }
@@ -2594,6 +3889,34 @@
     ]
   },
   {
+    "word": "supervillain",
+    "say": "SOO-per-vil-un",
+    "forms": [
+      "supervillains"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bad guy in a story with powers.",
+          "examples": [
+            "The supervillain is bad.",
+            "A supervillain fights heroes.",
+            "The supervillain laughed."
+          ]
+        },
+        "more": {
+          "def": "A powerful bad character in a story who fights against superheroes.",
+          "examples": [
+            "The superhero stopped the supervillain.",
+            "A supervillain has a plan to take over the city.",
+            "The supervillain wore a dark cape."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "supervise",
     "say": "SOO-per-vyz",
     "forms": [
@@ -2725,6 +4048,69 @@
             "The smell of soup meant it was suppertime.",
             "We wash our hands before suppertime.",
             "The family gathers at suppertime."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "supple",
+    "say": "SUP-ul",
+    "forms": [
+      "suppler",
+      "supplest"
+    ],
+    "related": [
+      {
+        "word": "suppleness",
+        "def": "Being bendy and soft."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Bending easily.",
+          "examples": [
+            "The leather is supple.",
+            "A supple dancer.",
+            "Her body is supple."
+          ]
+        },
+        "more": {
+          "def": "Bending or moving easily and gracefully.",
+          "examples": [
+            "The dancer's supple body bent easily.",
+            "The leather was soft and supple.",
+            "Gymnasts keep their bodies supple by stretching."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "supplement",
+    "say": "SUP-luh-munt",
+    "forms": [
+      "supplements"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something added to make it more.",
+          "examples": [
+            "He took a supplement.",
+            "The book has a supplement.",
+            "A food supplement."
+          ]
+        },
+        "more": {
+          "def": "Something added to a main thing to make it complete or better.",
+          "examples": [
+            "The newspaper had a supplement about sports.",
+            "She took a vitamin supplement.",
+            "The book includes a supplement of maps."
           ]
         }
       }
@@ -2987,6 +4373,61 @@
     ]
   },
   {
+    "word": "supposedly",
+    "say": "suh-POH-zid-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "As people say, but you are not sure.",
+          "examples": [
+            "The house is supposedly haunted.",
+            "It is supposedly a secret.",
+            "He is supposedly fast."
+          ]
+        },
+        "more": {
+          "def": "According to what people say, though it may not be true.",
+          "examples": [
+            "The cave is supposedly full of bats.",
+            "He is supposedly the fastest runner in school.",
+            "The old well is supposedly a hundred years old."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "suppress",
+    "say": "suh-PRESS",
+    "forms": [
+      "suppresses",
+      "suppressed",
+      "suppressing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hold back or stop something.",
+          "examples": [
+            "She suppressed a laugh.",
+            "He suppressed a yawn.",
+            "They suppressed a giggle."
+          ]
+        },
+        "more": {
+          "def": "To stop yourself from showing a feeling, or to put an end to something.",
+          "examples": [
+            "She tried to suppress a giggle during the quiet time.",
+            "He suppressed a yawn during the long talk.",
+            "Firefighters worked to suppress the fire."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "supreme",
     "say": "suh-PREEM",
     "forms": [
@@ -3036,6 +4477,12 @@
             "Our team is sure to win after practicing so hard."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "sureness",
+        "def": "Being certain."
       }
     ]
   },
@@ -3139,6 +4586,34 @@
             "A duck floated on the surface of the pond.",
             "The table has a smooth surface.",
             "The surface of the moon is covered with craters."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "surfboard",
+    "say": "SERF-bord",
+    "forms": [
+      "surfboards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long board for riding waves.",
+          "examples": [
+            "He rode a surfboard.",
+            "The surfboard is long.",
+            "She waxed her surfboard."
+          ]
+        },
+        "more": {
+          "def": "A long, narrow board that a person stands on to ride waves.",
+          "examples": [
+            "He paddled out on his surfboard.",
+            "A surfboard floats on the water.",
+            "She carried her surfboard to the beach."
           ]
         }
       }
@@ -3304,6 +4779,123 @@
     ]
   },
   {
+    "word": "surly",
+    "say": "SER-lee",
+    "forms": [
+      "surlier",
+      "surliest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Rude and in a bad mood.",
+          "examples": [
+            "The man was surly.",
+            "A surly look.",
+            "The surly guard grunted."
+          ]
+        },
+        "more": {
+          "def": "Rude, bad-tempered and unfriendly.",
+          "examples": [
+            "The surly guard grunted and waved us on.",
+            "He gave a surly answer.",
+            "The surly cat hissed at everyone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "surmise",
+    "say": "ser-MYZ",
+    "forms": [
+      "surmises",
+      "surmised",
+      "surmising"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To guess from clues.",
+          "examples": [
+            "I surmised he was tired.",
+            "She surmised it would rain.",
+            "He surmised who it was."
+          ]
+        },
+        "more": {
+          "def": "To guess that something is true from the clues you have.",
+          "examples": [
+            "I surmised that he was tired when he yawned.",
+            "She surmised from the dark clouds that it would rain.",
+            "He surmised the answer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "surmount",
+    "say": "ser-MOWNT",
+    "forms": [
+      "surmounts",
+      "surmounted",
+      "surmounting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To get over a difficulty.",
+          "examples": [
+            "She surmounted the problem.",
+            "He surmounted the wall.",
+            "They surmounted the hill."
+          ]
+        },
+        "more": {
+          "def": "To overcome a difficulty or to climb over something.",
+          "examples": [
+            "She surmounted her fear of heights.",
+            "The climbers surmounted the steep ridge.",
+            "He surmounted the wall with a ladder."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "surname",
+    "say": "SER-naym",
+    "forms": [
+      "surnames"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Your family name.",
+          "examples": [
+            "My surname is Smith.",
+            "What is your surname?",
+            "Her surname is long."
+          ]
+        },
+        "more": {
+          "def": "The name that all the people in a family share, said after the first name.",
+          "examples": [
+            "Write your first name and your surname on the paper.",
+            "Her surname is the same as her father's.",
+            "In many places, the surname comes at the end of a name."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "surpass",
     "say": "ser-PASS",
     "forms": [
@@ -3328,6 +4920,34 @@
             "She surpassed her own record in the race.",
             "The tower surpasses all the other buildings in height.",
             "The team surpassed the goal for the food drive."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "surplus",
+    "say": "SER-plus",
+    "forms": [
+      "surpluses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "More than what is needed.",
+          "examples": [
+            "We had a surplus of apples.",
+            "The farm had a surplus.",
+            "A surplus of food."
+          ]
+        },
+        "more": {
+          "def": "An amount that is more than is needed.",
+          "examples": [
+            "We had a surplus of apples after the harvest.",
+            "The farm sold its surplus of corn.",
+            "A surplus of rain flooded the field."
           ]
         }
       }
@@ -3410,6 +5030,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "unsurprising",
+        "def": "Not a surprise."
+      }
     ]
   },
   {
@@ -3432,6 +5058,62 @@
             "The old car ran surprisingly well.",
             "It was surprisingly cold in the cave.",
             "The little dog was surprisingly fast."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "unsurprisingly",
+        "def": "As you would expect."
+      }
+    ]
+  },
+  {
+    "word": "surreal",
+    "say": "suh-REEL",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Strange, like a dream.",
+          "examples": [
+            "The scene was surreal.",
+            "A surreal painting.",
+            "It felt surreal."
+          ]
+        },
+        "more": {
+          "def": "Strange and dreamlike, as if not real.",
+          "examples": [
+            "The painting showed a surreal scene of melting clocks.",
+            "It felt surreal to stand on the moon in a game.",
+            "The foggy morning felt surreal."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "surrealism",
+    "say": "suh-REE-uh-liz-um",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind of art that looks like a strange dream.",
+          "examples": [
+            "Surrealism is odd art.",
+            "Surrealism is a style of art.",
+            "Surrealism looks like a dream."
+          ]
+        },
+        "more": {
+          "def": "A style of art and writing that shows strange, dreamlike pictures and ideas.",
+          "examples": [
+            "The melting clocks are famous surrealism.",
+            "Surrealism looks like a dream.",
+            "She likes the strange pictures of surrealism."
           ]
         }
       }
@@ -3462,6 +5144,34 @@
             "The chess player had to surrender when the game was lost.",
             "The king surrendered his crown.",
             "She surrendered the toy to her brother."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "surrey",
+    "say": "SUR-ee",
+    "forms": [
+      "surreys"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small carriage pulled by a horse.",
+          "examples": [
+            "A surrey has wheels.",
+            "The horse pulled the surrey.",
+            "We rode in a surrey."
+          ]
+        },
+        "more": {
+          "def": "A light carriage with four wheels, pulled by a horse, with two seats.",
+          "examples": [
+            "The horse pulled the surrey down the lane.",
+            "A surrey has two seats and a fringe on top.",
+            "We took a ride in a surrey at the fair."
           ]
         }
       }
@@ -3566,6 +5276,34 @@
             "He surveyed the field from the hill.",
             "She surveyed the room before leaving.",
             "Workers surveyed the land for the new road."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "surveyor",
+    "say": "ser-VAY-er",
+    "forms": [
+      "surveyors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who measures land.",
+          "examples": [
+            "The surveyor measured the land.",
+            "A surveyor uses a tool.",
+            "The surveyor drew a map."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to measure land and make maps of it.",
+          "examples": [
+            "The surveyor measured the field with a long tape.",
+            "A surveyor marks the edges of the land.",
+            "The surveyor drew a plan of the park."
           ]
         }
       }
@@ -3944,6 +5682,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "unsuspicious",
+        "def": "Not doubting anything."
+      }
     ]
   },
   {
@@ -3971,6 +5715,62 @@
             "Food sustains us through the day.",
             "Rain sustains the plants during the summer.",
             "He sustained his effort until the race was over."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sustainable",
+    "say": "suh-STAY-nuh-bul",
+    "related": [
+      {
+        "word": "unsustainable",
+        "def": "Not able to last."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to last without using up what we need.",
+          "examples": [
+            "Solar power is sustainable.",
+            "A sustainable farm.",
+            "Sustainable fishing."
+          ]
+        },
+        "more": {
+          "def": "Able to continue without using up resources or harming the environment.",
+          "examples": [
+            "Wind power is a sustainable way to make electricity.",
+            "They practice sustainable farming.",
+            "Sustainable fishing leaves enough fish for the future."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sustenance",
+    "say": "SUS-tuh-nunss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Food that keeps you alive.",
+          "examples": [
+            "The bread gave them sustenance.",
+            "They needed sustenance.",
+            "Water is sustenance."
+          ]
+        },
+        "more": {
+          "def": "Food and drink that give you the energy to live.",
+          "examples": [
+            "The hikers needed sustenance after the long climb.",
+            "Bread and water gave them sustenance.",
+            "The nuts provided sustenance for the squirrels."
           ]
         }
       }

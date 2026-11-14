@@ -1,5 +1,33 @@
 [
   {
+    "word": "nib",
+    "say": "nib",
+    "forms": [
+      "nibs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The pointed tip of a pen.",
+          "examples": [
+            "The nib of the pen is sharp.",
+            "The nib broke.",
+            "Ink flows from the nib."
+          ]
+        },
+        "more": {
+          "def": "The pointed metal tip of a pen that puts the ink on paper.",
+          "examples": [
+            "She dipped the nib in the ink.",
+            "The nib of the fountain pen was bent.",
+            "He wrote with a pen that had a thin nib."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nibble",
     "say": "NIB-ul",
     "emoji": "🐭",
@@ -75,6 +103,34 @@
             "She wrote her name nicely.",
             "The new couch fits nicely in the corner.",
             "He asked nicely for a turn."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "niche",
+    "say": "nich",
+    "forms": [
+      "niches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small hollow place in a wall.",
+          "examples": [
+            "A statue sat in the niche.",
+            "The niche is small.",
+            "A niche holds a vase."
+          ]
+        },
+        "more": {
+          "def": "A small hollow place in a wall for a statue or vase; or a suitable place for someone.",
+          "examples": [
+            "A statue stood in the niche.",
+            "He found his niche on the team.",
+            "A vase sat in the niche by the stairs."
           ]
         }
       }
@@ -303,6 +359,35 @@
     ]
   },
   {
+    "word": "nightingale",
+    "say": "NY-ting-gayl",
+    "emoji": "🐦",
+    "forms": [
+      "nightingales"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small brown bird with a sweet song.",
+          "examples": [
+            "The nightingale sings at night.",
+            "A nightingale sang.",
+            "I heard a nightingale."
+          ]
+        },
+        "more": {
+          "def": "A small brown bird known for its beautiful singing, often at night.",
+          "examples": [
+            "The nightingale sang sweetly in the moonlight.",
+            "Poets have written about the nightingale for hundreds of years.",
+            "We heard a nightingale in the woods after dark."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nightlife",
     "say": "NYTE-lyfe",
     "senses": [
@@ -322,6 +407,34 @@
             "The city is known for its lively nightlife.",
             "We enjoyed the music and nightlife.",
             "The town has little nightlife."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "nightlight",
+    "say": "NYT-lyt",
+    "forms": [
+      "nightlights"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small light that stays on at night.",
+          "examples": [
+            "I have a nightlight.",
+            "The nightlight is dim.",
+            "A nightlight glows."
+          ]
+        },
+        "more": {
+          "def": "A small light left on at night, often in a child's room.",
+          "examples": [
+            "The nightlight glowed in the hall.",
+            "My little sister sleeps with a nightlight.",
+            "The nightlight shaped like a moon was on."
           ]
         }
       }
@@ -406,6 +519,34 @@
     ]
   },
   {
+    "word": "nightshirt",
+    "say": "NYT-shert",
+    "forms": [
+      "nightshirts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long shirt you wear to bed.",
+          "examples": [
+            "He wore a nightshirt.",
+            "The nightshirt is long.",
+            "Her nightshirt is blue."
+          ]
+        },
+        "more": {
+          "def": "A long, loose shirt worn to sleep in.",
+          "examples": [
+            "He wore a long nightshirt to bed.",
+            "Grandpa kept his nightshirt under the pillow.",
+            "The old story had a boy in a nightshirt and cap."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "nightstand",
     "say": "NYTE-stand",
     "forms": [
@@ -482,6 +623,66 @@
             "The nimble goat leaped from rock to rock.",
             "A nimble cat jumped onto the fence.",
             "She has nimble fingers when she plays the piano."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "nimbleness",
+        "def": "Moving quickly and lightly."
+      }
+    ]
+  },
+  {
+    "word": "nimbly",
+    "say": "NIM-blee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a quick, light way.",
+          "examples": [
+            "He jumped nimbly.",
+            "She climbed nimbly.",
+            "The goat leaped nimbly."
+          ]
+        },
+        "more": {
+          "def": "In a quick, light and skillful way.",
+          "examples": [
+            "The goat leaped nimbly from rock to rock.",
+            "She climbed nimbly up the tree.",
+            "He nimbly dodged the ball."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "nimbus",
+    "say": "NIM-bus",
+    "forms": [
+      "nimbi",
+      "nimbuses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dark rain cloud, or a glow around a head.",
+          "examples": [
+            "A nimbus brings rain.",
+            "The nimbus was dark.",
+            "A nimbus of light."
+          ]
+        },
+        "more": {
+          "def": "A dark, heavy rain cloud, or a bright glow around a person's head in a painting.",
+          "examples": [
+            "A nimbus filled the sky before the storm.",
+            "The saint in the painting had a golden nimbus.",
+            "Rain fell from the nimbus."
           ]
         }
       }

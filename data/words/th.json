@@ -83,6 +83,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "thankfulness",
+        "def": "Being thankful."
+      }
     ]
   },
   {
@@ -380,6 +386,31 @@
     ]
   },
   {
+    "word": "theatrically",
+    "say": "thee-AT-rih-klee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a big, showy way, like an actor.",
+          "examples": [
+            "She sighed theatrically.",
+            "He bowed theatrically.",
+            "She theatrically waved."
+          ]
+        },
+        "more": {
+          "def": "In an exaggerated way, as if acting on a stage.",
+          "examples": [
+            "She sighed theatrically and put her hand on her forehead.",
+            "He bowed theatrically to the audience.",
+            "The boy theatrically fell onto the sofa."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "theatrics",
     "say": "thee-AT-riks",
     "senses": [
@@ -399,6 +430,31 @@
             "His theatrics made the class laugh.",
             "She used theatrics to get her way.",
             "The magician's theatrics delighted the crowd."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thee",
+    "say": "thee",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A very old word for \"you.\"",
+          "examples": [
+            "I thank thee.",
+            "\"Come with me,\" said the king to thee.",
+            "Old books say thee."
+          ]
+        },
+        "more": {
+          "def": "An old-fashioned word for \"you\" that is used as the object of a sentence in very old books and poems.",
+          "examples": [
+            "\"I give thee my thanks,\" said the knight.",
+            "In an old poem, the poet wrote, \"I love thee.\"",
+            "The old prayer says, \"Bless thee and keep thee.\""
           ]
         }
       }
@@ -695,6 +751,34 @@
     ]
   },
   {
+    "word": "theremin",
+    "say": "THAIR-uh-min",
+    "forms": [
+      "theremins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A musical instrument you play without touching it.",
+          "examples": [
+            "A theremin plays by waving.",
+            "She plays the theremin.",
+            "The theremin sounds eerie."
+          ]
+        },
+        "more": {
+          "def": "An electronic instrument that makes a spooky sound when you move your hands near it.",
+          "examples": [
+            "She waved her hands near the theremin.",
+            "The theremin made an eerie, wavering sound.",
+            "You do not touch a theremin to play it."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thermal",
     "say": "THER-mul",
     "senses": [
@@ -804,6 +888,63 @@
     ]
   },
   {
+    "word": "theropod",
+    "say": "THAIR-uh-pod",
+    "forms": [
+      "theropods"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind of dinosaur that walked on two legs and ate meat.",
+          "examples": [
+            "A theropod walked on two legs.",
+            "The theropod was a dinosaur.",
+            "T. rex is a theropod."
+          ]
+        },
+        "more": {
+          "def": "A type of dinosaur that walked on two legs and mostly ate meat.",
+          "examples": [
+            "Tyrannosaurus rex was a theropod.",
+            "A theropod had sharp teeth and claws.",
+            "Some theropods had feathers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thesaurus",
+    "say": "thih-SOR-us",
+    "forms": [
+      "thesauruses",
+      "thesauri"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A book of words with similar meanings.",
+          "examples": [
+            "I used a thesaurus.",
+            "A thesaurus lists words.",
+            "The thesaurus helps me."
+          ]
+        },
+        "more": {
+          "def": "A book that lists words and gives other words with similar meanings.",
+          "examples": [
+            "I looked in a thesaurus for another word for \"big.\"",
+            "A thesaurus helps you find the right word.",
+            "The writer kept a thesaurus on her desk."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "these",
     "say": "theez",
     "senses": [
@@ -823,6 +964,34 @@
             "These berries are ripe, so we can pick them.",
             "Put these papers in your backpack.",
             "These are the animals we saw at the farm."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thespian",
+    "say": "THES-pee-un",
+    "forms": [
+      "thespians"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An actor.",
+          "examples": [
+            "The thespian acted.",
+            "A thespian is an actor.",
+            "The thespian took a bow."
+          ]
+        },
+        "more": {
+          "def": "An actor or actress.",
+          "examples": [
+            "The thespian took a bow after the play.",
+            "A young thespian joined the drama club.",
+            "The thespians rehearsed all week."
           ]
         }
       }
@@ -1028,6 +1197,90 @@
     ]
   },
   {
+    "word": "thighbone",
+    "say": "THY-bohn",
+    "forms": [
+      "thighbones"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The bone in your upper leg.",
+          "examples": [
+            "The thighbone is long.",
+            "A thighbone is a bone.",
+            "I broke my thighbone."
+          ]
+        },
+        "more": {
+          "def": "The long bone in the upper leg, also called the femur.",
+          "examples": [
+            "The thighbone is the longest bone in the body.",
+            "The doctor looked at the thighbone.",
+            "The skeleton had a long thighbone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thimble",
+    "say": "THIM-bul",
+    "forms": [
+      "thimbles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small cap that protects your finger when you sew.",
+          "examples": [
+            "She wore a thimble.",
+            "The thimble is small.",
+            "A thimble is metal."
+          ]
+        },
+        "more": {
+          "def": "A small cup-shaped cap worn on the finger to protect it while sewing.",
+          "examples": [
+            "Grandma wore a thimble to push the needle through the cloth.",
+            "A silver thimble sat in the sewing box.",
+            "The thimble protected her finger from the sharp needle."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thimbleful",
+    "say": "THIM-bul-fuul",
+    "forms": [
+      "thimblefuls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very small amount.",
+          "examples": [
+            "A thimbleful of water.",
+            "She took a thimbleful.",
+            "Only a thimbleful."
+          ]
+        },
+        "more": {
+          "def": "A very small amount, as much as a thimble holds.",
+          "examples": [
+            "She poured a thimbleful of milk.",
+            "He had only a thimbleful of juice.",
+            "A thimbleful of salt was enough."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thin",
     "say": "thin",
     "forms": [
@@ -1055,6 +1308,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "thinness",
+        "def": "Being thin."
+      }
     ]
   },
   {
@@ -1080,6 +1339,62 @@
             "There was a strange thing in the box, but I did not know what it was.",
             "The most important thing is to stay safe.",
             "She put all of her things in a bag before the trip."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thingamabob",
+    "say": "THING-uh-muh-bob",
+    "forms": [
+      "thingamabobs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing whose name you forget.",
+          "examples": [
+            "Pass me that thingamabob.",
+            "What is that thingamabob?",
+            "It is a thingamabob."
+          ]
+        },
+        "more": {
+          "def": "A word used for something whose name you cannot remember.",
+          "examples": [
+            "Hand me that thingamabob.",
+            "What does this thingamabob do?",
+            "He tinkered with a strange thingamabob."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thingamajig",
+    "say": "THING-uh-muh-jig",
+    "forms": [
+      "thingamajigs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing whose name you forget.",
+          "examples": [
+            "Hand me the thingamajig.",
+            "What is that thingamajig?",
+            "It is a thingamajig."
+          ]
+        },
+        "more": {
+          "def": "A word for something when you forget what it is called.",
+          "examples": [
+            "Pass me that thingamajig, please.",
+            "What does this thingamajig do?",
+            "He fiddled with a funny thingamajig."
           ]
         }
       }
@@ -1197,6 +1512,31 @@
     ]
   },
   {
+    "word": "thirdly",
+    "say": "THERD-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "As the third thing.",
+          "examples": [
+            "Thirdly, add the milk.",
+            "Thirdly, wash up.",
+            "Thirdly, say thanks."
+          ]
+        },
+        "more": {
+          "def": "Used to show that something is the third point or step.",
+          "examples": [
+            "First mix the flour, then add the eggs, and thirdly stir in the milk.",
+            "Thirdly, check your work.",
+            "There are three reasons; thirdly, it is fun."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thirst",
     "say": "therst",
     "forms": [
@@ -1281,6 +1621,56 @@
     ]
   },
   {
+    "word": "thirteenth",
+    "say": "THER-teenth",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Number 13 in a row.",
+          "examples": [
+            "It is my thirteenth birthday.",
+            "He was thirteenth in line.",
+            "She sat in the thirteenth seat."
+          ]
+        },
+        "more": {
+          "def": "Coming after the twelfth one and before the fourteenth.",
+          "examples": [
+            "My brother will celebrate his thirteenth birthday in May.",
+            "She finished in thirteenth place in the race.",
+            "The thirteenth page of the book has a picture of a whale."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thirtieth",
+    "say": "THER-tee-ith",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Number 30 in a row.",
+          "examples": [
+            "It is her thirtieth birthday.",
+            "The thirtieth day.",
+            "He came thirtieth."
+          ]
+        },
+        "more": {
+          "def": "Coming after the twenty-ninth.",
+          "examples": [
+            "My aunt will celebrate her thirtieth birthday soon.",
+            "It was the thirtieth day of the month.",
+            "She finished in thirtieth place."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thirty",
     "say": "THER-tee",
     "senses": [
@@ -1356,6 +1746,88 @@
             "The thistle scratched my leg.",
             "A thistle grew by the fence.",
             "The thistle is a prickly plant."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thistledown",
+    "say": "THIS-ul-down",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The soft fluff on a thistle seed.",
+          "examples": [
+            "Thistledown floats.",
+            "The thistledown is soft.",
+            "We saw thistledown."
+          ]
+        },
+        "more": {
+          "def": "The soft, fluffy hairs on thistle seeds that carry them on the wind.",
+          "examples": [
+            "Thistledown floated in the breeze.",
+            "The wind carried the thistledown away.",
+            "The seeds drifted on soft thistledown."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thorax",
+    "say": "THOR-aks",
+    "forms": [
+      "thoraxes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The middle part of an insect's body.",
+          "examples": [
+            "The ant's thorax is small.",
+            "An insect has a thorax.",
+            "The thorax holds the legs."
+          ]
+        },
+        "more": {
+          "def": "The middle section of an insect's body, between the head and the tail, where the legs are attached.",
+          "examples": [
+            "An ant's legs are attached to its thorax.",
+            "The thorax of a bee holds its wings and legs.",
+            "An insect's body has a head, a thorax and an abdomen."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thorn",
+    "say": "thorn",
+    "emoji": "🌹",
+    "forms": [
+      "thorns"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sharp point on a plant.",
+          "examples": [
+            "The rose has a thorn.",
+            "A thorn stuck my hand.",
+            "Be careful of the thorns."
+          ]
+        },
+        "more": {
+          "def": "A sharp, pointed part on the stem of some plants, such as roses.",
+          "examples": [
+            "She pricked her finger on a rose thorn.",
+            "Blackberry bushes have thorns to protect them.",
+            "He carefully pulled a thorn out of his sleeve."
           ]
         }
       }
@@ -1453,6 +1925,34 @@
     ]
   },
   {
+    "word": "thoroughfare",
+    "say": "THER-oh-fair",
+    "forms": [
+      "thoroughfares"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A main road.",
+          "examples": [
+            "The thoroughfare was busy.",
+            "Cars use the thoroughfare.",
+            "The thoroughfare was wide."
+          ]
+        },
+        "more": {
+          "def": "A main road or public way that people use to travel through a place.",
+          "examples": [
+            "The busy thoroughfare was full of cars.",
+            "A wide thoroughfare ran through the middle of town.",
+            "The thoroughfare was closed for the parade."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thoroughly",
     "say": "THER-oh-lee",
     "senses": [
@@ -1497,6 +1997,31 @@
             "Those mountains in the distance are covered with snow.",
             "Do you remember those cookies we baked last winter?",
             "Those are the books I borrowed from the library."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thou",
+    "say": "thow",
+    "senses": [
+      {
+        "pos": "pronoun",
+        "easy": {
+          "def": "A very old word for \"you.\"",
+          "examples": [
+            "Thou art kind.",
+            "In old books, thou means you.",
+            "Long ago, people said thou."
+          ]
+        },
+        "more": {
+          "def": "An old-fashioned word for \"you\" that is found in very old books and poems.",
+          "examples": [
+            "\"Thou art welcome here,\" said the knight in the story.",
+            "People once said \"thou\" to speak to one person.",
+            "You may read the word thou in old stories and plays."
           ]
         }
       }
@@ -1637,6 +2162,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "thoughtlessness",
+        "def": "Not thinking of others."
+      }
     ]
   },
   {
@@ -1668,6 +2199,31 @@
     ]
   },
   {
+    "word": "thousandth",
+    "say": "THOW-zundth",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Number 1,000 in a row.",
+          "examples": [
+            "He was the thousandth visitor.",
+            "The thousandth day.",
+            "The thousandth page."
+          ]
+        },
+        "more": {
+          "def": "Coming after nine hundred ninety-nine others.",
+          "examples": [
+            "He was the thousandth visitor to the museum.",
+            "It was the thousandth time she had read the story.",
+            "The thousandth car crossed the bridge."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thread",
     "say": "thred",
     "forms": [
@@ -1690,6 +2246,37 @@
             "I sewed the button on with thread.",
             "The blue thread ran out.",
             "Spiders spin thread to make webs."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "threadlike",
+        "def": "Like a thread; thin and long."
+      }
+    ]
+  },
+  {
+    "word": "threadbare",
+    "say": "THRED-bair",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very old and worn thin.",
+          "examples": [
+            "The rug is threadbare.",
+            "His coat was threadbare.",
+            "The sock is threadbare."
+          ]
+        },
+        "more": {
+          "def": "Worn so thin by use that the threads show.",
+          "examples": [
+            "The threadbare blanket had been loved for years.",
+            "His old coat was threadbare at the elbows.",
+            "The threadbare rug had holes in it."
           ]
         }
       }
@@ -1754,6 +2341,31 @@
     ]
   },
   {
+    "word": "threateningly",
+    "say": "THRET-un-ing-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that seems like a warning of trouble.",
+          "examples": [
+            "The dog growled threateningly.",
+            "The clouds loomed threateningly.",
+            "He stepped threateningly."
+          ]
+        },
+        "more": {
+          "def": "In a way that seems to warn that something bad may happen.",
+          "examples": [
+            "The dog growled threateningly at the stranger.",
+            "Dark clouds hung threateningly over the hills.",
+            "The wasp buzzed threateningly near our picnic."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "three",
     "say": "three",
     "senses": [
@@ -1773,6 +2385,89 @@
             "A triangle has three sides.",
             "The farmer counted three eggs in the nest.",
             "We waited three days for the package."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "threefold",
+    "say": "THREE-fohld",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Three times as much.",
+          "examples": [
+            "A threefold increase.",
+            "The threefold plan.",
+            "The threefold reason."
+          ]
+        },
+        "more": {
+          "def": "Three times as great or as many; having three parts.",
+          "examples": [
+            "There was a threefold increase in visitors.",
+            "The plan was threefold.",
+            "The reason was threefold."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thresh",
+    "say": "thresh",
+    "forms": [
+      "threshes",
+      "threshed",
+      "threshing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To beat plants so seeds fall out.",
+          "examples": [
+            "They thresh the wheat.",
+            "The farmer threshed grain.",
+            "The machine threshes."
+          ]
+        },
+        "more": {
+          "def": "To beat or shake wheat or other crops to separate the grain from the stalks.",
+          "examples": [
+            "The farmer threshed the wheat in the barn.",
+            "A machine can thresh a field of grain in a day.",
+            "They threshed the oats by hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thresher",
+    "say": "THRESH-er",
+    "forms": [
+      "threshers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A machine that separates grain from plants.",
+          "examples": [
+            "The thresher separates grain.",
+            "A thresher is a machine.",
+            "The farmer used a thresher."
+          ]
+        },
+        "more": {
+          "def": "A machine or person that separates grain from the stalks.",
+          "examples": [
+            "The farmer used a thresher to separate the wheat.",
+            "A thresher beats the grain loose.",
+            "The old thresher rumbled across the field."
           ]
         }
       }
@@ -1801,6 +2496,31 @@
             "The bride was carried over the threshold of the house.",
             "A cold draft came in under the threshold of the door.",
             "Scientists said that the lab stood on the threshold of an exciting discovery."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thrice",
+    "say": "thryss",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Three times.",
+          "examples": [
+            "He knocked thrice.",
+            "She called thrice.",
+            "They bowed thrice."
+          ]
+        },
+        "more": {
+          "def": "Three times; an old way of saying it.",
+          "examples": [
+            "He knocked thrice on the door.",
+            "In the old tale, the hero tried thrice.",
+            "The bell rang thrice."
           ]
         }
       }
@@ -2024,6 +2744,35 @@
     ]
   },
   {
+    "word": "throaty",
+    "say": "THROH-tee",
+    "forms": [
+      "throatier",
+      "throatiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Deep and rough in the voice.",
+          "examples": [
+            "She had a throaty laugh.",
+            "His voice was throaty.",
+            "A throaty growl."
+          ]
+        },
+        "more": {
+          "def": "Deep and rough, as if from the throat.",
+          "examples": [
+            "She had a low, throaty laugh.",
+            "The engine gave a throaty roar.",
+            "A throaty growl came from the dog."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "throb",
     "say": "throb",
     "forms": [
@@ -2121,6 +2870,34 @@
             "The king sat on his golden throne.",
             "The queen's throne was covered in jewels.",
             "The throne stood at the end of the great hall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "throng",
+    "say": "throng",
+    "forms": [
+      "throngs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big crowd of people.",
+          "examples": [
+            "A throng came to see the parade.",
+            "The throng cheered.",
+            "We pushed through the throng."
+          ]
+        },
+        "more": {
+          "def": "A large crowd of people packed close together.",
+          "examples": [
+            "A throng gathered in the square to watch the parade.",
+            "We squeezed through the throng to find our seats.",
+            "A throng of fans waited outside the stadium."
           ]
         }
       }
@@ -2238,6 +3015,34 @@
     ]
   },
   {
+    "word": "throwaway",
+    "say": "THROH-uh-way",
+    "forms": [
+      "throwaways"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Made to be thrown out after use.",
+          "examples": [
+            "A throwaway cup.",
+            "Throwaway paper.",
+            "The throwaway camera."
+          ]
+        },
+        "more": {
+          "def": "Made to be thrown out after use.",
+          "examples": [
+            "We used throwaway plates at the picnic.",
+            "He bought a throwaway camera.",
+            "The throwaway cups were piled up."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thrower",
     "say": "THROH-er",
     "forms": [
@@ -2260,6 +3065,65 @@
             "The thrower aimed carefully at the target.",
             "He is the best thrower on the team.",
             "The thrower hurled the ball a long way."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thrum",
+    "say": "thrum",
+    "forms": [
+      "thrums",
+      "thrummed",
+      "thrumming"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a steady humming sound.",
+          "examples": [
+            "The engine thrummed.",
+            "The bees thrum.",
+            "The guitar thrummed."
+          ]
+        },
+        "more": {
+          "def": "To make a low, steady humming sound.",
+          "examples": [
+            "The engine of the boat thrummed all day.",
+            "Bees thrummed in the flowers.",
+            "The guitar strings thrummed under his fingers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thrush",
+    "say": "thrush",
+    "emoji": "🐦",
+    "forms": [
+      "thrushes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small brown bird with a spotted chest that sings.",
+          "examples": [
+            "A thrush sang.",
+            "The thrush is brown.",
+            "I heard a thrush."
+          ]
+        },
+        "more": {
+          "def": "A songbird with a brown back and a spotted chest, known for its sweet song.",
+          "examples": [
+            "A thrush sang from the top of the tree.",
+            "The thrush cracked a snail against a stone.",
+            "We heard the thrush singing at dawn."
           ]
         }
       }
@@ -2420,6 +3284,34 @@
     ]
   },
   {
+    "word": "thumbnail",
+    "say": "THUM-nayl",
+    "forms": [
+      "thumbnails"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The nail on your thumb, or a tiny picture.",
+          "examples": [
+            "He cut his thumbnail.",
+            "The thumbnail is small.",
+            "Click the thumbnail."
+          ]
+        },
+        "more": {
+          "def": "The nail on your thumb, or a very small picture on a screen.",
+          "examples": [
+            "He trimmed his thumbnail.",
+            "Click on the thumbnail to see the big picture.",
+            "The page showed thumbnails of all the photos."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thumbprint",
     "say": "THUM-print",
     "forms": [
@@ -2442,6 +3334,34 @@
             "A thumbprint was left in the paint.",
             "There was a muddy thumbprint on the glass.",
             "We made animals from thumbprints in art class."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thumbtack",
+    "say": "THUM-tak",
+    "forms": [
+      "thumbtacks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pin with a flat head for holding paper on a wall.",
+          "examples": [
+            "Use a thumbtack.",
+            "The thumbtack is sharp.",
+            "A thumbtack holds the poster."
+          ]
+        },
+        "more": {
+          "def": "A short pin with a flat head, pressed in by thumb, used to hold paper on a wall.",
+          "examples": [
+            "She pinned the poster up with a thumbtack.",
+            "Be careful of the sharp thumbtack.",
+            "He pressed the thumbtack into the board."
           ]
         }
       }
@@ -2585,6 +3505,62 @@
     ]
   },
   {
+    "word": "thundercloud",
+    "say": "THUN-der-klowd",
+    "forms": [
+      "thunderclouds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dark cloud that brings thunder.",
+          "examples": [
+            "A thundercloud came.",
+            "The thundercloud was dark.",
+            "We saw a thundercloud."
+          ]
+        },
+        "more": {
+          "def": "A dark, heavy cloud that brings thunder, lightning and rain.",
+          "examples": [
+            "A dark thundercloud rolled over the hills.",
+            "The thundercloud flashed with lightning.",
+            "We ran inside as the thundercloud grew closer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thunderhead",
+    "say": "THUN-der-hed",
+    "forms": [
+      "thunderheads"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big, tall storm cloud.",
+          "examples": [
+            "A thunderhead is a cloud.",
+            "The thunderhead grew.",
+            "I saw a thunderhead."
+          ]
+        },
+        "more": {
+          "def": "A towering, rounded storm cloud that brings thunder and lightning.",
+          "examples": [
+            "A thunderhead built up over the hills.",
+            "The thunderhead looked dark and tall.",
+            "We watched the thunderhead approach."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "thunderstorm",
     "say": "THUN-der-storm",
     "forms": [
@@ -2607,6 +3583,31 @@
             "A loud thunderstorm shook the windows.",
             "We waited inside until the thunderstorm passed.",
             "Thunderstorms often come on hot summer afternoons."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thunderstruck",
+    "say": "THUN-der-struk",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very shocked.",
+          "examples": [
+            "She was thunderstruck.",
+            "He stood thunderstruck.",
+            "We were thunderstruck."
+          ]
+        },
+        "more": {
+          "def": "So surprised or shocked that you cannot speak.",
+          "examples": [
+            "She stood thunderstruck when she saw the huge cake.",
+            "He was thunderstruck by the news.",
+            "We were thunderstruck at the magic trick."
           ]
         }
       }
@@ -2661,6 +3662,135 @@
             "It was raining, and thus we stayed home.",
             "She practiced daily and thus got better.",
             "The ice melted, thus making the road wet."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thwack",
+    "say": "thwak",
+    "forms": [
+      "thwacks",
+      "thwacked",
+      "thwacking"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loud sound of something hitting.",
+          "examples": [
+            "The ball hit with a thwack.",
+            "I heard a thwack.",
+            "Thwack went the bat."
+          ]
+        },
+        "more": {
+          "def": "The loud, flat sound of something hitting hard.",
+          "examples": [
+            "The bat hit the ball with a loud thwack.",
+            "We heard a thwack as the stick hit the tree.",
+            "The thwack of the rug beater echoed through the yard."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hit something with a loud, flat sound.",
+          "examples": [
+            "He thwacked the ball.",
+            "She thwacked the log.",
+            "The bat thwacked the ball."
+          ]
+        },
+        "more": {
+          "def": "To hit someone or something hard with a flat object.",
+          "examples": [
+            "She thwacked the ball over the fence.",
+            "He thwacked the log with a stick.",
+            "The batter thwacked the ball into the outfield."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thwart",
+    "say": "thwort",
+    "forms": [
+      "thwarts",
+      "thwarted",
+      "thwarting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To stop someone from doing something.",
+          "examples": [
+            "Rain thwarted our picnic.",
+            "The fence thwarted the dog.",
+            "He thwarted the plan."
+          ]
+        },
+        "more": {
+          "def": "To stop someone or something from succeeding.",
+          "examples": [
+            "The locked gate thwarted the thief.",
+            "Rain thwarted our plans for a picnic.",
+            "The goalie thwarted the attack."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thy",
+    "say": "thy",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A very old word for \"your.\"",
+          "examples": [
+            "Thy house is big.",
+            "I love thy song.",
+            "Old books say thy."
+          ]
+        },
+        "more": {
+          "def": "An old-fashioned word for \"your\" that is found in very old books and poems.",
+          "examples": [
+            "\"Take thy hat,\" said the king in the story.",
+            "The poem said, \"Thy kindness shines bright.\"",
+            "In the old prayer, the words are \"Thy will be done.\""
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "thyme",
+    "say": "tym",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small plant with tiny leaves used in cooking.",
+          "examples": [
+            "I smell thyme.",
+            "Thyme is green.",
+            "Mom added thyme."
+          ]
+        },
+        "more": {
+          "def": "A small plant with tiny gray-green leaves and a strong smell, used to flavor food.",
+          "examples": [
+            "Mom added a pinch of thyme to the soup.",
+            "Thyme grows low to the ground.",
+            "Bees visit the purple flowers of the thyme."
           ]
         }
       }

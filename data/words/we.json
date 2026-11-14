@@ -84,6 +84,31 @@
     ]
   },
   {
+    "word": "weakly",
+    "say": "WEEK-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that is not strong.",
+          "examples": [
+            "He smiled weakly.",
+            "She waved weakly.",
+            "The bird chirped weakly."
+          ]
+        },
+        "more": {
+          "def": "In a way that has little strength or force.",
+          "examples": [
+            "He smiled weakly after being sick all week.",
+            "The kitten meowed weakly from the box.",
+            "\"I'm fine,\" she said weakly."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "weakness",
     "say": "WEEK-niss",
     "forms": [
@@ -226,6 +251,31 @@
     ]
   },
   {
+    "word": "wearable",
+    "say": "WAIR-uh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to be worn.",
+          "examples": [
+            "A wearable coat.",
+            "The shirt is wearable.",
+            "Wearable art."
+          ]
+        },
+        "more": {
+          "def": "Able to be worn as clothing.",
+          "examples": [
+            "The old coat is still wearable.",
+            "Wearable technology includes smart watches.",
+            "The shirt was clean and wearable."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "wearer",
     "say": "WAIR-er",
     "forms": [
@@ -248,6 +298,31 @@
             "The wearer of the hat smiled at us.",
             "Each wearer of glasses got a case.",
             "The wearer of the costume won a prize."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wearily",
+    "say": "WEER-ih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a very tired way.",
+          "examples": [
+            "He sat down wearily.",
+            "She wearily walked home.",
+            "The dog wearily lay down."
+          ]
+        },
+        "more": {
+          "def": "In a tired way, often after working hard or a long time.",
+          "examples": [
+            "The hikers walked wearily up the last hill.",
+            "She wearily rubbed her eyes after the long trip.",
+            "The farmer wearily climbed down from the tractor."
           ]
         }
       }
@@ -279,6 +354,12 @@
             "She gave a weary sigh and sat down."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "weariness",
+        "def": "Being very tired."
       }
     ]
   },
@@ -337,6 +418,31 @@
     ]
   },
   {
+    "word": "weathered",
+    "say": "WETH-erd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Worn by sun, wind and rain.",
+          "examples": [
+            "A weathered fence.",
+            "The weathered barn is old.",
+            "The rock is weathered."
+          ]
+        },
+        "more": {
+          "def": "Worn, rough or faded from being out in sun, wind and rain.",
+          "examples": [
+            "The weathered fence was gray and cracked.",
+            "A weathered sailor has a tanned face.",
+            "The weathered rock was smooth."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "weatherman",
     "say": "WETH-er-man",
     "forms": [
@@ -359,6 +465,59 @@
             "The weatherman said it would snow by morning.",
             "The weatherman showed a map with clouds and rain.",
             "We listened to the weatherman before we planned the picnic."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "weatherproof",
+    "say": "WETH-er-proof",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not harmed by rain or weather.",
+          "examples": [
+            "A weatherproof coat.",
+            "The weatherproof tent.",
+            "Weatherproof paint."
+          ]
+        },
+        "more": {
+          "def": "Made so that weather such as rain or wind cannot harm it.",
+          "examples": [
+            "She wore a weatherproof coat.",
+            "The weatherproof tent kept us dry.",
+            "Weatherproof paint lasts outdoors."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "weathervane",
+    "say": "WETH-er-vayn",
+    "forms": [
+      "weathervanes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing on a roof that shows the wind direction.",
+          "examples": [
+            "The weathervane turned.",
+            "A weathervane shows wind.",
+            "The weathervane is a rooster."
+          ]
+        },
+        "more": {
+          "def": "A device on top of a building that turns to show which way the wind is blowing.",
+          "examples": [
+            "The weathervane swung to the north.",
+            "A rooster-shaped weathervane stood on the barn.",
+            "The weathervane spun in the storm."
           ]
         }
       }
@@ -415,6 +574,34 @@
     ]
   },
   {
+    "word": "weaver",
+    "say": "WEE-ver",
+    "forms": [
+      "weavers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who makes cloth from thread.",
+          "examples": [
+            "The weaver made a rug.",
+            "A weaver uses thread.",
+            "The weaver sat at the loom."
+          ]
+        },
+        "more": {
+          "def": "A person whose work is making cloth by crossing threads over and under each other.",
+          "examples": [
+            "The weaver made a colorful rug on her loom.",
+            "A weaver can make cloth from wool or cotton.",
+            "The village weaver sold blankets at the market."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "web",
     "say": "web",
     "emoji": "🕸️",
@@ -457,6 +644,115 @@
             "I looked up the answer on the web.",
             "The web has pages about every subject.",
             "We used the web for our project."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "webbing",
+    "say": "WEB-ing",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Strong strips of cloth or skin between parts.",
+          "examples": [
+            "A duck has webbing.",
+            "The strap is webbing.",
+            "The bag has webbing."
+          ]
+        },
+        "more": {
+          "def": "Strong strips of woven cloth used for straps, or the skin between the toes of a duck.",
+          "examples": [
+            "The backpack has webbing straps.",
+            "A duck's feet have webbing between the toes.",
+            "The hammock was made from nylon webbing."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "webcam",
+    "say": "WEB-kam",
+    "forms": [
+      "webcams"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A camera that shows a live picture on the internet.",
+          "examples": [
+            "The webcam shows me.",
+            "A webcam is a camera.",
+            "Turn on the webcam."
+          ]
+        },
+        "more": {
+          "def": "A small camera connected to a computer that sends live pictures over the internet.",
+          "examples": [
+            "I talked to Grandma on the webcam.",
+            "A webcam shows pictures on the screen.",
+            "Turn on the webcam for the video call."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "webcast",
+    "say": "WEB-kast",
+    "forms": [
+      "webcasts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A live show on the internet.",
+          "examples": [
+            "We watched a webcast.",
+            "A webcast is live.",
+            "The webcast started."
+          ]
+        },
+        "more": {
+          "def": "A show or event that is shown on the internet, often live.",
+          "examples": [
+            "We watched the concert as a webcast.",
+            "The school put the play on a webcast.",
+            "The webcast let families watch from home."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "webpage",
+    "say": "WEB-payj",
+    "forms": [
+      "webpages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "One page on a website.",
+          "examples": [
+            "Open the webpage.",
+            "The webpage has pictures.",
+            "I made a webpage."
+          ]
+        },
+        "more": {
+          "def": "A single page on the internet that you can look at on a screen.",
+          "examples": [
+            "Open the webpage to read the story.",
+            "A webpage can have pictures and words.",
+            "We made a webpage about our class."
           ]
         }
       }
@@ -754,6 +1050,31 @@
     ]
   },
   {
+    "word": "weeklong",
+    "say": "WEEK-lawng",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Lasting a week.",
+          "examples": [
+            "A weeklong trip.",
+            "The weeklong camp.",
+            "A weeklong holiday."
+          ]
+        },
+        "more": {
+          "def": "Lasting for a week.",
+          "examples": [
+            "We went on a weeklong camping trip.",
+            "The weeklong festival ended on Sunday.",
+            "She took a weeklong vacation."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "weekly",
     "say": "WEEK-lee",
     "emoji": "📅",
@@ -793,6 +1114,63 @@
             "The club meets weekly in the school gym.",
             "The paper is printed weekly and delivered on Sundays.",
             "He waters the plants weekly during the summer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "weeknight",
+    "say": "WEEK-nyt",
+    "forms": [
+      "weeknights"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A night of the work week.",
+          "examples": [
+            "On weeknights I do homework.",
+            "A weeknight is Monday to Friday.",
+            "Weeknights are quiet."
+          ]
+        },
+        "more": {
+          "def": "An evening between Monday and Friday.",
+          "examples": [
+            "On weeknights I go to bed at eight.",
+            "We have soccer practice on weeknights.",
+            "Weeknights are for homework."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "weeny",
+    "say": "WEE-nee",
+    "forms": [
+      "weenier",
+      "weeniest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very, very small.",
+          "examples": [
+            "A weeny ant.",
+            "The weeny bug.",
+            "I have a weeny bit."
+          ]
+        },
+        "more": {
+          "def": "Very small; tiny.",
+          "examples": [
+            "A weeny ant crawled across the page.",
+            "She ate a weeny piece of cake.",
+            "He held a weeny shell in his palm."
           ]
         }
       }
@@ -852,6 +1230,34 @@
             "The baby felt weepy and tired.",
             "I felt weepy at the sad part of the movie.",
             "The weepy child needed a hug."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "weevil",
+    "say": "WEE-vul",
+    "forms": [
+      "weevils"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small bug that eats plants.",
+          "examples": [
+            "A weevil ate the grain.",
+            "The weevil is small.",
+            "Weevils are bugs."
+          ]
+        },
+        "more": {
+          "def": "A small beetle with a long snout that eats plants and stored food.",
+          "examples": [
+            "A weevil bored into the seed.",
+            "Weevils can ruin a crop of cotton.",
+            "The weevil has a long, curved snout."
           ]
         }
       }
@@ -946,6 +1352,113 @@
     ]
   },
   {
+    "word": "weightlessness",
+    "say": "WAYT-less-ness",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Feeling no weight, like in space.",
+          "examples": [
+            "Astronauts feel weightlessness.",
+            "Weightlessness is floating.",
+            "Weightlessness is fun."
+          ]
+        },
+        "more": {
+          "def": "The feeling of having no weight, as astronauts do in space.",
+          "examples": [
+            "Astronauts float in weightlessness.",
+            "Weightlessness made the pencil float.",
+            "Divers feel a kind of weightlessness underwater."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "weightlifter",
+    "say": "WAYT-lif-ter",
+    "forms": [
+      "weightlifters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who lifts heavy weights.",
+          "examples": [
+            "The weightlifter lifted a barbell.",
+            "A weightlifter is strong.",
+            "The weightlifter trained."
+          ]
+        },
+        "more": {
+          "def": "A person who lifts heavy weights as a sport or exercise.",
+          "examples": [
+            "The weightlifter lifted a heavy barbell.",
+            "A weightlifter trains every day.",
+            "The weightlifter won a medal."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "weightlifting",
+    "say": "WAYT-lif-ting",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sport where you lift heavy weights.",
+          "examples": [
+            "He does weightlifting.",
+            "Weightlifting makes you strong.",
+            "She likes weightlifting."
+          ]
+        },
+        "more": {
+          "def": "The sport or exercise of lifting heavy weights.",
+          "examples": [
+            "He trains in weightlifting.",
+            "Weightlifting builds strong muscles.",
+            "She won a medal in weightlifting."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "weighty",
+    "say": "WAY-tee",
+    "forms": [
+      "weightier",
+      "weightiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Heavy or very important.",
+          "examples": [
+            "It is a weighty book.",
+            "A weighty choice.",
+            "A weighty box."
+          ]
+        },
+        "more": {
+          "def": "Heavy, or important and serious.",
+          "examples": [
+            "He carried a weighty book.",
+            "It was a weighty decision.",
+            "The weighty box was hard to lift."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "weird",
     "say": "weerd",
     "forms": [
@@ -969,6 +1482,31 @@
             "I heard a weird noise outside my window.",
             "It felt weird to be at school with no one else there.",
             "The weather was weird, with snow in May."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "weirdly",
+    "say": "WEERD-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a strange way.",
+          "examples": [
+            "The cat acted weirdly.",
+            "It was weirdly quiet.",
+            "He walked weirdly."
+          ]
+        },
+        "more": {
+          "def": "In a strange and unusual way.",
+          "examples": [
+            "The cat was acting weirdly all morning.",
+            "It was weirdly quiet in the park.",
+            "The sky glowed weirdly before the storm."
           ]
         }
       }
@@ -1069,6 +1607,36 @@
     ]
   },
   {
+    "word": "weld",
+    "say": "weld",
+    "forms": [
+      "welds",
+      "welded",
+      "welding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To join pieces of metal by heating them.",
+          "examples": [
+            "He welds the metal.",
+            "The worker welded the pipe.",
+            "They weld the bars."
+          ]
+        },
+        "more": {
+          "def": "To join pieces of metal together by heating them until they melt and fuse.",
+          "examples": [
+            "The worker welded the two pipes together.",
+            "He welded a new bar onto the gate.",
+            "They weld metal to build ships."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "welder",
     "say": "WEL-der",
     "forms": [
@@ -1116,6 +1684,31 @@
             "Welding joins two pieces of metal together.",
             "He does welding in a factory.",
             "Sparks flew from the welding."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "welfare",
+    "say": "WEL-fair",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Good health and happiness.",
+          "examples": [
+            "We care about the welfare of animals.",
+            "Her welfare is important.",
+            "He checks on the welfare of the dog."
+          ]
+        },
+        "more": {
+          "def": "The good health, safety and happiness of a person or animal.",
+          "examples": [
+            "The vet takes care of the welfare of the animals.",
+            "Parents worry about the welfare of their children.",
+            "The class made a plan to protect the welfare of the pond animals."
           ]
         }
       }
@@ -1187,6 +1780,31 @@
       {
         "word": "wellness",
         "def": "Being healthy and feeling good."
+      }
+    ]
+  },
+  {
+    "word": "wellbeing",
+    "say": "WEL-bee-ing",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Being healthy and happy.",
+          "examples": [
+            "Her wellbeing is important.",
+            "He cares about wellbeing.",
+            "Wellbeing matters."
+          ]
+        },
+        "more": {
+          "def": "The state of being healthy, safe and happy.",
+          "examples": [
+            "The nurse cares about the wellbeing of the children.",
+            "Sleep is important for your wellbeing.",
+            "The farmer worried about the wellbeing of the sheep."
+          ]
+        }
       }
     ]
   },
@@ -1269,6 +1887,31 @@
     ]
   },
   {
+    "word": "westerly",
+    "say": "WES-ter-lee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Coming from or toward the west.",
+          "examples": [
+            "A westerly wind.",
+            "The westerly breeze.",
+            "The westerly direction."
+          ]
+        },
+        "more": {
+          "def": "Coming from or moving toward the west.",
+          "examples": [
+            "A westerly wind blew in from the sea.",
+            "The westerly breeze was warm.",
+            "The road runs in a westerly direction."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "western",
     "say": "WES-tern",
     "senses": [
@@ -1316,6 +1959,56 @@
             "The westerner wore a cowboy hat.",
             "A westerner visited the city.",
             "The westerners traveled across the plains."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "westernmost",
+    "say": "WES-tern-mohst",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Farthest to the west.",
+          "examples": [
+            "The westernmost town.",
+            "The westernmost point.",
+            "The westernmost island."
+          ]
+        },
+        "more": {
+          "def": "Farthest toward the west.",
+          "examples": [
+            "The westernmost town in the state is by the sea.",
+            "The westernmost island is tiny.",
+            "We drove to the westernmost tip."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "westward",
+    "say": "WEST-werd",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Toward the west.",
+          "examples": [
+            "The wagons rolled westward.",
+            "The sun sets westward.",
+            "We drove westward."
+          ]
+        },
+        "more": {
+          "def": "In the direction of the west.",
+          "examples": [
+            "The settlers traveled westward in covered wagons.",
+            "The sun slipped westward behind the hills.",
+            "We sailed westward across the bay."
           ]
         }
       }
@@ -1379,6 +2072,34 @@
             "Frogs and herons live in the wetland.",
             "The wetland soaks up water during floods.",
             "We walked on a boardwalk through the wetland."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "wetsuit",
+    "say": "WET-soot",
+    "forms": [
+      "wetsuits"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tight suit for swimming in cold water.",
+          "examples": [
+            "The diver wore a wetsuit.",
+            "My wetsuit is black.",
+            "The wetsuit keeps me warm."
+          ]
+        },
+        "more": {
+          "def": "A close-fitting rubber suit that keeps swimmers and divers warm in cold water.",
+          "examples": [
+            "The surfer wore a wetsuit in the chilly water.",
+            "A wetsuit traps a thin layer of warm water against the skin.",
+            "The diver pulled on a thick wetsuit."
           ]
         }
       }

@@ -46,6 +46,40 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "oddness",
+        "def": "Being strange."
+      }
+    ]
+  },
+  {
+    "word": "oddity",
+    "say": "OD-ih-tee",
+    "forms": [
+      "oddities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strange thing.",
+          "examples": [
+            "It was an oddity.",
+            "The oddity was a square egg.",
+            "A strange oddity."
+          ]
+        },
+        "more": {
+          "def": "Something strange or unusual.",
+          "examples": [
+            "A purple tomato is an oddity.",
+            "The shop sold many oddities.",
+            "It was an oddity that the clock ran backward."
+          ]
+        }
+      }
     ]
   },
   {
@@ -102,6 +136,59 @@
     ]
   },
   {
+    "word": "odious",
+    "say": "OH-dee-us",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very yucky.",
+          "examples": [
+            "It was an odious task.",
+            "An odious smell.",
+            "The odious weed."
+          ]
+        },
+        "more": {
+          "def": "Very unpleasant or hateful.",
+          "examples": [
+            "Cleaning the stinky drain was an odious task.",
+            "An odious smell filled the room.",
+            "The odious weed took over the garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "odometer",
+    "say": "oh-DOM-ih-ter",
+    "forms": [
+      "odometers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool in a car that counts miles.",
+          "examples": [
+            "The odometer counts miles.",
+            "Look at the odometer.",
+            "The odometer shows miles."
+          ]
+        },
+        "more": {
+          "def": "An instrument in a vehicle that shows how far it has gone.",
+          "examples": [
+            "The odometer showed ten thousand miles.",
+            "Dad checked the odometer at the gas station.",
+            "The odometer adds up the miles you drive."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "odor",
     "say": "OH-der",
     "forms": [
@@ -132,6 +219,34 @@
             "A strong odor of fish filled the kitchen.",
             "The gym bag had a bad odor after the game.",
             "The soap left a pleasant odor in the air."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "odyssey",
+    "say": "OD-ih-see",
+    "forms": [
+      "odysseys"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long, exciting trip.",
+          "examples": [
+            "It was a long odyssey.",
+            "An odyssey is a trip.",
+            "Our trip was an odyssey."
+          ]
+        },
+        "more": {
+          "def": "A long journey full of adventures.",
+          "examples": [
+            "Our trip across the country was an odyssey.",
+            "The explorers' odyssey lasted three years.",
+            "The old story tells of a hero's odyssey."
           ]
         }
       }

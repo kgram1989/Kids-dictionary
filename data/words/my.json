@@ -25,6 +25,59 @@
     ]
   },
   {
+    "word": "myriad",
+    "say": "MIR-ee-ud",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Too many to count.",
+          "examples": [
+            "Myriad stars shone.",
+            "There were myriad fish.",
+            "Myriad birds."
+          ]
+        },
+        "more": {
+          "def": "Too many to count; very many.",
+          "examples": [
+            "Myriad stars shone in the clear night.",
+            "The garden was full of myriad colors.",
+            "Myriad fish swam around the reef."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "myrtle",
+    "say": "MER-tul",
+    "forms": [
+      "myrtles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shrub with shiny leaves and small flowers.",
+          "examples": [
+            "A myrtle is a shrub.",
+            "The myrtle smells sweet.",
+            "We planted a myrtle."
+          ]
+        },
+        "more": {
+          "def": "A shrub with shiny green leaves and white or pink flowers.",
+          "examples": [
+            "A crape myrtle bloomed by the fence.",
+            "The myrtle has glossy leaves.",
+            "The myrtle is covered with tiny flowers."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "myself",
     "say": "my-SELF",
     "senses": [
@@ -74,6 +127,12 @@
             "A mysterious fog covered the lake."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "mysteriousness",
+        "def": "Being strange and hard to explain."
       }
     ]
   },
@@ -160,6 +219,36 @@
     ]
   },
   {
+    "word": "mystify",
+    "say": "MIS-tih-fy",
+    "forms": [
+      "mystifies",
+      "mystified",
+      "mystifying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To mix someone up with something hard to work out.",
+          "examples": [
+            "The trick mystified me.",
+            "The riddle mystified him.",
+            "The puzzle mystifies us."
+          ]
+        },
+        "more": {
+          "def": "To confuse someone so that they cannot understand.",
+          "examples": [
+            "The magician's trick mystified the audience.",
+            "The puzzle mystified him for hours.",
+            "The strange footprints mystified the detective."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "myth",
     "say": "mith",
     "forms": [
@@ -226,6 +315,31 @@
             "A dragon is a mythical creature.",
             "The mythical bird rose from the ashes.",
             "The story tells of a mythical island."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "mythological",
+    "say": "mith-uh-LOJ-ih-kul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "From old make-believe stories.",
+          "examples": [
+            "A mythological creature.",
+            "The mythological hero.",
+            "The mythological story."
+          ]
+        },
+        "more": {
+          "def": "Having to do with myths and the stories of gods and heroes.",
+          "examples": [
+            "The dragon is a mythological creature.",
+            "The class read a mythological tale.",
+            "A mythological hero fought the monster."
           ]
         }
       }

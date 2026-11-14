@@ -1,5 +1,30 @@
 [
   {
+    "word": "aqua",
+    "say": "AK-wuh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bright blue-green color.",
+          "examples": [
+            "The pool is aqua.",
+            "Aqua is blue-green.",
+            "An aqua shirt."
+          ]
+        },
+        "more": {
+          "def": "A bright blue-green color like sea water.",
+          "examples": [
+            "She painted the walls aqua.",
+            "The aqua water sparkled.",
+            "He wore an aqua shirt."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "aquamarine",
     "say": "ak-wuh-muh-REEN",
     "forms": [
@@ -77,6 +102,62 @@
             "Seals and whales are aquatic mammals.",
             "Water lilies are aquatic plants.",
             "The aquatic bird dove for food."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "aqueduct",
+    "say": "AK-wuh-dukt",
+    "forms": [
+      "aqueducts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bridge that carries water.",
+          "examples": [
+            "The aqueduct carries water.",
+            "An aqueduct is a bridge.",
+            "We saw an aqueduct."
+          ]
+        },
+        "more": {
+          "def": "A raised channel or bridge built to carry water over long distances.",
+          "examples": [
+            "The Romans built an aqueduct to bring water to the city.",
+            "The aqueduct crossed the valley on tall arches.",
+            "Water flowed along the aqueduct."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "aquifer",
+    "say": "AK-wuh-fer",
+    "forms": [
+      "aquifers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A layer of rock under the ground that holds water.",
+          "examples": [
+            "An aquifer holds water.",
+            "The aquifer is underground.",
+            "The town uses the aquifer."
+          ]
+        },
+        "more": {
+          "def": "A layer of rock or sand under the ground that holds water.",
+          "examples": [
+            "The town gets its water from an aquifer.",
+            "Wells reach down into the aquifer.",
+            "Rain slowly fills the aquifer."
           ]
         }
       }

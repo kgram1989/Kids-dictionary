@@ -1,5 +1,64 @@
 [
   {
+    "word": "chafe",
+    "say": "chayf",
+    "forms": [
+      "chafes",
+      "chafed",
+      "chafing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To rub and make sore.",
+          "examples": [
+            "The shoe chafed my heel.",
+            "The rope chafed her hands.",
+            "My collar chafes."
+          ]
+        },
+        "more": {
+          "def": "To make skin sore by rubbing, or to feel annoyed at something.",
+          "examples": [
+            "The tight shoe chafed my heel.",
+            "The rope chafed his hands.",
+            "She chafed at the long wait."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chaffinch",
+    "say": "CHAF-inch",
+    "emoji": "🐦",
+    "forms": [
+      "chaffinches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small bird with a pink chest.",
+          "examples": [
+            "A chaffinch sang.",
+            "The chaffinch has a pink chest.",
+            "I saw a chaffinch."
+          ]
+        },
+        "more": {
+          "def": "A small songbird with a pinkish chest and white marks on its wings.",
+          "examples": [
+            "A chaffinch sang from the top of the hedge.",
+            "The chaffinch is common in gardens.",
+            "The male chaffinch is brighter than the female."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chain",
     "say": "chayn",
     "forms": [
@@ -110,6 +169,34 @@
     ]
   },
   {
+    "word": "chairlift",
+    "say": "CHAIR-lift",
+    "forms": [
+      "chairlifts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A moving seat that carries skiers up a mountain.",
+          "examples": [
+            "We rode the chairlift.",
+            "A chairlift lifts you up.",
+            "The chairlift goes up the hill."
+          ]
+        },
+        "more": {
+          "def": "A line of seats hung from a cable that carries skiers up a mountain.",
+          "examples": [
+            "We rode the chairlift to the top.",
+            "A chairlift carried skiers up the slope.",
+            "The chairlift swayed in the wind."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chairman",
     "say": "CHAIR-mun",
     "forms": [
@@ -132,6 +219,62 @@
             "The chairman called the meeting to order.",
             "She is the chairman of the school club.",
             "The chairman thanked everyone for coming."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chairperson",
+    "say": "CHAIR-per-sun",
+    "forms": [
+      "chairpersons"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The person in charge of a meeting.",
+          "examples": [
+            "The chairperson spoke.",
+            "A chairperson leads the meeting.",
+            "The chairperson called order."
+          ]
+        },
+        "more": {
+          "def": "The person who leads a meeting or a committee.",
+          "examples": [
+            "The chairperson opened the meeting.",
+            "A chairperson makes sure everyone gets a turn.",
+            "She was chairperson of the school club."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chalet",
+    "say": "sha-LAY",
+    "forms": [
+      "chalets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wooden house in the mountains.",
+          "examples": [
+            "We stayed in a chalet.",
+            "The chalet has a steep roof.",
+            "A chalet is in the Alps."
+          ]
+        },
+        "more": {
+          "def": "A wooden house with a sloping roof, in the mountains.",
+          "examples": [
+            "We stayed in a snug chalet in the Alps.",
+            "The chalet had a steep roof to shed the snow.",
+            "Smoke rose from the chalet chimney."
           ]
         }
       }
@@ -313,6 +456,34 @@
     ]
   },
   {
+    "word": "chambermaid",
+    "say": "CHAYM-ber-mayd",
+    "forms": [
+      "chambermaids"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A woman who cleans bedrooms in a hotel.",
+          "examples": [
+            "The chambermaid cleaned.",
+            "A chambermaid made the bed.",
+            "The chambermaid worked in the hotel."
+          ]
+        },
+        "more": {
+          "def": "A woman whose job is to clean and tidy bedrooms, especially in a hotel.",
+          "examples": [
+            "The chambermaid made the beds in the hotel.",
+            "A chambermaid changed the sheets.",
+            "The chambermaid tidied the room."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chameleon",
     "say": "kuh-MEEL-yun",
     "forms": [
@@ -473,6 +644,34 @@
     ]
   },
   {
+    "word": "chancellor",
+    "say": "CHAN-suh-ler",
+    "forms": [
+      "chancellors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A top leader in a government or university.",
+          "examples": [
+            "The chancellor spoke.",
+            "The chancellor met the king.",
+            "The chancellor wore a robe."
+          ]
+        },
+        "more": {
+          "def": "The leader of a government in some countries, or the head of a university.",
+          "examples": [
+            "The chancellor gave a speech to the students.",
+            "In some countries, the chancellor is the leader of the government.",
+            "The chancellor of the university gave out the diplomas."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chandelier",
     "say": "shan-duh-LEER",
     "forms": [
@@ -571,6 +770,10 @@
       {
         "word": "changeable",
         "def": "Able to change, or changing often."
+      },
+      {
+        "word": "changeless",
+        "def": "Never changing."
       }
     ]
   },
@@ -749,6 +952,31 @@
     ]
   },
   {
+    "word": "chaparral",
+    "say": "shap-uh-RAL",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Dry land with thick, low bushes.",
+          "examples": [
+            "Chaparral is bushy.",
+            "The chaparral is dry.",
+            "We hiked through chaparral."
+          ]
+        },
+        "more": {
+          "def": "A dry area covered with thick, tough, low bushes, found in places such as California.",
+          "examples": [
+            "We hiked through the dry chaparral.",
+            "Chaparral bushes burn easily.",
+            "Rabbits hid in the chaparral."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chapel",
     "say": "CHAP-ul",
     "forms": [
@@ -835,6 +1063,36 @@
     ]
   },
   {
+    "word": "char",
+    "say": "char",
+    "forms": [
+      "chars",
+      "charred",
+      "charring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To burn the outside black.",
+          "examples": [
+            "The toast was charred.",
+            "The wood charred.",
+            "The fire charred the log."
+          ]
+        },
+        "more": {
+          "def": "To burn the surface of something so that it turns black.",
+          "examples": [
+            "The toast was charred black.",
+            "The fire charred the wood.",
+            "He charred the marshmallow over the fire."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "character",
     "say": "KAIR-ik-ter",
     "forms": [
@@ -878,6 +1136,12 @@
             "The character of a person is shown by what they do."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "characterless",
+        "def": "Plain and dull."
       }
     ]
   },
@@ -925,6 +1189,12 @@
             "It was characteristic of him to help right away."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "uncharacteristic",
+        "def": "Not typical of someone."
       }
     ]
   },
@@ -1006,6 +1276,31 @@
             "Dad lit the charcoal in the grill to cook the corn.",
             "The artist drew a picture of the horse in charcoal.",
             "Charcoal is black and leaves dark marks on your hands."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chard",
+    "say": "CHARD",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A leafy green vegetable with colorful stems.",
+          "examples": [
+            "Chard is a green.",
+            "The chard has red stems.",
+            "We ate chard."
+          ]
+        },
+        "more": {
+          "def": "A leafy vegetable with large green leaves and thick red, yellow or white stems.",
+          "examples": [
+            "We grew chard in our garden.",
+            "Chard has bright red stems.",
+            "She cooked the chard with garlic."
           ]
         }
       }
@@ -1155,6 +1450,84 @@
     ]
   },
   {
+    "word": "charioteer",
+    "say": "chair-ee-uh-TEER",
+    "forms": [
+      "charioteers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who drives a chariot.",
+          "examples": [
+            "The charioteer raced.",
+            "A charioteer drives a chariot.",
+            "The charioteer held the reins."
+          ]
+        },
+        "more": {
+          "def": "A person who drives a chariot, a two-wheeled cart pulled by horses.",
+          "examples": [
+            "The charioteer raced around the track.",
+            "A charioteer held the reins tight.",
+            "The charioteer won the race."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "charisma",
+    "say": "kuh-RIZ-muh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A special charm that attracts people.",
+          "examples": [
+            "She has charisma.",
+            "The singer has charisma.",
+            "Charisma draws people."
+          ]
+        },
+        "more": {
+          "def": "A special charm or appeal that makes people like and follow you.",
+          "examples": [
+            "The singer has a lot of charisma.",
+            "Her charisma won everyone over.",
+            "A leader with charisma draws a crowd."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "charismatic",
+    "say": "kair-iz-MAT-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Full of charm.",
+          "examples": [
+            "A charismatic leader.",
+            "The charismatic singer.",
+            "She is charismatic."
+          ]
+        },
+        "more": {
+          "def": "Having a special charm that makes people like and follow you.",
+          "examples": [
+            "The charismatic leader inspired the team.",
+            "A charismatic singer drew a big crowd.",
+            "She is charismatic and friendly."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "charitable",
     "say": "CHAIR-ih-tuh-bul",
     "senses": [
@@ -1176,6 +1549,12 @@
             "He was charitable in his words about the other team."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "uncharitable",
+        "def": "Not kind in judging others."
       }
     ]
   },
@@ -1471,6 +1850,64 @@
     ]
   },
   {
+    "word": "chasm",
+    "say": "KAZ-um",
+    "forms": [
+      "chasms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very deep crack in the ground.",
+          "examples": [
+            "The bridge crossed the chasm.",
+            "A chasm is deep.",
+            "We looked into the chasm."
+          ]
+        },
+        "more": {
+          "def": "A very deep, wide crack in the ground or in rock.",
+          "examples": [
+            "A rope bridge crossed the deep chasm.",
+            "We peered over the edge of the chasm.",
+            "The river had cut a chasm through the rock."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chastise",
+    "say": "chas-TYZ",
+    "forms": [
+      "chastises",
+      "chastised",
+      "chastising"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell someone off strongly.",
+          "examples": [
+            "Mom chastised him.",
+            "The teacher chastised the class.",
+            "She chastised the dog."
+          ]
+        },
+        "more": {
+          "def": "To scold someone strongly for doing something wrong.",
+          "examples": [
+            "Mom chastised him for breaking the window.",
+            "The coach chastised the team for being late.",
+            "She chastised herself for forgetting the key."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chat",
     "say": "chat",
     "emoji": "💬",
@@ -1515,6 +1952,35 @@
             "We had a nice chat over lunch.",
             "She had a quick chat with the teacher after school.",
             "A chat with Grandpa always cheers me up."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chateau",
+    "say": "sha-TOH",
+    "forms": [
+      "chateaus",
+      "chateaux"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big castle or country house in France.",
+          "examples": [
+            "We saw a chateau.",
+            "The chateau is old.",
+            "A chateau has towers."
+          ]
+        },
+        "more": {
+          "def": "A castle or large country house in France.",
+          "examples": [
+            "We toured an old chateau in the French countryside.",
+            "The chateau stood beside a river.",
+            "The chateau had tall towers and a moat."
           ]
         }
       }
@@ -1681,6 +2147,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "cheapness",
+        "def": "Costing little."
+      }
     ]
   },
   {
@@ -1708,6 +2180,31 @@
             "Too much noise can cheapen a beautiful song.",
             "The cracked frame cheapened the painting.",
             "Lies can cheapen your good name."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cheaply",
+    "say": "CHEEP-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "At a low price.",
+          "examples": [
+            "It was cheaply made.",
+            "He bought it cheaply.",
+            "She lived cheaply."
+          ]
+        },
+        "more": {
+          "def": "At a low price, or in a poor-quality way.",
+          "examples": [
+            "The toy was cheaply made and broke fast.",
+            "He bought the bike cheaply.",
+            "They traveled cheaply."
           ]
         }
       }
@@ -1849,6 +2346,34 @@
     ]
   },
   {
+    "word": "checkbox",
+    "say": "CHEK-boks",
+    "forms": [
+      "checkboxes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small box you click to choose something.",
+          "examples": [
+            "Click the checkbox.",
+            "A checkbox is a box.",
+            "The checkbox has a check."
+          ]
+        },
+        "more": {
+          "def": "A small box on a screen that you click to choose an option.",
+          "examples": [
+            "Click the checkbox to say yes.",
+            "A checkbox shows a tick when chosen.",
+            "Check the box next to your name."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "checker",
     "say": "CHEK-er",
     "forms": [
@@ -1871,6 +2396,34 @@
             "I moved my red checker forward.",
             "The checker at the store scanned our groceries.",
             "Each player started with twelve checkers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "checkerboard",
+    "say": "CHEK-er-bord",
+    "forms": [
+      "checkerboards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A board with black and red squares for playing checkers.",
+          "examples": [
+            "The checkerboard has squares.",
+            "We played on the checkerboard.",
+            "A checkerboard is square."
+          ]
+        },
+        "more": {
+          "def": "A square board with many small squares.",
+          "examples": [
+            "We set out the pieces on the checkerboard.",
+            "A checkerboard has dark and light squares.",
+            "The floor looked like a checkerboard."
           ]
         }
       }
@@ -2013,6 +2566,34 @@
     ]
   },
   {
+    "word": "checkpoint",
+    "say": "CHEK-poynt",
+    "forms": [
+      "checkpoints"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where people stop to be checked.",
+          "examples": [
+            "We stopped at the checkpoint.",
+            "The checkpoint is on the road.",
+            "A guard stood at the checkpoint."
+          ]
+        },
+        "more": {
+          "def": "A place where people or vehicles are stopped and checked, such as at a border.",
+          "examples": [
+            "We showed our passports at the checkpoint.",
+            "Runners stopped at each checkpoint for water.",
+            "The checkpoint is at the edge of the park."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "checkup",
     "say": "CHEK-up",
     "forms": [
@@ -2035,6 +2616,31 @@
             "I went to the doctor for my yearly checkup.",
             "The dentist gave me a checkup and said my teeth were healthy.",
             "After the checkup, the nurse gave me a sticker."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cheddar",
+    "say": "CHED-er",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hard yellow or orange cheese.",
+          "examples": [
+            "I like cheddar.",
+            "Cheddar is cheese.",
+            "The sandwich has cheddar."
+          ]
+        },
+        "more": {
+          "def": "A firm cheese, usually yellow or orange, with a sharp taste.",
+          "examples": [
+            "We ate macaroni and cheddar.",
+            "Cheddar melts well on a sandwich.",
+            "The sharp cheddar tasted tangy."
           ]
         }
       }
@@ -2097,6 +2703,31 @@
     ]
   },
   {
+    "word": "cheekily",
+    "say": "CHEE-kih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a bold, playful way.",
+          "examples": [
+            "He grinned cheekily.",
+            "The girl cheekily winked.",
+            "The boy cheekily waved."
+          ]
+        },
+        "more": {
+          "def": "In a bold, playful way that is a little rude.",
+          "examples": [
+            "He grinned cheekily and ran away with the cap.",
+            "She cheekily stuck out her tongue.",
+            "The parrot cheekily repeated what Dad said."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "cheeky",
     "say": "CHEE-kee",
     "forms": [
@@ -2120,6 +2751,36 @@
             "The cheeky monkey grabbed the hat and ran.",
             "He gave his sister a cheeky grin.",
             "The cheeky puppy stole a sock."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cheep",
+    "say": "cheep",
+    "forms": [
+      "cheeps",
+      "cheeped",
+      "cheeping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a short, high bird sound.",
+          "examples": [
+            "The chick cheeped.",
+            "Baby birds cheep.",
+            "I heard it cheep."
+          ]
+        },
+        "more": {
+          "def": "To make a short, high sound like a young bird.",
+          "examples": [
+            "The chicks cheeped in the nest.",
+            "Baby birds cheep when they are hungry.",
+            "I heard something cheep in the hedge."
           ]
         }
       }
@@ -2172,6 +2833,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "cheerless",
+        "def": "Sad and gloomy."
+      }
     ]
   },
   {
@@ -2198,6 +2865,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "cheerfulness",
+        "def": "Being cheerful."
+      }
     ]
   },
   {
@@ -2220,6 +2893,31 @@
             "She waved cheerfully from the window.",
             "He whistled cheerfully as he worked.",
             "The kids sang cheerfully on the bus."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cheerily",
+    "say": "CHEER-ih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a happy and bright way.",
+          "examples": [
+            "She waved cheerily.",
+            "He whistled cheerily.",
+            "They sang cheerily."
+          ]
+        },
+        "more": {
+          "def": "In a cheerful, bright way.",
+          "examples": [
+            "She waved cheerily to everyone on the bus.",
+            "He whistled cheerily as he swept the porch.",
+            "\"Good morning!\" called the postman cheerily."
           ]
         }
       }
@@ -2279,6 +2977,12 @@
             "She gave a cheery wave from the bus window."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "cheeriness",
+        "def": "Being cheerful."
       }
     ]
   },
@@ -2364,6 +3068,31 @@
             "We had strawberry cheesecake for dessert at Grandma's.",
             "The cheesecake had a crumbly crust and a creamy center.",
             "She baked a cheesecake for the family party."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cheesecloth",
+    "say": "CHEEZ-klawth",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin cotton cloth.",
+          "examples": [
+            "Strain it through cheesecloth.",
+            "Cheesecloth is thin.",
+            "The cheesecloth is cotton."
+          ]
+        },
+        "more": {
+          "def": "A very thin, loosely woven cotton cloth used for straining liquids and making cheese.",
+          "examples": [
+            "She strained the juice through cheesecloth.",
+            "Cheesecloth is used in cooking.",
+            "Wrap the herbs in cheesecloth."
           ]
         }
       }
@@ -2623,6 +3352,31 @@
     ]
   },
   {
+    "word": "chervil",
+    "say": "CHER-vil",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A herb with small, soft leaves.",
+          "examples": [
+            "Chervil is a herb.",
+            "The chervil is green.",
+            "She added chervil."
+          ]
+        },
+        "more": {
+          "def": "A herb with small, curly leaves and a mild taste, used in cooking.",
+          "examples": [
+            "She sprinkled chervil on the soup.",
+            "Chervil tastes a little like licorice.",
+            "The cook grew chervil in a pot."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chess",
     "say": "ches",
     "senses": [
@@ -2642,6 +3396,34 @@
             "I play chess with my grandfather.",
             "The chess board has sixty-four squares.",
             "Chess takes thought and patience."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chessboard",
+    "say": "CHESS-bord",
+    "forms": [
+      "chessboards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A board with black and white squares.",
+          "examples": [
+            "The chessboard has squares.",
+            "We set up the chessboard.",
+            "The chessboard is wood."
+          ]
+        },
+        "more": {
+          "def": "A square board marked with sixty-four black and white squares, used to play chess.",
+          "examples": [
+            "We set up the pieces on the chessboard.",
+            "A chessboard has eight rows of squares.",
+            "The wooden chessboard was carved by hand."
           ]
         }
       }
@@ -2754,6 +3536,31 @@
     ]
   },
   {
+    "word": "chewable",
+    "say": "CHOO-uh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Soft enough to chew.",
+          "examples": [
+            "A chewable pill.",
+            "Chewable vitamins.",
+            "The chewable toy."
+          ]
+        },
+        "more": {
+          "def": "Able to be chewed.",
+          "examples": [
+            "She took a chewable vitamin.",
+            "The dog had a chewable toy.",
+            "The chewable tablet tasted of fruit."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chewy",
     "say": "CHOO-ee",
     "forms": [
@@ -2837,6 +3644,35 @@
     ]
   },
   {
+    "word": "chickadee",
+    "say": "CHIK-uh-dee",
+    "emoji": "🐦",
+    "forms": [
+      "chickadees"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small bird with a black cap.",
+          "examples": [
+            "A chickadee sang.",
+            "The chickadee is small.",
+            "I saw a chickadee."
+          ]
+        },
+        "more": {
+          "def": "A small, round bird with a black cap and a bib that sings its own name.",
+          "examples": [
+            "A chickadee hopped at the feeder.",
+            "The chickadee says \"chick-a-dee-dee.\"",
+            "Chickadees stay all winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chicken",
     "say": "CHIK-un",
     "emoji": "🐔",
@@ -2879,6 +3715,36 @@
             "We had roast chicken for dinner.",
             "Grandma makes chicken soup.",
             "She ate a chicken sandwich."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chide",
+    "say": "chyd",
+    "forms": [
+      "chides",
+      "chided",
+      "chiding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To tell someone off in a gentle way.",
+          "examples": [
+            "Mom chided me.",
+            "She chided him for being late.",
+            "He chided the dog."
+          ]
+        },
+        "more": {
+          "def": "To scold someone lightly for something they did wrong.",
+          "examples": [
+            "Mom chided me for leaving my shoes in the hall.",
+            "The teacher chided the class for being noisy.",
+            "He chided his brother for being late."
           ]
         }
       }
@@ -2932,6 +3798,31 @@
     ]
   },
   {
+    "word": "chiefly",
+    "say": "CHEEF-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Mostly.",
+          "examples": [
+            "It is chiefly for kids.",
+            "The park is chiefly grass.",
+            "She is chiefly known for singing."
+          ]
+        },
+        "more": {
+          "def": "Mainly; most of all.",
+          "examples": [
+            "The park is chiefly grass and trees.",
+            "She is chiefly known for her paintings.",
+            "The class is made up chiefly of fifth graders."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chieftain",
     "say": "CHEEF-tun",
     "forms": [
@@ -2954,6 +3845,60 @@
             "The chieftain spoke to his people about where to build their new village.",
             "In the old story, the chieftain led his clan across the mountains.",
             "The village gathered around the fire to hear their chieftain speak."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chiffon",
+    "say": "shih-FON",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Very thin, light material.",
+          "examples": [
+            "The scarf is chiffon.",
+            "Chiffon is light.",
+            "A chiffon dress."
+          ]
+        },
+        "more": {
+          "def": "A very thin, light, see-through cloth.",
+          "examples": [
+            "She wore a chiffon scarf.",
+            "Chiffon floats in the breeze.",
+            "The curtains were made of pale chiffon."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chihuahua",
+    "say": "chih-WAH-wah",
+    "emoji": "🐕",
+    "forms": [
+      "chihuahuas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very small dog.",
+          "examples": [
+            "The chihuahua is tiny.",
+            "My chihuahua barks.",
+            "A chihuahua is a small dog."
+          ]
+        },
+        "more": {
+          "def": "A very small dog with large ears.",
+          "examples": [
+            "The chihuahua fit in her bag.",
+            "A chihuahua is one of the smallest dogs.",
+            "The chihuahua trembled in the cold."
           ]
         }
       }
@@ -3092,6 +4037,31 @@
     ]
   },
   {
+    "word": "childproof",
+    "say": "CHYLD-proof",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Hard for a small child to open.",
+          "examples": [
+            "The cap is childproof.",
+            "A childproof lock.",
+            "Make it childproof."
+          ]
+        },
+        "more": {
+          "def": "Made so that young children cannot open or hurt themselves with it.",
+          "examples": [
+            "The medicine bottle has a childproof cap.",
+            "We put childproof locks on the cabinets.",
+            "Dad made the room childproof for the baby."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chili",
     "say": "CHIL-ee",
     "forms": [
@@ -3194,6 +4164,12 @@
             "A chilly wind blew across the field as the sun went down."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "chilliness",
+        "def": "Being a little cold."
       }
     ]
   },
@@ -3392,6 +4368,31 @@
     ]
   },
   {
+    "word": "chintz",
+    "say": "CHINTS",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Cloth with flowers printed on it.",
+          "examples": [
+            "The chair is chintz.",
+            "Chintz has flowers.",
+            "The curtain is chintz."
+          ]
+        },
+        "more": {
+          "def": "A cotton cloth printed with flowers or other bright patterns.",
+          "examples": [
+            "The sofa was covered in chintz.",
+            "Chintz is shiny cloth with flowers on it.",
+            "The curtains were made of flowery chintz."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chip",
     "say": "chip",
     "forms": [
@@ -3563,6 +4564,65 @@
     ]
   },
   {
+    "word": "chirpy",
+    "say": "CHER-pee",
+    "forms": [
+      "chirpier",
+      "chirpiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Cheerful and lively.",
+          "examples": [
+            "A chirpy bird.",
+            "The chirpy girl.",
+            "She feels chirpy."
+          ]
+        },
+        "more": {
+          "def": "Cheerful, lively and full of happy noise.",
+          "examples": [
+            "The chirpy bird sang from the tree.",
+            "The chirpy girl greeted us with a smile.",
+            "He felt chirpy after a good night's sleep."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chirrup",
+    "say": "CHIR-up",
+    "forms": [
+      "chirrups",
+      "chirruped",
+      "chirruping"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make short, cheerful bird sounds.",
+          "examples": [
+            "The bird chirruped.",
+            "Crickets chirrup.",
+            "The baby chirruped."
+          ]
+        },
+        "more": {
+          "def": "To make a series of short, high, cheerful sounds like a small bird.",
+          "examples": [
+            "The sparrow chirruped on the branch.",
+            "Crickets chirruped in the grass.",
+            "The baby chirruped with delight."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chisel",
     "say": "CHIZ-ul",
     "forms": [
@@ -3618,6 +4678,31 @@
     ]
   },
   {
+    "word": "chivalry",
+    "say": "SHIV-ul-ree",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Polite, brave behavior like a knight's.",
+          "examples": [
+            "The knight showed chivalry.",
+            "Chivalry is polite.",
+            "Stories of chivalry."
+          ]
+        },
+        "more": {
+          "def": "The brave, polite and honorable behavior of knights in old stories.",
+          "examples": [
+            "The knight showed chivalry by helping the lady.",
+            "Stories of chivalry tell of brave knights.",
+            "Opening the door for others can be a small act of chivalry."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chlorine",
     "say": "KLOR-een",
     "senses": [
@@ -3637,6 +4722,59 @@
             "The pool water has chlorine to keep it clean.",
             "The smell of chlorine filled the pool room.",
             "Chlorine can make eyes sting."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chlorophyll",
+    "say": "KLOR-uh-fil",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The green stuff in plants.",
+          "examples": [
+            "Chlorophyll is green.",
+            "Leaves have chlorophyll.",
+            "Chlorophyll helps plants."
+          ]
+        },
+        "more": {
+          "def": "The green material in plants that takes in sunlight to help them make food.",
+          "examples": [
+            "Leaves are green because of chlorophyll.",
+            "Chlorophyll captures sunlight for the plant.",
+            "In fall, the chlorophyll fades from the leaves."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chloroplast",
+    "say": "KLOR-uh-plast",
+    "forms": [
+      "chloroplasts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny green part of a plant cell that makes food.",
+          "examples": [
+            "A chloroplast is green.",
+            "Leaves have chloroplasts.",
+            "The chloroplast is in plants."
+          ]
+        },
+        "more": {
+          "def": "A tiny green part inside plant cells that uses sunlight to make food.",
+          "examples": [
+            "Each leaf cell has chloroplasts.",
+            "A chloroplast makes food for the plant.",
+            "The chloroplast gives leaves their green color."
           ]
         }
       }
@@ -3754,6 +4892,34 @@
     ]
   },
   {
+    "word": "choirboy",
+    "say": "KWYR-boy",
+    "forms": [
+      "choirboys"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A boy who sings in a choir.",
+          "examples": [
+            "The choirboy sang.",
+            "A choirboy has a good voice.",
+            "He was a choirboy."
+          ]
+        },
+        "more": {
+          "def": "A boy who sings in a singing group.",
+          "examples": [
+            "The choirboy sang a high note.",
+            "A choirboy wears a robe.",
+            "He was the youngest choirboy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "choke",
     "say": "chohk",
     "forms": [
@@ -3778,6 +4944,34 @@
             "He choked on a piece of bread.",
             "Chew slowly so you do not choke.",
             "The smoke made her cough and choke."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chokecherry",
+    "say": "CHOHK-cher-ee",
+    "forms": [
+      "chokecherries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small tree with dark berries.",
+          "examples": [
+            "A chokecherry is a tree.",
+            "Birds eat chokecherries.",
+            "The chokecherry is dark."
+          ]
+        },
+        "more": {
+          "def": "A small North American tree with white flowers and dark red or black bitter cherries.",
+          "examples": [
+            "Birds ate the ripe chokecherries.",
+            "Chokecherry jelly is dark purple.",
+            "The chokecherry bloomed white in spring."
           ]
         }
       }
@@ -3939,6 +5133,34 @@
     ]
   },
   {
+    "word": "chopstick",
+    "say": "CHOP-stik",
+    "forms": [
+      "chopsticks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin stick used to eat food.",
+          "examples": [
+            "I use chopsticks.",
+            "The chopstick is long.",
+            "She held the chopstick."
+          ]
+        },
+        "more": {
+          "def": "One of a pair of thin sticks used to eat food, especially in East Asia.",
+          "examples": [
+            "She picked up the noodles with chopsticks.",
+            "He learned to hold a chopstick correctly.",
+            "Chopsticks are made of wood or bamboo."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chopsticks",
     "say": "CHOP-stiks",
     "senses": [
@@ -3958,6 +5180,31 @@
             "I learned to eat noodles with chopsticks.",
             "She held the chopsticks in one hand and picked up the rice.",
             "Chopsticks are used in China, Japan and Korea."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "choral",
+    "say": "KOR-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About a group of singers.",
+          "examples": [
+            "A choral piece.",
+            "The choral group.",
+            "A choral concert."
+          ]
+        },
+        "more": {
+          "def": "Having to do with a choir, or sung by a group of singers.",
+          "examples": [
+            "We heard a choral concert at the school.",
+            "The choral group sang in harmony.",
+            "She joined the choral club."
           ]
         }
       }
@@ -4014,6 +5261,89 @@
             "Mopping the floor is a tiring chore.",
             "Dad says that washing dishes is a chore.",
             "I did my chores before I played."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "choreographer",
+    "say": "kor-ee-OG-ruh-fer",
+    "forms": [
+      "choreographers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who plans dance moves.",
+          "examples": [
+            "The choreographer makes dances.",
+            "A choreographer plans steps.",
+            "She is a choreographer."
+          ]
+        },
+        "more": {
+          "def": "A person who plans and creates the steps for a dance.",
+          "examples": [
+            "The choreographer taught us the dance.",
+            "A choreographer plans every move.",
+            "She is the choreographer for the school play."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "choreography",
+    "say": "kor-ee-OG-ruh-fee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The steps and moves in a dance.",
+          "examples": [
+            "She learned the choreography.",
+            "The choreography was hard.",
+            "The dance had choreography."
+          ]
+        },
+        "more": {
+          "def": "The planned steps and movements of a dance.",
+          "examples": [
+            "She learned the choreography for the show.",
+            "The choreography was tricky.",
+            "The dancers practiced the choreography."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chortle",
+    "say": "CHOR-tul",
+    "forms": [
+      "chortles",
+      "chortled",
+      "chortling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To laugh in a happy way.",
+          "examples": [
+            "He chortled with joy.",
+            "She chortled at the joke.",
+            "They chortled."
+          ]
+        },
+        "more": {
+          "def": "To laugh in a noisy, pleased way.",
+          "examples": [
+            "He chortled when he heard the funny story.",
+            "The baby chortled at the silly face.",
+            "She chortled with glee at the surprise."
           ]
         }
       }
@@ -4226,6 +5556,62 @@
     ]
   },
   {
+    "word": "chronology",
+    "say": "kruh-NOL-uh-jee",
+    "forms": [
+      "chronologies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A list of events in the order they happened.",
+          "examples": [
+            "Make a chronology.",
+            "A chronology puts events in order.",
+            "The chronology starts in 1900."
+          ]
+        },
+        "more": {
+          "def": "A list of events in the order in which they happened.",
+          "examples": [
+            "Make a chronology of your week.",
+            "The book has a chronology of the war.",
+            "A chronology puts events in order of time."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chrysalis",
+    "say": "KRIS-uh-lis",
+    "forms": [
+      "chrysalises"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The hard case a caterpillar changes inside.",
+          "examples": [
+            "The chrysalis hung on a leaf.",
+            "A butterfly comes from a chrysalis.",
+            "The chrysalis is hard."
+          ]
+        },
+        "more": {
+          "def": "The hard case that a caterpillar makes around itself while it changes into a butterfly or moth.",
+          "examples": [
+            "The caterpillar turned into a chrysalis.",
+            "A butterfly burst out of the chrysalis.",
+            "The chrysalis hung from a twig."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "chrysanthemum",
     "say": "krih-SAN-thuh-mum",
     "forms": [
@@ -4248,6 +5634,34 @@
             "A yellow chrysanthemum bloomed by the door.",
             "Mom planted chrysanthemums in the fall.",
             "The chrysanthemum has many tiny petals."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chub",
+    "say": "CHUB",
+    "forms": [
+      "chubs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thick freshwater fish.",
+          "examples": [
+            "A chub is a fish.",
+            "The chub is thick.",
+            "I caught a chub."
+          ]
+        },
+        "more": {
+          "def": "A thick-bodied freshwater fish with a round head.",
+          "examples": [
+            "He caught a chub in the river.",
+            "A chub is a plain gray-green fish.",
+            "Chub swam in the shallow stream."
           ]
         }
       }
@@ -4515,6 +5929,34 @@
     ]
   },
   {
+    "word": "churchyard",
+    "say": "CHERCH-yard",
+    "forms": [
+      "churchyards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The ground around a church.",
+          "examples": [
+            "Leaves fell in the churchyard.",
+            "The churchyard was quiet.",
+            "We walked in the churchyard."
+          ]
+        },
+        "more": {
+          "def": "The land around a church, often with a graveyard.",
+          "examples": [
+            "Old stone walls surrounded the churchyard.",
+            "Autumn leaves covered the churchyard.",
+            "A cat slept in the sun in the churchyard."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "churn",
     "say": "chern",
     "forms": [
@@ -4567,6 +6009,31 @@
             "The dirty laundry goes down a chute to the basement.",
             "Children whooped as they slid down the water chute.",
             "Grain poured down the chute into the truck."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chutney",
+    "say": "CHUT-nee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet and spicy sauce eaten with food.",
+          "examples": [
+            "We ate chutney.",
+            "Chutney is a sauce.",
+            "The chutney is sweet."
+          ]
+        },
+        "more": {
+          "def": "A thick sauce of fruit and spices, eaten with meat or cheese.",
+          "examples": [
+            "We spread mango chutney on the bread.",
+            "Chutney can be sweet or spicy.",
+            "She made apple chutney."
           ]
         }
       }

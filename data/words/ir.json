@@ -1,5 +1,103 @@
 [
   {
+    "word": "irate",
+    "say": "eye-RAYT",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very angry.",
+          "examples": [
+            "The irate man shouted.",
+            "She was irate.",
+            "An irate customer."
+          ]
+        },
+        "more": {
+          "def": "Extremely angry.",
+          "examples": [
+            "The irate customer demanded a refund.",
+            "She was irate when she saw the muddy floor.",
+            "An irate goose chased us."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "iridescent",
+    "say": "ir-ih-DES-unt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Shining with changing colors.",
+          "examples": [
+            "The bubble was iridescent.",
+            "Iridescent wings.",
+            "An iridescent shell."
+          ]
+        },
+        "more": {
+          "def": "Showing shining colors that seem to change as you move.",
+          "examples": [
+            "The soap bubble was iridescent.",
+            "The dragonfly had iridescent wings.",
+            "The shell shone with iridescent colors."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "iris",
+    "say": "EYE-riss",
+    "emoji": "🌸",
+    "forms": [
+      "irises"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tall flower with big, bright colors.",
+          "examples": [
+            "An iris grew in the garden.",
+            "The iris is purple.",
+            "I picked an iris."
+          ]
+        },
+        "more": {
+          "def": "A tall garden flower with long, thin leaves and large, colorful blooms.",
+          "examples": [
+            "Purple irises grew along the edge of the pond.",
+            "The iris bloomed in late spring.",
+            "Grandma planted rows of yellow irises by the fence."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The colored part of your eye.",
+          "examples": [
+            "The iris of her eye is brown.",
+            "My iris is blue.",
+            "The colored ring is the iris."
+          ]
+        },
+        "more": {
+          "def": "The round, colored part of the eye that surrounds the black center.",
+          "examples": [
+            "The iris of her eye was a deep green.",
+            "The iris opens and closes to let in more or less light.",
+            "A cat's iris can be yellow or green."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "iron",
     "say": "EYE-ern",
     "emoji": "🧲",
@@ -50,6 +148,131 @@
     ]
   },
   {
+    "word": "ironic",
+    "say": "eye-RON-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "The opposite of what you would expect.",
+          "examples": [
+            "It was ironic.",
+            "An ironic joke.",
+            "The ironic ending."
+          ]
+        },
+        "more": {
+          "def": "Happening in a way that is the opposite of what you would expect.",
+          "examples": [
+            "It was ironic that the fire station caught fire.",
+            "The ironic twist made everyone laugh.",
+            "It was ironic that the weather forecaster forgot his umbrella."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ironwood",
+    "say": "EYE-ern-wuud",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very hard wood.",
+          "examples": [
+            "Ironwood is hard.",
+            "The ironwood tree.",
+            "A bowl of ironwood."
+          ]
+        },
+        "more": {
+          "def": "A kind of wood that is very hard and heavy; the tree it comes from.",
+          "examples": [
+            "The bowl was made of ironwood.",
+            "Ironwood is so hard that it is hard to cut.",
+            "The ironwood tree grows slowly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ironwork",
+    "say": "EYE-ern-werk",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Things made of metal.",
+          "examples": [
+            "The gate has ironwork.",
+            "The ironwork is black.",
+            "The ironwork is old."
+          ]
+        },
+        "more": {
+          "def": "Things made of iron, such as gates, railings and decorations.",
+          "examples": [
+            "The old gate had fancy ironwork.",
+            "The balcony had curly ironwork.",
+            "The ironwork was black and strong."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "irony",
+    "say": "EYE-run-ee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "When things turn out the opposite of what you expect.",
+          "examples": [
+            "There was irony in the story.",
+            "The irony made us laugh.",
+            "That is irony."
+          ]
+        },
+        "more": {
+          "def": "A funny or strange situation where what happens is the opposite of what you would expect.",
+          "examples": [
+            "The irony was that the baker could not bake.",
+            "It was an irony that the fire station burned down.",
+            "There was a touch of irony in his voice."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "irrational",
+    "say": "ih-RASH-un-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not making sense.",
+          "examples": [
+            "An irrational fear.",
+            "It was irrational.",
+            "The irrational idea."
+          ]
+        },
+        "more": {
+          "def": "Not based on clear thinking; not sensible.",
+          "examples": [
+            "He had an irrational fear of the dark.",
+            "It was irrational to be afraid of a kitten.",
+            "The irrational plan made no sense."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "irregular",
     "say": "ih-REG-yuh-ler",
     "senses": [
@@ -69,6 +292,31 @@
             "The coastline has an irregular shape with many bays and points.",
             "The word \"went\" is an irregular verb because it does not end in -ed.",
             "The old clock ticked at irregular times."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "irrelevant",
+    "say": "ih-REL-uh-vunt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having nothing to do with the matter.",
+          "examples": [
+            "That is irrelevant.",
+            "An irrelevant fact.",
+            "The irrelevant question."
+          ]
+        },
+        "more": {
+          "def": "Not connected to what is being talked about.",
+          "examples": [
+            "His comment about pizza was irrelevant to the lesson.",
+            "The teacher ignored the irrelevant question.",
+            "That detail is irrelevant to the story."
           ]
         }
       }
@@ -119,6 +367,31 @@
             "The smell of fresh pancakes was irresistible, so we all got out of bed.",
             "The baby's giggle was irresistible and made everyone laugh too.",
             "On such a hot day, the cool lake looked irresistible."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "irresistibly",
+    "say": "ir-ih-ZIS-tuh-blee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way you cannot say no to.",
+          "examples": [
+            "The cake was irresistibly sweet.",
+            "The kitten was irresistibly cute.",
+            "She was irresistibly drawn."
+          ]
+        },
+        "more": {
+          "def": "In a way that is so attractive or strong that you cannot say no.",
+          "examples": [
+            "The puppy was irresistibly cute.",
+            "The smell of cookies drew us irresistibly to the kitchen.",
+            "The river flowed irresistibly toward the sea."
           ]
         }
       }
@@ -227,6 +500,59 @@
             "My little brother gets irritable when he misses his nap.",
             "The long, hot ride made everyone irritable.",
             "She felt irritable because of the loud noise outside."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "irritably",
+    "say": "IR-ih-tuh-blee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a cross way.",
+          "examples": [
+            "He answered irritably.",
+            "She spoke irritably.",
+            "The tired baby cried irritably."
+          ]
+        },
+        "more": {
+          "def": "In a cross or impatient way, because you are annoyed.",
+          "examples": [
+            "He answered irritably because he was tired and hungry.",
+            "\"Not now!\" she said irritably.",
+            "The cat flicked its tail irritably."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "irritant",
+    "say": "IR-ih-tunt",
+    "forms": [
+      "irritants"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something that bothers you.",
+          "examples": [
+            "Dust is an irritant.",
+            "The irritant made me sneeze.",
+            "The irritant stung."
+          ]
+        },
+        "more": {
+          "def": "Something that annoys you or causes discomfort, such as dust in the eyes.",
+          "examples": [
+            "Dust is an irritant to my eyes.",
+            "The noise was a constant irritant.",
+            "Pollen is an irritant for many people."
           ]
         }
       }

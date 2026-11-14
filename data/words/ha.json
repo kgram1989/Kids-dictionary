@@ -28,6 +28,31 @@
     ]
   },
   {
+    "word": "habitable",
+    "say": "HAB-ih-tuh-bul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Fit to live in.",
+          "examples": [
+            "The house is habitable.",
+            "A habitable planet.",
+            "The cabin was habitable."
+          ]
+        },
+        "more": {
+          "def": "Good enough for people to live in.",
+          "examples": [
+            "The old cabin was still habitable.",
+            "Scientists search for a habitable planet.",
+            "The house was repaired to make it habitable."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "habitat",
     "say": "HAB-ih-tat",
     "emoji": "🌳",
@@ -51,6 +76,173 @@
             "The desert is the habitat of many lizards and snakes.",
             "When forests are cut down, animals lose their habitat.",
             "The zoo built a habitat that looks like a snowy mountain."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "habitual",
+    "say": "huh-BICH-oo-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Done all the time, as a habit.",
+          "examples": [
+            "His habitual walk.",
+            "A habitual smile.",
+            "The habitual time."
+          ]
+        },
+        "more": {
+          "def": "Done regularly as a habit.",
+          "examples": [
+            "He took his habitual walk after dinner.",
+            "She wore her habitual smile.",
+            "The cat took its habitual place by the window."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hack",
+    "say": "hak",
+    "forms": [
+      "hacks",
+      "hacked",
+      "hacking"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cut with rough, hard chops.",
+          "examples": [
+            "He hacked the branch.",
+            "They hacked a path through weeds.",
+            "She hacked at the ice."
+          ]
+        },
+        "more": {
+          "def": "To cut something with rough, heavy blows.",
+          "examples": [
+            "The explorers hacked a path through the thick jungle.",
+            "He hacked the dead branches from the tree.",
+            "She hacked at the frozen ground with a shovel."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hacksaw",
+    "say": "HAK-saw",
+    "forms": [
+      "hacksaws"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A saw for cutting metal.",
+          "examples": [
+            "Dad used a hacksaw.",
+            "A hacksaw cuts metal.",
+            "The hacksaw has a thin blade."
+          ]
+        },
+        "more": {
+          "def": "A saw with a thin blade in a frame, used for cutting metal.",
+          "examples": [
+            "Dad used a hacksaw to cut the pipe.",
+            "A hacksaw has fine teeth for cutting metal.",
+            "He cut the bolt with a hacksaw."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "haddock",
+    "say": "HAD-uk",
+    "emoji": "🐟",
+    "forms": [
+      "haddock"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind of sea fish that people eat.",
+          "examples": [
+            "We had haddock for dinner.",
+            "A haddock is a fish.",
+            "The haddock swims in the sea."
+          ]
+        },
+        "more": {
+          "def": "A silvery-gray sea fish found in the North Atlantic that is often eaten.",
+          "examples": [
+            "Dad bought smoked haddock at the fish market.",
+            "The fisherman caught a haddock and a cod.",
+            "We had fried haddock and chips."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "haggard",
+    "say": "HAG-erd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Thin, tired and worried-looking.",
+          "examples": [
+            "He looked haggard.",
+            "Her face was haggard.",
+            "The haggard traveler sat down."
+          ]
+        },
+        "more": {
+          "def": "Looking very tired, thin and worn out.",
+          "examples": [
+            "The haggard travelers finally reached the town.",
+            "He looked haggard after a night without sleep.",
+            "Her haggard face showed how hard she had worked."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "haggle",
+    "say": "HAG-ul",
+    "forms": [
+      "haggles",
+      "haggled",
+      "haggling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To argue about the price of something.",
+          "examples": [
+            "We haggled over the price.",
+            "She haggles at the market.",
+            "They haggled."
+          ]
+        },
+        "more": {
+          "def": "To argue about a price to try to make it lower.",
+          "examples": [
+            "She haggled with the seller over the price of the scarf.",
+            "People often haggle at the market.",
+            "They haggled for ten minutes."
           ]
         }
       }
@@ -101,6 +293,62 @@
             "She hailed a taxi on the corner.",
             "The captain hailed the other ship.",
             "He hailed his friend across the street."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hailstone",
+    "say": "HAYL-stohn",
+    "forms": [
+      "hailstones"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small ball of ice that falls from the sky.",
+          "examples": [
+            "A hailstone hit the roof.",
+            "The hailstone was big.",
+            "Hailstones fell."
+          ]
+        },
+        "more": {
+          "def": "A small ball of ice that falls from the sky in a storm.",
+          "examples": [
+            "A hailstone bounced off the car.",
+            "Some hailstones were as big as marbles.",
+            "We collected hailstones in a bowl."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hailstorm",
+    "say": "HAYL-storm",
+    "forms": [
+      "hailstorms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A storm with hail.",
+          "examples": [
+            "A hailstorm hit.",
+            "The hailstorm was loud.",
+            "The hailstorm dented the car."
+          ]
+        },
+        "more": {
+          "def": "A storm in which balls of ice fall from the sky.",
+          "examples": [
+            "The hailstorm dented the cars.",
+            "We hid indoors during the hailstorm.",
+            "The hailstorm ruined the garden."
           ]
         }
       }
@@ -330,6 +578,34 @@
     ]
   },
   {
+    "word": "hairnet",
+    "say": "HAIR-net",
+    "forms": [
+      "hairnets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin net you wear on your hair.",
+          "examples": [
+            "The cook wore a hairnet.",
+            "A hairnet holds hair.",
+            "The hairnet is thin."
+          ]
+        },
+        "more": {
+          "def": "A thin net worn over the hair to keep it in place.",
+          "examples": [
+            "The cook wore a hairnet in the kitchen.",
+            "A hairnet holds hair in place.",
+            "She tucked her hair under a hairnet."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hairpin",
     "say": "HAIR-pin",
     "forms": [
@@ -468,6 +744,34 @@
     ]
   },
   {
+    "word": "halfback",
+    "say": "HAF-bak",
+    "forms": [
+      "halfbacks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A player in football who runs with the ball.",
+          "examples": [
+            "The halfback ran.",
+            "A halfback carries the ball.",
+            "He is a halfback."
+          ]
+        },
+        "more": {
+          "def": "A player in football who carries the ball and plays behind the front line.",
+          "examples": [
+            "The halfback ran for a touchdown.",
+            "A halfback needs speed.",
+            "He plays halfback on the school team."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "halftime",
     "say": "HAF-tyme",
     "senses": [
@@ -512,6 +816,35 @@
             "We are halfway to the beach.",
             "I am halfway through the book.",
             "The glass was only halfway full."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "halibut",
+    "say": "HAL-ih-but",
+    "emoji": "🐟",
+    "forms": [
+      "halibut"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big, flat sea fish.",
+          "examples": [
+            "A halibut is a flat fish.",
+            "We ate halibut.",
+            "The halibut is big."
+          ]
+        },
+        "more": {
+          "def": "A very large flat fish that lives in cold seas and is often eaten.",
+          "examples": [
+            "The fisherman caught a huge halibut.",
+            "A halibut lies flat on the sea floor.",
+            "We had baked halibut for dinner."
           ]
         }
       }
@@ -764,6 +1097,61 @@
     ]
   },
   {
+    "word": "haltingly",
+    "say": "HAWL-ting-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a slow, stop-and-start way.",
+          "examples": [
+            "He spoke haltingly.",
+            "She walked haltingly.",
+            "The boy read haltingly."
+          ]
+        },
+        "more": {
+          "def": "In a slow way with many stops, as if unsure.",
+          "examples": [
+            "He spoke haltingly because he was nervous.",
+            "She walked haltingly on the sore foot.",
+            "The child read the page haltingly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "halve",
+    "say": "hav",
+    "forms": [
+      "halves",
+      "halved",
+      "halving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To cut into two equal parts.",
+          "examples": [
+            "Halve the apple.",
+            "She halved the cake.",
+            "He halved the bread."
+          ]
+        },
+        "more": {
+          "def": "To cut or divide something into two equal parts.",
+          "examples": [
+            "Please halve the apple so we can share.",
+            "She halved the sandwich.",
+            "The recipe says to halve the sugar."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ham",
     "say": "ham",
     "emoji": "🍖",
@@ -813,6 +1201,34 @@
             "I ate a hamburger with cheese.",
             "Dad grilled hamburgers for the whole family.",
             "She put lettuce on her hamburger."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hamlet",
+    "say": "HAM-lit",
+    "forms": [
+      "hamlets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A very small village.",
+          "examples": [
+            "We live in a hamlet.",
+            "The hamlet is tiny.",
+            "A hamlet has few houses."
+          ]
+        },
+        "more": {
+          "def": "A very small village, with just a few houses.",
+          "examples": [
+            "The hamlet had only ten houses and a church.",
+            "We stayed in a hamlet in the mountains.",
+            "A stream ran through the hamlet."
           ]
         }
       }
@@ -1135,6 +1551,62 @@
     ]
   },
   {
+    "word": "handbrake",
+    "say": "HAND-brayk",
+    "forms": [
+      "handbrakes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bar that holds a car still.",
+          "examples": [
+            "Pull the handbrake.",
+            "The handbrake holds the car.",
+            "Dad set the handbrake."
+          ]
+        },
+        "more": {
+          "def": "A lever in a car that you pull by hand to hold the car in place.",
+          "examples": [
+            "Dad pulled the handbrake on the steep hill.",
+            "The handbrake keeps the car from rolling.",
+            "She released the handbrake and drove off."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "handcart",
+    "say": "HAND-kart",
+    "forms": [
+      "handcarts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small cart pushed or pulled by hand.",
+          "examples": [
+            "He pushed the handcart.",
+            "The handcart is small.",
+            "The handcart has two wheels."
+          ]
+        },
+        "more": {
+          "def": "A small cart with wheels that is pushed or pulled by hand.",
+          "examples": [
+            "He pushed the handcart full of vegetables.",
+            "The handcart rolled down the lane.",
+            "The farmer loaded the handcart."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "handcuff",
     "say": "HAND-kuf",
     "forms": [
@@ -1193,6 +1665,62 @@
     ]
   },
   {
+    "word": "handheld",
+    "say": "HAND-held",
+    "forms": [
+      "handhelds"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Small enough to hold in your hand.",
+          "examples": [
+            "A handheld game.",
+            "The handheld fan.",
+            "A handheld mirror."
+          ]
+        },
+        "more": {
+          "def": "Small enough to be held and used in the hand.",
+          "examples": [
+            "He played a handheld game on the trip.",
+            "She used a handheld mirror.",
+            "A handheld fan cooled her face."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "handhold",
+    "say": "HAND-hohld",
+    "forms": [
+      "handholds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place to grab with your hand.",
+          "examples": [
+            "He found a handhold.",
+            "The rock had a handhold.",
+            "She held the handhold."
+          ]
+        },
+        "more": {
+          "def": "A place on a rock, wall or machine where you can grip with your hand.",
+          "examples": [
+            "The climber found a handhold in the rock.",
+            "She grabbed a handhold to pull herself up.",
+            "The wall had a handhold to help us climb."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "handicap",
     "say": "HAN-dee-kap",
     "forms": [
@@ -1216,6 +1744,34 @@
             "A broken pencil was a handicap during the spelling test.",
             "The bad weather was a handicap for the soccer team.",
             "Not having a map was a big handicap on the hike."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "handicraft",
+    "say": "HAN-dee-kraft",
+    "forms": [
+      "handicrafts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something you make by hand, like a basket.",
+          "examples": [
+            "She sells handicrafts.",
+            "A handicraft is made by hand.",
+            "The market sells handicrafts."
+          ]
+        },
+        "more": {
+          "def": "An object made skillfully by hand, such as a woven basket or a clay pot.",
+          "examples": [
+            "She sells handicrafts at the market.",
+            "The town is known for its handicrafts.",
+            "The shop had baskets and other handicrafts."
           ]
         }
       }
@@ -1425,6 +1981,34 @@
     ]
   },
   {
+    "word": "handmaiden",
+    "say": "HAND-may-dun",
+    "forms": [
+      "handmaidens"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A woman servant long ago.",
+          "examples": [
+            "The handmaiden helped the queen.",
+            "A handmaiden dressed her.",
+            "The handmaiden brought water."
+          ]
+        },
+        "more": {
+          "def": "A female servant or attendant, especially in old stories.",
+          "examples": [
+            "The queen's handmaiden brushed her hair.",
+            "In the tale, a handmaiden carried the princess's bag.",
+            "The handmaiden helped her lady dress."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "handout",
     "say": "HAND-owt",
     "forms": [
@@ -1511,6 +2095,90 @@
     ]
   },
   {
+    "word": "handrail",
+    "say": "HAND-rayl",
+    "forms": [
+      "handrails"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bar to hold on to when you go up stairs.",
+          "examples": [
+            "Hold the handrail.",
+            "The handrail is smooth.",
+            "She gripped the handrail."
+          ]
+        },
+        "more": {
+          "def": "A rail along stairs or a ramp that you can hold for support.",
+          "examples": [
+            "Hold the handrail when you go down the stairs.",
+            "The wooden handrail was smooth.",
+            "A long handrail ran beside the ramp."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "handsaw",
+    "say": "HAND-saw",
+    "forms": [
+      "handsaws"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A saw you use with your hand.",
+          "examples": [
+            "Dad used a handsaw.",
+            "A handsaw cuts wood.",
+            "The handsaw is sharp."
+          ]
+        },
+        "more": {
+          "def": "A saw that you hold and move with one hand.",
+          "examples": [
+            "Dad cut the board with a handsaw.",
+            "A handsaw has a sharp, toothed blade.",
+            "Be careful with the handsaw."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "handset",
+    "say": "HAND-set",
+    "forms": [
+      "handsets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of a phone you hold to your ear.",
+          "examples": [
+            "She picked up the handset.",
+            "The handset is on the table.",
+            "He held the handset."
+          ]
+        },
+        "more": {
+          "def": "The part of a telephone that you hold to your ear and mouth.",
+          "examples": [
+            "She picked up the handset and dialed.",
+            "The old phone had a heavy handset.",
+            "He put the handset back on its cradle."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "handshake",
     "say": "HAND-shayk",
     "forms": [
@@ -1568,6 +2236,87 @@
     ]
   },
   {
+    "word": "handsomely",
+    "say": "HAN-sum-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a fine or generous way.",
+          "examples": [
+            "He was handsomely paid.",
+            "The room was handsomely decorated.",
+            "She won handsomely."
+          ]
+        },
+        "more": {
+          "def": "In a fine, generous or impressive way.",
+          "examples": [
+            "The workers were handsomely paid.",
+            "The room was handsomely furnished.",
+            "Our team won the game handsomely."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "handspring",
+    "say": "HAND-spring",
+    "forms": [
+      "handsprings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A gymnastics move where you flip onto your hands and back.",
+          "examples": [
+            "She did a handspring.",
+            "A handspring is a flip.",
+            "He can do a handspring."
+          ]
+        },
+        "more": {
+          "def": "A move where you flip onto your hands and back to your feet.",
+          "examples": [
+            "She did a handspring across the mat.",
+            "A handspring is a gymnastics move.",
+            "He practiced his handspring."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "handstand",
+    "say": "HAND-stand",
+    "forms": [
+      "handstands"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Standing on your hands with your feet in the air.",
+          "examples": [
+            "She did a handstand.",
+            "He can do a handstand.",
+            "A handstand is hard."
+          ]
+        },
+        "more": {
+          "def": "A move in which you balance on your hands with your legs in the air.",
+          "examples": [
+            "She kicked up into a handstand against the wall.",
+            "He held a handstand for ten seconds.",
+            "The gymnast did a handstand on the beam."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "handwriting",
     "say": "HAND-ry-ting",
     "senses": [
@@ -1587,6 +2336,31 @@
             "My handwriting is neat and clear.",
             "The teacher could not read his messy handwriting.",
             "She practiced her handwriting every day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "handwritten",
+    "say": "HAND-rit-un",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Done by hand with a pen.",
+          "examples": [
+            "I got a handwritten note.",
+            "The letter is handwritten.",
+            "A handwritten card."
+          ]
+        },
+        "more": {
+          "def": "Written by hand with a pen or pencil, not typed or printed.",
+          "examples": [
+            "She sent a handwritten thank-you note.",
+            "The old recipe was handwritten on a card.",
+            "A handwritten sign hung on the door."
           ]
         }
       }
@@ -1743,6 +2517,34 @@
     ]
   },
   {
+    "word": "hangnail",
+    "say": "HANG-nayl",
+    "forms": [
+      "hangnails"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bit of skin that sticks out next to a nail.",
+          "examples": [
+            "I have a hangnail.",
+            "A hangnail hurts.",
+            "The hangnail is sore."
+          ]
+        },
+        "more": {
+          "def": "A small piece of torn skin at the side of a fingernail.",
+          "examples": [
+            "I have a sore hangnail.",
+            "He pulled at the hangnail.",
+            "A hangnail can bleed."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hangout",
     "say": "HANG-owt",
     "forms": [
@@ -1771,6 +2573,34 @@
     ]
   },
   {
+    "word": "hankering",
+    "say": "HANG-ker-ing",
+    "forms": [
+      "hankerings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong wish for something.",
+          "examples": [
+            "I have a hankering for pizza.",
+            "A hankering for sweets.",
+            "She had a hankering."
+          ]
+        },
+        "more": {
+          "def": "A strong wish or craving for something.",
+          "examples": [
+            "I had a hankering for pancakes.",
+            "He had a hankering to go fishing.",
+            "She felt a sudden hankering for ice cream."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hanky",
     "say": "HANG-kee",
     "forms": [
@@ -1793,6 +2623,106 @@
             "Grandpa pulled a clean hanky from his pocket.",
             "She wiped her eyes with a hanky.",
             "A little lace hanky was tucked in her sleeve."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "Hanukkah",
+    "say": "HAH-nuh-kuh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A Jewish holiday of lights in winter.",
+          "examples": [
+            "We celebrate Hanukkah.",
+            "Hanukkah has candles.",
+            "Hanukkah lasts eight days."
+          ]
+        },
+        "more": {
+          "def": "A Jewish holiday in winter that lasts eight days, when families light candles on a menorah.",
+          "examples": [
+            "We lit candles for Hanukkah.",
+            "Hanukkah lasts for eight days.",
+            "Families play games and eat latkes at Hanukkah."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "haphazard",
+    "say": "hap-HAZ-erd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Messy and not planned.",
+          "examples": [
+            "The toys were in a haphazard pile.",
+            "A haphazard plan.",
+            "The books lay haphazard."
+          ]
+        },
+        "more": {
+          "def": "Done without a plan or order; random.",
+          "examples": [
+            "The toys lay in a haphazard pile.",
+            "The haphazard plan led to mistakes.",
+            "Books were stacked in a haphazard way."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "haphazardly",
+    "say": "hap-HAZ-erd-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a messy way, without a plan.",
+          "examples": [
+            "The socks were thrown haphazardly.",
+            "He packed haphazardly.",
+            "She worked haphazardly."
+          ]
+        },
+        "more": {
+          "def": "In a random, unplanned way.",
+          "examples": [
+            "The toys were scattered haphazardly.",
+            "He packed his bag haphazardly.",
+            "The books were stacked haphazardly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hapless",
+    "say": "HAP-lis",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Unlucky.",
+          "examples": [
+            "The hapless fox.",
+            "A hapless boy.",
+            "The hapless hero."
+          ]
+        },
+        "more": {
+          "def": "Having no luck; unfortunate.",
+          "examples": [
+            "The hapless fox fell into the pit.",
+            "A hapless boy lost his hat.",
+            "The hapless hero tripped and spilled the soup."
           ]
         }
       }
@@ -1986,6 +2916,34 @@
     ]
   },
   {
+    "word": "hardback",
+    "say": "HARD-bak",
+    "forms": [
+      "hardbacks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A book with a stiff cover.",
+          "examples": [
+            "It is a hardback.",
+            "The hardback is heavy.",
+            "I read a hardback."
+          ]
+        },
+        "more": {
+          "def": "A book with a hard, stiff cover.",
+          "examples": [
+            "I borrowed a hardback from the library.",
+            "A hardback lasts longer than a paperback.",
+            "The hardback was heavy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hardball",
     "say": "HARD-bawl",
     "senses": [
@@ -2005,6 +2963,34 @@
             "The older boys played hardball in the park.",
             "He pitched in hardball during high school.",
             "The coach used hardball tactics to win."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hardcover",
+    "say": "HARD-kuv-er",
+    "forms": [
+      "hardcovers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A book with a stiff cover.",
+          "examples": [
+            "It is a hardcover.",
+            "The hardcover is heavy.",
+            "I read a hardcover."
+          ]
+        },
+        "more": {
+          "def": "A book with a stiff, hard cover.",
+          "examples": [
+            "The library has the book in hardcover.",
+            "The hardcover costs more than the paperback.",
+            "She gave him a hardcover for his birthday."
           ]
         }
       }
@@ -2216,6 +3202,41 @@
     ]
   },
   {
+    "word": "hardy",
+    "say": "HAR-dee",
+    "forms": [
+      "hardier",
+      "hardiest"
+    ],
+    "related": [
+      {
+        "word": "hardiness",
+        "def": "Being strong and able to live through hard times."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Strong and not hurt by cold or hard times.",
+          "examples": [
+            "The hardy plant grew in snow.",
+            "A hardy pony can stay out in winter.",
+            "She is a hardy walker."
+          ]
+        },
+        "more": {
+          "def": "Strong and able to live through cold weather or other hard conditions.",
+          "examples": [
+            "Hardy plants can live through a long, cold winter.",
+            "The hardy sheep lived on the windy hills.",
+            "They were hardy hikers who climbed in all kinds of weather."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hare",
     "say": "hair",
     "emoji": "🐇",
@@ -2269,6 +3290,34 @@
             "\"Hark! I hear a bell,\" said the knight.",
             "In the old song, the choir sings, \"Hark, the herald angels sing.\"",
             "The storyteller said, \"Hark, and I will tell you a tale.\""
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "harlequin",
+    "say": "HAR-lih-kwin",
+    "forms": [
+      "harlequins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A clown in a diamond-patterned costume.",
+          "examples": [
+            "The harlequin danced.",
+            "A harlequin wears diamonds.",
+            "The harlequin was funny."
+          ]
+        },
+        "more": {
+          "def": "A comic character in old plays who wears a costume with a pattern of colored diamonds.",
+          "examples": [
+            "The harlequin tumbled across the stage.",
+            "A harlequin wore a mask and a diamond-patterned suit.",
+            "The harlequin made the crowd laugh."
           ]
         }
       }
@@ -2374,6 +3423,31 @@
     ]
   },
   {
+    "word": "harmlessly",
+    "say": "HARM-less-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that does no harm.",
+          "examples": [
+            "The snake slid by harmlessly.",
+            "The bee flew harmlessly.",
+            "The ball bounced harmlessly."
+          ]
+        },
+        "more": {
+          "def": "In a way that does not cause any harm or damage.",
+          "examples": [
+            "The bee buzzed harmlessly around the flower.",
+            "The ball bounced harmlessly off the wall.",
+            "The snake slid harmlessly through the grass."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "harmonica",
     "say": "har-MON-ih-kuh",
     "forms": [
@@ -2396,6 +3470,64 @@
             "He played a tune on his harmonica around the campfire.",
             "A harmonica is small enough to fit in your pocket.",
             "The cowboy in the story played a sad song on the harmonica."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "harmonium",
+    "say": "har-MOH-nee-um",
+    "forms": [
+      "harmoniums"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small organ that you pump with your feet.",
+          "examples": [
+            "A harmonium is an organ.",
+            "The harmonium has keys.",
+            "She plays the harmonium."
+          ]
+        },
+        "more": {
+          "def": "A small keyboard instrument like an organ that makes sound when air is pumped through it.",
+          "examples": [
+            "Grandma played the harmonium.",
+            "A harmonium is a small organ.",
+            "The harmonium wheezed as she pumped."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "harmonize",
+    "say": "HAR-muh-nyz",
+    "forms": [
+      "harmonizes",
+      "harmonized",
+      "harmonizing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To sing together in a pleasing way.",
+          "examples": [
+            "They harmonize.",
+            "The birds harmonized.",
+            "The choir harmonized."
+          ]
+        },
+        "more": {
+          "def": "To sing or play different notes together so that they sound pleasing.",
+          "examples": [
+            "The two sisters harmonize beautifully.",
+            "The choir harmonized on the last verse.",
+            "The colors harmonize well."
           ]
         }
       }
@@ -2532,6 +3664,62 @@
     ]
   },
   {
+    "word": "harpist",
+    "say": "HAR-pist",
+    "forms": [
+      "harpists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who plays the harp.",
+          "examples": [
+            "The harpist played.",
+            "A harpist plucks strings.",
+            "The harpist smiled."
+          ]
+        },
+        "more": {
+          "def": "A person who plays the harp.",
+          "examples": [
+            "The harpist played a soft tune.",
+            "A harpist plucks the strings.",
+            "The harpist sat beside the stage."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "harpsichord",
+    "say": "HARP-sih-kord",
+    "forms": [
+      "harpsichords"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An old instrument like a small piano.",
+          "examples": [
+            "She played the harpsichord.",
+            "The harpsichord has keys.",
+            "A harpsichord sounds old."
+          ]
+        },
+        "more": {
+          "def": "An old musical instrument like a piano, but whose strings are plucked, not hit.",
+          "examples": [
+            "She played a tune on the harpsichord.",
+            "The harpsichord has a bright, twangy sound.",
+            "Long ago, the harpsichord was played in palaces."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "harsh",
     "say": "harsh",
     "forms": [
@@ -2652,6 +3840,34 @@
     ]
   },
   {
+    "word": "hashtag",
+    "say": "HASH-tag",
+    "forms": [
+      "hashtags"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word with a # sign in front.",
+          "examples": [
+            "A hashtag starts with #.",
+            "She used a hashtag.",
+            "The hashtag is fun."
+          ]
+        },
+        "more": {
+          "def": "A word or phrase with a # sign in front, used online to mark a topic.",
+          "examples": [
+            "She added a hashtag to her post.",
+            "A hashtag groups posts about the same topic.",
+            "The hashtag was #summerfun."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hassle",
     "say": "HAS-ul",
     "forms": [
@@ -2726,6 +3942,36 @@
     ]
   },
   {
+    "word": "hasten",
+    "say": "HAY-sun",
+    "forms": [
+      "hastens",
+      "hastened",
+      "hastening"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To hurry or move fast.",
+          "examples": [
+            "We hasten home.",
+            "She hastened to the door.",
+            "He hastened to help."
+          ]
+        },
+        "more": {
+          "def": "To hurry, or to make something happen sooner.",
+          "examples": [
+            "We hastened home when the sky turned dark.",
+            "She hastened to the door when the bell rang.",
+            "He hastened to say sorry for his mistake."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hastily",
     "say": "HAYS-tih-lee",
     "senses": [
@@ -2778,6 +4024,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "hastiness",
+        "def": "Being too quick."
+      }
     ]
   },
   {
@@ -2804,6 +4056,40 @@
             "She wore a straw hat to keep off the sun.",
             "He pulled his wool hat over his ears.",
             "A tall hat sat on the clown's head."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "hatless",
+        "def": "Not wearing a hat."
+      }
+    ]
+  },
+  {
+    "word": "hatbox",
+    "say": "HAT-boks",
+    "forms": [
+      "hatboxes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round box for storing a hat.",
+          "examples": [
+            "The hat is in the hatbox.",
+            "The hatbox is round.",
+            "She opened the hatbox."
+          ]
+        },
+        "more": {
+          "def": "A box, usually round, made to store a hat.",
+          "examples": [
+            "Grandma kept her best hat in a round hatbox.",
+            "The hatbox was tied with a ribbon.",
+            "He found old letters in the hatbox."
           ]
         }
       }
@@ -2841,6 +4127,34 @@
     ]
   },
   {
+    "word": "hatchery",
+    "say": "HACH-er-ee",
+    "forms": [
+      "hatcheries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where eggs are hatched.",
+          "examples": [
+            "The hatchery has eggs.",
+            "Fish hatch in the hatchery.",
+            "A hatchery is full of chicks."
+          ]
+        },
+        "more": {
+          "def": "A place where eggs, especially of fish or chickens, are hatched.",
+          "examples": [
+            "The fish hatchery raises young trout.",
+            "Chicks hatched at the hatchery.",
+            "The hatchery keeps the eggs warm."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hatchet",
     "say": "HACH-it",
     "forms": [
@@ -2863,6 +4177,62 @@
             "Dad used a hatchet to chop kindling for the campfire.",
             "The hatchet is a tool that must be used carefully.",
             "A hatchet hung on the wall of the shed."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hatchling",
+    "say": "HACH-ling",
+    "forms": [
+      "hatchlings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A baby that has just come out of an egg.",
+          "examples": [
+            "A hatchling cracked its egg.",
+            "The hatchling is tiny.",
+            "The turtle hatchling."
+          ]
+        },
+        "more": {
+          "def": "A young bird, turtle or reptile that has just come out of its egg.",
+          "examples": [
+            "A turtle hatchling crawled to the sea.",
+            "The hatchling cracked out of its shell.",
+            "Each hatchling is very small and weak."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hatchway",
+    "say": "HACH-way",
+    "forms": [
+      "hatchways"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A square opening in a floor or deck.",
+          "examples": [
+            "He climbed through the hatchway.",
+            "The hatchway was open.",
+            "The sailor went down the hatchway."
+          ]
+        },
+        "more": {
+          "def": "A square opening in a ship's deck or in a floor or roof, with a cover.",
+          "examples": [
+            "The sailor climbed down through the hatchway.",
+            "The hatchway led to the cargo hold.",
+            "He opened the hatchway in the attic floor."
           ]
         }
       }
@@ -2924,6 +4294,34 @@
     ]
   },
   {
+    "word": "hatpin",
+    "say": "HAT-pin",
+    "forms": [
+      "hatpins"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long pin used to hold a hat on.",
+          "examples": [
+            "She used a hatpin.",
+            "The hatpin is long.",
+            "A hatpin holds the hat."
+          ]
+        },
+        "more": {
+          "def": "A long pin used to fasten a hat to the hair.",
+          "examples": [
+            "She fastened her hat with a long hatpin.",
+            "A hatpin with a pearl top held the hat in place.",
+            "Grandma kept her hatpins in a small box."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hatred",
     "say": "HAY-trid",
     "senses": [
@@ -2943,6 +4341,69 @@
             "He felt hatred for the bully.",
             "The villain's hatred grew.",
             "Hatred makes problems worse."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hatter",
+    "say": "HAT-er",
+    "forms": [
+      "hatters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who makes or sells hats.",
+          "examples": [
+            "The hatter made a hat.",
+            "A hatter sells hats.",
+            "The hatter smiled."
+          ]
+        },
+        "more": {
+          "def": "A person who makes or sells hats.",
+          "examples": [
+            "The hatter measured his head for a new hat.",
+            "In the story, the Mad Hatter held a tea party.",
+            "The hatter sewed a ribbon on the hat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "haughty",
+    "say": "HAW-tee",
+    "forms": [
+      "haughtier",
+      "haughtiest"
+    ],
+    "related": [
+      {
+        "word": "haughtiness",
+        "def": "Being haughty; acting proud and above others."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Proud and thinking you are better than others.",
+          "examples": [
+            "The haughty cat ignored us.",
+            "The queen was haughty.",
+            "A haughty smile."
+          ]
+        },
+        "more": {
+          "def": "Proud in a way that looks down on other people.",
+          "examples": [
+            "The haughty cat ignored all of us.",
+            "The haughty queen would not talk to the servants.",
+            "He gave a haughty look and walked past."
           ]
         }
       }
@@ -2973,6 +4434,34 @@
             "The truck hauled a load of sand.",
             "They hauled the boat up the beach.",
             "She hauled the heavy bags up the stairs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "haunch",
+    "say": "haunch",
+    "forms": [
+      "haunches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The back leg and hip of an animal.",
+          "examples": [
+            "The dog sat on its haunches.",
+            "The horse's haunch was brown.",
+            "The deer's haunch."
+          ]
+        },
+        "more": {
+          "def": "The top part of an animal's back leg, or the hip and upper leg of a person.",
+          "examples": [
+            "The dog sat down on its haunches and waited.",
+            "The horse's strong haunches pushed it forward.",
+            "The cat crouched on its haunches before it jumped."
           ]
         }
       }
@@ -3039,6 +4528,34 @@
     ]
   },
   {
+    "word": "haven",
+    "say": "HAY-vun",
+    "forms": [
+      "havens"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A safe place.",
+          "examples": [
+            "The barn was a haven.",
+            "The park is a haven.",
+            "The cave was a haven from the rain."
+          ]
+        },
+        "more": {
+          "def": "A place of safety or rest.",
+          "examples": [
+            "The cave was a safe haven from the storm.",
+            "The library is a quiet haven for readers.",
+            "The garden became a haven for birds."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "havoc",
     "say": "HAV-uk",
     "senses": [
@@ -3064,6 +4581,63 @@
     ]
   },
   {
+    "word": "hawk",
+    "say": "hawk",
+    "emoji": "🦅",
+    "forms": [
+      "hawks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big bird that hunts small animals.",
+          "examples": [
+            "A hawk flew high.",
+            "The hawk has sharp claws.",
+            "I saw a hawk in the sky."
+          ]
+        },
+        "more": {
+          "def": "A large bird with sharp claws and a hooked beak, that hunts small animals.",
+          "examples": [
+            "The hawk circled high above the field.",
+            "A hawk swooped down to catch a mouse.",
+            "The hawk watched the meadow with its sharp eyes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hawthorn",
+    "say": "HAW-thorn",
+    "forms": [
+      "hawthorns"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small tree with sharp points and red fruit.",
+          "examples": [
+            "The hawthorn has thorns.",
+            "Birds eat the hawthorn berries.",
+            "A hawthorn grew by the gate."
+          ]
+        },
+        "more": {
+          "def": "A small tree or bush with white flowers in spring, sharp thorns and small red berries.",
+          "examples": [
+            "Birds feasted on the red berries of the hawthorn.",
+            "The hawthorn in the hedge bloomed white in May.",
+            "A thick hawthorn hedge kept the sheep in the field."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hay",
     "say": "hay",
     "senses": [
@@ -3083,6 +4657,62 @@
             "The horses ate hay in the barn.",
             "The farmer stacked bales of hay.",
             "We jumped into the pile of hay."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hayfield",
+    "say": "HAY-feeld",
+    "forms": [
+      "hayfields"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A field of grass grown for animals.",
+          "examples": [
+            "The hayfield is golden.",
+            "The farmer cut the hayfield.",
+            "We ran in the hayfield."
+          ]
+        },
+        "more": {
+          "def": "A field of grass that is grown and cut for hay.",
+          "examples": [
+            "The farmer mowed the hayfield.",
+            "We played in the hayfield.",
+            "The hayfield smelled sweet."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hayloft",
+    "say": "HAY-loft",
+    "forms": [
+      "haylofts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The space above a barn for dry grass.",
+          "examples": [
+            "The hay is in the hayloft.",
+            "We climbed up to the hayloft.",
+            "The hayloft is high."
+          ]
+        },
+        "more": {
+          "def": "A space under the roof of a barn where hay is stored.",
+          "examples": [
+            "We climbed the ladder to the hayloft.",
+            "The cat slept in the hayloft.",
+            "Sunlight came through the cracks in the hayloft."
           ]
         }
       }
@@ -3246,6 +4876,78 @@
             "A summer haze covered the valley and hid the far hills.",
             "Haze from the distant fire turned the sun a dull orange.",
             "A morning haze rose from the warm lake."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hazel",
+    "say": "HAY-zul",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A light brown color with some green or gold in it.",
+          "examples": [
+            "Her eyes are hazel.",
+            "Hazel is a mix of brown and green.",
+            "My cat has hazel eyes."
+          ]
+        },
+        "more": {
+          "def": "A light brown color with a touch of green or gold, often used to describe eyes.",
+          "examples": [
+            "Her hazel eyes seemed to change color in the sunlight.",
+            "The artist mixed brown and green to make hazel.",
+            "He has hazel eyes and curly brown hair."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small tree that makes nuts you can eat.",
+          "examples": [
+            "We found a hazel tree.",
+            "Nuts grow on a hazel.",
+            "The hazel is small."
+          ]
+        },
+        "more": {
+          "def": "A small tree or bush with round nuts called hazelnuts.",
+          "examples": [
+            "Squirrels gather nuts from the hazel in autumn.",
+            "A hazel hedge grew along the edge of the field.",
+            "The branches of the hazel are bendy and thin."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hazelnut",
+    "say": "HAY-zul-nut",
+    "forms": [
+      "hazelnuts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small round brown nut.",
+          "examples": [
+            "I ate a hazelnut.",
+            "The hazelnut is small.",
+            "Squirrels eat hazelnuts."
+          ]
+        },
+        "more": {
+          "def": "A small, round, brown nut that grows on a hazel tree.",
+          "examples": [
+            "Squirrels gather hazelnuts in the fall.",
+            "Chocolate spread is often made with hazelnuts.",
+            "He cracked a hazelnut with the nutcracker."
           ]
         }
       }

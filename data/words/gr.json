@@ -36,6 +36,68 @@
     ]
   },
   {
+    "word": "grabber",
+    "say": "GRAB-er",
+    "forms": [
+      "grabbers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thing or person that grabs.",
+          "examples": [
+            "The grabber picked it up.",
+            "A grabber has a long arm.",
+            "He used a grabber."
+          ]
+        },
+        "more": {
+          "def": "A tool with a long handle used to pick up things you cannot reach.",
+          "examples": [
+            "He used a grabber to reach the trash.",
+            "A grabber picks things up from far away.",
+            "The grabber held the can."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grace",
+    "say": "grayss",
+    "forms": [
+      "graceful"
+    ],
+    "related": [
+      {
+        "word": "graceless",
+        "def": "Without grace."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A smooth and beautiful way of moving.",
+          "examples": [
+            "She moves with grace.",
+            "The swan swam with grace.",
+            "He danced with grace."
+          ]
+        },
+        "more": {
+          "def": "A smooth, easy and beautiful way of moving or acting.",
+          "examples": [
+            "The dancer crossed the stage with grace.",
+            "The cat jumped onto the shelf with grace.",
+            "She accepted the prize with grace and thanked everyone."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "graceful",
     "say": "GRAYSS-ful",
     "senses": [
@@ -57,6 +119,12 @@
             "The bridge has a long, graceful curve."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "gracefulness",
+        "def": "Moving in a smooth, pretty way."
       }
     ]
   },
@@ -83,6 +151,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "ungracefully",
+        "def": "In a clumsy way."
+      }
     ]
   },
   {
@@ -108,6 +182,44 @@
             "The gracious host welcomed everyone warmly.",
             "She was gracious when she lost.",
             "He gave a gracious thank-you speech."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "graciousness",
+        "def": "Being kind and polite."
+      },
+      {
+        "word": "ungracious",
+        "def": "Not kind or polite."
+      }
+    ]
+  },
+  {
+    "word": "grackle",
+    "say": "GRAK-ul",
+    "forms": [
+      "grackles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shiny black bird.",
+          "examples": [
+            "A grackle is a bird.",
+            "The grackle is black.",
+            "I saw a grackle."
+          ]
+        },
+        "more": {
+          "def": "A noisy, shiny black bird with a long tail.",
+          "examples": [
+            "A grackle hopped across the parking lot.",
+            "The grackle is black with a purple shine.",
+            "Grackles often gather in large noisy flocks."
           ]
         }
       }
@@ -344,6 +456,59 @@
     ]
   },
   {
+    "word": "grafting",
+    "say": "GRAF-ting",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Joining a branch of one plant to another plant.",
+          "examples": [
+            "Grafting joins plants.",
+            "The orchard used grafting.",
+            "Grafting makes new fruit."
+          ]
+        },
+        "more": {
+          "def": "Joining a branch or bud of one plant onto another plant so they grow together.",
+          "examples": [
+            "Grafting a branch onto a tree gives new apples.",
+            "Grafting helps plants grow better fruit.",
+            "He learned grafting from his grandfather."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grail",
+    "say": "grayl",
+    "forms": [
+      "grails"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A cup from old stories, said to be magic.",
+          "examples": [
+            "The knight searched for the grail.",
+            "The grail is a cup.",
+            "The grail was golden."
+          ]
+        },
+        "more": {
+          "def": "A magical cup in old stories that knights were said to search for.",
+          "examples": [
+            "The knight searched for the Holy Grail.",
+            "In the tale, the grail was a golden cup.",
+            "Searching for the grail took years."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "grain",
     "say": "grayn",
     "forms": [
@@ -444,6 +609,93 @@
             "In grammar class we learned how to use a comma correctly.",
             "Good grammar helps other people understand what you write.",
             "She checked the grammar in her story before she handed it in."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grammatical",
+    "say": "gruh-MAT-ih-kul",
+    "related": [
+      {
+        "word": "ungrammatical",
+        "def": "Not following grammar rules."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Following the rules of grammar.",
+          "examples": [
+            "That sentence is grammatical.",
+            "A grammatical error.",
+            "Grammatical rules."
+          ]
+        },
+        "more": {
+          "def": "Following the rules of correct language.",
+          "examples": [
+            "The sentence is grammatical.",
+            "She checked for grammatical errors.",
+            "The teacher explained the grammatical rule."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gramophone",
+    "say": "GRAM-uh-fohn",
+    "forms": [
+      "gramophones"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An old machine that plays records.",
+          "examples": [
+            "Grandpa has a gramophone.",
+            "The gramophone plays music.",
+            "A gramophone has a horn."
+          ]
+        },
+        "more": {
+          "def": "An old kind of record player, often with a large horn that makes the sound louder.",
+          "examples": [
+            "The old gramophone played scratchy songs.",
+            "Grandpa wound up the gramophone before the music.",
+            "The record spun on the gramophone."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "granary",
+    "say": "GRAN-uh-ree",
+    "forms": [
+      "granaries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A building where grain is stored.",
+          "examples": [
+            "The granary holds grain.",
+            "The granary is full.",
+            "A granary is on the farm."
+          ]
+        },
+        "more": {
+          "def": "A building where wheat is kept.",
+          "examples": [
+            "The farmer filled the granary with wheat.",
+            "Mice got into the old granary.",
+            "The granary stood beside the barn."
           ]
         }
       }
@@ -591,6 +843,31 @@
     ]
   },
   {
+    "word": "grandeur",
+    "say": "GRAN-jer",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Great beauty and size.",
+          "examples": [
+            "The castle's grandeur.",
+            "We saw the grandeur of the sea.",
+            "The grandeur of the hall was clear."
+          ]
+        },
+        "more": {
+          "def": "Great beauty, size and splendor that impresses people.",
+          "examples": [
+            "We admired the grandeur of the mountains.",
+            "The visitors were awed by the grandeur of the palace.",
+            "The grandeur of the waterfall took our breath away."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "grandfather",
     "say": "GRAND-fah-ther",
     "emoji": "👴",
@@ -614,6 +891,31 @@
             "My grandfather taught me to play chess.",
             "Her grandfather grows tomatoes in his garden.",
             "He built a treehouse with his grandfather."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grandly",
+    "say": "GRAND-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a big and fancy way.",
+          "examples": [
+            "The king entered grandly.",
+            "She grandly waved.",
+            "They lived grandly."
+          ]
+        },
+        "more": {
+          "def": "In an impressive, fancy way that makes people notice.",
+          "examples": [
+            "The king grandly entered the hall.",
+            "She grandly announced that dinner was ready.",
+            "The mayor grandly cut the ribbon."
           ]
         }
       }
@@ -867,6 +1169,83 @@
     ]
   },
   {
+    "word": "grant",
+    "say": "grant",
+    "forms": [
+      "grants",
+      "granted",
+      "granting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To give or allow something.",
+          "examples": [
+            "The king granted her wish.",
+            "Mom granted me an extra story.",
+            "They granted us time."
+          ]
+        },
+        "more": {
+          "def": "To give someone something they have asked for, or to agree to let them have it.",
+          "examples": [
+            "The teacher granted us extra time to finish the test.",
+            "The genie granted the boy three wishes.",
+            "The city granted the school money for a new playground."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money you get to help pay for something.",
+          "examples": [
+            "The school got a grant.",
+            "The grant paid for books.",
+            "They won a grant."
+          ]
+        },
+        "more": {
+          "def": "Money that is given to a person or group for a particular purpose, which does not have to be paid back.",
+          "examples": [
+            "The library received a grant to buy new books.",
+            "A grant helped the scientists study the river.",
+            "The school used a grant to build a garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "granule",
+    "say": "GRAN-yool",
+    "forms": [
+      "granules"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tiny grain.",
+          "examples": [
+            "A granule is tiny.",
+            "Each granule is small.",
+            "The granule of sugar."
+          ]
+        },
+        "more": {
+          "def": "A small grain or particle of something.",
+          "examples": [
+            "A granule of sugar fell on the floor.",
+            "Sand is made of tiny granules.",
+            "The medicine came as granules you mix with water."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "grape",
     "say": "grayp",
     "emoji": "🍇",
@@ -1047,6 +1426,31 @@
             "The video game has amazing graphics that look real.",
             "The poster had bright, bold graphics.",
             "She studies computer graphics at school."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "graphite",
+    "say": "GRAF-yt",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The soft black stuff in a pencil.",
+          "examples": [
+            "A pencil has graphite.",
+            "Graphite is gray.",
+            "Graphite writes."
+          ]
+        },
+        "more": {
+          "def": "A soft, dark gray form of carbon used as the \"lead\" in pencils.",
+          "examples": [
+            "Pencils are made with graphite.",
+            "Graphite leaves a gray mark on paper.",
+            "The graphite in my pencil broke."
           ]
         }
       }
@@ -1309,6 +1713,31 @@
     ]
   },
   {
+    "word": "gratefully",
+    "say": "GRAYT-ful-ee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that shows thanks.",
+          "examples": [
+            "She gratefully took the gift.",
+            "He gratefully said thank you.",
+            "The dog gratefully ate."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows you are thankful.",
+          "examples": [
+            "She gratefully accepted a ride home in the rain.",
+            "The hungry hikers gratefully ate the hot soup.",
+            "He gratefully shook the helper's hand."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "gratification",
     "say": "grat-ih-fih-KAY-shun",
     "senses": [
@@ -1328,6 +1757,36 @@
             "She felt gratification after finishing the puzzle.",
             "He felt gratification when his plant grew.",
             "The gratification of winning made him smile."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gratify",
+    "say": "GRAT-ih-fy",
+    "forms": [
+      "gratifies",
+      "gratified",
+      "gratifying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To please someone.",
+          "examples": [
+            "Your success gratifies me.",
+            "The praise gratified her.",
+            "It gratified him."
+          ]
+        },
+        "more": {
+          "def": "To please or satisfy someone.",
+          "examples": [
+            "It gratified her to see her friends so happy.",
+            "The praise from the coach gratified the whole team.",
+            "He was gratified by the kind note."
           ]
         }
       }
@@ -1431,6 +1890,84 @@
     ]
   },
   {
+    "word": "gravelly",
+    "say": "GRAV-ul-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Rough and low, like a voice with grit.",
+          "examples": [
+            "His voice was gravelly.",
+            "A gravelly road.",
+            "A gravelly voice."
+          ]
+        },
+        "more": {
+          "def": "Covered with small stones, or low and rough in sound.",
+          "examples": [
+            "The gravelly path crunched underfoot.",
+            "The old sailor had a deep, gravelly voice.",
+            "The driveway was gravelly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gravely",
+    "say": "GRAYV-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a very serious way.",
+          "examples": [
+            "He spoke gravely.",
+            "She nodded gravely.",
+            "The man gravely shook his head."
+          ]
+        },
+        "more": {
+          "def": "In a serious and quiet way, because the matter is important.",
+          "examples": [
+            "The captain nodded gravely and gave the order.",
+            "\"We must be careful,\" he said gravely.",
+            "The doctor spoke gravely to the family."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gravestone",
+    "say": "GRAYV-stohn",
+    "forms": [
+      "gravestones"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A stone with a name on it, in a place where people are buried.",
+          "examples": [
+            "The gravestone has a name.",
+            "We saw a gravestone.",
+            "The gravestone was old."
+          ]
+        },
+        "more": {
+          "def": "A stone set up in a graveyard with the name of a person who has died.",
+          "examples": [
+            "The old gravestone had a name carved on it.",
+            "Flowers lay beside the gravestone.",
+            "We found the name on the gravestone."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "graveyard",
     "say": "GRAYV-yard",
     "forms": [
@@ -1453,6 +1990,61 @@
             "The graveyard was quiet and still.",
             "The old graveyard stood behind the church.",
             "Stone markers filled the graveyard."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gravitate",
+    "say": "GRAV-ih-tayt",
+    "forms": [
+      "gravitates",
+      "gravitated",
+      "gravitating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To be drawn toward something.",
+          "examples": [
+            "Kids gravitate to the pool.",
+            "The cat gravitates to the sun.",
+            "They gravitated to the food."
+          ]
+        },
+        "more": {
+          "def": "To move toward something you like.",
+          "examples": [
+            "The kids gravitated toward the pool.",
+            "The cat gravitates toward the warm spot.",
+            "People gravitate to the shady side of the street."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gravitational",
+    "say": "grav-ih-TAY-shun-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About the pull that keeps us on the ground.",
+          "examples": [
+            "A gravitational pull.",
+            "The gravitational force.",
+            "Gravitational forces."
+          ]
+        },
+        "more": {
+          "def": "Having to do with the force that pulls objects toward each other.",
+          "examples": [
+            "The moon's gravitational pull makes tides.",
+            "Gravitational force keeps us on the ground.",
+            "The sun's gravitational pull holds the planets in orbit."
           ]
         }
       }
@@ -1553,6 +2145,31 @@
             "Gray is what you get when black meets white.",
             "The artist painted the storm clouds in gray.",
             "The sea was a flat gray."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grayish",
+    "say": "GRAY-ish",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A little gray.",
+          "examples": [
+            "The sky was grayish.",
+            "A grayish cat.",
+            "The grayish water."
+          ]
+        },
+        "more": {
+          "def": "Somewhat gray in color.",
+          "examples": [
+            "The sky turned grayish before the storm.",
+            "A grayish fog hung over the town.",
+            "The cat had grayish fur."
           ]
         }
       }
@@ -1717,6 +2334,34 @@
     ]
   },
   {
+    "word": "greatcoat",
+    "say": "GRAYT-koht",
+    "forms": [
+      "greatcoats"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A heavy, long coat for cold weather.",
+          "examples": [
+            "He wore a greatcoat.",
+            "The greatcoat is warm.",
+            "A greatcoat is long."
+          ]
+        },
+        "more": {
+          "def": "A long, heavy overcoat worn in cold weather.",
+          "examples": [
+            "The soldier wore a long gray greatcoat.",
+            "He buttoned his greatcoat against the wind.",
+            "The greatcoat reached his ankles."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "greatly",
     "say": "GRAYT-lee",
     "senses": [
@@ -1767,6 +2412,34 @@
     ]
   },
   {
+    "word": "grebe",
+    "say": "GREEB",
+    "forms": [
+      "grebes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A diving water bird.",
+          "examples": [
+            "A grebe is a bird.",
+            "The grebe dives.",
+            "I saw a grebe."
+          ]
+        },
+        "more": {
+          "def": "A water bird with a pointed bill that dives to catch fish.",
+          "examples": [
+            "A grebe dove under the water.",
+            "The grebe builds a floating nest.",
+            "Grebes have lobed toes for swimming."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "greed",
     "say": "greed",
     "forms": [
@@ -1789,6 +2462,31 @@
             "Greed made him take every piece of candy for himself.",
             "The old story shows how greed can make people unhappy.",
             "The king's greed for gold was never satisfied."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "greedily",
+    "say": "GREE-dih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that wants too much.",
+          "examples": [
+            "The pig ate greedily.",
+            "He greedily grabbed.",
+            "The dog gulped the food greedily."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows you want more than your share.",
+          "examples": [
+            "The puppy gulped down its food greedily.",
+            "He greedily grabbed the biggest piece of cake.",
+            "The crow greedily snatched the bread."
           ]
         }
       }
@@ -1820,6 +2518,12 @@
             "It would be greedy to take more than your share."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "greediness",
+        "def": "Wanting too much."
       }
     ]
   },
@@ -1962,6 +2666,34 @@
     ]
   },
   {
+    "word": "greeter",
+    "say": "GREE-ter",
+    "forms": [
+      "greeters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who welcomes people.",
+          "examples": [
+            "The greeter said hello.",
+            "A greeter welcomes people.",
+            "The greeter smiled."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to welcome people as they arrive.",
+          "examples": [
+            "The greeter at the door said hello.",
+            "A greeter smiled at each guest.",
+            "The greeter handed me a map."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "greeting",
     "say": "GREE-ting",
     "forms": [
@@ -1984,6 +2716,31 @@
             "\"Hello\" is a common greeting.",
             "She gave us a warm greeting at the door.",
             "I sent a greeting card for her birthday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gregarious",
+    "say": "grih-GAIR-ee-us",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Liking to be with other people.",
+          "examples": [
+            "A gregarious girl.",
+            "The gregarious puppy.",
+            "He is gregarious."
+          ]
+        },
+        "more": {
+          "def": "Enjoying the company of others; sociable.",
+          "examples": [
+            "The gregarious girl loved parties.",
+            "Sheep are gregarious animals.",
+            "He is gregarious and talks to everyone."
           ]
         }
       }
@@ -2068,6 +2825,34 @@
             "The map has a grid of lines to help you find a place.",
             "We drew a grid on the page to plot the numbers.",
             "The city streets are laid out like a grid of squares."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "griddle",
+    "say": "GRID-ul",
+    "forms": [
+      "griddles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flat pan for cooking pancakes.",
+          "examples": [
+            "Mom cooked on the griddle.",
+            "The griddle is hot.",
+            "Pancakes cook on a griddle."
+          ]
+        },
+        "more": {
+          "def": "A flat metal surface or pan used for cooking pancakes and eggs.",
+          "examples": [
+            "Dad flipped pancakes on the griddle.",
+            "The griddle sizzled when the batter touched it.",
+            "Grandma kept her cast-iron griddle on the stove."
           ]
         }
       }
@@ -2229,6 +3014,12 @@
             "It was a grim day when the old library closed."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "grimness",
+        "def": "Being stern and gloomy."
       }
     ]
   },
@@ -2443,6 +3234,34 @@
     ]
   },
   {
+    "word": "grindstone",
+    "say": "GRYND-stohn",
+    "forms": [
+      "grindstones"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round stone that turns to make tools sharp.",
+          "examples": [
+            "He used a grindstone.",
+            "The grindstone sharpened the knife.",
+            "The grindstone spins."
+          ]
+        },
+        "more": {
+          "def": "A round stone that turns, used for sharpening tools or grinding grain.",
+          "examples": [
+            "The farmer sharpened his ax on the grindstone.",
+            "The grindstone turned as he pedaled.",
+            "Sparks flew from the grindstone."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "grip",
     "say": "grip",
     "forms": [
@@ -2541,6 +3360,31 @@
     ]
   },
   {
+    "word": "gristle",
+    "say": "GRIS-ul",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Tough, chewy part of meat.",
+          "examples": [
+            "The meat had gristle.",
+            "I spat out the gristle.",
+            "Gristle is chewy."
+          ]
+        },
+        "more": {
+          "def": "The tough, chewy part of meat.",
+          "examples": [
+            "The steak had a piece of gristle I could not chew.",
+            "Dogs love to chew gristle.",
+            "He cut away the gristle."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "grit",
     "say": "grit",
     "forms": [
@@ -2619,6 +3463,31 @@
             "The sandwich was gritty from the beach.",
             "The gritty floor needed sweeping.",
             "She is a gritty player who never quits."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grizzled",
+    "say": "GRIZ-uld",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having gray hair.",
+          "examples": [
+            "The grizzled man smiled.",
+            "A grizzled beard.",
+            "The grizzled sailor."
+          ]
+        },
+        "more": {
+          "def": "Having gray or graying hair, especially a beard.",
+          "examples": [
+            "The grizzled sailor told tales of the sea.",
+            "He had a grizzled beard and kind eyes.",
+            "A grizzled old dog slept by the fire."
           ]
         }
       }
@@ -2765,6 +3634,35 @@
     ]
   },
   {
+    "word": "groggy",
+    "say": "GROG-ee",
+    "forms": [
+      "groggier",
+      "groggiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sleepy and not thinking clearly.",
+          "examples": [
+            "I was groggy.",
+            "He felt groggy in the morning.",
+            "She was groggy after her nap."
+          ]
+        },
+        "more": {
+          "def": "Feeling sleepy and slow, as when you have just woken up.",
+          "examples": [
+            "He felt groggy when the alarm rang.",
+            "She was groggy after waking from a long nap.",
+            "The groggy boy stumbled to the bathroom."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "groom",
     "say": "groom",
     "forms": [
@@ -2903,6 +3801,66 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "grossness",
+        "def": "Being yucky."
+      }
+    ]
+  },
+  {
+    "word": "grotesque",
+    "say": "groh-TESK",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very strange and ugly.",
+          "examples": [
+            "The mask was grotesque.",
+            "A grotesque shape.",
+            "The monster was grotesque."
+          ]
+        },
+        "more": {
+          "def": "Very odd and ugly in a way that looks strange or silly.",
+          "examples": [
+            "The monster in the story had a grotesque face.",
+            "The carving on the old church was grotesque.",
+            "The costume was so grotesque it made us laugh."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grotto",
+    "say": "GROT-oh",
+    "forms": [
+      "grottoes",
+      "grottos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small cave.",
+          "examples": [
+            "We went into the grotto.",
+            "The grotto was cool.",
+            "A grotto is by the sea."
+          ]
+        },
+        "more": {
+          "def": "A small cave, especially one by the water or a decorated one in a garden.",
+          "examples": [
+            "We explored a cool grotto by the sea.",
+            "The garden had a stone grotto with a small fountain.",
+            "Light shimmered on the walls of the grotto."
+          ]
+        }
+      }
     ]
   },
   {
@@ -2988,6 +3946,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "groundless",
+        "def": "Having no good reason."
+      }
     ]
   },
   {
@@ -3014,6 +3978,59 @@
             "A groundhog dug a burrow under the garden fence.",
             "On Groundhog Day, people watch to see if the groundhog sees its shadow.",
             "The groundhog stuffed itself with clover before winter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "groundskeeper",
+    "say": "GROWNDZ-kee-per",
+    "forms": [
+      "groundskeepers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who takes care of a park or field.",
+          "examples": [
+            "The groundskeeper mowed the grass.",
+            "A groundskeeper works outside.",
+            "The groundskeeper watered the field."
+          ]
+        },
+        "more": {
+          "def": "A person whose job is to look after the grounds of a park, school or sports field.",
+          "examples": [
+            "The groundskeeper mowed the baseball field.",
+            "A groundskeeper keeps the park neat.",
+            "The groundskeeper raked the leaves."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "groundwater",
+    "say": "GROUND-waw-ter",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Water under the ground.",
+          "examples": [
+            "Wells reach groundwater.",
+            "Groundwater is underground.",
+            "The well has groundwater."
+          ]
+        },
+        "more": {
+          "def": "Water that is found under the ground, in soil and rocks.",
+          "examples": [
+            "The well pumps up groundwater.",
+            "Rain soaks in and becomes groundwater.",
+            "Farmers use groundwater for their crops."
           ]
         }
       }
@@ -3097,6 +4114,83 @@
     ]
   },
   {
+    "word": "grouse",
+    "say": "growss",
+    "forms": [
+      "grouses",
+      "groused",
+      "grousing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bird with brown feathers that nests on the ground.",
+          "examples": [
+            "A grouse hid in the grass.",
+            "The grouse is brown.",
+            "I saw a grouse."
+          ]
+        },
+        "more": {
+          "def": "A plump game bird with brown feathers that lives on moors and in forests.",
+          "examples": [
+            "A grouse hid in the heather.",
+            "The grouse flapped noisily into the air.",
+            "The brown grouse blends into the ground."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To complain.",
+          "examples": [
+            "He groused about the rain.",
+            "She groused about her work.",
+            "They grouse a lot."
+          ]
+        },
+        "more": {
+          "def": "To complain in a grumbling way.",
+          "examples": [
+            "He groused about the long line.",
+            "She groused about having to clean her room.",
+            "The campers groused about the cold."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grout",
+    "say": "growt",
+    "forms": [
+      "grouts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A paste that fills the cracks between tiles.",
+          "examples": [
+            "The grout is white.",
+            "Grout fills the cracks.",
+            "Dad put in grout."
+          ]
+        },
+        "more": {
+          "def": "A thin mix of cement and water used to fill the gaps between tiles.",
+          "examples": [
+            "Dad spread grout between the tiles.",
+            "The grout was white.",
+            "Old grout can crack."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "grove",
     "say": "grohv",
     "forms": [
@@ -3119,6 +4213,36 @@
             "We picnicked in a grove of pine trees.",
             "The orange grove smelled sweet.",
             "A grove of oaks stood by the stream."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grovel",
+    "say": "GROV-ul",
+    "forms": [
+      "grovels",
+      "grovelled",
+      "groveling"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To crawl on the ground or beg in a low way.",
+          "examples": [
+            "The dog groveled.",
+            "He groveled for forgiveness.",
+            "She groveled on the floor."
+          ]
+        },
+        "more": {
+          "def": "To crawl on the ground, or to act in a way that is too humble to please someone.",
+          "examples": [
+            "The servant groveled before the king.",
+            "He groveled in the dirt to look for his ring.",
+            "She refused to grovel for his forgiveness."
           ]
         }
       }
@@ -3415,6 +4539,56 @@
     ]
   },
   {
+    "word": "grudgingly",
+    "say": "GRUJ-ing-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In an unwilling way.",
+          "examples": [
+            "He grudgingly said yes.",
+            "She grudgingly helped.",
+            "They grudgingly agreed."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows you do not really want to.",
+          "examples": [
+            "He grudgingly agreed to share his toys.",
+            "She grudgingly helped clean the room.",
+            "The boy grudgingly put on his coat."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gruel",
+    "say": "GROO-ul",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thin, plain breakfast soup.",
+          "examples": [
+            "The children ate gruel.",
+            "Gruel is thin.",
+            "The gruel was plain."
+          ]
+        },
+        "more": {
+          "def": "A thin, watery food made of oats or other grains boiled in water or milk.",
+          "examples": [
+            "In the old story, the poor children ate gruel.",
+            "The cook stirred a pot of gruel.",
+            "He ate a bowl of plain gruel for breakfast."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "grueling",
     "say": "GROO-ling",
     "forms": [
@@ -3466,6 +4640,37 @@
             "The gruff old man had a deep voice.",
             "The captain gave a gruff order.",
             "Though he sounded gruff, he was kind."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "gruffness",
+        "def": "Being rough and harsh in voice."
+      }
+    ]
+  },
+  {
+    "word": "gruffly",
+    "say": "GRUF-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a rough, low voice.",
+          "examples": [
+            "He spoke gruffly.",
+            "\"Go away,\" he said gruffly.",
+            "The man grunted gruffly."
+          ]
+        },
+        "more": {
+          "def": "In a rough, deep voice, sometimes sounding unfriendly.",
+          "examples": [
+            "\"Come in,\" he said gruffly.",
+            "The old sailor gruffly told us to stay off the deck.",
+            "He gruffly cleared his throat and spoke."
           ]
         }
       }
@@ -3543,6 +4748,31 @@
             "He was a grump before breakfast.",
             "The old grump complained about the noise.",
             "Nobody wants to be a grump on a sunny day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "grumpily",
+    "say": "GRUM-pih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a cross, unhappy way.",
+          "examples": [
+            "He grumpily got up.",
+            "She grumpily ate her food.",
+            "The baby cried grumpily."
+          ]
+        },
+        "more": {
+          "def": "In a bad mood, in a way that shows you are cross.",
+          "examples": [
+            "He grumpily got out of bed.",
+            "She grumpily put away her toys.",
+            "The tired boy grumpily climbed into the car."
           ]
         }
       }

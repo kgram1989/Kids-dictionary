@@ -28,6 +28,87 @@
     ]
   },
   {
+    "word": "anagram",
+    "say": "AN-uh-gram",
+    "forms": [
+      "anagrams"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word made by mixing up the letters of another word.",
+          "examples": [
+            "An anagram uses the same letters.",
+            "I made an anagram.",
+            "\"Stop\" is an anagram of \"pots.\""
+          ]
+        },
+        "more": {
+          "def": "A word made by mixing up the letters of another word.",
+          "examples": [
+            "\"Listen\" is an anagram of \"silent.\"",
+            "She solved an anagram of the word \"heart.\"",
+            "An anagram uses all the same letters in a new order."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "analog",
+    "say": "AN-uh-log",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Showing time with hands, not numbers.",
+          "examples": [
+            "An analog clock has hands.",
+            "It is an analog watch.",
+            "Read the analog clock."
+          ]
+        },
+        "more": {
+          "def": "Describing a clock or watch that has hands that move, instead of showing numbers.",
+          "examples": [
+            "An analog clock has hands that go around.",
+            "Grandpa wears an analog watch.",
+            "I am learning to read an analog clock."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "analogy",
+    "say": "uh-NAL-uh-jee",
+    "forms": [
+      "analogies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A comparison that shows how things are alike.",
+          "examples": [
+            "He made an analogy.",
+            "An analogy compares things.",
+            "The analogy was clear."
+          ]
+        },
+        "more": {
+          "def": "A way of showing how two things are alike.",
+          "examples": [
+            "He used an analogy to explain.",
+            "\"A heart is like a pump\" is an analogy.",
+            "The teacher drew an analogy between the eye and a camera."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "analysis",
     "say": "uh-NAL-ih-sis",
     "forms": [
@@ -86,6 +167,31 @@
     ]
   },
   {
+    "word": "anatomy",
+    "say": "uh-NAT-uh-mee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way a body is built.",
+          "examples": [
+            "We study anatomy.",
+            "The anatomy of a frog.",
+            "Anatomy is about bodies."
+          ]
+        },
+        "more": {
+          "def": "The study of the parts of a body and how they fit together.",
+          "examples": [
+            "We studied the anatomy of a frog in science class.",
+            "Doctors learn anatomy to understand the human body.",
+            "The book showed the anatomy of a bird's wing."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ancestor",
     "say": "AN-ses-ter",
     "forms": [
@@ -108,6 +214,31 @@
             "My ancestors came to America on a ship from Ireland.",
             "We made a family tree to learn about our ancestors.",
             "One of my ancestors was a farmer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ancestral",
+    "say": "an-SES-trul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Belonging to your family from long ago.",
+          "examples": [
+            "The ancestral home.",
+            "An ancestral land.",
+            "The ancestral farm."
+          ]
+        },
+        "more": {
+          "def": "Having to do with family members who lived long ago.",
+          "examples": [
+            "The family returned to their ancestral home.",
+            "The ancestral farm had been in the family for ages.",
+            "Her ancestral land is by the sea."
           ]
         }
       }
@@ -164,6 +295,34 @@
             "The sailors dropped the anchor into the bay.",
             "The anchor kept the boat from drifting.",
             "The ship pulled up its anchor and sailed away."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "anchorage",
+    "say": "ANG-ker-ij",
+    "forms": [
+      "anchorages"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where ships can drop anchor.",
+          "examples": [
+            "The ship found an anchorage.",
+            "An anchorage is calm.",
+            "The anchorage is in a bay."
+          ]
+        },
+        "more": {
+          "def": "A safe place to park ships.",
+          "examples": [
+            "The ship found a calm anchorage in the bay.",
+            "The anchorage was protected from the wind.",
+            "Several boats rested at the anchorage."
           ]
         }
       }
@@ -277,6 +436,146 @@
     ]
   },
   {
+    "word": "andante",
+    "say": "ahn-DAHN-tay",
+    "forms": [
+      "andantes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A walking speed in music.",
+          "examples": [
+            "Andante is a speed.",
+            "The song is andante.",
+            "Play it andante."
+          ]
+        },
+        "more": {
+          "def": "A word in music for a moderate, walking pace.",
+          "examples": [
+            "The piece is marked andante.",
+            "Andante means a walking speed in music.",
+            "The slow part of the song was an andante."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "android",
+    "say": "AN-droyd",
+    "forms": [
+      "androids"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A robot that looks like a person.",
+          "examples": [
+            "An android is a robot.",
+            "The android walked.",
+            "The android spoke."
+          ]
+        },
+        "more": {
+          "def": "A robot made to look and act like a human being.",
+          "examples": [
+            "The android in the movie walked and talked.",
+            "An android has a human shape.",
+            "The android had metal arms and legs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "anecdote",
+    "say": "AN-ik-doht",
+    "forms": [
+      "anecdotes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short, funny story about something that happened.",
+          "examples": [
+            "Grandpa told an anecdote.",
+            "The anecdote was funny.",
+            "An anecdote is a short story."
+          ]
+        },
+        "more": {
+          "def": "A short story about something that really happened, often funny.",
+          "examples": [
+            "Grandpa told a funny anecdote about his dog.",
+            "The speaker began with an anecdote.",
+            "Her anecdote made us laugh."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "anemometer",
+    "say": "an-uh-MOM-ih-ter",
+    "forms": [
+      "anemometers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tool that measures wind speed.",
+          "examples": [
+            "An anemometer measures wind.",
+            "The anemometer spins.",
+            "The anemometer is on the roof."
+          ]
+        },
+        "more": {
+          "def": "An instrument that measures how fast the wind is blowing.",
+          "examples": [
+            "The anemometer spun in the wind.",
+            "An anemometer has cups that turn.",
+            "The weather station has an anemometer."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "anemone",
+    "say": "uh-NEM-uh-nee",
+    "forms": [
+      "anemones"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A flower, or a sea animal that looks like one.",
+          "examples": [
+            "The anemone is red.",
+            "Anemones grow in spring.",
+            "A sea anemone has arms."
+          ]
+        },
+        "more": {
+          "def": "A small garden flower; also a sea animal that looks like a flower and has soft arms.",
+          "examples": [
+            "Bright anemones bloomed in the spring garden.",
+            "A fish hid among the arms of a sea anemone.",
+            "The anemone waved its arms in the tide pool."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "anew",
     "say": "uh-NOO",
     "senses": [
@@ -350,6 +649,34 @@
     ]
   },
   {
+    "word": "angelfish",
+    "say": "AYN-jul-fish",
+    "forms": [
+      "angelfish"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pretty fish with big fins.",
+          "examples": [
+            "An angelfish is pretty.",
+            "The angelfish swims.",
+            "I saw an angelfish."
+          ]
+        },
+        "more": {
+          "def": "A flat, brightly colored tropical fish with a tall fin.",
+          "examples": [
+            "The angelfish glided through the tank.",
+            "An angelfish has long fins.",
+            "Angelfish are popular in aquariums."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "angelic",
     "say": "an-JEL-ik",
     "senses": [
@@ -369,6 +696,31 @@
             "The sleeping baby looked angelic.",
             "She sang with an angelic voice.",
             "The angelic child smiled sweetly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "angelica",
+    "say": "an-JEL-ih-kuh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A tall plant with green stems that is used in cooking.",
+          "examples": [
+            "Angelica is a plant.",
+            "The angelica is tall.",
+            "We grew angelica."
+          ]
+        },
+        "more": {
+          "def": "A tall plant with hollow green stems that are candied and used to decorate cakes.",
+          "examples": [
+            "The cake was decorated with candied angelica.",
+            "Angelica is a tall herb.",
+            "She grew angelica in the garden."
           ]
         }
       }
@@ -424,6 +776,84 @@
             "A square corner is a right angle.",
             "The two lines made a sharp angle.",
             "The picture hung at a strange angle."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "angler",
+    "say": "ANG-gler",
+    "forms": [
+      "anglers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who fishes with a rod.",
+          "examples": [
+            "The angler cast his line.",
+            "An angler catches fish.",
+            "The angler waited."
+          ]
+        },
+        "more": {
+          "def": "A person who fishes with a rod and line.",
+          "examples": [
+            "The angler cast his line into the river.",
+            "An angler waits patiently for a bite.",
+            "Anglers fished from the pier."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "angling",
+    "say": "ANG-gling",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Fishing with a rod and line.",
+          "examples": [
+            "Angling is fishing.",
+            "Dad likes angling.",
+            "We went angling."
+          ]
+        },
+        "more": {
+          "def": "The sport of fishing with a rod, a line and a hook.",
+          "examples": [
+            "Dad enjoys angling on the lake.",
+            "Angling takes a lot of patience.",
+            "We spent the day angling for trout."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "angora",
+    "say": "ang-GOR-uh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Soft, fluffy wool from a rabbit or goat.",
+          "examples": [
+            "Angora is soft.",
+            "The sweater is angora.",
+            "Angora is fluffy."
+          ]
+        },
+        "more": {
+          "def": "Soft, fluffy wool from a certain rabbit or goat.",
+          "examples": [
+            "Her sweater was made of angora.",
+            "Angora is a very soft wool.",
+            "The angora rabbit has long, fluffy fur."
           ]
         }
       }
@@ -509,6 +939,56 @@
     ]
   },
   {
+    "word": "angular",
+    "say": "ANG-gyuh-ler",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Having sharp corners.",
+          "examples": [
+            "The shape is angular.",
+            "An angular face.",
+            "The angular rock."
+          ]
+        },
+        "more": {
+          "def": "Having sharp angles or corners; bony and thin.",
+          "examples": [
+            "The rock had angular edges.",
+            "He had an angular face with a sharp chin.",
+            "The architect designed an angular building."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "Angus",
+    "say": "ANG-gus",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind of black cow.",
+          "examples": [
+            "An Angus is a cow.",
+            "The Angus is black.",
+            "We saw an Angus."
+          ]
+        },
+        "more": {
+          "def": "A breed of black cattle without horns, raised for beef.",
+          "examples": [
+            "An Angus grazed in the field.",
+            "The farmer raised Angus cattle.",
+            "Angus cows are black and have no horns."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "animal",
     "say": "AN-ih-mul",
     "emoji": "🐾",
@@ -532,6 +1012,31 @@
             "Every animal in the zoo gets fed twice a day.",
             "A whale is the biggest animal in the sea.",
             "The farm has many kinds of animals."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "animate",
+    "say": "AN-ih-mit",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Alive.",
+          "examples": [
+            "Animals are animate.",
+            "An animate being.",
+            "Animate things move."
+          ]
+        },
+        "more": {
+          "def": "Alive, or having life.",
+          "examples": [
+            "Plants and animals are animate things.",
+            "A rock is not animate.",
+            "Animate beings can grow."
           ]
         }
       }
@@ -563,6 +1068,31 @@
     ]
   },
   {
+    "word": "animatedly",
+    "say": "AN-ih-may-tid-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a lively way.",
+          "examples": [
+            "They talked animatedly.",
+            "She spoke animatedly.",
+            "He waved animatedly."
+          ]
+        },
+        "more": {
+          "def": "In a lively, excited way.",
+          "examples": [
+            "The friends talked animatedly about the game.",
+            "She spoke animatedly about her trip.",
+            "The children chatted animatedly."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "animation",
     "say": "an-ih-MAY-shun",
     "forms": [
@@ -585,6 +1115,59 @@
             "We watched an animation about a talking fish.",
             "Making an animation takes thousands of drawings.",
             "The class made an animation with clay figures."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "animator",
+    "say": "AN-ih-may-ter",
+    "forms": [
+      "animators"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who makes cartoons.",
+          "examples": [
+            "The animator drew a cartoon.",
+            "An animator makes cartoons.",
+            "She is an animator."
+          ]
+        },
+        "more": {
+          "def": "A person who makes animated films or cartoons.",
+          "examples": [
+            "The animator drew hundreds of pictures.",
+            "An animator makes drawings move.",
+            "She is an animator at a film studio."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "anime",
+    "say": "AN-uh-may",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Cartoons from Japan.",
+          "examples": [
+            "I like anime.",
+            "Anime is a cartoon.",
+            "We watch anime."
+          ]
+        },
+        "more": {
+          "def": "A style of animated films and shows that came from Japan.",
+          "examples": [
+            "He draws characters from anime.",
+            "Anime has big-eyed characters.",
+            "My sister loves anime shows."
           ]
         }
       }
@@ -671,6 +1254,64 @@
             "My parents celebrate their anniversary with a special dinner.",
             "The town is having a party for its hundredth anniversary.",
             "It was the first anniversary of the library opening."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "annotate",
+    "say": "AN-uh-tayt",
+    "forms": [
+      "annotates",
+      "annotated",
+      "annotating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To add notes to a text.",
+          "examples": [
+            "Annotate the poem.",
+            "She annotated the page.",
+            "He annotates his book."
+          ]
+        },
+        "more": {
+          "def": "To add notes or comments to a text to explain it.",
+          "examples": [
+            "The teacher asked us to annotate the poem.",
+            "She annotated the page with her thoughts.",
+            "He annotates his books with sticky notes."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "annotation",
+    "say": "an-uh-TAY-shun",
+    "forms": [
+      "annotations"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A note written next to a text to explain it.",
+          "examples": [
+            "The book has annotations.",
+            "An annotation is a note.",
+            "Read the annotation."
+          ]
+        },
+        "more": {
+          "def": "A note added to a text to explain or comment on it.",
+          "examples": [
+            "She wrote an annotation in the margin.",
+            "An annotation explains a hard word.",
+            "The book has helpful annotations."
           ]
         }
       }
@@ -871,6 +1512,31 @@
     ]
   },
   {
+    "word": "annoyingly",
+    "say": "uh-NOY-ing-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that bothers you.",
+          "examples": [
+            "The bell rang annoyingly.",
+            "He hummed annoyingly.",
+            "The dog barked annoyingly."
+          ]
+        },
+        "more": {
+          "def": "In a way that makes you feel annoyed.",
+          "examples": [
+            "The fly buzzed annoyingly around my head.",
+            "The alarm rang annoyingly early.",
+            "The little brother annoyingly repeated everything."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "annual",
     "say": "AN-yoo-ul",
     "forms": [
@@ -899,6 +1565,34 @@
     ]
   },
   {
+    "word": "anomaly",
+    "say": "uh-NOM-uh-lee",
+    "forms": [
+      "anomalies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something odd and out of place.",
+          "examples": [
+            "It is an anomaly.",
+            "The anomaly was odd.",
+            "A strange anomaly."
+          ]
+        },
+        "more": {
+          "def": "Something that is unusual and different from what is normal.",
+          "examples": [
+            "A snowy day in July would be an anomaly.",
+            "The scientists found an anomaly in the data.",
+            "The warm day in January was an anomaly."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "anonymous",
     "say": "uh-NON-ih-mus",
     "senses": [
@@ -918,6 +1612,31 @@
             "An anonymous gift was left at the door.",
             "The letter was anonymous, so we did not know who wrote it.",
             "The donor wanted to stay anonymous."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "anonymously",
+    "say": "uh-NON-ih-mus-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Without giving your name.",
+          "examples": [
+            "She gave it anonymously.",
+            "He wrote anonymously.",
+            "They donated anonymously."
+          ]
+        },
+        "more": {
+          "def": "In a way that does not give your name.",
+          "examples": [
+            "She gave the money anonymously.",
+            "He wrote the poem anonymously.",
+            "Someone anonymously left flowers."
           ]
         }
       }
@@ -1021,6 +1740,63 @@
             "An ant carried a crumb back to the nest.",
             "Ants build tunnels under the ground.",
             "A long line of ants marched across the sidewalk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "antacid",
+    "say": "ant-AS-id",
+    "forms": [
+      "antacids"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Medicine that helps an upset stomach.",
+          "examples": [
+            "An antacid helps your tummy.",
+            "He took an antacid.",
+            "Mom has an antacid."
+          ]
+        },
+        "more": {
+          "def": "A medicine that helps settle an upset stomach.",
+          "examples": [
+            "He took an antacid after the big meal.",
+            "An antacid can ease a sour stomach.",
+            "The antacid tasted like mint."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "anteater",
+    "say": "ANT-ee-ter",
+    "emoji": "🐜",
+    "forms": [
+      "anteaters"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal with a long nose that eats ants.",
+          "examples": [
+            "The anteater ate ants.",
+            "An anteater has a long nose.",
+            "I saw an anteater."
+          ]
+        },
+        "more": {
+          "def": "A South American animal with a long snout and sticky tongue that eats ants and termites.",
+          "examples": [
+            "The anteater flicked its long tongue into the nest.",
+            "An anteater has a long snout and sharp claws.",
+            "Anteaters eat thousands of ants a day."
           ]
         }
       }
@@ -1131,6 +1907,34 @@
     ]
   },
   {
+    "word": "anther",
+    "say": "AN-ther",
+    "forms": [
+      "anthers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of a flower with yellow dust.",
+          "examples": [
+            "The anther has pollen.",
+            "An anther is on the flower.",
+            "The anther is yellow."
+          ]
+        },
+        "more": {
+          "def": "The part of a flower that holds yellow dust.",
+          "examples": [
+            "The bee brushed against the anther.",
+            "Pollen dusted the anther.",
+            "The anther sits on a thin stalk."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "anthill",
     "say": "ANT-hil",
     "forms": [
@@ -1153,6 +1957,59 @@
             "I stepped around the anthill.",
             "Thousands of ants lived in the anthill.",
             "The anthill was at the edge of the lawn."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "anthology",
+    "say": "an-THOL-uh-jee",
+    "forms": [
+      "anthologies"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A book with lots of stories or poems by different people.",
+          "examples": [
+            "It is an anthology of poems.",
+            "An anthology has many stories.",
+            "I read an anthology."
+          ]
+        },
+        "more": {
+          "def": "A book that collects poems, stories or songs by different writers.",
+          "examples": [
+            "I borrowed an anthology of poems.",
+            "An anthology has stories by many authors.",
+            "The anthology had fifty short stories."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "antibacterial",
+    "say": "an-tee-bak-TEER-ee-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Able to kill germs.",
+          "examples": [
+            "Antibacterial soap.",
+            "An antibacterial wipe.",
+            "The antibacterial gel."
+          ]
+        },
+        "more": {
+          "def": "Able to kill or stop the growth of bacteria.",
+          "examples": [
+            "She washed her hands with antibacterial soap.",
+            "An antibacterial wipe cleans the table.",
+            "The antibacterial gel is in the bag."
           ]
         }
       }
@@ -1326,6 +2183,31 @@
     ]
   },
   {
+    "word": "antifreeze",
+    "say": "AN-tee-freez",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A liquid that keeps water from turning to ice.",
+          "examples": [
+            "The car has antifreeze.",
+            "Antifreeze keeps water liquid.",
+            "Add antifreeze."
+          ]
+        },
+        "more": {
+          "def": "A liquid added to water in a car engine to stop it from freezing in cold weather.",
+          "examples": [
+            "Dad put antifreeze in the car.",
+            "Antifreeze stops the engine's water from freezing.",
+            "Pets must not drink antifreeze."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "antique",
     "say": "an-TEEK",
     "forms": [
@@ -1348,6 +2230,31 @@
             "The clock is an antique from the 1800s.",
             "The antique dealer sold old clocks.",
             "We looked at antique furniture in the shop."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "antiquity",
+    "say": "an-TIK-wih-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Ancient times.",
+          "examples": [
+            "The ruins are from antiquity.",
+            "Antiquity was long ago.",
+            "A statue from antiquity."
+          ]
+        },
+        "more": {
+          "def": "The very distant past, especially ancient Greek and Roman times.",
+          "examples": [
+            "The ruins date from antiquity.",
+            "We studied the art of antiquity.",
+            "A statue from antiquity stood in the museum."
           ]
         }
       }
@@ -1382,6 +2289,31 @@
     ]
   },
   {
+    "word": "antivirus",
+    "say": "an-tee-VY-rus",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Made to protect a computer from viruses.",
+          "examples": [
+            "Antivirus software helps.",
+            "Get antivirus.",
+            "The antivirus works."
+          ]
+        },
+        "more": {
+          "def": "Made to find and stop computer viruses.",
+          "examples": [
+            "Dad installed antivirus software.",
+            "Antivirus programs protect your computer.",
+            "The antivirus found a bad file."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "antler",
     "say": "ANT-ler",
     "forms": [
@@ -1404,6 +2336,34 @@
             "The buck's antlers are wide and sharp.",
             "We found a shed antler in the woods.",
             "Moose grow large antlers every year."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "antonym",
+    "say": "AN-tuh-nim",
+    "forms": [
+      "antonyms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word that means the opposite of another.",
+          "examples": [
+            "Tall and short are antonyms.",
+            "An antonym is the opposite.",
+            "Find the antonym."
+          ]
+        },
+        "more": {
+          "def": "A word that means the opposite of another word.",
+          "examples": [
+            "\"Hot\" is an antonym of \"cold.\"",
+            "Find the antonym for \"happy.\"",
+            "\"Up\" and \"down\" are antonyms."
           ]
         }
       }
@@ -1519,6 +2479,12 @@
             "The anxious dog paced by the door."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "anxiousness",
+        "def": "Feeling worried."
       }
     ]
   },

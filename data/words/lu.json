@@ -28,6 +28,64 @@
     ]
   },
   {
+    "word": "lubricant",
+    "say": "LOO-brih-kunt",
+    "forms": [
+      "lubricants"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Oil that helps things move smoothly.",
+          "examples": [
+            "Oil is a lubricant.",
+            "The lubricant helped.",
+            "He used a lubricant."
+          ]
+        },
+        "more": {
+          "def": "A substance such as oil that makes machine parts move smoothly.",
+          "examples": [
+            "Oil is a lubricant for bike chains.",
+            "He sprayed lubricant on the squeaky hinge.",
+            "The lubricant stopped the noise."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lubricate",
+    "say": "LOO-brih-kayt",
+    "forms": [
+      "lubricates",
+      "lubricated",
+      "lubricating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put oil on something so it moves easily.",
+          "examples": [
+            "Lubricate the hinge.",
+            "Dad lubricated the chain.",
+            "They lubricate the wheels."
+          ]
+        },
+        "more": {
+          "def": "To put oil or grease on something so that it moves smoothly.",
+          "examples": [
+            "Dad lubricated the squeaky hinge.",
+            "She lubricated the bike chain.",
+            "The mechanic lubricated the engine."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "luck",
     "say": "luk",
     "emoji": "🍀",
@@ -50,6 +108,12 @@
             "With a little luck, the rain will stop before the game."
           ]
         }
+      }
+    ],
+    "related": [
+      {
+        "word": "luckless",
+        "def": "Having bad luck."
       }
     ]
   },
@@ -103,6 +167,61 @@
             "We were lucky that the rain stopped just before the game.",
             "He felt lucky to have such kind grandparents.",
             "It was a lucky guess, but it was right."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ludicrous",
+    "say": "LOO-dih-krus",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "So silly that it is funny.",
+          "examples": [
+            "It was a ludicrous idea.",
+            "The hat was ludicrous.",
+            "A ludicrous story."
+          ]
+        },
+        "more": {
+          "def": "So silly or unlikely that it makes people laugh.",
+          "examples": [
+            "It was a ludicrous idea to wear a swimsuit in the snow.",
+            "The clown wore a ludicrous hat.",
+            "The story was too ludicrous to be true."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lug",
+    "say": "lug",
+    "forms": [
+      "lugs",
+      "lugged",
+      "lugging"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To carry or pull something heavy with effort.",
+          "examples": [
+            "I lugged the bag.",
+            "He lugged the box upstairs.",
+            "She lugged her books home."
+          ]
+        },
+        "more": {
+          "def": "To carry or drag something heavy with a lot of effort.",
+          "examples": [
+            "She lugged the heavy suitcase up the stairs.",
+            "The hikers lugged their packs up the hill.",
+            "He lugged the bag of groceries across the parking lot."
           ]
         }
       }
@@ -314,6 +433,59 @@
     ]
   },
   {
+    "word": "lumberyard",
+    "say": "LUM-ber-yard",
+    "forms": [
+      "lumberyards"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A place where wood is sold.",
+          "examples": [
+            "We bought wood at the lumberyard.",
+            "The lumberyard has boards.",
+            "A lumberyard sells wood."
+          ]
+        },
+        "more": {
+          "def": "A place where wood for building is stored and sold.",
+          "examples": [
+            "Dad bought boards at the lumberyard.",
+            "The lumberyard smelled of pine.",
+            "Stacks of planks filled the lumberyard."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "luminosity",
+    "say": "loo-mih-NOS-ih-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How bright something is.",
+          "examples": [
+            "The luminosity of a star.",
+            "The luminosity was strong.",
+            "Check the luminosity."
+          ]
+        },
+        "more": {
+          "def": "The brightness of a light or star.",
+          "examples": [
+            "Astronomers measure the luminosity of stars.",
+            "The lamp's luminosity lit the room.",
+            "The luminosity of the sun is great."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "luminous",
     "say": "LOO-min-us",
     "senses": [
@@ -507,6 +679,34 @@
     ]
   },
   {
+    "word": "lunchroom",
+    "say": "LUNCH-room",
+    "forms": [
+      "lunchrooms"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A room where people eat lunch.",
+          "examples": [
+            "We ate in the lunchroom.",
+            "The lunchroom is noisy.",
+            "The lunchroom is big."
+          ]
+        },
+        "more": {
+          "def": "A room in a school or workplace where people eat lunch.",
+          "examples": [
+            "We ate in the school lunchroom.",
+            "The lunchroom was noisy.",
+            "Tables filled the lunchroom."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lunchtime",
     "say": "LUNCH-tym",
     "forms": [
@@ -607,6 +807,62 @@
             "The cat made a lunge for the toy.",
             "He made a lunge to catch the falling cup.",
             "The goalie's lunge saved the game."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lungfish",
+    "say": "LUNG-fish",
+    "forms": [
+      "lungfish"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A fish that can breathe air.",
+          "examples": [
+            "A lungfish breathes air.",
+            "The lungfish is a fish.",
+            "I saw a lungfish."
+          ]
+        },
+        "more": {
+          "def": "A fish that has lungs and can breathe air as well as water.",
+          "examples": [
+            "A lungfish can breathe air when the pond dries up.",
+            "The lungfish lives in muddy water.",
+            "Lungfish are very old kinds of fish."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lungful",
+    "say": "LUNG-fuul",
+    "forms": [
+      "lungfuls"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A big breath.",
+          "examples": [
+            "He took a lungful of air.",
+            "She breathed a lungful of fresh air.",
+            "A lungful of smoke."
+          ]
+        },
+        "more": {
+          "def": "As much air as your lungs can hold at one time.",
+          "examples": [
+            "She took a deep lungful of fresh sea air.",
+            "He gulped a lungful of cold air.",
+            "The swimmer took a lungful before diving."
           ]
         }
       }
@@ -723,6 +979,31 @@
     ]
   },
   {
+    "word": "luscious",
+    "say": "LUSH-us",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Juicy and sweet.",
+          "examples": [
+            "The peach was luscious.",
+            "A luscious berry.",
+            "The luscious cake."
+          ]
+        },
+        "more": {
+          "def": "Tasting very good, rich and juicy.",
+          "examples": [
+            "The luscious peach dripped with juice.",
+            "We feasted on luscious strawberries.",
+            "The luscious cake was covered in cream."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "lush",
     "say": "lush",
     "forms": [
@@ -746,6 +1027,84 @@
             "The garden was lush after the spring rains.",
             "We walked through a lush green forest.",
             "Cows grazed in the lush grass of the valley."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "luster",
+    "say": "LUS-ter",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft shine.",
+          "examples": [
+            "The pearl has luster.",
+            "The luster is bright.",
+            "Silk has luster."
+          ]
+        },
+        "more": {
+          "def": "The soft shine of a surface that reflects light.",
+          "examples": [
+            "The pearl had a soft luster.",
+            "Silk has a rich luster.",
+            "The polished wood had a deep luster."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "lute",
+    "say": "loot",
+    "forms": [
+      "lutes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An old stringed instrument with a round back.",
+          "examples": [
+            "He played a lute.",
+            "The lute has strings.",
+            "A lute is old."
+          ]
+        },
+        "more": {
+          "def": "An old musical instrument with strings and a round, pear-shaped body.",
+          "examples": [
+            "The minstrel played a song on his lute.",
+            "A lute is played by plucking the strings.",
+            "The lute has a long neck and a rounded back."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "luxuriant",
+    "say": "lug-ZHUR-ee-unt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Thick and full of growth.",
+          "examples": [
+            "The grass was luxuriant.",
+            "Luxuriant hair.",
+            "The luxuriant garden."
+          ]
+        },
+        "more": {
+          "def": "Thick and full.",
+          "examples": [
+            "The luxuriant jungle was full of green plants.",
+            "She had luxuriant hair.",
+            "Luxuriant ferns grew along the stream."
           ]
         }
       }

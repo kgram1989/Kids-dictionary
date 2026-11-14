@@ -1,5 +1,89 @@
 [
   {
+    "word": "hyacinth",
+    "say": "HY-uh-sinth",
+    "forms": [
+      "hyacinths"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A spring flower with sweet-smelling, bell-shaped blossoms.",
+          "examples": [
+            "A hyacinth smells sweet.",
+            "The hyacinth is purple.",
+            "Hyacinths bloom in spring."
+          ]
+        },
+        "more": {
+          "def": "A spring flower that grows from a bulb, with a spike of sweet-smelling bell-shaped blooms.",
+          "examples": [
+            "Purple hyacinths bloomed in spring.",
+            "The hyacinth smelled sweet.",
+            "She planted hyacinth bulbs in the fall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hybrid",
+    "say": "HY-brid",
+    "forms": [
+      "hybrids"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Something made by mixing two different kinds.",
+          "examples": [
+            "A mule is a hybrid.",
+            "The flower is a hybrid.",
+            "A hybrid car uses gas and power."
+          ]
+        },
+        "more": {
+          "def": "A plant or animal that comes from two different kinds, or anything made by mixing two different things.",
+          "examples": [
+            "A mule is a hybrid of a horse and a donkey.",
+            "The gardener grew a new hybrid of two rose plants.",
+            "A hybrid car runs on both gas and electricity."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hydrangea",
+    "say": "hy-DRAIN-juh",
+    "forms": [
+      "hydrangeas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bush with big round clusters of small flowers.",
+          "examples": [
+            "The hydrangea is blue.",
+            "A hydrangea grew by the gate.",
+            "Hydrangeas are big."
+          ]
+        },
+        "more": {
+          "def": "A garden bush with big round groups of small blue, pink or white flowers.",
+          "examples": [
+            "Blue hydrangeas bloomed along the path.",
+            "The hydrangea blooms in summer.",
+            "Mom cut a hydrangea for the table."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hydrant",
     "say": "HY-drunt",
     "forms": [
@@ -58,6 +142,84 @@
     ]
   },
   {
+    "word": "hydraulic",
+    "say": "hy-DRAW-lik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Worked by the push of water or oil.",
+          "examples": [
+            "The hydraulic lift went up.",
+            "A hydraulic pump.",
+            "The hydraulic arm."
+          ]
+        },
+        "more": {
+          "def": "Worked by the pressure of a liquid, such as oil or water, moving through pipes.",
+          "examples": [
+            "The hydraulic lift raised the car.",
+            "The digger has a hydraulic arm.",
+            "A hydraulic pump moves water uphill."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hydroelectric",
+    "say": "hy-droh-ih-LEK-trik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making electricity from moving water.",
+          "examples": [
+            "A hydroelectric dam.",
+            "Hydroelectric power.",
+            "The hydroelectric plant."
+          ]
+        },
+        "more": {
+          "def": "Making electricity using the power of moving water.",
+          "examples": [
+            "The hydroelectric dam makes power for the town.",
+            "Hydroelectric power is clean energy.",
+            "The river runs through a hydroelectric plant."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hydrofoil",
+    "say": "HY-druh-foyl",
+    "forms": [
+      "hydrofoils"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A boat that rises up on skis in the water.",
+          "examples": [
+            "A hydrofoil goes fast.",
+            "The hydrofoil lifts up.",
+            "We rode a hydrofoil."
+          ]
+        },
+        "more": {
+          "def": "A boat with underwater wings that lift its body out of the water so it goes faster.",
+          "examples": [
+            "The hydrofoil rose above the waves.",
+            "A hydrofoil skims over the water.",
+            "We rode a hydrofoil to the island."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hydrogen",
     "say": "HY-druh-jun",
     "senses": [
@@ -77,6 +239,31 @@
             "Hydrogen is the lightest gas, so a balloon filled with it floats high.",
             "Water is made of hydrogen and oxygen.",
             "The sun is made mostly of hydrogen."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hydroponic",
+    "say": "hy-druh-PON-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Grown in water, not soil.",
+          "examples": [
+            "A hydroponic garden.",
+            "The plant is hydroponic.",
+            "The hydroponic plant grows in water."
+          ]
+        },
+        "more": {
+          "def": "Growing plants in water with food added instead of in soil.",
+          "examples": [
+            "We grew hydroponic lettuce in water.",
+            "A hydroponic garden needs no soil.",
+            "The store sells hydroponic tomatoes."
           ]
         }
       }
@@ -131,6 +318,37 @@
             "Washing your hands with soap is part of good hygiene.",
             "The nurse taught us about hygiene, such as brushing our teeth.",
             "Good hygiene helps stop germs from spreading."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hygienic",
+    "say": "hy-JEN-ik",
+    "related": [
+      {
+        "word": "unhygienic",
+        "def": "Not clean."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Clean and healthy.",
+          "examples": [
+            "The kitchen is hygienic.",
+            "A hygienic habit.",
+            "Hygienic food."
+          ]
+        },
+        "more": {
+          "def": "Clean and helping to stop germs from spreading.",
+          "examples": [
+            "The kitchen must be kept hygienic.",
+            "Washing your hands is a hygienic habit.",
+            "The chef wore a hygienic apron."
           ]
         }
       }
@@ -248,6 +466,145 @@
     ]
   },
   {
+    "word": "hyperbole",
+    "say": "hy-PER-buh-lee",
+    "forms": [
+      "hyperboles"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A huge exaggeration.",
+          "examples": [
+            "\"A million times\" is hyperbole.",
+            "Hyperbole is big talk.",
+            "It was hyperbole."
+          ]
+        },
+        "more": {
+          "def": "A way of speaking that exaggerates greatly to make a point.",
+          "examples": [
+            "\"I'm so hungry I could eat a horse\" is hyperbole.",
+            "Hyperbole makes things sound bigger than they are.",
+            "Her story was full of hyperbole."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hyperlink",
+    "say": "HY-per-link",
+    "forms": [
+      "hyperlinks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A word or picture you click to go to another page.",
+          "examples": [
+            "Click the hyperlink.",
+            "A hyperlink takes you elsewhere.",
+            "The hyperlink is blue."
+          ]
+        },
+        "more": {
+          "def": "A word or picture on a web page that you click to go to another page.",
+          "examples": [
+            "Click the hyperlink to see the next page.",
+            "A hyperlink is often blue and underlined.",
+            "She sent me a hyperlink to the video."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hyperspace",
+    "say": "HY-per-spayss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A made-up way to travel very fast across space in stories.",
+          "examples": [
+            "The ship jumped to hyperspace.",
+            "Hyperspace is fast.",
+            "In hyperspace, ships fly fast."
+          ]
+        },
+        "more": {
+          "def": "An imaginary kind of space used in stories for traveling faster than light.",
+          "examples": [
+            "The starship jumped into hyperspace.",
+            "In the story, hyperspace let ships cross the galaxy quickly.",
+            "The pilot set a course through hyperspace."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hyphen",
+    "say": "HY-fun",
+    "forms": [
+      "hyphens"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short line used to join words.",
+          "examples": [
+            "A hyphen is a short line.",
+            "Put a hyphen here.",
+            "\"Mother-in-law\" has hyphens."
+          ]
+        },
+        "more": {
+          "def": "A short line (-) used to join two words or parts of a word.",
+          "examples": [
+            "\"Well-known\" has a hyphen.",
+            "Use a hyphen to join the words.",
+            "A hyphen is shorter than a dash."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hyphenate",
+    "say": "HY-fuh-nayt",
+    "forms": [
+      "hyphenates",
+      "hyphenated",
+      "hyphenating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To join words with a short line.",
+          "examples": [
+            "Hyphenate the word.",
+            "We hyphenate some words.",
+            "She hyphenated it."
+          ]
+        },
+        "more": {
+          "def": "To join words or break a word with a hyphen.",
+          "examples": [
+            "You hyphenate well-known to join the two words.",
+            "The word is hyphenated at the end of the line.",
+            "We learned how to hyphenate long words."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hypnosis",
     "say": "hip-NOH-sis",
     "senses": [
@@ -267,6 +624,31 @@
             "The magician pretended to use hypnosis on a volunteer.",
             "Some people try hypnosis to help them relax.",
             "In the cartoon, the swirling wheel put the character under hypnosis."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hypnotic",
+    "say": "hip-NOT-ik",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "So smooth and steady that it makes you sleepy.",
+          "examples": [
+            "The music was hypnotic.",
+            "The swinging was hypnotic.",
+            "A hypnotic sound."
+          ]
+        },
+        "more": {
+          "def": "Having a steady, calming effect that holds your attention or makes you drowsy.",
+          "examples": [
+            "The slow swing of the lamp was hypnotic.",
+            "The hypnotic hum of the engine made me sleepy.",
+            "We watched the hypnotic waves roll in."
           ]
         }
       }
@@ -331,6 +713,34 @@
     ]
   },
   {
+    "word": "hypocrite",
+    "say": "HIP-uh-krit",
+    "forms": [
+      "hypocrites"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who says one thing and does another.",
+          "examples": [
+            "He is a hypocrite.",
+            "A hypocrite says one thing.",
+            "She felt like a hypocrite."
+          ]
+        },
+        "more": {
+          "def": "A person who says that one should act in a certain way but does not act that way themselves.",
+          "examples": [
+            "He told others to tidy up but never did, so he was a hypocrite.",
+            "Nobody likes a hypocrite who breaks his own rules.",
+            "She felt like a hypocrite for telling him to be on time."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "hypocritical",
     "say": "hip-uh-KRIT-ih-kul",
     "senses": [
@@ -350,6 +760,117 @@
             "It is hypocritical to tell others to be neat when your own room is messy.",
             "She felt hypocritical for scolding him when she did the same thing.",
             "The hypocritical player told others to follow the rules but broke them."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hypothesis",
+    "say": "hy-POTH-uh-sis",
+    "forms": [
+      "hypotheses"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A guess that you can test.",
+          "examples": [
+            "My hypothesis is that plants need light.",
+            "She tested her hypothesis.",
+            "The hypothesis was wrong."
+          ]
+        },
+        "more": {
+          "def": "An idea or guess that scientists test to see if it is true.",
+          "examples": [
+            "My hypothesis is that plants grow better in sunlight.",
+            "She tested her hypothesis with an experiment.",
+            "The experiment proved the hypothesis wrong."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hypothesize",
+    "say": "hy-POTH-uh-syz",
+    "forms": [
+      "hypothesizes",
+      "hypothesized",
+      "hypothesizing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To make a guess to test.",
+          "examples": [
+            "Scientists hypothesize.",
+            "She hypothesized that plants need light.",
+            "He hypothesized."
+          ]
+        },
+        "more": {
+          "def": "To suggest an idea that can be tested to explain something.",
+          "examples": [
+            "She hypothesized that plants grow faster in light.",
+            "Scientists hypothesize about the cause.",
+            "He hypothesized that the ice would melt faster in the sun."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hyrax",
+    "say": "HY-raks",
+    "forms": [
+      "hyraxes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small furry animal from Africa that looks like a guinea pig.",
+          "examples": [
+            "A hyrax is small.",
+            "The hyrax is furry.",
+            "I saw a hyrax."
+          ]
+        },
+        "more": {
+          "def": "A small furry animal of Africa and the Middle East that lives among rocks and looks like a guinea pig.",
+          "examples": [
+            "A hyrax sat on the rock.",
+            "The hyrax looks like a large guinea pig.",
+            "Hyraxes live in groups among the rocks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "hysteria",
+    "say": "hiss-TAIR-ee-uh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Wild, out-of-control excitement or fear.",
+          "examples": [
+            "The crowd was in hysteria.",
+            "Hysteria spread.",
+            "There was hysteria."
+          ]
+        },
+        "more": {
+          "def": "Wild and uncontrolled excitement, fear or laughter.",
+          "examples": [
+            "The crowd broke into hysteria when the singer appeared.",
+            "Hysteria spread when the lights went out.",
+            "The children dissolved into hysteria at the clown's trick."
           ]
         }
       }

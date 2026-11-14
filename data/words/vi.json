@@ -1,5 +1,58 @@
 [
   {
+    "word": "via",
+    "say": "VY-uh",
+    "senses": [
+      {
+        "pos": "preposition",
+        "easy": {
+          "def": "By going through a place.",
+          "examples": [
+            "We went via the park.",
+            "The train goes via the bridge.",
+            "I came home via school."
+          ]
+        },
+        "more": {
+          "def": "By way of a place or a person, on the way to somewhere.",
+          "examples": [
+            "We flew to Hawaii via Los Angeles.",
+            "The train goes to the city via the river valley.",
+            "She sent the picture to her friend via email."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "viaduct",
+    "say": "VY-uh-dukt",
+    "forms": [
+      "viaducts"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long bridge with many arches.",
+          "examples": [
+            "The train crossed the viaduct.",
+            "A viaduct is a bridge.",
+            "The viaduct is tall."
+          ]
+        },
+        "more": {
+          "def": "A long bridge with many arches that carries a road or railway over a valley.",
+          "examples": [
+            "The train crossed the tall stone viaduct.",
+            "A viaduct carried the road over the river.",
+            "We walked under the viaduct."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vial",
     "say": "VY-ul",
     "forms": [
@@ -111,6 +164,31 @@
     ]
   },
   {
+    "word": "vibrato",
+    "say": "vih-BRAH-toh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A shaking in the sound of a voice or violin.",
+          "examples": [
+            "The singer used vibrato.",
+            "Vibrato is a wobble.",
+            "The violin had vibrato."
+          ]
+        },
+        "more": {
+          "def": "A slight, rapid shaking in a musical note that makes it sound richer.",
+          "examples": [
+            "The singer used vibrato on the long note.",
+            "The violinist added vibrato.",
+            "Vibrato gives the note a warm sound."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vicinity",
     "say": "vih-SIN-ih-tee",
     "forms": [
@@ -164,6 +242,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "viciousness",
+        "def": "Being very cruel."
+      }
     ]
   },
   {
@@ -189,6 +273,34 @@
             "The victims of the flood were given food and blankets.",
             "She was the victim of a prank but laughed it off.",
             "Rescue teams helped the storm victims."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "victor",
+    "say": "VIK-ter",
+    "forms": [
+      "victors"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The person who wins.",
+          "examples": [
+            "The victor got a prize.",
+            "She was the victor.",
+            "Our team was the victor."
+          ]
+        },
+        "more": {
+          "def": "A person or team that wins a game, race or fight.",
+          "examples": [
+            "The victor of the race got a gold medal.",
+            "After a close game, our team was the victor.",
+            "The victors cheered and waved their flags."
           ]
         }
       }
@@ -278,6 +390,34 @@
     ]
   },
   {
+    "word": "videogame",
+    "say": "VID-ee-oh-gaym",
+    "forms": [
+      "videogames"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A game you play on a screen.",
+          "examples": [
+            "I play a videogame.",
+            "The videogame is fun.",
+            "He loves videogames."
+          ]
+        },
+        "more": {
+          "def": "A game played on a screen using a controller, phone or computer.",
+          "examples": [
+            "I play a videogame after homework.",
+            "The videogame has levels and prizes.",
+            "They designed a videogame about space."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "videotape",
     "say": "VID-ee-oh-tayp",
     "forms": [
@@ -300,6 +440,36 @@
             "We watched the old videotape of my birthday.",
             "The videotape was in a drawer.",
             "The show was recorded on videotape."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vie",
+    "say": "vy",
+    "forms": [
+      "vies",
+      "vied",
+      "vying"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To try hard to win something.",
+          "examples": [
+            "The teams vie for the cup.",
+            "They vied for first place.",
+            "Two kids vie for a prize."
+          ]
+        },
+        "more": {
+          "def": "To compete hard with others to win something.",
+          "examples": [
+            "The two teams vied for the cup.",
+            "Birds vied for the best spot on the branch.",
+            "Many runners vied for first place."
           ]
         }
       }
@@ -383,6 +553,34 @@
     ]
   },
   {
+    "word": "viewfinder",
+    "say": "VYOO-fyn-der",
+    "forms": [
+      "viewfinders"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The part of a camera you look through.",
+          "examples": [
+            "He looked in the viewfinder.",
+            "The viewfinder shows the picture.",
+            "I peeked in the viewfinder."
+          ]
+        },
+        "more": {
+          "def": "The small window on a camera that you look through to see what you will photograph.",
+          "examples": [
+            "She looked through the viewfinder and framed the shot.",
+            "The camera's viewfinder showed a bird on the branch.",
+            "He held the camera up to the viewfinder."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "viewpoint",
     "say": "VYOO-point",
     "forms": [
@@ -439,6 +637,81 @@
     ]
   },
   {
+    "word": "vigilance",
+    "say": "VIJ-uh-lunss",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Careful watching.",
+          "examples": [
+            "The guard showed vigilance.",
+            "Vigilance keeps us safe.",
+            "The vigilance of the dog."
+          ]
+        },
+        "more": {
+          "def": "Careful watching for danger or trouble.",
+          "examples": [
+            "The guard's vigilance kept the town safe.",
+            "The dog's vigilance woke the family.",
+            "Lifeguards must show vigilance."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vigilant",
+    "say": "VIJ-uh-lunt",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Watching carefully for danger.",
+          "examples": [
+            "The guard was vigilant.",
+            "Be vigilant.",
+            "The vigilant dog watched."
+          ]
+        },
+        "more": {
+          "def": "Watching carefully for danger or trouble.",
+          "examples": [
+            "The guard dog stayed vigilant all night.",
+            "Lifeguards must be vigilant at the pool.",
+            "The vigilant meerkat scanned for hawks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vigor",
+    "say": "VIG-er",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Strength and energy.",
+          "examples": [
+            "She worked with vigor.",
+            "He played with vigor.",
+            "The plant has vigor."
+          ]
+        },
+        "more": {
+          "def": "Strength, energy and enthusiasm.",
+          "examples": [
+            "She scrubbed the floor with vigor.",
+            "The young horse ran with great vigor.",
+            "The plant grew with new vigor."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vigorous",
     "say": "VIG-er-us",
     "senses": [
@@ -458,6 +731,88 @@
             "We went for a vigorous walk up the hill.",
             "He gave the bottle a vigorous shake.",
             "The dog gave a vigorous wag of its tail."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vigorously",
+    "say": "VIG-er-us-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a strong and lively way.",
+          "examples": [
+            "She shook the bottle vigorously.",
+            "He rubbed his hands vigorously.",
+            "The dog wagged vigorously."
+          ]
+        },
+        "more": {
+          "def": "In a strong, energetic way.",
+          "examples": [
+            "She stirred the batter vigorously until it was smooth.",
+            "The children waved their flags vigorously.",
+            "He rubbed his hands vigorously to warm them up."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "Viking",
+    "say": "VY-king",
+    "forms": [
+      "Vikings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sailor from the far north who lived long ago.",
+          "examples": [
+            "The Vikings sailed in boats.",
+            "A Viking had a big ship.",
+            "We read about a Viking."
+          ]
+        },
+        "more": {
+          "def": "One of the people from Scandinavia who sailed the seas long ago in long ships and explored many lands.",
+          "examples": [
+            "The Vikings sailed across the cold ocean in long wooden ships.",
+            "A Viking farmer grew crops and kept animals.",
+            "The Vikings reached North America about a thousand years ago."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vile",
+    "say": "vyl",
+    "forms": [
+      "viler",
+      "vilest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very bad to smell or taste.",
+          "examples": [
+            "The smell was vile.",
+            "The soup tasted vile.",
+            "It was a vile day."
+          ]
+        },
+        "more": {
+          "def": "Extremely unpleasant or horrible.",
+          "examples": [
+            "The vile smell from the old cheese filled the room.",
+            "The medicine tasted vile.",
+            "The witch in the story had a vile temper."
           ]
         }
       }
@@ -583,6 +938,62 @@
     ]
   },
   {
+    "word": "vinaigrette",
+    "say": "vin-uh-GRET",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A salad dressing of oil and vinegar.",
+          "examples": [
+            "The salad has vinaigrette.",
+            "Vinaigrette is oily.",
+            "I like vinaigrette."
+          ]
+        },
+        "more": {
+          "def": "A salad dressing made of oil, vinegar and spices.",
+          "examples": [
+            "She poured vinaigrette over the greens.",
+            "Vinaigrette is oil and vinegar.",
+            "Dad made a lemon vinaigrette."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vindictive",
+    "say": "vin-DIK-tiv",
+    "related": [
+      {
+        "word": "vindictiveness",
+        "def": "Wanting revenge."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Wanting to get back at someone.",
+          "examples": [
+            "A vindictive girl.",
+            "The vindictive man.",
+            "He was vindictive."
+          ]
+        },
+        "more": {
+          "def": "Wanting to hurt someone to get revenge.",
+          "examples": [
+            "The vindictive girl tried to get back at her friend.",
+            "He was vindictive after the fight.",
+            "The villain was cold and vindictive."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vine",
     "say": "vyn",
     "forms": [
@@ -636,6 +1047,31 @@
     ]
   },
   {
+    "word": "vinegary",
+    "say": "VIN-ih-gair-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Sharp and sour, like pickles.",
+          "examples": [
+            "The salad was vinegary.",
+            "A vinegary taste.",
+            "It smelled vinegary."
+          ]
+        },
+        "more": {
+          "def": "Tasting or smelling sharp and sour like vinegar.",
+          "examples": [
+            "The salad dressing was vinegary.",
+            "The pickles had a vinegary tang.",
+            "A vinegary smell filled the kitchen."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "vintage",
     "say": "VIN-tij",
     "senses": [
@@ -680,6 +1116,34 @@
             "The kitchen floor is made of vinyl.",
             "The old records were made of vinyl.",
             "The shower curtain is made of vinyl."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "viola",
+    "say": "vee-OH-luh",
+    "forms": [
+      "violas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A music tool with strings, played with a bow.",
+          "examples": [
+            "She plays the viola.",
+            "The viola sounds deep.",
+            "A viola is played with a bow."
+          ]
+        },
+        "more": {
+          "def": "A string instrument like a violin, but a little bigger and lower in sound.",
+          "examples": [
+            "She plays the viola in the school orchestra.",
+            "The viola has a deeper sound than the violin.",
+            "He tucked the viola under his chin and drew the bow across the strings."
           ]
         }
       }
@@ -803,6 +1267,54 @@
     ]
   },
   {
+    "word": "violet",
+    "say": "VY-uh-lit",
+    "emoji": "🌸",
+    "forms": [
+      "violets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small flower that is purple.",
+          "examples": [
+            "A violet grows in the shade.",
+            "The violets smell sweet.",
+            "I found a violet in the garden."
+          ]
+        },
+        "more": {
+          "def": "A small, sweet-smelling flower that grows close to the ground and is usually purple.",
+          "examples": [
+            "Violets bloom in the woods early in the spring.",
+            "Grandma keeps a pot of violets on the windowsill.",
+            "The garden path was edged with violets."
+          ]
+        }
+      },
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A color between blue and purple.",
+          "examples": [
+            "The sky turned violet at sunset.",
+            "I painted the sky violet.",
+            "Her scarf is violet."
+          ]
+        },
+        "more": {
+          "def": "A color that is a mix of blue and purple, like the last color of a rainbow.",
+          "examples": [
+            "The last stripe of a rainbow is violet.",
+            "Sunset painted the clouds orange, pink and violet.",
+            "The artist mixed blue and red to make violet."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "violin",
     "say": "vy-uh-LIN",
     "emoji": "🎻",
@@ -888,6 +1400,60 @@
     ]
   },
   {
+    "word": "viral",
+    "say": "VY-rul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Spreading quickly online.",
+          "examples": [
+            "A viral video.",
+            "The video went viral.",
+            "It is a viral post."
+          ]
+        },
+        "more": {
+          "def": "Spreading very quickly from person to person, especially online.",
+          "examples": [
+            "The funny video went viral.",
+            "A viral post was shared by millions.",
+            "The dance became viral overnight."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vireo",
+    "say": "VEER-ee-oh",
+    "emoji": "🐦",
+    "forms": [
+      "vireos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small greenish songbird.",
+          "examples": [
+            "A vireo sang.",
+            "The vireo is small.",
+            "I saw a vireo."
+          ]
+        },
+        "more": {
+          "def": "A small songbird with a greenish back that sings from the treetops.",
+          "examples": [
+            "A red-eyed vireo sang in the oak.",
+            "Vireos build hanging nests.",
+            "The vireo hopped from leaf to leaf."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "virtual",
     "say": "VER-choo-ul",
     "senses": [
@@ -907,6 +1473,31 @@
             "We took a virtual tour of the museum on a computer.",
             "The class held a virtual meeting using a video call.",
             "In the virtual game, you can build a city without any bricks."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "virtually",
+    "say": "VER-choo-ul-ee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Almost.",
+          "examples": [
+            "It is virtually done.",
+            "The shop is virtually empty.",
+            "He virtually won."
+          ]
+        },
+        "more": {
+          "def": "Almost completely; very nearly.",
+          "examples": [
+            "The room was virtually empty.",
+            "The job is virtually finished.",
+            "It is virtually impossible to see in the dark."
           ]
         }
       }
@@ -941,6 +1532,60 @@
     ]
   },
   {
+    "word": "virtuoso",
+    "say": "ver-choo-OH-soh",
+    "forms": [
+      "virtuosos",
+      "virtuosi"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who is extremely skilled, especially at music.",
+          "examples": [
+            "The pianist is a virtuoso.",
+            "A virtuoso plays well.",
+            "She is a virtuoso."
+          ]
+        },
+        "more": {
+          "def": "A person who is extremely skilled at something, especially playing music.",
+          "examples": [
+            "The pianist was a virtuoso.",
+            "A violin virtuoso played at the concert.",
+            "She is a virtuoso on the flute."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "virtuous",
+    "say": "VER-choo-us",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Good and honest.",
+          "examples": [
+            "The virtuous knight.",
+            "A virtuous girl.",
+            "The virtuous deed."
+          ]
+        },
+        "more": {
+          "def": "Having high moral standards; good and honest.",
+          "examples": [
+            "The virtuous knight always told the truth.",
+            "She lived a virtuous life.",
+            "The villagers praised the virtuous boy."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "virus",
     "say": "VY-rus",
     "emoji": "🦠",
@@ -964,6 +1609,59 @@
             "Doctors study how a virus spreads from one person to another.",
             "Washing your hands helps stop a virus from spreading.",
             "Doctors found out which virus made the flu."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "visa",
+    "say": "VEE-zuh",
+    "forms": [
+      "visas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A paper that lets you enter a country.",
+          "examples": [
+            "She needs a visa.",
+            "The visa is in my bag.",
+            "He showed his visa."
+          ]
+        },
+        "more": {
+          "def": "An official paper or stamp that allows you to enter or stay in a country.",
+          "examples": [
+            "You need a visa to visit some countries.",
+            "The officer checked her passport and visa.",
+            "He showed his visa at the airport."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "viscosity",
+    "say": "vis-KOS-ih-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "How thick and slow a liquid is.",
+          "examples": [
+            "Honey has high viscosity.",
+            "Viscosity is thickness.",
+            "Water has low viscosity."
+          ]
+        },
+        "more": {
+          "def": "How thick and sticky a liquid is, and how slowly it flows.",
+          "examples": [
+            "Honey has a higher viscosity than water.",
+            "Cold syrup has high viscosity and pours slowly.",
+            "Oil with low viscosity flows quickly."
           ]
         }
       }
@@ -1064,6 +1762,34 @@
             "She had a vision of a beautiful garden.",
             "He saw a vision of home in his dream.",
             "The leader shared her vision for the town."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "visionary",
+    "say": "VIZH-uh-nair-ee",
+    "forms": [
+      "visionaries"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who has big ideas about the future.",
+          "examples": [
+            "She is a visionary.",
+            "A visionary thinks ahead.",
+            "The visionary dreamed."
+          ]
+        },
+        "more": {
+          "def": "A person with big ideas about the future.",
+          "examples": [
+            "The visionary dreamed of a city in the clouds.",
+            "A visionary can see what others cannot.",
+            "She was a visionary who planned the park."
           ]
         }
       }
@@ -1175,6 +1901,34 @@
     ]
   },
   {
+    "word": "vista",
+    "say": "VIS-tuh",
+    "forms": [
+      "vistas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wide, pretty view.",
+          "examples": [
+            "We saw a vista.",
+            "The vista was lovely.",
+            "A vista of mountains."
+          ]
+        },
+        "more": {
+          "def": "A wide, beautiful view, especially of the countryside.",
+          "examples": [
+            "We looked at a beautiful vista of mountains and lakes.",
+            "The vista from the top was wide and green.",
+            "A vista of rolling hills opened before us."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "visual",
     "say": "VIZH-oo-ul",
     "forms": [
@@ -1255,6 +2009,31 @@
             "Water is vital for all living things.",
             "Vital supplies were flown to the town after the flood.",
             "The bridge is a vital link between the towns."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vitality",
+    "say": "vy-TAL-ih-tee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Energy and life.",
+          "examples": [
+            "She has vitality.",
+            "The plant has vitality.",
+            "Vitality helps."
+          ]
+        },
+        "more": {
+          "def": "Great energy and liveliness.",
+          "examples": [
+            "She runs with great vitality.",
+            "The garden was full of vitality.",
+            "The plant had new vitality after the rain."
           ]
         }
       }
@@ -1342,6 +2121,12 @@
           ]
         }
       }
+    ],
+    "related": [
+      {
+        "word": "vividness",
+        "def": "Being bright and clear."
+      }
     ]
   },
   {
@@ -1367,6 +2152,34 @@
             "The vixen carried food to her cubs.",
             "A vixen hunted in the dark field.",
             "The vixen has a bushy red tail."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "vizier",
+    "say": "vih-ZEER",
+    "forms": [
+      "viziers"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A high helper to a king in old stories.",
+          "examples": [
+            "The vizier helped the king.",
+            "A vizier is an adviser.",
+            "The vizier was wise."
+          ]
+        },
+        "more": {
+          "def": "A high official who advised a ruler in the Middle East long ago.",
+          "examples": [
+            "The vizier advised the sultan.",
+            "In the story, the vizier was wise.",
+            "The vizier helped the king make decisions."
           ]
         }
       }

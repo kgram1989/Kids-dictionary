@@ -25,6 +25,34 @@
     ]
   },
   {
+    "word": "guanaco",
+    "say": "gwuh-NAH-koh",
+    "forms": [
+      "guanacos"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A wild animal of South America like a small llama.",
+          "examples": [
+            "A guanaco lives in the mountains.",
+            "The guanaco is wild.",
+            "I saw a guanaco."
+          ]
+        },
+        "more": {
+          "def": "A wild relative of the llama that lives in the mountains and plains of South America.",
+          "examples": [
+            "A guanaco grazed on the high plain.",
+            "The guanaco has a long neck and soft wool.",
+            "Guanacos run fast."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "guarantee",
     "say": "gair-un-TEE",
     "forms": [
@@ -204,6 +232,34 @@
     ]
   },
   {
+    "word": "guardrail",
+    "say": "GARD-rayl",
+    "forms": [
+      "guardrails"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong bar along a road to keep people safe.",
+          "examples": [
+            "The guardrail keeps you safe.",
+            "A guardrail is strong.",
+            "The guardrail is along the road."
+          ]
+        },
+        "more": {
+          "def": "A strong rail along the edge of a road or stair to keep people or cars from falling.",
+          "examples": [
+            "A guardrail runs along the cliff road.",
+            "The guardrail kept the car from going off the edge.",
+            "He held on to the guardrail."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "guardsman",
     "say": "GARDZ-mun",
     "forms": [
@@ -226,6 +282,34 @@
             "The guardsman stood at the gate of the palace.",
             "A guardsman wore a red coat and tall hat.",
             "The guardsman did not move or smile."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "guava",
+    "say": "GWAH-vuh",
+    "forms": [
+      "guavas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sweet fruit from a warm place.",
+          "examples": [
+            "I ate a guava.",
+            "The guava is sweet.",
+            "Guava juice."
+          ]
+        },
+        "more": {
+          "def": "A tropical fruit with a green or yellow skin and sweet pink or white flesh.",
+          "examples": [
+            "She drank guava juice.",
+            "The guava tree grows in warm places.",
+            "A guava has many small seeds."
           ]
         }
       }
@@ -256,6 +340,31 @@
             "I guessed that there were two hundred beans in the jar.",
             "Can you guess the ending of the story?",
             "I did not know the answer, so I had to guess."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "guesswork",
+    "say": "GES-werk",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Making guesses.",
+          "examples": [
+            "It was just guesswork.",
+            "Pure guesswork.",
+            "It was only guesswork."
+          ]
+        },
+        "more": {
+          "def": "Making guesses instead of knowing for sure.",
+          "examples": [
+            "His answer was pure guesswork.",
+            "It was guesswork, but he was right.",
+            "The plan relied on guesswork."
           ]
         }
       }
@@ -312,6 +421,55 @@
             "We stayed in the guesthouse behind the main house.",
             "The guesthouse had two beds.",
             "A cozy guesthouse sat by the garden."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "guffaw",
+    "say": "guh-FAW",
+    "forms": [
+      "guffaws",
+      "guffawed",
+      "guffawing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A loud, hearty laugh.",
+          "examples": [
+            "He gave a guffaw.",
+            "Grandpa let out a guffaw.",
+            "A guffaw filled the room."
+          ]
+        },
+        "more": {
+          "def": "A loud, deep laugh.",
+          "examples": [
+            "Grandpa let out a loud guffaw at the joke.",
+            "A guffaw came from the back of the room.",
+            "The silly story brought a guffaw from the crowd."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To laugh loudly.",
+          "examples": [
+            "He guffawed at the joke.",
+            "They guffawed.",
+            "She guffawed with joy."
+          ]
+        },
+        "more": {
+          "def": "To laugh in a loud, deep way.",
+          "examples": [
+            "The farmer guffawed at the clown's trick.",
+            "The friends guffawed until their sides hurt.",
+            "He guffawed when he saw the silly hat."
           ]
         }
       }
@@ -430,6 +588,34 @@
     ]
   },
   {
+    "word": "guild",
+    "say": "gild",
+    "forms": [
+      "guilds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A group of workers in the same trade, long ago.",
+          "examples": [
+            "The bakers had a guild.",
+            "The guild met in town.",
+            "A guild helped its workers."
+          ]
+        },
+        "more": {
+          "def": "A group of people who do the same kind of work and join together to help each other, especially in the past.",
+          "examples": [
+            "In the Middle Ages, the weavers formed a guild.",
+            "Each guild had its own rules and set prices.",
+            "The guild trained young workers in a craft."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "guilt",
     "say": "gilt",
     "senses": [
@@ -449,6 +635,37 @@
             "He felt guilt after telling a lie.",
             "Guilt made her tell the truth.",
             "The guilt over the broken vase stayed with her."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "guiltless",
+        "def": "Not guilty."
+      }
+    ]
+  },
+  {
+    "word": "guiltily",
+    "say": "GIL-tih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that shows you feel bad about something you did.",
+          "examples": [
+            "He looked guiltily at the broken cup.",
+            "She guiltily hid the cookie.",
+            "The dog guiltily slunk away."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows you feel bad because you did something wrong.",
+          "examples": [
+            "He looked guiltily at the broken vase.",
+            "She guiltily hid the candy wrapper.",
+            "The puppy guiltily lowered its head next to the torn pillow."
           ]
         }
       }
@@ -474,6 +691,34 @@
             "I felt guilty when I ate the last cookie.",
             "The dog looked guilty beside the torn pillow.",
             "She felt guilty for forgetting her friend's birthday."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "guise",
+    "say": "gyz",
+    "forms": [
+      "guises"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The way something looks, which may be false.",
+          "examples": [
+            "He came in the guise of a beggar.",
+            "The wolf was in the guise of a sheep.",
+            "A strange guise."
+          ]
+        },
+        "more": {
+          "def": "The way someone or something looks, often to hide what they really are.",
+          "examples": [
+            "The wolf came in the guise of a sheep.",
+            "The prince traveled in the guise of a poor man.",
+            "The idea came in a new guise."
           ]
         }
       }
@@ -531,6 +776,34 @@
             "The guitarist strummed a happy song.",
             "A guitarist joined the band.",
             "She is the best guitarist in school."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gulch",
+    "say": "gulch",
+    "forms": [
+      "gulches"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A narrow, deep valley with steep sides.",
+          "examples": [
+            "We walked in the gulch.",
+            "The gulch is narrow.",
+            "A gulch is a small valley."
+          ]
+        },
+        "more": {
+          "def": "A narrow, steep-sided valley, often cut by a stream.",
+          "examples": [
+            "We walked along the rocky gulch.",
+            "A stream ran through the gulch.",
+            "The horses followed the gulch."
           ]
         }
       }
@@ -607,6 +880,34 @@
             "A gull glided over the harbor and landed on the pier.",
             "The gull screamed as it chased the fishing boat.",
             "We fed the gulls on the beach."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gullet",
+    "say": "GUL-it",
+    "forms": [
+      "gullets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The tube from the mouth to the stomach.",
+          "examples": [
+            "The food went down his gullet.",
+            "The bird has a gullet.",
+            "A pelican's gullet is big."
+          ]
+        },
+        "more": {
+          "def": "The tube that carries food from the mouth to the stomach; the throat.",
+          "examples": [
+            "The bird swallowed the fish down its gullet.",
+            "The pelican has a large pouch near its gullet.",
+            "He felt the cold drink go down his gullet."
           ]
         }
       }
@@ -756,6 +1057,87 @@
             "My gums were a little sore.",
             "The dentist checked my teeth and gums.",
             "Brushing helps keep your gums healthy."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gumball",
+    "say": "GUM-bawl",
+    "forms": [
+      "gumballs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A round piece of bubble gum.",
+          "examples": [
+            "I chewed a gumball.",
+            "The gumball is red.",
+            "A gumball machine."
+          ]
+        },
+        "more": {
+          "def": "A small, round piece of bubble gum or hard candy.",
+          "examples": [
+            "I put a coin in the machine and got a gumball.",
+            "The gumball was sweet and chewy.",
+            "She chewed a blue gumball."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gumbo",
+    "say": "GUM-boh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A thick soup from the southern U.S.",
+          "examples": [
+            "We ate gumbo.",
+            "Gumbo is thick soup.",
+            "Mom made gumbo."
+          ]
+        },
+        "more": {
+          "def": "A thick, spicy stew, especially from Louisiana, often with seafood or sausage and okra.",
+          "examples": [
+            "We ate a bowl of hot gumbo.",
+            "Gumbo is popular in Louisiana.",
+            "Mom made gumbo with shrimp and rice."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gumdrop",
+    "say": "GUM-drop",
+    "forms": [
+      "gumdrops"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft, chewy candy covered in sugar.",
+          "examples": [
+            "I ate a gumdrop.",
+            "The gumdrop is sweet.",
+            "Gumdrops are candy."
+          ]
+        },
+        "more": {
+          "def": "A small, soft, chewy candy covered in sugar.",
+          "examples": [
+            "She decorated the cake with red gumdrops.",
+            "A gumdrop is soft and sweet.",
+            "I picked a green gumdrop."
           ]
         }
       }
@@ -979,6 +1361,60 @@
     ]
   },
   {
+    "word": "gusto",
+    "say": "GUS-toh",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Great energy and fun.",
+          "examples": [
+            "He sang with gusto.",
+            "She ate with gusto.",
+            "They played with gusto."
+          ]
+        },
+        "more": {
+          "def": "Great energy and enjoyment when you do something.",
+          "examples": [
+            "He sang the song with gusto.",
+            "The children dug into the pizza with gusto.",
+            "She played the drums with great gusto."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "gusty",
+    "say": "GUS-tee",
+    "forms": [
+      "gustier",
+      "gustiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Blowing in strong bursts.",
+          "examples": [
+            "It was a gusty day.",
+            "A gusty wind.",
+            "The gusty weather."
+          ]
+        },
+        "more": {
+          "def": "Having strong, sudden bursts of wind.",
+          "examples": [
+            "It was a gusty day, so we flew kites.",
+            "A gusty wind blew the leaves around.",
+            "The gusty weather shook the trees."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "gut",
     "say": "gut",
     "forms": [
@@ -1105,6 +1541,31 @@
             "Rain ran down the gutter.",
             "The gutter on the roof was full of leaves.",
             "The ball rolled into the gutter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "guttural",
+    "say": "GUT-er-ul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Deep and rough in the throat.",
+          "examples": [
+            "A guttural sound.",
+            "The guttural growl.",
+            "A guttural voice."
+          ]
+        },
+        "more": {
+          "def": "Sounding deep and harsh, made in the throat.",
+          "examples": [
+            "The dog gave a guttural growl.",
+            "He spoke in a guttural voice.",
+            "The frog made a guttural croak."
           ]
         }
       }

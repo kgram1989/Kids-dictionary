@@ -1,5 +1,89 @@
 [
   {
+    "word": "eccentric",
+    "say": "ik-SEN-trik",
+    "forms": [
+      "eccentrics"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Odd and different from other people.",
+          "examples": [
+            "The eccentric man wore a funny hat.",
+            "Her aunt is eccentric.",
+            "He is an eccentric artist."
+          ]
+        },
+        "more": {
+          "def": "Behaving in an odd or unusual way that is different from most people.",
+          "examples": [
+            "The eccentric inventor wore a hat with a propeller.",
+            "Her aunt is eccentric and keeps a goat in the yard.",
+            "The eccentric professor wore two different socks every day."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "eccentricity",
+    "say": "ek-sen-TRIS-ih-tee",
+    "forms": [
+      "eccentricities"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strange habit.",
+          "examples": [
+            "His eccentricity was funny.",
+            "An odd eccentricity.",
+            "Her eccentricity is charming."
+          ]
+        },
+        "more": {
+          "def": "A strange or unusual habit that makes a person stand out.",
+          "examples": [
+            "Wearing a hat indoors was his eccentricity.",
+            "His eccentricities made him a favorite character.",
+            "One of her eccentricities was collecting spoons."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "echidna",
+    "say": "ih-KID-nuh",
+    "forms": [
+      "echidnas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A spiny animal from Australia that eats ants.",
+          "examples": [
+            "An echidna has spines.",
+            "The echidna eats ants.",
+            "I saw an echidna."
+          ]
+        },
+        "more": {
+          "def": "A small spiny animal of Australia with a long snout that lays eggs.",
+          "examples": [
+            "An echidna rolled into a ball.",
+            "The echidna uses its long tongue to eat ants.",
+            "An echidna is covered in spines."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "echo",
     "say": "EK-oh",
     "emoji": "🗣️",
@@ -23,6 +107,59 @@
             "We shouted across the canyon and listened for the echo.",
             "The echo of footsteps filled the empty hallway.",
             "Bats listen for echoes to find insects."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "echolocation",
+    "say": "ek-oh-loh-KAY-shun",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Finding things using sound echoes.",
+          "examples": [
+            "Bats use echolocation.",
+            "Echolocation uses sound.",
+            "Dolphins use echolocation."
+          ]
+        },
+        "more": {
+          "def": "A way of finding objects by sending out sounds and listening to the echoes.",
+          "examples": [
+            "Bats use echolocation to find insects in the dark.",
+            "Dolphins use echolocation to find fish.",
+            "Echolocation helps animals see with sound."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "eclair",
+    "say": "ay-KLAIR",
+    "forms": [
+      "eclairs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A long pastry filled with cream and covered in chocolate.",
+          "examples": [
+            "An eclair is a pastry.",
+            "I ate an eclair.",
+            "The eclair has cream."
+          ]
+        },
+        "more": {
+          "def": "A long pastry filled with cream and covered with chocolate.",
+          "examples": [
+            "I ate a cream-filled eclair.",
+            "The eclair was sweet and soft.",
+            "The bakery sells an eclair with chocolate on top."
           ]
         }
       }
@@ -60,6 +197,84 @@
     ]
   },
   {
+    "word": "ecological",
+    "say": "ee-kuh-LOJ-ih-kul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "About how living things and nature fit together.",
+          "examples": [
+            "An ecological study.",
+            "The ecological balance.",
+            "It is ecological."
+          ]
+        },
+        "more": {
+          "def": "Having to do with how living things relate to each other and to their surroundings.",
+          "examples": [
+            "Scientists studied the ecological balance of the pond.",
+            "Pollution can cause ecological harm.",
+            "The park is an ecological treasure."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ecologist",
+    "say": "ih-KOL-uh-jist",
+    "forms": [
+      "ecologists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A scientist who studies nature and living things together.",
+          "examples": [
+            "The ecologist counted frogs by the river.",
+            "An ecologist studies nature.",
+            "She is an ecologist."
+          ]
+        },
+        "more": {
+          "def": "A scientist who studies how living things relate to each other and to their surroundings.",
+          "examples": [
+            "The ecologist studied the pond.",
+            "An ecologist tracks how animals and plants depend on each other.",
+            "She is an ecologist who studies the forest."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ecology",
+    "say": "ih-KOL-uh-jee",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The study of how living things live together with their surroundings.",
+          "examples": [
+            "Ecology is about nature.",
+            "She studies ecology.",
+            "Ecology teaches about forests."
+          ]
+        },
+        "more": {
+          "def": "The study of how living things such as plants and animals depend on each other and on their surroundings.",
+          "examples": [
+            "Ecology teaches how a forest works.",
+            "She studied the ecology of a pond.",
+            "Ecology shows how animals and plants help each other."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "economic",
     "say": "ek-uh-NOM-ik",
     "senses": [
@@ -79,6 +294,90 @@
             "The new factory brought economic growth to the town.",
             "The mayor talked about economic problems and how to solve them.",
             "Farming is a big part of the country's economic life."
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "word": "uneconomic",
+        "def": "Not saving money."
+      }
+    ]
+  },
+  {
+    "word": "economical",
+    "say": "ek-uh-NOM-ih-kul",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Not costing much.",
+          "examples": [
+            "An economical car.",
+            "The economical meal.",
+            "It is economical."
+          ]
+        },
+        "more": {
+          "def": "Saving money or using little; not wasteful.",
+          "examples": [
+            "An economical car saves on gas.",
+            "The soup was an economical meal.",
+            "It is economical to buy in bulk."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "economics",
+    "say": "ek-uh-NOM-iks",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The study of money, buying and selling.",
+          "examples": [
+            "Economics is about money.",
+            "She studies economics.",
+            "Economics is a class."
+          ]
+        },
+        "more": {
+          "def": "The study of how people make, buy, sell and use money and goods.",
+          "examples": [
+            "Economics teaches how prices work.",
+            "He studied economics in college.",
+            "Economics explains why things cost money."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "economist",
+    "say": "ih-KON-uh-mist",
+    "forms": [
+      "economists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who studies money and business.",
+          "examples": [
+            "An economist studies money.",
+            "The economist spoke.",
+            "She is an economist."
+          ]
+        },
+        "more": {
+          "def": "A person who studies how money, goods and jobs work in a country.",
+          "examples": [
+            "The economist explained why prices went up.",
+            "An economist studies how people spend money.",
+            "She works as an economist for the bank."
           ]
         }
       }
@@ -113,6 +412,34 @@
     ]
   },
   {
+    "word": "ecosystem",
+    "say": "EE-koh-sis-tum",
+    "forms": [
+      "ecosystems"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "All the plants, animals and land of one place, working together.",
+          "examples": [
+            "A pond is an ecosystem.",
+            "The ecosystem is healthy.",
+            "Fish live in the ecosystem."
+          ]
+        },
+        "more": {
+          "def": "All the living things in an area and the way they depend on each other and their surroundings.",
+          "examples": [
+            "A pond is a small ecosystem with plants, fish and insects.",
+            "Bees are an important part of the ecosystem.",
+            "Pollution can harm a whole ecosystem."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "ecstatic",
     "say": "ek-STAT-ik",
     "senses": [
@@ -132,6 +459,31 @@
             "She was ecstatic when she found out she had won the prize.",
             "The ecstatic crowd cheered when the team scored.",
             "I was ecstatic to see my cousin after a whole year."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "ecstatically",
+    "say": "ek-STAT-ik-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a very, very happy way.",
+          "examples": [
+            "She cheered ecstatically.",
+            "He jumped ecstatically.",
+            "They danced ecstatically."
+          ]
+        },
+        "more": {
+          "def": "In a way that shows you are extremely happy.",
+          "examples": [
+            "She cheered ecstatically when her team won.",
+            "The puppy wagged its tail ecstatically.",
+            "The children danced ecstatically."
           ]
         }
       }

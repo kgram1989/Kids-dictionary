@@ -1,5 +1,30 @@
 [
   {
+    "word": "yeah",
+    "say": "yeh",
+    "senses": [
+      {
+        "pos": "interjection",
+        "easy": {
+          "def": "A word that means yes.",
+          "examples": [
+            "Yeah, I like it!",
+            "Yeah, I can come.",
+            "Yeah, that is my dog."
+          ]
+        },
+        "more": {
+          "def": "A friendly way of saying yes, used when talking.",
+          "examples": [
+            "\"Yeah, I would love to,\" said Ben.",
+            "\"Yeah, it was a great trip,\" she said.",
+            "Yeah, we can meet at the park after school."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "year",
     "say": "yeer",
     "forms": [
@@ -50,6 +75,136 @@
             "Friends signed my yearbook.",
             "The yearbook has pictures of every class.",
             "She looked at her old yearbook."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "yearling",
+    "say": "YEER-ling",
+    "forms": [
+      "yearlings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "An animal that is one year old.",
+          "examples": [
+            "The yearling is young.",
+            "A yearling horse.",
+            "The yearling grew."
+          ]
+        },
+        "more": {
+          "def": "An animal that is between one and two years old.",
+          "examples": [
+            "The yearling foal galloped around the paddock.",
+            "A yearling is older than a baby but not yet an adult.",
+            "The farmer sold the yearling calf."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "yearly",
+    "say": "YEER-lee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Happening once a year.",
+          "examples": [
+            "It is a yearly party.",
+            "A yearly trip.",
+            "The yearly fair."
+          ]
+        },
+        "more": {
+          "def": "Happening once every year.",
+          "examples": [
+            "Our family takes a yearly trip to the lake.",
+            "The town holds a yearly fair.",
+            "Her yearly checkup is in June."
+          ]
+        }
+      },
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Once a year.",
+          "examples": [
+            "The fair happens yearly.",
+            "The tree blooms yearly.",
+            "We visit yearly."
+          ]
+        },
+        "more": {
+          "def": "Once every year.",
+          "examples": [
+            "The festival is held yearly in June.",
+            "The tree blooms yearly in spring.",
+            "Our family visits the lake yearly."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "yearn",
+    "say": "yern",
+    "forms": [
+      "yearns",
+      "yearned",
+      "yearning"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To want something very much.",
+          "examples": [
+            "I yearn for summer.",
+            "The bird yearns to fly.",
+            "She yearns to swim."
+          ]
+        },
+        "more": {
+          "def": "To want something very much, especially something you do not have.",
+          "examples": [
+            "I yearn for summer on cold days.",
+            "He yearned for home.",
+            "She yearns to see the ocean."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "yearning",
+    "say": "YER-ning",
+    "forms": [
+      "yearnings"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A strong wish for something.",
+          "examples": [
+            "She had a yearning for home.",
+            "A yearning to fly.",
+            "The yearning grew."
+          ]
+        },
+        "more": {
+          "def": "A deep, strong wish for something.",
+          "examples": [
+            "She felt a yearning for home.",
+            "He had a yearning to see the ocean.",
+            "A yearning to travel filled her thoughts."
           ]
         }
       }
@@ -161,6 +316,84 @@
     ]
   },
   {
+    "word": "yellowish",
+    "say": "YEL-oh-ish",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A bit yellow.",
+          "examples": [
+            "The paper looked yellowish.",
+            "The water was yellowish.",
+            "A yellowish leaf."
+          ]
+        },
+        "more": {
+          "def": "Somewhat yellow in color.",
+          "examples": [
+            "The old paper had turned yellowish.",
+            "The water in the stream looked yellowish.",
+            "The leaves turned a yellowish green in the fall."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "yellowjacket",
+    "say": "YEL-oh-jak-it",
+    "forms": [
+      "yellowjackets"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind of wasp with yellow and black stripes.",
+          "examples": [
+            "A yellowjacket can sting.",
+            "The yellowjacket is a wasp.",
+            "I saw a yellowjacket."
+          ]
+        },
+        "more": {
+          "def": "A small wasp with yellow and black stripes that can sting.",
+          "examples": [
+            "A yellowjacket buzzed around the picnic.",
+            "The yellowjacket built a nest in the ground.",
+            "Yellowjackets like sweet foods."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "yellowy",
+    "say": "YEL-oh-ee",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "A bit yellow.",
+          "examples": [
+            "The paper was yellowy.",
+            "A yellowy light.",
+            "The yellowy flower."
+          ]
+        },
+        "more": {
+          "def": "Somewhat yellow in color.",
+          "examples": [
+            "The old paper had turned yellowy.",
+            "A yellowy light came from the lamp.",
+            "The leaf was a yellowy green."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "yelp",
     "say": "yelp",
     "forms": [
@@ -204,6 +437,31 @@
             "The puppy yelped when its tail got stepped on.",
             "He yelped in surprise at the cold water.",
             "The kitten yelped when it was picked up."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "yen",
+    "say": "yen",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Money used in Japan.",
+          "examples": [
+            "It cost one hundred yen.",
+            "A yen is Japanese money.",
+            "He had many yen."
+          ]
+        },
+        "more": {
+          "def": "The unit of money used in Japan.",
+          "examples": [
+            "The toy cost five hundred yen.",
+            "Japan uses the yen.",
+            "She counted her yen."
           ]
         }
       }
@@ -307,6 +565,34 @@
             "The yeti lives in the snowy mountains of the story.",
             "Explorers looked for the yeti.",
             "The yeti left huge footprints."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "yew",
+    "say": "yoo",
+    "forms": [
+      "yews"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A dark green tree that stays green.",
+          "examples": [
+            "A yew grew in the churchyard.",
+            "The yew is dark green.",
+            "The yew stays green."
+          ]
+        },
+        "more": {
+          "def": "An evergreen tree with flat, dark needle-like leaves and small red berries; the berries and leaves are poisonous.",
+          "examples": [
+            "An old yew stood in the churchyard.",
+            "The yew stays green all year.",
+            "Do not eat the red berries of a yew tree."
           ]
         }
       }
