@@ -1546,6 +1546,34 @@
     ]
   },
   {
+    "word": "enigma",
+    "say": "ih-NIG-muh",
+    "forms": [
+      "enigmas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A puzzle or mystery.",
+          "examples": [
+            "The enigma puzzled us.",
+            "An enigma is a mystery.",
+            "It is an enigma."
+          ]
+        },
+        "more": {
+          "def": "Something or someone that is mysterious and hard to understand.",
+          "examples": [
+            "The missing key was an enigma.",
+            "The stranger was a real enigma.",
+            "It remains an enigma how it happened."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "enigmatic",
     "say": "en-ig-MAT-ik",
     "senses": [
@@ -2921,6 +2949,36 @@
     ]
   },
   {
+    "word": "enumerate",
+    "say": "ih-NOO-mer-ayt",
+    "forms": [
+      "enumerates",
+      "enumerated",
+      "enumerating"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To count or list one by one.",
+          "examples": [
+            "She enumerated the items.",
+            "He enumerated the days.",
+            "List and enumerate."
+          ]
+        },
+        "more": {
+          "def": "To name things one by one, or to count them.",
+          "examples": [
+            "She enumerated all the items on the list.",
+            "He enumerated the days of the week.",
+            "The teacher enumerated the rules."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "enunciate",
     "say": "ih-NUN-see-ayt",
     "forms": [
@@ -3004,6 +3062,37 @@
             "I put the card in an envelope.",
             "The envelope had her name on the front.",
             "She licked the envelope and sealed it."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "enviable",
+    "say": "EN-vee-uh-bul",
+    "related": [
+      {
+        "word": "unenviable",
+        "def": "Not something to envy."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Something you wish you had.",
+          "examples": [
+            "An enviable talent.",
+            "The enviable view.",
+            "Her enviable skill."
+          ]
+        },
+        "more": {
+          "def": "Worth wishing you had; very good or desirable.",
+          "examples": [
+            "She has an enviable talent for singing.",
+            "The house had an enviable view.",
+            "It was an enviable victory."
           ]
         }
       }
