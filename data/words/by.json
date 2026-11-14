@@ -153,6 +153,34 @@
     ]
   },
   {
+    "word": "byre",
+    "say": "BYR",
+    "forms": [
+      "byres"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A barn for cows.",
+          "examples": [
+            "The byre is a barn.",
+            "The cows are in the byre.",
+            "The byre is old."
+          ]
+        },
+        "more": {
+          "def": "A cowshed or barn for cows.",
+          "examples": [
+            "The cows slept in the byre.",
+            "The old byre had a straw floor.",
+            "The farmer milked cows in the byre."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "bystander",
     "say": "BY-stan-der",
     "forms": [
@@ -175,6 +203,34 @@
             "A bystander called for help.",
             "The bystanders watched the parade.",
             "A kind bystander picked up the dropped bag."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "byte",
+    "say": "BYT",
+    "forms": [
+      "bytes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small piece of computer information.",
+          "examples": [
+            "A byte is small.",
+            "A byte stores a letter.",
+            "Bytes are tiny."
+          ]
+        },
+        "more": {
+          "def": "A unit of computer information, usually enough to store one letter.",
+          "examples": [
+            "A byte can store one letter.",
+            "There are eight bits in a byte.",
+            "The file is 500 bytes in size."
           ]
         }
       }
