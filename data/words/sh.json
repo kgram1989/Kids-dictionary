@@ -1135,6 +1135,31 @@
     ]
   },
   {
+    "word": "sheen",
+    "say": "sheen",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A soft shine.",
+          "examples": [
+            "The horse's coat had a sheen.",
+            "The silk had a sheen.",
+            "His hair had a sheen."
+          ]
+        },
+        "more": {
+          "def": "A soft, bright shine on a surface.",
+          "examples": [
+            "The horse's coat had a glossy sheen.",
+            "The silk cloth had a pretty sheen.",
+            "A sheen of oil lay on the water."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sheep",
     "say": "sheep",
     "emoji": "🐑",
@@ -1458,6 +1483,36 @@
             "The hikers built a shelter out of branches before the storm.",
             "The barn gave the cows shelter from the snow.",
             "People who lost their homes stayed at a shelter."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shelve",
+    "say": "shelv",
+    "forms": [
+      "shelves",
+      "shelved",
+      "shelving"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To put something on a shelf.",
+          "examples": [
+            "I shelve the books.",
+            "She shelved the toys.",
+            "He shelved the jars."
+          ]
+        },
+        "more": {
+          "def": "To put something on a shelf, or to put a plan aside for later.",
+          "examples": [
+            "The librarian shelved the returned books.",
+            "They shelved the plan until next year.",
+            "He shelved the jars of jam in the pantry."
           ]
         }
       }

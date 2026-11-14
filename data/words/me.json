@@ -178,6 +178,36 @@
     ]
   },
   {
+    "word": "meander",
+    "say": "mee-AN-der",
+    "forms": [
+      "meanders",
+      "meandered",
+      "meandering"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To wander or twist slowly.",
+          "examples": [
+            "The stream meanders.",
+            "We meandered down the path.",
+            "The river meanders through the valley."
+          ]
+        },
+        "more": {
+          "def": "To follow a winding path, or to wander slowly with no goal.",
+          "examples": [
+            "The river meanders through the green valley.",
+            "We meandered along the beach, picking up shells.",
+            "The path meanders through the woods."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "meaning",
     "say": "MEE-ning",
     "forms": [
@@ -2653,6 +2683,34 @@
             "We measured with a metric ruler.",
             "A meter is a metric unit of length.",
             "Most countries use the metric system."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "metro",
+    "say": "MET-roh",
+    "forms": [
+      "metros"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A train that runs under a city.",
+          "examples": [
+            "We took the metro.",
+            "The metro is fast.",
+            "The metro stops here."
+          ]
+        },
+        "more": {
+          "def": "An underground railway system that carries people through a city.",
+          "examples": [
+            "We took the metro to the museum.",
+            "The metro runs under the busy streets.",
+            "Riding the metro is faster than driving in traffic."
           ]
         }
       }
