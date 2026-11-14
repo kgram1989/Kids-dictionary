@@ -982,6 +982,36 @@
     ]
   },
   {
+    "word": "char",
+    "say": "char",
+    "forms": [
+      "chars",
+      "charred",
+      "charring"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To burn the outside black.",
+          "examples": [
+            "The toast was charred.",
+            "The wood charred.",
+            "The fire charred the log."
+          ]
+        },
+        "more": {
+          "def": "To burn the surface of something so that it turns black.",
+          "examples": [
+            "The toast was charred black.",
+            "The fire charred the wood.",
+            "He charred the marshmallow over the fire."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "character",
     "say": "KAIR-ik-ter",
     "forms": [
@@ -2322,6 +2352,31 @@
             "I went to the doctor for my yearly checkup.",
             "The dentist gave me a checkup and said my teeth were healthy.",
             "After the checkup, the nurse gave me a sticker."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "cheddar",
+    "say": "CHED-er",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A hard yellow or orange cheese.",
+          "examples": [
+            "I like cheddar.",
+            "Cheddar is cheese.",
+            "The sandwich has cheddar."
+          ]
+        },
+        "more": {
+          "def": "A firm cheese, usually yellow or orange, with a sharp taste.",
+          "examples": [
+            "We ate macaroni and cheddar.",
+            "Cheddar melts well on a sandwich.",
+            "The sharp cheddar tasted tangy."
           ]
         }
       }
@@ -4817,6 +4872,34 @@
             "She chronicled the family's trip across the country in a diary.",
             "The book chronicles the history of our town.",
             "The reporter chronicled the fair for the newspaper."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "chrysalis",
+    "say": "KRIS-uh-lis",
+    "forms": [
+      "chrysalises"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The hard case a caterpillar changes inside.",
+          "examples": [
+            "The chrysalis hung on a leaf.",
+            "A butterfly comes from a chrysalis.",
+            "The chrysalis is hard."
+          ]
+        },
+        "more": {
+          "def": "The hard case that a caterpillar makes around itself while it changes into a butterfly or moth.",
+          "examples": [
+            "The caterpillar turned into a chrysalis.",
+            "A butterfly burst out of the chrysalis.",
+            "The chrysalis hung from a twig."
           ]
         }
       }
