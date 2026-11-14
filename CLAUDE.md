@@ -7,7 +7,7 @@ no server or database.
 ## Layout
 
 - `data/words/*.json` — the dictionary entries, in files named after each word's first two letters (`camouflage` → `ca.json`).
-- `data/wordlist.txt` — the master list of about 19,800 words to add, most-used first (the first 10,900 are written; about 8,900 from children's books, other children's sources and school subjects were added after). Do not reorder it.
+- `data/wordlist.txt` — the master list of about 21,400 words to add, most-used first (the first 10,900 are written; about 10,500 from children's books, other children's sources, school subjects and word families were added after). Do not reorder it.
 - `data/skipped.txt` — words from the list that were deliberately left out, with reasons.
 - `data/derived.txt` — words built from a root word (`unjust`, `sugarless`) that get a one-line `related` entry under their root, not a full entry.
 - `data/blocked.txt` — words removed as unsuitable for children. They must never get an entry, a related line or a hint; the check enforces this. Only the owner changes this file.
@@ -29,7 +29,7 @@ no server or database.
 
 ## The main ongoing job: adding words
 
-The goal is to work through `data/wordlist.txt` until the dictionary has about 19,000
+The goal is to work through `data/wordlist.txt` until the dictionary has about 20,500
 words. When asked to "add the next words" (or similar):
 
 1. Read `docs/WRITING_GUIDE.md` in full first. Its rules are requirements, not suggestions.
