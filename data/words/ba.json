@@ -757,6 +757,34 @@
     ]
   },
   {
+    "word": "backslash",
+    "say": "BAK-slash",
+    "forms": [
+      "backslashes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The slanted line \\ on a keyboard.",
+          "examples": [
+            "The backslash leans back.",
+            "Type a backslash.",
+            "The backslash is a key."
+          ]
+        },
+        "more": {
+          "def": "A slanted line (\\) used in computer programs and file names.",
+          "examples": [
+            "Type a backslash after the folder name.",
+            "The backslash leans to the left.",
+            "A backslash is not the same as a forward slash."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "backstage",
     "say": "BAK-stayj",
     "senses": [
@@ -3452,6 +3480,34 @@
             "Dad took me to the barbershop for a haircut.",
             "The barbershop has a red and white striped pole outside.",
             "The barber swept the hair from the floor of the barbershop."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "barcode",
+    "say": "BAR-kohd",
+    "forms": [
+      "barcodes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "Black lines on a package that a scanner reads.",
+          "examples": [
+            "The barcode is on the back of the box.",
+            "Scan the barcode.",
+            "The cashier scanned the barcode."
+          ]
+        },
+        "more": {
+          "def": "A pattern of black lines on a product that a scanner can read.",
+          "examples": [
+            "The cashier scanned the barcode.",
+            "A barcode tells the price.",
+            "Every box at the store has a barcode."
           ]
         }
       }
