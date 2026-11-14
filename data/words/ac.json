@@ -1762,5 +1762,40 @@
         }
       }
     ]
+  },
+  {
+    "word": "acute",
+    "say": "uh-KYOOT",
+    "forms": [
+      "acuter",
+      "acutest"
+    ],
+    "related": [
+      {
+        "word": "acuteness",
+        "def": "Being sharp or very strong."
+      }
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Very sharp or strong.",
+          "examples": [
+            "She has acute hearing.",
+            "An acute pain.",
+            "An acute angle."
+          ]
+        },
+        "more": {
+          "def": "Sharp and strong, or very keen.",
+          "examples": [
+            "Dogs have acute hearing.",
+            "An acute angle is less than ninety degrees.",
+            "He felt an acute pain in his ankle."
+          ]
+        }
+      }
+    ]
   }
 ]

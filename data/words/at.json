@@ -869,5 +869,53 @@
         }
       }
     ]
+  },
+  {
+    "word": "attribute",
+    "say": "AT-rih-byoot",
+    "forms": [
+      "attributes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A quality of a person or thing.",
+          "examples": [
+            "Kindness is an attribute.",
+            "Strength is her attribute.",
+            "Courage is a good attribute."
+          ]
+        },
+        "more": {
+          "def": "A quality or feature that belongs to a person or thing.",
+          "examples": [
+            "Kindness is her best attribute.",
+            "Speed is the cheetah's main attribute.",
+            "Honesty is an attribute that people admire."
+          ]
+        }
+      },
+      {
+        "pos": "verb",
+        "say": "ih-TRIB-yoot",
+        "easy": {
+          "def": "To say something comes from a certain person or cause.",
+          "examples": [
+            "They attribute the song to him.",
+            "She attributes her win to practice.",
+            "The poem is attributed to her."
+          ]
+        },
+        "more": {
+          "def": "To say that something was caused or made by a person or thing.",
+          "examples": [
+            "She attributes her success to hard work.",
+            "Experts attribute the song to a famous composer.",
+            "The scientists attribute the change to the weather."
+          ]
+        }
+      }
+    ]
   }
 ]
