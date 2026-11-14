@@ -776,5 +776,33 @@
         }
       }
     ]
+  },
+  {
+    "word": "afterword",
+    "say": "AF-ter-werd",
+    "forms": [
+      "afterwords"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A short note at the end of a book.",
+          "examples": [
+            "The book has an afterword.",
+            "Read the afterword.",
+            "The afterword is short."
+          ]
+        },
+        "more": {
+          "def": "A short section at the end of a book that adds comments by the author.",
+          "examples": [
+            "The author wrote an afterword.",
+            "Read the afterword for more about the story.",
+            "The afterword explained how the book began."
+          ]
+        }
+      }
+    ]
   }
 ]
