@@ -307,6 +307,35 @@
     ]
   },
   {
+    "word": "enchilada",
+    "say": "en-chuh-LAH-duh",
+    "emoji": "🌯",
+    "forms": [
+      "enchiladas"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A rolled tortilla filled with meat or cheese and covered in sauce.",
+          "examples": [
+            "We ate enchiladas.",
+            "The enchilada was warm.",
+            "The enchilada had cheese."
+          ]
+        },
+        "more": {
+          "def": "A Mexican dish of a rolled tortilla filled with meat, cheese or beans and covered with sauce.",
+          "examples": [
+            "We ate cheese enchiladas for dinner.",
+            "An enchilada is a tortilla rolled around a filling.",
+            "The enchilada was covered in red sauce."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "encircle",
     "say": "in-SER-kul",
     "forms": [
@@ -389,6 +418,36 @@
             "The lions lived in a large enclosure at the zoo.",
             "A fenced enclosure kept the sheep safe.",
             "The enclosure had a gate."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "encode",
+    "say": "en-KOHD",
+    "forms": [
+      "encodes",
+      "encoded",
+      "encoding"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To turn words into a secret code.",
+          "examples": [
+            "We encode secret notes.",
+            "She encoded her message.",
+            "He is encoding the words."
+          ]
+        },
+        "more": {
+          "def": "To change a message into a code so that only someone with the key can understand it.",
+          "examples": [
+            "The spy encoded the message in a secret code.",
+            "Computers encode pictures as numbers.",
+            "Friends can encode their notes with a secret alphabet."
           ]
         }
       }
@@ -661,6 +720,37 @@
             "Ice encrusted the branches after the storm.",
             "Dried mud encrusted his boots.",
             "Tiny shells encrust the rocks on the beach."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "encrypt",
+    "say": "en-KRIPT",
+    "emoji": "💻",
+    "forms": [
+      "encrypts",
+      "encrypted",
+      "encrypting"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "easy": {
+          "def": "To change a message into secret code.",
+          "examples": [
+            "We encrypt the message.",
+            "She encrypted her file.",
+            "The computer encrypts your password."
+          ]
+        },
+        "more": {
+          "def": "To turn information into a secret code so that only people with the key can read it.",
+          "examples": [
+            "Computers encrypt passwords to keep them safe.",
+            "The app encrypts your messages so that no one else can read them.",
+            "She encrypted the file before sending it."
           ]
         }
       }
@@ -954,6 +1044,34 @@
             "Humans have an endoskeleton made of bones.",
             "Fish and dogs have an endoskeleton.",
             "A crab has a shell, but a cat has an endoskeleton."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "endpoint",
+    "say": "END-poynt",
+    "forms": [
+      "endpoints"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The point at the end of a line.",
+          "examples": [
+            "A line segment has two endpoints.",
+            "The endpoint is at the end of the line.",
+            "Mark each endpoint."
+          ]
+        },
+        "more": {
+          "def": "A point at the end of a line segment or at the end of a path.",
+          "examples": [
+            "A line segment has an endpoint at each end.",
+            "Draw a dot at each endpoint.",
+            "The endpoint of the trail was a lake."
           ]
         }
       }
@@ -2572,6 +2690,31 @@
     ]
   },
   {
+    "word": "enticing",
+    "say": "en-TY-sing",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Making you want it.",
+          "examples": [
+            "The smell was enticing.",
+            "The enticing pie cooled.",
+            "The enticing smell of toast filled the room."
+          ]
+        },
+        "more": {
+          "def": "So attractive or pleasing that it makes you want it.",
+          "examples": [
+            "The smell of fresh bread was enticing.",
+            "The enticing cake sat on the table.",
+            "An enticing path led into the woods."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "entire",
     "say": "en-TYR",
     "senses": [
@@ -3315,6 +3458,35 @@
             "Environmentalism teaches us to recycle.",
             "She joined the club because of her love for environmentalism.",
             "Environmentalism is about protecting the Earth."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "environmentalist",
+    "say": "en-vy-run-MEN-tul-ist",
+    "emoji": "🌍",
+    "forms": [
+      "environmentalists"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who works to protect nature.",
+          "examples": [
+            "The environmentalist cleaned the beach.",
+            "An environmentalist loves nature.",
+            "My aunt is an environmentalist."
+          ]
+        },
+        "more": {
+          "def": "A person who works to protect the air, water, land and wildlife from harm.",
+          "examples": [
+            "The environmentalist organized a beach cleanup.",
+            "An environmentalist wants to keep the air and water clean.",
+            "My aunt is an environmentalist who plants trees."
           ]
         }
       }

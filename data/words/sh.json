@@ -1,5 +1,30 @@
 [
   {
+    "word": "shabbily",
+    "say": "SHAB-ih-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a worn out, messy way.",
+          "examples": [
+            "He was shabbily dressed.",
+            "The house was shabbily kept.",
+            "She treated him shabbily."
+          ]
+        },
+        "more": {
+          "def": "In a worn or poor way, or in an unfair way.",
+          "examples": [
+            "He was shabbily dressed in torn clothes.",
+            "The old house was shabbily kept.",
+            "The team treated the new player shabbily."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shabby",
     "say": "SHAB-ee",
     "forms": [
@@ -245,6 +270,35 @@
             "The elevator shaft was dark.",
             "The miners went down the shaft.",
             "A shaft of light came through the window."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shagbark",
+    "say": "SHAG-bark",
+    "emoji": "🌳",
+    "forms": [
+      "shagbarks"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A kind of hickory tree with bark that peels in long strips.",
+          "examples": [
+            "A shagbark has shaggy bark.",
+            "The shagbark is tall.",
+            "We found nuts under the shagbark."
+          ]
+        },
+        "more": {
+          "def": "A kind of hickory tree whose rough bark peels away in long, shaggy strips.",
+          "examples": [
+            "The shagbark has bark that peels in long strips.",
+            "Squirrels gathered nuts from under the shagbark.",
+            "A shagbark hickory tree grows tall."
           ]
         }
       }
@@ -658,6 +712,31 @@
     ]
   },
   {
+    "word": "shamefully",
+    "say": "SHAYM-ful-ee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a way that makes you feel bad or embarrassed.",
+          "examples": [
+            "He shamefully hid his face.",
+            "She shamefully lied.",
+            "They behaved shamefully."
+          ]
+        },
+        "more": {
+          "def": "In a way that is disgraceful or makes you feel very embarrassed.",
+          "examples": [
+            "He shamefully hid his face after the mistake.",
+            "The team played shamefully and lost badly.",
+            "She shamefully admitted she had not done her work."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shameless",
     "say": "SHAYM-lis",
     "senses": [
@@ -677,6 +756,31 @@
             "It was a shameless trick to take the biggest cookie.",
             "The shameless puppy stole my sandwich and wagged its tail.",
             "He was shameless about asking for seconds."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shamelessly",
+    "say": "SHAYM-less-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "Without feeling bad about it.",
+          "examples": [
+            "He shamelessly ate the last cookie.",
+            "She shamelessly begged for dessert.",
+            "They shamelessly cut in line."
+          ]
+        },
+        "more": {
+          "def": "Without any shame or embarrassment, even when you should feel bad.",
+          "examples": [
+            "He shamelessly ate the last cookie without asking.",
+            "The puppy shamelessly begged for food at the table.",
+            "She shamelessly showed off her new shoes."
           ]
         }
       }
@@ -1493,6 +1597,35 @@
     ]
   },
   {
+    "word": "sheepfold",
+    "say": "SHEEP-fohld",
+    "emoji": "🐑",
+    "forms": [
+      "sheepfolds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A pen where sheep are kept safe.",
+          "examples": [
+            "The sheep sleep in the sheepfold.",
+            "The farmer shut the sheepfold.",
+            "A fence goes around the sheepfold."
+          ]
+        },
+        "more": {
+          "def": "A fenced place where sheep are kept to keep them safe, especially at night.",
+          "examples": [
+            "At sunset the shepherd led the sheep into the sheepfold.",
+            "The sheepfold had a stone wall to keep out wolves.",
+            "One lamb wandered away from the sheepfold."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "sheepish",
     "say": "SHEE-pish",
     "senses": [
@@ -1802,6 +1935,60 @@
     ]
   },
   {
+    "word": "sheltered",
+    "say": "SHEL-terd",
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Safe from wind and rain.",
+          "examples": [
+            "The sheltered spot was dry.",
+            "A sheltered bay is calm.",
+            "The campsite is sheltered."
+          ]
+        },
+        "more": {
+          "def": "Protected from wind, rain or danger.",
+          "examples": [
+            "We found a sheltered spot under the trees.",
+            "The sheltered bay was calm and quiet.",
+            "The campsite was sheltered from the wind."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "sheltie",
+    "say": "SHEL-tee",
+    "emoji": "🐕",
+    "forms": [
+      "shelties"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A small dog with long fur that looks like a tiny collie.",
+          "examples": [
+            "A sheltie has long fur.",
+            "The sheltie barked.",
+            "Our friend has a sheltie."
+          ]
+        },
+        "more": {
+          "def": "A small herding dog with a long, silky coat that looks like a little collie. It is also called a Shetland sheepdog.",
+          "examples": [
+            "The sheltie herded the sheep across the field.",
+            "A sheltie has long, silky fur and a pointed nose.",
+            "The sheltie is a smart and friendly dog."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shelve",
     "say": "shelv",
     "forms": [
@@ -1911,6 +2098,32 @@
             "The shepherdess led the flock up the hill.",
             "A shepherdess carries a long crook.",
             "The shepherdess whistled to her dog."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shepherding",
+    "say": "SHEP-er-ding",
+    "emoji": "🐑",
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "The work of taking care of sheep.",
+          "examples": [
+            "Shepherding is hard work.",
+            "He learned shepherding from his father.",
+            "Shepherding takes patience."
+          ]
+        },
+        "more": {
+          "def": "The job of looking after sheep or leading a group of people or animals.",
+          "examples": [
+            "Shepherding means guiding sheep to grass and keeping them safe.",
+            "He learned shepherding from his grandfather.",
+            "Shepherding the children across the street took patience."
           ]
         }
       }
@@ -2126,6 +2339,35 @@
             "The shifty man looked over his shoulder.",
             "He had shifty eyes and would not look at us.",
             "The shifty fox looked left and right."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shiitake",
+    "say": "shee-TAH-kee",
+    "emoji": "🍄",
+    "forms": [
+      "shiitakes"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A brown mushroom with a broad, flat cap.",
+          "examples": [
+            "We cooked shiitake.",
+            "A shiitake is a mushroom.",
+            "The shiitake was brown."
+          ]
+        },
+        "more": {
+          "def": "A brown mushroom with a wide cap, often used in Asian cooking.",
+          "examples": [
+            "Mom cooked shiitake with rice.",
+            "A shiitake has a wide, brown cap.",
+            "The soup had slices of shiitake in it."
           ]
         }
       }
@@ -2644,6 +2886,35 @@
     ]
   },
   {
+    "word": "shipwright",
+    "say": "SHIP-ryt",
+    "emoji": "⚓",
+    "forms": [
+      "shipwrights"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A person who builds or fixes ships.",
+          "examples": [
+            "The shipwright built a boat.",
+            "A shipwright works with wood.",
+            "The shipwright fixed the ship."
+          ]
+        },
+        "more": {
+          "def": "A person who builds or repairs ships.",
+          "examples": [
+            "The shipwright cut and shaped the wood for the hull.",
+            "A shipwright works at a shipyard by the water.",
+            "The shipwright repaired the old ship."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shipyard",
     "say": "SHIP-yard",
     "forms": [
@@ -3063,6 +3334,35 @@
     ]
   },
   {
+    "word": "shoebill",
+    "say": "SHOO-bil",
+    "emoji": "🐦",
+    "forms": [
+      "shoebills"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A huge bird with a beak shaped like a shoe.",
+          "examples": [
+            "A shoebill has a huge beak.",
+            "The shoebill is tall.",
+            "We saw a shoebill at the zoo."
+          ]
+        },
+        "more": {
+          "def": "A tall African wading bird with a huge, shoe-shaped beak, which stands very still while it hunts fish.",
+          "examples": [
+            "The shoebill stood still in the water waiting for a fish.",
+            "A shoebill has a beak that looks like a big shoe.",
+            "Shoebills live in swamps in Africa."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shoehorn",
     "say": "SHOO-horn",
     "forms": [
@@ -3452,6 +3752,35 @@
             "The children collected shells along the shore.",
             "Our boat sailed slowly back to the shore.",
             "Waves rolled up onto the sandy shore."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shorebird",
+    "say": "SHOR-berd",
+    "emoji": "🐦",
+    "forms": [
+      "shorebirds"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A bird that lives and finds food along the edge of the sea.",
+          "examples": [
+            "A shorebird ran on the sand.",
+            "The shorebird ate small crabs.",
+            "The shorebird has long legs."
+          ]
+        },
+        "more": {
+          "def": "A bird with long legs and a thin beak that finds food along the shore, such as a sandpiper.",
+          "examples": [
+            "The shorebird ran along the edge of the waves.",
+            "A sandpiper is a kind of shorebird.",
+            "Shorebirds probe the sand for small creatures."
           ]
         }
       }
@@ -3915,6 +4244,35 @@
             "She took a shot and the ball went into the net.",
             "His last shot hit the rim of the basket.",
             "That was a great shot from far away."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shotput",
+    "say": "SHOT-puut",
+    "emoji": "🏅",
+    "forms": [
+      "shotputs"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "easy": {
+          "def": "A sport where you throw a heavy metal ball.",
+          "examples": [
+            "She competes in shotput.",
+            "The shotput is heavy.",
+            "Shotput takes strength."
+          ]
+        },
+        "more": {
+          "def": "A track-and-field event in which athletes push a heavy metal ball as far as they can, or the ball itself.",
+          "examples": [
+            "She competes in shotput at the track meet.",
+            "The shotput weighs more than a bowling ball.",
+            "The shotput landed in the dirt far from the line."
           ]
         }
       }
@@ -4603,6 +4961,31 @@
     ]
   },
   {
+    "word": "shrilly",
+    "say": "SHRIL-lee",
+    "senses": [
+      {
+        "pos": "adverb",
+        "easy": {
+          "def": "In a high, sharp sound.",
+          "examples": [
+            "The whistle blew shrilly.",
+            "The bird sang shrilly.",
+            "She screamed shrilly."
+          ]
+        },
+        "more": {
+          "def": "In a high, sharp, piercing way.",
+          "examples": [
+            "The whistle blew shrilly across the field.",
+            "The bird called shrilly from the treetop.",
+            "The alarm rang shrilly."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "word": "shrimp",
     "say": "shrimp",
     "emoji": "🍤",
@@ -4798,6 +5181,35 @@
             "The cat crept through the shrubbery.",
             "A neat line of shrubbery bordered the garden.",
             "Sparrows hopped in the shrubbery."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "word": "shrubby",
+    "say": "SHRUB-ee",
+    "forms": [
+      "shrubbier",
+      "shrubbiest"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "easy": {
+          "def": "Full of small bushes.",
+          "examples": [
+            "The shrubby hill was green.",
+            "A shrubby garden has many bushes.",
+            "The path was shrubby."
+          ]
+        },
+        "more": {
+          "def": "Covered with shrubs, or like a shrub in shape and size.",
+          "examples": [
+            "The shrubby hillside was covered with low green bushes.",
+            "A shrubby plant has many stems and no single trunk.",
+            "The path was shrubby, and we pushed through the leaves."
           ]
         }
       }
